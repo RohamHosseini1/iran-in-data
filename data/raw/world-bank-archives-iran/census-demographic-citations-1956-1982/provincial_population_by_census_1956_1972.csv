@@ -1,0 +1,25 @@
+row_num,province_or_governorate,pop_1956_census_thousands,pop_1966_census_thousands,pop_1967_thousands,pop_1968_thousands,pop_1969_thousands,pop_1970_thousands,pop_1971_thousands,pop_1972_thousands,note
+1,Total Country,18955,25789,26652,27488,28577,29280,30224,31207,"National total per this table; footnote in source states province totals do not sum to this because provincial estimates were made on a province-by-province projection basis independent of the national total"
+2,Central Province (Ostan-e Markazi -- includes Tehran),2717,4985,5204,5424,5658,5897,6151,6416,
+3,Gilan Province,1650,1294,1350,1565,1402,1459,1478,1518,"1956 figure (1650) appears to be a combined Gilan+Zanjan figure per source formatting (bracketed rows); treat 1956 column for rows 3-4 as joint, not fully disaggregated"
+4,Zanjan Province,1650,461,470,478,487,496,504,516,"See note on row 3 -- 1956 value shared/bracketed with Gilan in original table"
+5,Mazandaran Province,1684,1845,1927,2007,2094,2183,2277,2375,"1956 figure (1684) appears bracketed jointly with Semnan Governorate row below per source formatting"
+6,Semnan Governorate,208,208,210,213,215,218,221,224,"1956 value uncertain/shared per source bracket formatting -- see row 5 note"
+7,East Azerbaijan Province,2142,2656,2706,2776,2847,2921,2997,3074,
+8,West Azerbaijan Province,721,1087,1123,1158,1195,1255,1275,1314,
+9,Kermanshah Province,1577,819,845,870,897,925,954,985,"1956 figure (1577) appears bracketed jointly with Ilam Governorate row below"
+10,Ilam Governorate,1577,213,226,239,255,268,284,300,"See row 9 note -- 1956 value shared/bracketed with Kermanshah"
+11,Hamadan Province,,890,910,929,950,971,992,1014,"1956 census value not legible/not separately given in source OCR"
+12,Fars Province,1521,1585,1650,1715,1783,1854,1928,2004,
+13,Bushehr Province,1521,259,268,276,285,294,305,315,"1956 figure appears bracketed jointly with Fars per source formatting"
+14,Khuzestan Province,2069,1707,1759,1811,1866,1920,1978,2038,"1956 figure appears bracketed jointly with Lorestan row below"
+15,Lorestan Province,2069,767,798,828,861,894,929,965,"See row 14 note"
+16,Kohgiluyeh and Boyer Ahmadi Governorate,,191,196,202,208,214,221,228,"1956 census value not legible/not separately given in source OCR"
+17,Kerman Province,789,842,870,898,928,959,990,1025,
+18,"[OCR-uncertain province name -- transcribed by source as 'Saheli Province'; identity not independently verified; possibly a mis-OCR of a governorate name active in the 1966-1972 Iranian provincial structure]",789,350,361,371,382,394,405,418,"1956 figure appears bracketed jointly with Kerman (row 17); province name could not be confidently identified/verified -- flagged rather than guessed"
+19,Khorasan Province,2008,2521,2579,2657,2700,2760,2825,2889,
+20,Esfahan Province,1514,1444,1481,1518,1556,1595,1654,1676,"1956 figure appears bracketed jointly with Yazd Province row below"
+21,Yazd Province,1514,261,285,289,295,297,301,306,"See row 20 note"
+22,Chaharmahal and Bakhtiyari Province,,301,309,317,326,334,343,351,"1956 census value not legible/not separately given in source OCR"
+23,Kurdestan Province,555,620,634,648,664,679,694,710,
+24,Sistan and Baluchestan Province,428,503,511,519,527,535,544,553,

@@ -1,0 +1,31 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-iran",
+  "title": "USGS Minerals Yearbook — The Mineral Industry of Iran (Volume III, Area Reports: International), full narrative reports + tables-only data releases",
+  "source_org": "U.S. Geological Survey, National Minerals Information Center",
+  "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/iran",
+  "download_url": "https://pubs.usgs.gov/myb/vol3/{year}/myb3-{year}-iran.pdf (and .xlsx) — see files list for exact per-year URLs",
+  "retrieved_at_utc": "2026-07-12T19:26:55Z",
+  "retrieved_by": "agent:iran-industry-mining",
+  "files": [
+    {"name": "myb3-2016-iran.pdf", "original_name": null, "sha256": "92d6b5963085a2a628ba1a4469bfe52a09e94d784c868007529fbdfd4720aba6", "bytes": 373238, "download_url": "https://pubs.usgs.gov/myb/vol3/2016/myb3-2016-iran.pdf", "year": "2016", "type": "full narrative PDF report"},
+    {"name": "myb3-2017-18-iran.pdf", "original_name": null, "sha256": "8d57742fd33245a515bd5dcf37f25d9c47d74ed602cda3ba17a700b9fa7e9623", "bytes": 401930, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-iran.pdf", "year": "2017-18", "type": "full narrative PDF report"},
+    {"name": "myb3-2019-iran.pdf", "original_name": null, "sha256": "4150a27084409a8840baf7c76f0acf4c88975d185e6d12926247f35f19dca603", "bytes": 396010, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-iran.pdf", "year": "2019", "type": "full narrative PDF report"},
+    {"name": "myb3-2020-21-iran.pdf", "original_name": null, "sha256": "e1805c1081581769ff8627b19ec6b59a356b1699799acde888f6ce064cb8f0f1", "bytes": 439388, "download_url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-iran.pdf", "year": "2020-21", "type": "full narrative PDF report"},
+    {"name": "myb3-2022-iran.pdf", "original_name": null, "sha256": "4cf589dfc8669ae346607d69f86dcc6102482304737457b18cebe9052d09389a", "bytes": 466786, "download_url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-iran.pdf", "year": "2022", "type": "full narrative PDF report"},
+    {"name": "myb3-2023-iran.pdf", "original_name": null, "sha256": "4a54b22a2301cc3d3602d7eab1734c7b54bf6313de7d11befb184fefa8e87407", "bytes": 522897, "download_url": "https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-iran.pdf", "year": "2023", "type": "full narrative PDF report"},
+    {"name": "myb3-2016-ir.xls", "original_name": "myb3-2016-ir.xls", "sha256": "197a3283a37441ca6c0e4743b97b75f437c4d64072eb39ba0d3c91a843adb8ce", "bytes": 307712, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ir.xls", "year": "2016", "type": "tables-only release (legacy .xls format)"},
+    {"name": "myb3-2017-18-iran.xlsx", "original_name": null, "sha256": "498445cbebfa755b56266b2ff596d9728abc5d937b8018921012c47c5c32ab2d", "bytes": 121715, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-iran.xlsx", "year": "2017-18", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2019-iran.xlsx", "original_name": null, "sha256": "779f51522c366351f8001b470af52c15e214579e260131285f602d903db06f7b", "bytes": 128749, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-iran.xlsx", "year": "2019", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2020-21-iran.xlsx", "original_name": null, "sha256": "1d5cdec186858f362dc931cbd2c3048d5c4ca52760f4bbdc90bd887edde38429", "bytes": 148409, "download_url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-iran.xlsx", "year": "2020-21", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2022-iran.xlsx", "original_name": null, "sha256": "df74424fc4fbc6961046816abb686efb45810f2f9e0dda25b2ef9e98966c512d", "bytes": 141508, "download_url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-iran.xlsx", "year": "2022", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2023-iran.xlsx", "original_name": null, "sha256": "c3f5a8f07285e6f9f4a47dc1591e91844f38158d185a3b49618df2ddfbcfe94d", "bytes": 158437, "download_url": "https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-iran.xlsx", "year": "2023", "type": "tables-only release (XLSX)"}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2016, 2017-18, 2019, 2020-21, 2022, 2023 (USGS country page also lists PDF reports back to 1994 and tables back to 2002, not all downloaded here — see notes)",
+  "frequency": "annual (some years combined into biennial reports, e.g. 2017-18, 2020-21)",
+  "topics": ["mining", "minerals", "strontium", "iron ore", "direct-reduced iron", "gypsum", "feldspar", "barite", "cement", "copper", "steel", "IMIDRO", "mineral sector GDP share", "production rankings"],
+  "units": "metric tons / other units as described per-table in each file; narrative PDFs also discuss mineral-sector share of GDP (%)",
+  "license_terms": "U.S. Government public domain (USGS)",
+  "notes": "Found via https://www.usgs.gov/centers/national-minerals-information-center/iran, which lists 'Reports' (full narrative PDF) for every year 1994-2023 and 'Tables' (data tables XLS/XLSX) for every year 2002-2023. Downloaded the 6 most recent years for both Reports and Tables as instructed (2016, 2017-18, 2019, 2020-21, 2022, 2023) — all verified as genuine PDF/Excel files via `file`, none are bot-challenge pages. The 2016 tables file is served as legacy .xls (not .xlsx) — this is the actual USGS-hosted filename/format, kept as-is. Older years (1994-2015 reports, 2002-2015 tables) exist at stable predictable URLs on the same country page (see raw href list captured during this session) and could be pulled in a follow-up if a longer back-run is wanted; not downloaded now to stay within 'recent years' scope per task instructions. USGS page confirms government-side facts consistent with our other Iran sources: MIMT oversees the mineral sector (issuing permits, promoting investment) and IMIDRO controls most large-capacity state mineral companies — both are separately covered by other datasets in this agent's task list (mimt-iran, imidro-iran).",
+  "failures": []
+}

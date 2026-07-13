@@ -1,0 +1,23 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-historical-pre1990-international-volumes",
+  "title": "USGS/Bureau of Mines Minerals Yearbook Volume III/IV (Area Reports: International) -- Full Volumes, 1965, 1970, 1975, 1980",
+  "source_org": "US Bureau of Mines (predecessor of USGS National Minerals Information Center)",
+  "source_url": "https://archive.org (mirrored from University of Wisconsin Ecology and Natural Resources Digital Collection / USGS Publications Warehouse)",
+  "download_url": "https://archive.org/download/pub_usgov-minerals-yearbook_1965_4/Minerals_Yearbook_US_1965_v4.pdf ; https://archive.org/download/pub_usgov-minerals-yearbook_1970_3/Minerals_Yearbook_US_1970_v3.pdf ; https://archive.org/download/pub_usgov-minerals-yearbook_1975_3/Minerals_Yearbook_US_1975_v3.pdf ; https://archive.org/download/pub_usgov-minerals-yearbook_1980_3/Minerals_Yearbook_US_1980_v3.pdf",
+  "retrieved_at_utc": "2026-07-13T00:19:13Z",
+  "retrieved_by": "claude (direct curl download)",
+  "files": [
+    {"name": "Minerals_Yearbook_US_1965_v4.pdf", "original_name": "Minerals_Yearbook_US_1965_v4.pdf", "sha256": "62cd865f2c4a607028ca3ecc10d83cb59b28115977bbfad9733c6a432869cf27", "bytes": 56866588},
+    {"name": "Minerals_Yearbook_US_1970_v3.pdf", "original_name": "Minerals_Yearbook_US_1970_v3.pdf", "sha256": "9ebff01bd236cb4c51211a144d1a17b7288d1189222fee8e54647524cbe883eb", "bytes": 38835805},
+    {"name": "Minerals_Yearbook_US_1975_v3.pdf", "original_name": "Minerals_Yearbook_US_1975_v3.pdf", "sha256": "093e23ccdf3b264dc8929f8f27c07907d0589fe4303db50f3af3ed5bda643ec1", "bytes": 47127982},
+    {"name": "Minerals_Yearbook_US_1980_v3.pdf", "original_name": "Minerals_Yearbook_US_1980_v3.pdf", "sha256": "c72d60cb4e5053de2122ba8c078ffeca518a14a6bffc91d2cec236839112a3b6", "bytes": 52801791}
+  ],
+  "countries": ["IRN", "all countries covered by each volume -- includes ARG, TUR, SAU (as 'Kuwait and Saudi Arabia' combined chapter in some years), RUS/SUN (USSR), VEN, and most other world countries alphabetically"],
+  "time_coverage": "Volume publication years 1965, 1970, 1975, 1980 -- each volume's Iran chapter itself reports data for multiple prior years (see companion extraction dataset for exact year coverage per volume)",
+  "frequency": "annual publication, each containing 3-5 years of trailing production data per country chapter",
+  "topics": ["mining", "minerals", "copper", "chromite", "iron-ore", "steel", "lead", "zinc", "coal", "aluminum", "sarcheshmeh", "isfahan-steel-mill", "pahlavi-era", "comparator-countries"],
+  "units": "N/A (raw PDF volumes; see extraction dataset for unit-tagged data)",
+  "license_terms": "US Government publication -- public domain",
+  "notes": "THIS IS THE PRE-1990s USGS MINERALS YEARBOOK GAP FLAGGED IN A PRIOR ROUND'S NOTES (the existing usgs-minerals-yearbook/irn/ folder only had 2016-2023 editions; this closes that gap for Iran back to 1965). Each volume covers ALL countries alphabetically (full 'Area Reports: International' volume), so these 4 files are also a ready-made source for pre-1990s comparator-country mineral data (Argentina, Turkey, Saudi Arabia/Kuwait combined chapter, USSR, Venezuela chapters confirmed present in the 1970 volume's table of contents) -- not yet extracted for comparators in this round, flagged as a natural follow-up. Downloaded via archive.org mirrors of the University of Wisconsin Ecology and Natural Resources Digital Collection (the modern UW-Madison 'search.library.wisc.edu' front-end for this same collection renders as a JS-heavy IIIF-style page-image viewer that neither WebFetch nor the project's browser tool could reliably extract text/PDF from in this session -- archive.org's mirror, which hosts a proper flat searchable PDF plus OCR derivatives, was the working path). Individual country chapters were located within each large volume via `pdftotext -layout` full-volume extraction + grep for 'THE MINERAL INDUSTRY OF IRAN' running headers to find PDF page ranges (1965: PDF pp.1001-1012 / printed pp.995-1002; 1970: PDF pp.393-404 / printed pp.385-396; 1975: PDF pp.517-530 / printed pp.511-522; 1980: PDF pp.501-512 / printed pp.493-502). See companion dataset usgs-minerals-yearbook/historical-pre1990-volumes/iran-production-extraction/ for the transcribed Iran production tables and narrative highlights (Sar Cheshmeh copper mine, Aryamehr/Isfahan Steel Mill, etc.). Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": []
+}

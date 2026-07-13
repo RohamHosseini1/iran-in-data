@@ -1,0 +1,31 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-saudi-arabia",
+  "title": "USGS Minerals Yearbook — The Mineral Industry of Saudi Arabia (Volume III, Area Reports: International), comparator to Iran coverage",
+  "source_org": "U.S. Geological Survey, National Minerals Information Center",
+  "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/saudi-arabia",
+  "download_url": "https://pubs.usgs.gov/myb/vol3/{year}/myb3-{year}-saudi-arabia.pdf (and .xlsx) — see files list for exact per-year URLs",
+  "retrieved_at_utc": "2026-07-12T19:33:07Z",
+  "retrieved_by": "agent:iran-industry-mining",
+  "files": [
+    {"name": "myb3-2016-sa.pdf", "original_name": null, "sha256": "b1bd24b42c5e49b7979e16344daacc8b158cbbc0327d5b8eb1809c9367aecb3a", "bytes": 297998, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-sa.pdf", "year": "2016", "type": "full narrative PDF report"},
+    {"name": "myb3-2017-18-saudi-arabia.pdf", "original_name": null, "sha256": "7639e57574e58326a6a641c9da563b0421dd901b956f3e5ac755265bfb2c8008", "bytes": 326078, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-saudi-arabia.pdf", "year": "2017-18", "type": "full narrative PDF report"},
+    {"name": "myb3-2019-saudi-arabia.pdf", "original_name": null, "sha256": "4f95a575bb714beec20f69a7886492767e9447fff70160d6554511b32b36ec65", "bytes": 341309, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-saudi-arabia.pdf", "year": "2019", "type": "full narrative PDF report"},
+    {"name": "myb3-2020-21-saudi-arabia.pdf", "original_name": null, "sha256": "238ac1ecd54f03d74fa1f72e9ca773eb3a73dadc753aa46bceeda15856e0dd0f", "bytes": 357527, "download_url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-saudi-arabia.pdf", "year": "2020-21", "type": "full narrative PDF report"},
+    {"name": "myb3-2022-saudi-arabia.pdf", "original_name": null, "sha256": "d515d5fdab10a88a20aca8c916d0ac9b4be5eb83060b0c8904aa96151ad567aa", "bytes": 332543, "download_url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-saudi-arabia.pdf", "year": "2022", "type": "full narrative PDF report"},
+    {"name": "myb3-2023-saudi-arabia.pdf", "original_name": null, "sha256": "6baf7f17067786e5d98a7199f3b6a3b60ce7a5fda0a2e33eed1c2c2731db3ca6", "bytes": 373057, "download_url": "https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-saudi-arabia.pdf", "year": "2023", "type": "full narrative PDF report"},
+    {"name": "myb3-2016-sa.xls", "original_name": "myb3-2016-sa.xls", "sha256": "56553a6d2887ddcbcc05a0f8a3a8bcdba315b74e55793b19a251b7fca02186c9", "bytes": 201728, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-sa.xls", "year": "2016", "type": "tables-only release (legacy .xls format)"},
+    {"name": "myb3-2017-18-saudi-arabia.xlsx", "original_name": null, "sha256": "781ae02f3d427ea65f96bf4fa4f07b1e7c75ba2ac6bd68d180bf645392e08ff7", "bytes": 111751, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-saudi-arabia.xlsx", "year": "2017-18", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2019-saudi-arabia.xlsx", "original_name": null, "sha256": "8273bd3ed5d39dfd8f22b1972f486e09e5445c4cab9a71e6e65ea9b2627372e2", "bytes": 119000, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-saudi-arabia.xlsx", "year": "2019", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2020-21-saudi-arabia.xlsx", "original_name": null, "sha256": "2d47a49257fe0c736b4835258ab8a5bec4bdaa533b79c8cfc08e0fd1059b5e32", "bytes": 127233, "download_url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-saudi-arabia.xlsx", "year": "2020-21", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2022-saudi-arabia.xlsx", "original_name": null, "sha256": "4de96b150ec582a85c17b2a8bad071b664a59ae34523555834f751d1591e010d", "bytes": 120615, "download_url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-saudi-arabia.xlsx", "year": "2022", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2023-saudi-arabia.xlsx", "original_name": null, "sha256": "6acee5b7217b05f9303b8d067f23534dca9a2e1ef4a0a605814ccb77faee9cc2", "bytes": 120858, "download_url": "https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-saudi-arabia.xlsx", "year": "2023", "type": "tables-only release (XLSX)"}
+  ],
+  "countries": ["SAU"],
+  "time_coverage": "2016, 2017-18, 2019, 2020-21, 2022, 2023",
+  "frequency": "annual (some years combined into biennial reports)",
+  "topics": ["mining", "minerals", "phosphate", "gold", "bauxite", "aluminum", "steel"],
+  "units": "metric tons / other units as described per-table in each file",
+  "license_terms": "U.S. Government public domain (USGS)",
+  "notes": "Comparator dataset to usgs-minerals-yearbook/irn/ — same USGS Vol. III country-report program, same 6 recent years for direct comparability. Found via https://www.usgs.gov/centers/national-minerals-information-center/saudi-arabia. All files verified genuine PDF/Excel via `file`, no bot-challenge pages.",
+  "failures": []
+}

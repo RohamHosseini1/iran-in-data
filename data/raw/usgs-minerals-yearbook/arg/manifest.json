@@ -1,0 +1,28 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-argentina",
+  "title": "USGS Minerals Yearbook — The Mineral Industry of Argentina (Volume III, Area Reports: International), comparator to Iran coverage",
+  "source_org": "U.S. Geological Survey, National Minerals Information Center",
+  "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/south-america#arg",
+  "download_url": "https://pubs.usgs.gov/myb/vol3/{year}/myb3-{year}-argentina.pdf (and .xlsx) — see files list for exact per-year URLs",
+  "retrieved_at_utc": "2026-07-12T19:33:07Z",
+  "retrieved_by": "agent:iran-industry-mining",
+  "files": [
+    {"name": "myb3-2016-ar.pdf", "original_name": null, "sha256": "cb9734920478012d927b7c1ecc54ea4dd2920bd49e74935cfe2913f79878a2d0", "bytes": 291519, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ar.pdf", "year": "2016", "type": "full narrative PDF report"},
+    {"name": "myb3-2017-18-argentina.pdf", "original_name": null, "sha256": "366e655145dfc575c90588e19e1510e6281a1dc5df48028f9a4c243b7ef9d970", "bytes": 294426, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-argentina.pdf", "year": "2017-18", "type": "full narrative PDF report"},
+    {"name": "myb3-2019-argentina.pdf", "original_name": null, "sha256": "6f7cb31c23d3d7a743360d9951c6418814695998ed011d9a0513ba22a2014d30", "bytes": 288602, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-argentina.pdf", "year": "2019", "type": "full narrative PDF report"},
+    {"name": "myb3-2016-ar.xlsx", "original_name": null, "sha256": "1e2efa760b012e57bce938c4aeb8f024036a632d9d9951d415a85d19130fa38f", "bytes": 128796, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-ar.xlsx", "year": "2016", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2017-18-argentina.xlsx", "original_name": null, "sha256": "dbf353a65f6355ee8c4188c798139acc29ce6c966f8d2cc1c424ea0b7365723e", "bytes": 109258, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-argentina.xlsx", "year": "2017-18", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2019-argentina.xlsx", "original_name": null, "sha256": "8ef0843ed4824fc5af174d0a9f1dbbdd3d050023ebea693d8ee591ffa3746531", "bytes": 109801, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-argentina.xlsx", "year": "2019", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2020-21-Argentina-ert.xlsx", "original_name": "myb3-2020-21-Argentina-ert.xlsx", "sha256": "787c40d76752c070505e7595ae879cd54fd237f2efe5ea5861c148ef6d98bd54", "bytes": 61961, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Argentina-ert.xlsx", "year": "2020-21", "type": "tables-only advance-release (XLSX, no full narrative PDF published)"}
+  ],
+  "countries": ["ARG"],
+  "time_coverage": "2016, 2017-18, 2019, 2020-21 (tables only) — no 2022 or 2023",
+  "frequency": "annual (some years combined into biennial reports)",
+  "topics": ["mining", "minerals", "lithium", "copper", "gold", "silver", "boron"],
+  "units": "metric tons / other units as described per-table in each file",
+  "license_terms": "U.S. Government public domain (USGS)",
+  "notes": "Comparator dataset to usgs-minerals-yearbook/irn/, and directly complementary to this project's existing Argentina fleet (indec-argentina, bcra-argentina, argentina-ministry-economy, argentina-inflation-reconstruction — see SOURCES.md Round 26). Argentina's USGS coverage is the thinnest of the 5 comparators: no full narrative PDF report after 2019, and only a 2020-21 tables-only advance release exists after that — no 2022 or 2023 data of any kind found on the official page (https://www.usgs.gov/centers/national-minerals-information-center/south-america#arg). Argentina is notably home to the world's 3rd-largest lithium reserves per USGS overview text, making the 2016-2019 lithium exploration-budget tables in these files particularly relevant. All files verified genuine PDF/Excel via `file`.",
+  "failures": [
+    {"attempted": "myb3-2022-argentina.pdf / .xlsx and myb3-2023-argentina.pdf / .xlsx", "reason": "not published by USGS — absent from official country page link list; most recent available data is the 2020-21 tables-only advance release"}
+  ]
+}

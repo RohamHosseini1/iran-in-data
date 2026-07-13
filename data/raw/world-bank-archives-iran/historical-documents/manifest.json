@@ -1,0 +1,411 @@
+{
+  "dataset_id": "wb-iran-historical-documents-1960s-1970s",
+  "title": "World Bank Archives — Iran Country Economic Memoranda, Sector Reports, Project Appraisal & Completion Reports (1950-1978)",
+  "source_org": "World Bank (IBRD) — Documents & Reports / World Bank Group Archives",
+  "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API) ; landing pages at https://documents.worldbank.org/en/publication/documents-reports",
+  "download_url": "http://documents.worldbank.org/curated/en/{entityid}/pdf/{filename}.pdf",
+  "retrieved_at_utc": "2026-07-12T22:58:00Z",
+  "retrieved_by": "agent:wb-archives-deep-search",
+  "files": [
+    {
+      "name": "1950_present_economic_situation_creditworthiness.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "f4a3634c41aaa0ea3af19b2890185d5415f977041af29cc0257bd4cb6f96604a",
+      "bytes": 3097526,
+      "title": "Iran - Present economic situation and creditworthiness of Iran",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1950-07-21"
+    },
+    {
+      "name": "1957_economic_development.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "9861b790ac7c886f365623a52c932667fd29198d1a0defdc5ceb6370ceb94ec4",
+      "bytes": 3121293,
+      "title": "Iran - Economic development",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1957-01-31"
+    },
+    {
+      "name": "1958_economic_situation_and_prospects.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "8c3efed738508ea5823a668ab817b5009c671c6f94b6835baaa7d5c0f0cb241e",
+      "bytes": 3877738,
+      "title": "Iran - Economic situation and prospects",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1958-07-31"
+    },
+    {
+      "name": "1960_estimated_service_external_public_debt.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "d8cbcaffea8ac96d10cdae5871586bcf49e4fd2696a657fa1e9f210130c93b85",
+      "bytes": 392763,
+      "title": "Iran - Estimated service on external public debt based on principal amounts as of June 30, 1959, with major additions to December 31, 1959",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1960-02-12"
+    },
+    {
+      "name": "1960_current_economic_position_and_prospects.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "cc7134ef59d717328838d703aacbfc0737d294b862739c4a163a48b36e5b85ee",
+      "bytes": 2511135,
+      "title": "Iran - Current economic position and prospects",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1960-02-29"
+    },
+    {
+      "name": "1960_dez_multipurpose_project_appraisal.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "99631a57b0cebc4daeffac5c2f330551d971aa16bfbf1d264f243fe73be4f945",
+      "bytes": 5150647,
+      "title": "Iran - Dez Multipurpose Project (Staff Appraisal Report)",
+      "document_type": "Staff Appraisal Report",
+      "document_date": "1960-02-29"
+    },
+    {
+      "name": "1962_economic_development_program.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "73ef1d6937030c496aa506fb6b80104b09934ed1661d34c0cebb0795d186289f",
+      "bytes": 10223096,
+      "title": "Iran - The economic development program",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1962-04-17"
+    },
+    {
+      "name": "1963_economic_development_program_vol1.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "e8b4d7ca67a32dffc5bd329efff06d433e081212e495244b59175471c63092f1",
+      "bytes": 7709136,
+      "title": "Iran - The economic development program (Vol. 1 of 2)",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1963-04-17"
+    },
+    {
+      "name": "1964_recent_economic_developments_third_plan.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "2cdb11f018f718c29bc82d02e595b24aa4338a964808dd91ac2a6a8c13cb553d",
+      "bytes": 2361210,
+      "title": "Iran - Recent economic developments and progress of the third plan",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1964-02-29"
+    },
+    {
+      "name": "1965_03_current_economic_position_and_prospects.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "3f4dcbaa531ba9e6533e28ae15f4dbff97e36d3c7689c8d5c2f6b0e8fc87836a",
+      "bytes": 3346323,
+      "title": "Iran - Current economic position and prospects (March 1965)",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1965-03-31"
+    },
+    {
+      "name": "1965_12_current_economic_position_and_prospects.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "b5d1e0cf11efbfba0796da3d822d01d360abeb8ca1a53ecf39b5787384474d0b",
+      "bytes": 4540310,
+      "title": "Iran - Current economic position and prospects (December 1965)",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1965-12-31"
+    },
+    {
+      "name": "1967_world_bank_group_in_iran.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "ccbb3eddb4fbb50b302a255661d48e713c0ceb097571b6aa78b982832c0017e2",
+      "bytes": 6352949,
+      "title": "The World Bank Group in Iran",
+      "document_type": "Working Paper",
+      "document_date": "1967-01-01"
+    },
+    {
+      "name": "1967_current_economic_position_and_prospects.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "ce87fad0669ab77bd85afc2eb556bc560f559b1e509a0cacbcbf218292ff3016",
+      "bytes": 7621878,
+      "title": "Iran - Current economic position and prospects",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1967-03-31"
+    },
+    {
+      "name": "1967_ghazwin_development_project_appraisal.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "036e62df715d0b224a5106540679406bbd8791291d132a2e706d367e07c72698",
+      "bytes": 2885048,
+      "title": "Iran - Ghazwin (Qazvin) Development Project (Staff Appraisal Report)",
+      "document_type": "Staff Appraisal Report",
+      "document_date": "1967-08-31"
+    },
+    {
+      "name": "1969_fourth_plan_economic_prospects_vol1_overall.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "5e12af42456b0b635e030b36cdacc0ceed3365c47a7eabb4dc44200a13bac110",
+      "bytes": 4163734,
+      "title": "Iran - Fourth development plan and economic prospects (Vol. 1 of 2): Overall view",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1969-02-25"
+    },
+    {
+      "name": "1969_fourth_plan_economic_prospects_vol2_agriculture.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "3fb185518baf693b99b356582ba90a769425489d8c43d728d0ab3964989921cc",
+      "bytes": 4778258,
+      "title": "Iran - Fourth development plan and economic prospects (Vol. 2 of 2): Agriculture",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1969-02-25"
+    },
+    {
+      "name": "1969_economic_situation_and_prospects.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "c231a3fb7c6dd4ddd54d6e7d2bfedf40da39dd58603aa3f7b959ee2c73f7afc1",
+      "bytes": 3386402,
+      "title": "Iran - Economic situation and prospects",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1969-12-31"
+    },
+    {
+      "name": "1970_industrialization_record_problems_prospects.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "39f1fefd5a9ae0d8fa5d85b9b1a78d18c709dfe7e87aed04107bd485ebda3a34",
+      "bytes": 2622676,
+      "title": "Iran - Industrialization: record, problems and prospects",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1970-05-31"
+    },
+    {
+      "name": "1970_internal_resource_mobilization.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "4b38931fa802a094d294b72e3f4b5aed69c10845bbda68b14add4a92e3217c01",
+      "bytes": 3908685,
+      "title": "Iran - Aspects of the problem of internal resource mobilization in Iran",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1970-08-31"
+    },
+    {
+      "name": "1971_petroleum_sector.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "a285bbaf4353880295d25330192ec7485058932fc15efe0aa99a4276f86213ed",
+      "bytes": 4553790,
+      "title": "Iran - The petroleum sector (Economic Development of Iran study series)",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1971-05-18"
+    },
+    {
+      "name": "1971_cep_vol1_main_report.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "83daffedb74067fc29949f7257029d8f7824ab94251e87dc3ffefc89dba16ac6",
+      "bytes": 4120944,
+      "title": "Iran - Current economic position and prospects (Vol. 1 of 7): The main report",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1971-05-18"
+    },
+    {
+      "name": "1971_cep_vol6_government_investment_fourth_plan.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "5db02262fc1a869e8bc885ba3624bf6ec4d9c7d7ff69f47326af4f652a1082ae",
+      "bytes": 4871362,
+      "title": "Iran - Current economic position and prospects (Vol. 6 of 7): Government investment in the fourth plan (1968-72)",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1971-05-18"
+    },
+    {
+      "name": "1971_cep_vol7_statistical_annex.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "a5be5eba01b23730bda2a206ad9f4d593aecc007768e8afe63afda90b5934f51",
+      "bytes": 2916908,
+      "title": "Iran - Current economic position and prospects (Vol. 7 of 7): Statistical annex",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1971-05-18"
+    },
+    {
+      "name": "1971_foreign_trade_balance_of_payments.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "1023a9519c3a000f5eabe6cf353dd6a6f94d9699d018d9aae846493abbb02d0c",
+      "bytes": 1171047,
+      "title": "Iran - Foreign trade and balance of payments (Economic Development of Iran study series)",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1971-05-19"
+    },
+    {
+      "name": "1971_cep_vol3_population_employment_family_planning.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "81ce299720c1a4e35eb261c1c2e907b2b2b1283bfd122d77feed4d1d73d7c315",
+      "bytes": 1760893,
+      "title": "Iran - Current economic position and prospects (Vol. 3 of 7): Population, employment, and family planning",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1971-05-31"
+    },
+    {
+      "name": "1971_cep_vol5_domestic_resource_mobilization.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "d67a27298d5f50796ca3ff5181d4733bc99350b64ed7b425f1d033ae02dcb4d7",
+      "bytes": 2574497,
+      "title": "Iran - Current economic position and prospects (Vol. 5 of 7): Domestic resource mobilization",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1971-07-20"
+    },
+    {
+      "name": "1972_industrial_policies_and_priorities.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "e45d0efea6da61f3fec0e341076f2da5d98cc3bbdc86714548911126e213675c",
+      "bytes": 7716730,
+      "title": "Iran - Industrial policies and priorities",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1972-03-31"
+    },
+    {
+      "name": "1972_program_of_preinvestment_studies.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "1c4435471fd82af3ca0586b35009e965ede8f5acc29e1ddd4b57a245511fd714",
+      "bytes": 12166891,
+      "title": "Iran - Program of preinvestment studies",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1972-04-30"
+    },
+    {
+      "name": "1973_current_economic_development.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "825c9e55eaa6d703efb6501d1ad70bf6048e7ad4a5113e75ea5fab95e60b1df4",
+      "bytes": 1512804,
+      "title": "Iran - Current economic development",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1973-03-31"
+    },
+    {
+      "name": "1974_economic_development_vol1_main_report.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "6dfeef634de2588a7966e3494f844f559f609ea80a7621fd4cd64f112f81ece7",
+      "bytes": 7396334,
+      "title": "Iran - Economic Development (Vol. 1 of 4): The main report",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1974-06-04"
+    },
+    {
+      "name": "1974_economic_development_vol2_sectoral_analyses_part1.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "95963d10ffe1fbd67f1da6856b7e640d704c3d36990bf8e72f068a9f8dc66374",
+      "bytes": 9537532,
+      "title": "Iran - Economic Development (Vol. 2 of 4): Volume II (Part I) - Sectoral Analyses",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1974-10-04"
+    },
+    {
+      "name": "1974_economic_development_vol3_sectoral_analyses_part2.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "a2a72fc690067c0a151c3f3613cea88c9b946c33cc81ff3ef90ebf59e13daef0",
+      "bytes": 9299702,
+      "title": "Iran - Economic Development (Vol. 3 of 4): Volume II (Part II) - Sectoral Analyses",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1974-10-04"
+    },
+    {
+      "name": "1974_economic_development_vol4_statistical_appendix.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "3668934312f140cbe0ff8bbef0cdeed977c48a80dfb659851840e6bb481e1273",
+      "bytes": 5630216,
+      "title": "Iran - Economic Development (Vol. 4 of 4): Statistical appendix (internally titled Volume III: Statistical Appendix)",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1974-10-14"
+    },
+    {
+      "name": "1975_water_supply_sewerage_vol1.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "e8b2ec3ad66ab50ff73b3e8a5eb7baa180e80a8598dd4498dd5a3a9c7c294fc4",
+      "bytes": 3764217,
+      "title": "Iran - Water supply and sewerage sector report (Vol. 1 of 2): National sector situation and planning",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1975-01-29"
+    },
+    {
+      "name": "1975_water_supply_sewerage_vol2_annexes.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "c04bc794fe8755300ad079ff8e8523f30dbfff74d6399d4f051fac58c035cc72",
+      "bytes": 6374602,
+      "title": "Iran - Water supply and sewerage sector report (Vol. 2 of 2): Annexes",
+      "document_type": "Pre-2003 Economic or Sector Report",
+      "document_date": "1975-01-29"
+    },
+    {
+      "name": "1976_country_economic_memorandum.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "07e6c4fe0b2e69ae1bbcfbf9f0d8fd2ba7b1f5e8ae23f5cfc5656b09bdc03f31",
+      "bytes": 1772736,
+      "title": "Iran - Country economic memorandum",
+      "document_type": "Country Economic Memorandum",
+      "document_date": "1976-05-31"
+    },
+    {
+      "name": "1977_country_economic_memorandum.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "a95c7642dde1293a6d74c55b1adbf67f283fc4355e24510d9d8e4098e09135a9",
+      "bytes": 1014474,
+      "title": "Iran - Country economic memorandum",
+      "document_type": "Country Economic Memorandum",
+      "document_date": "1977-08-01"
+    },
+    {
+      "name": "1977_statistical_analysis_dynamics_economic_growth_1959_1973.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf / other WDS-assigned generic filename (see download_url)",
+      "sha256": "35adcd94038c84803db04f87fb4f75cb3a325c856feb1055af39a3c06e338b47",
+      "bytes": 2994909,
+      "title": "A statistical analysis of the dynamics of economic growth in Iran: 1959-1973",
+      "document_type": "Working Paper (Numbered Series)",
+      "document_date": "1977-12-31"
+    },
+    {
+      "name": "1978_ghazwin_development_project_completion.pdf",
+      "original_name": "multi0page.pdf / multi-page.pdf (World Bank Documents & Reports generic filename)",
+      "sha256": "26d13bffcd6d3b37fa0480ed6ae053b4fb581ba80685e9523e2b45b5b82d15d6",
+      "bytes": 2713091,
+      "title": "Iran - Ghazwin (Qazvin) Development Project (Project Performance Assessment Report)",
+      "document_type": "Project Performance Assessment Report",
+      "document_date": "1978-01-31"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1950-1978 (Iran was an active IBRD borrower throughout this period, pre-1979 revolution)",
+  "frequency": "near-annual/biennial recurring series of Bank economic missions (Pre-2003 Economic or Sector Report / Country Economic Memorandum doctypes) plus one-off project and working-paper documents",
+  "topics": [
+    "economic history",
+    "development planning",
+    "IBRD lending",
+    "irrigation",
+    "hydropower",
+    "industrialization",
+    "petroleum sector",
+    "foreign trade",
+    "balance of payments",
+    "project appraisal",
+    "project completion",
+    "fiscal",
+    "budget",
+    "taxation",
+    "resource-mobilization",
+    "banking",
+    "money-supply",
+    "statistical-annex",
+    "statistical-appendix",
+    "government-investment",
+    "public-expenditure",
+    "external-debt",
+    "debt-service",
+    "population",
+    "employment",
+    "family-planning",
+    "water-supply",
+    "sewerage",
+    "preinvestment",
+    "lending-history",
+    "growth-analysis",
+    "time-series",
+    "creditworthiness",
+    "fifth plan",
+    "second plan",
+    "third plan",
+    "fourth plan",
+    "oil-boom"
+  ],
+  "units": "narrative + tables, mixed units (Iranian Rial, US$, physical quantities) as described within each document",
+  "license_terms": "World Bank Group Archives / Documents & Reports — public disclosure (most originally marked RESTRICTED at time of writing, now declassified and publicly disclosed per World Bank Access to Information Policy)",
+  "notes": "Used the World Bank Documents & Reports search API directly (https://search.worldbank.org/api/v3/wds, JSON, no key required) rather than the openknowledge.worldbank.org or documents.worldbank.org web UIs (both JS-heavy and slower to script against) — queried qterm=Iran, countrycode_exact=IR, strdate=1960-01-01, enddate=1979-12-31, which returned 192 total documents; used the fct=docty_exact facet to see the doctype breakdown (Staff Appraisal Report: 32, Pre-2003 Economic or Sector Report: 32, Project Performance Assessment Report: 10, plus Loan/Guarantee/Project Agreements, Memoranda, etc.). Each document record includes a direct 'pdfurl' field pointing at documents.worldbank.org/curated/en/ — fetched those directly with curl (no auth, no bot-blocking encountered; contrast with cbi.ir/pmo.ir/centinsur.ir in this same session, all of which blocked or were unreachable). Selected 8 of the most substantive documents for a mix of macro country-economic-memorandum coverage and project-level detail: (1) three broad 'current economic position/prospects'-style CEMs spanning 1960/1962/1970 tracing Iran's development-planning era from the Second through early Fifth Plan; (2) two volumes from the landmark 1971 multi-volume 'Economic Development of Iran' sectoral study (petroleum sector; foreign trade & balance of payments) — Bank record search shows this study had many more volumes (statistical annex, domestic resource mobilization, population/employment, government investment in the fourth plan, overall main report) not pulled in this pass, listed in SOURCES.md-worthy follow-up; (3) an appraisal-vs-completion pair for the same project (Ghazwin/Qazvin Development Project: appraised 1967, performance-assessed 1978) to illustrate ex-ante vs ex-post project economics; (4) the Dez Multipurpose Project appraisal (1960), one of Iran's earliest and largest Bank-financed dam/irrigation/hydropower projects. All 8 verified as genuine scanned World Bank documents via `file` (PDF document) and pdftotext/pdfinfo (correct page counts 21-157 pages; OCR text shows characteristic World Bank archival markings 'Public Disclosure Authorized' and original 'RESTRICTED' classification stamps, confirming authenticity, not placeholder/error pages). Total download ~32MB, well under the 500MB size-discipline limit. Server assigns a generic filename (multi0page.pdf / multi-page.pdf) to nearly every document regardless of content, so files were renamed at download time to descriptive slugs per bookkeeping rule 2; the generic original name is preserved in files[].original_name (same for all 8, so not fully distinguishing, but that reflects the World Bank server's own naming convention, not a data loss). || DEEP-SEARCH FOLLOW-UP (2026-07-12, agent:wb-archives-deep-search): re-queried the same WDS API (https://search.worldbank.org/api/v3/wds?format=json&qterm=Iran&countrycode_exact=IR&strdate=1950-01-01&enddate=1980-12-31&rows=300) which returned 219 total Iran documents 1950-1980 (broadened window vs the original 1960-1979 query, which is why the total differs from the 192 cited above). Faceted by docty_exact: Announcement 45, Pre-2003 Economic or Sector Report 35, Staff Appraisal Report 33, Memorandum & Recommendation of the President 31, Loan Agreement 23, Project Performance Assessment Report 13, Guarantee Agreement 10, Project Agreement 8, Working Paper 4, Working Paper (Numbered Series) 3, plus small counts of Agenda/Board Report/Agreement/Correspondence/Credit Agreement/Transcript/Journal Article/Minutes. Filtered the 'Pre-2003 Economic or Sector Report' + 'Country Economic Memorandum' doctypes (37 total, confirming the Bank ran a near-annual/biennial country economic mission to Iran across this period as hypothesized) and cross-checked against the 8 files already on disk to find NET-NEW documents. Found and downloaded 31 new documents, filling nearly every year gap 1950-1977 and recovering all remaining volumes of two landmark multi-volume studies that were only partially downloaded in the prior pass: the 1971 'Current economic position and prospects' 7-volume study (previously had Vol 2 petroleum, Vol 4 foreign trade/BOP; now added Vol 1 main report, Vol 3 population/employment/family planning, Vol 5 domestic resource mobilization, Vol 6 government investment in the fourth plan, and critically Vol 7 the statistical annex) and the 1974 'Economic Development of Iran' 4-volume study (Vol 1 main report, Vol 2 & Vol 3 sectoral analyses, Vol 4 statistical appendix — internally titled 'Volume III: Statistical Appendix' inside the PDF itself, a Bank internal numbering inconsistency vs the WDS 'Vol 4 of 4' label, noted here so it is not mistaken for a mismatch/error). Also added the two standalone 'Country Economic Memorandum' doctype documents (1976, 1977), the 1963 companion volume to the already-held 1962 'economic development program' (Vol 1 of 2; the 1962 file on disk is actually Vol 2 of 2 per its download_url 797511468044354460 matching the WDS record precisely — a mislabel from the original pass now corrected by this note, since the filename itself was not renamed per the immutability rule), the two-volume 1975 water supply & sewerage sector report, the 1970 'aspects of the problem of internal resource mobilization' report and its 1971 companion volume (both explicitly fiscal/tax/savings-mobilization focused), a 1960 Iran-specific external public debt service schedule, an 1950 pre-nationalization creditworthiness assessment (earliest Iran document in the Bank's WDS corpus), a 1967 'World Bank Group in Iran' portfolio overview working paper, and a 1977 numbered working paper doing a statistical time-series analysis of Iran's 1959-1973 growth dynamics. Excluded from this pass: 3 multi-country external-public-debt-service compilation documents (1960-07-22, 1961-12-22, 1967-05-31) where Iran is one row among 10-20+ countries in a shared schedule — low data density per document and already substantially covered by the Iran-specific debt documents on hand; the 33 'Staff Appraisal Report' / 13 'Project Performance Assessment Report' project-level documents beyond the Dez/Ghazwin pair already held (mostly serial Industrial and Mining Development Bank of Iran (IMDBI) development-finance-intermediary loan appraisals — project-level, not macro budget/money data, deprioritized per this session's focus); and the 45 'Announcement' / 31 'Memorandum & Recommendation of the President' / 23 'Loan Agreement' / 10 'Guarantee Agreement' / 8 'Project Agreement' legal/administrative doctypes (no statistical content). All 31 new files verified as genuine (not error/placeholder pages) via `file`, `pdfinfo` (page counts 12-214, all plausible for the stated doctype/length) and `pdftotext` spot-checks showing the characteristic World Bank archival markings ('Public Disclosure Authorized', 'RESTRICTED', 'CONFIDENTIAL' stamps, IBRD/IDA letterhead); note the 1976 CEM (1976_country_economic_memorandum.pdf) is a pure image-scan PDF (Producer: Image2PDF, no embedded text layer) so pdftotext returns empty — confirmed genuine via pdfinfo page count (47) and visual inspection instead. Total new download ~137MB (cumulative dataset now ~172MB), well under the 500MB size-discipline limit. Remaining year gaps in the Pre-2003 Economic/CEM series after this pass: 1951-1956 (no economic report found in WDS for these years — the record jumps from 1950 to 1957), 1959 (jumps 1958 to 1960), 1961 (jumps 1960 to 1962/1963), 1966 (jumps 1965 to 1967), 1968 (jumps 1967 to 1969), 1978-1979 (last Pre-2003 Economic/CEM-doctype document found is 1977; only the Ghazwin project completion report and presumably declining Bank engagement cover 1978-1979 as the revolution approached).",
+  "failures": []
+}

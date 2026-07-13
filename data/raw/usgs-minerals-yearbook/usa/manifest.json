@@ -1,0 +1,22 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-usa-mcs",
+  "title": "USGS Mineral Commodity Summaries (annual) — United States, substitute for the Vol. III per-country report (which does not exist for the domestic USA)",
+  "source_org": "U.S. Geological Survey, National Minerals Information Center",
+  "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries",
+  "download_url": "https://pubs.usgs.gov/periodicals/mcs{year}/mcs{year}.pdf",
+  "retrieved_at_utc": "2026-07-12T19:33:07Z",
+  "retrieved_by": "agent:iran-industry-mining",
+  "files": [
+    {"name": "mcs2022.pdf", "original_name": null, "sha256": "9d0bc40407a5e9766e25ad8615a844f4aae435263b2b1eff803282e09eb37223", "bytes": 15140413, "download_url": "https://pubs.usgs.gov/periodicals/mcs2022/mcs2022.pdf", "year": "2022"},
+    {"name": "mcs2023.pdf", "original_name": null, "sha256": "f02c82335ee535b6ee837f91fdcdfd844a92b97dd7251910de2f560881a16c7c", "bytes": 12109298, "download_url": "https://pubs.usgs.gov/periodicals/mcs2023/mcs2023.pdf", "year": "2023"},
+    {"name": "mcs2024.pdf", "original_name": null, "sha256": "a4da4050fc9a63a98538960a531d93c6b758c689f01d66a09a49796f58a5a562", "bytes": 14712199, "download_url": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024.pdf", "year": "2024"}
+  ],
+  "countries": ["USA"],
+  "time_coverage": "2022, 2023, 2024 (data years published Jan of following year)",
+  "frequency": "annual",
+  "topics": ["mining", "minerals", "critical minerals", "domestic production", "world production", "import reliance"],
+  "units": "metric tons / other units per commodity as described per-table in each file",
+  "license_terms": "U.S. Government public domain (USGS)",
+  "notes": "IMPORTANT STRUCTURAL NOTE: the task asked for the USA equivalent of the Vol. III 'myb3-{year}-{country-slug}.pdf' per-country report pattern used for Iran/Saudi Arabia/Turkey/Russia/Argentina, but confirmed via https://www.usgs.gov/centers/national-minerals-information-center/international-minerals-statistics-and-information that the United States is NOT listed in the international A-Z country index at all (that program covers ~150 countries other than the US) and https://pubs.usgs.gov/myb/vol1/2022/ confirms domestic US mineral data is instead published as USGS Minerals Yearbook VOLUME I ('Metals and Minerals'), organized as ~90 separate single-commodity chapters (e.g. myb1-2022-copper.pdf, myb1-2022-lithium.pdf) rather than one consolidated country report — downloading all ~90 chapters per year was out of scope. Substituted with the annual Mineral Commodity Summaries (MCS), USGS's single flagship yearly document that DOES cover the whole US mineral industry (all ~90 commodities, domestic + world production/reserves context) in one PDF, functionally the closest single-document analog to what Vol. III gives other countries. Downloaded the 3 most recent years (2022-2024) for rough era-comparability with the other countries' 2022/2023 files. All confirmed genuine PDF via `file`, well under the 500MB size cap (each ~12-15MB, larger than other countries' files because MCS covers all commodities at once rather than per-country subset).",
+  "failures": []
+}

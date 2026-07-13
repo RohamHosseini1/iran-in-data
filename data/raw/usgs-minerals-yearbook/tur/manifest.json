@@ -1,0 +1,29 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-turkey",
+  "title": "USGS Minerals Yearbook — The Mineral Industry of Turkey (Volume III, Area Reports: International), comparator to Iran coverage",
+  "source_org": "U.S. Geological Survey, National Minerals Information Center",
+  "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/turkey",
+  "download_url": "https://pubs.usgs.gov/myb/vol3/{year}/myb3-{year}-turkey.pdf (and .xlsx) — see files list for exact per-year URLs",
+  "retrieved_at_utc": "2026-07-12T19:33:07Z",
+  "retrieved_by": "agent:iran-industry-mining",
+  "files": [
+    {"name": "myb3-2016-tu.pdf", "original_name": null, "sha256": "bde8170e19cef9d9003e451c75d20723343b4e83609a12f50a66450fcd604b14", "bytes": 349589, "download_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-tu.pdf", "year": "2016", "type": "full narrative PDF report"},
+    {"name": "myb3-2017-18-turkey.pdf", "original_name": null, "sha256": "d9d61a591012de3d3e42eb314b2ed81daa32f4c281314aca445718f9d44b36f9", "bytes": 463118, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-turkey.pdf", "year": "2017-18", "type": "full narrative PDF report"},
+    {"name": "myb3-2019-turkey.pdf", "original_name": null, "sha256": "5f6c5b60c9e9b6b20dd89f1eec1c6d07aa9a24a22f4dbe7e11e92a453429e292", "bytes": 445829, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-turkey.pdf", "year": "2019", "type": "full narrative PDF report"},
+    {"name": "myb3-2016-tu.xlsx", "original_name": null, "sha256": "cde1b20b7ba5f5f28c49313c0dfeeed7471e46edc252f50647a6a90c3b79d9a7", "bytes": 149835, "download_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-tu.xlsx", "year": "2016", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2017-18-turkey.xlsx", "original_name": null, "sha256": "a53ad1cf5193a7d2728a7317cdba3c8f22536212f416e61e0ab96a654b9f83bf", "bytes": 149980, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-turkey.xlsx", "year": "2017-18", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2019-turkey.xlsx", "original_name": null, "sha256": "c8c2a3557f5fe255771b0d40192c88c4d305433d70f7bdad5ac643800f3fdd88", "bytes": 147176, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-turkey.xlsx", "year": "2019", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2020-21-Turkey-advrel.xlsx", "original_name": "myb3-2020-21-Turkey-advrel.xlsx", "sha256": "eb23b2910b0a58eacc007138e0d9ea38172e63f292cbc5610765c795858c1a59", "bytes": 68044, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2020-21-Turkey-advrel.xlsx", "year": "2020-21", "type": "tables-only advance-release (XLSX, no full narrative PDF published)"},
+    {"name": "myb3-2022-Turkey-ert.xlsx", "original_name": "myb3-2022-Turkey-ert.xlsx", "sha256": "251e8abca096d4aa1498b983d11eafb74d88ed646af923482bdd6bb73a4c722a", "bytes": 67152, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb3-2022-Turkey-ert.xlsx", "year": "2022", "type": "tables-only advance-release (XLSX, no full narrative PDF published)"}
+  ],
+  "countries": ["TUR"],
+  "time_coverage": "2016, 2017-18, 2019, 2020-21 (tables only), 2022 (tables only)",
+  "frequency": "annual (some years combined into biennial reports)",
+  "topics": ["mining", "minerals", "boron", "chromium", "coal", "cement", "steel"],
+  "units": "metric tons / other units as described per-table in each file",
+  "license_terms": "U.S. Government public domain (USGS)",
+  "notes": "Comparator dataset to usgs-minerals-yearbook/irn/. Unlike Iran, Saudi Arabia and Russia, USGS did NOT publish a full narrative PDF report for Turkey beyond 2019 — only 'tables-only advance release' XLSX files exist for 2020-21 and 2022 (no 2023 at all). Confirmed by full DOM link extraction from https://www.usgs.gov/centers/national-minerals-information-center/turkey — no myb3-2020-21-turkey.pdf, myb3-2022-turkey.pdf, or any 2023 link exists on the page. All files verified genuine PDF/Excel via `file`.",
+  "failures": [
+    {"attempted": "myb3-2020-21-turkey.pdf / myb3-2022-turkey.pdf / any 2023-turkey file (full narrative report and any 2023 data)", "reason": "not published by USGS — confirmed absent from official country page link list, not merely a fetch failure"}
+  ]
+}

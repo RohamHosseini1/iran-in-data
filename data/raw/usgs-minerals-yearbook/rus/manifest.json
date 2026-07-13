@@ -1,0 +1,31 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-russia",
+  "title": "USGS Minerals Yearbook — The Mineral Industry of Russia (Volume III, Area Reports: International), comparator to Iran coverage",
+  "source_org": "U.S. Geological Survey, National Minerals Information Center",
+  "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/russia",
+  "download_url": "https://pubs.usgs.gov/myb/vol3/{year}/myb3-{year}-russia.pdf (and .xlsx) — see files list for exact per-year URLs",
+  "retrieved_at_utc": "2026-07-12T19:33:07Z",
+  "retrieved_by": "agent:iran-industry-mining",
+  "files": [
+    {"name": "myb3-2016-rs.pdf", "original_name": null, "sha256": "73d4d652d068384a44d97b41a46ea4a49d14dd0d0632776d188c1794578d08c4", "bytes": 397138, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-rs.pdf", "year": "2016", "type": "full narrative PDF report"},
+    {"name": "myb3-2017-18-russia.pdf", "original_name": null, "sha256": "7362d7f3659cff33037b92dd2163e3c2b40b05c59190cd38fbc3ac3434d2cc91", "bytes": 405262, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-russia.pdf", "year": "2017-18", "type": "full narrative PDF report"},
+    {"name": "myb3-2019-russia.pdf", "original_name": null, "sha256": "9846dc7c430f1635142b8217298c378fa2cbbbcbea9ba797903f9522cb4e0119", "bytes": 412791, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-russia.pdf", "year": "2019", "type": "full narrative PDF report"},
+    {"name": "myb3-2020-21-russia.pdf", "original_name": null, "sha256": "8807487481493c42e290c789af34687dfc9cefb6d2b0586ac06006e1bfa8a307", "bytes": 439819, "download_url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-russia.pdf", "year": "2020-21", "type": "full narrative PDF report"},
+    {"name": "myb3-2022-russia.pdf", "original_name": null, "sha256": "572ca44436821aa8daf724b344a7b630ef6c8fe85dd130c0709879bf5ed17337", "bytes": 432176, "download_url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-russia.pdf", "year": "2022", "type": "full narrative PDF report"},
+    {"name": "myb3-2016-rs.xls", "original_name": "myb3-2016-rs.xls", "sha256": "f21f2f9dae2d254d5acd82b46e3fd1bed35dde3ed12748f9b90c386d7bd8fdfe", "bytes": 281600, "download_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-rs.xls", "year": "2016", "type": "tables-only release (legacy .xls format)"},
+    {"name": "myb3-2017-18-russia.xlsx", "original_name": null, "sha256": "a19f2a0d2b10f05f62bd6d33ad9a682134914c564df7a6dda54f1904bde00208", "bytes": 485400, "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-russia.xlsx", "year": "2017-18", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2019-russia.xlsx", "original_name": null, "sha256": "07fa9bdec2d926183dc0ce34e37f3500ea62d79236abc0a8a00fe4040fd5ae8e", "bytes": 142655, "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-russia.xlsx", "year": "2019", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2020-21-russia.xlsx", "original_name": null, "sha256": "ebac8facd077e6ec1f1b67f2aeb760a941bdf45773c7114357b8923cba63abe3", "bytes": 142109, "download_url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-russia.xlsx", "year": "2020-21", "type": "tables-only release (XLSX)"},
+    {"name": "myb3-2022-russia.xlsx", "original_name": null, "sha256": "f751fe25596cd440fd7b0dadb5e5a5b86ef8dfbd523765d01aeaa5c13ac44e34", "bytes": 147044, "download_url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-russia.xlsx", "year": "2022", "type": "tables-only release (XLSX)"}
+  ],
+  "countries": ["RUS"],
+  "time_coverage": "2016, 2017-18, 2019, 2020-21, 2022 (no 2023 published)",
+  "frequency": "annual (some years combined into biennial reports)",
+  "topics": ["mining", "minerals", "nickel", "palladium", "platinum", "diamonds", "iron ore", "aluminum"],
+  "units": "metric tons / other units as described per-table in each file",
+  "license_terms": "U.S. Government public domain (USGS)",
+  "notes": "Comparator dataset to usgs-minerals-yearbook/irn/ — also complements the existing ussr-russia-historical source already in this repo (that source covers broader USSR/Russia historical macro series; this is USGS's specific mineral-industry sector reporting). No 2023 report/tables exist yet for Russia on the official country page (confirmed via DOM extraction) — plausibly a lag in USGS's Russia coverage post-2022 sanctions/data-access disruption, though not explicitly stated by USGS. All files verified genuine PDF/Excel via `file`.",
+  "failures": [
+    {"attempted": "myb3-2023-russia.pdf / myb3-2023-russia.xlsx", "reason": "not published by USGS — absent from official country page link list as of this session"}
+  ]
+}

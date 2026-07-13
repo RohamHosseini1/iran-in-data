@@ -1,0 +1,21 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-comparator-argentina-turkey-metals-1968-1970",
+  "title": "Argentina and Turkey: Production of Major Metals and Cement, 1968-1970 (comparator to Iran's same-period figures)",
+  "source_org": "US Bureau of Mines (Minerals Yearbook 1970, Volume III, Area Reports: International)",
+  "source_url": "https://archive.org/details/pub_usgov-minerals-yearbook_1970_3",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION from `pdftotext -layout` of the Argentina (PDF pp.93-102) and Turkey (PDF pp.765-772) chapters of the same already-downloaded 1970 volume used for the Iran extraction (see parent folder manifest). METALS-section rows only transcribed (chromite/copper/iron-steel/lead/zinc/manganese) plus cement, to allow direct cross-country comparison against the Iran Table 1 data in the sibling iran-production-extraction/data.csv for the same 1968-1970 years. NONMETALS/mineral-fuels detail for these two comparators was NOT transcribed (out of scope for this opportunistic comparator pass -- Iran remains the priority per this project's standing Iran-first policy).",
+  "retrieved_by": "claude (manual transcription)",
+  "retrieved_at_utc": "2026-07-13T00:26:22Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "cf7d3448f025788ed28893d965dc9783d00d12dc480a2021ba4724b93760bc2a", "bytes": 3630}
+  ],
+  "countries": ["ARG", "TUR"],
+  "time_coverage": "1968-1970",
+  "frequency": "annual",
+  "topics": ["mining", "copper", "steel", "chromite", "cement", "comparator-countries"],
+  "units": "metric tons unless noted (thousand metric tons flagged per-row)",
+  "license_terms": "US Government publication -- public domain",
+  "notes": "OPPORTUNISTIC comparator extraction per this project's standing policy (comparator data is only worth pulling when the SAME source naturally covers Iran too, at zero extra fetch cost -- true here since the PDF was already downloaded for Iran). Turkey's 1970 chapter narrative (not transcribed into this CSV, noted here for a future pass) mentions a comparator DAM data point of independent interest to this round's water-infrastructure mission: the Devlet Su Isleri (DSI, Turkey's State Hydraulic Works) invited bids in late 1970 for the Karakaya Dam on the lower Euphrates (180m max height, 394m crest length, 1,500MW installed capacity via six 250MW turbine-generator units) and Japan granted Turkey a $27 million credit the same year for the Ayvacik Dam. Turkey devalued the lira from TL9=US$1 to TL15=US$1 on August 9, 1970, softened by a $300 million OECD-consortium aid package -- included here as economic context, not as mining data per se. Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": []
+}
