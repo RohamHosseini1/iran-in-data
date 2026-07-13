@@ -1,0 +1,221 @@
+{
+  "dataset_id": "cbi-annual-review-wayback",
+  "title": "CBI Annual Review (English) — PDF editions retrieved via Wayback Machine",
+  "source_org": "Central Bank of the Islamic Republic of Iran (CBI)",
+  "source_url": "https://cbi.ir/simplelist/AnnualReview_en.aspx",
+  "download_url": "https://web.archive.org/web/{timestamp}id_/https://www.cbi.ir/page/{page_id}.aspx",
+  "retrieved_at_utc": "2026-07-12T18:14:36Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "cbi_annual_review_1400_2021-22.pdf",
+      "original_name": "page/29927.aspx",
+      "sha256": "6159545ead90847abff7d769e07f64c18ad3c171160ff0fc361be4b39219325f",
+      "bytes": 10003741,
+      "wayback_timestamp": "20250618090504",
+      "wayback_url": "https://web.archive.org/web/20250618090504id_/https://cbi.ir/page/29927.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1399_2020-21.pdf",
+      "original_name": "page/24428.aspx",
+      "sha256": "a1f76412c0e329bb6992eeb6b0d6dd37b784bcac42f72166ba5021bb96168fa2",
+      "bytes": 3581183,
+      "wayback_timestamp": "20240515003003",
+      "wayback_url": "https://web.archive.org/web/20240515003003id_/https://www.cbi.ir/page/24428.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1398_2019-20.pdf",
+      "original_name": "page/23153.aspx",
+      "sha256": "a2c287946b9a6982038c7ed278aefc250f2ba43418ae0de3847a30bbcc6d286a",
+      "bytes": 3667130,
+      "wayback_timestamp": "20240206073223",
+      "wayback_url": "https://web.archive.org/web/20240206073223id_/https://www.cbi.ir/page/23153.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1397_2018-19.pdf",
+      "original_name": "page/21382.aspx",
+      "sha256": "fb84243302c0bb15594bfddd40a32cbdb00360946278dad1a049dc6039888c25",
+      "bytes": 1487792,
+      "wayback_timestamp": "20210920145637",
+      "wayback_url": "https://web.archive.org/web/20210920145637id_/https://www.cbi.ir/page/21382.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1396_2016-17.pdf",
+      "original_name": "page/19115.aspx",
+      "sha256": "85dbfd9da81d26daf93fcc51ae7d0700f84b94c845d85318c8b3b198a309ca40",
+      "bytes": 670694,
+      "wayback_timestamp": "20210526163901",
+      "wayback_url": "https://web.archive.org/web/20210526163901id_/https://www.cbi.ir/page/19115.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1379_2000-01.pdf",
+      "original_name": "page/1759.aspx",
+      "sha256": "bf8bf7f40b56a414ad69f0b76d8756ea8e54a2651bab03bfeb028a39d8a714b3",
+      "bytes": 463059,
+      "wayback_timestamp": "20060924075220",
+      "wayback_url": "https://web.archive.org/web/20060924075220id_/https://www.cbi.ir/page/1759.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1380_2001-02.pdf",
+      "original_name": "page/1760.aspx",
+      "sha256": "8eaa2c0e2ee4f1ef4e68c5e70fbb0d7e15a5b13205a4780ded75e7f31371d3bb",
+      "bytes": 975777,
+      "wayback_timestamp": "20060924074317",
+      "wayback_url": "https://web.archive.org/web/20060924074317id_/https://www.cbi.ir/page/1760.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1381_2002-03.pdf",
+      "original_name": "page/1761.aspx",
+      "sha256": "5b21d00a0f655766037a909f5b4d062fed883ade046988d600efe1427f1502e8",
+      "bytes": 947155,
+      "wayback_timestamp": "20060924073941",
+      "wayback_url": "https://web.archive.org/web/20060924073941id_/https://www.cbi.ir/page/1761.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1382_2003-04.pdf",
+      "original_name": "page/1762.aspx",
+      "sha256": "1d30962c3070f2c4641adab9a79010c6a35865bee3aec8ddfda31ec03c5339a4",
+      "bytes": 1269679,
+      "wayback_timestamp": "20060924074623",
+      "wayback_url": "https://web.archive.org/web/20060924074623id_/https://www.cbi.ir/page/1762.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1383_2004-05.pdf",
+      "original_name": "page/2626.aspx",
+      "sha256": "bdf5b26d3e2cfe78b9381ea86cc15ee88c05306375aed15ed35d610ce7c1c4bc",
+      "bytes": 2130009,
+      "wayback_timestamp": "20060505021515",
+      "wayback_url": "https://web.archive.org/web/20060505021515id_/https://www.cbi.ir/page/2626.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1384_2005-06.pdf",
+      "original_name": "page/3590.aspx",
+      "sha256": "7428c697a1df52a8ff13979dce6d184c1d5eaa9762f733a7be75df24894ffef4",
+      "bytes": 873341,
+      "wayback_timestamp": "20071023110626",
+      "wayback_url": "https://web.archive.org/web/20071023110626id_/https://www.cbi.ir/page/3590.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1385_2006-07.pdf",
+      "original_name": "page/4848.aspx",
+      "sha256": "6291068206073812704c2efa2235afef625b3fa9a91e09fefc9647b67e873704",
+      "bytes": 557672,
+      "wayback_timestamp": "20081221200915",
+      "wayback_url": "https://web.archive.org/web/20081221200915id_/https://www.cbi.ir/page/4848.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1386_2007-08.pdf",
+      "original_name": "page/6030.aspx",
+      "sha256": "a6b2afa725784abfe7c4b3380ad1dc47069b004995eb30b64ab6d48c9b546754",
+      "bytes": 1019748,
+      "wayback_timestamp": "20131011133454",
+      "wayback_url": "https://web.archive.org/web/20131011133454id_/https://www.cbi.ir/page/6030.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1387_2008-09.pdf",
+      "original_name": "page/6649.aspx",
+      "sha256": "b2f176ef51ee46d87f6f27485c2707cd2c7767391d461c04dfe0fddef29cfcb2",
+      "bytes": 3357139,
+      "wayback_timestamp": "20110717053917",
+      "wayback_url": "https://web.archive.org/web/20110717053917id_/https://www.cbi.ir/page/6649.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1388_2009-10.pdf",
+      "original_name": "page/7575.aspx",
+      "sha256": "0c91ecd76eba7de18a5ea68e6146dd96450b89c00543ac5bcf58747af9cddc32",
+      "bytes": 3559639,
+      "wayback_timestamp": "20110419235831",
+      "wayback_url": "https://web.archive.org/web/20110419235831id_/https://www.cbi.ir/page/7575.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1389_2010-11.pdf",
+      "original_name": "page/9497.aspx",
+      "sha256": "a3e243ae644a875a915a24f762ac2711994a3683e9a077b9ab541de05e098d1f",
+      "bytes": 2464892,
+      "wayback_timestamp": "20120826115712",
+      "wayback_url": "https://web.archive.org/web/20120826115712id_/https://www.cbi.ir/page/9497.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1390_2011-12.pdf",
+      "original_name": "page/10567.aspx",
+      "sha256": "48254c1766cb65a626c2d151756eb9304067275bcaa858098a52f3495cf91ced",
+      "bytes": 625445,
+      "wayback_timestamp": "20130619003241",
+      "wayback_url": "https://web.archive.org/web/20130619003241id_/https://www.cbi.ir/page/10567.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1391_2012-13.pdf",
+      "original_name": "page/11857.aspx",
+      "sha256": "1cbceab343510bc475f8e9ce07fda66a545c993013aeefd2b539ca882003585c",
+      "bytes": 628974,
+      "wayback_timestamp": "20140813050232",
+      "wayback_url": "https://web.archive.org/web/20140813050232id_/https://www.cbi.ir/page/11857.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1392_2013-14.pdf",
+      "original_name": "page/12790.aspx",
+      "sha256": "069533677bd0031395e705078e7174a84f2a66a4f19ce22eb517938f6b3acfd3",
+      "bytes": 668854,
+      "wayback_timestamp": "20150331021407",
+      "wayback_url": "https://web.archive.org/web/20150331021407id_/https://www.cbi.ir/page/12790.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1393_2014-15.pdf",
+      "original_name": "page/14386.aspx",
+      "sha256": "c91fea1c056a48898922acf3e07065e86af937885cd634b011508a58eaef1f3e",
+      "bytes": 657876,
+      "wayback_timestamp": "20160307200259",
+      "wayback_url": "https://web.archive.org/web/20160307200259id_/https://www.cbi.ir/page/14386.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1394_2015-16.pdf",
+      "original_name": "page/16416.aspx",
+      "sha256": "187210c2b95047fa5a9c2fa8dc2d466fc2715e5b4b29a4875ffe1ee54bf15dd6",
+      "bytes": 662889,
+      "wayback_timestamp": "20170619220110",
+      "wayback_url": "https://web.archive.org/web/20170619220110id_/https://www.cbi.ir/page/16416.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1395_2016-17.pdf",
+      "original_name": "page/17602.aspx",
+      "sha256": "936f278393040a51c702ce902b75df14b0f2c4a0acbbf23ae610b4bba98fdef4",
+      "bytes": 667157,
+      "wayback_timestamp": "20180812021840",
+      "wayback_url": "https://web.archive.org/web/20180812021840id_/https://www.cbi.ir/page/17602.aspx"
+    },
+    {
+      "name": "cbi_annual_review_1401_2022-23.pdf",
+      "original_name": "page/30974.aspx",
+      "sha256": "34a16a3574ed21bb2f673a204070bcb0822cf950607bbc704e720d87922a2f57",
+      "bytes": 4693707,
+      "wayback_timestamp": "20250321103820",
+      "wayback_url": "https://web.archive.org/web/20250321103820id_/https://www.cbi.ir/page/30974.aspx"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "Iranian fiscal years 1379-1395 and 1396-1401 (2000/01-2016/17, 2016/17-2022/23) -- effectively continuous FY1379-FY1401 (2000-2023), only missing FY1401's own gap-check and anything before FY1379.",
+  "frequency": "annual",
+  "topics": [
+    "central bank",
+    "monetary policy",
+    "national accounts",
+    "balance of payments",
+    "banking",
+    "annual report"
+  ],
+  "units": "described within each PDF (rial-denominated statistical tables, national accounts, monetary aggregates)",
+  "license_terms": "CBI public publication; no explicit license stated on site",
+  "notes": "Direct curl to cbi.ir/tsd.cbi.ir is blocked by an F5/TSPD JS bot-challenge (confirmed in prior session, logs/downloads/iran-official.log). Retrieved instead via Wayback Machine CDX API: fetched a recent snapshot of the AnnualReview_en.aspx listing page (timestamp 20241007182632) to enumerate the /page/{id}.aspx links for each fiscal-year edition, then fetched each /page/{id}.aspx directly from Wayback (mimetype application/pdf in the CDX index — these page IDs serve the PDF binary directly, no separate landing page). All files verified as real PDF binaries (magic bytes %PDF, `file` command confirms PDF document) — no TSPD/bot-challenge signatures found. Could not obtain earlier editions (1390-1395) or later (1401+) in this pass; CDX index has snapshots for those page IDs too if needed later. tsd.cbi.ir (Economic Time Series DB) was unreachable (connect timeout) in the prior direct-fetch attempt and was not retried here — out of scope for this mopup pass.\n\nCONTINUATION PASS (2026-07-13, main-thread agent, no sub-agents): Extended this collection dramatically using the SAME proven Wayback-CDX method as the original pass, applied to a MUCH richer source: fetched a 2025-04-27 Wayback snapshot of the CBI Annual Review listing page (cbi.ir/simplelist/AnnualReview_en.aspx), which lists 18 distinct 'Annual Review for <fiscal year>' entries with their own /page/<id>.aspx download links, spanning FY1379 (2000/01) through FY1395 (2016/17) plus FY1401 (2022/23) -- far more than the 5 editions (FY1396-1400) found in the original pass, which apparently only checked a more recent, shorter listing snapshot. All 18 new PDFs fetched via Wayback CDX (confirmed application/pdf mimetype snapshots for each /page/<id>.aspx, one per file), verified as real PDF documents via `file` command and spot-checked via pdftotext (FY1379 edition opens with 'Annual Review 1379 (2000/01) Prepared by: Economic Research and Policy Department CENTRAL BANK OF THE ISLAMIC REPUBLIC OF IRAN' -- confirms authenticity, not an error page). Combined with the pre-existing FY1396-1400 editions, the database's CBI Annual Review (English) holdings are now EFFECTIVELY CONTINUOUS from FY1379 through FY1401 (2000-2023), a 23-year unbroken run of the central bank's own annual statistical/narrative report -- a major upgrade from the previous 5 scattered recent years. NOTE: this listing snapshot mixed multiple publication categories (Annual Review, Economic Trends, Occasional Papers, structural/organizational pages) -- only entries whose anchor text explicitly read 'Annual Review for <year>' were downloaded; several other /page/<id>.aspx links on the same listing page (e.g. ids 1389, 1440-1475, 2072, 8020, 8088, 14286, 15713-15747, 16416-adjacent) were checked and confirmed to be non-Annual-Review content (Organization, Iran Cheque, National Jewels, Banking Profit Rates, Economic Statistics landing pages, security-features/paper-mill pages, clearance-systems pages) and correctly excluded. FY1378 and earlier (pre-2000) Annual Review editions were NOT found on this listing snapshot -- either they don't exist in English/PDF form that far back, or a different/older listing page URL structure would be needed; flagged as a possible future lead but not pursued further this pass. Total new download size ~26MB (18 files), well within the project's 500MB per-file cap and folder-size norms.",
+  "failures": [
+    {
+      "url": "https://cbi.ir/simplelist/AnnualReview_en.aspx",
+      "reason": "F5/TSPD bot-challenge blocks direct curl (confirmed prior session)"
+    },
+    {
+      "url": "https://tsd.cbi.ir/DisplayEn/Content.aspx",
+      "reason": "connect timeout, not retried this session (out of scope)"
+    }
+  ]
+}

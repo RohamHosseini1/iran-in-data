@@ -1,0 +1,25 @@
+{
+  "dataset_id": "ilostat-labor-detail",
+  "title": "ILOSTAT — Employment-to-Population Ratio, Labour Force Participation Rate, and Informal Employment Share (by sex and age)",
+  "source_org": "International Labour Organization (ILOSTAT)",
+  "source_url": "https://ilostat.ilo.org/data/",
+  "download_url": "https://rplumber.ilo.org/data/indicator/?id=<INDICATOR_ID>&format=.csv (EMP_DWAP_SEX_AGE_RT_A, EAP_DWAP_SEX_AGE_RT_A, SDG_0831_SEX_ECO_RT_A, SDG_B831_SEX_ECO_RT_A)",
+  "retrieved_at_utc": "2026-07-12T18:19:30Z",
+  "retrieved_by": "agent:labor-minimum-wage-download",
+  "files": [
+    {"name": "EMP_DWAP_SEX_AGE_RT_A.csv", "original_name": null, "sha256": "95ba593a9e36f4f3859e80be3ce819a3eb89b7ba090f5e9257e0178986b615d2", "bytes": 30289719},
+    {"name": "EAP_DWAP_SEX_AGE_RT_A.csv", "original_name": null, "sha256": "bb23f77d695ace44247088d136e59d1be6a0c6769de1ae6db243f7183abd2fce", "bytes": 39263295},
+    {"name": "SDG_0831_SEX_ECO_RT_A.csv", "original_name": null, "sha256": "e74b13a1a65d33b8c7daeca92c1445c8366e63c1c4a9e6f19466c3bb73c6f2ca", "bytes": 5219303},
+    {"name": "SDG_B831_SEX_ECO_RT_A.csv", "original_name": null, "sha256": "d2fec1e024c24cf776bc4f76bdff018692f9a93c9e074e08c5ff9a8e33bc3f77", "bytes": 1847750}
+  ],
+  "countries": ["ALL (world; IRN present in EMP_DWAP/EAP_DWAP only — see notes on informal-employment coverage gap)"],
+  "time_coverage": "EMP_DWAP_SEX_AGE_RT_A: 1947-2027; EAP_DWAP_SEX_AGE_RT_A: 1946-2027; SDG_0831_SEX_ECO_RT_A (ICLS13 def.): 2000-2027; SDG_B831_SEX_ECO_RT_A (ICLS19 def.): 2014-2025",
+  "frequency": "annual",
+  "topics": ["labour", "employment", "labour force participation", "informal employment"],
+  "units": "percent (%), broken out by classif1 = sex x age group (EMP_DWAP/EAP_DWAP) or sex x economic activity (SDG_0831/SDG_B831)",
+  "license_terms": "ILOSTAT open data terms (CC BY 4.0 IGO)",
+  "notes": "Four full-world bulk indicator extracts kept whole (natural ILOSTAT download unit; largest file 39MB, well under the 500MB size-discipline cap). Verified row counts for our target countries: EAP_DWAP_SEX_AGE_RT_A has 2,073 IRN rows, EMP_DWAP_SEX_AGE_RT_A has 1,689 IRN rows (both cover the full sex x age-group breakdown across many years, so high row counts reflect breakdown cells, not distinct years). IMPORTANT DATA GAP: Iran (IRN) has ZERO rows in both SDG_0831_SEX_ECO_RT_A and SDG_B831_SEX_ECO_RT_A (grep-verified) -- ILO does not appear to have official informal-employment estimates for Iran under either the ICLS13 (SDG_0831) or ICLS19 (SDG_B831) definitions, likely because Iran's Statistical Centre labour force survey does not publish informality per the ILO/SDG 8.3.1 methodology. Venezuela (VEN) has 42 rows in SDG_0831 (old definition) but 0 in SDG_B831 (new definition) -- so Venezuela informal-employment data is available only under the older ICLS13 methodology and only for a limited set of sex x economic-activity cells. Saudi Arabia (SAU) and USA also show 0 rows in both informal-employment files. Turkey (TUR), Russia (RUS), Spain (ESP), Portugal (PRT), Greece (GRC) all have substantial coverage in SDG_0831; RUS/ESP/PRT/GRC also covered under the newer SDG_B831 definition; Korea (KOR) has 42 rows in SDG_B831 only. Users of this dataset for Iran/Venezuela informality analysis should note this gap explicitly rather than assume the absence means zero informal employment.",
+  "failures": [
+    {"note": "No usable Iran (IRN) or Saudi Arabia (SAU) or USA rows found in SDG_0831_SEX_ECO_RT_A.csv or SDG_B831_SEX_ECO_RT_A.csv -- files still retained as they cover our other target countries and the absence itself is a documented finding."}
+  ]
+}

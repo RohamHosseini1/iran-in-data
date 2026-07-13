@@ -1,0 +1,118 @@
+{
+  "dataset_id": "bimeh-markazi-annual-reports",
+  "title": "Bimeh Markazi Iran (Central Insurance of I.R. Iran) — English Annual Reports, FY 1384-1391 (2005-2013)",
+  "source_org": "Central Insurance of the Islamic Republic of Iran (Bimeh Markazi Iran)",
+  "source_url": "https://en.centinsur.ir",
+  "download_url": "https://web.archive.org/web/{timestamp}id_/http://centinsur.ir/.../AnnualReport*.pdf",
+  "retrieved_at_utc": "2026-07-12T19:45:00Z",
+  "retrieved_by": "agent:iran-finance-trade-infra",
+  "files": [
+    {
+      "name": "annualreport20052006.pdf",
+      "original_name": "AnnualReport20052006.pdf",
+      "sha256": "3b3db9b62cf08b1c0d021fe524be3339af49502ebb458876236c27a1002f8d5c",
+      "bytes": 4006693,
+      "fiscal_year": "1384-1385 (2005-2006)",
+      "wayback_timestamp": "20101214070949",
+      "wayback_url": "https://web.archive.org/web/20101214070949id_/http://centinsur.ir/files/files/AnnualReport20052006.pdf",
+      "has_extractable_text": false
+    },
+    {
+      "name": "annualreport20062007.pdf",
+      "original_name": "AnnualReport20062007.pdf",
+      "sha256": "e604f2c99994e0fa40953742dee319704aa8a218df6af862b11668a0b719c8a6",
+      "bytes": 3938975,
+      "fiscal_year": "1385-1386 (2006-2007)",
+      "wayback_timestamp": "20130412061901",
+      "wayback_url": "https://web.archive.org/web/20130412061901id_/http://centinsur.ir/Dorsapax/Data/Sub_0/File/AnnualReport20062007.pdf",
+      "has_extractable_text": false
+    },
+    {
+      "name": "annualreport20072008.pdf",
+      "original_name": "AnnualReport20072008.pdf",
+      "sha256": "9f3d23851e44ec9e6cff9e89f315c3e9d7d22679a747f26552eb94a6e8a27feb",
+      "bytes": 5425378,
+      "fiscal_year": "1386-1387 (2007-2008)",
+      "wayback_timestamp": "20130412120552",
+      "wayback_url": "https://web.archive.org/web/20130412120552id_/http://centinsur.ir/Dorsapax/Data/Sub_0/File/AnnualReport20072008.pdf",
+      "has_extractable_text": false
+    },
+    {
+      "name": "annualreport20082009.pdf",
+      "original_name": "AnnualReport20082009.pdf",
+      "sha256": "2430c29158240c77ffff7b3d13113c39167a515f7b9fccc197d382578eefb6c5",
+      "bytes": 17825139,
+      "fiscal_year": "1387-1388 (2008-2009)",
+      "wayback_timestamp": "20130406173540",
+      "wayback_url": "https://web.archive.org/web/20130406173540id_/http://centinsur.ir/Dorsapax/Data/Sub_0/File/AnnualReport20082009.pdf",
+      "has_extractable_text": false
+    },
+    {
+      "name": "annualreport20092010.pdf",
+      "original_name": "AnnualReport20092010.pdf",
+      "sha256": "21946c5cbfd1b36a4bf88ed26a91ac61fefd1e5e5bb0674fa8d79a5f16447a0e",
+      "bytes": 9025364,
+      "fiscal_year": "1388-1389 (2009-2010)",
+      "wayback_timestamp": "20140430024553",
+      "wayback_url": "https://web.archive.org/web/20140430024553id_/http://centinsur.ir/dorsapax/Data/Sub_0/File/AnnualReport20092010.pdf",
+      "has_extractable_text": true
+    },
+    {
+      "name": "annualreport2011.pdf",
+      "original_name": "annualreport2011.pdf",
+      "sha256": "bcdd669b451c78bab633b2eeda533d703cd8971da98d667e790d5ef7bfe5a03b",
+      "bytes": 2948493,
+      "fiscal_year": "1389-1390 (2010-2011)",
+      "wayback_timestamp": "20130412081510",
+      "wayback_url": "https://web.archive.org/web/20130412081510id_/http://centinsur.ir/Dorsapax/Data/Sub_0/File/annualreport2011.pdf",
+      "has_extractable_text": true
+    },
+    {
+      "name": "annualreport2012.pdf",
+      "original_name": "annual report2012.pdf",
+      "sha256": "5bb17c37d2122ce2bba1a3397729712938bf4fea716639e01424283ee46cb32f",
+      "bytes": 2688651,
+      "fiscal_year": "1390-1391 (2011-2012)",
+      "wayback_timestamp": "20130914080702",
+      "wayback_url": "https://web.archive.org/web/20130914080702id_/http://centinsur.ir/Dorsapax/Data/Sub_0/File/annual%20report2012.pdf",
+      "has_extractable_text": true
+    },
+    {
+      "name": "annualreport_1391_2012-2013.pdf",
+      "original_name": "ANNUAL REPORT.pdf",
+      "sha256": "e3bb438b73ff2e574514133df44b6ee5ef924fdd8d9c162150dcb44b9b23c3a4",
+      "bytes": 8403827,
+      "fiscal_year": "1391 (2012-2013)",
+      "wayback_timestamp": "20171011050135",
+      "wayback_url": "https://web.archive.org/web/20171011050135id_/http://centinsur.ir:80/Dorsapax/Data/Sub_0/File/ANNUAL%20REPORT.pdf",
+      "has_extractable_text": true
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "Iranian fiscal years 1384-1391 (2005/06-2012/13); 8 editions",
+  "frequency": "annual",
+  "topics": [
+    "insurance",
+    "insurance industry performance",
+    "reinsurance",
+    "annual report",
+    "financial statements",
+    "premiums",
+    "claims"
+  ],
+  "units": "described within each PDF (mostly Iranian Rial billions/millions for premiums, losses, financial statements)",
+  "license_terms": "Bimeh Markazi Iran public publication; no explicit license stated on site",
+  "notes": "Direct access to https://en.centinsur.ir returns HTTP 403 'Access Denied - blocked from your IP or location' (an ArvanCloud/CDN-style geo/IP block; both en.centinsur.ir and the Persian centinsur.ir root return the same 403 page from this agent's network). Recovered via Wayback Machine CDX API (https://web.archive.org/cdx/search/cdx?url=centinsur.ir&matchType=domain&output=json&filter=urlkey:.*\\.pdf), which surfaced ~2,090 PDF URLs ever crawled under the centinsur.ir domain (all subdomains/paths). Filtered to filenames containing 'annualreport' and picked the most recent 200-status snapshot for each distinct report. Found 8 distinct English-language annual reports covering fiscal years 1384/85 through 1391 (2005/06-2012/13) hosted under three different legacy CMS paths over the years (/files/files/, /Dorsapax/Data/Sub_0/File/, /dorsapax/Data/Sub_0/File/ — inconsistent casing in the live site's own URLs, preserved as-is in original_name). The FY1391 edition's filename on the CDX was the generic 'ANNUAL REPORT.pdf' (no year in the name); its actual fiscal year (1391 / 2012-2013) was confirmed by reading the extracted PDF text, which repeatedly references 'the year 1391 (2012-2013)' figures — renamed at download time to annualreport_1391_2012-2013.pdf per bookkeeping rule 2 (original name recorded in files[].original_name). All 8 files verified as real PDF documents (`file` command confirms 'PDF document', correct page counts via pdfinfo: 38-44 pages each for the scanned early editions, 21 pages for the 1391 edition). The four earliest editions (FY1384/85 through FY1387/88) are scanned/image-based PDFs with no embedded text layer (pdftotext returns 0 words) — this is a property of the original documents as published, not a download defect; content was still visually verified via file size/page count sanity checks. No newer reports (FY1392/2013-14 onward) were found in the CDX index under obvious 'annualreport'-style filenames within this session's search budget — the live site being geo-blocked meant we could not browse its current publications listing to find later editions' exact URLs to seed further CDX lookups; a follow-up session could search CDX more broadly (e.g. 'performance report', 'Persian gozaresh amalkard' filenames, or the newer /_douranportal/documents/ CMS path which is clearly still active per 2025-dated crawls seen in the same CDX query) to extend coverage.",
+  "failures": [
+    {
+      "url": "https://en.centinsur.ir",
+      "reason": "HTTP 403 Access Denied - IP/location block (ArvanCloud-style CDN block), confirmed on both en.centinsur.ir and centinsur.ir root"
+    },
+    {
+      "url": "https://centinsur.ir",
+      "reason": "HTTP 403 Access Denied - IP/location block, same as above"
+    }
+  ]
+}

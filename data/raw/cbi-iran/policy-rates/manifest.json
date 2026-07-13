@@ -1,0 +1,315 @@
+{
+  "dataset_id": "cbi-policy-rates-wayback",
+  "title": "CBI Policy Rates (Interbank Market Rate, Repo Cut-off Rate, Standing Lending/Deposit Rates) — HTML snapshots via Wayback Machine",
+  "source_org": "Central Bank of the Islamic Republic of Iran (CBI)",
+  "source_url": "https://cbi.ir/PolicyRates/policyrates_en.aspx",
+  "download_url": "https://web.archive.org/web/{timestamp}id_/https://cbi.ir/PolicyRates/policyrates_en.aspx",
+  "retrieved_at_utc": "2026-07-12T19:35:00Z",
+  "retrieved_by": "agent:iran-finance-trade-infra",
+  "files": [
+    {
+      "name": "cbi_policyrates_20210427084108.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "9c174e9eef210821e72a8071127909c6faf1368f8da949b25bf313767b92a129",
+      "bytes": 61281,
+      "wayback_timestamp": "20210427084108",
+      "wayback_url": "https://web.archive.org/web/20210427084108id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20210508191259.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "826c6761ab8b358c749441d3e86db30d9187f5251ba55f34ab8c04f9b2a62ccf",
+      "bytes": 61278,
+      "wayback_timestamp": "20210508191259",
+      "wayback_url": "https://web.archive.org/web/20210508191259id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20210512182703.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "5577ed82b78bc70bf8247f5a1499a096cd9b460f0147c4ce5a4c560411c3d39d",
+      "bytes": 62015,
+      "wayback_timestamp": "20210512182703",
+      "wayback_url": "https://web.archive.org/web/20210512182703id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20210517135320.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "a1ecbf37a08a45da5dc21717cedd25a9cdbec6c1cade489fadd6a5975f45e338",
+      "bytes": 62014,
+      "wayback_timestamp": "20210517135320",
+      "wayback_url": "https://web.archive.org/web/20210517135320id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20210731191325.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "12d5f76e5622daaff9360c24f5f70921b61df914be5bbec6d8f8507b55567d9c",
+      "bytes": 62202,
+      "wayback_timestamp": "20210731191325",
+      "wayback_url": "https://web.archive.org/web/20210731191325id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20210912050009.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "3e824f6f8282c5a74b9b0a3201f94eea9a985418537058ee53bedd9565d408c9",
+      "bytes": 61395,
+      "wayback_timestamp": "20210912050009",
+      "wayback_url": "https://web.archive.org/web/20210912050009id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20210926233339.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "4c7dc8c240e5c795bf96ecb0be794f4906dd6446214dbcb29e6eca026b137dc1",
+      "bytes": 62914,
+      "wayback_timestamp": "20210926233339",
+      "wayback_url": "https://web.archive.org/web/20210926233339id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20210928142541.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "416029c6cb4b8e025ed4b7fa83f9067553b51dbf1880d1812232e98ddb3b58d8",
+      "bytes": 62106,
+      "wayback_timestamp": "20210928142541",
+      "wayback_url": "https://web.archive.org/web/20210928142541id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20211028151433.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "425eca0894bc65a9ad999b339bcfdcd38a0d6eeea076cf6c1f3b96df8b6958f7",
+      "bytes": 84073,
+      "wayback_timestamp": "20211028151433",
+      "wayback_url": "https://web.archive.org/web/20211028151433id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20211114070237.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "41f65e9f03ac3cb2d22bc44990b04b3ab0e432b86101393a4a0f634aab770608",
+      "bytes": 87417,
+      "wayback_timestamp": "20211114070237",
+      "wayback_url": "https://web.archive.org/web/20211114070237id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20211206005423.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "ec1f442deaa13083d94f1c6d7151ac0ed59552893db0ac0fdd01017578557631",
+      "bytes": 88448,
+      "wayback_timestamp": "20211206005423",
+      "wayback_url": "https://web.archive.org/web/20211206005423id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220123191557.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "2308ccf3e1a8da3e5623fa346be8996fdcb8e00fe7ad0b25f179225e84f47380",
+      "bytes": 54728,
+      "wayback_timestamp": "20220123191557",
+      "wayback_url": "https://web.archive.org/web/20220123191557id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220124015936.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "e10b7e6c0b29d0305092ec437f746d5f0dad31387b81c515027810c300154e30",
+      "bytes": 55536,
+      "wayback_timestamp": "20220124015936",
+      "wayback_url": "https://web.archive.org/web/20220124015936id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220129114834.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "9594963005c22e9b1b332ffc29f66c397eb76911f5f897445d2dd90120511875",
+      "bytes": 57939,
+      "wayback_timestamp": "20220129114834",
+      "wayback_url": "https://web.archive.org/web/20220129114834id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220206134011.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "8b612ef126b8ebb747fa4c39afb26186da8b8c4548413ebfd09e6c63455ff036",
+      "bytes": 57227,
+      "wayback_timestamp": "20220206134011",
+      "wayback_url": "https://web.archive.org/web/20220206134011id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220519124357.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "ed99935653f720a889bdc8a38e3d568fb105c4c3e98ed812803e93bc6fd59649",
+      "bytes": 67196,
+      "wayback_timestamp": "20220519124357",
+      "wayback_url": "https://web.archive.org/web/20220519124357id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220604090305.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "d59ec666d4707754b9af0229dc8369310457b2a4ae519cc85daceb755f6844cd",
+      "bytes": 71249,
+      "wayback_timestamp": "20220604090305",
+      "wayback_url": "https://web.archive.org/web/20220604090305id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220611231242.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "60d4c54ddc0d85e6841600d087d600fb7248007797a7e6602fc35226b42e4557",
+      "bytes": 72963,
+      "wayback_timestamp": "20220611231242",
+      "wayback_url": "https://web.archive.org/web/20220611231242id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20220811064513.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "58baf36ac6d30f10189d69ae6bc4599111f61d65ed4d1ef11d9b5deb18b25731",
+      "bytes": 80619,
+      "wayback_timestamp": "20220811064513",
+      "wayback_url": "https://web.archive.org/web/20220811064513id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20231126191612.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "0756af733d5a39451fef1ea4c6eb92826e259f2a04d7cd329fa973d958eba519",
+      "bytes": 91667,
+      "wayback_timestamp": "20231126191612",
+      "wayback_url": "https://web.archive.org/web/20231126191612id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20231210115538.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "59a73f01846071578f0297d28cc227c7f71abc5171539dbd0b8cb4b4eb3b2ff5",
+      "bytes": 92551,
+      "wayback_timestamp": "20231210115538",
+      "wayback_url": "https://web.archive.org/web/20231210115538id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20231214191741.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "906af8737890219cad55f4d2afaaf0983d0c3b62ad5236b33e84f852cf61b3c9",
+      "bytes": 94193,
+      "wayback_timestamp": "20231214191741",
+      "wayback_url": "https://web.archive.org/web/20231214191741id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20240305020659.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "7d446a966161bf2015078d7983d1cf1c4a8b1270cae049f0a435cfb1b4f94b04",
+      "bytes": 59721,
+      "wayback_timestamp": "20240305020659",
+      "wayback_url": "https://web.archive.org/web/20240305020659id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20240515030431.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "86330af89e93506dfc088944b7a1c607f32762dbbf51ce78b3c69130bf73e56f",
+      "bytes": 68956,
+      "wayback_timestamp": "20240515030431",
+      "wayback_url": "https://web.archive.org/web/20240515030431id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20240526005002.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "6aaa8b4ca63b04e5863c7d623421513b24754abb73f584edc69f0346f0a2d26e",
+      "bytes": 70671,
+      "wayback_timestamp": "20240526005002",
+      "wayback_url": "https://web.archive.org/web/20240526005002id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20240529000154.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "aacc3d92f6109175db673a15d983b528ea971c470ad9b6738f58a6453c542546",
+      "bytes": 69862,
+      "wayback_timestamp": "20240529000154",
+      "wayback_url": "https://web.archive.org/web/20240529000154id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20240623090841.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "38a378047a79b977fd03e5be35837be73957ff0dda80ef1c260484facd4a963e",
+      "bytes": 73221,
+      "wayback_timestamp": "20240623090841",
+      "wayback_url": "https://web.archive.org/web/20240623090841id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20240919091317.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "dc1b65eb6f349bd7b93e0d287dad2a597f278f6beea32f1c28af20bf3dc8ca63",
+      "bytes": 86506,
+      "wayback_timestamp": "20240919091317",
+      "wayback_url": "https://web.archive.org/web/20240919091317id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20250321112102.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "c4630b26ea77f3f6da6b9b6d14e5feb5d79050fd6dd2d975d8e7dc02da5b295a",
+      "bytes": 62314,
+      "wayback_timestamp": "20250321112102",
+      "wayback_url": "https://web.archive.org/web/20250321112102id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20250523190732.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "96c3828d768443a42b3609c193b79c1cd4b0092252ee4280d71430feaa44dac9",
+      "bytes": 72278,
+      "wayback_timestamp": "20250523190732",
+      "wayback_url": "https://web.archive.org/web/20250523190732id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20250618031155.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "74860bf16e106afc834b2dbe845efa5cc10ea0e86db7d52d4664970b4e2e3dde",
+      "bytes": 74801,
+      "wayback_timestamp": "20250618031155",
+      "wayback_url": "https://web.archive.org/web/20250618031155id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    },
+    {
+      "name": "cbi_policyrates_20250618091813.html",
+      "original_name": "PolicyRates/policyrates_en.aspx",
+      "sha256": "389cc7403ca77d51511d26ecc56953612bb2ebc4ba5c95d9480fc24e28aa9f1b",
+      "bytes": 74801,
+      "wayback_timestamp": "20250618091813",
+      "wayback_url": "https://web.archive.org/web/20250618091813id_/https://cbi.ir/PolicyRates/policyrates_en.aspx"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "Weekly observations from 2021-02-13 through 2025-06-11 (194 distinct dated rows reconstructed across 32 snapshots; underlying live page only ever displays a rolling window of the ~10-24 most recent weekly readings for the selected year, so multiple snapshots over time were needed to assemble broader coverage)",
+  "frequency": "weekly (as published by CBI); this collection = periodic snapshots, not a continuous feed",
+  "topics": [
+    "central bank",
+    "monetary policy",
+    "policy rate",
+    "interbank market rate",
+    "repo rate",
+    "standing lending rate",
+    "standing deposit rate",
+    "interest rate"
+  ],
+  "units": "percent per annum, as published (Interbank Market Rate %, Repo Cut-off Rate %, Standing Lending Rate %, Standing Deposit Rate %)",
+  "license_terms": "CBI public statistics page; no explicit license stated on site",
+  "notes": "Direct curl to cbi.ir/PolicyRates/policyrates_en.aspx is blocked by the same F5/TSPD JS bot-challenge documented elsewhere in this project (confirmed again this session: HTTP 200 but body is a TSPD 'Please enable JavaScript' challenge page, no real content). Retrieved instead via the Wayback Machine CDX API (https://web.archive.org/cdx/search/cdx?url=cbi.ir/PolicyRates*&output=json), same technique as the successful cbi-annual-review-wayback recovery. The CDX index returned 38 snapshots with distinct content digests spanning 2021-04-27 to 2026-02-17; each snapshot is a live-rendered HTML page (ASP.NET webform) showing a 'Year' dropdown filter and a table of the ~10-24 most recent weekly policy-rate readings for whichever year was selected at crawl time (not a full historical archive on one page). Fetched all 38 snapshot timestamps: 32 returned real content with the rate table (verified via string match on 'Interbank Market Rate' in each file), 2 returned CBI's TSPD bot-challenge page and were discarded (2026-01-07, 2026-02-17 — evidently even the Wayback crawler itself got blocked on later crawls as CBI's bot protection tightened), and 4 returned a generic 'Request Rejected'/WAF page (archive.org- or proxy-side rejection, 2 of them tied to a malformed source URL with a stray fullwidth paren '%EF%BC%89' appended — likely from a bad inbound link somewhere — and were discarded). Net: 32 HTML snapshots kept, each an authentic unmodified capture of the CBI page as archived by the Wayback Machine (raw files preserved as-downloaded per bookkeeping rules; no reformatting). Cross-snapshot extraction (ad hoc, not stored in data/raw) found 194 distinct dated weekly rows across the full set, covering 2021-02-13 through 2025-06-11 — the four rate series (Interbank Market Rate, Repo Cut-off Rate, Standing Lending Rate, Standing Deposit Rate) are stable/step-function-like within any given stretch, so this reconstructs the effective step-change history reasonably well, though gaps between snapshot dates mean not every individual week in that span is necessarily captured. A downstream processing step could parse all 32 files and deduplicate into a single time series CSV in data/processed/, but that was out of scope for this raw-download pass.",
+  "failures": [
+    {
+      "url": "https://cbi.ir/PolicyRates/policyrates_en.aspx",
+      "reason": "F5/TSPD bot-challenge blocks direct curl (HTTP 200 but body is JS challenge page, no real content)"
+    },
+    {
+      "url": "https://web.archive.org/web/20260107123358id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx",
+      "reason": "Wayback snapshot itself is CBI's TSPD bot-challenge page (crawler was blocked at capture time)"
+    },
+    {
+      "url": "https://web.archive.org/web/20260217001648id_/https://cbi.ir/PolicyRates/policyrates_en.aspx",
+      "reason": "Wayback snapshot itself is CBI's TSPD bot-challenge page (crawler was blocked at capture time)"
+    },
+    {
+      "url": "https://web.archive.org/web/20220111175800id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx",
+      "reason": "Wayback returned generic 'Request Rejected' WAF page instead of content"
+    },
+    {
+      "url": "https://web.archive.org/web/20240514082632id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx%EF%BC%89",
+      "reason": "Malformed source URL (stray encoded fullwidth paren) -> 'Request Rejected' page"
+    },
+    {
+      "url": "https://web.archive.org/web/20240517014035id_/https://www.cbi.ir/PolicyRates/policyrates_en.aspx%EF%BC%89",
+      "reason": "Malformed source URL (stray encoded fullwidth paren) -> 'Request Rejected' page"
+    },
+    {
+      "url": "https://web.archive.org/web/20250920181125id_/https://cbi.ir/PolicyRates/policyrates_en.aspx",
+      "reason": "Wayback returned generic 'Request Rejected' WAF page instead of content"
+    }
+  ]
+}

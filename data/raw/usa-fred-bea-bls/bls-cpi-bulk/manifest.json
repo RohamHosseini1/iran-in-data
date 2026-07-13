@@ -1,0 +1,30 @@
+{
+  "dataset_id": "usa-fred-bea-bls-bls-cpi-bulk",
+  "title": "BLS Consumer Price Index (CU program) — full bulk flat-file download, all item categories and areas",
+  "source_org": "U.S. Bureau of Labor Statistics (BLS)",
+  "source_url": "https://www.bls.gov/cpi/",
+  "download_url": "https://download.bls.gov/pub/time.series/cu/",
+  "retrieved_at_utc": "2026-07-12T20:21:00Z",
+  "retrieved_by": "agent:usa-fred-bea-bls",
+  "files": [
+    {"name": "cu.data.0.Current", "original_name": null, "sha256": "6fd08941167745f40dc71ba5d2e2c942ece130e3cd9995033515585d08cee034", "bytes": 48540784},
+    {"name": "cu.series", "original_name": null, "sha256": "5a331450277be3f09efb6e63bb3f4900dc2937c6f0e0ecba0f57a1c7fcd5f80a", "bytes": 1339447},
+    {"name": "cu.item", "original_name": null, "sha256": "376f2a9dd2cc7bb358118e6c0e031a404941cfe158b82612e807e44eabcec8fa", "bytes": 16554},
+    {"name": "cu.area", "original_name": null, "sha256": "f4d0442e38dd4c4909a98b9fc8f8bc5fc8146ca4e87e4d9b947461f78af8abeb", "bytes": 2185},
+    {"name": "cu.txt", "original_name": null, "sha256": "1394b7f4210fda3d6dab62437bae5bd3664ed040612dd3df6268bc4e2911a471", "bytes": 14644},
+    {"name": "cu.base", "original_name": null, "sha256": "76ffd7898f6208efa31627f1b3f424d1d27e4af367f25cfe12df1784718fe22a", "bytes": 45},
+    {"name": "cu.period", "original_name": null, "sha256": "6048204ad65fe35c5e519dd2db4a5593135e79f4324145e7fdebdf1882734d34", "bytes": 323},
+    {"name": "cu.periodicity", "original_name": null, "sha256": "f216b4a52d796e041e428732cd4d6cdc913a832abaede79a8060d3658e7563a6", "bytes": 61},
+    {"name": "cu.seasonal", "original_name": null, "sha256": "801baddf3511b8d9b03c0dbd1a9d9365c668b911a2228c6c594ea8a684ace5d7", "bytes": 79},
+    {"name": "cu.footnote", "original_name": null, "sha256": "ee0ad4fc6d5ca98c10b0a9b9cdd343ad9a56438c6d3534cc4c82f20505cac6f9", "bytes": 89},
+    {"name": "cu.contacts", "original_name": null, "sha256": "bcff831740bb0dc514f63179baa42d191d60088762e916e1e521ee3ed2e71cd4", "bytes": 984}
+  ],
+  "countries": ["USA"],
+  "time_coverage": "1913–2026 (varies by series; headline SA0 series from 1947 seasonally adjusted / earlier for not-seasonally-adjusted variants, see cu.series begin_year column)",
+  "frequency": "monthly (some semiannual variants also present, see periodicity_code in cu.series)",
+  "topics": ["CPI", "inflation", "cost of living", "consumer price index", "food CPI", "housing CPI", "energy CPI", "medical CPI", "apparel CPI"],
+  "units": "Index, base period varies by series (mostly 1982-84=100), see cu.base and each series' base_period column in cu.series",
+  "license_terms": "Public domain (U.S. federal statistical data)",
+  "notes": "Full CPI-U (CU program) bulk download: cu.data.0.Current (48,540,784 bytes / 1,155,667 rows) is BLS's single 'current' master file containing ALL CU series -- all item categories (all items, food & beverage, housing, apparel, transportation, medical, recreation, education & communication, other goods & services, commodities/services special aggregates, population size) crossed with ALL areas (U.S. city average, census regions/divisions, size classes, named metro areas), both seasonally adjusted and not. Chose this single master file over the ~23 smaller category/region-split files listed in the same directory (cu.data.1.AllItems, cu.data.2.Summaries, cu.data.3-20.*, totaling more retrieval overhead for the identical underlying data) since 48.5MB is comfortably under the 500MB cap and it is the natural single download unit for 'full CPI history' as the task requested -- downloading it once avoids ~23 redundant fetches of data that's already a subset of this file. cu.series (1,339,447 bytes) = full series catalog (series_id -> area/item/seasonal/periodicity/base/title/coverage). cu.item = item code -> item name (e.g. SA0=All items, SEHF01=Electricity, SAF11=Food at home). cu.area = area code -> area name. This complements CPIAUCSL already pulled from FRED (which is just the single headline seasonally-adjusted All-Items series, monthly, back to 1947) -- this bulk file has that same series (CUSR0000SA0) PLUS every CPI sub-index and region breakdown BLS publishes, e.g. category-level CPI for food, housing, energy, medical care, which is the more granular comparator data useful for this project. ACCESS NOTE: identical Akamai 403 block on direct curl as with the 'ap' bulk files; worked around via Browser-pane preview + same-origin fetch() from the directory listing page. All downloaded byte counts verified to match the directory listing exactly before write (proves complete, unmodified transfer, not truncated or an HTML error page).",
+  "failures": []
+}

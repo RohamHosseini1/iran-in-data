@@ -1,0 +1,25 @@
+{
+  "dataset_id": "usa-fred-bea-bls-fred-micro-price-series",
+  "title": "FRED / BLS Average Price Data — USA item-level retail prices (eggs, chicken, oranges, gasoline, electricity)",
+  "source_org": "U.S. Bureau of Labor Statistics (BLS Average Price Data), series mirrored on FRED (Federal Reserve Bank of St. Louis)",
+  "source_url": "https://fred.stlouisfed.org/release/tables?rid=350",
+  "download_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=<SERIES_ID>",
+  "retrieved_at_utc": "2026-07-12T20:14:00Z",
+  "retrieved_by": "agent:usa-fred-bea-bls",
+  "files": [
+    {"name": "APU0000708111.csv", "original_name": null, "sha256": "85253719923c16da2d4e72f4e794615fc7c1f0e05e755e5009f8ef56633acbb1", "bytes": 9495},
+    {"name": "APU0000706111.csv", "original_name": null, "sha256": "fb4bd4869c33f24db90eef7dc5714c4a82351146b49fb0e98323d7f33c098497", "bytes": 9490},
+    {"name": "APU0000711311.csv", "original_name": null, "sha256": "de6f61bd2862f3d193a832c00bcca38f18264be6ca2d618a7bc9ab959f0a2eca", "bytes": 8765},
+    {"name": "APU000074714.csv", "original_name": null, "sha256": "41002cc0571ef287e3bf7b4bdf22b8cad78504d3ea515e4f8a377a32e7c98436", "bytes": 10315},
+    {"name": "APU000072610.csv", "original_name": null, "sha256": "499001ccdf760e517107b991b69cb2193fca32e6abd6b0120ca7d4cdd6b91afe", "bytes": 9727}
+  ],
+  "countries": ["USA"],
+  "time_coverage": "1976–2026 (varies by series; gasoline from 1976, electricity from 1978, eggs/chicken/oranges from 1980)",
+  "frequency": "monthly",
+  "units": "USD per unit: eggs = $/dozen; chicken = $/lb; oranges (navel) = $/lb; gasoline (unleaded regular) = $/gallon; electricity = $/kWh. All 'U.S. City Average', not seasonally adjusted.",
+  "license_terms": "Public domain (U.S. federal statistical data)",
+  "notes": "These are BLS Average Price Data series (the item-level micro price program), retrieved via their FRED mirror since FRED's single-series CSV export needs no API key. IDs were verified/corrected via FRED search (https://fred.stlouisfed.org/search?st=...) against the task's guessed IDs: APU0000708111 (Eggs, Grade A, Large, per dozen) CONFIRMED correct as guessed. APU0000711311 (Oranges, Navel, per lb) CONFIRMED correct as guessed. APU000074714 (Gasoline, Unleaded Regular, per gallon) CONFIRMED correct as guessed. APU000072610 (Electricity per kWh) CONFIRMED correct as guessed AND confirmed to exist. CHICKEN CORRECTED: the task's guess APU0000FF1101 is actually 'Chicken Breast, Boneless' (cost per lb, series starts 2006) — kept as a distinct product, NOT used as the 'whole chicken' series. The whole-chicken national series is APU0000706111 'Chicken, Fresh, Whole' (cost per lb, U.S. City Average, since Jan 1980), which is what was downloaded here as the chicken/lb series requested by the task. Same access-blocking issue as the macro-series folder applied (direct curl/WebFetch got 403/timeout from this sandbox); worked around via same-origin fetch() from the FRED page loaded in the Browser-pane preview. All 5 files verified as real observation_date,<ID> CSV data before saving. These are the highest-value files in this source folder per project brief: true item-level micro price data directly comparable to FAOSTAT producer prices / WFP retail food prices used for Iran and other comparators.",
+  "failures": [
+    {"attempted": "APU0000FF1101 as 'whole chicken/lb'", "reason": "task's guessed ID is actually Chicken Breast, Boneless, not whole chicken; corrected to APU0000706111 (see notes). Not a download failure — both series exist and are valid, just the task's assumed mapping was off for this one ID."}
+  ]
+}

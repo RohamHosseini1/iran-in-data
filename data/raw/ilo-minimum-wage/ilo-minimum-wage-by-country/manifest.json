@@ -1,0 +1,21 @@
+{
+  "dataset_id": "ilo-minimum-wage-by-country",
+  "title": "ILOSTAT — Monthly Minimum Wage by Country (local currency and by currency/PPP)",
+  "source_org": "International Labour Organization (ILOSTAT)",
+  "source_url": "https://ilostat.ilo.org/data/",
+  "download_url": "https://rplumber.ilo.org/data/indicator/?id=EAR_INEE_NOC_NB_A&format=.csv (and id=EAR_INEE_CUR_NB_A)",
+  "retrieved_at_utc": "2026-07-12T18:18:39Z",
+  "retrieved_by": "agent:labor-minimum-wage-download",
+  "files": [
+    {"name": "EAR_INEE_NOC_NB_A.csv", "original_name": null, "sha256": "641333661608f12e4135fc244db09cf6f6e6e4fcd2bbe925b5d4ce94533fd3cd", "bytes": 281291},
+    {"name": "EAR_INEE_CUR_NB_A.csv", "original_name": null, "sha256": "c70a3b7c6d8fee58b7d947ecd634f300c16438823303081240aab95dd353bb25", "bytes": 980515}
+  ],
+  "countries": ["ALL (world; confirmed rows present for IRN, KOR, TUR, SAU, VEN, USA, RUS, ESP, PRT, GRC)"],
+  "time_coverage": "1980-2025 (Iran: 2001, then continuous 2002-2024; gap 2012-2015 not present in ILO series)",
+  "frequency": "annual",
+  "topics": ["labour", "wages", "minimum wage"],
+  "units": "EAR_INEE_NOC_NB_A: local currency units, monthly minimum wage. EAR_INEE_CUR_NB_A: same but broken out by classif1 = CUR_TYPE_LCU (local currency) and CUR_TYPE_PPP (PPP-converted).",
+  "license_terms": "ILOSTAT open data terms (CC BY 4.0 IGO, per ILO data policy)",
+  "notes": "ILOSTAT indicator EAR_INEE_NOC_NB / EAR_INEE_NB = 'Monthly minimum wage'. ILO compiles this from national legal sources (source field per-country, e.g. Iran source code EB:3479 = Employer-based/official source). Iran (IRN) rows confirmed present: 26 annual observations from 2001-2024 in EAR_INEE_NOC_NB_A.csv (rial figures), e.g. 2024=53,073,300 rial/month, 2023=53,073,300, 2022=26,554,950, 2021=26,554,950, 2020=18,340,000, 2019=15,170,000, 2018=11,112,690, 2017=9,299,310, 2016=9,299,310. Note ILO series has gaps (e.g. no 2012-2015 rows) and some years show the same wage repeated (reflecting no policy change within a Persian calendar year that spans two Gregorian years, or a mid-2021 vs full-2022 rate). This full-world file was kept whole (natural bulk-download unit; not excessively large) per bookkeeping size discipline rather than country-filtered. Cross-reference against the hand-compiled Supreme Labor Council series in data/raw/iran-labor-council/minimum-wage-history/ for the authoritative year-by-year figures — the two series should be checked against each other for discrepancies (ILO's IRR figures appear to reflect the OLD rial pre-2025 redenomination and pre-2025 rate hikes may differ from Trading-Economics or Iranian press figures for the same year due to differing wage components, e.g. base wage vs. base+allowances).",
+  "failures": []
+}

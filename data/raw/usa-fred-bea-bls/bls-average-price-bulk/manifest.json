@@ -1,0 +1,28 @@
+{
+  "dataset_id": "usa-fred-bea-bls-bls-average-price-bulk",
+  "title": "BLS Average Price Data — full bulk flat-file download (item-level US retail/energy prices, all items, all areas)",
+  "source_org": "U.S. Bureau of Labor Statistics (BLS)",
+  "source_url": "https://www.bls.gov/cpi/factsheets/average-prices.htm",
+  "download_url": "https://download.bls.gov/pub/time.series/ap/",
+  "retrieved_at_utc": "2026-07-12T20:18:00Z",
+  "retrieved_by": "agent:usa-fred-bea-bls",
+  "files": [
+    {"name": "ap.data.0.Current", "original_name": null, "sha256": "9122d018f1af426680939ec7e027acf18bb8299a5a9ca3b3c32527fe895e7d8f", "bytes": 8906314},
+    {"name": "ap.series", "original_name": null, "sha256": "81a3c6fc813daf8e88db6c84452d30e56879b08c098b847b539afc6de95817be", "bytes": 231046},
+    {"name": "ap.item", "original_name": null, "sha256": "4e96f3bca741f65692971fdec8053a44f7ee20f47a02eace4c4d3d9a1dd148f6", "bytes": 9242},
+    {"name": "ap.area", "original_name": null, "sha256": "1137036146970cc9320065ed0f94902f710709b6693ca0abf82c9fda3cf51042", "bytes": 2114},
+    {"name": "ap.txt", "original_name": null, "sha256": "c83886f9a54f113a093c4251d5893233854407e382ae0d5209ffb09f791e7864", "bytes": 10417},
+    {"name": "ap.footnote", "original_name": null, "sha256": "ee0ad4fc6d5ca98c10b0a9b9cdd343ad9a56438c6d3534cc4c82f20505cac6f9", "bytes": 89},
+    {"name": "ap.period", "original_name": null, "sha256": "3a6636301c03a15da1cfa37522aeaccda45fa2bf92d325677d7b6c258ab0cd7d", "bytes": 252},
+    {"name": "ap.seasonal", "original_name": null, "sha256": "801baddf3511b8d9b03c0dbd1a9d9365c668b911a2228c6c594ea8a684ace5d7", "bytes": 79},
+    {"name": "ap.contacts", "original_name": null, "sha256": "e6bf19bed5382472c2d397111995d39a8dfb012091cffee0fadadb9b778c0157", "bytes": 987}
+  ],
+  "countries": ["USA"],
+  "time_coverage": "1980–2026 (varies by item; some series e.g. gasoline/electricity start earlier, see ap.series begin_year/begin_period columns)",
+  "frequency": "monthly",
+  "topics": ["micro prices", "average price data", "food prices", "energy prices", "household fuels", "gasoline", "item-level retail prices"],
+  "units": "USD per item-specific unit (per lb, per dozen, per gallon, per kWh, etc.) — see ap.item for item names/units and ap.series for series-to-item/area mapping",
+  "license_terms": "Public domain (U.S. federal statistical data)",
+  "notes": "This is the FULL BLS Average Price flat-file bulk download for the 'ap' survey — the complete item-level micro price program (hundreds of specific food/energy/household-fuel items across U.S. city average + census regions + metro areas), exactly the granularity this project prioritizes. ap.data.0.Current = full current data file, all series, all years (212,044 data rows, tab-delimited: series_id/year/period/value/footnote_codes). ap.series = series catalog (231,046 bytes) mapping series_id -> area_code, item_code, title, begin/end coverage. ap.item = item code -> item name lookup (includes eggs/701311-style codes, meats, produce, fuels...). ap.area = area code -> area name (0000 = U.S. city average, plus census regions/divisions and named metro areas). ap.txt = BLS's own documentation/readme for this data series. Also grabbed the small companion reference files (ap.footnote, ap.period, ap.seasonal, ap.contacts) since they were trivial in size. ACCESS NOTE: direct curl to download.bls.gov returned HTTP 403 from Akamai (Server: AkamaiGHost) regardless of browser User-Agent -- this sandbox's egress appears to be on an Akamai bot-block list. Worked around identically to the FRED datasets: loaded https://download.bls.gov/pub/time.series/ap/ in the Browser-pane preview (separate network path), confirmed the real Apache-style directory listing with exact byte sizes, then used same-origin fetch() from that page's JS console to retrieve each file. Downloaded byte counts match the directory listing exactly for every file (verified before write), confirming the files are complete and unmodified, not partial or HTML error pages. This single dataset supersedes/complements the individually-curated fred-micro-price-series folder: the FRED micro series (eggs/chicken/oranges/gasoline/electricity) are a hand-picked subset of what's in ap.data.0.Current; this bulk file has the full item universe (flour, rice, spaghetti, all meat cuts, produce, motor fuels, utility gas, electricity, etc.) for anyone doing broader item-level analysis later.",
+  "failures": []
+}

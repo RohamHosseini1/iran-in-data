@@ -1,0 +1,23 @@
+{
+  "dataset_id": "imidro-annual-report-2021-22-extraction",
+  "title": "IMIDRO Annual Report 2021-22 -- Steel/Copper/Aluminum Capacity Growth Since 2002, Sarcheshmeh Monthly Production Snapshot, and New Mineral Reserves Valuation 2014-2021",
+  "source_org": "Iran Mines and Mining Industries Development and Renovation Organization (IMIDRO)",
+  "source_url": "imidro.gov.ir (original); already-downloaded file data/raw/imidro-iran/statistical-reports/annual-report-2021-2022.pdf from a prior round, not previously extracted into tabular data",
+  "download_url": null,
+  "extraction_method": "`pdftotext -layout` full-document extraction followed by grep for keywords (Sarcheshmeh, tonnage, steel production capacity, insitu reserves) to locate three tables, then manual transcription. Text was cleanly extractable (modern digitally-produced PDF, no OCR/scan issues) -- no visual PNG verification needed.",
+  "retrieved_by": "claude (manual transcription)",
+  "retrieved_at_utc": "2026-07-13T00:27:37Z",
+  "files": [
+    {"name": "capacity-growth-since-2002.csv", "original_name": null, "sha256": "cba31b3e9b15d8f70f843ddb4b1ad45cc2ae1d19334e5918d5b4457652f20409", "bytes": 288},
+    {"name": "sarcheshmeh-monthly-production-snapshot.csv", "original_name": null, "sha256": "32caff125743f62e3d1068cbdb067fd8cae42244f4e7f1938fe1a51a5f22c29b", "bytes": 1067},
+    {"name": "new-mineral-reserves-value-2014-2021.csv", "original_name": null, "sha256": "fd494cd98e63e891614f481e11d803f129dddd95e8e6aeecbd400803b67c6f32", "bytes": 502}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "capacity-growth: 2002-03 to 2021-22; sarcheshmeh-snapshot: one recent month + year-to-date vs prior-year comparison (exact calendar month not labeled in the source excerpt captured, Iranian fiscal-year based); reserves-valuation: cumulative new discoveries 2014-15 to 2021-22",
+  "frequency": "annual report, single-point and cumulative figures (not a full time series)",
+  "topics": ["mining", "copper", "sarcheshmeh", "steel", "aluminum", "mineral-reserves", "imidro", "modern-era"],
+  "units": "mixed -- see unit column per file",
+  "license_terms": "IMIDRO publication",
+  "notes": "MODERN-DAY BRIDGE for this round's Sar Cheshmeh/steel mining data: closes the loop from the Pahlavi-era USGS Minerals Yearbook narrative (1965-1980, see usgs-minerals-yearbook/historical-pre1990-volumes/) through to today. Key figures: Iran's national steel production capacity grew from 8 million tons/year (at IMIDRO's 2002-03 founding) to 43.5 million tons/year (2021-22, a 5.4x increase) -- a striking continuation of the growth trajectory that started with the Isfahan Steel Mill's original 750,000-ton first stage (see wb1972industrial-isfahan-steel-and-idro-capital-goods and usgs commodity-narrative-highlights datasets from this same round). Copper cathode capacity 190,000->450,000 tons/year (+140%); aluminum billets 216,000->770,000 tons/year (3.5x). The Sarcheshmeh snapshot table shows the mine/smelter/refinery complex is still Iran's dominant copper production site today, still using the same anode/refinery/leaching/casting production chain terminology as in the 1970s USGS reports, now joined by newer sites (Miduk, Sungun, Khatounabad) forming a broader national copper-industry cluster. Reserves-valuation table: one anomaly preserved as-is rather than corrected -- Rare Earth Elements shows a blank unit price and $0 total value despite 85 million tons of new reserves and a nonzero 'price percentage' column value, suggesting either an unpriced/emerging commodity category or a source-table data-entry gap; transcribed faithfully rather than estimated. Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": []
+}

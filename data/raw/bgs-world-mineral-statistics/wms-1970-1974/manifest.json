@@ -1,0 +1,20 @@
+{
+  "dataset_id": "bgs-world-mineral-statistics-1970-1974",
+  "title": "British Geological Survey World Mineral Statistics 1970-1974 (all countries, all commodities)",
+  "source_org": "British Geological Survey (BGS), Minerals UK",
+  "source_url": "https://www.bgs.ac.uk/mineralsuk/statistics/world-mineral-statistics/world-mineral-statistics-archive/",
+  "download_url": "https://nora.nerc.ac.uk/id/eprint/535261/1/WMS_1970_1974.pdf",
+  "retrieved_at_utc": "2026-07-13T00:30:05Z",
+  "retrieved_by": "claude (direct curl download)",
+  "files": [
+    {"name": "WMS_1970_1974.pdf", "original_name": "WMS_1970_1974.pdf", "sha256": "8480804955192892efac5c7585dbbaa194313c46d48b1b1a573856729dc7fe50", "bytes": 37944524}
+  ],
+  "countries": ["all countries worldwide, including IRN -- see notes on table structure"],
+  "time_coverage": "1970-1974",
+  "frequency": "annual, 5-year compiled volume",
+  "topics": ["mining", "minerals", "trade", "production", "comparator-countries"],
+  "units": "tonnes (production tables) / varies (trade tables)",
+  "license_terms": "British Geological Survey / NERC Open Research Archive (NORA) -- scanned legacy publication made freely available",
+  "notes": "DOWNLOADED BUT NOT YET EXTRACTED -- flagged explicitly rather than silently left incomplete. This is a SCANNED image-only PDF with essentially no usable text layer (`pdftotext` returns only 4 lines across all 216 pages; confirmed via direct page rendering that the body content is pure scanned table images). Unlike the USGS Minerals Yearbook (organized by COUNTRY chapter, one contiguous Iran section per volume, making extraction tractable), BGS organizes this volume by COMMODITY, with countries as individual ROWS scattered across dozens of separate per-commodity tables (e.g. p.4 sampled during this round: 'Exports of Bauxite, Alumina & Aluminium' lists ~20 countries alphabetically by continent/region, tonnes 1970-1974) -- Iran's data points would need to be individually located and visually read from perhaps 15-20+ separate commodity tables spread across the 216-page volume, a materially larger effort than the USGS extraction completed this round. Deferred to a future round as a worthwhile follow-up (this source is continuous back to 1913 per BGS's own description, potentially the deepest available mineral-statistics run for Iran of any source checked in this project to date) rather than attempted with the time available in this round. The BGS archive page also lists 'Statistical Summary of the Minerals Industry 1960-1965' (https://nora.nerc.ac.uk/id/eprint/535270) and 'World Mineral Statistics 1975-1979' (https://nora.nerc.ac.uk/id/eprint/535256) as sibling volumes, not downloaded this round -- noted here so a future pass does not need to re-discover these URLs. Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": []
+}

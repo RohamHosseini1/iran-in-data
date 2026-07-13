@@ -1,0 +1,943 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Policy Rates</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <LINK href="/Skins/Skin-1395/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/bootstrap-theme.min.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/icon.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/animate.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/jquery.bxslider.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/main.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/en/en.css" type="text/css" rel="stylesheet">
+    <link href="/Skins/Skin-1395/css/EN-bootstrap-custom.css" rel="stylesheet">
+    <meta charset="utf-8" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="fontiran.com:license" content="DZP72">
+    
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    <script type="text/javascript" src="/Skins/Skin-1395/en/print.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery-ui-1.9.0.custom.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/bootstrap.rtl.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/CBI.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/CBI-NewsSlider.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery.jsticky.min.js"></script>
+    <script type="text/javascript" src="/Utils.js"></script>
+
+    <!--
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-120472-1";
+		urchinTracker();
+		</script>
+-->
+</head>
+<body onload="preloadImages();">
+    
+    <form name="aspnetForm" method="post" action="./policyrates_en.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B107BC49" />
+        
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".txtHomeQuickSearch").keypress(function (event) {
+            if (event.keyCode == 13) {
+                $("#ctl00_ucHeader_btnQuickSearch").click();
+            }
+        });
+    });
+</script>
+<!-- START OF MAIN HEADER -->
+<div id="top" class="top-bar-cbi-ir">
+    <div class="container">
+        <div class="col-lg-6 col-md-6 col-xs-12"></div>
+        <div class="col-lg-6 col-md-6 col-xs-12">
+            <div class="col-lg-6 col-md-6 col-xs-6">
+                <div class="input-group">
+                    <span class="input-group-btn">
+                        <input name="ctl00$ucHeader$txtQuickSearch" type="text" maxlength="100" id="ctl00_ucHeader_txtQuickSearch" class="form-control search-input-cbi-ir txtHomeQuickSearch" placeholder="Search..." />
+                        <button onclick="__doPostBack('ctl00$ucHeader$btnQuickSearch','')" id="ctl00_ucHeader_btnQuickSearch" type="button" class="btn btn-default search-btn-cbi-ir"><i class="icon-search"></i></button>
+                    </span>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-4 text-center">
+                <a id="ctl00_ucHeader_lnkAdvancedSearch" class="btn advance-search-cbi-ir" href="javascript:__doPostBack(&#39;ctl00$ucHeader$lnkAdvancedSearch&#39;,&#39;&#39;)">Advanced Search</a>
+            </div>
+            <div class="col-lg-2 col-md-2 col-xs-2">
+                <a href="/default.aspx" class="btn chanage-lng-cbi-ir">فارسی</a>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="top-header-cbi-ir header-bg-cbi-ir">
+    <div class="container header-content-cbi-ir">
+        <a href="/default_en.aspx">
+            <svg width="194" height="100">
+                <image xlink:href="/images/EN-logo.png" class="cbi-logo" src="/images/EN-logo.png" width="200" height="120" />
+            </svg>
+        </a>
+        <img src="/images/iran-flag.jpg" class="iran-flag-cbi-ir pull-right" />
+    </div>
+</header>
+
+        
+<!-- START OF MAIN MENU -->
+<div class="main-navbar-cbi-ir">
+    <div class="container">
+
+        <div class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="mob-cbi-title" href="#">CENTRAL BANK OF THE ISLAMIC REPUBLIC OF IRAN</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/AboutTheBank.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">About the Bank<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/AboutTheBank.aspx'><h5>About the Bank</h5></a></div>
+                                            <a style="padding: 0;" href='/section/AboutTheBank.aspx'>
+                                                <img src='/Upload/MenuImages/1369.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                The Central Bank of Iran (CBI) was established in 1960 (1339 solar year). As stated in the Monetary and Banking Act of Iran (MBAI), CBI is responsible for the design and implementation of the monetary and credit policies...&nbsp;<a href='/section/AboutTheBank.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/GeneralInformation.aspx'><i class="icon-right-open-big"></i>General Information</a></li>
+                                                    
+                                                        <li><a href='/organization/16147.aspx'><i class="icon-right-open-big"></i>Organization</a></li>
+                                                    
+                                                        <li><a href='/page/1389.aspx'><i class="icon-right-open-big"></i>Executive Board and Vice Governors</a></li>
+                                                    
+                                                        <li><a href='/simplelist/7674.aspx'><i class="icon-right-open-big"></i>Organizational Chart </a></li>
+                                                    
+                                                        <li><a href='/page/1475.aspx'><i class="icon-right-open-big"></i>The Treasury of National Jewels </a></li>
+                                                    
+                                                        <li><a href='/page/1450.aspx'><i class="icon-right-open-big"></i>Library</a></li>
+                                                    
+                                                        <li><a href='/page/Contact_en.aspx'><i class="icon-right-open-big"></i>Contact</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/organization/16147.aspx'>
+                                                <img src='/Upload/MenuImages/16147.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/organization/16147.aspx'>
+                                                <h5>Organization</h5>
+                                            </a>
+                                            <p>
+                                                The Central Bank of the Islamic Republic of Iran is composed of the following organs:<br>1- The General Assembly<br>2- The Monetary and Credit Council<br>3- The Executive Board<br>4- The Note Reserve Control Board<br>5- The Supervisory Board
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/1475.aspx'>
+                                                <img src='/Upload/MenuImages/1475.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/1475.aspx'>
+                                                <h5>The Treasury of National Jewels </h5>
+                                            </a>
+                                            <p>
+                                                The National Jewelry Treasury is housed within the Central Bank of the Islamic Republic of Iran, at the heart of the City of Tehran. Here is the most dazzling collection of gemstones and jewelry known in the world.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1370.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">Monetary Policy<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1370.aspx'><h5>Monetary Policy</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1370.aspx'>
+                                                <img src='/Upload/MenuImages/1370.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                The main objectives of macroeconomic policies, in general, and monetary policies, in particular, are price stability, economic growth and a favorable employment level....&nbsp;<a href='/section/1370.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/1465.aspx'><i class="icon-right-open-big"></i>Monetary Policy Instruments in Iran</a></li>
+                                                    
+                                                        <li><a href='/page/1466.aspx'><i class="icon-right-open-big"></i>Banking System and the FYDP</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1467.aspx'><i class="icon-right-open-big"></i>Monetary Policies in Recent Years</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1493.aspx'><i class="icon-right-open-big"></i>Banking Profit Rates</a></li>
+                                                    
+                                                        <li><a href='/page/1627.aspx'><i class="icon-right-open-big"></i>Sectoral Credit Allocation</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/1465.aspx'>
+                                                <img src='/Upload/MenuImages/1465.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/1465.aspx'>
+                                                <h5>Monetary Policy Instruments in Iran</h5>
+                                            </a>
+                                            <p>
+                                                Two different monetary policy instruments are being utilized: direct instruments (with no reliance on market conditions) and indirect instruments (market-oriented).
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/1467.aspx'>
+                                                <img src='/Upload/MenuImages/1467.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/1467.aspx'>
+                                                <h5>Monetary Policies in Recent Years</h5>
+                                            </a>
+                                            <p>
+                                                
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1373.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">Publications<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1373.aspx'><h5>Publications</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1373.aspx'>
+                                                <img src='/Upload/MenuImages/1373.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                Here you can find all of the Central Bank’s publications, including Economic Trends, Annual Review and  Economic Report & Balance Sheet....&nbsp;<a href='/section/1373.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/category/EconomicTrends_en.aspx'><i class="icon-right-open-big"></i>Economic Trends</a></li>
+                                                    
+                                                        <li><a href='/simplelist/AnnualReview_en.aspx'><i class="icon-right-open-big"></i>Annual Review</a></li>
+                                                    
+                                                        <li><a href='/category/EconomicReport_en.aspx'><i class="icon-right-open-big"></i>Economic Report & Balance Sheet</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1430.aspx'><i class="icon-right-open-big"></i>Occasional Papers and Reports</a></li>
+                                                    
+                                                        <li><a href='/simplelist/2767.aspx'><i class="icon-right-open-big"></i>Other Publications</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/category/EconomicTrends_en.aspx'>
+                                                <img src='/Upload/MenuImages/1471.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/category/EconomicTrends_en.aspx'>
+                                                <h5>Economic Trends</h5>
+                                            </a>
+                                            <p>
+                                                
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/category/EconomicReport_en.aspx'>
+                                                <img src='/Upload/MenuImages/1563.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/category/EconomicReport_en.aspx'>
+                                                <h5>Economic Report & Balance Sheet</h5>
+                                            </a>
+                                            <p>
+                                                
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1454.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">Laws & Regulations<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1454.aspx'><h5>Laws & Regulations</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1454.aspx'>
+                                                <img src='/Upload/MenuImages/1454.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                ...&nbsp;<a href='/section/1454.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/simplelist/1457.aspx'><i class="icon-right-open-big"></i>Laws</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1458.aspx'><i class="icon-right-open-big"></i>Regulations</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1459.aspx'><i class="icon-right-open-big"></i>Circulars</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/1457.aspx'>
+                                                <img src='/Upload/MenuImages/1457.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/1457.aspx'>
+                                                <h5>Laws</h5>
+                                            </a>
+                                            <p>
+                                                
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/1459.aspx'>
+                                                <img src='/Upload/MenuImages/1459.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/1459.aspx'>
+                                                <h5>Circulars</h5>
+                                            </a>
+                                            <p>
+                                                
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1372.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">Statistics<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1372.aspx'><h5>Statistics</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1372.aspx'>
+                                                <img src='/Upload/MenuImages/1372.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                The Bank compiles and publishes a range of monetary, financial and economic statistics....&nbsp;<a href='/section/1372.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/simplelist/1418.aspx'><i class="icon-right-open-big"></i>Economic Statistics</a></li>
+                                                    
+                                                        <li><a href='/page/2072.aspx'><i class="icon-right-open-big"></i>National Accounts of Iran</a></li>
+                                                    
+                                                        <li><a href='/exrates/rates_en.aspx'><i class="icon-right-open-big"></i>Foreign Exchange Rates</a></li>
+                                                    
+                                                        <li><a href='/simplelist/SelectedEconomicIndicators_en.aspx'><i class="icon-right-open-big"></i>Selected Economic Indicators</a></li>
+                                                    
+                                                        <li><a href='/page/8020.aspx'><i class="icon-right-open-big"></i>Economic Time Series Database</a></li>
+                                                    
+                                                        <li><a href='/Inflation/Inflation_en.aspx'><i class="icon-right-open-big"></i>CPI and Inflation</a></li>
+                                                    
+                                                        <li><a href='/PolicyRates/policyrates_en.aspx'><i class="icon-right-open-big"></i>Policy Rates</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/1418.aspx'>
+                                                <img src='/Upload/MenuImages/1418.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/1418.aspx'>
+                                                <h5>Economic Statistics</h5>
+                                            </a>
+                                            <p>
+                                                The general directorate of economic statistics is responsible for preparing and publishing a wide range of statistics and economic indices.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/2072.aspx'>
+                                                <img src='/Upload/MenuImages/2072.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/2072.aspx'>
+                                                <h5>National Accounts of Iran</h5>
+                                            </a>
+                                            <p>
+                                                "National Accounts of Iran" include statistics about gross domestic product (GDP), national investment, consumption, export and import, income and saving, 
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1460.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">Bank Supervision<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1460.aspx'><h5>Bank Supervision</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1460.aspx'>
+                                                <img src='/Upload/MenuImages/1460.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                ...&nbsp;<a href='/section/1460.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/simplelist/1461.aspx'><i class="icon-right-open-big"></i>Structure</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1462.aspx'><i class="icon-right-open-big"></i>Banks and Credit Institutions</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1463.aspx'><i class="icon-right-open-big"></i>Prudential Regulations</a></li>
+                                                    
+                                                        <li><a href='/page/8088.aspx'><i class="icon-right-open-big"></i>Anti-Money Laundering</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/1462.aspx'>
+                                                <img src='/Upload/MenuImages/1462.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/1462.aspx'>
+                                                <h5>Banks and Credit Institutions</h5>
+                                            </a>
+                                            <p>
+                                                Government owned and private banks management and contact information.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/1463.aspx'>
+                                                <img src='/Upload/MenuImages/1463.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/1463.aspx'>
+                                                <h5>Prudential Regulations</h5>
+                                            </a>
+                                            <p>
+                                                
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1481.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">Payments & Infrastructure<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1481.aspx'><h5>Payments & Infrastructure</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1481.aspx'>
+                                                <img src='/Upload/MenuImages/1481.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                ...&nbsp;<a href='/section/1481.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/15746.aspx'><i class="icon-right-open-big"></i>Payment & Clearance Systems</a></li>
+                                                    
+                                                        <li><a href='/page/15747.aspx'><i class="icon-right-open-big"></i>Infrustructures</a></li>
+                                                    
+                                                        <li><a href='/simplelist/16088.aspx'><i class="icon-right-open-big"></i>Operational Statistics</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/15746.aspx'>
+                                                <img src='/Upload/MenuImages/15746.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/15746.aspx'>
+                                                <h5>Payment & Clearance Systems</h5>
+                                            </a>
+                                            <p>
+                                                Large-value and retail payments and settlement systems play a critical role in electronic banking industry. Any type of electronic payment could be feasible to get processed through these systems
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/15747.aspx'>
+                                                <img src='/Upload/MenuImages/15747.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/15747.aspx'>
+                                                <h5>Infrustructures</h5>
+                                            </a>
+                                            <p>
+                                                Technology infrastructures include systems and communication networks, which all provide a safe and secure basement of messaging, data transfer and internal communications. 
+
+
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1374.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">Banknotes & Coins<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1374.aspx'><h5>Banknotes & Coins</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1374.aspx'>
+                                                <img src='/Upload/MenuImages/1374.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                The unit of Iranian currency is The Rial. The currencies of Iran are issued in the form of banknotes and coins. 
+According to The Monetary and Banking Act of Iran(MBAI),The government is the sole authority having the right of issuing notes and coins and this right is hereby vested exclusively in Bank Markazi Iran(Central Bank of The Islamic Republic of Iran) subject to the provisions of this Act....&nbsp;<a href='/section/1374.aspx'>more</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/1440.aspx'><i class="icon-right-open-big"></i>Current Banknotes</a></li>
+                                                    
+                                                        <li><a href='/simplelist/15833.aspx'><i class="icon-right-open-big"></i>withdrawn banknotes</a></li>
+                                                    
+                                                        <li><a href='/page/14286.aspx'><i class="icon-right-open-big"></i>Iran Cheque</a></li>
+                                                    
+                                                        <li><a href='/page/1441.aspx'><i class="icon-right-open-big"></i>Coins</a></li>
+                                                    
+                                                        <li><a href='/simplelist/2653.aspx'><i class="icon-right-open-big"></i>Security Features</a></li>
+                                                    
+                                                        <li><a href='/page/15713.aspx'><i class="icon-right-open-big"></i>Security Paper Mill (TAKAB)</a></li>
+                                                    
+                                                        <li><a href='/page/15734.aspx'><i class="icon-right-open-big"></i>Security printing and Minting Organization</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/15713.aspx'>
+                                                <img src='/Upload/MenuImages/15713.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/15713.aspx'>
+                                                <h5>Security Paper Mill (TAKAB)</h5>
+                                            </a>
+                                            <p>
+                                                Today, paper banknotes, cheques, passport pages are produced by security paper Mill.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/15734.aspx'>
+                                                <img src='/Upload/MenuImages/15734.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/15734.aspx'>
+                                                <h5>Security printing and Minting Organization</h5>
+                                            </a>
+                                            <p>
+                                                All phases of designing and printing of banknotes, cheques, Iran cheques , participation papers in Rial and exchange, paper of current account cheques, and other security papers requested by other organization are (being) executed by SPMO.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<!-- END OF MAIN MENU -->
+
+        
+<!-- Start of BreadCrumb Bar -->
+<div class="int-bar2">
+    <div class="container cont-brd">
+        <div class="breadcrumb">
+            <i class="icon-home"></i>
+            
+                    <a href='/default_en.aspx'>
+                        Home
+                    </a>
+                <span class="divid">»</span>
+                    <a href='/section/1372.aspx'>
+                        Statistics
+                    </a>
+                <span class="divid">»</span>
+            <span id="ctl00_ucPageNavigator_lblCurrent">Policy Rates</span>
+        </div>
+        
+<div class="cbi-tool-bar">
+    <span><i class="icon-tools"></i></span>
+    <span><a href="tg://msg_url?url=http://www.cbi.ir/PolicyRates/policyrates_en.aspx" id="ctl00_ucPageNavigator_ucPageOptions_sendToTelegram" title="Share this page via telegram"><i class="icon-telegram-solid-sm"></i></a></span>
+    <span onclick=""><a href="/Recommend/Recommend_en.aspx?tl=Policy+Rates" id="ctl00_ucPageNavigator_ucPageOptions_ancSend" title="Send this page to a friend"><i class="icon-mail-1"></i></a></span>
+    <span onclick=""><a href="javascript:printPage();" title="Opens in new window to print"><i class="icon-print"></i></a></span>
+</div>
+
+
+
+    </div>
+</div>
+<!-- End of BreadCrumb Bar -->
+
+        <div id="mainbody">
+            
+
+<!-- START OF MAIN CONTENT TABLE -->
+<div id="ctl00_ucBody_divBody" class="container main-section">
+    <div class="col-lg-3 col-md-3 menu-col">
+        
+
+<ul class="list-group cb-right-nav">
+    <li class="list-group-item top-parent"><a id="ctl00_ucBody_ctl00_ucSectionMenu_hypBackLink" href="/section/1372.aspx"><i class="icon-right-open-1"></i><span id="ctl00_ucBody_ctl00_ucSectionMenu_lblBackLinkTitle">Statistics</span></a></li>
+    <li class="list-group-item active"></li>
+    
+</ul>
+
+    <script type="text/javascript">
+        $(function () {
+            if ($(window).width() > 1024) {
+                $(".cb-right-nav").sticky({
+                    topSpacing: 20,
+                    zIndex: 2,
+                    stopper: ".footer-cbi-ir"
+                });
+            }
+		});
+    </script>
+		
+
+    </div>
+    <div class="col-lg-9 col-md-9 main-content2">
+        
+
+<div id="PrintArea">
+    <div id="ctl00_ucBody_ucContent_pnlPageTitle">
+	
+        
+        <h3 class="pagetitle">
+            Policy Rates
+        </h3>
+    
+</div>
+    
+<div class="Content">
+    
+
+<div class="row">
+    <h3 class="pagetitle">
+        
+    </h3>
+    <div class="col-sm-12 col-xs-12">
+        <div id="ctl00_ucBody_ucContent_ctl00_pnlRatesList">
+	
+            <div class="form-inline" style="padding-bottom: 20px;">
+                Year:  
+            <select name="ctl00$ucBody$ucContent$ctl00$ddlYear" id="ctl00_ucBody_ucContent_ctl00_ddlYear" class="form-control">
+		<option selected="selected" value="2021">2021</option>
+
+	</select>
+            </div>
+            <p>
+                
+            </p>
+            <p>
+                
+            </p>
+            <div id="ctl00_ucBody_ucContent_ctl00_divRates" class="divRates">
+                <table class="table table-striped table-bordered table-condensed table-responsive">
+                    <thead>
+                        <tr style="background-color: #2470ab; color: white; font-size:12px;">
+                            <th>Date</th>
+                             <th>Interbank Market Rate</th>
+                             <th>Repo Cut-off Rate</th>
+                             <th>Standing Lending Rate</th>
+                            <th>Standing Deposit Rate</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                                <tr style="text-align: center">
+                                    <td>
+                                        5/13/2021
+                                    </td>
+                                     <td>
+                                        19.58%
+                                    </td>
+                                     <td>
+                                        19.9%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        5/6/2021
+                                    </td>
+                                     <td>
+                                        19.56%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        4/29/2021
+                                    </td>
+                                     <td>
+                                        19.57%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        4/22/2021
+                                    </td>
+                                     <td>
+                                        19.76%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        4/15/2021
+                                    </td>
+                                     <td>
+                                        19.82%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        4/8/2021
+                                    </td>
+                                     <td>
+                                        19.87%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        3/31/2021
+                                    </td>
+                                     <td>
+                                        19.9%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        3/18/2021
+                                    </td>
+                                     <td>
+                                        19.99%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        3/13/2021
+                                    </td>
+                                     <td>
+                                        19.72%
+                                    </td>
+                                     <td>
+                                        19.8%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        3/6/2021
+                                    </td>
+                                     <td>
+                                        19.71%
+                                    </td>
+                                     <td>
+                                        19.81%
+                                    </td>
+                                     <td>
+                                        22%
+                                    </td>
+                                    <td>
+                                        14%
+                                    </td>
+                                </tr>
+                            
+                    </tbody>
+                    
+                </table>
+            </div>
+        
+</div>
+    </div>
+</div>
+
+</div>
+</div>
+
+        <div id="ctl00_ucBody_divNumberOfVisit" class="NumberOfVisitRow">
+            <span>Visits:</span>&nbsp;&nbsp;
+            <span id="ctl00_ucBody_lblNumberOfVisit" class="badge">578</span>
+        </div>
+        
+
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="container">
+    </div>
+</div>
+
+        </div>
+        <div id="footer">
+            
+<!-- START OF FOOTER-->
+<footer>
+    <div class="container-fluid">
+        <div class="container">
+
+        </div>
+    </div>
+    <div class="footer-cbi-ir">
+        <div class="container">
+            <div class="col-lg-3 col-md-6">
+                <ul class="links">
+                    <li><a href="/category/pressreleases_en.aspx">News Archive</a></li>
+                    
+                    <li><a href="/datedlist/Events_en.aspx">Events</a></li>
+                    <li><a href="/SimpleList/1419.aspx">Price Indices</a></li>
+                    <li><a href="/SimpleList/2072.aspx">National Accounts of Iran</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <ul class="links">
+                    <li><a href="/Category/1462.aspx">Banks and Credit Institutions</a></li>
+                    <li><a href="/SimpleList/2653.aspx">Banknotes Security Features</a></li>
+                    <li><a href="/sitemap/sitemap_en.aspx">Site Map</a></li>
+                    <li><a href="/page/links_en.aspx">Links</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <ul class="links">
+                    <li><a href="/page/Contact_en.aspx">Contact</a></li>
+                    <li><a href="/page/legal_en.aspx">Legal</a></li>
+                    <li><a href="/page/webmaster_en.aspx">Webmaster</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="contact-us-box">
+                    <div class="wp-title-bar">
+                        <div class="icon pull-left"><i class="icon-mail-1"></i></div>
+                        <h1 class="title pull-left">Contact us</h1>
+                    </div>
+                    <div class="contact-cbi-ir">
+                        <h4>CENTRAL BANK OF THE</h4>
+                        <h6>ISLAMIC REPUBLIC OF IRAN</h6>
+                        <a style="display:none" class="go-top" href="#top"><i class="icon-up-open-big"></i></a>
+                        <p><i class="icon-address"></i>NO.198,Mirdamad Blvd. Tehran, Iran</p>
+                        <p><i class="icon-mail"></i>G.SecDept [@] cbi.ir</p>
+                        <p><i class="icon-mail-1"></i> 15875/7177</p>
+                        <p><i class="icon-phone"></i>+98 21 299 51</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copy-right-cbi-ir">
+        Copyright © 2021 Central Bank of the Islamic Republic of Iran
+    </div>
+</footer>
+<!-- END OF FOOTER-->
+
+        </div>
+    </form>
+    
+</body>
+</html>
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'IOBGCCBFOPJAIHEMDNBHBKGFELFHCIAKDJOPHPBEAJPJGPMLCINKKNDJJBHAFGFGMNPAAAGMIPMBMMLFFHMHBDMLICPADHEGAAFABGECCINMCKPLAABGDCPMOLANLOFC',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,48,(latency>>8));str=f5_cspm.set_byte(str,49,(latency&0xff));str=f5_cspm.set_byte(str,43,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0651587909aaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script>
