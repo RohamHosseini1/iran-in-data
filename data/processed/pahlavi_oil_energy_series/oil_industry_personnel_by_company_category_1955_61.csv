@@ -1,0 +1,61 @@
+fiscal_year_label,year,category,subcategory,value,unit,notes,country_iso3,source_dataset
+1955,1955,Consortium,Labor,42900,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1955,1955,Consortium,Iranian staff,5899,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1955,1955,Consortium,Non-Iranian staff,280,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1955,1955,Consortium,Total,49079,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,Consortium,Labor,40391,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,Consortium,Iranian staff,5080,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,Consortium,Non-Iranian staff,453,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,Consortium,Total,45924,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,Consortium,Labor,39985,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,Consortium,Iranian staff + Non-Iranian staff (combined in source),5859,count (persons employed),Source brackets Iranian and Non-Iranian staff together for this year only,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,Consortium,Total,45844,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,Consortium,Labor,40053,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,Consortium,Iranian staff,5356,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,Consortium,Non-Iranian staff,603,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,Consortium,Total,46012,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,Consortium,Labor,36758,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,Consortium,Iranian staff,4887,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,Consortium,Non-Iranian staff,713,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,Consortium,Total,42358,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,Consortium,Labor + Iranian staff (combined in source),35197,count (persons employed),Source brackets Labor and Iranian staff together for 1960 and 1961 only (not split by category these two years),IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,Consortium,Non-Iranian staff,727,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,Consortium,Total,35924,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1961,1961,Consortium,Labor + Iranian staff (combined in source),23907,count (persons employed),Source brackets Labor and Iranian staff together for 1960 and 1961 only,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1961,1961,Consortium,Non-Iranian staff,635,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1961,1961,Consortium,Total,24542,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1955,1955,NIOC,Labor + Iranian staff (combined in source; estimated),6055,count (persons employed),Estimated (footnoted). Labor/Iranian-staff/Non-Iranian-staff not split for NIOC in 1955,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1955,1955,NIOC,Total,6055,count (persons employed),Estimated,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,NIOC,Labor,7197,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,NIOC,Iranian staff + Non-Iranian staff (combined in source),2113,count (persons employed),Does not include NIOC staff not reported by nationality this year,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,NIOC,Total,9310,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,NIOC,Labor,7955,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,NIOC,Iranian staff,2448,count (persons employed),Non-Iranian staff not separately reported this year for NIOC,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,NIOC,Total,10403,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,NIOC,Labor,8424,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,NIOC,Iranian staff,2778,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,NIOC,Non-Iranian staff,90,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,NIOC,Total,11292,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,NIOC,Labor,11226,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,NIOC,Iranian staff,3353,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,NIOC,Non-Iranian staff,68,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,NIOC,Total,14647,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,NIOC,Labor,13729,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,NIOC,Iranian staff + Non-Iranian staff (combined in source),4275,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,NIOC,Total,18004,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1961,1961,NIOC,Labor,,count (persons employed),Not available,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1961,1961,NIOC,Total,,count (persons employed),Not available,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1955,1955,Others,Total,2866,count (persons employed),Includes Consortium contractors (1955-60) and employees of SIRIP/IPAC/IRCAN (1959-60),IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,Others,Total,7913,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,Others,Total,7056,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,Others,Total,4724,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,Others,Total,4814,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,Others,Total,4966,count (persons employed),,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1961,1961,Others,Total,,count (persons employed),Not available,IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1955,1955,ALL COMPANIES,Grand total,58000,count (persons employed),"= Consortium 49,079 + NIOC 6,055(est.) + Others 2,866. Cross-checks exactly against Table 4's 1955 total of 58,000",IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1956,1956,ALL COMPANIES,Grand total,63147,count (persons employed),"= Consortium 45,924 + NIOC 9,310 + Others 7,913. Cross-checks exactly against Table 4",IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1957,1957,ALL COMPANIES,Grand total,63303,count (persons employed),"= Consortium 45,844 + NIOC 10,403 + Others 7,056. Cross-checks exactly against Table 4",IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1958,1958,ALL COMPANIES,Grand total,62033,count (persons employed),"Source prints 62,033, but summing the three reported components (Consortium 46,012 + NIOC 11,292 + Others 4,724) gives 62,028 -- a 5-unit source-internal discrepancy, PRESERVED AS-IS (not silently reconciled) per this project's established methodology for scanned-table extraction",IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1959,1959,ALL COMPANIES,Grand total,61819,count (persons employed),"= Consortium 42,358 + NIOC 14,647 + Others 4,814. Cross-checks exactly against Table 4",IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1960,1960,ALL COMPANIES,Grand total,58894,count (persons employed),"= Consortium 35,924 + NIOC 18,004 + Others 4,966. Cross-checks exactly against Table 4",IRN,usbm1963-oil-industry-personnel-by-category-1955-1961
+1961,1961,ALL COMPANIES,Grand total,,count (persons employed),"Not available (NIOC and Others not reported this year; only Consortium's 24,542 is known)",IRN,usbm1963-oil-industry-personnel-by-category-1955-1961

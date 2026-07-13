@@ -1,0 +1,25 @@
+fiscal_year_label,year,category,subcategory,value,unit,notes,country_iso3,source_dataset,value_usd_nominal,value_usd_real_2015,currency_conversion_note
+1960,1960,Mutton and goat,Quantity,150000,ton,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Mutton and goat,Gross Value,7835,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,103.4323,474.0073,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Beef and veal,Quantity,63000,ton,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Beef and veal,Gross Value,2018,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,26.6403,122.0864,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Pork,Quantity,500,ton,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Pork,Gross Value,35,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,0.462,2.1175,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Poultry,Quantity,16000,ton,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Poultry,Gross Value,1120,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,14.7855,67.7585,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Eggs,Quantity,44000,ton,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Eggs,Gross Value,2024,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,26.7195,122.4494,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Milk,Quantity,1540000,ton,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Milk,Gross Value,19590,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,258.6139,1185.1696,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Wool,Quantity,25000,ton,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Wool,Gross Value,1417,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,18.7063,85.7267,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Goat and camel hair,Gross Value,500,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,6.6007,30.2494,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Cattle and buffalo hides,Quantity,515000,number,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Cattle and buffalo hides,Gross Value,23,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,0.3036,1.3915,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Sheep and goat hides,Quantity,8500000,number,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Sheep and goat hides,Gross Value,170,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,2.2442,10.2848,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Goat intestines,Quantity,8500000,number,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Goat intestines,Gross Value,119,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,1.571,7.1993,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Cow intestines,Quantity,515000,number,,IRN,wb1962-agriculturetable2-livestock-production-value,,,
+1960,1960,Cow intestines,Gross Value,3,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,0.0396,0.1815,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Total,Gross Value,34854,Rls million,,IRN,wb1962-agriculturetable2-livestock-production-value,460.1188,2108.6217,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"

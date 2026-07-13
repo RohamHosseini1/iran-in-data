@@ -1,0 +1,28 @@
+country_iso3,province,solar_year,gregorian_year,num_shahrestan,num_bakhsh,num_shahr,num_dehestan,num_populated_abadi,source,notes
+IRN,Total country,1375,1996,252,680,614,2213,68125,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,East Azarbaijan,1375,1996,14,34,39,134,2840,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,West Azarbaijan,1375,1996,12,28,22,103,3227,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Ardabil,1375,1996,6,17,14,62,1882,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Esfahan,1375,1996,17,37,60,116,2470,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Ilam,1375,1996,7,17,15,36,753,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Bushehr,1375,1996,8,17,13,36,706,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Tehran,1375,1996,10,29,37,94,2190,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Chaharmahal and Bakhtiari,1375,1996,5,13,18,34,925,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Khorasan,1375,1996,23,74,54,224,7997,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Khuzestan,1375,1996,15,35,28,112,4496,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Zanjan,1375,1996,4,16,10,51,1103,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Semnan,1375,1996,4,11,14,28,789,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Sistan and Baluchestan,1375,1996,7,29,16,92,6038,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Fars,1375,1996,16,60,48,185,4393,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Qom,1375,1996,1,4,1,9,362,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Kurdistan,1375,1996,8,21,,,,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)","Shahr/dehestan/abadi cells illegible in this scan (ink blot/scan damage over the printed digits, confirmed by cross-checking column sums against the printed national totals: bakhsh column sums to exactly 680 with Kurdistan=21 included, confirming that value; but shahr/dehestan/abadi columns only reconcile if Kurdistan's cells are excluded from the sum, confirming those specific cells are unreadable, not merely uncertain). Left blank per this project's no-guessing rule."
+IRN,Kerman,1375,1996,10,31,,,5937,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",Shahr/dehestan cells illegible (same ink-blot damage pattern as Kurdistan's row); abadi (5937) is legible and consistent with the province-column arithmetic cross-check.
+IRN,Kermanshah,1375,1996,11,24,19,83,2793,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Kohgiluyeh and Boyer Ahmad,1375,1996,3,12,8,38,2026,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Gilan,1375,1996,14,30,35,99,2700,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Lorestan,1375,1996,9,24,10,81,2843,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Mazandaran,1375,1996,19,49,51,142,4036,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Markazi,1375,1996,8,15,18,60,1540,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Hormozgan,1375,1996,8,21,14,69,2046,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",
+IRN,Hamedan,1375,1996,,18,26,68,,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)","Shahrestan and abadi cells illegible/uncertain in this scan. Arithmetic cross-check: if the other 25 provinces' shahrestan counts are summed and subtracted from the printed national total (252), the implied Hamedan value is 6 — NOT recorded here as fact (per this project's rule against back-filling illegible cells from accounting identities), noted for a future re-scan/verification pass only."
+IRN,Yazd,1375,1996,7,14,15,38,1144,"SCI, 1375 (1996) General Census of Population and Housing, Selected Findings, Table A (الف)",

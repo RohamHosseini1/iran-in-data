@@ -1,0 +1,40 @@
+fiscal_year_label,year,category,subcategory,value,unit,notes,country_iso3,source_dataset,value_usd_nominal,value_usd_real_2015,currency_conversion_note
+1957-06-20,1957,Deposit Banks (banks other than the National Bank),Cash,2.09,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,Deposit Banks (banks other than the National Bank),Cash,3.44,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,Deposit Banks (banks other than the National Bank),Cash,4.57,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,Deposit Banks (banks other than the National Bank),Demand Deposits,3.30,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,Deposit Banks (banks other than the National Bank),Demand Deposits,5.10,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,Deposit Banks (banks other than the National Bank),Demand Deposits,7.66,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,Deposit Banks (banks other than the National Bank),Time Deposits,0.32,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,Deposit Banks (banks other than the National Bank),Time Deposits,0.38,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,Deposit Banks (banks other than the National Bank),Time Deposits,1.98,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,Deposit Banks (banks other than the National Bank),Excess Cash,1.58,billion rials,"Source prints both the row label '(Excess Cash)' and its values '(1.58)' '(2.66)' '(3.32)' in parentheses; interpreted as a memo/derived line rather than a negative figure (magnitude grows in step with Cash), but see manifest note on this ambiguity.",IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,Deposit Banks (banks other than the National Bank),Excess Cash,2.66,billion rials,"Source prints both the row label '(Excess Cash)' and its values '(1.58)' '(2.66)' '(3.32)' in parentheses; interpreted as a memo/derived line rather than a negative figure (magnitude grows in step with Cash), but see manifest note on this ambiguity.",IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,Deposit Banks (banks other than the National Bank),Excess Cash,3.32,billion rials,"Source prints both the row label '(Excess Cash)' and its values '(1.58)' '(2.66)' '(3.32)' in parentheses; interpreted as a memo/derived line rather than a negative figure (magnitude grows in step with Cash), but see manifest note on this ambiguity.",IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,Deposit Banks (banks other than the National Bank),Advances,5.01,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,Deposit Banks (banks other than the National Bank),Advances,7.22,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,Deposit Banks (banks other than the National Bank),Advances,13.70,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,National Bank,Private demand deposits,11.11,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,National Bank,Private demand deposits,13.85,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,National Bank,Private demand deposits,16.05,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,National Bank,Private time deposits,1.07,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,National Bank,Private time deposits,2.29,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,National Bank,Private time deposits,1.45,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,National Bank,Private advances,7.41,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1957 (known gap), not converted"
+1958-06-20,1958,National Bank,Private advances,10.46,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1958 (known gap), not converted"
+1959-06-20,1959,National Bank,Private advances,13.56,billion rials,,IRN,wb1960-table14-banking-statistics-private-sector,,,"no FX rate for 1959 (known gap), not converted"
+1957-06-20,1957,Deposit Banks as percent of Total deposits,Demand deposits,23,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1958-06-20,1958,Deposit Banks as percent of Total deposits,Demand deposits,27,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1959-06-20,1959,Deposit Banks as percent of Total deposits,Demand deposits,32,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1957-06-20,1957,Deposit Banks as percent of Total deposits,Time deposits,23,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1958-06-20,1958,Deposit Banks as percent of Total deposits,Time deposits,14,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1959-06-20,1959,Deposit Banks as percent of Total deposits,Time deposits,58,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1957-06-20,1957,Deposit Banks as percent of Total deposits,Advances,40,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1958-06-20,1958,Deposit Banks as percent of Total deposits,Advances,41,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1959-06-20,1959,Deposit Banks as percent of Total deposits,Advances,50,percent,,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1957-06-20,1957,"Ratio of advances to ""deposits""",Private Banks,130,percent,'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1958-06-20,1958,"Ratio of advances to ""deposits""",Private Banks,123,percent,'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1959-06-20,1959,"Ratio of advances to ""deposits""",Private Banks,118,percent,'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1957-06-20,1957,"Ratio of advances to ""deposits""",National Bank,56,percent,'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1958-06-20,1958,"Ratio of advances to ""deposits""",National Bank,57,percent,'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits,IRN,wb1960-table14-banking-statistics-private-sector,,,
+1959-06-20,1959,"Ratio of advances to ""deposits""",National Bank,72,percent,'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits,IRN,wb1960-table14-banking-statistics-private-sector,,,

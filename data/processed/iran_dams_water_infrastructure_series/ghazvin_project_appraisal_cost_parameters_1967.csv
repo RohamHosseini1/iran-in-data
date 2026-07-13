@@ -1,0 +1,34 @@
+category,item,local_currency_usd_million,foreign_exchange_usd_million,total_usd_million,notes
+cost_estimate,Civil works,11.6,4.9,16.5,
+cost_estimate,"Agricultural development, equipment and supplies",9.3,11.9,21.2,
+cost_estimate,Engineering and consultant services,3.1,7.7,10.8,
+cost_estimate,Sub-total,24.0,24.5,48.5,
+cost_estimate,Interest during construction,0,2.8,2.8,Interest on proposed Bank loan for 5-year construction period at 6 percent per annum
+cost_estimate,TOTAL PROJECT COST,24.0,27.3,51.3,
+financing,Proposed IBRD/World Bank loan,,,22.0,Covers foreign exchange cost of consultant services + interest during construction + part of direct imports/imputed foreign exchange costs
+financing,Government budget allocation (balance),,,29.3,
+expenditure_schedule,Year 1 - IBRD Loan,,,2.8,
+expenditure_schedule,Year 1 - Local Costs,,,3.9,
+expenditure_schedule,Year 1 - Total,,,6.7,
+expenditure_schedule,Year 2 - IBRD Loan,,,4.5,
+expenditure_schedule,Year 2 - Local Costs,,,6.0,
+expenditure_schedule,Year 2 - Total,,,10.5,
+expenditure_schedule,Year 3 - IBRD Loan,,,4.2,
+expenditure_schedule,Year 3 - Local Costs,,,5.5,
+expenditure_schedule,Year 3 - Total,,,9.7,
+expenditure_schedule,Year 4 - IBRD Loan,,,5.0,
+expenditure_schedule,Year 4 - Local Costs,,,6.6,
+expenditure_schedule,Year 4 - Total,,,11.6,
+expenditure_schedule,Year 5 - IBRD Loan,,,5.5,
+expenditure_schedule,Year 5 - Local Costs,,,7.3,
+expenditure_schedule,Year 5 - Total,,,12.8,
+expenditure_schedule,5-Year TOTAL - IBRD Loan,,,22.0,
+expenditure_schedule,5-Year TOTAL - Local Costs,,,29.3,
+expenditure_schedule,5-Year TOTAL - Total,,,51.3,
+key_parameter,Total project area,,,443000,"hectares; of which 310,000 ha classified as suited for irrigation (para 3.08)"
+key_parameter,Farmers' current annual cultivated land (pre-project baseline),,,132000,hectares (average ~6 ha per farm household: 2.5 ha irrigated + 3.5 ha dry-farmed)
+key_parameter,New land to be irrigated by Project (initial stage),,,33600,"hectares, including 3,400 ha deciduous orchards and 900 ha vineyards"
+key_parameter,Ultimate irrigated area (project works + private wells),,,88000,"hectares (long-run target beyond the initial 33,600 ha stage)"
+key_parameter,Total population of project area,,,250000,"people, across 273 villages"
+key_parameter,Pre-project government expenditure 1964-Sept.1967 - agricultural works,,,,561 million rials (~US$7.5M at 75 Rials/US$1)
+key_parameter,Pre-project government expenditure 1964-Sept.1967 - water development works,,,,607 million rials (~US$8.1M at 75 Rials/US$1)

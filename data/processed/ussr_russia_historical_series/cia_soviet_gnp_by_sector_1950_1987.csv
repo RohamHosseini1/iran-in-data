@@ -1,0 +1,419 @@
+year,sector_of_origin,billion_1982_rubles_factor_cost
+1950,Industry,32.9
+1951,Industry,37.0
+1952,Industry,40.0
+1953,Industry,43.3
+1954,Industry,47.3
+1955,Industry,52.2
+1956,Industry,55.8
+1957,Industry,59.5
+1958,Industry,64.2
+1959,Industry,69.9
+1960,Industry,75.1
+1961,Industry,80.5
+1962,Industry,86.6
+1963,Industry,90.9
+1964,Industry,96.9
+1965,Industry,103.1
+1966,Industry,108.6
+1967,Industry,116.8
+1968,Industry,123.9
+1969,Industry,130.5
+1970,Industry,138.0
+1971,Industry,144.2
+1972,Industry,150.6
+1973,Industry,160.6
+1974,Industry,171.7
+1975,Industry,181.4
+1976,Industry,187.4
+1977,Industry,193.0
+1978,Industry,197.2
+1979,Industry,200.7
+1980,Industry,204.1
+1981,Industry,206.7
+1982,Industry,209.3
+1983,Industry,214.5
+1984,Industry,220.5
+1985,Industry,225.1
+1986,Industry,231.0
+1987,Industry,238.3
+1950,Construction,9.1
+1951,Construction,10.4
+1952,Construction,11.4
+1953,Construction,12.5
+1954,Construction,13.9
+1955,Construction,15.6
+1956,Construction,16.9
+1957,Construction,18.7
+1958,Construction,21.1
+1959,Construction,23.7
+1960,Construction,25.3
+1961,Construction,26.6
+1962,Construction,27.7
+1963,Construction,28.8
+1964,Construction,30.3
+1965,Construction,32.1
+1966,Construction,33.3
+1967,Construction,35.8
+1968,Construction,37.5
+1969,Construction,38.9
+1970,Construction,42.0
+1971,Construction,44.5
+1972,Construction,46.6
+1973,Construction,48.3
+1974,Construction,49.8
+1975,Construction,51.6
+1976,Construction,52.0
+1977,Construction,52.2
+1978,Construction,52.5
+1979,Construction,51.5
+1980,Construction,51.4
+1981,Construction,51.5
+1982,Construction,50.6
+1983,Construction,52.2
+1984,Construction,53.1
+1985,Construction,54.3
+1986,Construction,56.4
+1987,Construction,57.8
+1950,Agriculture,75.9
+1951,Agriculture,66.5
+1952,Agriculture,71.0
+1953,Agriculture,73.7
+1954,Agriculture,75.6
+1955,Agriculture,84.6
+1956,Agriculture,99.0
+1957,Agriculture,95.5
+1958,Agriculture,103.8
+1959,Agriculture,105.0
+1960,Agriculture,102.7
+1961,Agriculture,109.0
+1962,Agriculture,104.4
+1963,Agriculture,85.9
+1964,Agriculture,113.7
+1965,Agriculture,118.1
+1966,Agriculture,123.1
+1967,Agriculture,122.2
+1968,Agriculture,130.4
+1969,Agriculture,122.1
+1970,Agriculture,139.5
+1971,Agriculture,136.3
+1972,Agriculture,124.2
+1973,Agriculture,147.7
+1974,Agriculture,142.1
+1975,Agriculture,124.4
+1976,Agriculture,138.7
+1977,Agriculture,142.0
+1978,Agriculture,147.0
+1979,Agriculture,134.8
+1980,Agriculture,125.5
+1981,Agriculture,122.5
+1982,Agriculture,133.4
+1983,Agriculture,141.3
+1984,Agriculture,138.4
+1985,Agriculture,133.1
+1986,Agriculture,146.8
+1987,Agriculture,140.9
+1950,Transportation,5.0
+1951,Transportation,5.6
+1952,Transportation,6.1
+1953,Transportation,6.8
+1954,Transportation,7.5
+1955,Transportation,9.0
+1956,Transportation,10.1
+1957,Transportation,11.6
+1958,Transportation,12.9
+1959,Transportation,14.3
+1960,Transportation,15.9
+1961,Transportation,17.2
+1962,Transportation,18.6
+1963,Transportation,20.4
+1964,Transportation,22.5
+1965,Transportation,25.5
+1966,Transportation,27.3
+1967,Transportation,29.8
+1968,Transportation,32.0
+1969,Transportation,33.6
+1970,Transportation,35.9
+1971,Transportation,38.5
+1972,Transportation,40.5
+1973,Transportation,43.5
+1974,Transportation,46.5
+1975,Transportation,49.3
+1976,Transportation,51.6
+1977,Transportation,52.3
+1978,Transportation,54.7
+1979,Transportation,56.3
+1980,Transportation,58.8
+1981,Transportation,61.0
+1982,Transportation,61.6
+1983,Transportation,63.3
+1984,Transportation,64.1
+1985,Transportation,65.5
+1986,Transportation,67.5
+1987,Transportation,68.2
+1950,Communications,0.7
+1951,Communications,0.7
+1952,Communications,0.8
+1953,Communications,0.9
+1954,Communications,0.9
+1955,Communications,1.0
+1956,Communications,1.1
+1957,Communications,1.2
+1958,Communications,1.3
+1959,Communications,1.3
+1960,Communications,1.4
+1961,Communications,1.5
+1962,Communications,1.6
+1963,Communications,1.7
+1964,Communications,1.9
+1965,Communications,2.0
+1966,Communications,2.3
+1967,Communications,2.5
+1968,Communications,2.7
+1969,Communications,2.9
+1970,Communications,3.1
+1971,Communications,3.3
+1972,Communications,3.5
+1973,Communications,3.8
+1974,Communications,4.0
+1975,Communications,4.2
+1976,Communications,4.4
+1977,Communications,4.6
+1978,Communications,4.8
+1979,Communications,5.1
+1980,Communications,5.3
+1981,Communications,5.5
+1982,Communications,5.7
+1983,Communications,5.9
+1984,Communications,6.1
+1985,Communications,6.4
+1986,Communications,6.8
+1987,Communications,7.2
+1950,Trade,6.6
+1951,Trade,7.2
+1952,Trade,8.0
+1953,Trade,8.9
+1954,Trade,9.9
+1955,Trade,10.9
+1956,Trade,11.8
+1957,Trade,12.8
+1958,Trade,14.0
+1959,Trade,15.0
+1960,Trade,16.0
+1961,Trade,16.7
+1962,Trade,17.7
+1963,Trade,18.4
+1964,Trade,19.1
+1965,Trade,20.3
+1966,Trade,21.8
+1967,Trade,23.5
+1968,Trade,25.2
+1969,Trade,26.6
+1970,Trade,28.5
+1971,Trade,29.8
+1972,Trade,30.9
+1973,Trade,32.4
+1974,Trade,34.2
+1975,Trade,35.9
+1976,Trade,37.3
+1977,Trade,38.4
+1978,Trade,38.9
+1979,Trade,40.0
+1980,Trade,40.9
+1981,Trade,41.7
+1982,Trade,41.9
+1983,Trade,43.0
+1984,Trade,44.2
+1985,Trade,44.7
+1986,Trade,44.9
+1987,Trade,45.9
+1950,Services,44.5
+1951,Services,45.8
+1952,Services,47.2
+1953,Services,48.1
+1954,Services,49.7
+1955,Services,50.6
+1956,Services,52.0
+1957,Services,53.4
+1958,Services,56.0
+1959,Services,58.3
+1960,Services,60.7
+1961,Services,63.1
+1962,Services,66.3
+1963,Services,69.0
+1964,Services,72.6
+1965,Services,76.2
+1966,Services,79.4
+1967,Services,82.8
+1968,Services,86.6
+1969,Services,90.0
+1970,Services,93.3
+1971,Services,96.7
+1972,Services,100.0
+1973,Services,103.1
+1974,Services,106.5
+1975,Services,109.8
+1976,Services,112.2
+1977,Services,114.8
+1978,Services,118.0
+1979,Services,121.3
+1980,Services,124.9
+1981,Services,127.9
+1982,Services,130.1
+1983,Services,133.0
+1984,Services,136.2
+1985,Services,139.4
+1986,Services,142.5
+1987,Services,147.0
+1950,Military personnel,9.3
+1951,Military personnel,11.6
+1952,Military personnel,12.4
+1953,Military personnel,11.4
+1954,Military personnel,10.6
+1955,Military personnel,9.9
+1956,Military personnel,9.7
+1957,Military personnel,9.1
+1958,Military personnel,8.3
+1959,Military personnel,7.8
+1960,Military personnel,7.8
+1961,Military personnel,7.6
+1962,Military personnel,7.9
+1963,Military personnel,8.2
+1964,Military personnel,8.4
+1965,Military personnel,8.6
+1966,Military personnel,8.8
+1967,Military personnel,9.2
+1968,Military personnel,9.6
+1969,Military personnel,9.8
+1970,Military personnel,10.1
+1971,Military personnel,10.5
+1972,Military personnel,10.7
+1973,Military personnel,10.8
+1974,Military personnel,10.9
+1975,Military personnel,11.1
+1976,Military personnel,11.2
+1977,Military personnel,11.2
+1978,Military personnel,11.4
+1979,Military personnel,11.6
+1980,Military personnel,12.0
+1981,Military personnel,12.1
+1982,Military personnel,12.3
+1983,Military personnel,12.5
+1984,Military personnel,12.5
+1985,Military personnel,12.5
+1986,Military personnel,12.6
+1987,Military personnel,12.6
+1950,Other branches,0.5
+1951,Other branches,0.5
+1952,Other branches,0.5
+1953,Other branches,0.5
+1954,Other branches,0.6
+1955,Other branches,0.6
+1956,Other branches,0.7
+1957,Other branches,0.7
+1958,Other branches,0.7
+1959,Other branches,0.8
+1960,Other branches,0.8
+1961,Other branches,0.9
+1962,Other branches,0.9
+1963,Other branches,0.9
+1964,Other branches,1.0
+1965,Other branches,1.0
+1966,Other branches,1.1
+1967,Other branches,1.1
+1968,Other branches,1.2
+1969,Other branches,1.2
+1970,Other branches,1.3
+1971,Other branches,1.3
+1972,Other branches,1.3
+1973,Other branches,1.5
+1974,Other branches,1.5
+1975,Other branches,1.5
+1976,Other branches,1.6
+1977,Other branches,1.6
+1978,Other branches,1.6
+1979,Other branches,1.6
+1980,Other branches,1.6
+1981,Other branches,1.7
+1982,Other branches,1.7
+1983,Other branches,1.8
+1984,Other branches,1.8
+1985,Other branches,1.8
+1986,Other branches,1.9
+1987,Other branches,1.9
+1950,Gross national product,184.3
+1951,Gross national product,185.3
+1952,Gross national product,197.4
+1953,Gross national product,206.0
+1954,Gross national product,216.0
+1955,Gross national product,234.4
+1956,Gross national product,257.0
+1957,Gross national product,262.4
+1958,Gross national product,282.3
+1959,Gross national product,296.1
+1960,Gross national product,305.7
+1961,Gross national product,323.1
+1962,Gross national product,331.8
+1963,Gross national product,324.2
+1964,Gross national product,366.4
+1965,Gross national product,387.0
+1966,Gross national product,405.7
+1967,Gross national product,423.8
+1968,Gross national product,449.0
+1969,Gross national product,455.6
+1970,Gross national product,491.6
+1971,Gross national product,505.1
+1972,Gross national product,508.3
+1973,Gross national product,551.7
+1974,Gross national product,567.2
+1975,Gross national product,569.1
+1976,Gross national product,596.4
+1977,Gross national product,610.2
+1978,Gross national product,626.2
+1979,Gross national product,623.0
+1980,Gross national product,624.7
+1981,Gross national product,630.6
+1982,Gross national product,646.7
+1983,Gross national product,667.3
+1984,Gross national product,676.9
+1985,Gross national product,682.9
+1986,Gross national product,710.3
+1987,Gross national product,719.9
+1950,GNP in established prices,179.0
+1951,GNP in established prices,185.1
+1952,GNP in established prices,197.7
+1953,GNP in established prices,208.2
+1954,GNP in established prices,220.6
+1955,GNP in established prices,239.9
+1956,GNP in established prices,262.4
+1957,GNP in established prices,270.7
+1958,GNP in established prices,291.8
+1959,GNP in established prices,308.4
+1960,GNP in established prices,320.3
+1961,GNP in established prices,338.3
+1962,GNP in established prices,349.7
+1963,GNP in established prices,347.3
+1964,GNP in established prices,386.8
+1965,GNP in established prices,409.6
+1966,GNP in established prices,430.7
+1967,GNP in established prices,453.3
+1968,GNP in established prices,480.4
+1969,GNP in established prices,492.3
+1970,GNP in established prices,528.9
+1971,GNP in established prices,545.8
+1972,GNP in established prices,553.4
+1973,GNP in established prices,595.1
+1974,GNP in established prices,616.2
+1975,GNP in established prices,625.7
+1976,GNP in established prices,652.5
+1977,GNP in established prices,669.2
+1978,GNP in established prices,685.9
+1979,GNP in established prices,686.7
+1980,GNP in established prices,691.0
+1981,GNP in established prices,698.8
+1982,GNP in established prices,713.7
+1983,GNP in established prices,734.2
+1984,GNP in established prices,745.7
+1985,GNP in established prices,751.9
+1986,GNP in established prices,776.5
+1987,GNP in established prices,789.2

@@ -1,0 +1,10 @@
+country_iso3,age_group,age_band,solar_year,gregorian_year,population,pct_of_total,male,female,sex_ratio_male_per_100_female,source,notes
+IRN,Total,,1375,1996,60055488,100.0,30515159,29540329,103,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)","Sum of age-group populations (60,055,888) differs from the printed national total (60,055,488) by 400 — a minor internal rounding artifact in the source table itself, preserved as printed, not corrected."
+IRN,Infants (<1 year),0,1375,1996,1020936,1.7,524927,496009,106,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",
+IRN,Toddlers (1-5 years),1-5,1375,1996,6732287,11.21,3453031,3279456,105,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",
+IRN,Children (6-10 years),6-10,1375,1996,8769737,14.6,4464740,4304997,104,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",
+IRN,Adolescents (11-14 years),11-14,1375,1996,7202085,11.99,3668048,3534037,104,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",
+IRN,Youth (15-24 years),15-24,1375,1996,12337529,20.54,6144328,6191201,99,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",
+IRN,Middle-aged (25-64 years),25-64,1375,1996,21364877,35.58,10856757,10508120,103,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",
+IRN,Elderly (65+ years),65+,1375,1996,2595181,4.32,1382448,1212733,114,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",
+IRN,Unspecified,,1375,1996,33256,0.05,18880,13476,,"SCI, 1375 (1996) Census, Selected Findings, Table P (پ)",

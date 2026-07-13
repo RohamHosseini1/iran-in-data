@@ -1,0 +1,11 @@
+year,metric,value,unit,source,country_iso3,value_usd_nominal,value_usd_real_2015,currency_conversion_note
+1920,government_total_expenditure,228,million_rials,"Encyclopaedia Iranica BEHDARI (Faghih 1989), citing Sima-ye behdasht wa darman p.422",IRN,,,"no FX rate for 1920 (known gap), not converted"
+1920,government_health_expenditure,0.9,million_rials,Encyclopaedia Iranica BEHDARI (Faghih 1989),IRN,,,"no FX rate for 1920 (known gap), not converted"
+1920,oil_revenue,32,million_rials,Encyclopaedia Iranica BEHDARI (Faghih 1989),IRN,,,"no FX rate for 1920 (known gap), not converted"
+1948,government_health_expenditure,1500,million_rials,Encyclopaedia Iranica BEHDARI (Faghih 1989) -- start of period cited as Rls 1.5 billion,IRN,46.1538,165.6405,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1948=32.5, rebased CPI_1948=0.0269)"
+1974,government_health_expenditure,116500,million_rials,Encyclopaedia Iranica BEHDARI (Faghih 1989) -- end of period cited as Rls 116.5 billion ($166 million),IRN,1722.3195,4267.098,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1974=67.641342246617, rebased CPI_1974=0.0811)"
+1974,government_total_expenditure,1089000,million_rials,Encyclopaedia Iranica BEHDARI (Faghih 1989) -- $15.5 billion,IRN,16099.6214,39887.2938,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1974=67.641342246617, rebased CPI_1974=0.0811)"
+1974,government_health_expenditure_single_year,35000,million_rials,"Encyclopaedia Iranica BEHDARI (Faghih 1989) -- $0.5 billion, distinct figure from the 1948-74 cumulative-growth endpoint above; source text gives both without full reconciliation",IRN,517.435,1281.9608,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1974=67.641342246617, rebased CPI_1974=0.0811)"
+1974,oil_revenue,445000,million_rials,Encyclopaedia Iranica BEHDARI (Faghih 1989) -- $6.5 billion,IRN,6578.8168,16299.2156,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1974=67.641342246617, rebased CPI_1974=0.0811)"
+1976,child_immunization_coverage_annual,5000000,children,Encyclopaedia Iranica BEHDARI (Faghih 1989),IRN,,,
+1978,total_health_workers_and_facilities,79710,count,"Encyclopaedia Iranica BEHDARI (Faghih 1989), mid-1357 Sh figure from source Tables 1-2 (tables themselves not machine-readable, see manifest notes)",IRN,,,

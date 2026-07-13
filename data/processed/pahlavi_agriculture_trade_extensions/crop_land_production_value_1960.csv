@@ -1,0 +1,55 @@
+fiscal_year_label,year,category,subcategory,value,unit,notes,country_iso3,source_dataset,value_usd_nominal,value_usd_real_2015,currency_conversion_note
+1960,1960,Wheat,Area Harvested,3663,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Wheat,Production,2590,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Wheat,Gross Value,16969,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,224.0132,1026.6025,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Barley,Area Harvested,1071,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Barley,Production,684,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Barley,Gross Value,2950,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,38.9439,178.4712,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Rice Paddy,Area Harvested,313,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Rice Paddy,Production,651,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Rice Paddy,Gross Value,10947,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,144.5149,662.2793,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Other cereals,Area Harvested,45,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Other cereals,Production,37,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Other cereals,Gross Value,124,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,1.637,7.5018,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Total for cereals,Area Harvested,5092,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Total for cereals,Production,3962,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Total for cereals,Gross Value,30990,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,409.1089,1874.8548,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Vegetables,Area Harvested,122,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Vegetables,Production,561,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Vegetables,Gross Value,2245,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,29.637,135.8196,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Potatoes,Area Harvested,16,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Potatoes,Production,89,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Potatoes,Gross Value,732,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,9.6634,44.285,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Pulses,Area Harvested,123,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Pulses,Production,64,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Pulses,Gross Value,1142,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,15.0759,69.0895,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Cotton,Area Harvested,284,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Cotton,Production,298,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Cotton,Gross Value,3874,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,51.1419,234.372,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Other textiles,Area Harvested,7,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Other textiles,Production,6,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Other textiles,Gross Value,57,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,0.7525,3.4484,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Sugar beet,Area Harvested,40,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Sugar beet,Production,588,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Sugar beet,Gross Value,482,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,6.363,29.1604,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Tobacco,Area Harvested,28,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Tobacco,Production,11,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Tobacco,Gross Value,419,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,5.5314,25.349,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Oilseeds,Area Harvested,45,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Oilseeds,Production,7,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Oilseeds,Gross Value,72,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,0.9505,4.3559,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Tea,Area Harvested,20,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Tea,Production,9,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Tea,Gross Value,909,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,12.0,54.9933,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Tree crops,Area Harvested,930,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Tree crops,Production,978,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Tree crops,Gross Value,10044,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,132.5941,607.649,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Others,Area Harvested,55,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Others,Production,9,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Others,Gross Value,531,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,7.0099,32.1248,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+1960,1960,Fodder,Area Harvested,148,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Fodder,Production,,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Fodder,Gross Value,,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,"unparseable year/value, not converted"
+1960,1960,Total,Area Harvested,6910,1000 ha,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Total,Production,6582,1000 metric tons,,IRN,wb1962-agriculturetable1-crop-land-production-value,,,
+1960,1960,Total,Gross Value,51497,Rls million,,IRN,wb1962-agriculturetable1-crop-land-production-value,679.8284,3115.5016,"computed via IRN official/parallel FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"

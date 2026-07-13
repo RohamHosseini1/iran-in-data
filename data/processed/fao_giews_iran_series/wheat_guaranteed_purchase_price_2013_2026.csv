@@ -1,0 +1,9 @@
+country_iso3,crop_year,common_wheat_price,durum_wheat_price,unit,pct_change_yoy,notes_and_brief_reference_date,source
+IRN,2013,8000,,IRR/kg,,"2013-07-30 (increased from IRR 7,200/kg during the season)","FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"
+IRN,2017,13000,13300,IRR/kg,,2017-06-26,"FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"
+IRN,2018,13000,13300,IRR/kg,0.0,2018-07-04 (unchanged from 2017),"FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"
+IRN,2019,17000,17700,IRR/kg,30.8,"2019-04-17 (up from IRR 13,000/13,300 in 2018)","FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"
+IRN,2020,22000,,IRR/kg,,"2020-07-20 (announced Sept 2019, before planting; later revised)","FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"
+IRN,2020,25000,,IRR/kg,,"2020-07-20 (revised in March 2020, up from IRR 22,000)","FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"
+IRN,2025,20500,21000,IRR/kg,17.0,2025-04-30 (soft wheat / durum wheat),"FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"
+IRN,2026,496500,,IRR/kg,140.0,"2026-06-10 (announced April 2026 as 49,650 TOMANS/kg -- converted to IRR at 1 toman = 10 rials for unit consistency with all other rows in this file, which are printed in IRR/kg in their source briefs)","FAO GIEWS Country Brief: Iran (Islamic Republic of), archive PDF, citing Iranian government wheat procurement announcements"

@@ -1,0 +1,56 @@
+commodity,unit,year,value,flag,bgs_table,checked_no_iran_row
+Chrome ore (chromite),tonnes,1970,220000,estimate,Production of Chrome Ore,
+Chrome ore (chromite),tonnes,1971,200000,estimate,Production of Chrome Ore,
+Chrome ore (chromite),tonnes,1972,140000,estimate,Production of Chrome Ore,
+Chrome ore (chromite),tonnes,1973,140000,estimate,Production of Chrome Ore,
+Chrome ore (chromite),tonnes,1974,140000,estimate,Production of Chrome Ore,
+"Lead (mine output, metal content)",tonnes,1970,22940,,Mine Production of Lead,
+"Lead (mine output, metal content)",tonnes,1971,29937,,Mine Production of Lead,
+"Lead (mine output, metal content)",tonnes,1972,30000,,Mine Production of Lead,
+"Lead (mine output, metal content)",tonnes,1973,32000,,Mine Production of Lead,
+"Lead (mine output, metal content)",tonnes,1974,42000,estimate,Mine Production of Lead,"footnote (d): years ended March 20 following that stated, i.e. Iranian fiscal year"
+"Copper (mine production, metal content)",tonnes,1970-1974,,,Mine Production of Copper,"yes - no Iran row in BGS table (Iran absent between Indonesia and Israel alphabetically); USGS reports Iran mine output only 616-2400t in this window, likely below BGS's per-country inclusion threshold"
+Iron ore (gross weight),thousand tonnes,1970-1974,,,Production of Iron Ore,yes - no Iran row in BGS table (Iran absent between India and Japan alphabetically); USGS reports Iran ~850-1858(unit-ambiguous)-1000 thousand tonnes in this window
+"Zinc (mine production, metal content)",tonnes,1970-1974,,,Mine Production of Zinc,yes - no Iran row in BGS table (Iran absent between India and Japan alphabetically); USGS reports Iran 57700-82500t in this window
+Bauxite,thousand tonnes,1970-1974,,,Production of Bauxite,yes - Iran has no row at all in this table (not even a footnoted trace amount); consistent with Iran having no meaningful bauxite mining in this period
+Primary aluminium (metal),thousand tonnes,1970-1974,,,Production of Primary Aluminium,"yes - no Iran row; consistent with the USGS commodity narrative (usgs_iran_commodity_narrative_highlights_1965_1980.csv), which places Iralco's Arak aluminium smelter's construction/start-up AFTER this 1970-74 window"
+Barium minerals (barite),tonnes,1970,60219,,Production of Barium Minerals,
+Barium minerals (barite),tonnes,1971,60000,estimate,Production of Barium Minerals,
+Barium minerals (barite),tonnes,1972,80000,,Production of Barium Minerals,footnote (c): years ended March 20 following that stated
+Barium minerals (barite),tonnes,1973,80000,,Production of Barium Minerals,footnote (c): years ended March 20 following that stated
+Barium minerals (barite),tonnes,1974,115000,,Production of Barium Minerals,"footnote (c): years ended March 20 following that stated. NEW series (barite not present in the USGS-derived usgs_iran_mineral_production_1961_1980.csv), no direct cross-check available."
+Coal (bituminous),tonnes,1970,323000,,Production of Coal,
+Coal (bituminous),tonnes,1971,400000,,Production of Coal,
+Coal (bituminous),tonnes,1972,1000000,,Production of Coal,
+Coal (bituminous),tonnes,1973,1000000,,Production of Coal,
+Coal (bituminous),tonnes,1974,1200000,,Production of Coal,"footnote (c): years ended March 20 following that stated. NEW series, no coal in the existing USGS-derived Iran mineral file (which covers coal+coke as 'non-oil mineral fuels' per its README, but the underlying raw USGS extraction did not include coal specifically) - no direct cross-check available."
+Gold,kilogrammes,1970-1974,,,Production of Gold,yes - no Iran row in this table at all (not present between India/Indonesia/Japan); consistent with Iran having no significant gold mining reported in this period
+Gypsum,tonnes,1970,2099980,,Production of Gypsum,
+Gypsum,tonnes,1971,2250000,,Production of Gypsum,
+Gypsum,tonnes,1972,2400000,,Production of Gypsum,
+Gypsum,tonnes,1973,2400000,,Production of Gypsum,
+Gypsum,tonnes,1974,2400000,estimate,Production of Gypsum,"footnote (e): years ended March 20 following that stated. NEW series, complements (does not directly overlap) USGS gypsum figures if any exist in usgs_iran_mineral_production_1961_1980.csv - see that file for cross-check."
+Pig-iron and blast-furnace ferro-alloys,thousand tonnes,1970-1974,,,Production of Pig-Iron & Blast-Furnace Ferro-Alloys,"yes - no Iran row; consistent with the USGS narrative placing the Isfahan/Aryamehr steel complex's trial production only from 1971 and full operation from 1975, i.e. essentially zero output for most of this window"
+"Manganese ore (gross weight, ~34% Mn)",tonnes,1970,9100,,Production of Manganese Ore,
+"Manganese ore (gross weight, ~34% Mn)",tonnes,1971,12300,,Production of Manganese Ore,
+"Manganese ore (gross weight, ~34% Mn)",tonnes,1972,9700,,Production of Manganese Ore,
+"Manganese ore (gross weight, ~34% Mn)",tonnes,1973,22000,estimate,Production of Manganese Ore,
+"Manganese ore (gross weight, ~34% Mn)",tonnes,1974,30000,estimate,Production of Manganese Ore,"footnote (b): years ended March 20 following that stated. NEW series, no manganese in the existing USGS-derived Iran mineral file - no direct cross-check available."
+Molybdenum,tonnes (MoS2 content or equivalent),1970-1974,,,Production of Molybdenum,"yes - no Iran row; consistent with the USGS narrative that Sar Cheshmeh's molybdenum byproduct stream postdates this window (mine construction 1971-1980, output redirected domestically only after 1980)"
+Phosphate rock,tonnes,1970-1974,,,Production of Phosphate Rock,yes - no Iran row in this table at all; Iran is not a phosphate-rock producer of note in this period
+Salt,tonnes,1970,350000,,Production of Salt,
+Salt,tonnes,1971,390000,,Production of Salt,
+Salt,tonnes,1972,400000,,Production of Salt,
+Salt,tonnes,1973,350000,,Production of Salt,
+Salt,tonnes,1974,400000,estimate,Production of Salt,"footnote (g): years ended March 20 following that stated. NEW series, complements USGS salt figures if any exist in usgs_iran_mineral_production_1961_1980.csv - see that file for cross-check."
+"Silver (mine production, metal content)",kilogrammes,1970-1974,,,Mine Production of Silver,yes - no Iran row in this table at all; likely below BGS's per-country reporting threshold as a lead/zinc byproduct in this period
+"Sulphur, recovered (byproduct, e.g. from oil/gas processing)",thousand tonnes (sulphur content),1970,412,,Production of Sulphur & Pyrites,
+"Sulphur, recovered (byproduct, e.g. from oil/gas processing)",thousand tonnes (sulphur content),1971,495,,Production of Sulphur & Pyrites,
+"Sulphur, recovered (byproduct, e.g. from oil/gas processing)",thousand tonnes (sulphur content),1972,666,,Production of Sulphur & Pyrites,
+"Sulphur, recovered (byproduct, e.g. from oil/gas processing)",thousand tonnes (sulphur content),1973,595,,Production of Sulphur & Pyrites,
+"Sulphur, recovered (byproduct, e.g. from oil/gas processing)",thousand tonnes (sulphur content),1974,600,estimate,Production of Sulphur & Pyrites,"1973/1974 values linked by a brace in the source (may indicate a joint/revised figure spanning both years, exact split preserved as printed). Directly comparable in concept to USGS's 'Sulfur total (native + byproduct of petroleum/gas)' 1976-1980 rows in usgs_iran_mineral_production_1961_1980.csv, though the two series don't overlap in year - see that file's own caveat about the sulfur naming/methodology shift."
+"Sulphur ore (mined, not recovered as byproduct)",thousand tonnes (sulphur content),1970,1,,Production of Sulphur & Pyrites,
+"Sulphur ore (mined, not recovered as byproduct)",thousand tonnes (sulphur content),1971,2,,Production of Sulphur & Pyrites,
+"Sulphur ore (mined, not recovered as byproduct)",thousand tonnes (sulphur content),1972,3,,Production of Sulphur & Pyrites,
+"Sulphur ore (mined, not recovered as byproduct)",thousand tonnes (sulphur content),1973,3,,Production of Sulphur & Pyrites,"1973/1974 linked by a brace with the 'recovered' line's 600(*) total in the source - exact 1974 sulphur-ore-only split not separately printed, left blank rather than guessed"
+"Sulphur ore (mined, not recovered as byproduct)",thousand tonnes (sulphur content),1974,,,Production of Sulphur & Pyrites,"see note on 1973 row - 1974 figure not separately legible/printed, left blank"

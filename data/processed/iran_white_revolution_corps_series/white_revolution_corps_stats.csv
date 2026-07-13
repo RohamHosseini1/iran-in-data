@@ -1,0 +1,22 @@
+period_start,period_end,corps,metric,value,unit,source,country_iso3
+1963,1966,health-corps,medical_groups_trained,4500,count,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1963,1966,health-corps,cases_treated,10000000,cases,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1964,1970,reconstruction-development-corps,agricultural_production_change_tonnage,80,percent_increase,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1964,1970,reconstruction-development-corps,agricultural_production_change_value,67,percent_increase,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1963,1963,literacy-corps,population_illiteracy_rate_baseline,66.7,percent,"Wikipedia White Revolution article (approx 2/3 illiterate), citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1963,1978,literacy-corps,national_literacy_rate,26,percent,"Wikipedia White Revolution article -- start-of-period figure, uncited in source article text, unverified",IRN
+1978,1978,literacy-corps,national_literacy_rate,42,percent,"Wikipedia White Revolution article -- end-of-period figure, uncited in source article text, unverified",IRN
+1978,1978,education-general,public_school_enrollment_share_of_population,25,percent,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1978,1978,education-general,university_students_domestic,185000,persons,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1978,1978,education-general,students_abroad_total,100000,persons,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1978,1978,education-general,students_abroad_in_us,50000,persons,"Wikipedia White Revolution article, citing Encyclopedia.com 'White Revolution (1961-1963)'",IRN
+1963,1978,education-general,kindergarten_enrollment_start,13300,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1978,education-general,kindergarten_enrollment_end,221990,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1978,education-general,elementary_enrollment_start,1640000,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1978,education-general,elementary_enrollment_end,4080000,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1978,education-general,secondary_enrollment_start,370000,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1978,education-general,secondary_enrollment_end,741000,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1978,education-general,college_enrollment_start,24885,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1978,education-general,college_enrollment_end,145210,persons,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1979,land-reform,families_receiving_land_early_estimate,1500000,families,"Wikipedia White Revolution article, uncited in source article text, unverified",IRN
+1963,1979,land-reform,families_receiving_land_long_run_estimate,2500000,families,"Wikipedia White Revolution article, citing Britannica 'White Revolution (Iran)'",IRN

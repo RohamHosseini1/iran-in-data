@@ -1,0 +1,23 @@
+year,category,value,unit,source_dataset,notes
+1950,Oranges & Tangerines (combined),45000,t,pahlavi-era-primary-extraction,"WB Table 5 category — combines what FAOSTAT later reports separately as Oranges + Tangerines"
+1951,Oranges & Tangerines (combined),45000,t,pahlavi-era-primary-extraction,
+1952,Oranges & Tangerines (combined),45000,t,pahlavi-era-primary-extraction,
+1953,Oranges & Tangerines (combined),45000,t,pahlavi-era-primary-extraction,
+1954,Oranges & Tangerines (combined),45000,t,pahlavi-era-primary-extraction,
+1955,Oranges & Tangerines (combined),40000,t,pahlavi-era-primary-extraction,
+1956,Oranges & Tangerines (combined),45000,t,pahlavi-era-primary-extraction,
+1957,Oranges & Tangerines (combined),44000,t,pahlavi-era-primary-extraction,
+1958,Oranges & Tangerines (combined),45000,t,pahlavi-era-primary-extraction,
+1950,Other Citrus,60000,t,pahlavi-era-primary-extraction,"WB Table 5 category — roughly maps to FAOSTAT's later 'Other citrus fruit, n.e.c.'"
+1951,Other Citrus,55000,t,pahlavi-era-primary-extraction,
+1952,Other Citrus,50000,t,pahlavi-era-primary-extraction,
+1953,Other Citrus,55000,t,pahlavi-era-primary-extraction,
+1954,Other Citrus,55000,t,pahlavi-era-primary-extraction,
+1955,Other Citrus,60000,t,pahlavi-era-primary-extraction,
+1956,Other Citrus,60000,t,pahlavi-era-primary-extraction,
+1957,Other Citrus,61000,t,pahlavi-era-primary-extraction,
+1958,Other Citrus,65000,t,pahlavi-era-primary-extraction,
+1961,Oranges,51000,t,faostat-qcl-production,"FAOSTAT begins here — 1961 is still Pahlavi era, 18 years before the revolution. See agriculture_qcl_production.csv for the complete annual 1961-2024 series (Oranges, Tangerines, Other citrus, Citrus Fruit Total) — not duplicated here."
+1961,Tangerines mandarins clementines,12000,t,faostat-qcl-production,
+1961,Other citrus fruit n.e.c.,4500,t,faostat-qcl-production,
+1961,Citrus Fruit Total,78900,t,faostat-qcl-production,

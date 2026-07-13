@@ -1,0 +1,28 @@
+fiscal_year_label,year,category,subcategory,value,unit,notes,country_iso3,source_dataset
+1956,1956,Drilling - Consortium,No. of wells,18,count,,IRN,wb1960-table2-petroleum-statistics
+1957,1957,Drilling - Consortium,No. of wells,13,count,,IRN,wb1960-table2-petroleum-statistics
+1958,1958,Drilling - Consortium,No. of wells,32,count,,IRN,wb1960-table2-petroleum-statistics
+1956,1956,Drilling - Consortium,Meters drilled,6726,meters,,IRN,wb1960-table2-petroleum-statistics
+1957,1957,Drilling - Consortium,Meters drilled,18377,meters,,IRN,wb1960-table2-petroleum-statistics
+1958,1958,Drilling - Consortium,Meters drilled,31504,meters,,IRN,wb1960-table2-petroleum-statistics
+1956,1956,Drilling - NIOC,No. of wells,1,count,,IRN,wb1960-table2-petroleum-statistics
+1957,1957,Drilling - NIOC,No. of wells,4,count,,IRN,wb1960-table2-petroleum-statistics
+1958,1958,Drilling - NIOC,No. of wells,9,count,,IRN,wb1960-table2-petroleum-statistics
+1956,1956,Drilling - NIOC,Meters drilled,2776,meters,,IRN,wb1960-table2-petroleum-statistics
+1957,1957,Drilling - NIOC,Meters drilled,8249,meters,,IRN,wb1960-table2-petroleum-statistics
+1958,1958,Drilling - NIOC,Meters drilled,12506,meters,,IRN,wb1960-table2-petroleum-statistics
+1956,1956,Production,Consortium,31.05,million cubic meters,"This 'Production' row (physical volume, million m3) covers the same broad concept as the already-registered owid__oil_production_volume chart (OWID's Iran oil-production series already runs continuously from 1900) -- OVERLAPPING years, not a gap, so this should be treated as an ALTERNATE/cross-check source line for 1956-1958, never averaged or silently reconciled with OWID's figure.",IRN,wb1960-table2-petroleum-statistics
+1957,1957,Production,Consortium,42.55,million cubic meters,"This 'Production' row (physical volume, million m3) covers the same broad concept as the already-registered owid__oil_production_volume chart (OWID's Iran oil-production series already runs continuously from 1900) -- OVERLAPPING years, not a gap, so this should be treated as an ALTERNATE/cross-check source line for 1956-1958, never averaged or silently reconciled with OWID's figure.",IRN,wb1960-table2-petroleum-statistics
+1958,1958,Production,Consortium,48.29,million cubic meters,"This 'Production' row (physical volume, million m3) covers the same broad concept as the already-registered owid__oil_production_volume chart (OWID's Iran oil-production series already runs continuously from 1900) -- OVERLAPPING years, not a gap, so this should be treated as an ALTERNATE/cross-check source line for 1956-1958, never averaged or silently reconciled with OWID's figure.",IRN,wb1960-table2-petroleum-statistics
+1956,1956,Production,NIOC,0.31,million cubic meters,"This 'Production' row (physical volume, million m3) covers the same broad concept as the already-registered owid__oil_production_volume chart (OWID's Iran oil-production series already runs continuously from 1900) -- OVERLAPPING years, not a gap, so this should be treated as an ALTERNATE/cross-check source line for 1956-1958, never averaged or silently reconciled with OWID's figure.",IRN,wb1960-table2-petroleum-statistics
+1957,1957,Production,NIOC,0.31,million cubic meters,"This 'Production' row (physical volume, million m3) covers the same broad concept as the already-registered owid__oil_production_volume chart (OWID's Iran oil-production series already runs continuously from 1900) -- OVERLAPPING years, not a gap, so this should be treated as an ALTERNATE/cross-check source line for 1956-1958, never averaged or silently reconciled with OWID's figure.",IRN,wb1960-table2-petroleum-statistics
+1958,1958,Production,NIOC,0.30,million cubic meters,"This 'Production' row (physical volume, million m3) covers the same broad concept as the already-registered owid__oil_production_volume chart (OWID's Iran oil-production series already runs continuously from 1900) -- OVERLAPPING years, not a gap, so this should be treated as an ALTERNATE/cross-check source line for 1956-1958, never averaged or silently reconciled with OWID's figure.",IRN,wb1960-table2-petroleum-statistics
+1956,1956,Internal sales,"Fuel oil, kerosene, gasoline, gas oil",2.15,million cubic meters,,IRN,wb1960-table2-petroleum-statistics
+1957,1957,Internal sales,"Fuel oil, kerosene, gasoline, gas oil",2.37,million cubic meters,,IRN,wb1960-table2-petroleum-statistics
+1958,1958,Internal sales,"Fuel oil, kerosene, gasoline, gas oil",2.66,million cubic meters,,IRN,wb1960-table2-petroleum-statistics
+1956,1956,Exports,Crude plus crude refined for export,28.92,million cubic meters,,IRN,wb1960-table2-petroleum-statistics
+1957,1957,Exports,Crude plus crude refined for export,39.00,million cubic meters,,IRN,wb1960-table2-petroleum-statistics
+1958,1958,Exports,Crude plus crude refined for export,44.18,million cubic meters,,IRN,wb1960-table2-petroleum-statistics
+1956,1956,Prices,"Posted price of crude, Persian Gulf, Iranian Light Abadan 31-34.9 API",1.86,US dollars per barrel,,IRN,wb1960-table2-petroleum-statistics
+1957,1957,Prices,"Posted price of crude, Persian Gulf, Iranian Light Abadan 31-34.9 API",1.93,US dollars per barrel,,IRN,wb1960-table2-petroleum-statistics
+1958,1958,Prices,"Posted price of crude, Persian Gulf, Iranian Light Abadan 31-34.9 API",1.99,US dollars per barrel,,IRN,wb1960-table2-petroleum-statistics
