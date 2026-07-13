@@ -1,0 +1,26 @@
+{
+  "dataset_id": "worldbank-wdi-bulk-csv",
+  "title": "World Development Indicators (WDI) — full bulk CSV download",
+  "source_org": "World Bank",
+  "source_url": "https://datacatalog.worldbank.org/search/dataset/0037712",
+  "download_url": "https://databankfiles.worldbank.org/public/ddpext_download/WDI_CSV.zip",
+  "retrieved_at_utc": "2026-07-12T17:25:16Z",
+  "retrieved_by": "agent:worldbank-download",
+  "files": [
+    {"name": "WDI_CSV.zip", "original_name": null, "sha256": "95cdffd62f59c40df7bb70d756a80a31f889d13626b09d553c729dbb6bbcad7e", "bytes": 283184814},
+    {"name": "WDICSV.csv", "original_name": null, "sha256": "4d9b205c8441052eeec655027a1eea08145587eaa889239844657f914799631b", "bytes": 198700047},
+    {"name": "WDICountry.csv", "original_name": null, "sha256": "bd801353daf4ec73b0ce847cd645814a5790a26cd68fb37137be82048dbd96c4", "bytes": 157321},
+    {"name": "WDISeries.csv", "original_name": null, "sha256": "33b1b3813921e63f3ba9df816298d1b06641855ebe988700e91bc8afa1cad077", "bytes": 5961768},
+    {"name": "WDIcountry-series.csv", "original_name": null, "sha256": "bac1c8404e89dc8ef1488bdd60f7bad37b2040a8acc97bdd3067056e6257cc46", "bytes": 1362558},
+    {"name": "WDIfootnote.csv", "original_name": null, "sha256": "958b86abe6492c4715419c39730725bbc39fa1aaa7063cde0185df622e43da42", "bytes": 76944766},
+    {"name": "WDIseries-time.csv", "original_name": null, "sha256": "88ac5c5afbf9bba0c10f8d85c974edfdfbec700e7e83fb5a41886ae058d11776", "bytes": 14388}
+  ],
+  "countries": ["ALL (world; includes IRN, KOR, TUR, SAU, VEN, DEU, FRA, GBR, ITA, ESP, NLD, SWE)"],
+  "time_coverage": "1960–2025",
+  "frequency": "annual",
+  "topics": ["macroeconomics", "development", "GDP", "inflation", "population", "trade", "poverty", "all WDI indicators"],
+  "units": "per indicator; see WDISeries.csv codebook",
+  "license_terms": "CC BY-4.0 (World Bank open data terms)",
+  "notes": "Full all-country bulk download (natural download unit; kept whole per bookkeeping size discipline). Zip retained; the 6 CSVs were extracted from WDI_CSV.zip into this folder at download time — their download_url is the zip URL. Zip server last-modified 2026-06-30 (June 2026 WDI release). WDICSV.csv is the main data file (wide format, one column per year 1960–2025, 398,469 rows, 1,498 rows for IRN). WDISeries.csv = indicator metadata/codebook; WDICountry.csv = country metadata; WDIfootnote.csv = cell-level footnotes.",
+  "failures": []
+}

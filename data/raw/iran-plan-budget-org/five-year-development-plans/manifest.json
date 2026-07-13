@@ -1,0 +1,71 @@
+{
+  "dataset_id": "five-year-development-plans",
+  "title": "Iran Post-Revolution Five-Year Development Plans (Sazman-e Barnameh va Budjeh / Plan & Budget Organization successor texts), 1st-7th Plans",
+  "source_org": "Iran Data Portal (Syracuse University Maxwell School)",
+  "source_url": "https://irandataportal.syr.edu/annual-budgets-development-plans/",
+  "download_url": "https://irandataportal.syr.edu/wp-content/uploads/ (per-file, see files[].name)",
+  "retrieved_at_utc": "2026-07-12T18:19:30Z",
+  "retrieved_by": "agent:iran-plan-budget-org",
+  "files": [
+    {
+      "name": "barname_haftom.pdf",
+      "original_name": null,
+      "sha256": "d8995bf805a4db8e36b695073d57608d3fd4ea4fa6c8aa5da66c554779025f62",
+      "bytes": 2139624
+    },
+    {
+      "name": "برنامه-اول.pdf",
+      "original_name": null,
+      "sha256": "82b9fb430e168b64c4e5c89e6f4dba9072cdc05ec2b21eb92a73ce485ce4a573",
+      "bytes": 12096758
+    },
+    {
+      "name": "برنامه-دوم.pdf",
+      "original_name": null,
+      "sha256": "eba7bc44cdb9b9b43e3e3f28231c1ec7afd6f0c76e40684eecceadb7c35f4d73",
+      "bytes": 7843681
+    },
+    {
+      "name": "برنامه-سوم.pdf",
+      "original_name": null,
+      "sha256": "45737c982a6b719d53f9163f3a0ff8aac22da5ab021436198afff1bc53f90029",
+      "bytes": 9602359
+    },
+    {
+      "name": "برنامه-پنجم.pdf",
+      "original_name": null,
+      "sha256": "f650a36550455b1e5a54020883a64276b10634d6ec289f613d43e454f5eb9c13",
+      "bytes": 7449673
+    },
+    {
+      "name": "برنامه-چهارم.pdf",
+      "original_name": null,
+      "sha256": "1d1053bf7668119ada65ab9dcc91c901c6a5a296c049e9e3136227a41ebda6f2",
+      "bytes": 10126508
+    },
+    {
+      "name": "۶.pdf",
+      "original_name": null,
+      "sha256": "fabe929a792ad305396c7ec9edcea0ece884199f99c86eed1bbb3ff45da1dc81",
+      "bytes": 2486097
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1368-1406 SH / 1989-2028 CE (1st through 7th Five-Year Plans)",
+  "frequency": "one-off per plan (five-year development plans)",
+  "topics": [
+    "development-plan",
+    "five-year-plan",
+    "plan-and-budget-organization",
+    "iran-economy",
+    "policy-document"
+  ],
+  "units": "narrative legal/policy text, Persian language, not tabular",
+  "license_terms": "Iranian government legal text (public law); hosted for research use by Iran Data Portal, cite Iran Data Portal + original law",
+  "notes": "All 7 PDFs are the original Persian-language plan laws as passed by the Majles, hosted by Iran Data Portal (Syracuse Univ.) under 'Annual Budgets and Development Plans'. Filenames are as served by the source (Persian numerals/words for plan number, or barname_haftom = 'seventh plan' in Finglish for the 7th plan). Titles/date ranges in files[] mapping above are the agent's translation for cataloging; Persian year (SH) ranges per plan: 1st=1368-1372, 2nd=1374-1378, 3rd=1379-1383, 4th=1384-1388, 5th=1390-1394, 6th=1396-1400, 7th=1402-1406. These are Islamic Republic-era plans (Plan & Budget Organization was renamed/restructured multiple times post-1979, latterly Management and Planning Organization); Iran Data Portal did not have directly-linked Pahlavi-era (pre-1979) plan documents on this page — those would need to be sourced separately (e.g. Encyclopaedia Iranica, World Bank/Plan Organization archival reports, per SOURCES.md Round 20).",
+  "failures": [],
+  "extraction_method": "Extracted 2026-07-13 into data/processed/iran_plan_budget_org_series/five_year_plan_targets.csv (68 rows, 7 plans FY1368-1406). Method: Plans 6-7 (Word-native PDFs, ۶.pdf and barname_haftom.pdf) via pdftotext -layout + NFKC-normalized keyword search, cross-verified against pdftoppm-rendered page images (exact match) -- yielded full macro-target tables (GDP growth, TFP, investment, consumption, trade, money, inflation, unemployment) plus 9-sector value-added and employment growth targets for Plan 6, and the equivalent headline targets for Plan 7 (a BILL, not yet enacted). Plans 1-5 (scanned image PDFs, near-zero extractable text) via pdftoppm -r 250-400 render + direct visual reading. Plans 1 and 2 yielded their ماده واحده / dedicated quantitative-goals content (investment ceilings, GDP growth rate 5.1%/yr for Plan 2). Plans 3-5 are organized as extensive policy-reform chapters rather than a compact targets clause; a headline GDP growth figure was NOT located within this pass's time budget for these three plans -- recorded as an explicit gap, not guessed or filled from outside knowledge. Full working log: logs/downloads/iran-plan-budget-org-extraction.log. Full provenance/caveats: data/processed/iran_plan_budget_org_series/README.md.",
+  "extracted_to": "data/processed/iran_plan_budget_org_series/five_year_plan_targets.csv"
+}

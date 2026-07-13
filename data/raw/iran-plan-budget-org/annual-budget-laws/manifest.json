@@ -1,0 +1,264 @@
+{
+  "dataset_id": "annual-budget-laws",
+  "title": "Iran Annual Budget Law Documents (Budjeh-ye Salaneh), SH years 1371-1401 (1992-2023), incl. bills, amendments, provincial data",
+  "source_org": "Iran Data Portal (Syracuse University Maxwell School)",
+  "source_url": "https://irandataportal.syr.edu/annual-budgets-development-plans/",
+  "download_url": "https://irandataportal.syr.edu/wp-content/uploads/ (per-file, see files[].name)",
+  "retrieved_at_utc": "2026-07-12T18:19:30Z",
+  "retrieved_by": "agent:iran-plan-budget-org",
+  "files": [
+    {
+      "name": "1371.pdf",
+      "original_name": null,
+      "sha256": "ee1e80a28d4c53512034dc4c59b65d7088c9ef3697fa2f1dad6810b0132bb055",
+      "bytes": 3199917
+    },
+    {
+      "name": "1372.pdf",
+      "original_name": null,
+      "sha256": "ac382a1149cd24c0d6b98a38895ae001d287c37765422f044ff8143b79bb03cb",
+      "bytes": 3099911
+    },
+    {
+      "name": "1373.pdf",
+      "original_name": null,
+      "sha256": "fcbef9ad6478aea56978cd8d57a20294c217c584efb76b6d5cf7465d3b8663c4",
+      "bytes": 5868990
+    },
+    {
+      "name": "1374.pdf",
+      "original_name": null,
+      "sha256": "45423b1b8af5c476c0030ea444ea8d19da7ab6113f7055b07371595447b7e03d",
+      "bytes": 8519700
+    },
+    {
+      "name": "1375.pdf",
+      "original_name": null,
+      "sha256": "bb08365f2d80830f764df427b1834934d54a6dddecddb4c4d0af7c24e2e1a4b8",
+      "bytes": 3756989
+    },
+    {
+      "name": "1376.pdf",
+      "original_name": null,
+      "sha256": "ed34a68b3938a9815bffea085394567936bf889f3ac3e380ad4d386191b9f5f8",
+      "bytes": 3738099
+    },
+    {
+      "name": "1377.pdf",
+      "original_name": null,
+      "sha256": "7b3aed3e856d18b0eef363398a0aaf0343e960a20d8526405a6bb2c132be87c2",
+      "bytes": 3394610
+    },
+    {
+      "name": "1378.pdf",
+      "original_name": null,
+      "sha256": "ecdf884d8e29d373000cf4a9381e4b569c314dce7fe79286a2b46435b4ad199d",
+      "bytes": 5321053
+    },
+    {
+      "name": "1379.pdf",
+      "original_name": null,
+      "sha256": "94632d603b3684b3fdc78d15a28151e0f6e6f6ac8be3b6c92513de66bfe091a1",
+      "bytes": 5481417
+    },
+    {
+      "name": "1380.pdf",
+      "original_name": null,
+      "sha256": "d9aab7c0399a0754ee47e06c68d996e86497ebb3eaef6f8cd37d18d58003f9da",
+      "bytes": 8738288
+    },
+    {
+      "name": "1381.pdf",
+      "original_name": null,
+      "sha256": "0e52b169161e3265ad73b41eca704b4d0666de0e28322d9102c6ef5679302583",
+      "bytes": 5595124
+    },
+    {
+      "name": "1382.pdf",
+      "original_name": null,
+      "sha256": "6a1aa833d74170bacd796adc386939132a8597b0dd842d475b1d7db72ba7bb45",
+      "bytes": 6933744
+    },
+    {
+      "name": "1383.pdf",
+      "original_name": null,
+      "sha256": "7e85bd11935548d8c8b6b371842994d046cb7795dc9b35d47bcd3e5eeeff7bb5",
+      "bytes": 9527732
+    },
+    {
+      "name": "1384.pdf",
+      "original_name": null,
+      "sha256": "0bf4882a4450a989223b47fd1f2dc539a31776e6d51af7d2a4a3591c1a4d99b2",
+      "bytes": 8181892
+    },
+    {
+      "name": "1385.pdf",
+      "original_name": null,
+      "sha256": "1e34c0a8a777b01cd8c3af6d7f3449de8c67929d3e66b5d9bac644b527486514",
+      "bytes": 9354245
+    },
+    {
+      "name": "1386.pdf",
+      "original_name": null,
+      "sha256": "2aa8096d2dba9e6ef6f3a1dd7f3c0810f281ceb622231017f1d2a622e6308cb9",
+      "bytes": 8653357
+    },
+    {
+      "name": "1394.pdf",
+      "original_name": null,
+      "sha256": "3ab414d29d7f1084ec51e43f7133d9f300e56a61112a3f48ff9df43041a2d172",
+      "bytes": 1771880
+    },
+    {
+      "name": "1399-Bill.pdf",
+      "original_name": null,
+      "sha256": "7f2b04b9e55472dfc0219e4f822cc0acb433d5ffdca5fb763beaec7bd37cf860",
+      "bytes": 16512954
+    },
+    {
+      "name": "1400-Bill-part-I.pdf",
+      "original_name": null,
+      "sha256": "dd25617f7105a39ebf30cf0e1f72a7159bd9a7421f7ac77f589be0c479350beb",
+      "bytes": 16376167
+    },
+    {
+      "name": "1400-Bill-part-II.pdf",
+      "original_name": null,
+      "sha256": "335df6b2be791dfe111a51bc27dc92b0d6341da0ec78d2190ef527768d96b9a5",
+      "bytes": 5627243
+    },
+    {
+      "name": "AMENDMENT.pdf",
+      "original_name": null,
+      "sha256": "56ee90fd9f0565d8272317cb88704020ea220abada1d918f4f05cc0f07f344e8",
+      "bytes": 297896
+    },
+    {
+      "name": "Budget-1396-1.pdf",
+      "original_name": null,
+      "sha256": "2ef2a7837c3cab6f5ba50df6862132c8fd51b7d12e93fcdb380175ae90e4b59b",
+      "bytes": 6968963
+    },
+    {
+      "name": "Budget-1397.pdf",
+      "original_name": null,
+      "sha256": "6d7a090db1a183a57640e9d9ab5112efff533f06f228f6c998ea2fc9f3e4b388",
+      "bytes": 13495031
+    },
+    {
+      "name": "Budget-1401-2022-2023-Bill.pdf",
+      "original_name": null,
+      "sha256": "85f957e15056a69770f950c1ad55fbdff1a9a65d02b399e0f80c9ba8c3e704b6",
+      "bytes": 4119319
+    },
+    {
+      "name": "Budget-Law-1396.pdf",
+      "original_name": null,
+      "sha256": "ad4b9212710f56f835b999922be982b93d0f37487ca6e6a3b78b732d76cb234a",
+      "bytes": 17286310
+    },
+    {
+      "name": "Eblagh097.pdf",
+      "original_name": null,
+      "sha256": "47b704211455f0f428ff5797596ac936e279ff744adf05238e6c129a5ea5b6c1",
+      "bytes": 479172
+    },
+    {
+      "name": "LAW-1400.pdf",
+      "original_name": null,
+      "sha256": "99ef709d60fda779c38459fccd8b87bd1c220c12ff3f8f2273f9d05cd3ed9339",
+      "bytes": 9603911
+    },
+    {
+      "name": "Law-1398.pdf",
+      "original_name": null,
+      "sha256": "c6980c8b0194b89db259d8e88a8f927c052dc288debcf7848b5f5490dcaa2bc5",
+      "bytes": 488574
+    },
+    {
+      "name": "budget-1387.pdf",
+      "original_name": null,
+      "sha256": "5701cf841bf194bd1f8dc18bd40c87e03bb15d5f9f454eecdfecc74b3c90f900",
+      "bytes": 1684057
+    },
+    {
+      "name": "budget-1388.pdf",
+      "original_name": null,
+      "sha256": "851547ddc04f35b3f23000c3004bfb0c130b23beb2a2c8aeab5ba551bda8cf66",
+      "bytes": 1833030
+    },
+    {
+      "name": "budget-1389.pdf",
+      "original_name": null,
+      "sha256": "b3092ab73298abd68672a31dc7d9971efbb6b23e1687fe42d9f5f01ade5fb281",
+      "bytes": 3212045
+    },
+    {
+      "name": "budget-1390.pdf",
+      "original_name": null,
+      "sha256": "873eb9da62c9a379a4dc2a707132a1c5552bcb8e1cc6259246e73fe357851388",
+      "bytes": 1736332
+    },
+    {
+      "name": "budget-1391.pdf",
+      "original_name": null,
+      "sha256": "a39ce73aa7e98f1f261f675ea1813a05e65b5adee4f5c6769225b2d03c867f40",
+      "bytes": 3927654
+    },
+    {
+      "name": "budget-1392.pdf",
+      "original_name": null,
+      "sha256": "3f6a55ab2c674752ba2b0bed32dfadae44ddb8752c07bb1ecd7df851413bb130",
+      "bytes": 4245725
+    },
+    {
+      "name": "budget-1393.pdf",
+      "original_name": null,
+      "sha256": "e05f83f5020d4a1acac12704f1f239f6471141874c3b3bf30ecd0ac50402945d",
+      "bytes": 2079105
+    },
+    {
+      "name": "budget-1394.pdf",
+      "original_name": null,
+      "sha256": "2938a52dc8564b88f7b0ed60ccf4a069c66b964501891d763f6328159df283af",
+      "bytes": 2403442
+    },
+    {
+      "name": "budget1398-1.pdf",
+      "original_name": null,
+      "sha256": "a9b17782a70ae038f7ec7f9a7874bea0128d49ab19f9a4be75db1eb4ca657a2e",
+      "bytes": 7083084
+    },
+    {
+      "name": "law-1399.pdf",
+      "original_name": null,
+      "sha256": "aa4bc808bcef7167038f9cd627c9f7704017c6906a8baab250e44db4efe8ce1b",
+      "bytes": 14577490
+    },
+    {
+      "name": "provincial-data-budget.xlsx",
+      "original_name": null,
+      "sha256": "ba335820a052cb7962c6b59c06f090c9f27305e4a41ea5180bd1402c82871e12",
+      "bytes": 27417
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "SH 1371-1401 / CE 1992-2023 (some entries are parliament bills/amendments rather than final laws)",
+  "frequency": "annual",
+  "topics": [
+    "annual-budget",
+    "budget-law",
+    "plan-and-budget-organization",
+    "iran-economy",
+    "fiscal-policy",
+    "policy-document"
+  ],
+  "units": "narrative/legal text and one xlsx data table (provincial-data-budget.xlsx), Persian language except filenames",
+  "license_terms": "Iranian government legal text (public law); hosted for research use by Iran Data Portal, cite Iran Data Portal + original law",
+  "notes": "39 files: one file per fiscal year (SH calendar, filename = year, e.g. 1371.pdf = FY1371) plus several files with descriptive names for the same/adjacent years where the portal hosts a bill, amendment, or law variant separately (e.g. 1399-Bill.pdf, 1400-Bill-part-I/II.pdf, LAW-1400.pdf, law-1399.pdf, Law-1398.pdf, budget1398-1.pdf, Budget-1396-1.pdf, Budget-Law-1396.pdf, Budget-1397.pdf, Budget-1401-2022-2023-Bill.pdf, AMENDMENT.pdf, Eblagh097.pdf [notification/ promulgation text]). provincial-data-budget.xlsx is the only structured/tabular file, covering provincial budget allocations 1996-2014 per the page's own description. Filenames are exactly as served by the source (mixed case/format is original, not normalized by the agent).",
+  "failures": [],
+  "extraction_method": "Extracted 2026-07-13 into data/processed/iran_plan_budget_org_series/annual_budget_law_totals_1371_1401.csv (125 rows, 30 of 31 possible fiscal years FY1371-1401). Method: for PDFs with a clean font/CMap, pdftotext -layout + NFKC-normalized keyword search for the law's own 'ماده واحده' (single-article) clause; for scanned or mojibake-encoded PDFs (most of this folder), pdftoppm -r 300-400 page render + direct visual reading of the PNG, cross-checking the parenthetical digit string against the spelled-out Persian number words (one file, 1400-Bill-part-I.pdf, had garbled numeral glyphs specifically -- words were used as primary source there instead). Every multi-component total was checked for internal consistency (do the parts sum to the stated whole?); mismatches were kept as printed, never reconciled. Full page-by-page working log: logs/downloads/iran-plan-budget-org-extraction.log. Full provenance/caveats: data/processed/iran_plan_budget_org_series/README.md.",
+  "extracted_to": "data/processed/iran_plan_budget_org_series/annual_budget_law_totals_1371_1401.csv"
+}
