@@ -8,6 +8,12 @@
 *.mdb filter=lfs diff=lfs merge=lfs -text
 *.dta filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+
+# Individual oversized CSVs (FAOSTAT/WDI bulk "all data" exports and a couple of
+# derived files) -- discovered when GitHub rejected the push over its 100MB hard
+# limit. Named explicitly rather than blanket *.csv, so the many genuinely small
+# lookup/code-table CSVs throughout data/raw and data/processed stay as regular,
+# diffable git objects.
 data/raw/faostat/ti-trade-indices/Trade_Indices_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
 data/raw/faostat/fbsh-food-balances-historic/FoodBalanceSheetsHistoric_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
 data/raw/faostat/fbs-food-balances/FoodBalanceSheets_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
