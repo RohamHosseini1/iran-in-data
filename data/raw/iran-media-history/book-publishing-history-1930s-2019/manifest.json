@@ -1,0 +1,34 @@
+{
+  "dataset_id": "iran-book-publishing-history-1930s-2019",
+  "title": "Iran Book Publishing History: Titles Published and Print-Run/Circulation, 1930s-2019",
+  "source_org": "Multiple: Publishing Research Quarterly (Springer, peer-reviewed academic), Human Rights Activists / peace-mark.org (independent archive translating Persian journalism), Tehran Times (Iran state media, labeled)",
+  "source_url": "https://link.springer.com/article/10.1007/s12109-019-09666-4 ; https://www.peace-mark.org/en/articles/51-13-en/ ; https://www.tehrantimes.com/news/447029/Over-105-000-titles-published-in-Iran-over-past-year",
+  "download_url": null,
+  "retrieved_by": "claude",
+  "retrieved_at_utc": "2026-07-13T01:40:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "2247d680ffa7f1d9392d2d55ffa146618f4136c24d119cf4247b7c539318ea23",
+      "bytes": 4974
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1931-2019 (irregular: individual years as reported by sources, not a continuous annual series)",
+  "frequency": "irregular (selected years only)",
+  "topics": [
+    "media-consumption",
+    "book-publishing",
+    "reading",
+    "entertainment-consumption",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "titles published per year (count); average copies printed per title (circulation); total copies published (count); minutes per day (reading time survey)",
+  "license_terms": "Academic article (Springer) fair-use excerpting of factual data points; independent archive and labeled state-media factual excerpting, per docs/bookkeeping.md source-reliability rules",
+  "notes": "Complements (does not duplicate) the existing data/raw/iran-media-history/iranica-press-newspapers/press_periodicals_series.csv (which covers newspaper/periodical COUNTS 1898-1988, not books). This dataset is specifically about BOOKS: number of distinct titles published (a proxy for publishing-sector output) AND, separately and more interestingly for consumption purposes, average CIRCULATION per title (copies printed) which the peace-mark.org source argues is a better read-ership/demand proxy than title count alone -- title counts roughly doubled the 1980s while total copies printed fell by ~30 million and average circulation collapsed from historical norms of several thousand copies/title toward ~500-2000 by the 2010s (per multiple publisher interviews quoted in the peace-mark.org piece, not all individually tabulated here as they are qualitative anecdotes rather than a stated statistic). The 2018 figure (102,691 titles) is a secondary web-search compilation citing Iran Book House statistics, not independently cross-checked against a primary Khaneh Ketab table -- flagged as lower-confidence than the other rows. Springer article full text was NOT paywalled despite being hosted on link.springer.com/idp-authorize-redirecting infrastructure -- fetched successfully via direct curl with a browser user-agent; worth remembering for future Springer-hosted academic sources in this project.",
+  "failures": []
+}

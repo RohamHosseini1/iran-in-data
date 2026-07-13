@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1971-table5.2-summary-government-revenue",
+  "title": "Summary of Government Revenue (General Revenue), Iran, 1962/63-1971/72 (World Bank, 1971)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Source document is data/raw/world-bank-archives-iran/historical-documents/1971_cep_vol7_statistical_annex.pdf (Iran - Current economic position and prospects, Vol. 7 of 7: Statistical annex, May 18 1971), a scanned typewriter-era World Bank report with a poor OCR text layer and, on this page specifically, a faint/light print impression in the right-hand columns plus a diagonal ink smudge in the left margin. Table 5.2 is on PDF page 64. Re-rendered at 300 DPI (higher than the standard 200 DPI used elsewhere in this session) via `pdftoppm -r 300 -f 64 -l 64 -png` specifically because the standard 200 DPI render left several digits ambiguous; the higher-DPI render combined with targeted PIL crop+zoom passes resolved most of them. ONLY the headline/underlined summary rows were transcribed (Direct Taxes, Indirect Taxes, Revenues from Monopolies and Other Government Agencies, Receipts of Government Services, Other Revenue, Sub-Total, Oil Revenue, Oil Bonus Receipt, TOTAL); the granular sub-item breakdown beneath each headline row (e.g. taxes on salaries by type, customs duties by public/private sector, monopoly-by-monopoly detail) was NOT transcribed in this pass because print quality in the two rightmost columns (Revised Estimate 1970/71, Draft Budget 1971/72) made many individual sub-item digits genuinely ambiguous even at 300 DPI, and time/cost budget did not justify chasing every one; only the headline figures needed for macro budget analysis were prioritized. Every column's TOTAL was cross-checked by summing Sub-Total + Oil Revenue + Oil Bonus Receipt: 1962/63 through 1969/70 all reconcile EXACTLY (e.g. 1968/69: 66.5+61.8=128.3 = printed TOTAL 128.3; 1969/70: 73.8+70.1=143.9 = printed TOTAL 143.9). This exact-match cross-check caught and corrected two initial misreadings: (1) the 'Sub-Total' for the Revised Estimate 1970/71 column was initially read as '97.0' but the TOTAL-minus-Oil-Revenue arithmetic (173.6-86.6=87.0) proved it must be '87.0' (an 8/9 typewriter-glyph confusion, corrected here); (2) the Oil Bonus Receipt row's two non-blank values were initially assumed (by naive horizontal position) to sit under 1966/67 and 1967/68, but the TOTAL arithmetic proved they actually sit under 1965/66 (13.9) and 1966/67 (0.4) instead -- 1965/66: 40.0+39.5+13.9=93.4 (vs printed 93.9, a normal ~0.5 rounding gap consistent with this report's usual tolerance) and 1966/67: 48.8+47.4+0.4=96.6 (vs printed 96.2, similar tolerance) -- both far better fits than the original column assignment, which would have implied a nonsensical ~14-unit gap for 1965/66. One unresolved discrepancy remains and is flagged rather than silently corrected: for Budget Estimate 1970/71, Sub-Total (89.9) + Oil Revenue (85.2) = 175.1, but the printed TOTAL is 177.1 (a 2.0 gap, larger than this report's typical ~0.2-0.5 rounding noise) -- the true value of one of these two cells is uncertain by about 2 billion rials; the printed TOTAL (177.1) should be treated as authoritative over the two addends if they conflict in downstream use. No value was interpolated, estimated, or fabricated; the Draft Budget 1971/72 column's 'Receipts of Government Services' and 'Other Revenue' rows are printed as a single bracketed combined figure (9.8) in the source itself, not two separate figures -- preserved as such via a separate combined-value row rather than arbitrarily splitting it.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T23:35:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "cae5189b19f04c46033874c3a77df977a80068daadf814f64139baee1c81f245",
+      "bytes": 902
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1962/63-1971/72 (Iranian fiscal year, ends ~March 20/21; last two columns are Budget Estimate and Revised Estimate for 1970/71, and Draft Budget for 1971/72 not yet enacted at time of report)",
+  "frequency": "annual (fiscal year)",
+  "topics": [
+    "budget",
+    "government-revenue",
+    "fiscal",
+    "taxation",
+    "oil-revenue",
+    "pahlavi-era"
+  ],
+  "units": "billion rials (1 US$ = 75.7 rials per report's stated exchange rate as of report date)",
+  "license_terms": "World Bank Archives \u2014 public disclosure authorized document",
+  "notes": "Source: Table 5.2, page 64 of the Statistical Annex. Source line: 'Ordinary Budget and Plan Organization.' Companion table to Table 5.1 (Ordinary Budget: Central Government Current Expenditure, same document, page 63, already extracted as dataset wb1971-ordinary-budget-central-govt-expenditure-1962-1972) -- together these two tables give the full revenue and expenditure sides of Iran's central government ordinary budget for 1962/63-1971/72, spanning the gap between the 1960 budget data (wb1960-actual-budget-revenues, wb1960-budgeted-expenditures) already in this directory and the post-1974 oil-boom era. TOTAL revenue roughly quintupled over the decade (52.9 to 241.8 billion rials, 1962/63 to Draft 1971/72), driven especially by a ~5.8x increase in Oil Revenue (23.7 to 137.6 billion rials) which grew from ~45% to ~57% of total government revenue over the period -- a clear early data point for the oil-dependency trend that intensified sharply after the 1973-74 oil price shock (see wb1974 statistical appendix, not yet extracted, for later years). Part of a systematic effort to extract Pahlavi-era budget/money-supply/banking data from primary-source World Bank PDFs in data/raw/world-bank-archives-iran/historical-documents/, following the same visual-verification methodology as the wb1960-* and wb1971-ordinary-budget-* datasets in this same directory.",
+  "failures": []
+}

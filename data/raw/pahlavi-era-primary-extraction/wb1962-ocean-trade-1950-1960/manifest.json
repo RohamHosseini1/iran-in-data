@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1962-transporttable7-ocean-trade",
+  "title": "Iran: Ocean Trade (Excluding Petroleum Products), 1950/51-1959/60 (World Bank, 1962)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1962 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf), Chapter 4 (Transport and Communications), Table 7, page 86 (printed page -82-). Every value was verified by rendering the exact page to a high-resolution PNG (pdftoppm -r 200) and reading the table directly off the image. This caught a real OCR error: the raw pdftotext layer read the 1950/51 Total as '807', but the image clearly shows '847', which is also the value required by the internal check (Exports 189 + Imports 658 = 847, not 807). All 9 other rows' totals were independently checked the same way (Exports+Imports=Total) and matched exactly. No value was interpolated, estimated, or fabricated; 1958/59 is printed 'n.a.' (not available) in the source for both Exports and Imports, with a dash for the Total, and is left blank here.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:17Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "e6bfaa8a627a5ed9456a20417e37870ecebdb4751f66c8883ae8f4cd06eec6a1",
+      "bytes": 276
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1950/51-1959/60",
+  "frequency": "annual",
+  "units": "1000 metric tons",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "topics": [
+    "trade",
+    "exports",
+    "imports",
+    "shipping",
+    "ports",
+    "pahlavi-era"
+  ],
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf — Chapter 4 (Transport and Communications), Table 7, page 86 (printed page -82-). Iranian solar calendar years (e.g. 1950/51 = 21 March 1950-20 March 1951). Petroleum products are explicitly excluded from this table per its title; this is general/non-oil ocean-borne trade tonnage only, not a value-of-trade series. This is the earliest-dated data point extracted so far from this document (1950/51), and one of the few multi-year foreign-trade time series available pre-1960 in this project. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1962) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

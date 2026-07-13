@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1960-table6-industrial-production",
+  "title": "Industrial Production, Iran, 1954/55-1958/59 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 6, page 41) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous throughout; cross-checked against the raw pdftotext extraction, which was also largely legible for this page. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:15:15Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "fb5541f6606941eff13396ff7a3035898d982a20415d943a1c032e60b2d8840d",
+      "bytes": 675
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1954/55-1958/59",
+  "frequency": "annual (years ending March 20)",
+  "topics": [
+    "industry",
+    "manufacturing",
+    "production",
+    "pahlavi-era"
+  ],
+  "units": "see data.csv column headers / notes",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 6, page 41, source: Ministry of Industries and Mines, Teheran. Two cells are blank by design, matching the source: Glass 1954/55 was printed as a dash ('-', i.e. no/negligible production that year) and Soft drinks 1954/55 was printed as 'n.a.' (not available) — both left blank here rather than coded as zero, per project convention of not fabricating values. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

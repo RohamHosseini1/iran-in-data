@@ -1,0 +1,19 @@
+{
+  "dataset_id": "oecd-better-life-index",
+  "title": "OECD Better Life Index — Component Indicator Scores",
+  "source_org": "OECD (Statistics and Data Directorate, Well-being statistics)",
+  "source_url": "https://www.oecdbetterlifeindex.org/",
+  "download_url": "https://sdmx.oecd.org/archive/rest/data/OECD,DF_BLI,1.0/KOR+TUR+ESP+PRT+GRC+USA+DEU+FRA+GBR+ITA+NLD+SWE...?dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+  "retrieved_at_utc": "2026-07-12T18:30:40Z",
+  "retrieved_by": "agent:oecd",
+  "files": [
+    {"name": "better-life-index_2026-07-12.csv", "original_name": null, "sha256": "749ec9ce3867f68e37e98fc2e4903d6757ebcbb5ebcfb41f1a595d422fe09c43", "bytes": 99161}
+  ],
+  "countries": ["KOR", "TUR", "ESP", "PRT", "GRC", "USA", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "single latest-vintage snapshot (no TIME_PERIOD dimension in this dataflow; served from OECD's archive tenant, no explicit publication-year field in the data itself)",
+  "frequency": "point-in-time snapshot (BLI is a periodically-refreshed composite index, not a continuous time series)",
+  "units": "mixed — raw indicator values (years, percent, index scores) and 0-10 normalized component scores; described per row via MEASURE/UNIT_MEASURE columns",
+  "license_terms": "OECD Terms and Conditions — free reuse with attribution",
+  "notes": "SDMX dataflow OECD:DF_BLI(1.0), 'Better Life Index', served via the OECD SDMX archive endpoint (sdmx.oecd.org/archive/rest/, tenant=archive) rather than the standard public endpoint — the interactive oecdbetterlifeindex.org tool itself has no direct CSV bulk-download link, so the underlying archived SDMX dataflow was used instead. Dimensions: LOCATION (country), INDICATOR (e.g. JE_LMIS labour market insecurity, HO_BASE housing, HS_LEB life expectancy, etc. — 11 BLI topic dimensions decomposed into ~24 sub-indicators), MEASURE, INEQUALITY (TOT/gender/inequality breakdowns where available). No time-series depth — this is a single composite-index vintage, consistent with how BLI is published (periodic refresh, not annual panel).",
+  "failures": []
+}

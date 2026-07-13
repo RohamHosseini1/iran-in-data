@@ -1,0 +1,19 @@
+{
+  "dataset_id": "oecd-house-prices",
+  "title": "OECD Analytical House Price Indicators (real, nominal, price-to-income, price-to-rent)",
+  "source_org": "OECD (Economics Department, Macroeconomic Policy Division)",
+  "source_url": "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_AN_HOUSE_PRICES@DF_HOUSE_PRICES&df[ag]=OECD.ECO.MPD",
+  "download_url": "https://sdmx.oecd.org/public/rest/data/OECD.ECO.MPD,DSD_AN_HOUSE_PRICES@DF_HOUSE_PRICES,1.0/KOR+TUR+ESP+PRT+GRC+USA+DEU+FRA+GBR+ITA+NLD+SWE...?dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+  "retrieved_at_utc": "2026-07-12T18:26:10Z",
+  "retrieved_by": "agent:oecd",
+  "files": [
+    {"name": "house-prices_2026-07-12.csv", "original_name": null, "sha256": "005a91ea06e7503c8a84c4c3438eb53ae84a215bb2facb3c7bf0e0d59ef30443", "bytes": 5611014}
+  ],
+  "countries": ["KOR", "TUR", "ESP", "PRT", "GRC", "USA", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1959–2026 Q2, quarterly (series start dates vary by country; e.g. Sweden from 1959)",
+  "frequency": "quarterly",
+  "units": "index (2015=100) and ratio units — see MEASURE/UNIT_MEASURE columns per row",
+  "license_terms": "OECD Terms and Conditions — free reuse with attribution",
+  "notes": "SDMX dataflow OECD.ECO.MPD:DSD_AN_HOUSE_PRICES@DF_HOUSE_PRICES(1.0), 'Analytical house prices indicators'. Includes MEASURE codes for real house price index (RHP), nominal house price index, price-to-income ratio, and price-to-rent ratio, seasonally adjusted where applicable. Full time range pulled (no startPeriod filter), country-filtered only.",
+  "failures": []
+}

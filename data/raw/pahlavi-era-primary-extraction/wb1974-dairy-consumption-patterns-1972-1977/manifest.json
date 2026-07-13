@@ -1,0 +1,38 @@
+{
+  "dataset_id": "wb1974-table10.7-dairy-consumption-supply-patterns",
+  "title": "Actual and Projected Supply and Consumption Patterns of Dairy Products, Iran 1972 and 1977",
+  "source_org": "International Bank for Reconstruction and Development (World Bank) Agricultural Task Force (IBRD)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf, Table 10.7, page 80 (PDF page 88). Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1972 (actual), 1977 (projected)",
+  "frequency": "point-in-time / projection",
+  "topics": [
+    "consumption",
+    "dairy",
+    "milk",
+    "yogurt",
+    "cheese",
+    "butter",
+    "food-consumption",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "product in '000 tons or '000 head of livestock (supply side); fat-equivalent in tons; percent of total fat-equivalent",
+  "notes": "Splits Iran's dairy consumption into 'high value' (fresh milk, urban yogurt, cream, powdered milk) vs 'low value' (rural yogurt, cheese, butter, butter-oil) products, each converted to a common fat-equivalent basis for comparability -- a genuinely micro-level disaggregation FAOSTAT's aggregate 'Milk - Excluding Butter' balance does not offer. Supply side assumes self-sufficiency and breaks down milk source by animal (pure-bred/cross-bred/local cows, goats, sheep, buffaloes).",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "ee37f8fe9748c096751999b1243320bda44d89b540d860da148251996900a5bb",
+      "bytes": 3905
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

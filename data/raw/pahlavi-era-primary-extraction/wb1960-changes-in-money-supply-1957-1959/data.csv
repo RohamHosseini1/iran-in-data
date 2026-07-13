@@ -1,0 +1,21 @@
+line_item,1957_06_20,1957_12_20,1958_06_20,1958_12_20,1959_06_20,unit,notes
+Money Supply,25.11,27.69,30.86,36.33,37.25,billion rials,
+Time and Savings Deposits,5.27,5.79,7.14,7.30,8.82,billion rials,
+Total (Money Supply + Time and Savings Deposits),30.38,33.48,38.00,43.63,46.07,billion rials,subtotal as printed in source
+Change in Total from previous column,,+3.10,+4.52,+5.63,+2.44,billion rials,source label is "CHANGE (in 12 months)" but values are period-over-period (~6 months) vs the immediately preceding column
+Change in Total over prior 12 months (June-on-June),,,+7.62,,+8.07,billion rials,printed in parentheses in source; only given for June columns (comparison to June of prior year)
+Claims on Government,12.16,12.59,13.52,14.14,14.56,billion rials,
+Government Deposits,4.65,6.07,6.51,8.08,10.25,billion rials,
+Net Claims on Government,7.51,6.52,7.01,6.06,4.31,billion rials,subtotal (Claims on Government minus Government Deposits) as printed
+Change in Net Claims from previous column,,-0.99,+0.49,-0.95,-1.75,billion rials,
+Change in Net Claims over prior 12 months (June-on-June),,,-0.50,,-2.70,billion rials,printed in parentheses in source
+Claims on Official Entities,8.06,9.09,9.41,12.27,13.67,billion rials,
+Change in Claims on Official Entities from previous column,,+1.03,+0.32,+2.86,+1.40,billion rials,
+Change in Claims on Official Entities over prior 12 months (June-on-June),,,+1.35,,+4.26,billion rials,printed in parentheses in source
+Claims on Private Sector - Bank Melli,7.41,8.37,10.46,12.73,13.56,billion rials,
+Claims on Private Sector - Deposit Banks,5.01,5.61,7.22,9.88,13.70,billion rials,
+Claims on Private Sector - Total,12.42,13.98,17.68,22.61,27.26,billion rials,subtotal as printed
+Change in Claims on Private Sector from previous column,,+1.56,+3.70,+4.93,+4.65,billion rials,
+Change in Claims on Private Sector over prior 12 months (June-on-June),,,+5.26,,+9.58,billion rials,printed in parentheses in source
+Foreign Assets and non-monetary factors (incl. errors & omissions) - change from previous column,,+1.50,+0.01,-1.21,-1.87,billion rials,this line item is itself a flow/change (balancing item); no separate "level" is printed
+Foreign Assets change over prior 12 months (June-on-June),,,+1.51,,-3.08,billion rials,printed in parentheses in source

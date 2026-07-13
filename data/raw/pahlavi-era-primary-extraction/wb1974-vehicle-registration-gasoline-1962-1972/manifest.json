@@ -1,0 +1,37 @@
+{
+  "dataset_id": "wb1974-table14.7-motor-vehicles-registration-gasoline-consumption",
+  "title": "Motor Vehicles Registration and Gasoline Consumption, Iran 1962-1972",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Statistical Centre of Iran, Plan Organization, Statistical Year Book 1971 (Translated), Tehran 1972",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf, Table 14.7, page 132 (PDF page 140). Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1962-1972 (continuous annual series)",
+  "frequency": "annual",
+  "topics": [
+    "consumption",
+    "durable-goods",
+    "car-ownership",
+    "vehicle-registration",
+    "gasoline",
+    "energy-consumption",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "thousand vehicles (cars/buses/trucks); million barrels (gasoline consumption)",
+  "notes": "Fills a genuine gap: extends the existing two-point comparison in data/raw/pahlavi-era-primary-extraction/wb1962-road-vehicle-registration-1955-1961/ (1955/56 vs 1960/61 only) into a continuous annual 1962-1972 series, and updates data/raw/pahlavi-era-primary-extraction/wb1962-gasoline-consumption-1955-1962/ (which ran 1955/56-1961/62 in million liters) with a continuation in million barrels 1962-1972. Directly answers the project's 'car ownership per capita/per household' target -- this is the household/consumer-durable-goods dataset previously missing from data/raw/iran-car-ownership/ (which had only post-2000 CEIC notes, no Pahlavi-era time series). Private/government split given for cars and buses; trucks total only (no split published in source).",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "0f10ae5de2332f202dde726c5e41e5211fb820b1714144696155ad412f9c65cd",
+      "bytes": 5338
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

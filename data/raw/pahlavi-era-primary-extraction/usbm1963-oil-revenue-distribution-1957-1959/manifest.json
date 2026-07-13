@@ -1,0 +1,21 @@
+{
+  "dataset_id": "usbm1963-oil-revenue-distribution-1957-1959",
+  "title": "Distribution of Iranian Oil Revenue Among Plan Organization, Ministry of Finance, and NIOC, 1957-1959",
+  "source_org": "US Bureau of Mines Information Circular 8203 (1963), unlabeled table (p.19)",
+  "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:19Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "pdftoppm -r 150 render to PNG (PDF page 27) + Read tool visual verification.",
+  "files": [
+    {"name": "oil_revenue_distribution_1957_1959.csv", "original_name": null, "sha256": "bf31f263b966f492016c56fc5b52b4b3379b7c4cc29814ef52e0f23c016d5cb4", "bytes": 722}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1957-1959",
+  "frequency": "annual",
+  "topics": ["oil", "government revenue", "Plan Organization", "development planning"],
+  "units": "percent (share of oil revenue)",
+  "license_terms": "US Government publication, public domain",
+  "notes": "Small but precise dataset showing how Iran's oil revenue was institutionally split among the Plan Organization (7-year development plan financing), Ministry of Finance (general budget), and NIOC (operating/exploration costs) in the late 1950s -- directly quantifies the '37% of the first 7-year plan financed by oil revenue' / '73% of the second 7-year plan (1955-62) financed by oil revenue, of which $811.9 million' narrative figures also present in the source text (captured in this dataset's sibling manifest notes, not re-tabulated as they are single point figures already, not a year-series).",
+  "failures": []
+}

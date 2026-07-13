@@ -1,0 +1,65 @@
+{
+  "dataset_id": "pmo-tariff-booklets-2024",
+  "title": "Ports and Maritime Organization of Iran (PMO) — Tariff Booklets (Southern Ports, 2024 edition)",
+  "source_org": "Ports and Maritime Organization of Iran (PMO), Ministry of Roads and Urban Development",
+  "source_url": "https://en.pmo.ir/en/statistics",
+  "download_url": "https://web.archive.org/web/{timestamp}id_/https://en.pmo.ir/en/filepool2/download/{hash}",
+  "retrieved_at_utc": "2026-07-12T19:55:00Z",
+  "retrieved_by": "agent:iran-finance-trade-infra",
+  "files": [
+    {
+      "name": "pmo_southern_ports_tariff_booklet_2024.pdf",
+      "original_name": "64417.pdf (server-assigned filepool ID)",
+      "sha256": "bfad0046bfe58a8e18580607a67d56788991b2690d942d8bc4900b889d0adb34",
+      "bytes": 622857,
+      "wayback_timestamp": "20250812040452",
+      "wayback_url": "https://web.archive.org/web/20250812040452id_/https://en.pmo.ir/en/filepool2/download/76076f7ae4f5e6c4bf76de9bc60b289dd60eee51ae2e2c6db1f6b35e833c3aa2"
+    },
+    {
+      "name": "pmo_tariff_table10_storage_charges_2024.pdf",
+      "original_name": "64421.pdf (server-assigned filepool ID)",
+      "sha256": "2779282500c5801076d6aa5874ec1ef89a6f0be003b73bbabbb51df614f54dd8",
+      "bytes": 146571,
+      "wayback_timestamp": "20250812115951",
+      "wayback_url": "https://web.archive.org/web/20250812115951id_/https://en.pmo.ir/en/filepool2/download/8851af0eb4422b97dda9a9b939a30606d60eee51ae2e2c6db1f6b35e833c3aa2"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "2024 (tariffs effective 21 May 2024 / 23 May 2024)",
+  "frequency": "periodic (tariff schedule, revised occasionally)",
+  "topics": [
+    "ports",
+    "maritime",
+    "port tariffs",
+    "shipping costs",
+    "cargo storage charges",
+    "port infrastructure"
+  ],
+  "units": "Iranian Rial per ton/day, per container, per GRT as applicable — described within each PDF",
+  "license_terms": "PMO public publication; no explicit license stated on site",
+  "notes": "TASK GOAL WAS cargo throughput / port statistics, NOT tariffs — this dataset is a partial/adjacent result, documented honestly below. pmo.ir does not resolve at all from this network (DNS NXDOMAIN); www.pmo.ir and en.pmo.ir (the actual live domain per web search) both time out on connect (curl 28, 20s timeout) — same class of unreachability as other Iranian government sites in this project. Via Wayback CDX (matchType=domain) on en.pmo.ir, found the site's live 'Statistics and performance' section structure: https://en.pmo.ir/en/statistics/annualreport lists English annual cargo-throughput reports for EVERY year 2009-2024 (labeled 'REPORT-20XX-ENGLISH-PDF'/'-EXCEL', plus two files explicitly named 'Annual Throughput By Port - 2009' and '-2010'), and https://en.pmo.ir/en/statistics/monthlyreport lists monthly reports back through at least 2024-09 (as of the 2025-08 snapshot). These listing PAGES were successfully recovered from Wayback (HTML only) and are not included here since they're not the actual data, but every individual report file behind a '/en/filepool2/download/{hash}' link was checked against the Wayback CDX index and NOT ONE of the ~20 annual-report hashes or ~20 monthly-report hashes had ever been crawled/archived as a binary (the site's file-download links are evidently not followed by Wayback's crawler, likely JS-triggered rather than plain <a href> in the live DOM, or blocked by robots.txt for that path). A domain-wide CDX search for any application/* mimetype under en.pmo.ir returned only 154 total archived resources, of which exactly 2 were filepool2/download binaries (both PDFs, confirmed via file and pdftotext) — these 2 are the SOUTHERN PORTS TARIFF BOOKLET 2024 (63 pages, full tariff schedule for port/maritime services, ships, container and non-container cargo, rail services) and a 3-page excerpt 'Table 10 - Storage charges of non-containerized cargo' from a related tariff document. Both are genuine, verified PMO documents, useful for port-cost/infrastructure-economics context, but they are NOT the cargo-throughput statistics the task targeted. The actual throughput/annual-report PDFs for 2009-2024 remain unrecovered this session — a follow-up could try: (a) requesting a fresh Wayback SPN2 capture of each filepool2 hash URL (save-page-now), (b) checking if PMO publishes the same annual throughput tables via a secondary channel (e.g. Tehran Times/Mehr News articles cite PMO figures directly, already visible in web search results during this session: 234.8m tons FY1403/2024-25, 3.08m TEU in 2024), or (c) trying a VPN/different egress IP since the connection-level timeout (not an HTTP block) suggests network-layer unreachability rather than a bot-challenge.",
+  "failures": [
+    {
+      "url": "https://pmo.ir",
+      "reason": "DNS resolution failure (NXDOMAIN)"
+    },
+    {
+      "url": "https://www.pmo.ir/en",
+      "reason": "connect timeout (curl 28)"
+    },
+    {
+      "url": "https://en.pmo.ir/",
+      "reason": "connect timeout (curl 28) — actual live domain per web search, still unreachable"
+    },
+    {
+      "url": "https://en.pmo.ir/en/statistics/annualreport (individual REPORT-20XX-ENGLISH-PDF/EXCEL files, ~20 years 2009-2024)",
+      "reason": "listing page recovered via Wayback but none of the underlying filepool2/download file hashes were ever archived (not in CDX index)"
+    },
+    {
+      "url": "https://en.pmo.ir/en/statistics/monthlyreport (individual monthly REPORT-20XX-MM-ENGLISH-PDF/EXCEL files)",
+      "reason": "same as above — listing recovered, files not archived"
+    }
+  ]
+}

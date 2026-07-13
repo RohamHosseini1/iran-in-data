@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1974-table9.3-household-expenditure-distribution",
+  "title": "Percentage Distribution of Urban and Rural Households by Monthly Expenditure Bracket, Iran 1971",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); 'Mission estimates'",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf, Table 9.3, page 73 (PDF page 81). Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1971 (single cross-section)",
+  "frequency": "single year",
+  "topics": [
+    "consumption",
+    "household-budget-survey",
+    "expenditure-inequality",
+    "urban-rural",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "percent of households (and cumulative percent) falling in each monthly-expenditure bracket (rials)",
+  "notes": "Household expenditure-distribution table -- a direct proxy for consumption inequality in 1971 Iran, complementing (not duplicating) the WID.world top-income-share series already in data/processed/inequality_wid_world.csv. Source labeled 'Mission estimates', i.e. World Bank mission's own tabulation from the underlying SCI survey microdata, not a directly-published SCI table.",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "fd889ecc915a32bbab5e529f9e80bdc7e76fe9e56daa52a1b9bf448dd7256c2b",
+      "bytes": 986
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

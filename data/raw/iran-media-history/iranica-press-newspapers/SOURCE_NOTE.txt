@@ -1,0 +1,4 @@
+The full source article text for this dataset (press_periodicals_series.csv) is stored once, not duplicated, at:
+data/raw/iran-telecom-history/iranica-communications-in-persia/communications-in-persia.txt
+
+That single Encyclopaedia Iranica article, "COMMUNICATIONS in Persia" by Annabelle Sreberny-Mohammadi and Ali Mohammadi (1992), covers post, telegraph, telephone, press/newspapers, radio, and television in one piece. It was filed under iran-telecom-history because most of its content (post/telegraph/telephone/radio-TV infrastructure) belongs there; this press_periodicals_series.csv extracts only the newspaper/periodical-circulation-relevant rows for the iran-media-history source folder, per this project's per-topic slug convention. See the sibling manifest.json in the iran-telecom-history folder for full retrieval method, failures, and citation details -- not repeated here to avoid drift between two copies.

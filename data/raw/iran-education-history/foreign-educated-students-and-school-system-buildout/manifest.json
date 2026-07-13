@@ -1,0 +1,22 @@
+{
+  "dataset_id": "foreign-educated-students-and-school-system-buildout",
+  "title": "Iranian students studying abroad (esp. in the United States, 1975-2016) + absolute domestic school/teacher/student counts (1925-2023)",
+  "source_org": "WENR (World Education News + Reviews, published by WES -- an accredited non-profit credential-evaluation organization), citing Institute of International Education (IIE) Open Doors annual census data and British Council international student mobility data; Wikipedia 'Education in Iran' for domestic schooling counts",
+  "source_url": "https://wenr.wes.org/2017/02/educating-iran-demographics-massification-and-missed-opportunities ; https://en.wikipedia.org/wiki/Education_in_Iran",
+  "download_url": "https://wenr.wes.org/2017/02/educating-iran-demographics-massification-and-missed-opportunities ; https://en.wikipedia.org/wiki/Education_in_Iran",
+  "retrieved_at_utc": "2026-07-13T00:05:00Z",
+  "retrieved_by": "agent:iran-niche-institutional-hunt",
+  "files": [
+    {"name": "iranian_students_abroad_and_domestic_schooling.csv", "original_name": null, "sha256": "0d402e4dc020a598dc4737d2d342bef7831e390d0c62b9c9040dd6cafde688f9", "bytes": 6566}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1925-2023 (domestic schooling); 1975-2016 (Iranian students in the US); 2007-2014 (global student mobility)",
+  "frequency": "irregular snapshots",
+  "topics": ["education", "foreign-students", "study-abroad", "schools", "literacy", "pahlavi-era", "brain-drain", "human-capital"],
+  "units": "described per-row in CSV (persons, count, percent, ratio)",
+  "license_terms": "WENR/WES editorial content used for factual citation of underlying IIE Open Doors statistics; Wikipedia content CC BY-SA",
+  "notes": "Directly fills the user's explicit candidate direction #3 item: 'foreign-university-educated Iranian student counts (a well-documented Pahlavi-era phenomenon)'. This is a genuinely well-known but previously uncaptured Iran-specific phenomenon: Iran was literally the SINGLE LARGEST foreign-student-sending country to the United States for the 1974/75 through 1982/83 academic years (peaking at 51,310 students in 1979/80, per IIE Open Doors), a scale never repeated before or since by any single non-US-allied developing country -- and the subsequent 97% collapse to just 1,660 students by 1998/99 is itself a striking data point about the post-revolution rupture in US-Iran academic ties. Attempted to download the IIE Open Doors 'Historical Data' file directly from opendoorsdata.org for a complete continuous annual series (would have been far more granular than the point-snapshot figures used here) but the site returned HTTP 403 to both curl and the WebFetch tool; the WENR article's already-published point-in-time figures (sourced from the same underlying Open Doors data) were used instead as the next-best verifiable source. The domestic schooling counts (school/teacher/student ABSOLUTE numbers, not percentages) are a deliberately different angle from the enrollment RATIO series already in data/processed/macro_wdi.csv (SE.PRM.ENRR, SE.SEC.ENRR, SE.TER.ENRR, 1971-present) and from the literacy-rate figures already in data/raw/iran-white-revolution-corps/iranica-literacy-corps/ -- this dataset's 1925 baseline (3,300 schools, 110,000 students) predates both of those by decades and gives the earliest-available anchor point in the whole database for Iran's modern school system's starting scale.",
+  "failures": [
+    {"url": "https://opendoorsdata.org/data/international-students/all-places-of-origin/ (Download Historical Data file, ~92.74KB)", "method": "curl and WebFetch", "result": "HTTP 403 Forbidden both times; used WENR's already-published point-in-time figures (same underlying IIE Open Doors source data) instead, which is a legitimate substitute but is a snapshot series rather than a continuous annual one -- a future pass with browser-based Cloudflare-bypass (per the technique documented in agent-fleet-cost-discipline memory) could retrieve the full continuous series"}
+  ]
+}

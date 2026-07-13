@@ -1,0 +1,26 @@
+{
+  "dataset_id": "malaria-eradication-campaign",
+  "title": "Iran malaria control and eradication campaign, 1945-1990 — narrative timeline with embedded statistics (institutional milestones, peak case-burden estimate, geographic burden concentration)",
+  "source_org": "Compiled from WHO EMRO malaria strategy pages, WHO results-report country story, endmalaria.org/Global Fund 'Iran Story' summary, and general academic secondary literature, via WebSearch synthesis (primary underlying documents were blocked, see failures below)",
+  "source_url": "https://www.emro.who.int/malaria/strategy/ ; https://www.who.int/about/accountability/results/who-results-report-2022-mtr/country-story/2022/sustained-efforts-reap-benefits-for-malaria-elimination-in-iran ; https://endmalaria.org/sites/default/files/Iran%20Story%20new%2026_Sep_2018_GF.pdf",
+  "download_url": "https://www.emro.who.int/malaria/strategy/ ; https://www.who.int/about/accountability/results/who-results-report-2022-mtr/country-story/2022/sustained-efforts-reap-benefits-for-malaria-elimination-in-iran",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "retrieved_by": "agent:iran-niche-institutional-hunt",
+  "files": [
+    {"name": "malaria_campaign_narrative.txt", "original_name": null, "sha256": "c564b6b74ae4075935827b0fd2dd800ea5059646b619dc363b6495c004d14781", "bytes": 5567},
+    {"name": "malaria_campaign_key_figures.csv", "original_name": null, "sha256": "90e4490620b4d4233e0c1072ce4635d057e6e3246baaa73ce661eb613e894c7a", "bytes": 1277}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1945-1990",
+  "frequency": "irregular narrative milestones, NOT a continuous annual case-count series",
+  "topics": ["health", "malaria", "disease-eradication", "public-health", "pahlavi-era", "who"],
+  "units": "described per-row in CSV; narrative txt for qualitative context",
+  "license_terms": "Factual citation of WHO and academic-summary public content; no verbatim reproduction beyond short attributed figures",
+  "notes": "Directly addresses the user's explicit candidate direction #2 example ('major disease incidence, e.g. malaria eradication campaign statistics'). Follows the narrative-embedded-stats precedent set at data/raw/pahlavi-era-primary-extraction/iranica-fiscal-system-narrative-series-1921-1979/ (a .txt narrative file with citations, plus a companion .csv of the numeric anchors extractable from that narrative) BECAUSE the primary quantitative sources for this topic (CDC's archived 'Malaria control in Iran' document and a ResearchGate academic paper with the fullest case-count time series) were both blocked (HTTP 403) in this pass -- see failures. This is honestly a THINNER dataset than the other five produced in this hunt: it has real, cross-confirmed institutional milestones (1945 training course, 1947 first DDT pilot, 1957 national programme launch, 1980 eradication-to-control policy shift, 1990 three-province residual burden) and one genuinely striking order-of-magnitude estimate (5 million cases/year at peak burden, imprecisely dated to roughly the late 1950s) but does NOT have a continuous annual case-count series, which is what would be needed to chart malaria incidence over time the way, e.g., the FAOSTAT agricultural-production series can be charted. Flagged explicitly in both files rather than papering over the gap with fabricated interpolated values. WHO's modern-era malaria elimination data (2000s-present) is NOT re-covered here since the existing data/raw/who-health-econ/ and data/processed/owid_indicators.csv sources likely already have modern disease-burden indicators covering this period at the indicator-database level -- this dataset's unique value is specifically the pre-1990, Pahlavi-era-through-early-IRI institutional history that those modern indicator databases don't reach back to.",
+  "failures": [
+    {"url": "https://stacks.cdc.gov/view/cdc/72033", "method": "WebFetch", "result": "HTTP 403 Forbidden"},
+    {"url": "https://www.researchgate.net/publication/228374792_Malaria_in_Iran_Past_and_Present_Situation", "method": "WebFetch", "result": "HTTP 403 Forbidden"},
+    {"url": "https://iranprimer.usip.org/blog/2019/feb/06/revolution-40-society-numbers", "method": "WebFetch", "result": "certificate has expired -- could not retrieve, would have been a useful cross-check for broader pre/post-1979 social statistics beyond just malaria"},
+    {"url": "https://iran.un.org/en/23440-history-successful-struggle-against-malaria-islamic-republic-iran (the actual full PDF report, 'History of the successful struggle against malaria in the Islamic Republic of Iran', published with Iran's Ministry of Health and Medical Education + Global Fund)", "method": "WebFetch", "result": "landing page returned only the publication abstract/download-count metadata, not the underlying PDF content or its statistical tables -- this is very likely the single best available primary source for a full annual case-count series and is flagged as the top candidate for a future continuation pass"}
+  ]
+}

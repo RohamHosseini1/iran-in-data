@@ -1,0 +1,21 @@
+{
+  "dataset_id": "iranica-press-newspapers",
+  "title": "Iranian press/newspaper periodical counts and literacy rates, 1898-1988 — extracted from Encyclopaedia Iranica 'COMMUNICATIONS in Persia'",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation), article by Annabelle Sreberny-Mohammadi and Ali Mohammadi",
+  "source_url": "https://www.iranicaonline.org/articles/communications-in-persia/",
+  "download_url": "https://www.iranicaonline.org/articles/communications-in-persia/",
+  "retrieved_at_utc": "2026-07-13T00:10:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "press_periodicals_series.csv", "original_name": null, "sha256": "6bb2d8c25da87238267f5a10970d2002f0efc2747eadb1eb3ead12fd7d438a5d", "bytes": 1985},
+    {"name": "SOURCE_NOTE.txt", "original_name": null, "sha256": "e92df3da000ce9eeab76383eb8de3ed5b707c585f835ceb12048151f63bbdfb3", "bytes": 923}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1898-1988",
+  "frequency": "one-off reference article with embedded snapshot statistics",
+  "topics": ["newspapers", "press", "periodicals", "literacy-rate", "pahlavi-era", "islamic-republic-early-years"],
+  "units": "counts (dailies/weeklies/monthlies/periodicals), percent (literacy rate)",
+  "license_terms": "Encyclopaedia Iranica — academic reference, cite author/article per their citation guidance",
+  "notes": "This CSV is a topic-scoped extract of a single Encyclopaedia Iranica article ('COMMUNICATIONS in Persia') whose FULL text is stored (not duplicated) at data/raw/iran-telecom-history/iranica-communications-in-persia/communications-in-persia.txt -- see SOURCE_NOTE.txt in this folder and the sibling manifest.json for full retrieval method/citation/failure details. Key finding for the media-history hunt: Iran's press count actually CONTRACTED after 1979 -- 237 periodicals (1979-80, pre-university-closure) down to 163 by 1988, versus the Pahlavi-era peak framing (198 papers in 1976) -- a genuine 'before and after' data point for the post-1979 media economy shift. Also captures the 1976 literacy-rate gender gap (57% male / 32% female, age 10+) as a companion figure to the White-Revolution-era illiteracy data already in data/raw/iran-white-revolution-corps/. All numbers transcribed exactly as printed in the source; nothing fabricated.",
+  "failures": []
+}

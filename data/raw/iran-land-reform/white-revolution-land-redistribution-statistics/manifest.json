@@ -1,0 +1,23 @@
+{
+  "dataset_id": "white-revolution-land-redistribution-statistics",
+  "title": "Iran White Revolution Land Reform (1962-1978) — hectares redistributed, beneficiary families, farm corporations, cooperatives, mechanization",
+  "source_org": "Compiled from Wikipedia 'Iranian Land Reform' (itself citing Encyclopedia.com and Britannica) and IranNamag (peer-reviewed-adjacent academic journal) article 'Land Reform and Agrarian Transformation in Iran, 1962-78'",
+  "source_url": "https://en.wikipedia.org/wiki/Iranian_Land_Reform ; https://www.irannamag.com/en/article/land-reform-agrarian-transformation-iran-1962-78/",
+  "download_url": "https://en.wikipedia.org/wiki/Iranian_Land_Reform ; https://www.irannamag.com/en/article/land-reform-agrarian-transformation-iran-1962-78/",
+  "retrieved_at_utc": "2026-07-12T23:33:00Z",
+  "retrieved_by": "agent:iran-niche-institutional-hunt",
+  "files": [
+    {"name": "land_reform_statistics.csv", "original_name": null, "sha256": "52f9efa0dc1fe088321fc375d06635e7cb6f6e14d0209f6ce915bd64e9b66f15", "bytes": 9117}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1950-1978 (core reform program 1962-1978)",
+  "frequency": "irregular snapshots (baseline, mid-1970s snapshot, end-of-program 1978 cumulative)",
+  "topics": ["land-reform", "white-revolution", "agriculture", "agrarian-reform", "farm-corporations", "agribusiness", "rural-cooperatives", "pahlavi-era", "mechanization"],
+  "units": "described per-row in CSV (hectares, families, persons, percent, count, votes, tractors, combines)",
+  "license_terms": "Wikipedia content CC BY-SA (underlying facts cited to Encyclopedia.com/Britannica per their terms); IranNamag is an open-access academic journal, cite per their citation guidance",
+  "notes": "This fills a genuine, confirmed gap: the White Revolution corps datasets already in data/raw/iran-white-revolution-corps/ cover the Literacy Corps, Health Corps, and Extension/Development Corps in detail, but NONE of them cover the land-reform-proper hectares/families/landlord-compensation statistics -- the only prior mention was one unverified Wikipedia one-liner ('1.5 million families') flagged as uncorroborated in wikipedia-white-revolution-corps-stats/manifest.json. This dataset provides the corroborated, sourced version plus much deeper detail (farm corporations, agribusiness companies, cooperative membership, mechanization, provincial variation). IMPORTANT per bookkeeping.md's contested-estimate policy: the literature gives two genuinely different-scope totals for land redistributed/beneficiaries -- a 'lower' estimate (1.5M hectares / 800K families by 1971, Wikipedia) and a much larger 'upper' estimate (6-7M hectares / 1.8-1.9M sharecroppers-tenants by 1978, IranNamag academic source) -- both are recorded as separate rows (estimate_A / estimate_B) rather than resolved to one number, because they appear to measure different things (initial redistribution only vs. the full 1962-78 process including later farm-corporation/agribusiness/cooperative mechanisms). Landlord COMPENSATION figures specifically (cash/bond amounts paid to former landowners) were searched for but not found in a form precise enough to record without fabrication -- multiple sources mention landlords were compensated 'in shares of state-owned industries' (per Britannica) but no rial/dollar total was located in this pass; flagged as a remaining gap for a future hunt (candidate next source: Ann K.S. Lambton's 'The Persian Land Reform, 1962-1966' monograph, WorldCat oclc/58259, not available in full text online -- would need a library). Cross-checked internal consistency: none of these figures duplicate or contradict the existing iran-white-revolution-corps data (which covers literacy/health/extension corps, not land tenure).",
+  "failures": [
+    {"url": "https://www.britannica.com/place/Iran/The-White-Revolution", "method": "WebFetch", "result": "HTTP 403 Forbidden -- Britannica blocks the fetch tool; phase-date framing recovered instead via WebSearch snippet synthesis, cross-checked against Wikipedia and IranNamag"},
+    {"url": "Ann K.S. Lambton 'The Persian Land Reform, 1962-1966' (WorldCat oclc/58259)", "method": "search", "result": "monograph not available in full text online; landlord cash/bond compensation totals not locatable via open web search in this pass, genuine gap not a fabrication"}
+  ]
+}

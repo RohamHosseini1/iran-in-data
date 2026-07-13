@@ -1,0 +1,26 @@
+{
+  "dataset_id": "wb1960dez-project-key-parameters",
+  "title": "Dez Multipurpose Project (Dez Dam) -- Key Engineering, Investment and Schedule Parameters (World Bank Appraisal, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION from narrative text (Summary and Conclusions + Introduction sections, PDF pages 1-4 of data/raw/world-bank-archives-iran/historical-documents/1960_dez_multipurpose_project_appraisal.pdf). Text was cleanly extractable via `pdftotext -layout` for these narrative pages (no visual/PNG verification needed -- narrative prose renders reliably in this document, unlike the tabular Annex pages which required PNG rendering; see companion dataset wb1960dez-annex1-dam-power-cost-estimate for that methodology). Every value quoted or closely paraphrased from the source text; illegible or cut-off figures (e.g. exact reservoir useful-life figure) are flagged as such in the notes column rather than estimated.",
+  "retrieved_by": "claude (manual transcription)",
+  "retrieved_at_utc": "2026-07-13T00:02:01Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "df6bc6f9ffb9e82e662aa5a38aea7d96c65cb7ac3c668aafdc02c40a526ad5a6",
+      "bytes": 4100
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1957 (project conception) - 1960 (appraisal date) with forward schedule to 1974 (full-scheme completion target) and 1984 (power facilities planning horizon)",
+  "frequency": "single cross-section / project profile (not a time series)",
+  "topics": ["dams", "hydroelectric-power", "water-infrastructure", "irrigation", "khuzistan", "dez-river", "world-bank-projects", "pahlavi-era", "flood-control"],
+  "units": "mixed -- see unit column per row (meters, million cubic meters, MW, hectares, million USD, million Rials)",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source: 'IRAN -- Appraisal of the Dez Multipurpose Project' (World Bank, October 1960 report). The Dez Dam (later officially the Mohammad Reza Shah Pahlavi Dam) was Iran's flagship Pahlavi-era multipurpose dam -- first step of a planned long-range Khuzistan development program, financed with World Bank involvement, designed as a thin concrete arch dam 190m high with an underground powerhouse, built to serve irrigation (110,000 ha full-scheme target vs. 20,000 ha initial pilot), hydroelectric power (520 MW ultimate, 8 x 65MW units), and flood control for the Ahwaz-to-Persian-Gulf zone. Development and Resources Corporation (DRC) of New York was the principal consultant (retained from 1957); Electroconsult (dam design/construction supervision) and Nederlandsche Heidemaatschappij of Arnhem (irrigation design) were sub-consultants. Companion dataset: wb1960dez-annex1-dam-power-cost-estimate (detailed cost breakdown). Part of this project's systematic Pahlavi-era World Bank PDF mining effort (Round 38, mining/dams/industrial hunt). Cross-reference: the dam's actual completion/operational history (it began operating 1963) and later renaming are not covered by this 1960 pre-construction appraisal document -- a future pass could seek a project completion report analogous to the Ghazwin (Qazvin) 1978 completion report already in this archive, if one exists for Dez.",
+  "failures": []
+}

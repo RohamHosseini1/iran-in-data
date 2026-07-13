@@ -1,0 +1,36 @@
+{
+  "dataset_id": "wb1971-table8.8-domestic-consumption-of-oil-products",
+  "title": "Domestic Consumption of Oil Products, Iran 1964-1969 (thousand metric tons)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company (via Bank Markazi Iran reports 1969-1970)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1971_cep_vol7_statistical_annex.pdf ('Current Economic Position and Prospects of Iran', Volume VII: Statistical Annex, May 18 1971, Report No. SA-23a), Table 8.8, page 84 of the PDF. Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1964-1969",
+  "frequency": "annual",
+  "topics": [
+    "energy-consumption",
+    "oil-products",
+    "kerosene",
+    "gasoline",
+    "fuel-oil",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "thousand metric tons (converted from barrels by the source at 7.6 bbl=1 Mton for fuel oil/gas oil/kerosene/gasoline, ~7.0 bbl=1 Mton for other products)",
+  "notes": "Breaks Iran's domestic oil-product consumption into fuel oil, gas oil, kerosene, gasoline, and other products (incl. liquid gas sold by National Iranian Gas Co.), each with 1964-69 and 1968-69 growth rates in the source (not reproduced here, only levels). Kerosene is of particular household-consumption interest (heating/cooking fuel for much of the non-electrified population this era) -- 1965's anomalous spike to 2,216 (vs, 1,188 in 1964 and 1,266 in 1966) is exactly as printed in the source, not a transcription artifact (double-checked against the rendered image). Companion/predecessor to wb1962-gasoline-consumption-1955-1962 (which only covered gasoline, 1955/56-1961/62, in million liters) -- together the two tables give a near-continuous 1955-1969 gasoline consumption picture across two different units (reconciliation left to data/processed/).",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "072f1c829bbea807ff19363efdc04a0361a8c3d3629a2f33c7130e7d790b7b22",
+      "bytes": 923
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

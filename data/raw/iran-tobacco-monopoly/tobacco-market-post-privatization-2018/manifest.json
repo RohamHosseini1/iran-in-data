@@ -1,0 +1,21 @@
+{
+  "dataset_id": "tobacco-market-post-privatization-2018",
+  "title": "Iran Tobacco Market, Post-Privatization Snapshot (2018) — Consumption, Import Dependency, Market Share",
+  "source_org": "Tobacco Asia (trade publication), citing Iran's Ministry of Health and Ministry of Industries, Mining, and Trade",
+  "source_url": "https://www.tobaccoasia.com/features/iran-in-focus/",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION via WebFetch of a single trade-press article.",
+  "retrieved_by": "claude (WebFetch)",
+  "retrieved_at_utc": "2026-07-12T23:10:48Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "ceb0fa3109b82706d14c34516722c626b0d5bee79fe4163e4dfc2d70dcb1059e", "bytes": 1759}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2018 (single snapshot year)",
+  "frequency": "single snapshot",
+  "topics": ["tobacco", "cigarettes", "iranian-tobacco-company", "privatization", "imports", "market-share"],
+  "units": "mixed: cigarettes/year, people, percent -- see unit column per row",
+  "license_terms": "Trade-press article content, used here for factual citation with attribution.",
+  "notes": "Documents the dramatic reversal of Iran's century-old state tobacco monopoly: the Iranian Tobacco Company (ITC, successor to the historic Dokhaniyat) was privatized in 2012 and by 2018 held only ~15-20% domestic market share, having been overtaken by multinational Japan Tobacco International (JTI, >50% share). Also documents Iran's collapse from tobacco self-sufficiency (13,500 tons/year, 1940, see sibling dataset) to 80% import dependency on tobacco leaf by 2018. This is a companion/bookend dataset to iran-tobacco-monopoly/iranica-tobacco-monopoly-narrative-series-1890-1995/, closing the loop from state monopoly's founding (1890 Regie / 1929 Dokhaniyat) to its effective end.",
+  "failures": []
+}

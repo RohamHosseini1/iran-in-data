@@ -1,0 +1,25 @@
+{
+  "dataset_id": "iran-wto-gatt-accession-timeline-1996-2025",
+  "title": "Iran's WTO/GATT Accession Attempt History, 1995-2026 (curated narrative timeline)",
+  "source_org": "World Trade Organization (official) + Wikipedia + USTR + IRFA Journal (academic legal analysis) -- citation-preserving compilation",
+  "source_url": "https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm ; https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization ; https://ustr.gov/trade-agreements/wto-multilateral-affairs/wto-accessions/other-accessions ; https://irfajournal.csr.ir/article_123379.html",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:05:02Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "Narrative/policy-history extraction pattern: each row is a dated milestone with a preserved per-row citation. Confirms Iran has NEVER completed WTO accession -- the attempt history itself (19 July 1996 application -> blocked 22 times 2001-2005 -> 26 May 2005 Working Party established -> Nov 2009 Memorandum on Foreign Trade Regime -> Feb 2010 consolidated member questions -> Dec 2011 Iran's responses -> Working Party has STILL never held its first formal meeting, pending Chairman appointment) is itself the notable data point per the user's brief.",
+  "files": [
+    {"name": "wto_gatt_accession_timeline.csv", "original_name": null, "sha256": "6f64dd943c91f49f9d4d0b7ed8fb2b469d8fdbac06ca59af00260072e8475529", "bytes": 4697}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1995-2026, non-continuous (dated milestones)",
+  "frequency": "irregular / event-based",
+  "topics": ["WTO", "GATT", "trade policy", "accession", "international economic institutions"],
+  "units": "n/a (qualitative milestones; one row carries an export-value figure in USD)",
+  "license_terms": "Compiled from public web sources; each row individually cited",
+  "notes": "This is the only major multilateral-trade institution Iran has never joined (in contrast to fuller-fleshed IMF/World Bank/OPEC relationships elsewhere in this database) -- the STALL itself, with exact dates, is the finding. A pre-1995 GATT-era observer-status claim ('Iran held GATT observer status since 1948') appeared in one AI-search-engine summary but could not be traced to a primary WTO/GATT Analytical Index citation within this session -- included as a labeled 'first WTO-era approach ~1995' row sourced to a secondary synthesis only, flagged explicitly as needing independent corroboration before being treated as fully verified (the 1948 claim itself was NOT included in this file). Iran's Working Party Chairman has still never been appointed as of the most recent (2018-vintage secondary-source) status check in this round -- a live check of https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm is recommended for any future update, since that WTO official page returned only a single confirmed date (26 May 2005) via automated fetch and did not expose its full status-summary text.",
+  "failures": [
+    {"attempted": "Direct WebFetch of WTO official accession-status page full status-summary text", "outcome": "partial -- only the 26 May 2005 Working Party date was extracted; the page's live '#status' section text was not retrievable via automated fetch", "note": "supplemented via Wikipedia/USTR/academic sources instead"},
+    {"attempted": "PDF dossier (ethmun.org Iran accession Model UN briefing)", "outcome": "fetched but returned unreadable binary/encoded content, no usable text extracted", "note": "not used as a source"}
+  ],
+  "bookkeeping_fix": "Post-write CSV validation found 2 rows with an unquoted comma inside the source_name cell breaking column alignment. Fixed by quoting those two cells (data unchanged). sha256/bytes above reflect the corrected file."
+}

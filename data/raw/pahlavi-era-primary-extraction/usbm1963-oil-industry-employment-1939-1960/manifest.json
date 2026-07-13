@@ -1,0 +1,21 @@
+{
+  "dataset_id": "usbm1963-oil-industry-employment-1939-1960",
+  "title": "Employment in the Iranian Oil Industry by Nationality, 1939-1960",
+  "source_org": "US Bureau of Mines Information Circular 8203 (1963), Table 4 (p.20)",
+  "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:19Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "pdftoppm -r 150 render to PNG (PDF page 28) + Read tool visual verification. All 8 footnotes on the source table preserved verbatim in the notes column rather than silently applied/dropped.",
+  "files": [
+    {"name": "oil_industry_employment_by_nationality_1939_1960.csv", "original_name": null, "sha256": "0c86073e321c69ef3d8d192419d29735f1938ac3d2de8f16e92bf4c98bf0b317", "bytes": 1401}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1939-1960, non-continuous (1950 and 1952-54 not available)",
+  "frequency": "annual",
+  "topics": ["oil", "employment", "labor", "AIOC", "Consortium Agreement", "nationalization"],
+  "units": "count (persons employed)",
+  "license_terms": "US Government publication, public domain",
+  "notes": "Directly relevant to the user brief's oil-industry-workers mission item: shows the Iranian/Non-Iranian employment split shifting dramatically toward Iranian staffing over 1939-1960 (Iranian share ~85% in 1939 rising further post-nationalization) and captures the near-total 1951-54 employment collapse implied by the missing 1952-54 rows (nationalization crisis, exports negligible per source narrative). Source text (p.19-20, captured qualitatively rather than fabricated as a number) states the oil industry 'ranks as Iran's largest industrial employer, employing nearly one-third of industrial labor force' by the early 1960s, and that 'wages and salaries paid by the oil industry have been notably higher than prevailing rates in other fields of employment' -- both qualitative claims from the same authoritative primary source, included here as context for interpreting the quantitative tables.",
+  "failures": []
+}

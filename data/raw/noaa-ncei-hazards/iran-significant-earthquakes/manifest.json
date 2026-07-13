@@ -1,0 +1,22 @@
+{
+  "dataset_id": "noaa-ncei-hazards-iran-significant-earthquakes",
+  "title": "NOAA NCEI Significant Earthquake Database — Iran events with quantified economic damage, deaths, injuries, houses destroyed",
+  "source_org": "NOAA National Centers for Environmental Information (NCEI), Natural Hazards / Significant Earthquake Database",
+  "source_url": "https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search",
+  "download_url": "https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?country=IRAN and https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?country=IRAN&minDamageMillionsDollars=0",
+  "retrieved_at_utc": "2026-07-13T02:02:00Z",
+  "retrieved_by": "agent:round38-regional-social-hunt",
+  "files": [
+    {"name": "iran_earthquakes_all_events_2026-07-13.json", "original_name": "API JSON response, no damage filter", "sha256": "15ec15af0536765e02586ca5b539f1702b2bb11ea97bec95b59783877fbdd64a", "bytes": 52324, "notes": "200 Iran earthquake events from NCEI's significant-earthquake catalog (broader inclusion criteria: magnitude/deaths/damage thresholds OR notable event), most WITHOUT a populated damageMillionsDollars field (deaths/injuries/housesDestroyed still often present)"},
+    {"name": "iran_earthquakes_with_damage_2026-07-13.json", "original_name": "API JSON response, minDamageMillionsDollars=0 filter", "sha256": "2470e33ee9d54e0fc6ec23a57e1f50aeb873bb4a22d1478aacf5448a5e70d2a6", "bytes": 23398, "notes": "36 Iran earthquake events where NCEI has a quantified USD damage estimate (damageMillionsDollars field populated) -- the economically useful subset"},
+    {"name": "iran_earthquakes_with_damage.csv", "original_name": null, "sha256": "717e451f4207acf2e2191bd87445eb7f4808daf8344912b0e785a8689e75110c", "bytes": 3450, "notes": "Flattened CSV of the 36-event damage subset, sorted chronologically, derived directly from the JSON above (same 36 rows, no data altered)"}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1956-2023",
+  "frequency": "event-level (irregular)",
+  "topics": ["natural-disasters", "earthquakes", "economic-damage", "provincial", "infrastructure", "housing"],
+  "units": "damageMillionsDollars = estimated total damage in millions of US dollars AT THE TIME OF THE EVENT (NOT inflation-adjusted to a common year -- NCEI documentation does not specify adjustment methodology per-event, treat cross-year damage comparisons with that caveat)",
+  "license_terms": "US Government public domain (NOAA)",
+  "notes": "This directly answers the project brief's natural-disaster-economic-costs bucket for ALL FIVE named earthquakes: Buin Zahra 1962-09-01 (deaths 12,225; damage $30M; houses destroyed 21,310), Tabas 1978-09-16 (deaths 20,000; damage $50M; houses destroyed 15,000), Manjil-Rudbar 1990-06-20 (deaths 40,000; damage $7,200M -- by far the largest in the series, houses destroyed 100,000), Bam 2003-12-26 (deaths 31,000; damage $500M), Kermanshah 2017-11-12 (deaths 630; damage $750M; houses destroyed 15,500) -- PLUS 31 additional damage-quantified Iran earthquakes NCEI has catalogued back to 1956 (Bastak, Lar, Dasht-e-Bayaz 1968, Kerman 1981 [$1,000M], Ardabil 1997, Bushehr 2013, Ahar-Varzagan 2012, Khoy 2023, etc.), giving a genuinely rich time series for a 'earthquake economic cost over time' chart, not just 5 isolated points. Cross-checked against independent secondary reporting during the hunt: World Bank's 2004 estimate for Bam was ~$1.5B (vs NCEI's $500M) and Iran's own government put Kermanshah 2017 damage at ~5B EUR (vs NCEI's $750M) -- NCEI's figures are lower than some other national/multilateral estimates in these two cases; this is flagged here rather than silently reconciled, since the two source bases (NCEI's internal historical-damage-database methodology vs. ad hoc post-disaster reconstruction-cost estimates) are not measuring exactly the same thing (direct physical damage vs. total reconstruction/needs cost). A World Bank narrative citation for the Bam $1.5B figure is separately recorded in SOURCES.md Round 38.",
+  "failures": []
+}

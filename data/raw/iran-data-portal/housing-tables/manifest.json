@@ -1,0 +1,72 @@
+{
+  "dataset_id": "housing-tables",
+  "title": "Iran Data Portal — Housing & Urban Development tables (construction permits, housing stock, land/floor prices, rentals)",
+  "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+  "source_url": "https://irandataportal.syr.edu/housing-urban-development/",
+  "download_url": "see per-file download_url",
+  "retrieved_at_utc": "2026-07-12T18:24:29Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "housing_permits_by_type_and_sector_1991-2006.xls",
+      "original_name": "8.-number-of-housing-units-determined-in-construction-permits-issued-in-urban-areas-by-type-of-permit-and-sector-1370-a-1385-1991-a-2006.xls",
+      "sha256": "7b5efd6a6573e63f7378774a9e408ed3e59bb111f75801b28522bfefd5ded417",
+      "bytes": 30208,
+      "table_title": "Number of Housing Units Determined in Construction Permits Issued in Urban Areas by Type of Permit and Sector, 1370-1385 (1991-2006)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/8.-number-of-housing-units-determined-in-construction-permits-issued-in-urban-areas-by-type-of-permit-and-sector-1370-a-1385-1991-a-2006.xls",
+      "topic_page": "https://irandataportal.syr.edu/permits-in-urban-areas/"
+    },
+    {
+      "name": "conventional_housing_units_by_settled_households_1966-2006.xlsx",
+      "original_name": "9.-conventional-housing-units1-by-the-number-of-private-settled-households-1345-a-1385-1966-a-2006.xlsx",
+      "sha256": "3f3e1c6d6e09483ca62828dceee8b77248f3706fe9762ce1ad4a965c2bb91c7f",
+      "bytes": 11088,
+      "table_title": "Conventional Housing Units by the Number of Private Settled Households, 1345-1385 (1966-2006)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/9.-conventional-housing-units1-by-the-number-of-private-settled-households-1345-a-1385-1966-a-2006.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/conventional-units/"
+    },
+    {
+      "name": "avg_land_price_per_sqm_selected_cities.xlsx",
+      "original_name": "22.-average-price-of-land-per-square-metre-for-dilapidated-residential-buildings-transacted-in-real-estate-agencies-by-selected-cities-1000.xlsx",
+      "sha256": "f17098c2a2148115c8d598bf7d05577ad690585c7d3d5b5571d257ca91363db3",
+      "bytes": 12219,
+      "table_title": "Average Price of Land per Square Metre for Dilapidated Residential Buildings Transacted in Real Estate Agencies, by Selected Cities",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/22.-average-price-of-land-per-square-metre-for-dilapidated-residential-buildings-transacted-in-real-estate-agencies-by-selected-cities-1000.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/prices-constructors/"
+    },
+    {
+      "name": "avg_floor_area_price_per_sqm_selected_cities_1996-2005.xlsx",
+      "original_name": "23.-average-price-of-floor-area-per-square-metre-of-housing-units-transacted-in-real-estate-agencies-by-selected-cities-1000-rials1375-a-1384.xlsx",
+      "sha256": "6fb198d4b7c4ac5def491b867b9ee9e91fcd23e901322930472bee1bd67bd928",
+      "bytes": 10241,
+      "table_title": "Average Price of Floor Area per Square Metre of Housing Units Transacted in Real Estate Agencies, by Selected Cities, 1375-1384 (1996-2005)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/23.-average-price-of-floor-area-per-square-metre-of-housing-units-transacted-in-real-estate-agencies-by-selected-cities-1000-rials1375-a-1384.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/prices-constructors/"
+    },
+    {
+      "name": "avg_monthly_rentals_and_deposits.xlsx",
+      "original_name": "24.-average-monthly-rentals-and-deposits.xlsx",
+      "sha256": "bac8cf61b88d068ad59a1a85be2f5ce24da34231384a81aa23f41533bccb1feb",
+      "bytes": 17167,
+      "table_title": "Average Monthly Rentals and Deposits",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/24.-average-monthly-rentals-and-deposits.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/prices-constructors/"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "mostly 1966-2006 (varies by table)",
+  "frequency": "annual (some quarterly/monthly)",
+  "topics": [
+    "housing",
+    "urban development",
+    "construction permits",
+    "land prices",
+    "rent"
+  ],
+  "units": "described within each spreadsheet/PDF (rial, physical quantities, index points, etc.)",
+  "license_terms": "Iran Data Portal public academic mirror; underlying data originally from SCI/CBI/ministries, no explicit license stated on site",
+  "notes": "irandataportal.syr.edu was directly reachable (HTTP 200, no bot-challenge or geo-block) — no Wayback fallback needed for this source. Original tables are mirrors of Statistical Centre of Iran (SCI) Statistical Yearbook data and CBI series, re-hosted in English-labeled Excel/PDF format by Syracuse University's Moynihan Institute. Selected the most data-rich, economically relevant tables from this topic page (and its listed sub-topic pages) to avoid duplicating files already downloaded by other sessions into iran-plan-budget-org (five-year development plans, annual budget laws) and iran-census (census data) folders in this same repo.",
+  "failures": []
+}

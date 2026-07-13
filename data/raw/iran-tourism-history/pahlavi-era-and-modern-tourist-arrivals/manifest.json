@@ -1,0 +1,23 @@
+{
+  "dataset_id": "pahlavi-era-and-modern-tourist-arrivals",
+  "title": "Iran tourism history — Pahlavi-era 'golden age' tourist arrivals (1962, 1977) and post-2020 recovery anchors, filling the gap around the existing WDI tourism series",
+  "source_org": "Compiled from Wikipedia 'Tourism in Iran', Ajam Media Collective 'Destination Persia: The Development of Iran's Tourism Strategy in the 1960s' (academic-history blog citing Journal of Tourism History-adjacent research incl. Luke & Leeson)",
+  "source_url": "https://en.wikipedia.org/wiki/Tourism_in_Iran ; https://ajammc.com/2023/07/14/destination-persia-tourism-1960s/",
+  "download_url": "https://en.wikipedia.org/wiki/Tourism_in_Iran ; https://ajammc.com/2023/07/14/destination-persia-tourism-1960s/",
+  "retrieved_at_utc": "2026-07-13T00:25:00Z",
+  "retrieved_by": "agent:iran-niche-institutional-hunt",
+  "files": [
+    {"name": "tourism_statistics.csv", "original_name": null, "sha256": "7ca2bfbdb7c18f58e6d731636466579cf098c7498944bc76570996edae86c735", "bytes": 3477}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1962-2024",
+  "frequency": "irregular snapshots",
+  "topics": ["tourism", "pahlavi-era", "hotels", "unesco", "travel"],
+  "units": "described per-row in CSV (persons, US dollars, count, percent)",
+  "license_terms": "Wikipedia content CC BY-SA; Ajam Media Collective content used for factual citation only",
+  "notes": "IMPORTANT SCOPE NOTE, checked before starting this hunt: data/processed/macro_wdi.csv already has World Bank WDI tourism indicators (ST.INT.ARVL arrivals, ST.INT.DPRT departures, ST.INT.RCPT.CD receipts, ST.INT.XPND.MP.ZS expenditure) for Iran CONTINUOUSLY from 1995 through 2020 -- so this new dataset deliberately does NOT re-hunt that well-covered window. Instead it targets the two genuine gaps flanking it: (1) the Pahlavi-era 'golden age of tourism' (1962: under 80,000 arrivals -> 1977: nearly 700,000 arrivals, an 8.75x increase, plus the 1968 UNESCO/UNDP $4M tourism-development aid package and a 1971 Esfahan hotel-inventory snapshot), which is a well-documented but under-cited phenomenon in Journal of Tourism History academic literature (two relevant articles found: 'Iran's golden age of tourism: the development of the travel industry in the late Pahlavi period (c. 1960-1979)' and a 2025 follow-up on tourism policy across the full Pahlavi era 1925-1979 -- both paywalled at tandfonline.com and academia.edu, so this dataset relies on the free secondary synthesis of their findings rather than the primary academic PDFs themselves, a real access limitation flagged here); and (2) the post-2020 recovery (2023: tourism ~3% of GDP; 2024: over 7 million tourists), extending the series past WDI's 2020 cutoff. A few overlapping-year rows (2004, 2013) are INCLUDED despite being within the WDI-covered window specifically because they provide a useful reader-facing cross-check (2004 Wikipedia figure of 1,659,000 arrivals matches WDI's 1,659,000 exactly, confirming both trace to the same underlying UNWTO source) and because they carry a companion metric (hotel counts, revenue in round-number form) not present in the raw WDI extract.",
+  "failures": [
+    {"url": "https://www.tandfonline.com/doi/abs/10.1080/1755182X.2022.2127928 (Journal of Tourism History, 'Iran's golden age of tourism')", "method": "not directly fetched", "result": "paywalled academic journal, abstract-only access; relied on secondary-source synthesis of its findings instead"},
+    {"url": "https://www.academia.edu/96498413/ (PDF mirror of the same article)", "method": "not attempted", "result": "academia.edu PDF mirrors typically require account login/paywall; not pursued given the secondary-source synthesis already provided adequate figures"}
+  ]
+}

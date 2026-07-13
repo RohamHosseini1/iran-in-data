@@ -1,0 +1,24 @@
+{
+  "dataset_id": "iran-opec-quota-policy-history-1960-2025",
+  "title": "Iran's OPEC Membership & Quota-Policy History, 1960-2025 (curated narrative timeline)",
+  "source_org": "Multiple (Wikipedia, MERIP, Oil & Gas Journal, EIA, Stimson Center, AGSI, RUSI, GIS Reports, PressTV) -- citation-preserving compilation, not a single bulk dataset",
+  "source_url": "https://en.wikipedia.org/wiki/OPEC ; https://www.merip.org/1992/05/opec-since-the-gulf-war/ ; https://www.ogj.com/drilling-production/production-operations/article/17239967/opecs-challenge-rethinking-its-quota-system ; https://www.eia.gov/international/content/analysis/countries_long/iran/ ; https://www.stimson.org/2025/irans-oil-exports-resilience-amid-sanctions-and-snapback/",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:05:02Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "Narrative/policy-history extraction pattern (same as Encyclopaedia Iranica extractions elsewhere in this project): each row is a dated milestone with a preserved per-row citation, not a downloaded bulk file. Compiled via WebSearch + WebFetch synthesis of multiple secondary/tertiary sources since OPEC's own Annual Statistical Bulletin (already in data/raw/opec-asb/) contains ACTUAL production data but NO historical country-quota-allocation table (confirmed via full-text grep of the downloaded 2025 ASB PDF -- zero 'quota' matches in the entire document body). A granular, continuous year-by-year Iran-specific quota-in-barrels table (e.g. exact 1982, 1990, 2000 allocations) was actively searched for and NOT found in freely accessible sources -- likely exists only in paywalled academic literature (e.g. Mabro, Fattouh) or OPEC's own non-public archives. This dataset instead captures every well-documented, dated POLICY milestone: founding, nationalization, quota-system introduction/suspension/revision, Gulf-crisis adjustments, sanctions-era exemptions.",
+  "files": [
+    {"name": "opec_iran_quota_policy_history.csv", "original_name": null, "sha256": "b0a1de68b3e460bcf2618dd04ee9b3d537ae2a5e0f35c4fca0d1bbc6c1c933d7", "bytes": 9044}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1960-2025, non-continuous (dated milestones, not annual series)",
+  "frequency": "irregular / event-based",
+  "topics": ["oil", "OPEC", "quota", "policy history", "sanctions", "energy institutions"],
+  "units": "described per-row (mostly million barrels/day where a figure exists; many rows are qualitative policy events with no associated figure)",
+  "license_terms": "Compiled from public web sources; each row individually cited, standard fair-use secondary citation",
+  "notes": "Complements (does not duplicate) OWID's continuous 1900-2024 Iran oil PRODUCTION series (data/processed/, already harmonized) and the existing OPEC ASB 2025 raw PDF -- this dataset is specifically about the QUOTA/POLICY layer, which those sources do not cover for Iran. Genuine confirmed gap: no continuous Iran-specific OPEC quota-in-barrels series found for 1982-2015 despite active searching (OPEC ASB has zero 'quota' text matches; Wikipedia's OPEC and oil-market-chronology pages describe overall/OPEC-wide ceilings and named country shares only sporadically, never a full Iran time series). A GATT-era claim ('Iran held GATT observer status since 1948') surfaced in one AI-search-summary but could not be corroborated by a primary WTO/GATT document in this session -- DELIBERATELY EXCLUDED from this CSV pending independent verification, consistent with the no-fabrication rule.",
+  "failures": [
+    {"attempted": "Granular annual Iran-specific OPEC quota-in-barrels table, 1982-2015", "outcome": "not found in freely accessible sources; OPEC ASB PDF confirmed (via full-text grep) to contain zero quota-table content", "note": "genuine gap, not a fabrication risk -- flagged, not filled"}
+  ],
+  "bookkeeping_fix": "Post-write validation (python csv module, exact same check used in the project's Round 40 bookkeeping fix) found unquoted commas inside multi-value cells (e.g. the 2024 row's figure_value combining two distinct sourced figures) breaking CSV column alignment on 1 row. Regenerated the file via csv.writer with QUOTE_MINIMAL -- same data, correct quoting. sha256/bytes above reflect the corrected file."
+}

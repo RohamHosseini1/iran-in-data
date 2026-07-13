@@ -1,0 +1,15 @@
+series,1963_4,1964_5,1965_6,1966_7,1967_8,1968_9,1969_70,cagr_pct_7yr,notes,unit
+oil_exports,464,747,642,725,857,959,1099,15,,million US dollars
+non_oil_exports,138,153,181,158,182,217,245,12,,million US dollars
+services,84,78,115,119,143,175,210,16,,million US dollars
+total_exports,686,978,938,1002,1182,1351,1554,15,,million US dollars
+imports_of_goods,481,684,861,936,1205,1449,1676,23,,million US dollars
+imports_of_services,125,147,173,175,209,312,367,20,,million US dollars
+total_imports,606,831,1034,1111,1414,1761,2043,22,,million US dollars
+net_current_account,80,147,-96,-109,-232,-410,-489,,,million US dollars
+capital_flow_private,5,3,10,18,18,30,23,,"private and public capital flow rows are bracketed together in the source under one combined growth-rate figure of 80% (see capital_flow_public row)",million US dollars
+capital_flow_public,19,32,80,130,265,475,776,80,"80% growth rate in source covers the combined private+public capital flow bracket, not this row alone",million US dollars
+debt_repayment,-52,-67,-54,-42,-57,-107,-162,18,,million US dollars
+net_capital_account,-28,-32,36,106,226,398,637,,"source shows seven-year total = 1339 (footnote 1/) in the growth-rate column rather than a percentage",million US dollars
+monetary_movements,-25,-101,55,16,-5,90,-84,,"source shows seven-year total = -54 (footnote 1/) in the growth-rate column rather than a percentage",million US dollars
+errors_and_omissions,-26,,5,-13,11,-78,-64,,"1964/5 value illegible in source scan: digits obscured by an ink smudge/crease, visually appears as '1' + blot + '7'. The BOP identity (net current account + net capital account + monetary movements + errors and omissions = 0) holds exactly for all other 6 years and implies this value should be -14, but the printed digits could not be confidently read, so left blank per no-fabrication policy",million US dollars

@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1974-table15.2-power-generating-capacity",
+  "title": "Capacity of Power Generating Plants Installed within the Boundaries of Regional Companies and Dams by Type of Prime Mover, Iran 1970 and 1971 (kW)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Ministry of Water and Power (Iran)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf, Table 15.2, page 137 (PDF page 145). Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1970 and 1971 (two-point comparison)",
+  "frequency": "annual snapshot",
+  "topics": [
+    "energy",
+    "electric-power",
+    "generating-capacity",
+    "infrastructure",
+    "pahlavi-era"
+  ],
+  "units": "kilowatts (kW) installed capacity",
+  "notes": "Regional-company and named-dam breakdown (incl. the Mohammad Reza Shah Pahlavi Dam, Amir Kabir Dam, Farahnaz-e-Pahlavi Dam, Shahbanu Farah Dam, Shah Abbas-e-Kabir Dam, and the newly-installed 1971 Aras Dam) by prime-mover type (diesel/steam/gas/water). Companion to wb1974-electric-power-generation-by-use-1968-1972 (actual generation/consumption by use, not installed capacity).",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "59a8eda36e2bd7e1c8805dbb560383e63b72d82a376e47e39b8bd8d37a5cd740",
+      "bytes": 1911
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

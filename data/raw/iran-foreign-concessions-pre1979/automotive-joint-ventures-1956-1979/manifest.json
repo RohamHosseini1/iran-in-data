@@ -1,0 +1,20 @@
+{
+  "dataset_id": "iran-automotive-joint-ventures-1956-1979",
+  "title": "Pre-1979 Iran Automotive Sector Foreign Joint Ventures -- Compiled",
+  "source_org": "Compiled by this project from multiple secondary/academic sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+  "source_url": "https://www.iranicaonline.org/articles/iran-national-company/ ; https://www.aronline.co.uk/cars/hillman/hunter/paykan/ ; https://en.wikipedia.org/wiki/Paykan ; WebSearch aggregation of Wikipedia/Grokipedia Pars Khodro, Iran Khodro, Iran Khodro Diesel, Automotive industry in Iran",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:18:31Z",
+  "retrieved_by": "claude (hand-compiled from cross-checked secondary sources; Grokipedia used only as a lead/cross-check alongside Wikipedia, never as sole source, per general caution around AI-generated encyclopedia content)",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "c61f3113e82d9970a46b5eda8ed11a8777e39f6943cda4fc5131ac891295f0ac", "bytes": 2860}
+  ],
+  "countries": ["IRN", "GBR", "USA", "DEU"],
+  "time_coverage": "1956-1980 (establishment dates 1956-1972; the GM/Chrysler/Rootes-lineage ventures ended abruptly with 1979-80 nationalization; the separate Mercedes-Benz truck-licensing lineage continued past 1979 into Iran Khodro Diesel)",
+  "frequency": "n/a (structured venture list, not a time series)",
+  "topics": ["fdi", "automotive", "joint-ventures", "pahlavi-era", "paykan", "iran-khodro"],
+  "units": "n/a (qualitative venture descriptions with specific dates/figures embedded per row)",
+  "license_terms": "compiled from multiple sources cited per-row",
+  "notes": "Directly addresses the mission's 'automotive joint ventures' example under non-oil FDI/concessions. Five ventures documented: (1) Jeep Iran Trading Company 1956 (Willys-Overland/Kaiser Jeep, USA) -> Pars Khodro 1980; (2) Iran National's Rootes Group licence 1966 for the Paykan (the single best-documented case -- 6,000 units/yr initial rate, 44% local content by 1979, 98% in later production, 2.2M+ total lifetime output, foreign partner changed from Rootes to Chrysler UK 1967 to Talbot/Peugeot 1978 without loss of Iranian management control); (3) Iran National's SEPARATE, simultaneous Mercedes-Benz bus/minibus licence, also from 1966 -- same Iranian firm held two foreign licences at once; (4) Khawar Industrial Group 1966, a DIFFERENT Mercedes-Benz venture specifically for trucks, later becoming Iran Khodro Diesel (1999 merger) -- flagged explicitly as distinct from venture #3 despite the same foreign partner, since sources describe them as separate corporate lineages; (5) General Motors Iran Ltd. 1972 (Opel Commodore under license, badged Chevrolet Royale) -> nationalized and renamed Pars Khodro 1980, apparently absorbing/succeeding the earlier Jeep Iran lineage (exact corporate-succession mechanics between ventures #1 and #5 were not fully disambiguated by the sources checked -- flagged as a minor open question, not resolved by guessing). Genuinely NOT found this round despite searching: exact capital/equity-split figures (% foreign vs Iranian ownership) for any of these ventures -- flagged as a gap for a future pass if FDI-value precision is needed beyond the qualitative venture-history level captured here.",
+  "failures": []
+}

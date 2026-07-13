@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1960-table11-actual-treasury-expenditures",
+  "title": "Actual Treasury Expenditures, Iran, 1958/59 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 11, page 46) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous throughout, single-column data. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:18:30Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "03dbef7d702966ed286fa95f9f4b5ef8800ac99d2802f16658435fee343025bb",
+      "bytes": 763
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1958/59",
+  "frequency": "annual (single year ending March 20)",
+  "topics": [
+    "fiscal",
+    "government-expenditure",
+    "treasury",
+    "pahlavi-era"
+  ],
+  "units": "million rials",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 11, page 46, source: Ministry of Finance, Tehran. Per footnote 1/: figures do not include expenditures from Special Revenues (budgeted at Rls. 1,198 million), so this table is not directly comparable with Table 10 (page 45) or the revenue table on page 9. Note the printed Total here (25,262.0) differs by 1.0 from the 'Actual expenditure' figure for 1958/59 shown in Table 10 (25,261) — both are transcribed exactly as printed in their respective source tables; this is a minor rounding/reconciliation discrepancy in the original 1960 document, not a transcription error on our part. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

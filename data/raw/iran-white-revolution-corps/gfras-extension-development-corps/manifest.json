@@ -1,0 +1,21 @@
+{
+  "dataset_id": "gfras-extension-development-corps",
+  "title": "Extension and Development Corps (EDC) history — GFRAS world-wide extension study, Iran country page",
+  "source_org": "Global Forum for Rural Advisory Services (GFRAS)",
+  "source_url": "https://www.g-fras.org/en/about-us/vision-mission/92-world-wide-extension-study/asia/southern-asia/292-iran.html",
+  "download_url": "https://www.g-fras.org/en/about-us/vision-mission/92-world-wide-extension-study/asia/southern-asia/292-iran.html",
+  "retrieved_at_utc": "2026-07-12T23:40:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "gfras_iran_extension_history.txt", "original_name": null, "sha256": "cd22cd554156160da43ed3bf52b683fcb2ed6de95c12235b85069812014bd641", "bytes": 2508},
+    {"name": "extension_corps_stats.csv", "original_name": null, "sha256": "6c3090be75f8e83bcfc66ace0cc07250a7fc7e270022dd6ec8d249d1104fde4e", "bytes": 978}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1964-1979 (plus one modern-era 2003 comparison figure, out of core scope but retained for context)",
+  "frequency": "one-off reference page",
+  "topics": ["extension-corps", "development-corps", "white-revolution", "agriculture", "rural-development", "pahlavi-era", "sepah-e-tarvij-va-abadani"],
+  "units": "described per-row in CSV",
+  "license_terms": "GFRAS public reference content",
+  "notes": "This is the only source found in this pass with concrete, dated quantitative detail specifically for the third White Revolution corps (Extension/Development/Reconstruction Corps, Sepah-e Tarvij va Abadani), which is generally the least-documented of the three corps in English-language sources. Confirms 1964 founding, 18-month service structure, and a 1965 fertilizer-adoption figure (90,000 tons) attributed to EDC intervention. Underlying primary source is 1967 CENTO Conference on Agricultural Extension papers (Jaffari, P. and Rassi, J.) which were not independently located/downloaded in this pass -- CENTO proceedings are not readily available online; flagged as a follow-up opportunity. The 2003 staff-count figures in the same source are modern-era and out of the pre-1990 gap this hunt targets, but kept for context since they were on the same page and provide a useful before/after anchor for extension-service scale.",
+  "failures": []
+}

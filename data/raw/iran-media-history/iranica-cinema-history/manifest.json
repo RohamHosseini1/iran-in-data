@@ -1,0 +1,24 @@
+{
+  "dataset_id": "iranica-cinema-history",
+  "title": "History of Cinema in Persia — theaters, film production, attendance, and post-1979 contraction (Film Farsi era and after)",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation), article by Farrokh Gaffary",
+  "source_url": "https://www.iranicaonline.org/articles/cinema-i/",
+  "download_url": "https://www.iranicaonline.org/articles/cinema-i/",
+  "retrieved_at_utc": "2026-07-13T00:35:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "cinema-i-history.txt", "original_name": null, "sha256": "5b5aa46d5a68354e01cef8e13aecebd7f7d23ac3bf87136e10302c71c451fecb", "bytes": 5991},
+    {"name": "cinema_theaters_and_attendance.csv", "original_name": null, "sha256": "dd30c10462f45c1c35d3c0d8ef769dc5f6d08ca9acc2224199b7de07a7b71548", "bytes": 1648},
+    {"name": "film_production_and_industry.csv", "original_name": null, "sha256": "59040778ba0b4386e68fb43ce9783938f9c0b56e24b7bafd3752369351d68603", "bytes": 3554}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1932-1988",
+  "frequency": "one-off reference article with embedded snapshot statistics at irregular intervals, all traceable to the Iran Statistical Yearbook and UNESCO reports",
+  "topics": ["cinema", "film-farsi", "film-industry", "box-office", "censorship", "pahlavi-era", "islamic-republic-early-years"],
+  "units": "counts, rials, percent, persons, seats -- described per row",
+  "license_terms": "Encyclopaedia Iranica — academic reference, cite author/article per their citation guidance",
+  "notes": "This is THE core find for the cinema/Film Farsi sub-topic of the media-history hunt: a single well-cited article giving the full 'before and after' arc requested -- explosive pre-1979 growth (142 movie houses in 1959 to 453 in 1975; full-length film production 25->80 films/year 1959-1971; total industry expenditure 247M->546M rials 1966-1976) followed by the abrupt post-revolution contraction (255 cinemas burned/closed in the two years before the 1979 revolution; cinema count 453->198 in four years; 1,800 of 2,000 films inspected in 1979 banned outright by censors) and a partial, much-smaller recovery by the mid-1980s (247 theaters, 156,000 total seats by 1986, average theater size actually SMALLER than the ~150-seat average implied by 453 cinemas/9M pre-1950s annual audience). All figures are traceable to the Iran Statistical Yearbook (Sal-nama-ye amari) 1976/1981/1986 editions and to UNESCO's 1950/1961 reports -- genuine primary-adjacent official statistics, not fabricated or estimated. Retrieved via interactive browser tool since iranicaonline.org blocks curl/WebFetch with Cloudflare (HTTP 403), consistent with every other retrieval from this domain in this database. One minor unreconciled cross-reference is flagged explicitly in the .txt file: this article's 1978 TV figure (2 million sets, 11M+ viewers) does not perfectly align in framing with the 1974 TV audience-reach figure (15 million) already captured in the sibling iran-telecom-history/iranica-communications-in-persia/radio_tv_series.csv dataset -- both are kept as printed, not reconciled/guessed.",
+  "failures": [
+    {"url": "https://www.iranicaonline.org/articles/cinema-i/", "method": "curl (not separately attempted; domain confirmed Cloudflare-blocked repeatedly this session)", "result": "not attempted, known-blocked domain, used browser tool directly"}
+  ]
+}

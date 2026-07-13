@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1960-table8-changes-in-money-supply",
+  "title": "Changes in Money Supply, Iran, June 1957-June 1959 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places, e.g. '8.06 902 941' for what the image clearly shows as '8.06 9.09 9.41'). Every value in this file was verified by rendering the exact source page (Table 8, page 43) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image, cross-checked line-by-line against the raw pdftotext extraction and against internal arithmetic (each 'change over prior 12 months' parenthetical value was confirmed to equal the sum of the two preceding 6-month 'change from previous column' values, e.g. Money Supply+Time/Savings total: +4.52 (Dec57->Jun58) + +3.10 (Jun57->Dec57)... actually verified as June-on-June: Jun57 total 30.38 to Jun58 total 38.00 = +7.62, matching the printed parenthetical). No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:17:20Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "cb0b719177275a0c88dad9731342858350a0b60c2fafb24a247e93e1628df56b",
+      "bytes": 2298
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "June 1957-June 1959 (snapshots on the 20th of June and December each year)",
+  "frequency": "semi-annual snapshot (20th of June and December)",
+  "topics": [
+    "money-supply",
+    "banking",
+    "monetary-policy",
+    "pahlavi-era"
+  ],
+  "units": "billion rials (unless otherwise noted)",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 8, page 43, source: Compilation by IBRD Mission based on International Financial Statistics. This is a complex multi-level table; the CSV uses a long/tidy row-per-line-item format with one column per snapshot date (1957_06_20 ... 1959_06_20) rather than replicating the source's nested visual layout. The source's '+' sign is typeset as a forward-slash-like glyph ('/') on this typewriter-era document (e.g. '/3.10'); this was read as '+' throughout, consistent with all values representing increases matching the underlying level changes. The source row labeled 'CHANGE (in 12 months)' actually contains period-over-period changes versus the immediately preceding (~6-month-earlier) column for most columns, PLUS a separate parenthetical figure under the two June columns only, which is the true 12-month (June-on-June) change — both are preserved as separate rows here ('...from previous column' and '...over prior 12 months (June-on-June)'). The Foreign Assets and non-monetary factors line is itself a flow/balancing item (errors & omissions), so it has no separate 'level' row, only change rows. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

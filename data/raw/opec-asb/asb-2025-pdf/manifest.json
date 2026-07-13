@@ -1,0 +1,35 @@
+{
+  "dataset_id": "opec-asb-2025",
+  "title": "OPEC Annual Statistical Bulletin 2025 (data through end-2024)",
+  "source_org": "OPEC Secretariat",
+  "source_url": "https://www.opec.org/annual-statistical-bulletin.html",
+  "download_url": "https://www.opec.org/assets/assetdb/asb-2025.pdf",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "asb-2025.pdf",
+      "original_name": null,
+      "sha256": "6cd5cbb4789a0ae5c7e1b623b93852ebefadc436be9251ab1f32efcab6efd104",
+      "bytes": 5502758
+    }
+  ],
+  "countries": [
+    "IRN",
+    "SAU",
+    "VEN",
+    "OPEC-ALL"
+  ],
+  "time_coverage": "historical to 2024",
+  "frequency": "annual",
+  "topics": [
+    "oil",
+    "energy",
+    "reserves",
+    "exports"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "OPEC public publication",
+  "notes": "asb.opec.org/data/ASB_Data.php Excel tables not yet fetched \u2014 follow-up needed."
+}

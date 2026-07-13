@@ -1,0 +1,72 @@
+{
+  "dataset_id": "agriculture-tables",
+  "title": "Iran Data Portal — Agriculture & Rural Development tables (crops, livestock, fertilizers, fisheries)",
+  "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+  "source_url": "https://irandataportal.syr.edu/agriculture-rural-development/",
+  "download_url": "see per-file download_url",
+  "retrieved_at_utc": "2026-07-12T18:24:29Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "wheat_production.xlsx",
+      "original_name": "Wheat-Production.xlsx",
+      "sha256": "406ce0838444e869934f898695d4dc7caae0fec8d8cb1bbaff5bfb6e109b2d9a",
+      "bytes": 44249,
+      "table_title": "Wheat Production",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/Wheat-Production.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/prices-labor-investment-production/"
+    },
+    {
+      "name": "production_of_meat_and_milk.xlsx",
+      "original_name": "25-production-meat-milk.xlsx",
+      "sha256": "b5d237f0b8ea18fa060849801caa1b11cc4f23c2864770f7b611037ed574af7a",
+      "bytes": 9607,
+      "table_title": "Production of Meat and Milk",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/25-production-meat-milk.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/prices-labor-investment-production/"
+    },
+    {
+      "name": "holdings_and_livestock_by_province.xlsx",
+      "original_name": "36-livestock-ostan.xlsx",
+      "sha256": "52d035734ae7e526780041928c8e972a61e5e0c9a75381f8feb677e0be823921",
+      "bytes": 15478,
+      "table_title": "Holdings and Livestock, by Province (Ostan)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/36-livestock-ostan.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/machinery-livestock-fertilizers/"
+    },
+    {
+      "name": "fertilizers.xlsx",
+      "original_name": "45-fertilizers.xlsx",
+      "sha256": "e5a21259eb3c7c23598ca005a6a2a063f3cfb67e2edcc8134a0828ee4825833b",
+      "bytes": 10779,
+      "table_title": "Fertilizers",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/45-fertilizers.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/machinery-livestock-fertilizers/"
+    },
+    {
+      "name": "fisheries_catches_and_production.xlsx",
+      "original_name": "catches-production-various.xlsx",
+      "sha256": "fceaf917f02a6a0f1384c15abf88519fde94b882c5a8fd2600f0409be3aa1cb2",
+      "bytes": 11427,
+      "table_title": "Fisheries Catches & Production",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/catches-production-various.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/aquatics/"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "varies by table",
+  "frequency": "annual (some quarterly/monthly)",
+  "topics": [
+    "agriculture",
+    "livestock",
+    "fertilizers",
+    "fisheries",
+    "wheat"
+  ],
+  "units": "described within each spreadsheet/PDF (rial, physical quantities, index points, etc.)",
+  "license_terms": "Iran Data Portal public academic mirror; underlying data originally from SCI/CBI/ministries, no explicit license stated on site",
+  "notes": "irandataportal.syr.edu was directly reachable (HTTP 200, no bot-challenge or geo-block) — no Wayback fallback needed for this source. Original tables are mirrors of Statistical Centre of Iran (SCI) Statistical Yearbook data and CBI series, re-hosted in English-labeled Excel/PDF format by Syracuse University's Moynihan Institute. Selected the most data-rich, economically relevant tables from this topic page (and its listed sub-topic pages) to avoid duplicating files already downloaded by other sessions into iran-plan-budget-org (five-year development plans, annual budget laws) and iran-census (census data) folders in this same repo.",
+  "failures": []
+}

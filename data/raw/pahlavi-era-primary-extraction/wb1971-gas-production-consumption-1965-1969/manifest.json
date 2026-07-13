@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1971-table8.9-production-and-consumption-of-gas",
+  "title": "Production and Consumption of Natural Gas, Iran 1965-1969 (million cubic meters)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1971_cep_vol7_statistical_annex.pdf, Table 8.9, page 85 of the PDF. Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1965-1969",
+  "frequency": "annual",
+  "topics": [
+    "energy-consumption",
+    "natural-gas",
+    "flaring",
+    "pahlavi-era"
+  ],
+  "units": "million cubic meters",
+  "notes": "Splits gas production/consumption between the Iranian Oil Operating Companies (Consortium) and the National Iranian Oil Company's own Naft-e-Shah field. Dominated by flaring (81.6% of Consortium production still flared in 1969) rather than consumption -- domestic gas consumption (household/industrial) was still a small fraction of production at this stage, well before the National Iranian Gas Company's 1970s trunk-pipeline buildout. Useful baseline for later comparison against data/raw/iran-data-portal/energy-environment-tables/consumption_of_natural_gas_1991-2006.xlsx (which only starts in 1991) -- a ~20-year gap between this table and that one remains unfilled.",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "571be7cfc0fd2e2946e00e8058a5033b20eae213a844d5c296680c3d4b54cd86",
+      "bytes": 2317
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

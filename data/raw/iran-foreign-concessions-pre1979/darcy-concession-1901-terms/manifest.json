@@ -1,0 +1,20 @@
+{
+  "dataset_id": "iran-darcy-concession-1901-terms",
+  "title": "D'Arcy Concession (1901) and its 1933 Renegotiation -- Compiled Terms",
+  "source_org": "Compiled by this project from multiple secondary/academic sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+  "source_url": "https://en.wikipedia.org/wiki/D'Arcy_Concession ; https://en.wikipedia.org/wiki/Anglo-Persian_Oil_Company ; WebSearch aggregation of Encyclopaedia Iranica 'OIL AGREEMENTS IN IRAN', Encyclopedia.com, Foreign Affairs (1933)",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:18:31Z",
+  "retrieved_by": "claude (hand-compiled from cross-checked secondary sources)",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "cd2b485607289b71f0483ed96f7c1897a1febd3e197231bd4fc18f17e1ceb233", "bytes": 2776}
+  ],
+  "countries": ["IRN", "GBR"],
+  "time_coverage": "1901-1993 (concession terms and their 1933 renegotiation; actual nationalization in 1951 ends the arrangement early, already covered by this project's existing oil-nationalization sources)",
+  "frequency": "n/a (structured term sheet, not a time series)",
+  "topics": ["fdi", "concessions", "oil", "anglo-persian-oil-company", "pahlavi-era", "qajar-era"],
+  "units": "see data.csv unit column per row",
+  "license_terms": "compiled from multiple sources cited per-row",
+  "notes": "This is technically an OIL concession (not the mission's primary 'non-oil FDI' focus) but was explicitly requested by name in the mission brief ('the D'Arcy/APOC concession terms specifically if not already covered'). Checked first: the project's existing Iranica/telecom-history mentions of D'Arcy were narrative-only, no structured terms dataset existed. This fills that gap with the actual concession numbers: 1901 terms (60-year duration, 1,242,000 sq km territory, GBP 20,000 cash + GBP 20,000 shares upfront, 16% of net profits royalty, 2-year company-formation deadline) plus the 1933 renegotiation that replaced it (ratified 28 May 1933, extended to 1993, fixed 4-shillings-per-ton royalty replacing the disputed 16%-of-profits formula, 20% of distributed profits above a minimum, GBP 750,000 guaranteed minimum annual payment, concession area cut from 480,000 sq mi to 100,000 sq mi by 1938). Both sets of terms cross-checked across 2+ independent sources (Wikipedia D'Arcy Concession page + Wikipedia Anglo-Persian Oil Company page + WebSearch aggregation citing Encyclopaedia Iranica/Encyclopedia.com/Foreign Affairs 1933) and found consistent -- no contradictions requiring a range/flag.",
+  "failures": []
+}

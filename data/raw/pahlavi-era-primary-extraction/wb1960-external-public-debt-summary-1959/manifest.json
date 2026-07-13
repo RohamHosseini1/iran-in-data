@@ -1,0 +1,41 @@
+{
+  "dataset_id": "wb1960-table20-external-public-debt-summary",
+  "title": "Summary of External Public Debt Outstanding and Undisbursed as of September 22, 1959, with Service Schedule to 1973/74 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 20, page 57) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous throughout. As a cross-check, the seven debt-category amounts (130.3+12.0+223.0+49.0+9.7+56.2+28.4) were summed and confirmed to equal the printed Total Debt of 508.6. The Service Schedule block's 'Total Service' column was spot-checked against Plan Org.+Other for several years and found to match within +/-0.1 (attributable to source rounding of the underlying unrounded figures, not a transcription error). No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:27:26Z",
+  "files": [
+    {
+      "name": "debt_summary.csv",
+      "original_name": null,
+      "sha256": "91533eaa6b5a3afd90e32d686ff2ba77c6a19dbe44fb38bb323b97c8d73967b2",
+      "bytes": 844
+    },
+    {
+      "name": "service_schedule.csv",
+      "original_name": null,
+      "sha256": "647266202074eac7773e332d2453b1cb5f733ae417e05a306d8d8e9f328447aa",
+      "bytes": 856
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "Debt stock as of September 22, 1959 (with additions to November 30, 1959); service schedule projected 1960/1961-1973/1974",
+  "frequency": "point-in-time stock (debt_summary.csv) plus annual projected debt service schedule (service_schedule.csv)",
+  "topics": [
+    "external-debt",
+    "public-debt",
+    "debt-service",
+    "IBRD",
+    "fiscal",
+    "pahlavi-era"
+  ],
+  "units": "million US dollars or $ equivalent",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 20, page 57, source: Government of Iran, Ministry of Finance. This table has two structurally distinct parts, kept as two separate CSV files in this dataset folder rather than forced into one: (A) debt_summary.csv, a point-in-time stock of external public debt by creditor/category as of Sept 22 1959 (Total 508.6, of which $155.8 million was undisbursed per footnote 1/); (B) service_schedule.csv, a projected annual debt-service schedule from 1960/1961 through 1973/1974, split between Plan Organization and Other borrowers, per footnote 2/ EXCLUDING service on a $2.4 million unallocated portion of an Eximbank loan and a $28.6 million U.S. surplus property credit whose terms were still undetermined as of the report date. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

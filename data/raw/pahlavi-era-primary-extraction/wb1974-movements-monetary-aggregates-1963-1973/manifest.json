@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1974-table7.1-movements-monetary-aggregates",
+  "title": "Movements in Monetary Aggregates, Iran, 1963-1973 (World Bank, 1974)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Source document is data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf (Iran - Economic Development, Vol. 4 of 4: Statistical appendix, dated October 14 1974). Table 7.1 is on PDF page 60 (printed page number '52' visible in the right margin, rotated). Rendered at 300 DPI via `pdftoppm -r 300 -f 60 -l 60 -png` and read directly from the rendered PNG using the Read tool; print quality was excellent (crisp, high-confidence read on first pass, comparable to Table 6.1 on page 54 of the same document). Cross-checked via THREE independent internal identities, all of which closed EXACTLY for every one of the 11 year-columns (1963-1973): (a) Money and Quasi Money = Money + Quasi Money (e.g. 1973: 41.6+61.4=103.0, matching); (b) Money and Quasi Money = Foreign Assets (net) + Domestic Assets (net) + Other Items (net) (e.g. 1966: -4.4+27.4-9.8=13.2, matching; 1973: 33.8+97.6-28.4=103.0, matching exactly); (c) Domestic Assets (net) = Claims on private sector + Claims on public sector (net), and Claims on public sector (net) = National Government (net) + Official Entities (net) (e.g. 1972: 47.4+(-13.3)=34.1 matches Domestic Assets; -5.6+(-7.7)=-13.3 matches Claims on public sector); and (d) Other Items (net) = Import Deposits + Capital Accounts + Other Items (e.g. 1969: 2.2+(-2.4)+(-3.5)=-3.7, matching; 1971: 0.3+(-6.0)+(-1.7)=-7.4, matching). This exhaustive four-way cross-check resolved two sign ambiguities in the 'Import Deposits' sub-row where the source's minus-sign glyph was faint/absent for 1969 and 1971 (values '2.2' and '0.3' were confirmed POSITIVE, not negative, because only the positive reading makes the Other-Items-net summation close exactly for those two columns). No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-13T00:30:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "e51daff42b569d77836448c130553091f44778c8f985fbaf8f708f0c51252b2c",
+      "bytes": 1261
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1963-1973 (changes during fiscal year ended March 20)",
+  "frequency": "annual (fiscal year, year-over-year change)",
+  "topics": [
+    "money-supply",
+    "banking",
+    "monetary-policy",
+    "credit",
+    "oil-boom",
+    "pahlavi-era"
+  ],
+  "units": "billion rials, year-over-year change (flow, not level)",
+  "license_terms": "World Bank Archives \u2014 public disclosure authorized document",
+  "notes": "Source: Table 7.1, PDF page 60 of the Statistical Appendix, source line 'Table 7.2' (i.e. this table is itself derived from the Consolidated Balance Sheet of the Banking System, Table 7.2, PDF page 61, not yet extracted). This is a later (1974), extended vintage of the same type of series as the already-extracted wb1971-changes-money-quasi-money-1965-1971 dataset (source: a different, 1971, World Bank report) -- both are 'changes in monetary aggregates' flow tables sourced from Bank Markazi Iran, but this one reaches three years further, into 1972 and 1973, capturing the dramatic monetary expansion driven by the oil-price shock: Money and Quasi Money grew by 30.0 billion rials in 1971, then 60.6 billion in 1972, then 103.0 billion in 1973 -- more than a 3x acceleration in two years, with Foreign Assets (net) swinging from -20.9 (a large outflow/decline) in 1971 to +36.8 and +33.8 (large inflows) in 1972-1973 as oil export earnings surged. Companion table Table 6.1 'Summary of Central Government Operations' (same document, PDF page 54, already extracted as dataset wb1974-summary-central-govt-operations-1962-1973) shows the matching fiscal-side story (oil revenue nearly tripling 1970-1973). Part of a systematic effort to extract Pahlavi-era budget/money-supply/banking data from primary-source World Bank PDFs in data/raw/world-bank-archives-iran/historical-documents/, following the same visual-verification methodology as the wb1960-*, wb1971-*, and wb1974-summary-central-govt-operations-1962-1973 datasets in this same directory.",
+  "failures": []
+}

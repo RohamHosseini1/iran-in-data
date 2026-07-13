@@ -1,0 +1,26 @@
+{
+  "dataset_id": "iranica-communications-in-persia",
+  "title": "COMMUNICATIONS in Persia (post, telegraph, telephone, press, radio, television) — Encyclopaedia Iranica",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation), article by Annabelle Sreberny-Mohammadi and Ali Mohammadi",
+  "source_url": "https://www.iranicaonline.org/articles/communications-in-persia/",
+  "download_url": "https://www.iranicaonline.org/articles/communications-in-persia/",
+  "retrieved_at_utc": "2026-07-13T00:05:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "communications-in-persia.txt", "original_name": null, "sha256": "619d8bd8f3dc4fe4944d0543a69e26d625c40c7dd600ac9359bfd3d76a80d348", "bytes": 11186},
+    {"name": "telegraph_offices.csv", "original_name": null, "sha256": "37810d1d4a3f6d8eef04797a7650e7dbd0a1d0788ca340f2e2fdfae7df1a6a50", "bytes": 1480},
+    {"name": "telephone_series.csv", "original_name": null, "sha256": "2251d82bdaf3364f8edf3c40ba9de97b88c4c121cbb14d6e8bc5339529518d5c", "bytes": 2479},
+    {"name": "radio_tv_series.csv", "original_name": null, "sha256": "d08329c869528d5b479d5e3365f3098e5c3da81eb3c108c7c73450496609ce16", "bytes": 2827},
+    {"name": "postal_service_series.csv", "original_name": null, "sha256": "0d3114cf3f16d3d2365d8da52a6193adc409f5a9ccbfdf315251b801bc655be1", "bytes": 2325}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1858-1990 (telegraph from 1858; telephone from 1914; radio from 1924; TV from 1958; series data points concentrated at 1913/1914, 1953, 1965, 1975/76, 1979, 1988/89)",
+  "frequency": "one-off reference article with embedded snapshot statistics at irregular multi-year intervals, all traceable to Iran Statistical Yearbook (Sal-nama-ye amari-e keshvar) editions and UNESCO reports",
+  "topics": ["telegraph", "telephone", "radio", "television", "postal-service", "pahlavi-era", "islamic-republic-early-years", "infrastructure"],
+  "units": "described per-file/per-row; counts, km, percent, persons",
+  "license_terms": "Encyclopaedia Iranica — academic reference, cite author/article per their citation guidance",
+  "notes": "This single article is the richest source found in this entire hunt: it directly cites the Iran Statistical Yearbook (Sal-nama-ye amari-e keshvar) for 1953, 1965/66, 1976 (Imperial calendar year 2535), and 1988/89 editions, giving genuine PRE-1990 official Iranian government statistics for telegraph offices, telephone offices/subscribers, radio-set ownership, TV audience reach, and postal volumes -- exactly the WDI gap this hunt targeted (WDI's IT.MLT.MAIN 'Fixed telephone subscriptions' only starts at 1960 with a flat 116,417 figure repeated 1960-1962, and has NO telegraph, radio, or TV ownership series at all, pre- or post-1990). Retrieved via interactive browser tool (get_page_text) since iranicaonline.org blocks curl/WebFetch with a Cloudflare challenge (HTTP 403), consistent with every other iranicaonline.org retrieval in this database. Four clean CSVs were built from the article's prose-embedded numbers: telegraph_offices.csv, telephone_series.csv, radio_tv_series.csv, postal_service_series.csv (postal kept here since Iran's post/telegraph/telephone were administered by a single ministry historically). A fifth extract, press_periodicals_series.csv, was placed in the sibling iran-media-history/iranica-press-newspapers/ folder instead (newspaper/periodical counts + literacy rates) since it belongs to that source slug's topic scope -- see SOURCE_NOTE.txt there, which points back to this manifest rather than duplicating the article text. All numbers transcribed exactly as printed in the source article prose; nothing interpolated, estimated, or fabricated. Where the source's own citation for a figure was ambiguous (e.g. UNESCO 'late 1980s' figure lacking an exact year), the CSV row's source column states this explicitly rather than inventing a precise date.",
+  "failures": [
+    {"url": "https://www.iranicaonline.org/articles/communications-in-persia/", "method": "curl (not separately attempted; domain confirmed Cloudflare-blocked by multiple prior retrievals in this session and in pre-existing data/raw/encyclopaedia-iranica manifests)", "result": "not attempted, known-blocked domain, used browser tool directly"}
+  ]
+}

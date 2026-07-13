@@ -1,0 +1,73 @@
+{
+  "dataset_id": "government-finance-tables",
+  "title": "Iran Data Portal — Government Finance tables (CBI debt, GDP, inflation, budget, inequality)",
+  "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+  "source_url": "https://irandataportal.syr.edu/government-finance/",
+  "download_url": "see per-file download_url",
+  "retrieved_at_utc": "2026-07-12T18:24:29Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "government_debt_to_central_bank_1978-2016_quarterly.xls",
+      "original_name": "Government-Debt-to-the-Central-Bank-1978-to-2016-Quarterly-1-1.xls",
+      "sha256": "db2fa168ea68535d218f8d79d56b89d6282e05f2253c04702c1297dbcf8de727",
+      "bytes": 45056,
+      "table_title": "Government Debt to the Central Bank (1978 to 2016, Quarterly)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/Government-Debt-to-the-Central-Bank-1978-to-2016-Quarterly-1-1.xls",
+      "topic_page": "https://irandataportal.syr.edu/government-finance/"
+    },
+    {
+      "name": "gdp_by_final_expenditure_components_1991-2005.xlsx",
+      "original_name": "5.-gross-domestic-product-by-final-expenditure-components-1370-84-1991-2005-.xlsx",
+      "sha256": "be004c70bb8417906eb09ce23cc71986354c9686d06d2d85050962bd6be9bc91",
+      "bytes": 12852,
+      "table_title": "Gross Domestic Product by Final Expenditure Components, 1370-84 (1991-2005)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/5.-gross-domestic-product-by-final-expenditure-components-1370-84-1991-2005-.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/government-finance/"
+    },
+    {
+      "name": "iran_inflation_rate_1937-2014.xlsx",
+      "original_name": "iran-inflation-f-.xlsx",
+      "sha256": "fb4875ba50f1737959a62533d8e69699818fa0cf08095a04916e7654bea97b5e",
+      "bytes": 42918,
+      "table_title": "Iran Inflation Rate, 1316-1393 (1937-2014)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/iran-inflation-f-.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/economic-financial-affairs/"
+    },
+    {
+      "name": "summary_of_total_country_budget.xlsx",
+      "original_name": "13.summary-of-total-country-budget-bln-rials.xlsx",
+      "sha256": "8e3f995e0501bc992bc01bee7bd0cbcedcc79d0b712cfe90275dcd476001a7b7",
+      "bytes": 10672,
+      "table_title": "Summary of Total Country Budget (bln rials)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/13.summary-of-total-country-budget-bln-rials.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/economic-financial-affairs/"
+    },
+    {
+      "name": "gini_index_1982-2017.xlsx",
+      "original_name": "GINI-1982-to-2017.xlsx",
+      "sha256": "ca906a44ba7d3ffe9722e31fac51d46fcdb1bcfd0285210cb23ecd50f3edfd83",
+      "bytes": 9271,
+      "table_title": "GINI Index, 1361-1396 (1982-2017)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/GINI-1982-to-2017.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/economic-financial-affairs/"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1937-2017 (varies by table)",
+  "frequency": "annual (some quarterly/monthly)",
+  "topics": [
+    "government finance",
+    "national accounts",
+    "inflation",
+    "budget",
+    "inequality",
+    "GINI"
+  ],
+  "units": "described within each spreadsheet/PDF (rial, physical quantities, index points, etc.)",
+  "license_terms": "Iran Data Portal public academic mirror; underlying data originally from SCI/CBI/ministries, no explicit license stated on site",
+  "notes": "irandataportal.syr.edu was directly reachable (HTTP 200, no bot-challenge or geo-block) — no Wayback fallback needed for this source. Original tables are mirrors of Statistical Centre of Iran (SCI) Statistical Yearbook data and CBI series, re-hosted in English-labeled Excel/PDF format by Syracuse University's Moynihan Institute. Selected the most data-rich, economically relevant tables from this topic page (and its listed sub-topic pages) to avoid duplicating files already downloaded by other sessions into iran-plan-budget-org (five-year development plans, annual budget laws) and iran-census (census data) folders in this same repo.",
+  "failures": []
+}

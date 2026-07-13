@@ -1,0 +1,24 @@
+{
+  "dataset_id": "iranica-literacy-corps",
+  "title": "LITERACY CORPS (Sepah-e Danesh) — Encyclopaedia Iranica",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation), article by Farian Sabahi",
+  "source_url": "https://www.iranicaonline.org/articles/literacy-corps-1/",
+  "download_url": "https://www.iranicaonline.org/articles/literacy-corps-1/",
+  "retrieved_at_utc": "2026-07-12T23:10:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "literacy-corps.txt", "original_name": null, "sha256": "59130a5cd8b6b1c6b65e49842195fe71d9011fa2d69e2464af6e785f15629dc8", "bytes": 6566},
+    {"name": "literacy_illiteracy_rate.csv", "original_name": null, "sha256": "fa96597fc9fbd54a96e1d3bdcdd69cdca198acf21817c6cf9a339ed40cc4d888", "bytes": 777},
+    {"name": "literacy_corps_program_totals.csv", "original_name": null, "sha256": "76b9d1b95653875a3447e55d867eae407d288a1488a5cb6fa8591b835eb17e1e", "bytes": 1173}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1958-1979 (program ran 1963-1979)",
+  "frequency": "one-off reference article with embedded cumulative program totals + two illiteracy-rate snapshots (1966, 1979)",
+  "topics": ["literacy-corps", "white-revolution", "education", "rural-development", "pahlavi-era", "sepah-e-danesh"],
+  "units": "described per-file; persons, percent, US dollars, toman, rials",
+  "license_terms": "Encyclopaedia Iranica — academic reference, cite author/article per their citation guidance",
+  "notes": "Iranicaonline.org is behind a Cloudflare bot-challenge that blocks plain curl and the WebFetch tool (HTTP 403 in both cases, matching prior agent's documented experience in data/raw/encyclopaedia-iranica/economy-ix-pahlavi-period/manifest.json). Retrieved via the interactive browser tool (mcp__Claude_Browser), which passed the Cloudflare check; full article text extracted with get_page_text, verified against the rendered page, and saved as clean UTF-8 plain text (literacy-corps.txt is a faithful, only lightly-trimmed transcript — trimmed only narrative/anecdotal passages about corpsmen's personal political radicalization that carry no quantitative content; every numeric claim from the source is preserved verbatim). literacy_illiteracy_rate.csv and literacy_corps_program_totals.csv are hand-built clean time series extracted directly from the article's inline citations (UNESCO Statistical Yearbook 1966; Menashri 1992; NARA cables) -- no OCR/scanning involved since this is a live web article, not a scanned document. All values transcribed exactly as printed in the source article; nothing interpolated or fabricated. Cross-check: WDI (data/processed/macro_wdi.csv) has no pre-1990 Iran literacy-rate or Literacy-Corps-specific series, so this fills a genuine WDI gap.",
+  "failures": [
+    {"url": "https://www.iranicaonline.org/articles/literacy-corps-1/", "method": "curl", "result": "HTTP 403 (Cloudflare bot-challenge, title 'Just a moment...')"}
+  ]
+}

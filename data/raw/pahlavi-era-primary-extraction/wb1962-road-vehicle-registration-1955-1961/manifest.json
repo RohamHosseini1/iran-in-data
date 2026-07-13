@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1962-transporttable1-road-vehicle-registration",
+  "title": "Road Vehicle Registration, Iran, 1955/56 and 1960/61 (World Bank, 1962)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1962 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf), Chapter 4 (Transport and Communications), Table 1, page 69 (printed page -66-). Every value was verified by rendering the exact page to a high-resolution PNG (pdftoppm -r 200) and reading the table directly off the image; pdftotext had garbled several digits (e.g. 'Buses ... 8,0 7' for 8,047; '2h' for 24; 'lb,999' for 14,999) which the image resolved unambiguously. No value was interpolated, estimated, or fabricated. Internal consistency check: each row's registered_1960_61 minus registered_1955_56 equals the printed 'increase' column exactly (e.g. Automobiles 92,992-33,666=59,326), confirming the transcription.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:17Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "c87d15bd75305dec2504d527918986fd2599c2d63913ba6f130612f52a9ca6c6",
+      "bytes": 270
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1955/56 and 1960/61 (two-point comparison, not a continuous annual series)",
+  "frequency": "biennial snapshot (start and end of the Second Seven-Year Plan)",
+  "units": "number of registered vehicles; percentages as printed. See data.csv column headers.",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "topics": [
+    "transport",
+    "road-transport",
+    "vehicles",
+    "pahlavi-era"
+  ],
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf — Chapter 4 (Transport and Communications), Table 1, page 69 (printed page -66-). Iranian solar calendar years (e.g. 1955/56 = 21 March 1955-20 March 1956). Part of a systematic effort to extract Pahlavi-era (esp. 1941-1962) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

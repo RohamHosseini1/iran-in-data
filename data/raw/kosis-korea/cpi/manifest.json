@@ -1,0 +1,20 @@
+{
+  "dataset_id": "kosis-cpi",
+  "title": "KOSIS Consumer Price Index (2020=100), whole country, annual",
+  "source_org": "Statistics Korea (KOSIS / Ministry of Data and Statistics)",
+  "source_url": "https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J22003&conn_path=I3&language=en",
+  "download_url": "https://kosis.kr/statHtml/downGrid.do (POST) + https://kosis.kr/statHtml/downNormal.do (POST) — see notes",
+  "retrieved_at_utc": "2026-07-13T03:51:10Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "CPI_2020base_annual_1965-2025.csv", "original_name": "CPI_2020100__20260713035110.csv", "sha256": "9b72cd1fdfa3f3031cd7fa54528ec50451f08f4de59be92300cb99720c362722", "bytes": 747}
+  ],
+  "countries": ["KOR"],
+  "time_coverage": "1965-2025, annual",
+  "frequency": "annual (monthly and quarterly also available in the same table on request)",
+  "topics": ["CPI", "inflation", "prices"],
+  "units": "index, 2020=100",
+  "license_terms": "KOSIS (Statistics Korea) — Open Government Data, free reuse with attribution",
+  "notes": "TASK FINDING: KOSIS statistical-table viewer (statHtml.do) DOES allow anonymous CSV/Excel/SDMX export with NO login and NO API key. The GUI 'Download' button opens a modal offering XLSX/XLS/CSV/TXT/SDMX formats, confirmed by loading it in-browser. Under the hood it is a 2-step flow: (1) POST the table's #ParamInfo form (serialized) to /statHtml/downGrid.do -> returns JSON {file:'<server-side temp filename>'}; (2) POST the same form (with file=<that name>) to /statHtml/downNormal.do -> returns the file bytes directly (CSV in this case). Both endpoints are session-cookie-scoped (JSESSIONID from the initial statHtml.do page load) but require no personal login or registered API key — this is different from KOSIS's separate 'Open API' (kosis.kr/openapi/) which DOES require a registered apiKey. Replicated this flow via same-origin fetch() in a live browser session (cookies auto-included) rather than raw curl, since curl would need to first establish/pass the JSESSIONID. Also had to override the default query window: the table defaults to loading only the most recent 6 periods; requesting the full 1965-2025 annual range required rewriting the 'fieldList' PRD parameter's prdValue field client-side before the downGrid.do call. Table used: orgId=101, tblId=DT_1J22003 ('CPI(2020=100)'), found via KOSIS's English search UI.",
+  "failures": []
+}

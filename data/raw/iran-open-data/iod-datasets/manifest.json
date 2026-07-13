@@ -1,0 +1,233 @@
+{
+  "dataset_id": "iod-datasets",
+  "title": "Iran Open Data (IOD) — selected CKAN-hosted CSV datasets retrieved via Wayback Machine (media.iranopendata.org)",
+  "source_org": "Iran Open Data (IOD) civil-society portal, hosted abroad",
+  "source_url": "https://iranopendata.org/en/dataset",
+  "download_url": "see per-file download_url / wayback_url",
+  "retrieved_at_utc": "2026-07-12T18:30:08Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "iod_00922_employment_by_sector_province_1397-1398.csv",
+      "original_name": "IOD-00922-employment-by-sector-province-1397-1398-fa.csv",
+      "sha256": "9a222e8958d52f28e81ced6b0c3c9a41e14f5e4d7dd623d20a418cf89cded7ff",
+      "bytes": 1667,
+      "table_title": "Employment by Sector and Province, 1397-1398",
+      "download_url": "https://media.iranopendata.org/IOD%20Bulk%20Upload/IOD-00922-employment-by-sector-province-1397-1398-fa.csv",
+      "wayback_timestamp": "20240426011545",
+      "wayback_url": "https://web.archive.org/web/20240426011545id_/https://media.iranopendata.org/IOD%20Bulk%20Upload/IOD-00922-employment-by-sector-province-1397-1398-fa.csv"
+    },
+    {
+      "name": "iod_00926_unemployment_by_province_1398.csv",
+      "original_name": "IOD-00926-unemployment-province-1398-fa.csv",
+      "sha256": "7d90ae385265560d7148f32f7765ca8258740fda7336a6f9f9e0112cb5414e46",
+      "bytes": 1382,
+      "table_title": "Unemployment by Province, 1398",
+      "download_url": "https://media.iranopendata.org/IOD%20Bulk%20Upload/IOD-00926-unemployment-province-1398-fa.csv",
+      "wayback_timestamp": "20240426005114",
+      "wayback_url": "https://web.archive.org/web/20240426005114id_/https://media.iranopendata.org/IOD%20Bulk%20Upload/IOD-00926-unemployment-province-1398-fa.csv"
+    },
+    {
+      "name": "iod_00994_youth_adult_unemployment_world_2009-2018.csv",
+      "original_name": "IOD-00994-youth-adult-unemployment-world-selected-areas-2009-2018-fa.csv",
+      "sha256": "5b047a5d6044cb2d546c465a56246457b25e2a5493827aade6733681341b6709",
+      "bytes": 2399,
+      "table_title": "Youth and Adult Unemployment, World Selected Areas, 2009-2018",
+      "download_url": "https://media.iranopendata.org/IOD%20Bulk%20Upload/IOD-00994-youth-adult-unemployment-world-selected-areas-2009-2018-fa.csv",
+      "wayback_timestamp": "20240426034759",
+      "wayback_url": "https://web.archive.org/web/20240426034759id_/https://media.iranopendata.org/IOD%20Bulk%20Upload/IOD-00994-youth-adult-unemployment-world-selected-areas-2009-2018-fa.csv"
+    },
+    {
+      "name": "iod_02032_cpi_annual_inflation_by_expenditure_decile_2021.csv",
+      "original_name": "iod-02032-consumer-price-index-annual-inflation-rate-households-in-terms-cost-deciles-in-2021-fa.csv",
+      "sha256": "8d95462dccdad9bd2fdb77bd2df4b12f1ce8905c436ee7233284b37d9106d485",
+      "bytes": 1341,
+      "table_title": "Consumer Price Index / Annual Inflation Rate by Household Expenditure Decile, 2021",
+      "download_url": "https://media.iranopendata.org/IODBU2/2022/03/29/iod-02032-consumer-price-index-annual-inflation-rate-households-in-terms-cost-deciles-in-2021-fa.csv",
+      "wayback_timestamp": "20240508093310",
+      "wayback_url": "https://web.archive.org/web/20240508093310id_/https://media.iranopendata.org/IODBU2/2022/03/29/iod-02032-consumer-price-index-annual-inflation-rate-households-in-terms-cost-deciles-in-2021-fa.csv"
+    },
+    {
+      "name": "iod_02033_total_cpi_by_expenditure_decile_2021.csv",
+      "original_name": "iod-02033-total-price-index-consumer-goods-services-country's-households-cost-deciles-2021-fa.csv",
+      "sha256": "8d5b684899d9f618f70112a7718c2ab56e592d8c5dac888af4fc92c5a7098224",
+      "bytes": 1399,
+      "table_title": "Total Price Index of Consumer Goods & Services by Household Expenditure Decile, 2021",
+      "download_url": "https://media.iranopendata.org/IODBU2/2022/03/29/iod-02033-total-price-index-consumer-goods-services-country's-households-cost-deciles-2021-fa.csv",
+      "wayback_timestamp": "20240508093443",
+      "wayback_url": "https://web.archive.org/web/20240508093443id_/https://media.iranopendata.org/IODBU2/2022/03/29/iod-02033-total-price-index-consumer-goods-services-country's-households-cost-deciles-2021-fa.csv"
+    },
+    {
+      "name": "iod_05230_natural_gas_consumption_1398.csv",
+      "original_name": "iod-05230-natural-gas-consumption-1398-fa.csv",
+      "sha256": "5184e543c558036c3c391e7d23c6100442edbdf627a240b414d2ea4243e3cc07",
+      "bytes": 575,
+      "table_title": "Natural Gas Consumption, 1398",
+      "download_url": "https://media.iranopendata.org/IODBU2/2023/011/17/iod-05230-natural-gas-consumption-1398-fa.csv",
+      "wayback_timestamp": "20240510080039",
+      "wayback_url": "https://web.archive.org/web/20240510080039id_/https://media.iranopendata.org/IODBU2/2023/011/17/iod-05230-natural-gas-consumption-1398-fa.csv"
+    },
+    {
+      "name": "iod_05287_milk_powder_export_statistics_1400.csv",
+      "original_name": "iod-05287-milk-powder-export-statistics-1400-fa.csv",
+      "sha256": "c2ec085f12990834e4c404d20f6e1db99d9852dbcbef6f82ab2038b3ad421f89",
+      "bytes": 136076,
+      "table_title": "Milk Powder Export Statistics by Customs Office/Country/Tariff, 1400-1401",
+      "download_url": "https://media.iranopendata.org/IODBU2/2023/011/22/iod-05287-milk-powder-export-statistics-1400-fa.csv",
+      "wayback_timestamp": "20240427120627",
+      "wayback_url": "https://web.archive.org/web/20240427120627id_/https://media.iranopendata.org/IODBU2/2023/011/22/iod-05287-milk-powder-export-statistics-1400-fa.csv"
+    },
+    {
+      "name": "iod_05288_milk_powder_import_statistics_1401.csv",
+      "original_name": "iod-05288-milk-powder-import-statistics-1401-fa.csv",
+      "sha256": "defb9ea1b49141e5afc6f75f376a1aee54b9169a31448c73b1f584f6345e00a6",
+      "bytes": 3695,
+      "table_title": "Milk Powder Import Statistics, 1401",
+      "download_url": "https://media.iranopendata.org/IODBU2/2023/011/22/iod-05288-milk-powder-import-statistics-1401-fa.csv",
+      "wayback_timestamp": "20240427120606",
+      "wayback_url": "https://web.archive.org/web/20240427120606id_/https://media.iranopendata.org/IODBU2/2023/011/22/iod-05288-milk-powder-import-statistics-1401-fa.csv"
+    },
+    {
+      "name": "iod_06094_trade_license_issued_by_service_type_2018-2023.csv",
+      "original_name": "iod-06094-trade-license-issued-according-type-service-2018-2023-fa.csv",
+      "sha256": "055bdad874598598e161e19c801e9895e086085c8d4a53ed2a6e4349bc74d07f",
+      "bytes": 572,
+      "table_title": "Trade Licenses Issued by Type of Service, 2018-2023",
+      "download_url": "https://media.iranopendata.org/IODBU2/2024/06/13/iod-06094-trade-license-issued-according-type-service-2018-2023-fa.csv",
+      "wayback_timestamp": "20240616145759",
+      "wayback_url": "https://web.archive.org/web/20240616145759id_/https://media.iranopendata.org/IODBU2/2024/06/13/iod-06094-trade-license-issued-according-type-service-2018-2023-fa.csv"
+    },
+    {
+      "name": "iod_06101_non_oil_export_import_by_customs_origin_2020-2023.csv",
+      "original_name": "iod-06101-non-oil-export-import-goods-from-customs-origin-2020-2023-fa.csv",
+      "sha256": "7cb3a40f5d8d6a84af12f8f4b012cca620ac70b038d2926b043ba55f12abbc0d",
+      "bytes": 1583,
+      "table_title": "Non-Oil Export/Import of Goods by Customs Origin, 2020-2023",
+      "download_url": "https://media.iranopendata.org/IODBU2/2024/06/14/iod-06101-non-oil-export-import-goods-from-customs-origin-2020-2023-fa.csv",
+      "wayback_timestamp": "20240616104501",
+      "wayback_url": "https://web.archive.org/web/20240616104501id_/https://media.iranopendata.org/IODBU2/2024/06/14/iod-06101-non-oil-export-import-goods-from-customs-origin-2020-2023-fa.csv"
+    },
+    {
+      "name": "iod_06103_balance_of_payments_current_account_2020-2023.csv",
+      "original_name": "iod-06103-balance-payments-current-account-2020-2023-fa.csv",
+      "sha256": "2ac1d82d4afcd5e93743bd02e9ea67642c4a65e0ed854f920c05a7610b66ac08",
+      "bytes": 1620,
+      "table_title": "Balance of Payments — Current Account, 2020-2023",
+      "download_url": "https://media.iranopendata.org/IODBU2/2024/06/14/iod-06103-balance-payments-current-account-2020-2023-fa.csv",
+      "wayback_timestamp": "20240616111329",
+      "wayback_url": "https://web.archive.org/web/20240616111329id_/https://media.iranopendata.org/IODBU2/2024/06/14/iod-06103-balance-payments-current-account-2020-2023-fa.csv"
+    },
+    {
+      "name": "iod_06104_balance_of_payments_capital_account_reserves_2020-2023.csv",
+      "original_name": "iod-06104-balance-payments-capital-account-changes-in-international-reserv-fa.csv",
+      "sha256": "f07a4c8968ccbeb6ecba20504493363ed1cdbf3a61a437ffbf8aede7938f5f1f",
+      "bytes": 924,
+      "table_title": "Balance of Payments — Capital Account & Changes in International Reserves, 2020-2023",
+      "download_url": "https://media.iranopendata.org/IODBU2/2024/06/14/iod-06104-balance-payments-capital-account-changes-in-international-reserv-fa.csv",
+      "wayback_timestamp": "20240616104523",
+      "wayback_url": "https://web.archive.org/web/20240616104523id_/https://media.iranopendata.org/IODBU2/2024/06/14/iod-06104-balance-payments-capital-account-changes-in-international-reserv-fa.csv"
+    },
+    {
+      "name": "iod_06106_avg_price_crude_oil_gold_2020-2023.csv",
+      "original_name": "iod-06106-average-price-crude-oil-gold-2020-2023-fa.csv",
+      "sha256": "0dffa04d07824471e994ab60d2ef09038e69f63ca7e86e2e15a183400d21d739",
+      "bytes": 868,
+      "table_title": "Average Price of Crude Oil and Gold, 2020-2023",
+      "download_url": "https://media.iranopendata.org/IODBU2/2024/06/14/iod-06106-average-price-crude-oil-gold-2020-2023-fa.csv",
+      "wayback_timestamp": "20240616112918",
+      "wayback_url": "https://web.archive.org/web/20240616112918id_/https://media.iranopendata.org/IODBU2/2024/06/14/iod-06106-average-price-crude-oil-gold-2020-2023-fa.csv"
+    },
+    {
+      "name": "iod_gccmbf2013_exchange_rate_usd_rial_2011-2020.csv",
+      "original_name": "gccmbf2013-exchange-rate-dolla-rial-november-2011-june-2020-fa.csv",
+      "sha256": "38c32413ffa0dda3634e8ac0366195dfb5445c7be9763db4c1bd19f85006ae74",
+      "bytes": 121303,
+      "table_title": "Daily Exchange Rate, USD/Rial (Free Market), Nov 2011 - Jun 2020",
+      "download_url": "https://media.iranopendata.org/bf/gccmbf2013-exchange-rate-dolla-rial-november-2011-june-2020-fa.csv",
+      "wayback_timestamp": "20240509070739",
+      "wayback_url": "https://web.archive.org/web/20240509070739id_/https://media.iranopendata.org/bf/gccmbf2013-exchange-rate-dolla-rial-november-2011-june-2020-fa.csv"
+    },
+    {
+      "name": "iod_moeen2111_per_capita_ghg_emissions_1389-1397.csv",
+      "original_name": "moeen2111-per-capita-emissions-greenhouse-gases-1389-1397-fa.csv",
+      "sha256": "c41a1b85f7a3d8758e4384f74a119fa2449d5cb1f7c466784d343dddf12be69c",
+      "bytes": 863,
+      "table_title": "Per-Capita Greenhouse Gas Emissions (NOx, SO2, CO2, CH4, etc.), 1389-1397",
+      "download_url": "https://media.iranopendata.org/en/moeen2111-per-capita-emissions-greenhouse-gases-1389-1397-fa.csv",
+      "wayback_timestamp": "20240425045308",
+      "wayback_url": "https://web.archive.org/web/20240425045308id_/https://media.iranopendata.org/en/moeen2111-per-capita-emissions-greenhouse-gases-1389-1397-fa.csv"
+    },
+    {
+      "name": "iod_scibf2108_inflation_rate_1399.csv",
+      "original_name": "scibf2108-inflation-rate-1399-fa.csv",
+      "sha256": "d7d59afd25846bbd95162ee476e569b43f6e1797a22e9073c54f4d12f1079d37",
+      "bytes": 740,
+      "table_title": "Inflation Rate, 1399",
+      "download_url": "https://media.iranopendata.org/bf/scibf2108-inflation-rate-1399-fa.csv",
+      "wayback_timestamp": "20240426004134",
+      "wayback_url": "https://web.archive.org/web/20240426004134id_/https://media.iranopendata.org/bf/scibf2108-inflation-rate-1399-fa.csv"
+    },
+    {
+      "name": "iod_scies2017_stock_exchange_shares_traded_1375-1394.csv",
+      "original_name": "scies2017-companies-listed-stock-exchange-shares-amount-shares-traded-from-1375-1394-fa.csv",
+      "sha256": "cef4aeb5575f7e44c26a21af8b9cc8ac99991c5eb7d9012a02b8fe6a68babf52",
+      "bytes": 858,
+      "table_title": "Companies Listed on Stock Exchange & Shares Traded, 1375-1394",
+      "download_url": "https://media.iranopendata.org/es/scies2017-companies-listed-stock-exchange-shares-amount-shares-traded-from-1375-1394-fa.csv",
+      "wayback_timestamp": "20240426145725",
+      "wayback_url": "https://web.archive.org/web/20240426145725id_/https://media.iranopendata.org/es/scies2017-companies-listed-stock-exchange-shares-amount-shares-traded-from-1375-1394-fa.csv"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "varies by table, roughly 2009-2023 (1389-1401 SH)",
+  "frequency": "varies (annual, monthly, daily)",
+  "topics": [
+    "CPI",
+    "FX",
+    "agriculture",
+    "balance of payments",
+    "business",
+    "capital markets",
+    "commodity prices",
+    "dairy",
+    "emissions",
+    "employment",
+    "energy",
+    "environment",
+    "exchange rate",
+    "gold",
+    "household expenditure",
+    "inflation",
+    "international comparison",
+    "labor",
+    "national accounts",
+    "natural gas",
+    "non-oil exports",
+    "oil",
+    "parallel market",
+    "reserves",
+    "stock exchange",
+    "trade",
+    "trade licenses",
+    "unemployment"
+  ],
+  "units": "described within each CSV (rial, USD, tons, index points, percent, persons, etc.); column headers are in Persian",
+  "license_terms": "Iran Open Data public mirror of Iranian government statistics; no explicit license stated on site",
+  "notes": "Direct access to iranopendata.org confirmed blocked: GET https://iranopendata.org/en/ (homepage) returns HTTP 200 with real content even with Accept-Language header added, but GET https://iranopendata.org/en/dataset and https://iranopendata.org/api/3/action/package_list both return HTTP 403 with a genuine Cloudflare 'Just a moment...' JS-challenge page (verified via body signature: title 'Just a moment...', 'Enable JavaScript and cookies', challenges.cloudflare.com CSP directive) -- confirms this is a real bot-challenge, not a lightweight block, and curl cannot pass it. Retried with extra headers (Accept-Language, Referer) per task instructions; still blocked, so did not retry further (2 attempts as instructed) and fell back to Wayback Machine. IOD is a CKAN 2.9.2 instance; dataset landing pages under /en/dataset/<slug> ARE archived by Wayback and reachable via web.archive.org/web/{ts}id_/. Each dataset page links to its actual CSV file hosted on a SEPARATE domain, media.iranopendata.org, which does not resolve directly from this network (DNS failure, curl exit 6) but IS independently and extensively archived by Wayback (found ~470 archived media.iranopendata.org files via a broad CDX domain query). Searched that CDX list for economically-relevant filenames (gdp/inflation/cpi/trade/export/import/budget/employment/unemployment/gas/oil/exchange-rate keywords) and found ~80 candidate files; downloaded 17 of the most data-rich and clearly macro/sectoral ones, spanning CPI/inflation by expenditure decile, balance of payments, non-oil trade, USD/rial exchange rate (2011-2020 daily series), unemployment/employment by province, natural gas consumption, crude oil & gold prices, milk powder trade, greenhouse gas emissions, and stock exchange activity. Two files were deliberately EXCLUDED after initial download: cbibf2017 (recipients of government currency at preferential rates, 1397-1399) and cbibf209 (recipients of 4200-toman FX rate for imports, 1398) turned out on inspection to be individual-level lists of named private persons with national ID numbers (~146k and ~150k rows) -- personal transparency/anti-corruption data, not aggregate economic statistics, and out of scope for this database; they were downloaded, inspected, and deleted rather than kept. Column headers in the retained files are in Persian (original); English descriptions are provided in this manifest's table_title fields per SOURCES.md convention of keeping original filenames/headers and adding English titles.",
+  "failures": [
+    {
+      "url": "https://iranopendata.org/en/dataset",
+      "reason": "HTTP 403, genuine Cloudflare 'Just a moment...' JS challenge (verified via body signature), not passable via curl"
+    },
+    {
+      "url": "https://iranopendata.org/api/3/action/package_list",
+      "reason": "HTTP 403, same Cloudflare JS challenge as above, tried with Accept-Language header, still blocked"
+    },
+    {
+      "url": "https://media.iranopendata.org/*",
+      "reason": "DNS does not resolve directly from this network (curl exit 6); all files retrieved via Wayback Machine instead"
+    }
+  ]
+}

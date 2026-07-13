@@ -1,0 +1,41 @@
+{
+  "dataset_id": "wb1974-table10.6-food-demand-projections",
+  "title": "Actual and Projected Demand for Selected Agricultural Commodities, Iran 1972/1977/1982 (rural/urban/total, '000 tons)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank) Agricultural Task Force (IBRD)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf, Table 10.6, page 79 (PDF page 87). Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1972 (actual), 1977 and 1982 (projected, low/high growth scenarios)",
+  "frequency": "point-in-time / projection",
+  "topics": [
+    "consumption",
+    "food-demand",
+    "wheat",
+    "rice",
+    "sugar",
+    "meat",
+    "dairy",
+    "eggs",
+    "pulses",
+    "urban-rural",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "'000 tons (thousand metric tons), except dairy sub-items also given as fat-equivalent implicit in companion Table 10.7",
+  "notes": "1972 column is ACTUAL demand (assuming constant prices); 1977 and 1982 are World Bank mission PROJECTIONS under stated per-capita-expenditure and population growth assumptions (recorded in the 'note' column per row) -- these are demand forecasts made in 1974, not realized outcomes; do not treat 1977/1982 rows as historical fact. Directly complements FAOSTAT Food Balance Sheets (data/processed/agriculture_fbs*.csv) with a rural/urban demand split FAOSTAT does not provide, and a contemporaneous mission view of expected Iranian diet evolution.",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "d533f04c92d2ea6f4ebc3301f4732b157fc78ee7c9d87348260a56715fe52fa3",
+      "bytes": 5232
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

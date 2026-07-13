@@ -1,0 +1,21 @@
+{
+  "dataset_id": "iran-textile-industry-pahlavi-era-overview",
+  "title": "Iran Textile Industry -- Spindles, Looms, Employment, Cotton Production and Output, 1923-2002 (Pahlavi era through early Islamic Republic)",
+  "source_org": "Encyclopaedia Iranica ('Textile Industry in Iran' article), retrieved via a legitimate reproducing mirror since iranicaonline.org itself returns HTTP 403 to direct fetch (a longstanding, previously-documented pattern in this project); cross-referenced with World Bank Archives primary source for the 1972 price-competitiveness data point",
+  "source_url": "https://www.iranicaonline.org/articles/textile-industry-in-iran/ (canonical, blocked to direct fetch) ; https://iranyarn.ir/en/articles/261-textile-industry-in-iran/ (working mirror used for retrieval)",
+  "download_url": null,
+  "extraction_method": "WebFetch of the iranyarn.ir mirror (an Iranian textile-industry trade site reproducing the Encyclopaedia Iranica article), cross-checked against a separate WebSearch synthesis of the same Iranica article (which returned matching 1972/1975 figures independently, increasing confidence the mirror is a faithful reproduction). One data point (1972 mass-consumption textile price premium) added from the World Bank's 1972_industrial_policies_and_priorities.pdf, already in this archive -- see companion dataset wb1972industrial-isfahan-steel-and-idro-capital-goods.",
+  "retrieved_by": "claude (WebFetch + WebSearch, manual compilation)",
+  "retrieved_at_utc": "2026-07-13T00:24:33Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "82dfa2092dc0053b956450df82bfdc286ddcc329c6af14ce308ec156741c5d56", "bytes": 4554}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1923-2002",
+  "frequency": "irregular spot-years (as reported by the source article, not a smooth annual series)",
+  "topics": ["textiles", "cotton", "manufacturing", "employment", "pahlavi-era", "import-substitution", "reza-shah-era"],
+  "units": "mixed -- see unit column per row (spindle counts, machine counts, worker counts, metric tons, million meters cloth, percent, USD)",
+  "license_terms": "Encyclopaedia Iranica content, reproduced via a third-party mirror with attribution; academic/encyclopedic source, not a government statistical release",
+  "notes": "GENUINE GAP CLOSED: prior to this round, this project had ZERO dedicated textile-industry production/employment data (confirmed via full-archive grep before starting this hunt; the closest existing datum was the WB1970 industry-import-dependence table's single 'Cotton Textiles: 10% import-dependence' cross-sectional figure). This dataset provides a genuine multi-decade production/capacity/employment arc: from the first Pahlavi-era factory (1925) through explosive 1930s-1970s growth (spindle count 1931->1972 roughly grew ~5x when combined with the 1948/1955/1972 anchor points), the 1975 cotton-production peak (716,000 tons unginned) followed by a sharp post-revolution decline (204,000 tons by 1981, a ~71% drop), and a partial 1990s-2000s recovery. Two explicit unit/comparability caveats are flagged directly in the notes column of data.csv: (1) the 1995 cotton figure is on a 'beaten cotton' basis distinct from the unginned-cotton basis used elsewhere, and (2) 1948/1955 spindle counts vs. the 1931 factory-count figures use different units and should not be read as a single smooth interpolated series. Companion dataset: iran-automotive-industry/khodro-paykan-production-history (built the same round for the same 'remaining industrial subsectors' mission). Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": ["Direct fetch of iranicaonline.org itself failed with HTTP 403, consistent with this domain's well-documented Cloudflare-blocking pattern noted in multiple prior rounds of this project"]
+}

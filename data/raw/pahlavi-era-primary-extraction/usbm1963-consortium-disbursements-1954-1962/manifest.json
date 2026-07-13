@@ -1,0 +1,21 @@
+{
+  "dataset_id": "usbm1963-consortium-disbursements-1954-1962",
+  "title": "Consortium (post-nationalization oil operating group) Disbursements in Iran, 1954-1962 -- incl. aggregate wages/salaries paid",
+  "source_org": "US Bureau of Mines Information Circular 8203 (1963), Table 1 (p.16) + narrative summary table (p.15)",
+  "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:19Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "pdftoppm -r 150 render to PNG (PDF pages 24-25 of data/raw/pahlavi-era-primary-extraction/usbm1963-source-pdf/) + Read tool visual verification. No OCR/pdftotext used (source has no text layer). Every cell cross-checked by manual subtotal arithmetic where the source provides subtotals (all checks passed except one flagged elsewhere in this round's NIOC personnel table).",
+  "files": [
+    {"name": "consortium_disbursements_1954_1962.csv", "original_name": null, "sha256": "666a89ac30a9b1960f14f1bc8ab332cc317a1c2d81182716a7b69a42716d0035", "bytes": 9214}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1954-1962 (1954 is a partial year, Oct 29-Dec 31 only)",
+  "frequency": "annual",
+  "topics": ["oil", "Consortium Agreement", "wages", "government revenue", "income tax", "social insurance"],
+  "units": "GBP (pounds sterling); percentages for the GNP/forex/govt-expenditure ratio rows",
+  "license_terms": "US Government publication, public domain",
+  "notes": "DIRECT HIT on this round's user-brief item 'historical wage data for specific well-documented occupations -- oil-industry workers' wages are unusually well documented due to the Consortium Agreement era': the 'Wages and salaries' row is a genuine, authoritative, primary-source AGGREGATE annual wage/salary bill paid by the oil Consortium in Iran, 1955-1962 (GBP 15.6M in 1955 rising to GBP 28.3M in 1962). This is an aggregate paid-out total, NOT a per-worker wage rate -- a future harmonization pass COULD divide this by the employment counts in the sibling usbm1963-oil-industry-personnel-by-category-1955-1961 dataset to derive an implied average annual wage per Consortium employee, but that division was deliberately NOT performed in this raw-data-landing round (would mix two different tables' figures into a derived statistic, better done explicitly and flagged during a data/processed/ harmonization pass, not silently in data/raw/). Overlap-risk note: this table's 'Payments to Iranian Government' and 'Income tax' rows are fiscal/government-revenue-adjacent, which could overlap with concurrent agents working on 'government financial archives (Majlis/CBI)' -- included here anyway because the anchor and organizing logic of the whole table is the OIL CONSORTIUM's disbursements (a company-side accounting view), not a government-budget-side document, and the wages/salaries and social-insurance rows (the actual point of this dataset) are unambiguously outside any government-finance agent's likely scope.",
+  "failures": []
+}

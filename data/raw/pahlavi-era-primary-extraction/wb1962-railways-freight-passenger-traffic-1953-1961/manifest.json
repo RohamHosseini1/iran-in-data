@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1962-transporttable6-railways-freight-passenger-traffic",
+  "title": "Iranian State Railways: Freight and Passenger Traffic, 1953/54-1960/61 (World Bank, 1962)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1962 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf), Chapter 4 (Transport and Communications), Table 6, page 82 (printed page -78-). Every value was verified by rendering the exact page to a high-resolution PNG (pdftoppm -r 200) and reading the table directly off the image. IMPORTANT transcription note: as in the companion Table 5 on the preceding page, the source typewriter used a PERIOD as a thousands separator (not a decimal point) for the '1000 tons', 'Million Ton-Km' and 'Million Passenger-Km' columns whenever the value reached four digits (e.g. printed '1.808' for 1953/54 freight tons means 1,808, and '1.588' for 1958/59 passenger-km means 1,588); the 'Million Passengers' column, by contrast, is a genuine decimal (e.g. 1.71 million passengers), confirmed because (a) its values are naturally in the 1-5 range appropriate for 'millions of passengers' and (b) dividing passenger-km by passengers under this reading yields a stable, plausible average trip length of roughly 230-420 km across all 8 years, whereas the alternative reading would produce a physically nonsensical discontinuity. Values in data.csv are plain numbers with the separator convention resolved per column (integers for tons/ton-km/passenger-km, one decimal place preserved for the passengers column) to avoid ambiguity. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:17Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "cc0ae2af43272b70e1839f8a75a96a8f187725431e1cee38c7c8052ff248aacd",
+      "bytes": 305
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1953/54-1960/61",
+  "frequency": "annual",
+  "units": "freight in 1000 metric tons and million ton-km; passengers in millions and million passenger-km. See data.csv column headers.",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "topics": [
+    "transport",
+    "railways",
+    "freight",
+    "passenger-traffic",
+    "pahlavi-era"
+  ],
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf — Chapter 4 (Transport and Communications), Table 6, page 82 (printed page -78-). Iranian solar calendar years (e.g. 1953/54 = 21 March 1953-20 March 1954). Companion table to wb1962-railways-income-expense-1953-1961 (same institution, same page range, same years). Part of a systematic effort to extract Pahlavi-era (esp. 1941-1962) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

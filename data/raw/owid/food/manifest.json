@@ -1,0 +1,196 @@
+{
+  "dataset_id": "owid-food",
+  "title": "OWID Grapher charts — Food & agriculture (meat, chicken, eggs, fruit, calories, protein)",
+  "source_org": "Our World in Data",
+  "source_url": "https://ourworldindata.org/grapher",
+  "download_url": "https://ourworldindata.org/grapher/{slug}.csv (per-file URLs in files[])",
+  "retrieved_at_utc": "2026-07-12T17:27:42Z",
+  "retrieved_by": "agent:owid-download",
+  "files": [
+    {
+      "name": "banana-production.csv",
+      "original_name": null,
+      "sha256": "b9d18e566ed4f1ef199909ea64ff33a6caa4eba24977783141cb8dbbba45a987",
+      "bytes": 290077,
+      "source_url": "https://ourworldindata.org/grapher/banana-production",
+      "download_url": "https://ourworldindata.org/grapher/banana-production.csv",
+      "time_coverage": "1961-2024"
+    },
+    {
+      "name": "banana-production.metadata.json",
+      "original_name": null,
+      "sha256": "ccd1c7a95acadf4fc4866791d5a4935506a4b572ce8f0ab2fe9c78df44d75338",
+      "bytes": 1150,
+      "source_url": "https://ourworldindata.org/grapher/banana-production",
+      "download_url": "https://ourworldindata.org/grapher/banana-production.metadata.json"
+    },
+    {
+      "name": "daily-per-capita-caloric-supply.csv",
+      "original_name": null,
+      "sha256": "b96cd845d2c56fcb88fd706e2bae6b7266e1b76a7c9af2e216079198583ac1d5",
+      "bytes": 393326,
+      "source_url": "https://ourworldindata.org/grapher/daily-per-capita-caloric-supply",
+      "download_url": "https://ourworldindata.org/grapher/daily-per-capita-caloric-supply.csv",
+      "time_coverage": "1274-2023"
+    },
+    {
+      "name": "daily-per-capita-caloric-supply.metadata.json",
+      "original_name": null,
+      "sha256": "272eacb7d54aec5a102f7e79e5941be34e7befa5a4f0ad73f20bed89d471561d",
+      "bytes": 5537,
+      "source_url": "https://ourworldindata.org/grapher/daily-per-capita-caloric-supply",
+      "download_url": "https://ourworldindata.org/grapher/daily-per-capita-caloric-supply.metadata.json"
+    },
+    {
+      "name": "daily-per-capita-protein-supply.csv",
+      "original_name": null,
+      "sha256": "df0960f281c50f209d98e1cdae7aea35cc112baff09016a6cdae38f8765e4384",
+      "bytes": 384842,
+      "source_url": "https://ourworldindata.org/grapher/daily-per-capita-protein-supply",
+      "download_url": "https://ourworldindata.org/grapher/daily-per-capita-protein-supply.csv",
+      "time_coverage": "1961-2023"
+    },
+    {
+      "name": "daily-per-capita-protein-supply.metadata.json",
+      "original_name": null,
+      "sha256": "ff60e0ab7cee7d52d0805400aa27db66c2a554f62222a6f21a8c7d0d4f3f5e8a",
+      "bytes": 2693,
+      "source_url": "https://ourworldindata.org/grapher/daily-per-capita-protein-supply",
+      "download_url": "https://ourworldindata.org/grapher/daily-per-capita-protein-supply.metadata.json"
+    },
+    {
+      "name": "egg-production-thousand-tonnes.csv",
+      "original_name": null,
+      "sha256": "4d46554e11a825a0992704e751f538383c1a0e8ba12719b44884e029215a0b28",
+      "bytes": 391833,
+      "source_url": "https://ourworldindata.org/grapher/egg-production-thousand-tonnes",
+      "download_url": "https://ourworldindata.org/grapher/egg-production-thousand-tonnes.csv",
+      "time_coverage": "1961-2024"
+    },
+    {
+      "name": "egg-production-thousand-tonnes.metadata.json",
+      "original_name": null,
+      "sha256": "1bb37e83064e09601e1dcbd543ecc8e0176fc6f92e46d392201148bc51ce93cb",
+      "bytes": 1240,
+      "source_url": "https://ourworldindata.org/grapher/egg-production-thousand-tonnes",
+      "download_url": "https://ourworldindata.org/grapher/egg-production-thousand-tonnes.metadata.json"
+    },
+    {
+      "name": "fruit-consumption-per-capita.csv",
+      "original_name": null,
+      "sha256": "2ee6d31b73a5ef92d8180e2594a4639d567acd32fad264547982e3864d890201",
+      "bytes": 386051,
+      "source_url": "https://ourworldindata.org/grapher/fruit-consumption-per-capita",
+      "download_url": "https://ourworldindata.org/grapher/fruit-consumption-per-capita.csv",
+      "time_coverage": "1961-2023"
+    },
+    {
+      "name": "fruit-consumption-per-capita.metadata.json",
+      "original_name": null,
+      "sha256": "b26399d74b3d23183ea0a554f1941e9da77bc18064d7b60e9ffafd87cd6ac9a4",
+      "bytes": 2480,
+      "source_url": "https://ourworldindata.org/grapher/fruit-consumption-per-capita",
+      "download_url": "https://ourworldindata.org/grapher/fruit-consumption-per-capita.metadata.json"
+    },
+    {
+      "name": "global-meat-production-by-livestock-type.csv",
+      "original_name": null,
+      "sha256": "aa6ab652568bb43d2475ededd3e1910b96064d1343a818619f175ecc3f56cb48",
+      "bytes": 820753,
+      "source_url": "https://ourworldindata.org/grapher/global-meat-production-by-livestock-type",
+      "download_url": "https://ourworldindata.org/grapher/global-meat-production-by-livestock-type.csv",
+      "time_coverage": "1961-2024"
+    },
+    {
+      "name": "global-meat-production-by-livestock-type.metadata.json",
+      "original_name": null,
+      "sha256": "9ac23a7bfe93b2cbb1312fb72612f0f3a072904c4409166c7082a6ed928183ae",
+      "bytes": 6620,
+      "source_url": "https://ourworldindata.org/grapher/global-meat-production-by-livestock-type",
+      "download_url": "https://ourworldindata.org/grapher/global-meat-production-by-livestock-type.metadata.json"
+    },
+    {
+      "name": "orange-production.csv",
+      "original_name": null,
+      "sha256": "95f05e7e6deb48d916f2a8ef89962081ccce59075194872c2c553836f5275a7d",
+      "bytes": 275070,
+      "source_url": "https://ourworldindata.org/grapher/orange-production",
+      "download_url": "https://ourworldindata.org/grapher/orange-production.csv",
+      "time_coverage": "1961-2024"
+    },
+    {
+      "name": "orange-production.metadata.json",
+      "original_name": null,
+      "sha256": "3d54c8c69affb2329edf47df6cd622ecc126cb7652369be09356c2c0b5b12353",
+      "bytes": 1213,
+      "source_url": "https://ourworldindata.org/grapher/orange-production",
+      "download_url": "https://ourworldindata.org/grapher/orange-production.metadata.json"
+    },
+    {
+      "name": "per-capita-meat-consumption-by-type-kilograms-per-year.csv",
+      "original_name": null,
+      "sha256": "fa852d1484705955b8662327c66e5c63cf6ccda66ccb8d01dd183a5eb8da7361",
+      "bytes": 843649,
+      "source_url": "https://ourworldindata.org/grapher/per-capita-meat-consumption-by-type-kilograms-per-year",
+      "download_url": "https://ourworldindata.org/grapher/per-capita-meat-consumption-by-type-kilograms-per-year.csv",
+      "time_coverage": "1961-2023"
+    },
+    {
+      "name": "per-capita-meat-consumption-by-type-kilograms-per-year.metadata.json",
+      "original_name": null,
+      "sha256": "a24bfb2a33bdbb109ffcffbf21cefa8fe1d7354227a7c6f1fe709a6e074f59ab",
+      "bytes": 10704,
+      "source_url": "https://ourworldindata.org/grapher/per-capita-meat-consumption-by-type-kilograms-per-year",
+      "download_url": "https://ourworldindata.org/grapher/per-capita-meat-consumption-by-type-kilograms-per-year.metadata.json"
+    },
+    {
+      "name": "poultry-production-tonnes.csv",
+      "original_name": null,
+      "sha256": "73d81abe3ea68e5ca4c7994b167ea6bbdaa72e62fd65a5d7113b6cd4715aa2a3",
+      "bytes": 399421,
+      "source_url": "https://ourworldindata.org/grapher/poultry-production-tonnes",
+      "download_url": "https://ourworldindata.org/grapher/poultry-production-tonnes.csv",
+      "time_coverage": "1961-2024"
+    },
+    {
+      "name": "poultry-production-tonnes.metadata.json",
+      "original_name": null,
+      "sha256": "de066cc0babf330a755ba0d4a22e20de09e6a4073ebd9362cfd02375bd6506d6",
+      "bytes": 1374,
+      "source_url": "https://ourworldindata.org/grapher/poultry-production-tonnes",
+      "download_url": "https://ourworldindata.org/grapher/poultry-production-tonnes.metadata.json"
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "1274-2024",
+  "frequency": "annual",
+  "topics": [
+    "agriculture",
+    "food",
+    "meat",
+    "chicken",
+    "poultry",
+    "eggs",
+    "fruit",
+    "citrus",
+    "calories",
+    "protein"
+  ],
+  "units": "per chart — see each <slug>.metadata.json (grapher) or codebook CSV (panels)",
+  "license_terms": "CC BY 4.0 (Our World in Data); underlying third-party data subject to original providers' terms — see metadata.json/codebook for source-level citations",
+  "notes": "Slug substitutions (requested slug 404'd, current OWID slug used): 'citrus-fruit-production' -> 'orange-production'; 'egg-production' -> 'egg-production-thousand-tonnes'; 'meat-production-by-livestock-type' -> 'global-meat-production-by-livestock-type'. per-capita-meat-consumption-by-type-kilograms-per-year: the 'Poultry' column is the chicken-consumption line (Iran through 2023). No combined citrus-fruit-production grapher exists on OWID anymore; orange-production (FAO oranges) is the closest single-chart proxy — full citrus detail should come from the faostat source. global-meat-production-by-livestock-type is a per-country panel despite the 'global' in the slug (64 Iran rows). Each chart = <slug>.csv (data, long format: Entity,Code,Year,value...) + <slug>.metadata.json (units, sources, citations) from the OWID Grapher CSV API. Per-file time coverage recorded in files[].time_coverage. All-country files kept deliberately (natural download unit; enables adding comparators).",
+  "failures": []
+}

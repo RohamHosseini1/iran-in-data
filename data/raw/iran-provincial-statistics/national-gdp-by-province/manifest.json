@@ -1,0 +1,22 @@
+{
+  "dataset_id": "iran-provincial-statistics-national-gdp-by-province",
+  "title": "GDP by Province, Iran (all 31 provinces + national total), 2000-2013",
+  "source_org": "Iran Data Portal (Syracuse University), compiling Central Bank of Iran / Statistical Centre of Iran provincial accounts",
+  "source_url": "https://irandataportal.syr.edu/economic-financial-affairs/",
+  "download_url": "https://irandataportal.syr.edu/wp-content/uploads/GDP-of-each-province-1.xlsx , https://irandataportal.syr.edu/wp-content/uploads/GDP-of-each-province-excluding-oil.xlsx , https://irandataportal.syr.edu/wp-content/uploads/GDP-per-capita-without-oil-2000to2013-1.xlsx",
+  "retrieved_at_utc": "2026-07-12T19:26:02Z",
+  "retrieved_by": "agent:iran-provincial-census",
+  "files": [
+    {"name": "GDP-of-each-province-1.xlsx", "original_name": "GDP-of-each-province-1.xlsx", "sha256": "62c2b091d708a9c276ad3141ed5ce23114975f86f7ad812c9c2dabcac82048ea", "bytes": 61691},
+    {"name": "GDP-of-each-province-excluding-oil.xlsx", "original_name": "GDP-of-each-province-excluding-oil.xlsx", "sha256": "f6b014f92858a4f902351f4079247b3293c1ffa24ea34796b66fe8896b22c1c9", "bytes": 64025},
+    {"name": "GDP-per-capita-without-oil-2000to2013-1.xlsx", "original_name": "GDP-per-capita-without-oil-2000to2013-1.xlsx", "sha256": "7fc79c4d7b490d3da131795d0df657106bf0658d0d29c5e3831da055f70f87e2", "bytes": 64296}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2000-2013 (1379-1392 SH)",
+  "frequency": "annual",
+  "topics": ["gdp", "provincial", "subnational", "regional-economy", "national-accounts"],
+  "units": "million rial (nominal, current prices); per-capita file in rial per person",
+  "license_terms": "Not specified by Iran Data Portal; academic/research reuse assumed (Syracuse University compilation of Iranian official statistics)",
+  "notes": "Single national-level summary table format: one row per province (all 31 provinces) x one column per fiscal year, plus a 'Total Country' row. Verified via openpyxl: Sheet1 dimensions A1:O37, header 'Gross Domestic Product (million rial)', columns 2000-2001(1379) through 2013-2014(1392). This satisfies task 1a (compiled national table covering all 31 provinces) in preference to downloading 31 separate provincial yearbooks. Companion file excludes oil-sector value added (useful given Khuzestan/Bushehr GDP shares are oil-driven); per-capita file already divides by provincial population. No post-2013 update found on Iran Data Portal as of this retrieval -- amar.org.ir direct/Wayback check done separately for a more current 'provinces at a glance' table.",
+  "failures": []
+}

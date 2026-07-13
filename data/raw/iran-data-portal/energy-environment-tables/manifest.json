@@ -1,0 +1,72 @@
+{
+  "dataset_id": "energy-environment-tables",
+  "title": "Iran Data Portal — Energy & Environment tables (oil, gas, petrochemicals, energy balance)",
+  "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+  "source_url": "https://irandataportal.syr.edu/energy-environment/",
+  "download_url": "see per-file download_url",
+  "retrieved_at_utc": "2026-07-12T18:24:29Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "oil_production_and_exports_2000-2016.xlsx",
+      "original_name": "Iran-Oil-Production-and-Exports-2000-2016-2.xlsx",
+      "sha256": "b1c7c87c4f9e1ec4e2ab9aaf7081aae66266cb1777bace0ab1ccf3c63c541dd3",
+      "bytes": 40163,
+      "table_title": "Iran Oil Production and Exports (2000 Q2 to 2016 Q3)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/Iran-Oil-Production-and-Exports-2000-2016-2.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/energy-environment/"
+    },
+    {
+      "name": "energy_balance_sheet_1394_2015-16.pdf",
+      "original_name": "1394-1.pdf",
+      "sha256": "8eb13f7bffb968a4520923601677b9aab2d233eda21209ab7c6b12cf85f51ecf",
+      "bytes": 7991847,
+      "table_title": "Energy Balance Sheet, 1394 (2015/16)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/1394-1.pdf",
+      "topic_page": "https://irandataportal.syr.edu/energy-environment/"
+    },
+    {
+      "name": "consumption_of_natural_gas_1991-2006.xlsx",
+      "original_name": "13.-consumption-of-natural-gas-1370-1385-1991-2006-.xlsx",
+      "sha256": "2714f5ac7734ead6c44a04b7a5e5d6480b0b33e63d681af66a3ab4ae155fb16e",
+      "bytes": 8446,
+      "table_title": "Consumption of Natural Gas, 1370-1385 (1991-2006)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/13.-consumption-of-natural-gas-1370-1385-1991-2006-.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/energy-environment/"
+    },
+    {
+      "name": "npc_petrochemical_production_1996-2006.xlsx",
+      "original_name": "18.-total-production1-of-national-petrochemical-company-by-main-categories-1375-1385-1996-2006-.xlsx",
+      "sha256": "52ee5fe9510c6954c69c02adce176804a4b5ce8838a792a2f5d9739cab5e9390",
+      "bytes": 9018,
+      "table_title": "Total Production of National Petrochemical Company, by Main Categories, 1375-1385 (1996-2006)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/18.-total-production1-of-national-petrochemical-company-by-main-categories-1375-1385-1996-2006-.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/energy-environment/"
+    },
+    {
+      "name": "import_of_oil_products_by_type_1991-2006.xlsx",
+      "original_name": "9.-import-of-oil-products-by-type-1370-1385-1991-2006-.xlsx",
+      "sha256": "eeeb0acdc4da43335f6633c4da1805c6ed2ac4dc833eaabb8273e8ab8d52b44d",
+      "bytes": 9035,
+      "table_title": "Import of Oil Products by Type, 1370-1385 (1991-2006)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/9.-import-of-oil-products-by-type-1370-1385-1991-2006-.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/energy-environment/"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1991-2016 (varies by table); energy balance sheet is fiscal year 1394 (2015/16)",
+  "frequency": "annual (some quarterly/monthly)",
+  "topics": [
+    "energy",
+    "oil",
+    "natural gas",
+    "petrochemicals",
+    "energy balance"
+  ],
+  "units": "described within each spreadsheet/PDF (rial, physical quantities, index points, etc.)",
+  "license_terms": "Iran Data Portal public academic mirror; underlying data originally from SCI/CBI/ministries, no explicit license stated on site",
+  "notes": "irandataportal.syr.edu was directly reachable (HTTP 200, no bot-challenge or geo-block) — no Wayback fallback needed for this source. Original tables are mirrors of Statistical Centre of Iran (SCI) Statistical Yearbook data and CBI series, re-hosted in English-labeled Excel/PDF format by Syracuse University's Moynihan Institute. Selected the most data-rich, economically relevant tables from this topic page (and its listed sub-topic pages) to avoid duplicating files already downloaded by other sessions into iran-plan-budget-org (five-year development plans, annual budget laws) and iran-census (census data) folders in this same repo.",
+  "failures": []
+}

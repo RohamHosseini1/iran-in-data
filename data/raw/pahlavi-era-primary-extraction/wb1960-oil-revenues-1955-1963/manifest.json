@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1960-table1-oil-revenues",
+  "title": "Oil Revenues on Accrual Basis, Iran, 1955/56-1962/63 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 1, page 36) to a high-resolution PNG (pdftoppm -r 200, and a further 400 dpi crop for the ambiguous 1955/56 row) and visually reading the table directly from the image, cross-checked against the raw pdftotext extraction to catch transcription slips. The raw OCR text for this page was almost entirely garbled and was not usable except as a rough guide. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:05Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "5c990c0ae5ff45192bf2acbc962e7f49a92cce9a993b71bf2e77ea32677ffa9c",
+      "bytes": 1139
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1955/56-1962/63 (solar years ending March 20; 1955/56 and 1962/63 are 6-month periods)",
+  "frequency": "annual",
+  "topics": [
+    "oil-revenues",
+    "petroleum",
+    "fiscal",
+    "pahlavi-era"
+  ],
+  "units": "million US dollars",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 1, page 36. Table shows oil revenues allocated among the Budget, NIOC (National Iranian Oil Company), P.O. (Plan Organization) and B.P.C. (presumably a Bank Melli/petroleum-related development fund abbreviation as printed; not spelled out in the source). 1955/56-1958/59 rows are 'Actuals'; 1959/60-1962/63 rows are Plan Organization estimates based on the Government's statement to the Bank of March 16, 1959, assuming an 8% p.a. increase after 1959/60. For the 1955/56 row, the source image shows an extra stray dash mark ('----') printed in the gap between the NIOC and P.O. columns that does not correspond to any of the table's four allocation columns and has no counterpart in any other row; it was treated as a typographical/print artifact and omitted, since the remaining four values (Budget=nil, NIOC=24.5, P.O.=23.5, B.P.C.=nil) sum exactly to the printed Total of 48.0, confirming the reading. All other cells were unambiguous. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

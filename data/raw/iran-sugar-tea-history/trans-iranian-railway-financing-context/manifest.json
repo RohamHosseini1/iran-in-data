@@ -1,0 +1,23 @@
+{
+  "dataset_id": "trans-iranian-railway-financing-context",
+  "title": "Trans-Iranian Railway Cumulative Cost Through 1938-39 — Fiscal Context for the 1925 Sugar/Tea Excise Monopoly Tax",
+  "source_org": "Wikipedia 'Trans-Iranian Railway' article, citing Mikiya Koyagi's research",
+  "source_url": "https://en.wikipedia.org/wiki/Trans-Iranian_Railway",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION via WebFetch, direct fetch and confirmation.",
+  "retrieved_by": "claude (WebFetch)",
+  "retrieved_at_utc": "2026-07-12T23:16:45Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "7deb056de85d0190de4425fab0fdfa764ef33b86e857fbfbdec42729975fc4fe", "bytes": 846}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "single cumulative figure through fiscal year 1938-39",
+  "frequency": "single data point",
+  "topics": ["sugar", "tea", "state-monopoly", "trans-iranian-railway", "government-revenue", "reza-shah"],
+  "units": "rials",
+  "license_terms": "Wikipedia content, CC BY-SA.",
+  "notes": "Single contextual data point only, included to quantify the scale of the 1925 sugar/tea excise tax's most famous use (railway financing), which is otherwise documented only qualitatively in existing project sources (data/raw/pahlavi-era-primary-extraction/iranica-fiscal-system-narrative-series-1921-1979/ and Encyclopaedia Iranica FISCAL SYSTEM v. PAHLAVI PERIOD, already in data/raw/encyclopaedia-iranica/fiscal-system-v-pahlavi-period/). A genuine, repeatedly-searched-for target of this hunt -- a year-by-year sugar/tea tax REVENUE series (as opposed to this one cumulative railway-cost figure) -- was NOT found in freely accessible sources. Logged as a dead end; see failures.",
+  "failures": [
+    "Could not find a year-by-year or commodity-disaggregated (sugar vs. tea specifically) tax REVENUE series for the 1925-1941 excise/monopoly period despite multiple targeted searches. Likely exists in primary Majles budget-law archives (data/raw/majlis-historical-budget-laws/ already in this project) or Bharier/Karshenas's underlying tables (cited secondhand throughout Encyclopaedia Iranica but not reproduced in full online) -- a lead for a future session with access to those primary archives or the underlying academic monographs (not just their Iranica citations)."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1962-agriculturetable2-livestock-production-value",
+  "title": "Quantity and Gross Value of Livestock Products, Iran, 1960 (World Bank, 1962)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1962 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf), Chapter 1 (Agriculture), Table 2, page 7 (printed page -4-). Every value was verified by rendering the exact page to a high-resolution PNG (pdftoppm -r 200) and reading the table directly off the image, cross-checked against the raw pdftotext extraction to catch transcription slips (pdftotext badly garbled the Milk quantity row, e.g. '15ho,o00o', which the image confirmed reads 1,540,000). No value was interpolated, estimated, or fabricated. The 'Goat and camel hair' row has no quantity in the source (only a value); left blank here as in the source.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:17Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "ceb9d60ad478b88578fbc5cff9af62b3e79f8543a6e0dde8a8d222c4ed0639fd",
+      "bytes": 402
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1960",
+  "frequency": "annual (single-year snapshot)",
+  "topics": [
+    "agriculture",
+    "livestock",
+    "meat",
+    "dairy",
+    "gross-output",
+    "pahlavi-era"
+  ],
+  "units": "quantity in tons unless noted 'number' (i.e. head/piece count) in the quantity_unit column; value in Rls million. See data.csv column headers.",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf — Chapter 1 (Agriculture), Table 2, page 7 (printed page -4-). Source: Ministry of Agriculture (as cited in the original table). Companion table to wb1962-crop-land-production-value-1960 (crops, same page range, same source ministry, same year). The final row total (34,854 Rls million) is the sum of all value cells as printed in the source, not derived by this agent. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1962) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

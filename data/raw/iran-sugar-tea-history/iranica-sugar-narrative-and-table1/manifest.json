@@ -1,0 +1,23 @@
+{
+  "dataset_id": "iranica-sugar-narrative-and-table1",
+  "title": "Iran Sugar — Consumption, Imports by Country, and State Monopoly Production, 1890-2002 (Encyclopaedia Iranica)",
+  "source_org": "Encyclopaedia Iranica (article 'SUGAR' by Willem M. Floor), ultimately citing British consular Diplomatic and Consular Reports (DCR), the Dutch legation in Tehran, and the International Sugar Organization",
+  "source_url": "https://www.iranicaonline.org/articles/sugar-cultivation/",
+  "download_url": "https://www.iranicaonline.org/wp-content/uploads/2024/10/sugar_table_1.jpg",
+  "retrieved_at_utc": "2026-07-12T23:15:00Z",
+  "retrieved_by": "claude (Claude Browser tool for narrative text + curl for table image)",
+  "files": [
+    {"name": "sugar_table_1.jpg", "original_name": "sugar_table_1.jpg", "sha256": "8a10832e3b843422b96546850bd5af9ed5f52e6a330c0b8247ada83acb2aee3e", "bytes": 220921},
+    {"name": "data.csv", "original_name": null, "sha256": "5f9fd1f4790ee0fbfb5c253f41015470f8ed0827c34471edd1da6d4697f086e3", "bytes": 10819}
+  ],
+  "countries": ["IRN", "RUS", "FRA", "BEL", "AUT-HUN (historical)", "DEU", "IND (British India, historical)", "GBR", "TUR"],
+  "time_coverage": "1890-2002 (non-continuous)",
+  "frequency": "annual, sparse except Table 1 (1906/07-1913/14, near-continuous with a 1909-11 gap in the original source)",
+  "topics": ["sugar", "state-monopoly", "imports", "trade", "qajar-era", "pahlavi-era", "sugar-beet", "sugar-cane"],
+  "units": "mixed: tons, GBP, qerans, percent, days, tons/day, workers, factories, kg/person/year -- see unit column per row",
+  "license_terms": "Encyclopaedia Iranica content copyrighted, used here for non-commercial research/citation with full attribution.",
+  "notes": "This is the richest single source found in this hunt: a genuine numeric table (TABLE 1, 'Value of Loaf Sugar Imported into Persia from 1906-07 to 1913-14', a 9-country x 6-year breakdown in GBP) PLUS ~30 additional narrative-embedded numeric data points spanning 1890-2002, covering Qajar-era import competition (Russia vs. France vs. Belgium etc.), the 1932 founding of the modern state sugar-refining monopoly (8 factories, 4,200 workers, 34,000 tons output), postwar consumption/import data, 1970s-1980s consumption growth (650,000 tons in 1970 to 1,100,000 tons in 1980), and year-2000 production/trade figures (Iran ranked 7th largest global beet-sugar producer per the International Sugar Organization). TABLE 1 was VISUALLY VERIFIED by downloading the source's own table image (sugar_table_1.jpg, confirmed present via DOM inspection -- unlike the CARPETS articles, which had zero embedded table images) and reading it directly with the Read tool; no OCR was used. One arithmetic discrepancy is flagged in the 1906-07 row (country breakdown sums to ~0.3% more than the printed total) and transcribed as-printed without correction. One year was corrected from an evident single-digit typo in the source ('1656-57' -> 1956, explained in that row's notes) since 1656 is chronologically impossible for a topic that starts in the 1850s. This complements FAOSTAT (which independently covers Iran sugar-beet/cane physical production and trade quantity+value from 1961 onward -- confirmed via grep of data/raw/faostat/tcl-trade-crops-livestock/filtered_iran_and_comparators.csv) by covering: (a) the entire pre-1961 period FAOSTAT cannot reach, and (b) the fiscal/monopoly-structure dimension (workforce, factory count, state-monopoly status, import value BY COUNTRY OF ORIGIN) that FAOSTAT, as a pure production/trade-quantity database, never captures at any date.",
+  "failures": [
+    "Article references TABLE 2, TABLE 3, and TABLE 4 (import/export commodity shares, industry growth under the state monopoly, and 1997 UN sugar trade balance respectively) but only TABLE 1's image is hosted on the live site (confirmed: sugar_table_2.jpg through sugar_table_4.jpg all return HTTP 404). These three tables' data could not be recovered."
+  ]
+}

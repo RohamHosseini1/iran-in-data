@@ -1,0 +1,52 @@
+commodity,period,rural_000tons,urban_000tons,total_000tons,note
+wheat,1972,2935,1665,4600,
+wheat,1977,3158,2211,5369,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+wheat,1982_low,3319,2737,6056,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+wheat,1982_high,3341,2896,6237,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+meat_red,1972,150,270,420,
+meat_red,1977,197,446,643,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+meat_red,1982_low,235,594,829,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+meat_red,1982_high,262,750,1012,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+meat_white,1972,22,46,68,
+meat_white,1977,35,92,127,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+meat_white,1982_low,46,147,193,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+meat_white,1982_high,57,191,248,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+rice,1972,597,223,820,
+rice,1977,841,351,1192,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+rice,1982_low,1043,499,1542,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+rice,1982_high,1497,761,2258,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+sugar,1972,413,297,710,
+sugar,1977,527,402,929,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+sugar,1982_low,614,503,1117,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+sugar,1982_high,676,538,1214,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+vegetable_oil,1972,64,116,180,
+vegetable_oil,1977,80,168,248,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+vegetable_oil,1982_low,92,220,312,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+vegetable_oil,1982_high,100,243,343,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+eggs,1972,28,40,68,
+eggs,1977,33,65,98,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+eggs,1982_low,37,91,128,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+eggs,1982_high,39,107,146,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+pulses,1972,120,120,240,
+pulses,1977,160,170,330,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+pulses,1982_low,192,219,411,"Low growth scenario: 5.1% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 4.6% urban pop growth"
+pulses,1982_high,215,240,455,"High growth scenario: 9.5% p.a. growth in per-caput expenditure, 0.8% rural pop growth, 3.9% urban pop growth"
+dairy_fresh_milk,1972,90.9,67.9,158.8,
+dairy_fresh_milk,1977,124.0,113.9,237.9,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+dairy_cream,1972,1.5,1.0,2.5,
+dairy_cream,1977,2.2,2.1,4.3,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+dairy_yogurt,1972,317.6,138.1,455.7,
+dairy_yogurt,1977,370.0,191.8,561.8,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+dairy_butter,1972,10.2,11.0,21.2,
+dairy_butter,1977,13.6,22.7,36.3,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+dairy_cheese,1972,31.5,45.3,76.8,
+dairy_cheese,1977,44.2,66.0,110.2,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+dairy_ghee,1972,16.6,13.9,30.5,
+dairy_ghee,1977,20.8,19.3,40.1,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+dairy_powdered_milk,1972,0.05,0.6,0.65,
+dairy_powdered_milk,1977,0.06,0.9,0.96,"Projection assumes 8.3% annual growth in per-caput expenditure, 1.2% rural pop growth, 5.1% urban pop growth"
+feedgrains,1972,n.a.,n.a.,1100,"Calculated from incremental white/red meat, egg, milk grain-input ratios"
+feedgrains,1977,n.a.,n.a.,1980,
+feedgrains,1982_low,n.a.,n.a.,2950,
+feedgrains,1982_high,n.a.,n.a.,3270,
+dairy_total_raw_milk_equivalent,1977,n.a.,n.a.,2800,"Total raw milk equivalent, 1977 only"

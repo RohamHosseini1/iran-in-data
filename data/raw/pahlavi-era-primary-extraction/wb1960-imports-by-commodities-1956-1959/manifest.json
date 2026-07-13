@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1960-table17-imports-by-commodities",
+  "title": "Imports by Commodities, Iran, 1956/57-1958/59 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 17, page 54) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous throughout. As a cross-check, the 1956/57 value column (28.2+16.2+17.5+8.2+8.3+25.0+8.7+23.6+12.5+8.1+7.4+36.3+3.0+2.4+1.1+1.8+1.7+2.5+58.2) was summed and confirmed to equal the printed Total of 270.7. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:26:41Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "d7c098bb0097667f941d6b1dc269b6cd255190596c01af81974b9a265a9abb8c",
+      "bytes": 1278
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1956/57-1958/59",
+  "frequency": "annual (years ending March 20)",
+  "topics": [
+    "imports",
+    "trade",
+    "commodities",
+    "pahlavi-era"
+  ],
+  "units": "value columns in US dollar millions; pct columns are percentage distribution of total imports",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 17, page 54, source: Customs Administration, Tehran, Iran. Per source NOTE: data are based on customs returns and therefore not fully comparable with payments data shown in Tables 14 and 17 (as printed in the source; likely intends Table 15 for the second cross-reference, since Table 17 is this table itself -- transcribed exactly as printed without correcting the apparent self-reference typo). Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

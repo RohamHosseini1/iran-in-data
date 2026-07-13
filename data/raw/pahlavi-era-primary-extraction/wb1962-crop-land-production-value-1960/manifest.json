@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1962-agriculturetable1-crop-land-production-value",
+  "title": "Land Use by Type of Crop, Production and Gross Output of Crops in 1960, Iran (World Bank, 1962)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1962 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf), Chapter 1 (Agriculture), Table 1, page 6 (printed page -3-). The pdftotext -layout text layer for this page was already fairly close to correct, but every value was still independently verified by rendering the exact page to a high-resolution PNG (pdftoppm -r 200) and reading the table directly off the image, cross-checked against the raw pdftotext extraction to catch transcription slips (e.g. pdftotext rendered several thousands separators as semicolons, and the 'Tea' row's value cell had a stray leading print artifact that could be misread as a minus sign -- a further 2x-magnified crop of that row confirmed the value is a plain 909 with no sign). No value was interpolated, estimated, or fabricated; the blank Fodder production/value cells (crop grown for on-farm feed use, not marketed) are left blank as in the source, matching how the source table itself leaves them blank.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:17Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "66271c6b9dc7596fe0d98577377e91bfd358cc8b53cc9d88f55322a11766827c",
+      "bytes": 445
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1960",
+  "frequency": "annual (single-year snapshot)",
+  "topics": [
+    "agriculture",
+    "crop-production",
+    "land-use",
+    "gross-output",
+    "pahlavi-era"
+  ],
+  "units": "area in 1000 hectares; production in 1000 metric tons; value in Rls million. See data.csv column headers.",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf — Chapter 1 (Agriculture), Table 1, page 6 (printed page -3-). Source: Ministry of Agriculture (as cited in the original table). This is a single-year (1960) snapshot that usefully complements the already-extracted wb1960-agricultural-production-1950-1958 table (which covers 1950-1958 quantities only, without area or value): this table adds area planted and gross value in Rials for 1960, one year past the end of that series. 'Total for cereals' and the grand 'Total' rows are subtotals printed in the source table, not derived by this agent. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1962) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

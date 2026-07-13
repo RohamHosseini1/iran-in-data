@@ -1,0 +1,21 @@
+{
+  "dataset_id": "wb1972industrial-isfahan-steel-and-idro-capital-goods",
+  "title": "Isfahan Steel Mill (Aryamehr/NISC) Construction Staging, Financing and IDRO Capital-Goods Plants -- plus Textile and Automotive Price-Competitiveness Context (World Bank, 1972)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION from data/raw/world-bank-archives-iran/historical-documents/1972_industrial_policies_and_priorities.pdf (already present in archive, not previously mined). Text extracted via `pdftotext -layout` -- narrative prose rendered cleanly, no visual/PNG verification needed (contrast with the tabular dam datasets from the same round). This is a qualitative/narrative source (no numeric production table), transcribed as structured topic/item/detail rows rather than a raw data table.",
+  "retrieved_by": "claude (manual transcription)",
+  "retrieved_at_utc": "2026-07-13T00:22:21Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "77fe6035179fff11171e0ca31ef04370ff244008d12b587f349cd60371a64a63", "bytes": 5968}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1972 report, describing construction staged through end of the 1970s (Isfahan steel mill stages: mid-1972 / 1975 / late-1970s targets)",
+  "frequency": "single cross-section / narrative snapshot",
+  "topics": ["steel", "isfahan-steel-mill", "aryamehr", "idro", "automotive", "paykan", "textiles", "industrial-policy", "pahlavi-era", "import-substitution", "aluminum"],
+  "units": "narrative (see companion USGS Minerals Yearbook extraction for tonnage time series)",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Fills in the CONSTRUCTION TIMELINE/STAGING and FINANCING detail for the Isfahan Steel Mill that the companion usgs-minerals-yearbook/historical-pre1990-volumes/iran-production-extraction dataset's narrative captures only from the production-output angle -- together the two datasets give a fairly complete picture: site selection rationale (water availability), USSR gas-barter financing, the associated new town (Aryashar), and the three-stage capacity plan (750K tons by mid-1972 -> 2-2.5M tons by 1975 -> 4-5M tons by late 1970s), consistent with the actually-achieved 750,000 ton/year capacity reported operational in the USGS 1975 chapter. Also captures IDRO's other capital-goods plants (Arak aluminum with Reynolds -- cross-references the Iralco entry in the USGS 1975 Iran chapter; Arak heavy engineering; Tabriz machine-tool with Czechoslovak assistance; Tabriz agricultural equipment with Romanian assistance) and brief but concrete PAYKAN and TEXTILE price-competitiveness data points (Paykan only ~15% above an international competitive-tender price in Kuwait -- the most price-competitive Iranian manufactured good compared in the report's Annex Table 5). Companion datasets for the automotive and textile sectors specifically: data/raw/iran-automotive-industry/khodro-paykan-production-history/ and data/raw/iran-textile-industry/pahlavi-era-textile-sector-overview/. Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": []
+}

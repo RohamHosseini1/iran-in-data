@@ -1,0 +1,14 @@
+section,line_item,1957_06_20,1958_06_20,1959_06_20,unit,notes
+Deposit Banks (banks other than the National Bank),Cash,2.09,3.44,4.57,billion rials,
+Deposit Banks (banks other than the National Bank),Demand Deposits,3.30,5.10,7.66,billion rials,
+Deposit Banks (banks other than the National Bank),Time Deposits,0.32,0.38,1.98,billion rials,
+Deposit Banks (banks other than the National Bank),Excess Cash,1.58,2.66,3.32,billion rials,"Source prints both the row label '(Excess Cash)' and its values '(1.58)' '(2.66)' '(3.32)' in parentheses; interpreted as a memo/derived line rather than a negative figure (magnitude grows in step with Cash), but see manifest note on this ambiguity."
+Deposit Banks (banks other than the National Bank),Advances,5.01,7.22,13.70,billion rials,
+National Bank,Private demand deposits,11.11,13.85,16.05,billion rials,
+National Bank,Private time deposits,1.07,2.29,1.45,billion rials,
+National Bank,Private advances,7.41,10.46,13.56,billion rials,
+Deposit Banks as percent of Total deposits,Demand deposits,23,27,32,percent,
+Deposit Banks as percent of Total deposits,Time deposits,23,14,58,percent,
+Deposit Banks as percent of Total deposits,Advances,40,41,50,percent,
+Ratio of advances to "deposits",Private Banks,130,123,118,percent,"'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits"
+Ratio of advances to "deposits",National Bank,56,57,72,percent,"'Deposits' defined per footnote 1/ as demand deposits plus twice time deposits"

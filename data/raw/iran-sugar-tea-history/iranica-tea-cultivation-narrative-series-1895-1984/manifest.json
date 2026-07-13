@@ -1,0 +1,23 @@
+{
+  "dataset_id": "iranica-tea-cultivation-narrative-series-1895-1984",
+  "title": "Iran Tea — Cultivation Area, Production, Imports & State Tea Organization, 1895-1984 (Encyclopaedia Iranica)",
+  "source_org": "Encyclopaedia Iranica (article 'TEA' by Daniel Balland & Marcel Bazin), ultimately citing British consular reports, Ehlers 1970, Van Puymbroeck & Farhadi 1972 (Center for Agricultural Marketing Development, Tehran), and the Statistical Centre of Iran",
+  "source_url": "https://www.iranicaonline.org/articles/cay-tea/",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION of numeric values embedded in narrative prose, read in full via the Claude Browser tool's get_page_text (iranicaonline.org blocks WebFetch with HTTP 403). No table images present on this article (unlike the sibling SUGAR article) -- confirmed narrative-only. No interpolation or estimation was performed; several rows are explicitly ranges given in the source (e.g. '32,000-37,000 tons/year, 1980-84') and were split into two rows (low/high end, each tagged with a representative year) to preserve chartability without fabricating an implied trend between them.",
+  "retrieved_by": "claude (manual transcription from live-rendered Encyclopaedia Iranica page text)",
+  "retrieved_at_utc": "2026-07-12T23:15:39Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "f9c81474595fcd5cb56317a600754d0d95db3b39db406d2ed3865fc273df7aa0", "bytes": 5234}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1895-1984 (non-continuous)",
+  "frequency": "annual, sparse",
+  "topics": ["tea", "state-monopoly", "iran-tea-organization", "iran-tea-company", "cultivation", "imports", "gilan", "lahijan", "kashef-al-saltaneh"],
+  "units": "mixed: hectares, tons/year, pounds, percent, factories, people -- see unit column per row",
+  "license_terms": "Encyclopaedia Iranica content copyrighted, used here for non-commercial research/citation with full attribution.",
+  "notes": "Documents Iran's tea industry from its pre-cultivation import-only era (1895: up to 2 million pounds imported from India) through Kashef-al-Saltaneh's 1902 smuggled-seedling origin story, the state-driven 1930s-1970s expansion (100 ha in 1920 -> 24,000+ ha by 1968), and the founding of the state Iran Tea Organization (1958, renamed Iran Tea Company 1968). Complements FAOSTAT (which independently covers Iran tea-leaf production/trade quantity+value from 1961 onward, confirmed via grep of data/raw/faostat/tcl-trade-crops-livestock/filtered_iran_and_comparators.csv) by covering: (a) the entire pre-1961 cultivation-area buildout FAOSTAT cannot reach, and (b) structural/state-monopoly detail (factory counts, ownership split between state-owned vs. state-leased-private factories, government-set purchase prices, smuggling estimates) that FAOSTAT never captures. Note some rows encode a source-given RANGE split across two representative years (e.g. 1971 and 1973 for the 'early 1970s: 15,000-19,000 tons' production figure) -- this is a presentation choice to keep the CSV chartable, not two independent data points; see each row's notes for the original range.",
+  "failures": [
+    "No numeric time series found for tea specifically as a state MONOPOLY-REVENUE line item (i.e. tax/customs revenue in rials attributable to tea, parallel to the 1929 tobacco 3.5%-of-revenue figure found for tobacco) -- the 1925 sugar+tea excise tax that helped fund the Trans-Iranian Railway is well-documented qualitatively (see sibling dataset trans-iranian-railway-financing-context) but no tea-specific annual revenue breakdown was found in freely accessible sources this session."
+  ]
+}

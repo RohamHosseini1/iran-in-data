@@ -1,0 +1,21 @@
+{
+  "dataset_id": "wb1967ghazvin-project-cost-and-parameters",
+  "title": "Ghazvin (Qazvin) Area Development Project -- Cost Estimate, Financing Plan and Key Irrigation/Population Parameters (World Bank Appraisal, 1967)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION from data/raw/world-bank-archives-iran/historical-documents/1967_ghazwin_development_project_appraisal.pdf (52 pages, already present in archive, not previously mined). Text extracted via `pdftotext -layout`; the cost-estimate and expenditure-schedule tables (paras 4.21-4.24) and the project-area/irrigation-area figures (paras 3.04-3.10, 4.02) rendered cleanly in the text layer with no column-scrambling, so no PNG visual-verification pass was needed for this document (contrast with the Dez appraisal, wb1960dez-*, which did require it). Figures transcribed exactly as printed.",
+  "retrieved_by": "claude (manual transcription)",
+  "retrieved_at_utc": "2026-07-13T00:04:05Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "0c06c6ba137c65646f81bc7aa7806afbc2173a61ad6504e13c085dc997acb9fa", "bytes": 2545}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1967 appraisal, referencing pre-project baseline expenditure 1964-Sept.1967 and a forward 5-year construction schedule",
+  "frequency": "single cross-section (project cost estimate, not a time series)",
+  "topics": ["water-infrastructure", "irrigation", "groundwater", "ghazvin-qazvin", "world-bank-projects", "pahlavi-era", "rural-development", "land-reform"],
+  "units": "mixed -- see notes column; primarily US$ million (cost/financing tables) and hectares (irrigation area)",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "IMPORTANT SCOPE NOTE: this is NOT a large-dam construction project like Dez -- it is a rural irrigation/agricultural-credit development project for the Qazvin (Ghazvin) plain west of Tehran, centered on deep-well groundwater pumping plus some surface-water development, rural credit, mechanization and extension services (Loan 517-IRN, US$22 million). Captured under this project's water-infrastructure/dams hunt because it is the only OTHER already-downloaded, previously-unmined World Bank Iran water-sector appraisal alongside Dez, and its Annex 11 (not transcribed into this CSV) is a legally interesting institutional charter for the Tehran Regional Water Board that names Karaj Dam Power Station, Latian Dam (under construction at the time), Varamin irrigation system, and the Karaj/Jajrud/Shahrud/Lar river catchments as under that Board's authority -- flagged as a lead for a future dedicated Karaj/Latian Dam appraisal-document hunt (see companion round notes in SOURCES.md Round 38), since this document itself contains no quantitative capacity/cost data for those specific dams. Companion dataset: wb1978ghazvin-project-completion-outcomes (actual vs. appraised results for this same project, from a 1978 World Bank Project Performance Audit Report). Part of this project's systematic Pahlavi-era World Bank PDF mining effort (Round 38).",
+  "failures": []
+}

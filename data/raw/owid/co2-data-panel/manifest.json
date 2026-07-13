@@ -1,0 +1,53 @@
+{
+  "dataset_id": "owid-co2-data-panel",
+  "title": "OWID CO2 and Greenhouse Gas Emissions — complete compiled country-year panel (owid/co2-data)",
+  "source_org": "Our World in Data",
+  "source_url": "https://github.com/owid/co2-data",
+  "download_url": "https://github.com/owid/co2-data",
+  "retrieved_at_utc": "2026-07-12T17:27:45Z",
+  "retrieved_by": "agent:owid-download",
+  "files": [
+    {
+      "name": "owid-co2-codebook.csv",
+      "original_name": null,
+      "sha256": "33b4f5e00efd58c7b83863f736beba1af4df946b43642b0400c3ec38648e0e8e",
+      "bytes": 24149,
+      "source_url": "https://github.com/owid/co2-data",
+      "download_url": "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-codebook.csv"
+    },
+    {
+      "name": "owid-co2-data.csv",
+      "original_name": null,
+      "sha256": "7f78e2b218ce4bb8c538bbec04fdc9a7982e8d40bff972e650df603899edd5f6",
+      "bytes": 14377942,
+      "source_url": "https://github.com/owid/co2-data",
+      "download_url": "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv",
+      "time_coverage": "1750-2024"
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "1750-2024",
+  "frequency": "annual",
+  "topics": [
+    "co2-emissions",
+    "greenhouse-gases",
+    "energy"
+  ],
+  "units": "per chart — see each <slug>.metadata.json (grapher) or codebook CSV (panels)",
+  "license_terms": "CC BY 4.0 (Our World in Data); underlying third-party data subject to original providers' terms — see metadata.json/codebook for source-level citations",
+  "notes": "Compiled OWID panel from GitHub master branch; codebook CSV describes every column. Wide format, one row per country-year, ISO3 in 'iso_code'.",
+  "failures": []
+}

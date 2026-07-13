@@ -1,0 +1,19 @@
+{
+  "dataset_id": "oecd-household-financial-dashboard",
+  "title": "OECD Household Indicators Dashboard — Country View (disposable income, debt, savings, net worth)",
+  "source_org": "OECD (Statistics and Data Directorate, National Accounts Division)",
+  "source_url": "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_HHDASH@DF_HHDASH_CTRY&df[ag]=OECD.SDD.NAD",
+  "download_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_HHDASH@DF_HHDASH_CTRY,1.0/.KOR+TUR+ESP+PRT+GRC+USA+DEU+FRA+GBR+ITA+NLD+SWE..?dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+  "retrieved_at_utc": "2026-07-12T18:24:30Z",
+  "retrieved_by": "agent:oecd",
+  "files": [
+    {"name": "household-financial-dashboard_2026-07-12.csv", "original_name": null, "sha256": "d16e855468f4acb6270fa321dad3d16a0ba666ccb07f793f24f10846a63bd7c7", "bytes": 6971189}
+  ],
+  "countries": ["KOR", "TUR", "ESP", "PRT", "GRC", "USA", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "varies by series, mostly ~1995/2007–2026 Q1/Q2, quarterly and annual",
+  "frequency": "quarterly (mixed with some annual series)",
+  "units": "index, national currency, percent, and ratios — described per-row in MEASURE/UNIT_MEASURE columns",
+  "license_terms": "OECD Terms and Conditions — free reuse with attribution",
+  "notes": "SDMX dataflow OECD.SDD.NAD:DSD_HHDASH@DF_HHDASH_CTRY(1.0), 'Household indicators dashboard – country view'. This is OECD's household financial-well-being dashboard: real GDP per capita, real/gross household disposable income per capita, household net saving/savings rate, household debt (LES1M_FD4, gross debt of households and NPISH), net financial worth, financial assets composition, consumer confidence, unemployment. No single dedicated 'household debt-to-income ratio' MEASURE code exists in this dataflow's codelist (CL_MEASURE_NA_DASH) — debt (LES1M_FD4) and disposable income (B6GS1M_POP etc.) are both present as separate series so the ratio can be derived downstream. No country/measure sub-filter applied beyond REF_AREA — full dashboard breadth kept since task scope was 'financial dashboard indicators' broadly. Key used: '.{REF_AREA}..' i.e. FREQ and MEASURE/UNIT_MEASURE left unfiltered.",
+  "failures": []
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_id": "usbm1963-aioc-profits-royalties-1910-1951",
+  "title": "Anglo-Iranian Oil Company (AIOC) Net Profits, UK Tax Payments, and Iran Royalty Payments, 1910-1951",
+  "source_org": "US Bureau of Mines Information Circular 8203 (1963), Table 2 (p.17)",
+  "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:19Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "pdftoppm -r 150 render to PNG (PDF page 25) + Read tool visual verification. Column totals cross-checked against source-printed TOTAL row (244,222 / 154,544 / 119,767) -- matches.",
+  "files": [
+    {"name": "aioc_profits_uk_taxes_iran_royalties_1910_1951.csv", "original_name": null, "sha256": "d110b9d626bf93aa0f4ffa19e31f7212bff2918a2ecaf8b77cefd93f8aa6e348", "bytes": 1655}
+  ],
+  "countries": ["IRN", "GBR"],
+  "time_coverage": "1910-1951 (pre-nationalization AIOC era)",
+  "frequency": "annual (1910-32 aggregated as a single row in the source)",
+  "topics": ["oil", "AIOC", "royalties", "pre-nationalization", "D'Arcy Concession", "1933 concession revision"],
+  "units": "GBP thousand (pounds sterling, thousands)",
+  "license_terms": "US Government publication, public domain",
+  "notes": "The pre-1954 predecessor series to usbm1963-consortium-disbursements-1954-1962 -- together the two datasets span AIOC/Consortium oil-sector payments to Iran continuously from 1910 to 1962, a 52-year span, bridging the D'Arcy Concession era (1910-32), the 1933 revised concession (1933-51), the 1951-54 nationalization crisis (data gap, income from foreign sales 'negligible' per source narrative), and the post-1954 Consortium era. Genuinely complements (does not duplicate) the existing 'Pahlavi-era oil revenue/exports 1955/56-1970/71' series already in this project (per DATA_INVENTORY.md section 2) by reaching back an additional ~45 years earlier. War-years royalty guarantees (1939-43) are footnoted with both the guaranteed-minimum figure actually paid AND the lower counterfactual figure that would have applied without the guarantee -- both preserved in the notes column, not just the paid figure.",
+  "failures": []
+}

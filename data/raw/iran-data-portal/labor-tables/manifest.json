@@ -1,0 +1,71 @@
+{
+  "dataset_id": "labor-tables",
+  "title": "Iran Data Portal — Labor & Social Affairs tables (labor force, employment, social security)",
+  "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+  "source_url": "https://irandataportal.syr.edu/labor-social-affairs/",
+  "download_url": "see per-file download_url",
+  "retrieved_at_utc": "2026-07-12T18:24:29Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "labor_force_participation_rate_2005-2014.xlsx",
+      "original_name": "Labor-force-participation-rate.xlsx",
+      "sha256": "87f801c6f3e39b2f4b5353cf1b6f51de01bd126bb4b271941b94b8c4d343d218",
+      "bytes": 10948,
+      "table_title": "Labor Force Participation Rate for Urban and Rural Areas by Gender (2005-2014)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/Labor-force-participation-rate.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/labor-force/"
+    },
+    {
+      "name": "labor_force_by_occupation_and_gender_2005-2014.xlsx",
+      "original_name": "Labor-Force-By-Occupation-and-Gender-in-Urban-and-Rural-Areas-2005-2014.xlsx",
+      "sha256": "42f3ec8c7bb9c98b794244f8467182c62df88f2b07e59a7c1f11c4464f9fad57",
+      "bytes": 62684,
+      "table_title": "Labor Force by Occupation and Gender in Urban and Rural Areas (2005-2014)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/Labor-Force-By-Occupation-and-Gender-in-Urban-and-Rural-Areas-2005-2014.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/labor-force/"
+    },
+    {
+      "name": "employed_persons_by_sector_1956-2011.xlsx",
+      "original_name": "Number-of-Employed-Persons-in-Iran-by-sector-1956-2011.xlsx",
+      "sha256": "9ba243a9778a2d1dee0a42c09a5ca6d9521f3dc519816cef45099c06bea5c94b",
+      "bytes": 56698,
+      "table_title": "Number of Employed Persons in Iran by Sector (1956-2011)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/Number-of-Employed-Persons-in-Iran-by-sector-1956-2011.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/labor-force/"
+    },
+    {
+      "name": "employed_population_by_gender_1966-2011.xlsx",
+      "original_name": "Employed-Population-by-Gender-1966-2011.xlsx",
+      "sha256": "90e155fa594211958500e3e604ea6a07692d79945c963e9c3422556b53c3ee98",
+      "bytes": 41782,
+      "table_title": "Employed Population by Gender (1966-2011)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/Employed-Population-by-Gender-1966-2011.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/labor-force/"
+    },
+    {
+      "name": "ssi_pensioners_and_amounts_paid_1991-2006.xlsx",
+      "original_name": "24.-pensioners-covered-by-the-social-security-organization-and-the-amounts-paid-1370-1385-1991-2006-.xlsx",
+      "sha256": "a3add174d292091906248a712b0d115c12b6a814c7716f7424ab18b2dcfc6f02",
+      "bytes": 12138,
+      "table_title": "Pensioners Covered by the Social Security Organization and the Amounts Paid, 1370-1385 (1991-2006)",
+      "download_url": "https://irandataportal.syr.edu/wp-content/uploads/24.-pensioners-covered-by-the-social-security-organization-and-the-amounts-paid-1370-1385-1991-2006-.xlsx",
+      "topic_page": "https://irandataportal.syr.edu/welfare-social-security/"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1956-2014 (varies by table)",
+  "frequency": "annual (some quarterly/monthly)",
+  "topics": [
+    "labor force",
+    "employment",
+    "social security",
+    "pensions"
+  ],
+  "units": "described within each spreadsheet/PDF (rial, physical quantities, index points, etc.)",
+  "license_terms": "Iran Data Portal public academic mirror; underlying data originally from SCI/CBI/ministries, no explicit license stated on site",
+  "notes": "irandataportal.syr.edu was directly reachable (HTTP 200, no bot-challenge or geo-block) — no Wayback fallback needed for this source. Original tables are mirrors of Statistical Centre of Iran (SCI) Statistical Yearbook data and CBI series, re-hosted in English-labeled Excel/PDF format by Syracuse University's Moynihan Institute. Selected the most data-rich, economically relevant tables from this topic page (and its listed sub-topic pages) to avoid duplicating files already downloaded by other sessions into iran-plan-budget-org (five-year development plans, annual budget laws) and iran-census (census data) folders in this same repo.",
+  "failures": []
+}

@@ -1,0 +1,68 @@
+{
+  "dataset_id": "iran-parallel-fx-1979-2010-research",
+  "title": "Iran parallel/black-market USD-IRR exchange rate, 1979-2011 -- targeted gap-fill research round",
+  "source_org": "Multiple (see per-row citations in data.csv); primary sources are Bahmani-Oskooee (2005, Iranian Economic Review, University of Tehran) and World Bank Report No. 22953-IRN (2001), with 2004-2011 annual anchors compiled via Wikipedia's transcription of Central Bank of Iran Annual Review 2013/14 + CIA World Factbook, and one PBS Frontline/Tehran Bureau (2012) narrative figure",
+  "source_url": "https://ier.ut.ac.ir/article_30891.html ; https://documents1.worldbank.org/curated/en/122611468752357210/pdf/multi0page.pdf ; https://en.wikipedia.org/wiki/Iranian_rial ; https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/10/business-the-rials-freefall-a-historical-perspective.html",
+  "download_url": "https://ier.ut.ac.ir/article_30891_cc9816769f0293f06d92344e31426eea.pdf ; https://documents1.worldbank.org/curated/en/122611468752357210/pdf/multi0page.pdf",
+  "retrieved_at_utc": "2026-07-13T13:01:54Z",
+  "retrieved_by": "claude (targeted research task: close the 1979-2010 Iran parallel-FX gap flagged in docs/bookkeeping.md and data/processed/fx_cpi_lookup_irn.json)",
+  "extraction_method": "Bahmani-Oskooee (2005) PDF is a scanned image (no text layer, CCITT-Fax-compressed) -- rendered to PNG at 300dpi via pdftoppm and read visually page-by-page; independently cross-checked against a full tesseract OCR pass of the same pages, which matched the visual read exactly (zero discrepancies) for both data-table pages (pp.18-19, covering 1977-2003). World Bank Report 22953-IRN has a working text layer, extracted directly via pdftotext and grepped for rate figures. Wikipedia's exchange-rate table figures (2004-2011 annual anchors) were read directly from the rendered page and cross-checked against the underlying citation footnotes (which point to Central Bank of Iran, \"Annual Review 2013/14\", and CIA World Factbook) via the page's own cite-note HTML -- the primary CBI PDF itself could not be independently re-fetched (cbi.ir is geo-blocked from this environment, consistent with every other CBI/domestic-Iran-site access attempt across this project; its Wayback Machine mirror was also inaccessible because this session's browser tool blocks read access to the web.archive.org domain specifically) -- flagged per-row as one hop removed from the primary document, not independently re-verified against the raw CBI PDF.",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "7a47e2b9d42ed8cc2499c3562eb8ca632bc0c3784f1cea76d6e1b7bebe8ad956",
+      "bytes": 207054,
+      "description": "311 rows: 300 monthly black-market rial/USD rates (Jan 1979-Dec 2003, from Bahmani-Oskooee 2005 Table 4) + 11 additional anchor points (2001, 2004-2011) from World Bank, Wikipedia/CBI, and PBS Frontline sources. Schema: year, date_if_more_precise, rial_per_usd_parallel, source_confidence[directly_observed|derived_from_premium], citation, notes."
+    },
+    {
+      "name": "bahmani_oskooee_2005_history_of_rial_fx_policy_iran.pdf",
+      "original_name": "article_30891_cc9816769f0293f06d92344e31426eea.pdf",
+      "sha256": "83fff7f0b632b602ae43d47cc1cfe57e3b1760e30dbc3c1e1f074cc2a424e715",
+      "bytes": 911205,
+      "description": "Bahmani-Oskooee, Mohsen (2005), 'History of the Rial and Foreign Exchange Policy in Iran,' Iranian Economic Review Vol.10 No.14 (Fall 2005), 20 pages. Author is Wilmeth Professor of Economics, University of Wisconsin-Milwaukee; paper acknowledges input from Dr. Hadi Mahdavian of the Central Bank of Iran. Table 4 (pp.16-19) is a complete MONTHLY black-market rial/USD series, January 1947 through December 2003, end-of-month values, sourced by the author to the World Currency Yearbook (formerly Pick's Currency Yearbook) for Jan 1947-Jun 1989 and directly to the Central Bank of the Islamic Republic of Iran for Jul 1989-Dec 2003. This single table closes nearly the entire 1979-2010 gap flagged in docs/bookkeeping.md."
+    },
+    {
+      "name": "wb_report_22953irn_iran_trade_and_fx_policies_2001.pdf",
+      "original_name": "multi0page.pdf",
+      "sha256": "9305d3baa29a9177a403825b4e78d04f681d14868f6a57758e263a26d0037edc",
+      "bytes": 6580307,
+      "description": "World Bank Report No. 22953-IRN, 'Iran: Trade and Foreign Exchange Policies in Iran -- Reform Agenda, Economic Implications and Impact on the Poor' (Nov 1, 2001), 106 pages, Social and Economic Development Group, Middle East and North Africa Region. Front-matter 'Currency Equivalents' box gives a dated (Nov 1, 2001) snapshot of both the official rate (Rls 1,750) and the Tehran Stock Exchange/market rate (Rls 7,970) -- an independent primary-source cross-check against Bahmani-Oskooee's CBI-sourced Nov/Dec-2001 figures (7,999 both months). Also documents the full 1997-2000 four-tier exchange-rate structure (official floating, official export, TSE, unofficial negotiated) in detail, and narrates the 1998-2000 TSE-rate depreciation steps."
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1979-2011 (primary: monthly Jan 1979-Dec 2003; supplementary annual/point anchors 2001, 2004-2011)",
+  "frequency": "monthly (1979-2003), annual or single-date point observations (2001, 2004-2011)",
+  "topics": ["fx", "exchange-rate", "parallel-market", "black-market", "rial", "islamic-republic-era"],
+  "units": "rials per US dollar",
+  "license_terms": "Iranian Economic Review (University of Tehran) -- open-access academic journal, no login required. World Bank -- open Documents & Reports repository. Wikipedia -- CC BY-SA. PBS Frontline/Tehran Bureau -- publicly accessible news article.",
+  "mission_context": "Direct follow-up to the project owner's explicit 2026-07-13 instruction that ALL Islamic-Republic-era (1979-present) USD conversions must use the parallel/black-market rate, never the official rate (official tiers are 'scarce and never available to most of public and any of the private sector'). docs/bookkeeping.md 'Currency & inflation-adjustment conventions' and scripts/analysis/build_fx_cpi_lookup.py both flagged 1979-2010 as a real, unfilled gap -- the only source found in the prior round (Mazarei 1995 IMF working paper, data/raw/imf-iran-parallel-fx-history/mazarei-1995-parallel-market-1978-1990/) gave only summary statistics (mean monthly % change, a single Dec-1990 premium figure), not a usable rate level. This round closes that gap for the great majority of 1979-2010 with a real, dated, directly-observed monthly series.",
+  "result_summary": "1979-2003 (25 years, 300 months): fully covered, monthly, directly_observed, single authoritative peer-reviewed academic source (Bahmani-Oskooee 2005) whose own table is itself sourced to a for-profit currency-data publisher (World Currency Yearbook/Pick's) for the pre-mid-1989 segment and directly to the Central Bank of Iran for mid-1989 onward. 2001 gets an independent second-source cross-check (World Bank). 2004-2011 (8 years): covered at ANNUAL granularity (plus one mid-2004 exact-date spot observation) via a secondary compilation (Wikipedia's transcription of CBI Annual Review 2013/14 figures, cross-validated in one year -- 2009 -- against an independently-cited Wall Street Journal figure on the same page) -- real and dated, but one hop removed from the primary CBI document since cbi.ir and its Wayback mirror were both inaccessible this round. 2011 anchors directly into the project's existing TGJU daily series (data/processed/iran_trade_institutions_fx_series/usd_irr_parallel_rate_daily_2011_2026.csv, which begins 2011-11-26), and the two sources are mutually consistent at that seam. NET RESULT: of the 32-year gap (1979-2010) flagged in the codebase, 33 of 33 years 1979-2011 now have at least one real, dated, cited data point; 25 of those years have a complete monthly series.",
+  "failures": [
+    {
+      "attempted": "Steve Hanke / Johns Hopkins-Cato 'Troubled Currencies Project' historical Iran data reaching back before 2011",
+      "outcome": "Not found. WebSearch confirms the project exists and covers Iran, but its own origin story is explicitly tied to Iran's 2012 inflation crisis ('the idea for the Troubled Currencies Project arose out of Iran's inflation crisis in the fall of 2012') -- strongly implying it has no pre-2012 Iran coverage. Did not find a historical-archive page or dataset predating 2012 on cato.org or sites.krieger.jhu.edu.",
+      "note": "Not pursued further given the strong post-2012-origin signal and the much stronger sources found elsewhere this round."
+    },
+    {
+      "attempted": "Bonbast.com historical archive reaching back before 2011/2012",
+      "outcome": "Confirmed NOT available. Search results explicitly state 'the date range for bonbast's historical data is valid from 2012-10-09 onwards' -- bonbast.com itself, and the GitHub archive mirrors of it, do not extend before this date.",
+      "note": "Genuine dead end, not a fetch failure -- the data does not exist on this platform for the target period."
+    },
+    {
+      "attempted": "web.archive.org (Wayback Machine) access to the archived Central Bank of Iran 'Annual Review 2013/14' PDF and the archived farsinet.com exchange-rate history page (both cited by Wikipedia's 'Iranian rial' article as sources for its exchange-rate table)",
+      "outcome": "This session's browser tool returned 'This site requires per-action approval; Browser read tools are not available on it' for every web.archive.org URL tried (both navigate+get_page_text). WebFetch separately refused web.archive.org entirely ('Claude Code is unable to fetch from web.archive.org'). farsinet.com itself is fully dead (DNS NXDOMAIN via WebFetch, navigation denied via browser).",
+      "note": "Worked around by citing Wikipedia's own transcription of these sources instead (with the one-hop-removed caveat recorded on every affected data.csv row) rather than fabricating or guessing the primary figures. A future round with different tool access could re-attempt a direct CBI Annual Review 2013/14 fetch."
+    },
+    {
+      "attempted": "Steve Hanke / IMF eLibrary chapters 9 and 11 (of 'Macroeconomic Issues and Policies in the Middle East and North Africa') for a possible multi-year printed data table",
+      "outcome": "Both chapters fetched successfully (via WebFetch's AI-mediated summary, not raw text) and yielded real, useful narrative figures for 1991-1997 (documented in the discarded-figures note below), but explicitly state they contain 'no multi-year statistical tables' -- narrative discussion only.",
+      "note": "Not a dead end exactly -- real information was extracted -- but the specific ask (a printed table) was not present in this source. Bahmani-Oskooee's Table 4 filled this exact need instead, from an independent source, with higher precision (monthly vs. narrative mentions)."
+    },
+    {
+      "attempted": "Deliberately excluded a set of internally-conflicting or ambiguous figures found this round, rather than force them into data.csv",
+      "outcome": "(1) PBS Frontline/Tehran Bureau's anecdote that in 1993 people 'buy dollars inside a bank at 4,000 rials each only to sell them to free agents for 7,000' -- these numbers do not match ANY month of Bahmani-Oskooee's directly-CBI-sourced 1993 series (1,579-2,089 across all 12 months), a discrepancy of roughly 2-3x. Likely a distorted/rounded oral-history recollection published nearly 20 years after the fact, not a precisely dated data point; excluded rather than reconciled. (2) A claim (surfaced via IMF eLibrary WebFetch summary, and separately via World Bank Report 22953-IRN's pdftotext extraction) that the 'free exchange rate' or 'authorized dealers' rate' reached 6,200 rials/dollar in either May 1995 or in 1996 (following the D'Amato Act) -- Bahmani-Oskooee's table shows a maximum of 5,118 in 1995 and 4,837 in 1996, neither reaching 6,200 in either year. Most likely this figure refers to a different, narrower exchange-rate tier (the WB report separately documents an 'authorized dealers' rate' and a 'negotiated rate' as distinct from the general black-market/TSE rate) rather than a contradiction of the headline black-market series, but the exact tier and date could not be confidently resolved this round -- excluded from data.csv rather than guessed. (3) A MERIP Reports (July 1981) contemporary account mentioning 'the more realistic rate of 100 rials = $1; some transactions are now carried out at about this rate' -- ambiguous whether this describes a proposed administrative devaluation target or an actual free-market transaction rate, and it sits well below Bahmani-Oskooee's directly-CBI/WCY-sourced 1981 range (215-400) for the same year -- excluded as likely describing a different (narrower/quasi-official) rate tier, not the general black market.",
+      "note": "This is the project's zero-fabrication discipline applied to a 'which real source do I trust' problem rather than a 'no source exists' problem -- Bahmani-Oskooee's peer-reviewed, CBI/WCY-cited, internally consistent monthly series was treated as authoritative over vaguer or conflicting secondary mentions for the same window."
+    }
+  ]
+}

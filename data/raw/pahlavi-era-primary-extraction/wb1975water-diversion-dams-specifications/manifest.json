@@ -1,0 +1,21 @@
+{
+  "dataset_id": "wb1975water-annex4-table4.2-diversion-dams-specifications",
+  "title": "Specifications of Constructed Diversion Dams in Iran (small-scale irrigation diversion structures, 1937-1967)",
+  "source_org": "Iran Plan Organization (cited by World Bank appraisal mission)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION with visual verification. Source: data/raw/world-bank-archives-iran/historical-documents/1975_water_supply_sewerage_vol2_annexes.pdf, Volume II Annex 4 Table 4.2, PDF page 32. Rendered to PNG at 300 DPI via `pdftoppm -png -r 300 -f 32 -l 32` and read directly with the Read tool -- this table (5 clean columns, no left/right split needed) was fully legible in the image with no ambiguous cells.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-13T00:07:58Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "96a1dd39cab9d12819152c0f3862bacf3587f8e49c88ff17f3abee69d8f9c696", "bytes": 641}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1937-1967",
+  "frequency": "single cross-section (list of 15 dams with individual utilization dates)",
+  "topics": ["dams", "water-infrastructure", "irrigation", "diversion-dams", "pahlavi-era", "reza-shah-era"],
+  "units": "length/height in metres, cultivation area in hectares",
+  "license_terms": "World Bank Archives — public disclosure authorized document; underlying data originally compiled by Iran's Plan Organization",
+  "notes": "Much smaller-scale structures than the major reservoir dams in the companion Table 4.1 dataset (wb1975water-major-dams-specifications-1971) -- these are diversion dams (weirs redirecting river flow into irrigation canals, not large storage reservoirs), spanning both the late-Reza-Shah era (Shavor 1937, Kheyrabad 1940) and the early-to-mid Mohammad Reza Shah era through 1967. Zabol/Zahak/Kohak entries reflect Sistan-basin irrigation infrastructure on the Hirmand/Helmand river system near the Afghan border. Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": []
+}

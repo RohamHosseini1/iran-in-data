@@ -1,0 +1,52 @@
+{
+  "dataset_id": "owid-trade",
+  "title": "OWID Grapher charts — Trade (trade as share of GDP)",
+  "source_org": "Our World in Data",
+  "source_url": "https://ourworldindata.org/grapher",
+  "download_url": "https://ourworldindata.org/grapher/{slug}.csv (per-file URLs in files[])",
+  "retrieved_at_utc": "2026-07-12T17:25:52Z",
+  "retrieved_by": "agent:owid-download",
+  "files": [
+    {
+      "name": "trade-as-share-of-gdp.csv",
+      "original_name": null,
+      "sha256": "5c5803e9d8744f95091f0b82915fe5adcc64c8b3829ca1bd9578fda31ab63b24",
+      "bytes": 278765,
+      "source_url": "https://ourworldindata.org/grapher/trade-as-share-of-gdp",
+      "download_url": "https://ourworldindata.org/grapher/trade-as-share-of-gdp.csv",
+      "time_coverage": "1960-2024"
+    },
+    {
+      "name": "trade-as-share-of-gdp.metadata.json",
+      "original_name": null,
+      "sha256": "3560218dc6ee5793c526900784e768511934ecdb931a1ca1108b28d9a59b9b49",
+      "bytes": 2107,
+      "source_url": "https://ourworldindata.org/grapher/trade-as-share-of-gdp",
+      "download_url": "https://ourworldindata.org/grapher/trade-as-share-of-gdp.metadata.json"
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "1960-2024",
+  "frequency": "annual",
+  "topics": [
+    "trade",
+    "openness"
+  ],
+  "units": "per chart — see each <slug>.metadata.json (grapher) or codebook CSV (panels)",
+  "license_terms": "CC BY 4.0 (Our World in Data); underlying third-party data subject to original providers' terms — see metadata.json/codebook for source-level citations",
+  "notes": "Each chart = <slug>.csv (data, long format: Entity,Code,Year,value...) + <slug>.metadata.json (units, sources, citations) from the OWID Grapher CSV API. Per-file time coverage recorded in files[].time_coverage. All-country files kept deliberately (natural download unit; enables adding comparators).",
+  "failures": []
+}

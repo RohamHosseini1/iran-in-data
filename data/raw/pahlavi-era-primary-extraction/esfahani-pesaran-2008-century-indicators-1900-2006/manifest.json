@@ -1,0 +1,38 @@
+{
+  "dataset_id": "esfahani-pesaran-2008-table1-century-indicators",
+  "title": "Iran: Key Development Indicators, 1900 vs. 2006 (Esfahani & Pesaran, 2008, Table 1)",
+  "source_org": "Hadi Salehi Esfahani (University of Illinois) and M. Hashem Pesaran (University of Cambridge)",
+  "source_url": "https://files.econ.cam.ac.uk/people-files/mhp1/wp08/",
+  "download_url": "https://files.econ.cam.ac.uk/people-files/mhp1/wp08/EsfahaniandPesaran17March08(IranianEconomyinTwentiethCentury).pdf",
+  "extraction_method": "MANUAL TRANSCRIPTION from a modern, cleanly text-extractable academic PDF (data/raw/historical-docs/esfahani-pesaran-2008/EsfahaniandPesaran17March08(IranianEconomyinTwentiethCentury).pdf, 35 pages; this project's earlier check found 77,723 characters of clean extracted text). Table location found via pdftotext -layout piped through a form-feed page split, searching for 'Table' headings. The document contains only two genuine data tables (Table 1 on PDF page 24, Table 2 on PDF page 25); every other numbered 'Figure' in the appendix is a line/bar chart embedded as an image, not a transcribable data table, so those were not extracted (no reliable way to read exact annual values off a chart without risking fabrication). Per instructions, Table 1 -- the century-spanning (1900 vs 2006) summary of Iran's development indicators -- was spot-checked visually by rendering PDF page 24 to PNG (pdftoppm -png -r 200 -f 24 -l 24) and reading it directly; the image matched the pdftotext -layout extraction exactly, confirming the text layer is reliable for this document.",
+  "retrieved_by": "claude (manual transcription with visual spot-check)",
+  "retrieved_at_utc": "2026-07-12T20:18:09Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "af9f4d142427e740421d6788dce698920311d2b564d0016f89f300bfe3fce55a",
+      "bytes": 840
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1900, 2006 (two-point comparison, not annual series)",
+  "frequency": "single cross-section, two time points",
+  "topics": [
+    "gdp",
+    "population",
+    "urbanization",
+    "life-expectancy",
+    "literacy",
+    "agriculture-share",
+    "trade-gdp-ratio",
+    "century-comparison",
+    "pahlavi-era"
+  ],
+  "units": "see data.csv column headers / notes; mixed units by indicator (millions, PPP dollars, percent, years, world rank)",
+  "license_terms": "academic working paper, cite authors (Esfahani & Pesaran 2008)",
+  "notes": "Source document: data/raw/historical-docs/esfahani-pesaran-2008/EsfahaniandPesaran17March08(IranianEconomyinTwentiethCentury).pdf -- Table 1, PDF page 24 (printed page 23). The paper labels the 1900 column 'Rough Estimates' -- these are the authors' own approximations, not official statistics, and several cells are themselves flagged as uncertain in the original ('<30?', '<5?', '?'), preserved here exactly as printed. This is the only source in the project so far that gives a single consistent 1900-vs-2006 comparison spanning the entire Qajar-to-modern period, bridging the pre-Pahlavi era to the present in one methodology, per the task brief. A companion table in the same document, Table 2 (Fraser Institute Index for the Restrictiveness of Trade Policy, Iran and MENA comparators, 1970-2005 in 5-year intervals), was identified but not transcribed in this pass to prioritize breadth across the four assigned source documents; it remains available for a future extraction pass if needed. Figure 10 in the same paper ('Growth Rates of Real Per Capita GDP and Oil Revenues in Iran, 1957-2005') is exactly the kind of GDP-growth/oil-revenue series called for in the task brief, but it is rendered only as a line chart with no accompanying data table, so no values could be extracted without risking fabrication.",
+  "failures": []
+}

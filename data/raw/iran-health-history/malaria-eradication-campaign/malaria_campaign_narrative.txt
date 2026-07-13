@@ -1,0 +1,75 @@
+Iran Malaria Control & Eradication Campaign — narrative timeline with embedded statistics
+Compiled 2026-07-13 from open-web secondary sources (WHO EMRO, WHO results-report country
+story, and academic/trade-press summaries of the malaria historiography). All figures below
+are transcribed as stated in the citing source; no case-count figure was interpolated,
+estimated, or back-calculated by this agent.
+
+1945 — First malaria-training course for anti-malaria campaign personnel established in Iran,
+laying institutional groundwork ahead of the country's first pesticide-based control effort.
+[Source: WHO EMRO malaria strategy/policy page, via WebSearch synthesis]
+
+1947 — DDT used for the first time in mosquito vector control in Iran, in a pilot study
+targeting malaria-hyperendemic villages near Tehran. This predates Iran's formal national
+eradication programme by a decade and mirrors the broader WHO-led global DDT-spraying wave of
+the late 1940s.
+[Source: WHO EMRO / academic summary, via WebSearch synthesis]
+
+1948-1956 — A sustained anti-malarial campaign combining drug prophylaxis and treatment,
+indoor residual spraying with DDT, and anti-larval control measures ran across this period and
+"considerably decreased malaria infection rate in most endemic areas" per the cited summary.
+No annual case-count figures for this specific window were located in this pass (a genuine
+gap, not omitted for lack of effort — the primary source likely to have this, the WHO/Global
+Fund-published "History of the successful struggle against malaria in the Islamic Republic of
+Iran" report, could not be fetched: its landing page at iran.un.org returned only a publication
+abstract, not the underlying PDF content, via the WebFetch tool).
+[Source: academic/WHO summary literature, via WebSearch synthesis]
+
+1957 — Iran's national Malaria Eradication Programme (MEP) formally launched, joining the WHO's
+1955-declared Global Malaria Eradication Programme. This is the flagship, most-cited start date
+for Iran's modern anti-malaria effort in the secondary literature.
+[Source: multiple academic sources via WebSearch synthesis, cross-confirmed across at least
+three independent search results]
+
+~1958-1960s ("as recently as sixty years ago" per a 2018-dated source, implying a reference
+point of roughly the late 1950s) — Iran was recording an estimated FIVE MILLION malaria cases
+per year at the pre-eradication-programme peak burden. This is the single most striking
+quantitative anchor located for this campaign and is presented as an order-of-magnitude
+estimate, not a precise annual figure with a specific year attached — the source states "sixty
+years ago" relative to its own ~2018 publication date, which is treated here as pointing to the
+late-1950s/early-1960s period just before or at the start of the MEP's main effect, consistent
+with the historiography that credits 1957-1980 as the main eradication-effort window.
+[Source: end malaria.org / Global Fund "Iran Story" summary via WebSearch synthesis]
+
+1957-1980 — Indoor residual spraying with DDT, larviciding, and mass drug administration
+"substantially reduced malaria incidence by the 1970s" and by 1980 the programme had "almost
+interrupted malaria transmission in the north parts of the country." This is consistent with
+Iran being widely cited internationally (alongside Sri Lanka and India, whose specific
+comparator figures are: India ~110 million cases in 1955 down to under 1 million reported by
+1968; Sri Lanka ~2.8 million cases in 1946 down to 18 reported cases by 1966) as one of the
+Global Malaria Eradication Programme's qualified successes for this window, though — as with
+most GMEP target countries — full eradication was not sustained.
+[Source: WHO / academic summary via WebSearch synthesis]
+
+1980 — WHO's global objectives shifted from "eradication" to "control" as the original 1955
+GMEP was formally abandoned worldwide (multiple technical and resource obstacles, comparable to
+outcomes in most GMEP target countries outside a handful of island/peninsula successes like Sri
+Lanka and Taiwan). Iran's programme followed this same global shift in framing.
+[Source: WHO / academic summary via WebSearch synthesis]
+
+1990 — By this point, Iran's residual malaria burden had become geographically concentrated in
+just THREE provinces in the southeast of the country (unnamed in the source, but consistent
+with Sistan-Baluchestan, Hormozgan, and Kerman being the well-documented residual-malaria belt
+in later Iranian public-health literature, given Afghanistan/Pakistan border proximity and
+vector ecology) — down from a nationwide burden of an estimated 5 million cases/year three
+decades earlier.
+[Source: academic summary via WebSearch synthesis]
+
+DEAD END flagged transparently: a full year-by-year annual case-count time series (which would
+allow this to become a proper tidy CSV rather than a narrative) was actively searched for via
+the CDC Stacks archived "Malaria control in Iran" document (stacks.cdc.gov/view/cdc/72033,
+returned HTTP 403 to WebFetch) and the ResearchGate paper "Malaria in Iran: Past and Present
+Situation" (also HTTP 403 to WebFetch, and the certificate for a related USIP retrospective page
+had expired at fetch time). None of these could be retrieved in this pass. A future continuation
+pass with either (a) browser-tool-based Cloudflare/paywall bypass, or (b) a Google Scholar / PMC
+search for an open-access mirror of the ResearchGate paper, is the recommended next step to
+convert this narrative into a proper annual CSV series.

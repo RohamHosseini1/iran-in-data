@@ -1,0 +1,50 @@
+{
+  "dataset_id": "mpd-2023",
+  "title": "Maddison Project Database 2023 (Bolt & van Zanden 2024)",
+  "source_org": "Groningen Growth and Development Centre, University of Groningen",
+  "source_url": "https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/INZBF2",
+  "download_url": "https://dataverse.nl/api/access/datafile/421302 (xlsx) and /421303 (dta), bundled via 'Download ZIP'",
+  "retrieved_by": "human (user manual download \u2014 automated retrieval was blocked by dataverse.nl's Cloudflare-protected file-API path even via a real rendered browser session; see prior failed-attempt log entries preserved in git history / conversation)",
+  "retrieved_at_utc": "2026-07-12T19:18:59Z",
+  "files": [
+    {
+      "name": "doi-10.34894-inzbf2.zip",
+      "original_name": null,
+      "sha256": "3945c58d423a69bec04da89451536d7457a32aec492380a4c985cc3b0b16e0d4",
+      "bytes": 6042281
+    },
+    {
+      "name": "mpd2023_web.xlsx",
+      "original_name": null,
+      "sha256": "ecc5916ca12789b983fc4be437f8a354bbf4291323605324ac3e0aea4c57cbb6",
+      "bytes": 4903804
+    },
+    {
+      "name": "maddison2023_web.dta",
+      "original_name": null,
+      "sha256": "2bc62ccbd795d4d330ef9ead6dc29c39e956922b43264640eba52d2c244841cb",
+      "bytes": 10892389
+    },
+    {
+      "name": "MANIFEST.TXT",
+      "original_name": null,
+      "sha256": "95398e8e659d1923de323952814f1defa7261fda6a8533e0fbfab1f04038ff56",
+      "bytes": 164
+    }
+  ],
+  "countries": [
+    "ALL (169 countries/regions)"
+  ],
+  "time_coverage": "1 AD - 2022",
+  "frequency": "annual (sparse/interpolated in early centuries, dense from ~1820)",
+  "topics": [
+    "macro",
+    "gdp-per-capita",
+    "population",
+    "long-run-history"
+  ],
+  "units": "gdppc: 2011 international Geary-Khamis dollars (PPP-adjusted); pop: thousands",
+  "license_terms": "CC-BY-4.0",
+  "notes": "Verified via pandas: sheet 'Full data' has columns [countrycode, country, region, year, gdppc, pop], 169 distinct countrycodes, year range 1-2022. Iran (IRN) confirmed present with data from antiquity (sparse) through 2022 (dense annual). This supersedes the earlier placeholder manifest that documented the automated-download failure -- that failure is preserved in this project's conversation history / logs/downloads/maddison-retry.log for reference. Harmonized into data/processed/macro_maddison.csv.",
+  "failures": []
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_id": "usbm1963-oil-industry-personnel-by-category-1955-1961",
+  "title": "Personnel of the Iranian Oil Industry by Company (Consortium/NIOC/Others) and Category of Work (Labor/Iranian staff/Non-Iranian staff), 1955-1961",
+  "source_org": "US Bureau of Mines Information Circular 8203 (1963), Table 5 (p.21)",
+  "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:19Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "pdftoppm -r 150 render to PNG (PDF page 29) + Read tool visual verification. Every company-year subtotal cross-checked by arithmetic against Table 4's grand totals (usbm1963-oil-industry-employment-1939-1960) -- 5 of 6 years matched exactly; 1958 had a 5-unit source-internal discrepancy (62,033 printed vs. 62,028 from summing the three reported components), PRESERVED AS-IS rather than silently corrected, consistent with this project's no-fabrication/no-silent-reconciliation rule (same rule that previously preserved a 'households surveyed' inconsistency in Round 37's wb1974 extraction).",
+  "files": [
+    {"name": "oil_industry_personnel_by_company_category_1955_1961.csv", "original_name": null, "sha256": "bd49ef6bc6f1deddc4f0b57b7a08c1ce70b1e32a484ad081dbaee9b8b107f92d", "bytes": 3506}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1955-1961",
+  "frequency": "annual",
+  "topics": ["oil", "employment", "labor", "Consortium Agreement", "NIOC"],
+  "units": "count (persons employed)",
+  "license_terms": "US Government publication, public domain",
+  "notes": "Finer-grained companion to usbm1963-oil-industry-employment-1939-1960 -- splits the workforce by EMPLOYER (Consortium vs. NIOC vs. Others [Consortium contractors + SIRIP/IPAC/IRCAN]) and by CATEGORY (Labor vs. Iranian staff vs. Non-Iranian staff), not just by nationality alone. The source table itself uses inconsistent bracket-groupings across years (some years split Iranian/Non-Iranian staff, others report them combined, others combine Labor+Iranian-staff instead) -- every such grouping is preserved exactly as printed in the 'category' column label (e.g. 'Iranian staff + Non-Iranian staff (combined in source)') rather than guessing a split, per the no-fabrication rule. Combined with usbm1963-consortium-disbursements-1954-1962's 'Wages and salaries' row (aggregate GBP paid per year), a future data/processed/ harmonization pass could compute an implied average annual wage per Consortium worker (wage bill / Consortium total employment) -- deliberately not computed here, flagged for a future explicit derived-statistic step.",
+  "failures": []
+}

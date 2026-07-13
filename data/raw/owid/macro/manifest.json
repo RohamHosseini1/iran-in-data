@@ -1,0 +1,176 @@
+{
+  "dataset_id": "owid-macro",
+  "title": "OWID Grapher charts — Macroeconomy (GDP, inflation, unemployment, inequality, poverty, HDI, military spending)",
+  "source_org": "Our World in Data",
+  "source_url": "https://ourworldindata.org/grapher",
+  "download_url": "https://ourworldindata.org/grapher/{slug}.csv (per-file URLs in files[])",
+  "retrieved_at_utc": "2026-07-12T17:27:41Z",
+  "retrieved_by": "agent:owid-download",
+  "files": [
+    {
+      "name": "economic-inequality-gini-index.csv",
+      "original_name": null,
+      "sha256": "75ee9f428dbfe32feebdc8bb0ff2ae31b4d2a32e0db12004ff76b3521bd95683",
+      "bytes": 108543,
+      "source_url": "https://ourworldindata.org/grapher/economic-inequality-gini-index",
+      "download_url": "https://ourworldindata.org/grapher/economic-inequality-gini-index.csv",
+      "time_coverage": "1963-2025"
+    },
+    {
+      "name": "economic-inequality-gini-index.metadata.json",
+      "original_name": null,
+      "sha256": "9254c57777ea2dec682e87abed4ba0539cd9481be81df4f9c9960c1e1a28d900",
+      "bytes": 4836,
+      "source_url": "https://ourworldindata.org/grapher/economic-inequality-gini-index",
+      "download_url": "https://ourworldindata.org/grapher/economic-inequality-gini-index.metadata.json"
+    },
+    {
+      "name": "gdp-per-capita-maddison-project-database.csv",
+      "original_name": null,
+      "sha256": "0545ad6ca37529206af49f9f964f17af927e8c154c1fe8d3813c523e0d2f43f8",
+      "bytes": 567430,
+      "source_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database",
+      "download_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database.csv",
+      "time_coverage": "1-2022"
+    },
+    {
+      "name": "gdp-per-capita-maddison-project-database.metadata.json",
+      "original_name": null,
+      "sha256": "bc50e8ee802d6bd6738eac417483f3eafc01623b18d80c61d1325f90737f87bf",
+      "bytes": 4377,
+      "source_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database",
+      "download_url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database.metadata.json"
+    },
+    {
+      "name": "gdp-per-capita-worldbank.csv",
+      "original_name": null,
+      "sha256": "92e6e350979f01292f84b038ec9b4054d42740a9d62793d2e5fa4e5e5f8482da",
+      "bytes": 269056,
+      "source_url": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank",
+      "download_url": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank.csv",
+      "time_coverage": "1990-2024"
+    },
+    {
+      "name": "gdp-per-capita-worldbank.metadata.json",
+      "original_name": null,
+      "sha256": "62c351a14b4d14bd66546e594d74e3a51ae5a2f9bbf6ad19e115f7a3936a5383",
+      "bytes": 3466,
+      "source_url": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank",
+      "download_url": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank.metadata.json"
+    },
+    {
+      "name": "human-development-index.csv",
+      "original_name": null,
+      "sha256": "59fe1fb0551b57271f9c1ecb75399cf523b970902816901eb23643e2807e02dc",
+      "bytes": 217958,
+      "source_url": "https://ourworldindata.org/grapher/human-development-index",
+      "download_url": "https://ourworldindata.org/grapher/human-development-index.csv",
+      "time_coverage": "1990-2023"
+    },
+    {
+      "name": "human-development-index.metadata.json",
+      "original_name": null,
+      "sha256": "4105aad4167193cd4d9c4141f204049eb8d5e8876906901129569ba6c1ad5ecb",
+      "bytes": 4001,
+      "source_url": "https://ourworldindata.org/grapher/human-development-index",
+      "download_url": "https://ourworldindata.org/grapher/human-development-index.metadata.json"
+    },
+    {
+      "name": "inflation-of-consumer-prices.csv",
+      "original_name": null,
+      "sha256": "f41dcbe56102aed2227720d8d7fa2c3c5c356f38bd4383b583c3f8f515226f28",
+      "bytes": 282983,
+      "source_url": "https://ourworldindata.org/grapher/inflation-of-consumer-prices",
+      "download_url": "https://ourworldindata.org/grapher/inflation-of-consumer-prices.csv",
+      "time_coverage": "1960-2024"
+    },
+    {
+      "name": "inflation-of-consumer-prices.metadata.json",
+      "original_name": null,
+      "sha256": "e28bc0c121a00d38344d538deff05a6eda77e1a73cdd3634c29986ac9f4d1c5b",
+      "bytes": 1444,
+      "source_url": "https://ourworldindata.org/grapher/inflation-of-consumer-prices",
+      "download_url": "https://ourworldindata.org/grapher/inflation-of-consumer-prices.metadata.json"
+    },
+    {
+      "name": "military-expenditure-share-gdp.csv",
+      "original_name": null,
+      "sha256": "4637cefb9a42feaf0042235b8f9573f4dbdbae7d2651ccb111cda86501670444",
+      "bytes": 302621,
+      "source_url": "https://ourworldindata.org/grapher/military-expenditure-share-gdp",
+      "download_url": "https://ourworldindata.org/grapher/military-expenditure-share-gdp.csv",
+      "time_coverage": "1949-2025"
+    },
+    {
+      "name": "military-expenditure-share-gdp.metadata.json",
+      "original_name": null,
+      "sha256": "89b0c98a111a8012cb06cf8f9668175586bc0753777c8e999be656289717e3b5",
+      "bytes": 2449,
+      "source_url": "https://ourworldindata.org/grapher/military-expenditure-share-gdp",
+      "download_url": "https://ourworldindata.org/grapher/military-expenditure-share-gdp.metadata.json"
+    },
+    {
+      "name": "share-of-population-in-extreme-poverty.csv",
+      "original_name": null,
+      "sha256": "1b954c7f140b1c9776467af755c0157f6d648fd48a5a012114f4503b7776ca41",
+      "bytes": 2167476,
+      "source_url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty",
+      "download_url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty.csv",
+      "time_coverage": "-10000-2026"
+    },
+    {
+      "name": "share-of-population-in-extreme-poverty.metadata.json",
+      "original_name": null,
+      "sha256": "24071fa0052b9eb02975631a376ad51af6d5ed5f2b12b773e22a24f976adce87",
+      "bytes": 9358,
+      "source_url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty",
+      "download_url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty.metadata.json"
+    },
+    {
+      "name": "unemployment-rate.csv",
+      "original_name": null,
+      "sha256": "deb4c728f8dfa7872adefba5b20c1c71b6728d99d1068834f786c158dfd2135e",
+      "bytes": 181979,
+      "source_url": "https://ourworldindata.org/grapher/unemployment-rate",
+      "download_url": "https://ourworldindata.org/grapher/unemployment-rate.csv",
+      "time_coverage": "1991-2025"
+    },
+    {
+      "name": "unemployment-rate.metadata.json",
+      "original_name": null,
+      "sha256": "3c7e9d3c3ee59a10f537d6b075cfe78092f13d0fb74bdc9276a3ee28b095c9cf",
+      "bytes": 3094,
+      "source_url": "https://ourworldindata.org/grapher/unemployment-rate",
+      "download_url": "https://ourworldindata.org/grapher/unemployment-rate.metadata.json"
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "-10000-2026",
+  "frequency": "annual",
+  "topics": [
+    "gdp",
+    "inflation",
+    "unemployment",
+    "inequality",
+    "poverty",
+    "human-development",
+    "military-expenditure"
+  ],
+  "units": "per chart — see each <slug>.metadata.json (grapher) or codebook CSV (panels)",
+  "license_terms": "CC BY 4.0 (Our World in Data); underlying third-party data subject to original providers' terms — see metadata.json/codebook for source-level citations",
+  "notes": "Slug substitutions (requested slug 404'd, current OWID slug used): 'extreme-poverty-headcount-ratio-vs-gdp-per-capita' -> 'share-of-population-in-extreme-poverty'; 'gini-coefficient' -> 'economic-inequality-gini-index'. Each chart = <slug>.csv (data, long format: Entity,Code,Year,value...) + <slug>.metadata.json (units, sources, citations) from the OWID Grapher CSV API. Per-file time coverage recorded in files[].time_coverage. All-country files kept deliberately (natural download unit; enables adding comparators).",
+  "failures": []
+}

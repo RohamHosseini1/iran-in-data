@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1962-transporttable5-railways-income-expense",
+  "title": "Iranian State Railways: Summary Income and Expense Account, 1953/54-1960/61 (World Bank, 1962)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1962 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf), Chapter 4 (Transport and Communications), Table 5, page 81 (printed page -77-). Every value was verified by rendering the exact page to a high-resolution PNG (pdftoppm -r 200) and reading the table directly off the image. IMPORTANT transcription note: the source typewriter used a PERIOD as a thousands separator in this table (not a decimal point) for the Gross Revenues and Working Expenses columns -- e.g. the printed '1.269' for 1953/54 Gross Revenues means 1,269 (million Rials), not 1.269. This was confirmed by an exact internal arithmetic check for every one of the 8 rows: Gross Revenues minus Working Expenses equals the printed Balance before Depreciation figure only under the thousands-separator reading (e.g. 1,269-828=441, matching the printed Balance of 441; 2,592-1,564=1,028, matching; all 8 rows check out exactly). Values in data.csv are plain integers (in million Rials) with the separator convention removed to avoid ambiguity. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:17Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "206372be8192e0b307c486395650a7e1596ebe3bfb243a20254ac65d424fb77f",
+      "bytes": 278
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1953/54-1960/61",
+  "frequency": "annual",
+  "units": "million Rials",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "topics": [
+    "transport",
+    "railways",
+    "revenue",
+    "fiscal",
+    "pahlavi-era"
+  ],
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1962_economic_development_program.pdf — Chapter 4 (Transport and Communications), Table 5, page 81 (printed page -77-). Iranian solar calendar years (e.g. 1953/54 = 21 March 1953-20 March 1954). Companion table to wb1962-railways-freight-passenger-traffic-1953-1961 (same institution, same page range, same years). Part of a systematic effort to extract Pahlavi-era (esp. 1941-1962) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

@@ -1,0 +1,42 @@
+{
+  "dataset_id": "fao-ccp-te05-tea-market-studies-iran",
+  "title": "Tea Market Studies: Egypt, Islamic Republic of Iran, Pakistan and Turkey (FAO Intergovernmental Group on Tea, 16th Session, Bali 2005)",
+  "source_org": "FAO Committee on Commodity Problems, Intergovernmental Group on Tea",
+  "source_url": "https://www.fao.org/4/j5604e/j5604e.htm",
+  "download_url": "https://www.fao.org/4/j5604e/j5604e.htm",
+  "retrieved_by": "claude",
+  "retrieved_at_utc": "2026-07-13T01:30:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "956da31bd77b7d4792e2210c2324a33bbb93a137b09037d4bf87f774923d499e",
+      "bytes": 2837
+    },
+    {
+      "name": "fao_ccp_te05_crs2_tea_market_studies.htm",
+      "original_name": "j5604e.htm",
+      "sha256": "31b3d5d7acaa68365f1539cc37630669b3524db6af031f33f36b6785dde25f32",
+      "bytes": 118666
+    }
+  ],
+  "countries": [
+    "IRN",
+    "TUR",
+    "EGY",
+    "PAK"
+  ],
+  "time_coverage": "1994-2003 (production/imports/exports/consumption); 1998-2003 (per-capita consumption)",
+  "frequency": "annual",
+  "topics": [
+    "consumption",
+    "tea",
+    "food-consumption",
+    "per-capita-consumption",
+    "micro-consumption"
+  ],
+  "units": "thousand tonnes (volume); kg per capita per year (Table 6); document report CCP:TE 05/CRS 2",
+  "license_terms": "FAO document, publicly disclosed committee paper",
+  "notes": "Downloaded directly via curl (no block, unlike many iranicaonline.org/Iran-domestic-site fetches this project has hit). Table 5 (Iran tea imports/exports/consumption 1994-2003) and Table 6 (Iran tea consumption per capita 1998-2003, with population denominator) transcribed verbatim from the FAO document HTML (cross-checked: WebFetch summary matched a direct curl+regex extraction of the same page, both independently arrived at identical figures). Iran per-capita tea consumption averaged 1.23 kg/year over 1998-2003 -- corroborates Iran being among the highest per-capita tea-consuming nations historically, though notably LOWER than Turkey (2.11 kg in 2003) despite common popular framing of Iran as the higher consumer; smuggled/unrecorded imports (est. up to 30% of legal imports per source para 29) mean true consumption may be understated. Turkey/Egypt/Pakistan figures included only where the same source table already covered them (no extra fetch cost) per project Iran-first comparator policy. Complements (does not duplicate) the existing FAOSTAT-derived tea per-capita figures noted in web research (FAOSTAT shows a implausible-looking 2.94 kg 2013 all-time-high vs 0.26 kg 2007 all-time-low per a Helgi Library summary — NOT independently verified or saved to this database; flagged as a discrepancy worth a future cross-check against this more granular, methodologically-transparent FAO study).",
+  "failures": []
+}

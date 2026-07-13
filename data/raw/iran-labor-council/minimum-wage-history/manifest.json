@@ -1,0 +1,22 @@
+{
+  "dataset_id": "minimum-wage-history",
+  "title": "Iran Supreme Labor Council — Annual Minimum Wage History (compiled, hand-cited)",
+  "source_org": "Multiple (ILOSTAT; countryeconomy.com; Nouraei & Mostafavi Law Offices; WageIndicator.org; PressTV; Iran International; Euronews; Arab News; Middle East Eye) — see inline citations",
+  "source_url": "n/a (compiled note; every fact cited inline within the file)",
+  "download_url": "n/a (curated/hand-compiled note, not a bulk download — see notes)",
+  "retrieved_at_utc": "2026-07-12T18:35:00Z",
+  "retrieved_by": "agent:labor-minimum-wage-download",
+  "files": [
+    {"name": "minimum-wage-history.md", "original_name": null, "sha256": "0d8ca4c68a6a81dc93c7315f16605255b1290a4eb4c71b76d91ed962fd0ea7a7", "bytes": 7760}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1995-2026 (Gregorian-tagged ILOSTAT series 1995-2024 with a 2012-2015 gap; Persian-year series 1402-1405 / 2023-2026)",
+  "frequency": "annual",
+  "topics": ["labour", "wages", "minimum wage", "Supreme Labor Council", "policy"],
+  "units": "Iranian rials (IRR) per month",
+  "license_terms": "n/a (compiled research note; underlying sources retain their own terms — see inline citations)",
+  "notes": "This is a CURATED note per bookkeeping.md rule 5 (curated/hand-compiled datasets carry inline citations), placed in data/raw/ per this task's explicit slug assignment rather than in timeline/ or data/processed/ -- flagging this as a deliberate deviation from the strict letter of bookkeeping.md rule 5 for future maintainers who may want to also link/copy it from timeline/iran.csv or data/processed/. Every numeric figure in the file carries an inline source URL and fetch date; no number was estimated or interpolated by the compiling agent. Two data-quality issues are surfaced explicitly in the file: (1) ILOSTAT's Gregorian-year tagging produces repeated values across some year pairs (2016/2017, 2021/2022, 2023/2024) because the Supreme Labor Council's Nowruz-timed decisions straddle two Gregorian years; (2) the 1402 (2023) monthly figure has a small (~0.02%) discrepancy between two independent sources (53,082,840 vs 53,073,300) which is presented as a range rather than resolved to one number. NCRI/iranfocus.com-only claims encountered during research were explicitly excluded per docs/bookkeeping.md source-reliability policy and are logged as excluded (not silently dropped) in the file's 'Sources consulted but excluded' section. CEIC Data returned HTTP 403 and was not used. Pre-1995 Iran minimum-wage data was not located in this pass and is flagged as an open gap.",
+  "failures": [
+    {"url": "https://www.ceicdata.com/en/iran/minimum-monthly-wage", "error": "HTTP 403 Forbidden on WebFetch, 2026-07-12 — likely blocks automated fetch"}
+  ]
+}

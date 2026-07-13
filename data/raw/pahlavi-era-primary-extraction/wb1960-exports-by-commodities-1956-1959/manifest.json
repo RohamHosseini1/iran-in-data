@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1960-table16-exports-by-commodities",
+  "title": "Exports by Commodities, Iran, 1956/57-1958/59 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 16, page 53) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous throughout. As a cross-check, the 1956/57 value column (22.3+17.1+18.1+8.9+3.9+0.4+4.0+4.8+2.7+4.5+2.1+2.0+0.6+13.3) was summed and confirmed to equal the printed Total of 104.7. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:26:01Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "47100d7f6638f638d46aa8553c4dba9c0ad7b6b9512cf40aa8f7f72459087e32",
+      "bytes": 906
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1956/57-1958/59",
+  "frequency": "annual (years ending March 20)",
+  "topics": [
+    "exports",
+    "trade",
+    "commodities",
+    "agriculture",
+    "pahlavi-era"
+  ],
+  "units": "value columns in US dollar millions; pct columns are percentage distribution of total exports",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 16, page 53, source: Customs Administration, Tehran, Iran. Per source NOTE: data are based on Customs Returns and therefore not fully comparable with payments data shown in Tables 14 and 17 (this report's banking-statistics and imports tables). Oil/petroleum exports are excluded from this table (handled separately in Tables 1/2/15). Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

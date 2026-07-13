@@ -1,0 +1,24 @@
+{
+  "dataset_id": "iranica-tobacco-monopoly-narrative-series-1890-1995",
+  "title": "Iran State Tobacco Monopoly (Tobacco Regie -> Dokhaniyat) — Concession Terms, Revenue Share, Production & Scale, 1890-1995",
+  "source_org": "Encyclopaedia Iranica (article 'DOKANIYAT' by Willem M. Floor); UK House of Commons Hansard; Wikipedia 'Tobacco Protest' (secondary aggregator of primary historical accounts)",
+  "source_url": "https://www.iranicaonline.org/articles/dokaniyat/ ; https://api.parliament.uk/historic-hansard/commons/1892/may/23/the-persian-tobacco-concession ; https://en.wikipedia.org/wiki/Tobacco_Protest",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION of numeric values embedded in narrative prose across three sources. The primary source (Encyclopaedia Iranica DOKANIYAT article) was read in full via the Claude Browser tool's get_page_text (iranicaonline.org blocks WebFetch with HTTP 403); the 1890-92 concession figures were cross-checked against UK Parliament's own historic Hansard record of the 23 May 1892 House of Commons debate on the Persian Tobacco Concession (an official/primary transcript, not a secondary retelling) via WebSearch synthesis. No interpolation or estimation was performed.",
+  "retrieved_by": "claude (manual transcription from live-rendered Encyclopaedia Iranica page text + Hansard citation)",
+  "retrieved_at_utc": "2026-07-12T23:09:40Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "e856f3b2689d4fc7b5519946b4722e5b0b538f8a351dddded92dc9a147907622", "bytes": 3960}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1890-1995 (non-continuous; only years explicitly cited in the narrative are captured)",
+  "frequency": "annual, sparse",
+  "topics": ["tobacco", "tobacco-regie", "dokhaniyat", "state-monopoly", "excise-tax", "government-revenue", "tobacco-protest"],
+  "units": "mixed: GBP, rials, acres, tons, cigarettes-per-day, workforce headcount, percent -- see unit column per row",
+  "license_terms": "Encyclopaedia Iranica content copyrighted, used here for non-commercial research/citation with full attribution; Hansard is UK Parliament public record (Open Parliament Licence).",
+  "notes": "This dataset fills the pre-1961 gap that FAOSTAT cannot cover (FAOSTAT's Iran tobacco series, confirmed present in data/raw/faostat/tcl-trade-crops-livestock/, begins only in 1961) and adds fiscal/monopoly-structure detail (concession terms, tax-revenue share, workforce scale) that FAOSTAT, being purely an agricultural production/trade database, never captures regardless of year. The 1940 production figures (30,000 acres, 13,500 tons/year) are a genuine, singular pre-FAOSTAT data point bridging the Qajar-era Tobacco Regie (1890-92) narrative to the modern FAOSTAT-covered era (1961-present). The 1890 GBP 371,875 'projected annual profit' figure is explicitly flagged in its own notes field as a promotional/prospectus projection that was never realized (the concession was annulled in 1892 before full operation) -- included for context on the scale of profit promised to investors, not as a real fiscal outcome.",
+  "failures": [
+    "No year-by-year tobacco-tax-revenue-in-rials series was found for the full Pahlavi period (only single-year snapshots: 1929's 3.5% of total revenue, and the unrelated 1934 syndicate capitalization figure) -- a continuous revenue series was sought but not located in freely accessible sources this session.",
+    "No data found on the modern (post-2012 privatization) Iran Tobacco Company's revenue or production, beyond general market-research paywalled sources (Statista) that were not accessed."
+  ]
+}

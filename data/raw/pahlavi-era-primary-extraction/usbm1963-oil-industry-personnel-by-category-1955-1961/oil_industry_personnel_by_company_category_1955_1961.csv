@@ -1,0 +1,61 @@
+year,company,category,value,notes
+1955,Consortium,Labor,42900,
+1955,Consortium,Iranian staff,5899,
+1955,Consortium,Non-Iranian staff,280,
+1955,Consortium,Total,49079,
+1956,Consortium,Labor,40391,
+1956,Consortium,Iranian staff,5080,
+1956,Consortium,Non-Iranian staff,453,
+1956,Consortium,Total,45924,
+1957,Consortium,Labor,39985,
+1957,Consortium,Iranian staff + Non-Iranian staff (combined in source),5859,"Source brackets Iranian and Non-Iranian staff together for this year only"
+1957,Consortium,Total,45844,
+1958,Consortium,Labor,40053,
+1958,Consortium,Iranian staff,5356,
+1958,Consortium,Non-Iranian staff,603,
+1958,Consortium,Total,46012,
+1959,Consortium,Labor,36758,
+1959,Consortium,Iranian staff,4887,
+1959,Consortium,Non-Iranian staff,713,
+1959,Consortium,Total,42358,
+1960,Consortium,Labor + Iranian staff (combined in source),35197,"Source brackets Labor and Iranian staff together for 1960 and 1961 only (not split by category these two years)"
+1960,Consortium,Non-Iranian staff,727,
+1960,Consortium,Total,35924,
+1961,Consortium,Labor + Iranian staff (combined in source),23907,"Source brackets Labor and Iranian staff together for 1960 and 1961 only"
+1961,Consortium,Non-Iranian staff,635,
+1961,Consortium,Total,24542,
+1955,NIOC,Labor + Iranian staff (combined in source; estimated),6055,"Estimated (footnoted). Labor/Iranian-staff/Non-Iranian-staff not split for NIOC in 1955"
+1955,NIOC,Total,6055,"Estimated"
+1956,NIOC,Labor,7197,
+1956,NIOC,Iranian staff + Non-Iranian staff (combined in source),2113,"Does not include NIOC staff not reported by nationality this year"
+1956,NIOC,Total,9310,
+1957,NIOC,Labor,7955,
+1957,NIOC,Iranian staff,2448,"Non-Iranian staff not separately reported this year for NIOC"
+1957,NIOC,Total,10403,
+1958,NIOC,Labor,8424,
+1958,NIOC,Iranian staff,2778,
+1958,NIOC,Non-Iranian staff,90,
+1958,NIOC,Total,11292,
+1959,NIOC,Labor,11226,
+1959,NIOC,Iranian staff,3353,
+1959,NIOC,Non-Iranian staff,68,
+1959,NIOC,Total,14647,
+1960,NIOC,Labor,13729,
+1960,NIOC,Iranian staff + Non-Iranian staff (combined in source),4275,
+1960,NIOC,Total,18004,
+1961,NIOC,Labor,,"Not available"
+1961,NIOC,Total,,"Not available"
+1955,Others,Total,2866,"Includes Consortium contractors (1955-60) and employees of SIRIP/IPAC/IRCAN (1959-60)"
+1956,Others,Total,7913,
+1957,Others,Total,7056,
+1958,Others,Total,4724,
+1959,Others,Total,4814,
+1960,Others,Total,4966,
+1961,Others,Total,,"Not available"
+1955,ALL COMPANIES,Grand total,58000,"= Consortium 49,079 + NIOC 6,055(est.) + Others 2,866. Cross-checks exactly against Table 4's 1955 total of 58,000"
+1956,ALL COMPANIES,Grand total,63147,"= Consortium 45,924 + NIOC 9,310 + Others 7,913. Cross-checks exactly against Table 4"
+1957,ALL COMPANIES,Grand total,63303,"= Consortium 45,844 + NIOC 10,403 + Others 7,056. Cross-checks exactly against Table 4"
+1958,ALL COMPANIES,Grand total,62033,"Source prints 62,033, but summing the three reported components (Consortium 46,012 + NIOC 11,292 + Others 4,724) gives 62,028 -- a 5-unit source-internal discrepancy, PRESERVED AS-IS (not silently reconciled) per this project's established methodology for scanned-table extraction"
+1959,ALL COMPANIES,Grand total,61819,"= Consortium 42,358 + NIOC 14,647 + Others 4,814. Cross-checks exactly against Table 4"
+1960,ALL COMPANIES,Grand total,58894,"= Consortium 35,924 + NIOC 18,004 + Others 4,966. Cross-checks exactly against Table 4"
+1961,ALL COMPANIES,Grand total,,"Not available (NIOC and Others not reported this year; only Consortium's 24,542 is known)"

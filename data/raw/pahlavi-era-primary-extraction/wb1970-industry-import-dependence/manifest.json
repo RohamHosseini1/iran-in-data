@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1970-table1-industry-import-dependence",
+  "title": "Iranian Industry: Import Dependence -- Share of Imported Inputs in Sales Value, by Product (World Bank, 1970)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank) / Industrial and Mining Development Bank of Iran (IMDBI)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1970 World Bank report on Iranian industrialization (data/raw/world-bank-archives-iran/historical-documents/1970_industrialization_record_problems_prospects.pdf, 45 pages). This document turned out to be mostly narrative/qualitative (no multi-year time-series tables were found after checking every page flagged by pdftotext -layout for 'Table'/'GROWTH'/'EMPLOYMENT'/'INDEX' keywords -- Table II 'National Economic Profitability Rating' is a purely qualitative 2x2 classification with no numbers, and Annex I is a single before/after 1959-vs-1968 price comparison, not an output/growth/employment series). Table I is the only genuine quantitative sector-level table in the document. Its location (PDF page 14-15) was confirmed via the pdftotext page split, then both pages were rendered to PNG (pdftoppm -png -r 200 -f 14 -l 15) and every value plus the footnotes page were read directly from the image. The image read caught an OCR omission: the raw pdftotext text layer had dropped the 'Cotton Textiles' row entirely and skipped the 'Electric Fans' row (jumping straight from 'Durable Consumer Goods' to 'Radios'); both rows are present and legible in the source image and are included here. No value was interpolated, estimated, or fabricated; n.a. cells and question-marked/doubtful figures are transcribed with the source's own annotations preserved in the notes column.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:16:49Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "24466450ee261fb88985b0cd625d6178d32d370c0fd96e4b6e12db14751dc87e",
+      "bytes": 1824
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "circa 1969-1970 (single point-in-time survey, not a multi-year series)",
+  "frequency": "single cross-section",
+  "topics": [
+    "industry",
+    "import-substitution",
+    "manufacturing",
+    "trade",
+    "pahlavi-era"
+  ],
+  "units": "percent (share of imported raw materials, semi-finished products and spare parts -- both direct and indirect import content -- in ex-factory sales value)",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1970_industrialization_record_problems_prospects.pdf — Table I 'Iranian Industry: Import Dependence', PDF pages 14-15 (printed pages 6-7). Source cites: 'Interviews with the industrial plants and the material in the IMDBI files.' Footnote /a: imported inputs valued at domestic (duty-inclusive) prices, both direct and indirect import content included. Footnote /b (flagged in footnote_b_planned_project_under_construction column): figure is a planned/projected value for a project still under construction at time of writing, not an observed actual. This is a cross-sectional structural table (not a time series) -- the only genuinely quantitative table found in this document; it complements the time-series oil/trade/BOP series extracted from the companion 1971 World Bank reports. Part of a systematic effort to extract Pahlavi-era (1960s-70s) data from primary-source World Bank PDFs.",
+  "failures": []
+}

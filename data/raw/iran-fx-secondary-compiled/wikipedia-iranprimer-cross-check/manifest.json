@@ -1,0 +1,18 @@
+{
+  "dataset_id": "iran-fx-secondary-compiled-wikipedia-crosscheck",
+  "title": "Iran free-market USD/IRR rate, 1999-2002, secondary-compiled cross-check",
+  "source_org": "Wikipedia (Iranian rial article), cross-referenced against Iran Primer/USIP framing of the same multi-tier era",
+  "source_url": "https://en.wikipedia.org/wiki/Iranian_rial",
+  "download_url": null,
+  "retrieved_by": "claude",
+  "retrieved_at_utc": "2026-07-13T00:00:00Z",
+  "failures": ["Iran Primer USIP page (iranprimer.usip.org) returned a certificate-expired error, could not cross-verify directly -- flagged, not silently dropped"],
+  "files": [{"name": "data.csv", "original_name": null, "sha256": null, "bytes": null}],
+  "countries": ["IRN"],
+  "time_coverage": "1999-2002",
+  "frequency": "annual",
+  "topics": ["fx", "exchange-rate", "parallel-market"],
+  "units": "rials per US dollar",
+  "license_terms": "Wikipedia CC BY-SA -- treated per this project's established convention of using Wikipedia only as a cross-check pending primary-source verification, not as a standalone primary citation. A follow-up agent is tasked with tracing these figures to their underlying primary source (likely IMF Article IV or a Bank Melli/CBI bulletin).",
+  "notes": "These are genuinely different numbers from the same years' WDI PA.NUS.FCRF 'preferred/official' rate (1999: ~1750 official vs 9430 free-market -- more than 5x divergence), confirming the multi-tier system's real-world effect. Cross-validated against this project's own 2011 TGJU data (13568-13700), which sits on a plausible continuation of this trend."
+}

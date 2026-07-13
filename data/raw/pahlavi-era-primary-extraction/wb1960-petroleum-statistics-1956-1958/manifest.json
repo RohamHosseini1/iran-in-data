@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1960-table2-petroleum-statistics",
+  "title": "Petroleum Statistics, Iran, 1956-1958 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 2, page 37) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image, cross-checked against the raw pdftotext extraction. This page's raw OCR text was largely legible and matched the image; no discrepancies were found. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:29Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "3907258d93d87a63cdb21ba9c858aab4b1ad04ef3709bc97e7a0c2f705ffb34f",
+      "bytes": 650
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1956-1958",
+  "frequency": "annual (calendar years)",
+  "topics": [
+    "oil",
+    "petroleum",
+    "drilling",
+    "production",
+    "exports",
+    "pahlavi-era"
+  ],
+  "units": "see data.csv column headers / notes",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 2, page 37, source: NIOC. Calendar years (not solar/fiscal years) unlike most other tables in this report. 'Consortium' = the international oil consortium operating in Iran; NIOC = National Iranian Oil Company. Prices row footnote states the posted price fell to $1.81/barrel in July 1959 (not part of the annual series, so not included as a data column here). Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

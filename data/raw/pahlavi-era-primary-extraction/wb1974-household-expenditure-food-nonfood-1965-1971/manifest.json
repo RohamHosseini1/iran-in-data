@@ -1,0 +1,37 @@
+{
+  "dataset_id": "wb1974-table9.1-household-expenditure-food-nonfood",
+  "title": "Monthly Expenditures on Food and Non-Food Items Consumed by Rural and Urban Households, by Main Items, Iran 1965-1971 (in rials)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Statistical Center of Iran (SCI) and Bank Markazi Iran",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf (Report No. 378-IRN, 'The Economic Development of Iran', Volume III: Statistical Appendix, October 14 1974), Table 9.1, page 71 (PDF page 79). Rendered to PNG via pdftoppm -r 200 and every value visually read from the image (not trusted from raw OCR, which was badly garbled on this scan). No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1965-1971",
+  "frequency": "annual (survey rounds), monthly expenditure amounts",
+  "topics": [
+    "consumption",
+    "household-budget-survey",
+    "food-expenditure",
+    "non-food-expenditure",
+    "living-standards",
+    "urban-rural",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "rials per month per household (surveyed); household counts in raw count",
+  "notes": "This is the earliest known Iran household-budget-survey micro-data table in this project -- predates the digital HEIS/IHEIS microdata era (see data/raw/iheis-microdata-metadata/, which is registration-gated and inaccessible directly). Source table footnote /1: 1965-1967 Urban figures are Bank Markazi Iran data (not SCI). KNOWN SOURCE-DOCUMENT INCONSISTENCY: the companion Table 9.2 (see wb1974-household-expenditure-composition-shares-1965-1971) reports different 'No. of households surveyed' for 1969 Rural (7,408 vs this table's 4,708) and for 1971 Urban/Rural (15,166/14,344 vs this table's 14,344/14,766) -- both numbers verified visually against the source page image, this is a genuine internal inconsistency in the original 1974 World Bank document, not a transcription error. Recorded as-is in both tables without silently reconciling.",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "6808a04749edbb1e4637eca9f17b469c105742dd6abf14337e26570a37123387",
+      "bytes": 12410
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

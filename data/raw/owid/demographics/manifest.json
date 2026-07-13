@@ -1,0 +1,141 @@
+{
+  "dataset_id": "owid-demographics",
+  "title": "OWID Grapher charts — Demographics (population, life expectancy, child mortality, schooling, urbanization, fertility)",
+  "source_org": "Our World in Data",
+  "source_url": "https://ourworldindata.org/grapher",
+  "download_url": "https://ourworldindata.org/grapher/{slug}.csv (per-file URLs in files[])",
+  "retrieved_at_utc": "2026-07-12T17:25:51Z",
+  "retrieved_by": "agent:owid-download",
+  "files": [
+    {
+      "name": "child-mortality.csv",
+      "original_name": null,
+      "sha256": "ac87ef5c0c4ba409b95e8c85833ab51093476b2475e315cba5dd079154e175ff",
+      "bytes": 410991,
+      "source_url": "https://ourworldindata.org/grapher/child-mortality",
+      "download_url": "https://ourworldindata.org/grapher/child-mortality.csv",
+      "time_coverage": "1751-2024"
+    },
+    {
+      "name": "child-mortality.metadata.json",
+      "original_name": null,
+      "sha256": "9f925b2fce145dd81773aa9a9921b7747e1a078ddd0116d6ca22a54320ba5f9d",
+      "bytes": 4085,
+      "source_url": "https://ourworldindata.org/grapher/child-mortality",
+      "download_url": "https://ourworldindata.org/grapher/child-mortality.metadata.json"
+    },
+    {
+      "name": "fertility-rate-complete-gapminder.csv",
+      "original_name": null,
+      "sha256": "b93978e9477851b133bf13baf986c162220ad2e388fafcc6bbc325cb2d41bc0a",
+      "bytes": 510132,
+      "source_url": "https://ourworldindata.org/grapher/fertility-rate-complete-gapminder",
+      "download_url": "https://ourworldindata.org/grapher/fertility-rate-complete-gapminder.csv",
+      "time_coverage": "1891-2023"
+    },
+    {
+      "name": "fertility-rate-complete-gapminder.metadata.json",
+      "original_name": null,
+      "sha256": "e28c4408185ac04077468dacd8e602c3cb0fe6251d4b1fcc526c392d8c79671e",
+      "bytes": 2321,
+      "source_url": "https://ourworldindata.org/grapher/fertility-rate-complete-gapminder",
+      "download_url": "https://ourworldindata.org/grapher/fertility-rate-complete-gapminder.metadata.json"
+    },
+    {
+      "name": "life-expectancy.csv",
+      "original_name": null,
+      "sha256": "c304603fb8a7da263619a8ae43b7097f35b648c458855e23f1c4ef8f2ae75c01",
+      "bytes": 605250,
+      "source_url": "https://ourworldindata.org/grapher/life-expectancy",
+      "download_url": "https://ourworldindata.org/grapher/life-expectancy.csv",
+      "time_coverage": "1543-2023"
+    },
+    {
+      "name": "life-expectancy.metadata.json",
+      "original_name": null,
+      "sha256": "98b355f9ec5e66876126e1e861b6767df8e27a66216a90c13090104562b1b144",
+      "bytes": 3859,
+      "source_url": "https://ourworldindata.org/grapher/life-expectancy",
+      "download_url": "https://ourworldindata.org/grapher/life-expectancy.metadata.json"
+    },
+    {
+      "name": "mean-years-of-schooling-long-run.csv",
+      "original_name": null,
+      "sha256": "6104944de29cb135788b3924741fd91f2d959077049a2642719bd6b8ec670bf0",
+      "bytes": 85454,
+      "source_url": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run",
+      "download_url": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run.csv",
+      "time_coverage": "1870-2020"
+    },
+    {
+      "name": "mean-years-of-schooling-long-run.metadata.json",
+      "original_name": null,
+      "sha256": "d9eda22e19c7de5b809e0e2cdd8c1ec9f2fb5a735d2c9a3d85420840ecdcaa21",
+      "bytes": 4107,
+      "source_url": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run",
+      "download_url": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run.metadata.json"
+    },
+    {
+      "name": "population.csv",
+      "original_name": null,
+      "sha256": "6e72d4ffe8f0e940df60c90b13c8ad6eda85043b995b244e8b3e20b1e833b541",
+      "bytes": 1594182,
+      "source_url": "https://ourworldindata.org/grapher/population",
+      "download_url": "https://ourworldindata.org/grapher/population.csv",
+      "time_coverage": "-10000-2023"
+    },
+    {
+      "name": "population.metadata.json",
+      "original_name": null,
+      "sha256": "7d473d280a63afc0485863b5f209de90cdc43303a2e97c3f66e545c7ca203242",
+      "bytes": 4142,
+      "source_url": "https://ourworldindata.org/grapher/population",
+      "download_url": "https://ourworldindata.org/grapher/population.metadata.json"
+    },
+    {
+      "name": "share-of-population-urban.csv",
+      "original_name": null,
+      "sha256": "d5cb1a4c58b6c7a1953ba5c5361966114add7c4cc722f085952110f7d7ffaa94",
+      "bytes": 635776,
+      "source_url": "https://ourworldindata.org/grapher/share-of-population-urban",
+      "download_url": "https://ourworldindata.org/grapher/share-of-population-urban.csv",
+      "time_coverage": "1950-2025"
+    },
+    {
+      "name": "share-of-population-urban.metadata.json",
+      "original_name": null,
+      "sha256": "c71c75032a529ed06fad28877ed029b98eb35e33321d849b87bf95c3d23862bf",
+      "bytes": 2666,
+      "source_url": "https://ourworldindata.org/grapher/share-of-population-urban",
+      "download_url": "https://ourworldindata.org/grapher/share-of-population-urban.metadata.json"
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "-10000-2025",
+  "frequency": "annual",
+  "topics": [
+    "population",
+    "life-expectancy",
+    "child-mortality",
+    "education",
+    "urbanization",
+    "fertility"
+  ],
+  "units": "per chart — see each <slug>.metadata.json (grapher) or codebook CSV (panels)",
+  "license_terms": "CC BY 4.0 (Our World in Data); underlying third-party data subject to original providers' terms — see metadata.json/codebook for source-level citations",
+  "notes": "Each chart = <slug>.csv (data, long format: Entity,Code,Year,value...) + <slug>.metadata.json (units, sources, citations) from the OWID Grapher CSV API. Per-file time coverage recorded in files[].time_coverage. All-country files kept deliberately (natural download unit; enables adding comparators).",
+  "failures": []
+}

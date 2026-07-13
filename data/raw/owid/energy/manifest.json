@@ -1,0 +1,105 @@
+{
+  "dataset_id": "owid-energy",
+  "title": "OWID Grapher charts — Energy & emissions (oil production, energy use, electricity, CO2 per capita)",
+  "source_org": "Our World in Data",
+  "source_url": "https://ourworldindata.org/grapher",
+  "download_url": "https://ourworldindata.org/grapher/{slug}.csv (per-file URLs in files[])",
+  "retrieved_at_utc": "2026-07-12T17:25:54Z",
+  "retrieved_by": "agent:owid-download",
+  "files": [
+    {
+      "name": "co2-emissions-per-capita.csv",
+      "original_name": null,
+      "sha256": "11a3a3531e4d814f96c5b6ce1ce4888be554cab5a48fe1394ba72f1b590e976e",
+      "bytes": 801498,
+      "source_url": "https://ourworldindata.org/grapher/co2-emissions-per-capita",
+      "download_url": "https://ourworldindata.org/grapher/co2-emissions-per-capita.csv",
+      "time_coverage": "1750-2024"
+    },
+    {
+      "name": "co2-emissions-per-capita.metadata.json",
+      "original_name": null,
+      "sha256": "3669cc3b8d53ec1443e1dd1d43778d470ddb0543bf2a22519bf2e71bd0e814e9",
+      "bytes": 4168,
+      "source_url": "https://ourworldindata.org/grapher/co2-emissions-per-capita",
+      "download_url": "https://ourworldindata.org/grapher/co2-emissions-per-capita.metadata.json"
+    },
+    {
+      "name": "energy-use-per-capita.csv",
+      "original_name": null,
+      "sha256": "6b87046812a688aae32813ee651a2f0e5c067327792a8b79a9ddf02403444828",
+      "bytes": 327304,
+      "source_url": "https://ourworldindata.org/grapher/energy-use-per-capita",
+      "download_url": "https://ourworldindata.org/grapher/energy-use-per-capita.csv",
+      "time_coverage": "1965-2024"
+    },
+    {
+      "name": "energy-use-per-capita.metadata.json",
+      "original_name": null,
+      "sha256": "cc0693f40aadc834131e054b9d9551723961188094cb5e1b39170a24750a1849",
+      "bytes": 2612,
+      "source_url": "https://ourworldindata.org/grapher/energy-use-per-capita",
+      "download_url": "https://ourworldindata.org/grapher/energy-use-per-capita.metadata.json"
+    },
+    {
+      "name": "oil-production-by-country.csv",
+      "original_name": null,
+      "sha256": "6b5ea575f236e04416d14df69c11f4bb26a1fe092c1fd69fcfd8f912c39acab7",
+      "bytes": 477143,
+      "source_url": "https://ourworldindata.org/grapher/oil-production-by-country",
+      "download_url": "https://ourworldindata.org/grapher/oil-production-by-country.csv",
+      "time_coverage": "1900-2024"
+    },
+    {
+      "name": "oil-production-by-country.metadata.json",
+      "original_name": null,
+      "sha256": "5fd5088c06ce74f49e4e2ccac37251275cba856785d13327ddf61a7d5a83fa40",
+      "bytes": 3322,
+      "source_url": "https://ourworldindata.org/grapher/oil-production-by-country",
+      "download_url": "https://ourworldindata.org/grapher/oil-production-by-country.metadata.json"
+    },
+    {
+      "name": "per-capita-electricity-generation.csv",
+      "original_name": null,
+      "sha256": "6cfa3afd39e0751da1d044ddd8b22ed5949319bc04bc938517353a0a01d4af16",
+      "bytes": 204883,
+      "source_url": "https://ourworldindata.org/grapher/per-capita-electricity-generation",
+      "download_url": "https://ourworldindata.org/grapher/per-capita-electricity-generation.csv",
+      "time_coverage": "1985-2025"
+    },
+    {
+      "name": "per-capita-electricity-generation.metadata.json",
+      "original_name": null,
+      "sha256": "3e9a6db4e319a87285bf0ee03c5386ae3e850faf78d453adbf79de8a9ab0bf65",
+      "bytes": 2074,
+      "source_url": "https://ourworldindata.org/grapher/per-capita-electricity-generation",
+      "download_url": "https://ourworldindata.org/grapher/per-capita-electricity-generation.metadata.json"
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "1750-2025",
+  "frequency": "annual",
+  "topics": [
+    "oil",
+    "energy",
+    "electricity",
+    "co2-emissions"
+  ],
+  "units": "per chart — see each <slug>.metadata.json (grapher) or codebook CSV (panels)",
+  "license_terms": "CC BY 4.0 (Our World in Data); underlying third-party data subject to original providers' terms — see metadata.json/codebook for source-level citations",
+  "notes": "Each chart = <slug>.csv (data, long format: Entity,Code,Year,value...) + <slug>.metadata.json (units, sources, citations) from the OWID Grapher CSV API. Per-file time coverage recorded in files[].time_coverage. All-country files kept deliberately (natural download unit; enables adding comparators).",
+  "failures": []
+}

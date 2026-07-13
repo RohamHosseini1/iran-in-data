@@ -1,0 +1,56 @@
+{
+  "dataset_id": "owid-energy-data-panel",
+  "title": "OWID Energy Data — complete compiled country-year panel (owid/energy-data)",
+  "source_org": "Our World in Data",
+  "source_url": "https://github.com/owid/energy-data",
+  "download_url": "https://github.com/owid/energy-data",
+  "retrieved_at_utc": "2026-07-12T17:27:45Z",
+  "retrieved_by": "agent:owid-download",
+  "files": [
+    {
+      "name": "owid-energy-codebook.csv",
+      "original_name": null,
+      "sha256": "3cc9b7db0d921496e2988568ce3aee5ed41f50431dd234a0663b5f0a4b2e32bb",
+      "bytes": 45793,
+      "source_url": "https://github.com/owid/energy-data",
+      "download_url": "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-codebook.csv"
+    },
+    {
+      "name": "owid-energy-data.csv",
+      "original_name": null,
+      "sha256": "266f2e2baad7975351bc9bb4aa061d22b1da9fe4c47d51d2ac6071e01e171f76",
+      "bytes": 9229369,
+      "source_url": "https://github.com/owid/energy-data",
+      "download_url": "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv",
+      "time_coverage": "1900-2025"
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "1900-2025",
+  "frequency": "annual",
+  "topics": [
+    "energy",
+    "electricity",
+    "oil",
+    "gas",
+    "coal",
+    "renewables"
+  ],
+  "units": "per chart — see each <slug>.metadata.json (grapher) or codebook CSV (panels)",
+  "license_terms": "CC BY 4.0 (Our World in Data); underlying third-party data subject to original providers' terms — see metadata.json/codebook for source-level citations",
+  "notes": "Compiled OWID panel from GitHub master branch; codebook CSV describes every column. Wide format, one row per country-year, ISO3 in 'iso_code'.",
+  "failures": []
+}

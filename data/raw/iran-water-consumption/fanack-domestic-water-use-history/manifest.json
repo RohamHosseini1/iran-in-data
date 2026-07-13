@@ -1,0 +1,33 @@
+{
+  "dataset_id": "iran-domestic-water-consumption-history",
+  "title": "Iran Domestic/Household Water Consumption and Sector Withdrawal, 1993-2041 (incl. Tehran-specific per-capita figures)",
+  "source_org": "Fanack Water (Netherlands-based knowledge platform), citing Zekri ed. 2020 Water Policies in MENA Countries (Springer/IWA academic volume); CSIS; Circle of Blue; yekab.com",
+  "source_url": "https://water.fanack.com/iran/water-uses-in-iran/",
+  "download_url": null,
+  "retrieved_by": "claude",
+  "retrieved_at_utc": "2026-07-13T03:00:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "34b58052466e138d51c519acf800f2e54385a47f81e59631a846ccbb0d4f5b88",
+      "bytes": 3006
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1993-2016 (observed), 2041 (single projection point)",
+  "frequency": "irregular (scattered years, thin historical depth -- confirmed genuine data-scarcity for this topic, not a search failure)",
+  "topics": [
+    "consumption",
+    "water-consumption",
+    "utility-consumption",
+    "household-water-use",
+    "micro-consumption"
+  ],
+  "units": "billion cubic meters per year (sector totals); liters per person per day (per-capita figures)",
+  "license_terms": "Secondary compilation from a public water-policy knowledge platform, citing an academic edited volume; public-interest journalism (CSIS, Circle of Blue) for Tehran-specific figures",
+  "notes": "Genuinely thin historical depth compared to the other consumption datasets landed this session -- Iran water-use statistics are dominated by agricultural withdrawal (91% of the 2016 total), and dedicated historical per-capita DOMESTIC/household time series proved hard to find; this is the best available compilation after a real search effort, not a shortcut. No Pahlavi-era water-consumption figures were found at all (flagged as a confirmed gap, not yet searched exhaustively via primary Iranian Ministry of Energy sources which were not reachable this session per the usual Iran-domestic-site access problems documented elsewhere in this project). An NCRI-affiliated article (ncr-iran.org, \"Iran Domestic Capacity Crisis: Food, Water, and Urban Safety\") surfaced in search results for this topic and was deliberately NOT used, per docs/bookkeeping.md source-reliability policy -- Fanack/CSIS/Circle of Blue were used instead. Every row is individually confidence-flagged (high/medium/low) given the number of secondary/tertiary citations involved for this particular topic.",
+  "failures": []
+}

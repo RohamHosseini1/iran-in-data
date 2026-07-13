@@ -1,0 +1,22 @@
+{
+  "dataset_id": "usbm1963-petroleum-industry-of-iran-source-pdf",
+  "title": "The Petroleum Industry of Iran (US Bureau of Mines Information Circular 8203, 1963) -- source PDF",
+  "source_org": "US Department of the Interior, Bureau of Mines (authors: L. Nahai and C. L. Kimbell)",
+  "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+  "download_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+  "retrieved_at_utc": "2026-07-13T00:15:19Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "files": [
+    {"name": "usbm_ic8203_petroleum_industry_of_iran_1963.pdf", "original_name": "the-petroleum-industry-of-iran.pdf", "sha256": "3298e1806e19ecb5b3f363218ee7f793b88f584916a02481f4cecd60ce67c261", "bytes": 21346037}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1910-1962 (data tables); published 1963",
+  "frequency": "one-time historical publication",
+  "topics": ["oil", "AIOC", "Consortium Agreement", "wages", "employment", "royalties", "government revenue"],
+  "units": "n/a (source document)",
+  "license_terms": "US Government publication (Bureau of Mines), public domain; mirror hosted at mohammadmossadegh.com (a Mossadegh-history archive site, used here only as a file host for a genuine 1963 US government document -- the document's authorship and content are entirely US Dept of Interior, not the hosting site)",
+  "notes": "130-page scanned-image PDF (no text layer -- confirmed via pdftotext returning 0 lines; Adobe Acrobat 10.1.1 Image Conversion Plug-in in metadata confirms scan-only). Extracted via this project's established methodology: pdftoppm -r 150 render to PNG + Read tool visual verification (NOT OCR/pdftotext, which is unusable on this file). 5 tables extracted into separate sibling dataset folders (see usbm1963-consortium-disbursements-1954-1962, usbm1963-aioc-profits-royalties-1910-1951, usbm1963-oil-revenue-distribution-1957-1959, usbm1963-oil-industry-employment-1939-1960, usbm1963-oil-industry-personnel-by-category-1955-1961) -- this folder holds only the raw source PDF per bookkeeping convention (raw file + manifest; extracted CSVs live in their own dataset folders alongside their own manifests, mirroring the wb1974-*/wb1971-* pattern established in Round 37 for World Bank Archives PDFs). Direct WebFetch failed with 'maxContentLength exceeded' (file too large for the WebFetch tool's 10MB cap) -- recovered via direct curl with a browser User-Agent (curl HEAD alone returned HTTP 406, but a full GET with a Safari UA succeeded and returned the complete 21.3MB file, sha256-verified).",
+  "failures": [
+    {"attempted": "WebFetch tool direct fetch", "outcome": "error: maxContentLength size of 10485760 exceeded", "note": "recovered via curl with browser User-Agent header"}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dataset_id": "oecd-collective-bargaining-coverage",
+  "title": "OECD/AIAS ICTWSS — Collective Bargaining Coverage",
+  "source_org": "OECD (Employment, Labour and Social Affairs Directorate) / AIAS-HSI, University of Amsterdam",
+  "source_url": "https://data-explorer.oecd.org/vis?df[ag]=OECD.ELS.SAE&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_TUD_CBC@DF_CBC",
+  "download_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_TUD_CBC@DF_CBC,1.0/KOR+TUR+ESP+PRT+GRC+USA+DEU+FRA+GBR+ITA+NLD+SWE..?dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+  "retrieved_at_utc": "2026-07-12T18:28:45Z",
+  "retrieved_by": "agent:oecd",
+  "files": [
+    {"name": "collective-bargaining-coverage_2026-07-12.csv", "original_name": null, "sha256": "cd8db2e99065c8e54b7748a3a3ace585849ce6474c02baa6afcb73dc98c681f4", "bytes": 96128}
+  ],
+  "countries": ["KOR", "TUR", "ESP", "PRT", "GRC", "USA", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1960–2020s (coverage varies by country), annual",
+  "frequency": "annual",
+  "units": "percentage of employees (PT_SAL)",
+  "license_terms": "OECD Terms and Conditions — free reuse with attribution (data jointly produced with AIAS-HSI)",
+  "notes": "SDMX dataflow OECD.ELS.SAE:DSD_TUD_CBC@DF_CBC(1.0), 'Collective bargaining coverage'. Part of the OECD/AIAS ICTWSS database. MEASURE=ERB ('Employees with the right to bargain') among others. Companion to the trade-union-density dataset (same DSD_TUD_CBC data structure, different dataflow).",
+  "failures": []
+}

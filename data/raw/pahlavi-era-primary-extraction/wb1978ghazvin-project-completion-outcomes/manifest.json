@@ -1,0 +1,21 @@
+{
+  "dataset_id": "wb1978ghazvin-project-completion-outcomes",
+  "title": "Ghazvin (Qazvin) Area Development Project -- Project Performance Audit: Original Plan vs. Actual Outcomes (World Bank, 1978)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank), Operations Evaluation Department (OED)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION from data/raw/world-bank-archives-iran/historical-documents/1978_ghazwin_development_project_completion.pdf (58 pages, already present in archive, not previously mined). Text extracted via `pdftotext -layout`; the 'Project Performance Audit Basic Data Sheet' (Sections A-D) and the narrative 'Highlights' rendered cleanly with no column-scrambling -- no PNG visual-verification pass needed. Figures transcribed exactly as printed, including the report's own footnoted caveats (e.g. footnote /e on a much higher now-estimated actual cost for follow-on works).",
+  "retrieved_by": "claude (manual transcription)",
+  "retrieved_at_utc": "2026-07-13T00:04:05Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "f557e0cea13a54c02ec5d0dc59121caa32fcfa4eb8afb27b16fd97e30fcaf655", "bytes": 1782}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1962 (Bank conception) - 1977 (audit basic-data-sheet as-of date), auditing a project appraised 1967 and loan-closed 1974",
+  "frequency": "single project audit (not a time series)",
+  "topics": ["water-infrastructure", "irrigation", "groundwater", "ghazvin-qazvin", "world-bank-projects", "pahlavi-era", "project-evaluation", "land-reform"],
+  "units": "mixed -- see notes column",
+  "license_terms": "World Bank Archives — public disclosure authorized (restricted-distribution document, historical)",
+  "notes": "Companion dataset to wb1967ghazvin-project-cost-and-parameters (the original appraisal). This is a genuinely rare find in this project's archive: an ex-post World Bank performance audit comparing appraised targets to actual results, rather than just a forward-looking appraisal. Key finding: economic rate of return collapsed from an appraised 10% to approximately 0%, and only US$9.2M of the original US$22M loan was disbursed (US$12.8M cancelled) -- attributed to overestimated groundwater availability, the Borrower's rejection of an initial understanding to expropriate private wells for the project under land reform, and Bank/Borrower disagreements over procurement procedures. The report also references the Dez project directly (footnote /d: joint Bank supervision missions split field time 50/50 between Dez and Ghazvin), reinforcing that these two document sets are companions within the same World Bank Iran water-sector appraisal series. Part of this project's systematic Pahlavi-era World Bank PDF mining effort (Round 38).",
+  "failures": []
+}

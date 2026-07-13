@@ -1,0 +1,19 @@
+{
+  "dataset_id": "oecd-average-annual-wages",
+  "title": "OECD Average Annual Wages per Full-Time Equivalent Employee",
+  "source_org": "OECD (Employment, Labour and Social Affairs Directorate)",
+  "source_url": "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_EARNINGS@AV_AN_WAGE&df[ag]=OECD.ELS.SAE",
+  "download_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,1.0/KOR+TUR+ESP+PRT+GRC+USA+DEU+FRA+GBR+ITA+NLD+SWE......?dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+  "retrieved_at_utc": "2026-07-12T18:27:10Z",
+  "retrieved_by": "agent:oecd",
+  "files": [
+    {"name": "average-annual-wages_2026-07-12.csv", "original_name": null, "sha256": "490209af405c7341edcfed60ade0f6dffc9fcd8848fd477bbcced3b55009cb8f", "bytes": 277870}
+  ],
+  "countries": ["KOR", "TUR", "ESP", "PRT", "GRC", "USA", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1990–2025, annual",
+  "frequency": "annual",
+  "units": "national currency and USD PPP-converted, current and constant (2024) prices — see UNIT_MEASURE/PRICE_BASE columns",
+  "license_terms": "OECD Terms and Conditions — free reuse with attribution",
+  "notes": "SDMX dataflow OECD.ELS.SAE:DSD_EARNINGS@AV_AN_WAGE(1.0), 'Average annual wages'. Average annual wage per FTE dependent employee, national-accounts-based total wage bill divided by average FTE employee count. All PAY_PERIOD/PRICE_BASE/AGGREGATION_OPERATION/SEX combinations kept (no sub-filter beyond country) since file is small.",
+  "failures": []
+}

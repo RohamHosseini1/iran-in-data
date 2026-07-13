@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1971-appendix1-balance-of-payments-summary",
+  "title": "Balance of Payments Summary, Iran, 1963/4-1969/70 (World Bank, 1971)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1971 World Bank report on Iran's foreign trade and balance of payments (data/raw/world-bank-archives-iran/historical-documents/1971_foreign_trade_balance_of_payments.pdf, 21 pages). Table location was found via pdftotext -layout piped through a form-feed page split and searching for 'BALANCE OF PAYMENTS'; the table itself is Appendix I. The exact page (PDF page 20) was rendered to PNG at both 200 and 400 dpi (pdftoppm -png -r 200/-r 400 -f 20 -l 20) and every value was read directly from the image. One cell (Errors and omissions, 1964/5) was cropped and re-rendered at 4x zoom with autocontrast for close inspection because the printed digits were obscured by what appears to be an ink smudge or page crease in the original scan; it could not be confidently read as a specific number, so it was left blank rather than guessed -- see the per-row note in data.csv, including a cross-check against the balance-of-payments accounting identity (current account + capital account + monetary movements + errors and omissions = 0) which holds exactly for all other 6 years and suggests -14, but this is a derived inference, not a transcribed value, so it was NOT entered into the CSV. No other value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:14:55Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "7061b0df73b0b36b818b949698b88c9a8d01bf57ffa8300ee8a9a2e143327acf",
+      "bytes": 1871
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1963/64-1969/70 (Iranian calendar years)",
+  "frequency": "annual",
+  "topics": [
+    "balance-of-payments",
+    "foreign-trade",
+    "exports",
+    "imports",
+    "capital-flows",
+    "pahlavi-era"
+  ],
+  "units": "millions of US dollars, see data.csv notes column for footnoted rows",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1971_foreign_trade_balance_of_payments.pdf — Appendix I 'Balance of Payment Summary', PDF page 20. Original source cited within the document as Bank Markazi (Central Bank of Iran). The 'cagr_pct_7yr' column reproduces the source's 'Compound Annual Rate of Growth %' column where present; for capital_flow_private/public the source brackets both rows together under a single combined 80% figure; for net_capital_account and monetary_movements the source instead prints a seven-year total (1339 and -54 respectively, footnote 1/) in that column position, recorded in the notes field rather than the numeric cagr column. This complements the oil-sector revenue/export series (wb1971-table9-oil-exports-and-revenues) with the full current+capital account picture for the same years. Part of a systematic effort to extract Pahlavi-era (1960s-70s) data from primary-source World Bank PDFs.",
+  "failures": []
+}

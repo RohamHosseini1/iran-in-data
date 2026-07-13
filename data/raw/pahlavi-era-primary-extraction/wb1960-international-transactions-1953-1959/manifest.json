@@ -1,0 +1,35 @@
+{
+  "dataset_id": "wb1960-table15-international-transactions",
+  "title": "International Transactions (Balance of Payments), Iran, 1953-1959 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank), compiling IMF data",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places, e.g. '76.L' for '76.1', 'Net receipts 2/' for the image's clearly-legible 'Net receipts 3/'). Every value in this file was verified by rendering the exact source pages (Table 15, pages 50-51, plus a page 52 footnote-continuation page with no additional numbers) to high-resolution PNGs (pdftoppm -r 200, with additional 300 dpi targeted crops for ambiguous footnote markers) and visually reading the table directly from the image. As an accuracy check, every printed subtotal and total in the table (Group A/NIOC Total, Group A/Oil consortium Net receipts, Group A Total for Oil Sector, Group B/C/D Totals, Group F Total for Non-Oil Sector, Group G Total) was independently re-summed from its component line items and matched the printed figure exactly in every case except the two cases explicitly noted in data.csv (NIOC Total for 1953-54, which the source footnotes explain includes amounts folded into other groups). No value was interpolated, estimated, or fabricated; ambiguous footnote markers and blank/dot vs. dash conventions are documented per-row in data.csv rather than resolved by guessing.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:25:12Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "039f9915674581c2bcd62e48cfe5aae7aeb382bcf15d3ded2340d49809ce92eb",
+      "bytes": 9214
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1953-1959",
+  "frequency": "annual (years ended March 20)",
+  "topics": [
+    "balance-of-payments",
+    "international-transactions",
+    "oil",
+    "foreign-aid",
+    "capital-flows",
+    "pahlavi-era"
+  ],
+  "units": "million US dollars",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 15, pages 50-51 (data) and page 52 (footnotes continued, no additional numbers), source: International Monetary Fund. This is the largest and most complex table extracted in this batch: a full balance-of-payments breakdown in seven groups (A. Transactions of Oil Sector [split into NIOC and Oil Consortium sub-blocks], B. Other Goods and Services, C. Other Private Donations and Capital, D. Official Donations and Capital, E. Net Errors and Omissions, F. Total for Non-Oil Sector, G. Monetary Movements). The CSV uses a long/tidy section+line_item format with one column per year (1953-1959) rather than replicating the source's nested visual layout. Six numbered footnotes in the source (1/ through 6/) qualify specific rows/cells; their full text and which row(s) they attach to are recorded per-row in the notes column of data.csv rather than summarized here, because several of them materially change how a 'blank' cell should be interpreted (e.g. footnote 1/ and 2/ mean certain 1953-54 NIOC figures are folded into other groups rather than genuinely zero). One footnote (4/, about a $70 million Anglo-Iranian Oil Company nationalization/compensation wash entry) could not be conclusively matched to a specific visible cell and is quoted in the Compensation-to-BPC row's notes for reference rather than assigned a location. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

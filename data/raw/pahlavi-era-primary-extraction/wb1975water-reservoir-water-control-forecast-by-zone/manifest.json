@@ -1,0 +1,21 @@
+{
+  "dataset_id": "wb1975water-annex4-table4.3-reservoir-water-control-forecast-by-zone",
+  "title": "Forecast of Annual Average Water Controlled by Reservoir Dams and Estimated Public-Sector Water Supply (Agriculture / Cities & Industries), by Regional Zone -- Fourth and Fifth Development Plans",
+  "source_org": "Statistical Centre of Iran (1972 Statistical Yearbook), cited by World Bank appraisal mission",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION with visual verification. Source: data/raw/world-bank-archives-iran/historical-documents/1975_water_supply_sewerage_vol2_annexes.pdf, Volume II Annex 4 Table 4.3, PDF page 33. Rendered to PNG at 300 DPI via `pdftoppm -png -r 300 -f 33 -l 33` and read directly with the Read tool. Several source cells print as the OCR-ambiguous string '000' where the table clearly intends a genuine zero value in context (row/column totals reconcile correctly when treated as 0) -- these are transcribed as 0 in this CSV; this is a disclosed interpretive judgment, not a source-copy error, and is flagged here rather than silently applied.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-13T00:07:58Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "39d131b3cb0f796b9ccd212c5bac2f05b4a739dac402b21af87fe2282da26960", "bytes": 877}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "Fourth Development Plan (1968-1972) actual/end-point + Fifth Development Plan (1973-1977) forecast",
+  "frequency": "single cross-section by regional zone (not an annual time series)",
+  "topics": ["water-infrastructure", "dams", "irrigation", "regional-planning", "khuzestan", "azarbayejan", "tehran", "esfahan", "pahlavi-era", "development-plans"],
+  "units": "million cubic metres",
+  "license_terms": "World Bank Archives — public disclosure authorized document; underlying data originally from Iran's 1972 Statistical Yearbook (Statistical Centre of Iran)",
+  "notes": "Regional breakdown showing Khuzestan (site of the Dez and Karun dams) as by far the largest water-control zone (15,112 Mm3 by end of 5th Plan, ~57% of the national 26,280 Mm3 total) -- direct quantitative confirmation of Khuzestan's centrality to Iran's Pahlavi-era dam-building program, consistent with the Dez Multipurpose Project data (wb1960dez-* datasets) and the major-dams table (wb1975water-major-dams-specifications-1971) in this same round. Companion datasets: wb1975water-major-dams-specifications-1971 (Table 4.1) and wb1975water-diversion-dams-specifications (Table 4.2). Part of this project's Round 38 (mining/dams/industrial subsectors) hunt.",
+  "failures": []
+}

@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1960-table10-budgeted-expenditures",
+  "title": "Budgeted Expenditures, Iran, 1955/56-1959/60 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 10, page 45) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous throughout. As a cross-check, the 1955/56 column of line items (4500+728+841+390+2111+309+425+519+581+840+3582) was summed and confirmed to equal the printed Total budgeted expenditure of 14,826. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:18:02Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "6a7a521aa3122e41f86cdf940dbc321e45d259ff4b698f78d08f13df3c2664c6",
+      "bytes": 1102
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1955/56-1959/60",
+  "frequency": "annual (years ending March 20)",
+  "topics": [
+    "fiscal",
+    "government-budget",
+    "government-expenditure",
+    "pahlavi-era"
+  ],
+  "units": "million rials",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 10, page 45, source: Ministry of Finance, Teheran. 1959/60 is a budgeted (not yet actual) year, so 'Actual expenditure' is blank for that column in the source. Total/Actual figures for 1958/59 exclude 'Special Expenditures' covered entirely by 'Special Revenues' of Rls. 1.2 billion per footnote 1/. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

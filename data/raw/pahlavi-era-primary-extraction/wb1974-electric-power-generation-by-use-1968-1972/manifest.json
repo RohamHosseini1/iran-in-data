@@ -1,0 +1,36 @@
+{
+  "dataset_id": "wb1974-table15.3-electric-power-generation-by-plant-and-use",
+  "title": "Electric Power Generation by Plant and Use for Selected Years, Iran 1968-1972 (incl. domestic/residential consumption by regional company)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Ministry of Water and Power (Iran)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf, Table 15.3, page 138 (PDF page 146). Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1968, 1970, 1971 (per-company breakdown); 1968-1972 (agency + industrial totals)",
+  "frequency": "annual snapshot (selected years, not continuous)",
+  "topics": [
+    "energy",
+    "electric-power",
+    "electricity-consumption",
+    "residential-consumption",
+    "utility-consumption",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "unit not explicitly printed on the source page -- inferred to be million kWh (GWh) from context and cross-checked plausible against Iran's independently-known total generation scale c.1971 (~7.2 TWh, i.e. Grand Total row 7,244 matches if units are million kWh). Flagged explicitly as inferred, not fabricated.",
+  "notes": "Breaks total electric power generation/consumption into Industrial, Agricultural, Street Lighting, Domestic, and Public/Commercial/Other use categories, both by individual regional electric company and nationally aggregated. The 'domestic' (residential) row -- 642 (1968) / 808 (1970) / 983 (1971) / 1,206 (1972) -- is this project's first direct measure of Iran's household/residential electricity consumption specifically (as opposed to WDI's economy-wide 'electric power consumption kWh per capita', which is not sector-disaggregated and only starts in data/processed/macro_wdi.csv from 1990). Can be divided by contemporaneous population (see macro_maddison.csv or iran_data_portal series) to derive a residential per-capita kWh figure for the early 1970s -- left as a derived-field exercise for data/processed/, not computed here since raw data must stay exactly as transcribed.",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "84430fab1b2e10268ad96080b3b8273ecc5b2274eb0e905480cc54d9a0b8cadf",
+      "bytes": 55551
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

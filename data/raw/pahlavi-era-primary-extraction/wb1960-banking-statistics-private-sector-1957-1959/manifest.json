@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1960-table14-banking-statistics-private-sector",
+  "title": "Banking Statistics of Private Sector, Iran, June 1957-June 1959 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 14, page 49) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous for all numeric values. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:19:59Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "73c5f41f6b0f2ec3768e2ca7c830ba13a52983f678b32bb7088e107538b07ceb",
+      "bytes": 1488
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "June 1957-June 1959",
+  "frequency": "annual snapshot (20th of June)",
+  "topics": [
+    "banking",
+    "private-sector-credit",
+    "deposits",
+    "pahlavi-era"
+  ],
+  "units": "see data.csv column headers / notes",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 14, page 49, source: Compilation by IBRD Mission based on International Financial Statistics. CSV uses a long/tidy section+line_item format to mirror the source's three blocks (billion-rial levels, percent shares, and advances/deposits ratios). AMBIGUITY FLAGGED: the source prints the 'Excess Cash' row label itself in parentheses -- '(Excess Cash)' -- with its three values also parenthesized -- '(1.58)' '(2.66)' '(3.32)'. This project's other tables use parentheses strictly for negative numbers, but here the values grow in step with the Cash row (2.09->4.57) rather than behaving like a deficit, so it more likely reflects a typographic convention marking this as a derived/memo line rather than a true negative. We transcribed the magnitudes as positive (1.58, 2.66, 3.32) and flagged this note rather than silently picking a sign; a future user with fuller context on 1960 IBRD table conventions should double check the source image (page 49) before treating this row as strictly positive or negative. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

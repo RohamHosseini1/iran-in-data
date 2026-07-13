@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1971-table9-oil-exports-and-revenues",
+  "title": "Oil Exports and Revenues, Iran, 1963/64-1970/71 (World Bank, 1971)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1971 World Bank report on Iran's petroleum sector (data/raw/world-bank-archives-iran/historical-documents/1971_petroleum_sector.pdf, 89 pages) with a poor-quality OCR text layer (garbled digits and OCR noise, e.g. 'OIL EPXPORTS AND lREValUES_'). Table location was found via pdftotext -layout piped through a form-feed page split and searched for 'Table' headings, cross-checked against the document's own List of Tables (page 5) to identify Table 9 = 'Oil Exports and Revenues'. The exact page (PDF page 28, printed page 19) was rendered to a high-resolution PNG (pdftoppm -png -r 200 -f 28 -l 28) and every value was read directly from the image, which was fully legible (image much cleaner than the OCR text layer). No value was interpolated, estimated, or fabricated; dashes in the source table (no revenue in that year for that company) are preserved as blank cells.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:11:37Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "e17a530720c75e79a9e4f9ec577777aa69945700f07c5eecc20cd3cb4c13dcdb",
+      "bytes": 878
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1963/64-1970/71 (Iranian calendar years; 1970/71 is a preliminary estimate)",
+  "frequency": "annual",
+  "topics": [
+    "oil",
+    "petroleum",
+    "exports",
+    "government-revenue",
+    "pahlavi-era"
+  ],
+  "units": "see data.csv column headers / notes; export volumes in million metric tons, revenues in million US dollars, average revenue in US dollars per ton",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1971_petroleum_sector.pdf — Table 9, PDF page 28 (printed page 19). Footnote 1/ in the source states export volumes refer to calendar year while revenue figures are by Iranian calendar year, but both are tabulated under the same year-column headings in the original -- reproduced as-is here. 'Consortium' = the Iranian Oil Participants consortium of international oil companies operating under the 1954 Agreement; 'NIOC' = National Iranian Oil Company (revenues from barter-trade crude exports); 'Other Companies' = joint-venture partners (ARAMCO-style SIRIP, IPAC, AGIP/ERAP etc.). Part of a systematic effort to extract Pahlavi-era (esp. 1960s-70s) data from primary-source World Bank PDFs already in data/raw/, extending the pre-1960 series already captured from the 1960 World Bank report.",
+  "failures": []
+}

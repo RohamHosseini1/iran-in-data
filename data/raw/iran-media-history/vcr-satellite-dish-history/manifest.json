@@ -1,0 +1,36 @@
+{
+  "dataset_id": "iran-vcr-satellite-dish-history",
+  "title": "Iran VCR (Videocassette) and Satellite Dish Ownership/Ban History, 1983-2016",
+  "source_org": "Multiple: Ajam Media Collective (academic interview), PBS Frontline/Tehran Bureau hosting a Small Media 2012 report (citing a US Broadcasting Board of Governors survey and an Iran state-media poll), Middle East Eye, CSMonitor, Dawn.com (independent press)",
+  "source_url": "https://ajammc.com/2017/11/29/video-cassettes-in-iran/ ; https://www.pbs.org/wgbh/pages/frontline/tehranbureau/SatelliteJammingInIranSmallMedia.pdf ; https://www.middleeasteye.net/news/iran-destroys-100000-illegal-satellite-dishes",
+  "download_url": null,
+  "retrieved_by": "claude",
+  "retrieved_at_utc": "2026-07-13T02:00:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "abb1e13a00cc748451256b007ee858401163e517a3723a4362cca2307f08d456",
+      "bytes": 4358
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1983-2016 (irregular: bans/legislation dates plus scattered survey years)",
+  "frequency": "irregular (event dates and scattered survey years, not a continuous series)",
+  "topics": [
+    "media-consumption",
+    "entertainment-consumption",
+    "durable-goods",
+    "vcr",
+    "satellite-tv",
+    "censorship",
+    "pahlavi-post-era",
+    "micro-consumption"
+  ],
+  "units": "percent of households/population (ownership/viewership); count (dishes destroyed); minutes per day (viewing time); event flags for legislation dates",
+  "license_terms": "Academic interview (fair-use excerpting), NGO/press-report factual reporting, and one Iran-state-media-attributed poll figure (labeled per source policy)",
+  "notes": "This is an Islamic-Republic-era phenomenon (no Pahlavi-era equivalent -- satellite TV did not exist as a mass medium before the 1979 revolution, and VCR technology only arrived in Iran in the late 1970s just before the revolution) so it intentionally sits outside this project's usual Pahlavi-era weighting, per the mission brief's explicit call-out of satellite dish ownership as a notable IRI-era phenomenon worth covering despite the general pre-1979 focus. CONFIDENCE FLAGGED PER ROW: a widely-repeated but SOURCE-UNVERIFIABLE claim (\"2.5 million VCRs in Iran by 1993, one VCR per two televisions\") surfaced in web-search AI summaries attributed to MIT Press Reader / Blake Atwood's academic work, but the MIT Press Reader page returned HTTP 403 on direct fetch and no independent primary source could be located to confirm the exact figure -- EXCLUDED from this dataset rather than included on unverified secondhand authority, per project no-fabrication rules. If a future session can access the MIT Press Reader page or Atwood's underlying book/thesis directly, this would be a valuable addition. One NCRI-affiliated result (ncr-iran.org, \"Iran regime admits over 40% Iranians view satellite TV\") surfaced in search results for this topic and was deliberately NOT used per docs/bookkeeping.md source-reliability policy -- the Middle East Eye/CSMonitor/Dawn.com independent-press coverage of the same underlying events was used instead.",
+  "failures": []
+}

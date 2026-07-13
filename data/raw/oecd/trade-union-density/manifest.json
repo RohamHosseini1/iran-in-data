@@ -1,0 +1,19 @@
+{
+  "dataset_id": "oecd-trade-union-density",
+  "title": "OECD/AIAS ICTWSS — Trade Union Density",
+  "source_org": "OECD (Employment, Labour and Social Affairs Directorate) / AIAS-HSI, University of Amsterdam",
+  "source_url": "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_TUD_CBC@DF_TUD&df[ag]=OECD.ELS.SAE",
+  "download_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_TUD_CBC@DF_TUD,1.0/KOR+TUR+ESP+PRT+GRC+USA+DEU+FRA+GBR+ITA+NLD+SWE..?dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+  "retrieved_at_utc": "2026-07-12T18:28:05Z",
+  "retrieved_by": "agent:oecd",
+  "files": [
+    {"name": "trade-union-density_2026-07-12.csv", "original_name": null, "sha256": "cf2d6ac4baa98b3ef9ac1fa33632ccdf6d86a64ff96bd80fa1de3625d8701e0e", "bytes": 111717}
+  ],
+  "countries": ["KOR", "TUR", "ESP", "PRT", "GRC", "USA", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1960s–2020s (coverage varies by country), annual",
+  "frequency": "annual",
+  "units": "percentage of employees (PT_SAL)",
+  "license_terms": "OECD Terms and Conditions — free reuse with attribution (data jointly produced with AIAS-HSI)",
+  "notes": "SDMX dataflow OECD.ELS.SAE:DSD_TUD_CBC@DF_TUD(1.0), 'Trade union density'. Part of the OECD/AIAS ICTWSS database (rebranded from the original Visser ICTWSS database in 2021). Companion dataflow DF_CBC (collective bargaining coverage) downloaded separately in the collective-bargaining-coverage dataset folder — same underlying DSD_TUD_CBC data structure, different dataflow/measure.",
+  "failures": []
+}

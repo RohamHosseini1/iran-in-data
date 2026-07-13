@@ -1,0 +1,33 @@
+{
+  "dataset_id": "wb1971-table6.5-bank-deposits-private-sector",
+  "title": "Bank Deposits of the Private Sector (Sight, Saving, Time Deposits), Iran, 1963/64-1969/70 plus two 12-month rolling periods (World Bank, 1971)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank), companion table to Table 6.1 'Monetary Survey' in the same report section, both ultimately sourced from Bank Markazi Iran (Central Bank of Iran) data",
+  "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Source document is data/raw/world-bank-archives-iran/historical-documents/1971_cep_vol7_statistical_annex.pdf (Iran - Current economic position and prospects, Vol. 7 of 7: Statistical annex, May 18 1971), Table 6.5, immediately following Table 6.1 (already extracted as wb1971-monetary-survey-1963-1970) in the same 'SECTION VI MONETARY DATA' chapter. Rendered at 400 DPI via `pdftoppm -r 400 -f 73 -l 73 -png` and read directly from the rendered PNG using the Read tool, with an additional cropped close-up pass (via PIL) on the numeric rows to resolve a specific ambiguity. Every column was cross-checked by arithmetic (Total = Sight + Saving + Time Deposits): SIX of the eight columns reconciled EXACTLY (1963/64, 1965/66, 1966/67, 1967/68, 1968/69, 1969/70, plus both 12-month rolling columns). ONE COLUMN DOES NOT RECONCILE: 1964/65 prints Sight=26.2, Saving=20.6, Time=14.7 (sum=61.5) but the printed Total is 63.5, a discrepancy of exactly 2.0 billion rials. Re-verified the three component digits at 400 DPI with a cropped close-up -- all three are unambiguously legible as printed (26.2 / 20.6 / 14.7), so this is NOT a transcription/OCR error on this project's end; it appears to be an arithmetic error already present in the original 1971 World Bank typescript itself (plausible given these are typewriter-era hand-tabulated reports). Transcribed exactly as printed (both the three components AND the printed Total of 63.5) rather than silently 'correcting' the total to 61.5, per this project's no-fabrication rule -- flagging the inconsistency here for any downstream user rather than resolving it unilaterally. The percent-of-total-deposits panel (bottom half of the table) was independently cross-checked against the billion-rial panel (e.g. 1964/65: 26.2/63.5=41.3% printed as 44.4% -- note the percent panel uses the PRINTED Total of 63.5 as its denominator consistently across the row, i.e. the percentages are internally consistent with the flawed Total, not with the corrected 61.5) and found consistent with using 63.5 as the denominator for all three 1964/65 percentages, confirming the 63.5 Total (not a fresh transcription error) is what the source's own percent panel was actually computed from. The source table carries a footnote: 'Data are based on a 12-month average and do, therefore, not tally with data presented in Table 6.1' -- explaining why this table's figures differ from Table 6.1's year-end-position deposit figures despite covering an overlapping topic. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification, main-thread continuation session 2026-07-13)",
+  "retrieved_at_utc": "2026-07-13T03:30:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "1b03f5f796ac65e0da66ecf3b4210f644e25bf51b5958e56e6d1ec5a984df450",
+      "bytes": 654
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1963/64-1969/70 (Iranian fiscal year, ending March 20) plus Sept.1968-Aug.1969 and Sept.1969-Aug.1970 12-month rolling periods",
+  "frequency": "annual (fiscal year, 12-month-average basis per source footnote) plus two 12-month rolling windows",
+  "topics": [
+    "banking",
+    "bank-deposits",
+    "money-supply",
+    "central-bank",
+    "bank-markazi-iran",
+    "pahlavi-era",
+    "private-sector-savings"
+  ],
+  "units": "billion Iranian rials; percent of total deposits",
+  "license_terms": "World Bank internal/restricted-at-time-of-writing report, now released via World Bank Archives / Documents & Reports as historical material; treated as public-domain-equivalent primary source per this project's established handling of the rest of the world-bank-archives-iran/historical-documents/ collection.",
+  "notes": "Companion table to wb1971-monetary-survey-1963-1970 (Table 6.1) in the same World Bank statistical annex, both from data/raw/world-bank-archives-iran/historical-documents/1971_cep_vol7_statistical_annex.pdf, SECTION VI MONETARY DATA. Added in the 2026-07-13 continuation session while hunting for CBI/Bank Melli-sourced historical banking data (per the mission's angle: 'IMF eLibrary/IMF Archives citing specific CBI bulletin tables in staff reports -- check World Bank reports too for CBI-sourced tables'). Table 6.1 in this same document explicitly cites 'Source: Bank Markazi Iran' -- Table 6.5 does not repeat a separate source line but is the immediately-following table in the same monetary-data section using the same underlying central-bank statistical base (sight/saving/time deposit breakdown is a standard Bank Markazi Iran monetary-survey component, cf. the same three deposit categories appearing inside Table 6.1's own 'Deposits of' government-sector breakdown). Other tables in the same SECTION VI (6.2 Changes in Money and Quasi-Money, 6.3 Credit Expansion by Commercial and Specialized Banks, 6.4 Interest Rates on Bank Deposits, 6.6 Ownership Distribution of Government Bonds) were reviewed but NOT extracted this pass -- 6.2 substantially overlaps content already captured elsewhere (cf. wb1971-changes-money-quasi-money-1965-1971), 6.3's source page rendered too garbled to transcribe reliably even at 400dpi (heavy scan degradation, unlike 6.1/6.4/6.5 which were clean), and 6.4/6.6 were deprioritized by time budget in favor of covering the CBI/Bank Melli mission's other angles (Majlis budget-law gaps, CBI Annual Review Wayback extension, TSE index). Table 6.4 (Interest Rates on Bank Deposits, 1960-1970, fractional percentages) remains a reasonable future-continuation target -- it rendered cleanly (see scratchpad reference) but was not transcribed due to time."
+}

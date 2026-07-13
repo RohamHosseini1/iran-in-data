@@ -1,0 +1,21 @@
+{
+  "dataset_id": "ovf-indicators",
+  "title": "OVF (Observatorio Venezolano de Finanzas) — Economic Situation Report and Economic/Social Bulletin",
+  "source_org": "Observatorio Venezolano de Finanzas (OVF)",
+  "source_url": "https://observatoriodefinanzas.com/documentos-tecnicos/",
+  "download_url": "https://observatoriodefinanzas.com/wp-content/uploads/Informe-de-Coyuntura-Venezuela-abril-2024-12042024.pdf ; https://observatoriodefinanzas.com/wp-content/uploads/Boletin-economico-y-Social-OVF-DIC-2023-PUB.pdf",
+  "retrieved_at_utc": "2026-07-12T18:59:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "Informe-de-Coyuntura-Venezuela-abril-2024.pdf", "original_name": "Informe-de-Coyuntura-Venezuela-abril-2024-12042024.pdf", "sha256": "531e92b1345a7159e65350c250cc86b72ac92ee34a16f5e3e72d2fe1b98eb373", "bytes": 2296347},
+    {"name": "Boletin-economico-y-Social-OVF-DIC-2023.pdf", "original_name": "Boletin-economico-y-Social-OVF-DIC-2023-PUB.pdf", "sha256": "0faabab213ca57dbf45160e50ba2ba2cb31c57f4d3513139de4b497ffadbef83", "bytes": 1048576}
+  ],
+  "countries": ["VEN"],
+  "time_coverage": "Informe de Coyuntura: through April 2024; Boletin: through December 2023",
+  "frequency": "periodic (quarterly/occasional bulletins)",
+  "topics": ["inflation", "economic activity", "independent estimates"],
+  "units": "narrative report with embedded data tables (% inflation, GDP/activity indices); see PDF text",
+  "license_terms": "OVF public reports (independent NGO, not government) — used per bookkeeping.md source-hygiene rules: independent/academic economic reporting, not a government source, cross-check against BCV/official series where compared",
+  "notes": "OVF's site is a WordPress blog (observatoriodefinanzas.com); the closest thing to a raw-data download hub is /documentos-tecnicos/, a list of ~25 PDF research notes, policy briefs, and periodic bulletins (no CSV/XLSX time series found). Picked the two most data-dense/recent periodic bulletins containing OVF's independent inflation and economic-activity estimates in tabular form. IMPORTANT DATA QUALITY FLAG: Boletin-economico-y-Social-OVF-DIC-2023.pdf is served by the origin/CDN as EXACTLY 1,048,576 bytes (1MB) with NO %%EOF trailer (confirmed truncated/malformed PDF) — verified via two independent re-downloads plus an HTTP HEAD showing a matching ETag (W/\"100000-...\", 0x100000=1048576) from Cloudflare's cache, so this is what OVF's own server actually serves, not a fetch error on our end. Kept as a faithful mirror of the source per 'no fabricated data' rule; flagging here so downstream processing doesn't assume the file is complete. Informe-de-Coyuntura (2.3MB, 74pp) downloaded cleanly with a valid %%EOF trailer.",
+  "failures": []
+}

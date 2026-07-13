@@ -1,0 +1,19 @@
+{
+  "dataset_id": "oecd-social-expenditure-socx-pct-gdp",
+  "title": "OECD Social Expenditure Database (SOCX) — Aggregate Public/Private Social Expenditure as % of GDP",
+  "source_org": "OECD (Employment, Labour and Social Affairs Directorate, Social Policy Division)",
+  "source_url": "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_SOCX_AGG@DF_SOCX_AGG&df[ag]=OECD.ELS.SPD",
+  "download_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG,1.0/KOR+TUR+ESP+PRT+GRC+USA+DEU+FRA+GBR+ITA+NLD+SWE.A.SOCX.PT_B1GQ.._T._T._Z?dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+  "retrieved_at_utc": "2026-07-12T18:29:40Z",
+  "retrieved_by": "agent:oecd",
+  "files": [
+    {"name": "social-expenditure-socx-pct-gdp_2026-07-12.csv", "original_name": null, "sha256": "bba26ec1634827b2e223ba9535da515a8d6157b01080c3bb7b9b16a17d2f47a7", "bytes": 811638}
+  ],
+  "countries": ["KOR", "TUR", "ESP", "PRT", "GRC", "USA", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1980–2024, annual (some 2022-24 values are OECD estimates per SOCX methodology)",
+  "frequency": "annual",
+  "units": "percentage of GDP (UNIT_MEASURE=PT_B1GQ)",
+  "license_terms": "OECD Terms and Conditions — free reuse with attribution",
+  "notes": "SDMX dataflow OECD.ELS.SPD:DSD_SOCX_AGG@DF_SOCX_AGG(1.0), 'Social expenditure aggregates'. Filtered to task scope 'as % of GDP': UNIT_MEASURE=PT_B1GQ, SPENDING_TYPE=_T (cash+in-kind total), PROGRAMME_TYPE=_T (all social policy areas total), PRICE_BASE=_Z (not applicable, since it's a ratio). EXPEND_SOURCE left unfiltered, so rows cover all 7 expenditure-source breakdowns: ES10 Public, ES10_20 Public+mandatory private, ES20 Mandatory private, ES20_30 Mandatory+voluntary private, ES30 Voluntary private, ES40 Net public, ES50 Net total. The unfiltered full dataflow (all programme/spending-type/source combinations, all units) is enormous (>150k rows for just one year across 12 countries) so was deliberately narrowed to the % of GDP headline series per the task brief; the full detailed breakdown was not downloaded. Some country-year cells are legitimately missing (OBS_STATUS=M, 'data cannot exist') e.g. Spain ES20 (mandatory private) pre-2000s.",
+  "failures": []
+}

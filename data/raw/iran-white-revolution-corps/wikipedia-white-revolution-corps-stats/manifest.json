@@ -1,0 +1,21 @@
+{
+  "dataset_id": "wikipedia-white-revolution-corps-stats",
+  "title": "White Revolution Corps statistics (Literacy/Health/Reconstruction-Development Corps) — Wikipedia raw wikitext extract with source citations preserved",
+  "source_org": "Wikipedia (English), sourced in turn from Encyclopedia.com 'White Revolution (1961-1963)' and Encyclopaedia Britannica 'White Revolution (Iran)'",
+  "source_url": "https://en.wikipedia.org/wiki/White_Revolution",
+  "download_url": "https://en.wikipedia.org/w/index.php?title=White_Revolution&action=raw",
+  "retrieved_at_utc": "2026-07-12T23:35:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "white_revolution_corps_excerpt.txt", "original_name": null, "sha256": "be57cab208b4cc3f7404b538a65179ed8bd016d0a44ed986b355fff14499590a", "bytes": 5021},
+    {"name": "white_revolution_corps_stats.csv", "original_name": null, "sha256": "c1ff95734b55141275d41a5d9070f9b6083498b0ab7041519aa998ad5eb6b472", "bytes": 3442}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1963-1978",
+  "frequency": "one-off tertiary-source compilation, no annual granularity",
+  "topics": ["literacy-corps", "health-corps", "reconstruction-development-corps", "white-revolution", "education", "land-reform", "pahlavi-era"],
+  "units": "described per-row in CSV",
+  "license_terms": "Wikipedia content is CC BY-SA; underlying cited facts attributed to Encyclopedia.com and Britannica per their respective terms",
+  "notes": "Retrieved via raw wikitext API (action=raw) rather than the rendered page, specifically so inline <ref> citation markers could be preserved and matched to each statistic -- this lets a future pass trace every number back past Wikipedia to its actual tertiary source (mostly Encyclopedia.com's 'White Revolution (1961-1963)' article, ref name ':0'). IMPORTANT CAVEAT explicitly flagged in the .txt file and here: several figures in the Wikipedia article body (education enrollment growth figures for kindergarten/elementary/secondary/college, the 26%->42% literacy rate claim, and the 1.5-million-families land reform figure) carry NO inline citation in the current Wikipedia article text -- they are preserved as-is (verbatim, not fabricated) but explicitly marked 'unverified' in both the .txt and .csv so downstream users know these need independent corroboration before being treated as authoritative, consistent with bookkeeping.md's guidance to record contested/uncertain figures transparently rather than presenting them as settled. Also note: this Wikipedia literacy-rate claim (26%->42%) does NOT reconcile cleanly with the male/female illiteracy rates in the companion iranica-literacy-corps dataset (67.2%/87.8% illiterate in 1966 -> 44.2%/53% in 1979) -- both are kept, unreconciled, per the no-fabrication rule.",
+  "failures": []
+}

@@ -1,0 +1,34 @@
+{
+  "dataset_id": "iranica-fiscal-system-narrative-1921-1979",
+  "title": "Iran fiscal system statistics, 1921-1979, extracted from Encyclopaedia Iranica's narrative article",
+  "source_org": "Encyclopaedia Iranica Foundation (article), citing Bharier (1971), Karshenas (1990), Moghadam, Kaldor, Motamen as original sources",
+  "source_url": "https://www.iranicaonline.org/articles/fiscal-system-v-pahlavi-period/",
+  "download_url": null,
+  "extraction_method": "Manual extraction of every year-tagged statistic explicitly stated in the article's prose (not a table in the original -- Iranica articles are narrative). Each row preserves the article's own citation to its underlying academic source (mostly Bharier 1971 and Karshenas 1990, both with specific page/table numbers) so the claim can be traced further if the underlying book is ever obtained. No number was calculated, interpolated, or estimated -- every value is quoted or directly restated from the source text.",
+  "retrieved_by": "claude (manual transcription from already-downloaded article text)",
+  "retrieved_at_utc": "2026-07-12T20:51:24Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "287d77864d7e6067e778d82f2ca76383d16268d8abce522c5cd668bcb1243211",
+      "bytes": 3984
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1921-1979 (irregular: single years, multi-year periods, and decade-averages as stated in the source)",
+  "frequency": "irregular -- whatever periodization the original article used",
+  "topics": [
+    "fiscal",
+    "government-budget",
+    "oil-revenue",
+    "taxation",
+    "pahlavi-era"
+  ],
+  "units": "see data.csv 'unit' column",
+  "license_terms": "Encyclopaedia Iranica -- academic reference, cite the article",
+  "notes": "This is narrative-derived, not a primary statistical table -- treat as a secondary source one step removed from Bharier/Karshenas's original tables. Still valuable: it's the only source in this project giving fiscal structure (oil revenue share, military vs. education spending share, tax composition) continuously across BOTH Pahlavi reigns (1921-1979), not just the 1950s-60s window the primary World Bank extraction covers.",
+  "failures": []
+}

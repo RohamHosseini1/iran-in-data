@@ -1,0 +1,23 @@
+{
+  "dataset_id": "housing-construction-and-density-history",
+  "title": "Iran housing construction, density, and dwelling-quality history, 1966-2000 — housing units built by plan period, households-per-unit ratio, housing material composition, amenity access",
+  "source_org": "Compiled from Encyclopaedia Iranica 'HOUSING IN IRAN' (accessed via search-engine-index snippet since the live page is Cloudflare-blocked, consistent with every other iranicaonline.org access attempt in this project) and nationsencyclopedia.com 'Housing - Iran' (directly fetchable, appears to independently compile similar underlying Statistical Centre of Iran census data)",
+  "source_url": "https://www.iranicaonline.org/articles/housing-in-iran/ ; https://www.nationsencyclopedia.com/Asia-and-Oceania/Iran-HOUSING.html",
+  "download_url": "https://www.nationsencyclopedia.com/Asia-and-Oceania/Iran-HOUSING.html",
+  "retrieved_at_utc": "2026-07-13T00:35:00Z",
+  "retrieved_by": "agent:iran-niche-institutional-hunt",
+  "files": [
+    {"name": "housing_statistics.csv", "original_name": null, "sha256": "f1fd8a0a43d7ef92732afed88f1376c369fa801265d6a79cebd1ea5d464329f7", "bytes": 6785}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1966-2000 (Statistical Centre of Iran census years 1966/1976/1986/1996 plus Fourth and Second Development Plan periods)",
+  "frequency": "decennial census snapshots + plan-period before/after pairs",
+  "topics": ["housing", "urbanization", "construction", "census", "dwelling-quality", "pahlavi-era", "development-plans"],
+  "units": "described per-row in CSV (ratio, units, percent, households, persons)",
+  "license_terms": "Factual citation of Encyclopaedia Iranica (academic reference, cite per their guidance) and nationsencyclopedia.com content",
+  "notes": "Addresses the user's candidate direction #4 items not already covered elsewhere in the database: 'housing construction permits/units built, average dwelling size' (urbanization RATE itself is already well covered by OWID's share-of-population-urban indicator in data/processed/owid_indicators.csv, and modern-era CBI/SCI housing data 1966-2006 already exists per data/processed/DATA_INVENTORY.md section 13 -- this dataset adds PRE-EXISTING-GAP depth: absolute units-built-by-plan-period, households-per-unit density ratios, construction-material composition, and amenity-access rates, none of which were previously in the database). Genuinely interesting counter-intuitive finding worth flagging for future chart-builders: housing construction ACCELERATED rather than collapsed in 1980-83 (1.76 million units, >21% of the entire national housing stock, built in just those 3 years per the 1986 census) even as general 'all buildings' construction activity fell by 21-24% year-on-year in 1981/82-1982/83 per a different metric in the same secondary source -- these two figures are NOT reconciled here (recorded as independently sourced, per no-fabrication policy) but likely reflect a shift toward smaller, more numerous private housing units amid economic disruption rather than a true contradiction. The Fourth Development Plan (1968-1973, squarely Pahlavi-era) data point showing urban housing DEFICIT grew from 721,000 to 1.1 million units DESPITE 300,000 new units being built is a clean, well-sourced illustration of urbanization outpacing housing supply during the oil-boom years -- a good candidate chart alongside the OWID urban-population-share series. Direct access to iranicaonline.org's HOUSING IN IRAN article was blocked (HTTP 403, Cloudflare, consistent with every prior attempt at this domain documented elsewhere in the project) -- figures attributed to it were instead recovered via WebSearch's own index/snippet of that page's content (visible in search results even though the live page itself is unreachable) and cross-confirmed against the independently-fetchable nationsencyclopedia.com page wherever the same figure appeared in both, which it did for the Fourth Plan housing-units-built figure.",
+  "failures": [
+    {"url": "https://www.iranicaonline.org/articles/housing-in-iran/", "method": "curl (multiple user-agents) and WebFetch", "result": "HTTP 403 Forbidden every time -- Cloudflare 'Just a moment...' challenge page confirmed in raw response body; recovered content via WebSearch index snippets instead, cross-confirmed against nationsencyclopedia.com where possible"},
+    {"url": "https://www.iranicaonline.org/articles/housing-in-iran/?generate_pdf=1", "method": "WebFetch", "result": "also HTTP 403 -- the PDF-generation query parameter did not bypass the Cloudflare block"}
+  ]
+}

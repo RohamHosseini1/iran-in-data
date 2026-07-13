@@ -1,0 +1,20 @@
+{
+  "dataset_id": "kosis-gdp",
+  "title": "KOSIS Gross Domestic Product and Expenditure (current prices, annual), Bank of Korea National Accounts (2020 Standard)",
+  "source_org": "Statistics Korea (KOSIS), data originated by Bank of Korea",
+  "source_url": "https://kosis.kr/statHtml/statHtml.do?orgId=301&tblId=DT_200Y113&conn_path=I3&language=en",
+  "download_url": "https://kosis.kr/statHtml/downGrid.do (POST) + https://kosis.kr/statHtml/downNormal.do (POST) — see cpi/manifest.json notes for the flow",
+  "retrieved_at_utc": "2026-07-13T03:53:41Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "GDP_and_Expenditure_current_prices_annual_1970-2025.csv", "original_name": "Gross_Domestic_Product_and_Expenditure__current_prices__annual__20260713035341.csv", "sha256": "7ce35d37a367895ab50f13aef32abe7dc20b04cfaca189446be18b12449631fb", "bytes": 7984}
+  ],
+  "countries": ["KOR"],
+  "time_coverage": "1970-2025, annual",
+  "frequency": "annual",
+  "topics": ["GDP", "national accounts", "expenditure", "GNI"],
+  "units": "billions of Korean Won (Bil.Won), current prices",
+  "license_terms": "KOSIS (Statistics Korea) — Open Government Data, free reuse with attribution",
+  "notes": "Full expenditure-approach GDP breakdown: GDP, compensation of employees, operating surplus, consumption of fixed capital, taxes/subsidies, private and government final consumption, gross fixed capital formation, inventory changes, exports/imports, statistical discrepancy, net factor income, and GNI — all as a single annual time series 1970-2025. Same anonymous-download mechanism as kosis-korea/cpi (no login/API key required); see that manifest's notes for the technical details of the 2-step downGrid.do/downNormal.do flow. Table: orgId=301 (Bank of Korea, publishing via KOSIS), tblId=DT_200Y113, found via KOSIS English-language search for 'Gross Domestic Product'. Sibling tables in the same category (GDP by economic activity, GDP deflator, quarterly indicators, regional income, 2015-standard vintage, etc.) exist and were not all pulled — this flagship current-price annual table was judged sufficient for a comparator dataset.",
+  "failures": []
+}

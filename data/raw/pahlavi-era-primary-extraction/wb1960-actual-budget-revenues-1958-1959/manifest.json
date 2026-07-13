@@ -1,0 +1,34 @@
+{
+  "dataset_id": "wb1960-table12-actual-budget-revenues",
+  "title": "Actual Budget Revenues, Iran, 1958/59 (World Bank, 1960)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION, not bulk download. Original document is a 1960 scanned World Bank report (data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf) with a poor-quality OCR text layer (garbled digits in places). Every value in this file was verified by rendering the exact source page (Table 12, page 47) to a high-resolution PNG (pdftoppm -r 200) and visually reading the table directly from the image. The image was clean and unambiguous throughout. Every subtotal and the grand total were independently re-summed from the line items and matched the printed figures exactly (Indirect taxes 7434.8+1376.2+3364.8+756.5=12932.3; Others 514.2+473.1+501.4+600.0+113.1+94.2+485.2=2781.2; tax+other revenue subtotal 3725.5+12932.3+2781.2=19439.0; grand total 19439.0+6781.8+1000.0+1000.0=28220.8), confirming the transcription. No value was interpolated, estimated, or fabricated.",
+  "retrieved_by": "claude (manual transcription with visual verification)",
+  "retrieved_at_utc": "2026-07-12T20:19:02Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "bc1cedfd0f105cf606936a567bcc689225823626401c81d2def3867c6cac83dc",
+      "bytes": 1156
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1958/59",
+  "frequency": "annual (single year ending March 20)",
+  "topics": [
+    "fiscal",
+    "government-revenue",
+    "taxation",
+    "oil-revenues",
+    "pahlavi-era"
+  ],
+  "units": "million rials",
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "notes": "Source document: data/raw/world-bank-archives-iran/historical-documents/1960_current_economic_position_and_prospects.pdf — Table 12, page 47, source: Ministry of Finance, Tehran. Per footnote 1/: figures do not include Special Revenues (budgeted at Rls 1,198 million), so not directly comparable with the revenue table on page 9. The CSV uses a group/line_item long format to mirror the source's nested category structure (Direct taxes, Indirect taxes, Others, then non-tax transfers, then grand total); 'Subtotal' rows correspond to the printed subtotal figures in the right-hand column of the original table. Part of a systematic effort to extract Pahlavi-era (esp. 1941-1960) data from primary-source PDFs already in data/raw/.",
+  "failures": []
+}

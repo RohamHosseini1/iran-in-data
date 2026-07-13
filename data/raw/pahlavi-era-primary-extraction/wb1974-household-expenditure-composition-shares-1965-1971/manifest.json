@@ -1,0 +1,37 @@
+{
+  "dataset_id": "wb1974-table9.2-household-expenditure-composition-shares",
+  "title": "Composition of Expenditures on Food and Non-Food Items Consumed by Urban and Rural Households in a Month, by Main Items, for Selected Years, Iran 1965-1971 (percent)",
+  "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Statistical Center of Iran (SCI)",
+  "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION. Source document: data/raw/world-bank-archives-iran/historical-documents/1974_economic_development_vol4_statistical_appendix.pdf, Table 9.2, page 72 (PDF page 80). Rendered to PNG via pdftoppm -r 200 and visually read. No value interpolated, estimated, or fabricated.",
+  "time_coverage": "1965-1971",
+  "frequency": "annual (survey rounds)",
+  "topics": [
+    "consumption",
+    "household-budget-survey",
+    "food-expenditure",
+    "non-food-expenditure",
+    "COICOP-like-shares",
+    "urban-rural",
+    "pahlavi-era",
+    "micro-consumption"
+  ],
+  "units": "percent of total household expenditure",
+  "notes": "Companion table to wb1974-household-expenditure-food-nonfood-1965-1971 (Table 9.1), same survey series expressed as expenditure shares rather than absolute rial amounts. See that manifest for the known households-surveyed inconsistency between the two tables (both retained as printed in the source, not reconciled).",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "3b353b2a3d372fa6422cf3b12d5620a6e9533af6cec0f20c7cc1f5dbe0d6bf6a",
+      "bytes": 12015
+    }
+  ],
+  "retrieved_by": "claude (manual transcription with visual verification, pdftoppm -r 200 render + Read tool)",
+  "retrieved_at_utc": "2026-07-13T00:15:00Z",
+  "countries": [
+    "IRN"
+  ],
+  "license_terms": "World Bank Archives — public disclosure authorized document",
+  "failures": []
+}

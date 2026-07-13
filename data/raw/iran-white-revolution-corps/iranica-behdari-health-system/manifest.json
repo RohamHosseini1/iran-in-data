@@ -1,0 +1,23 @@
+{
+  "dataset_id": "iranica-behdari-health-system",
+  "title": "BEHDĀRĪ (Iranian public-health system, incl. founding of the Health Corps / Sepah-e Behdasht) — Encyclopaedia Iranica",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation), article by Mohammad Ali Faghih",
+  "source_url": "https://www.iranicaonline.org/articles/behdari/",
+  "download_url": "https://www.iranicaonline.org/articles/behdari/",
+  "retrieved_at_utc": "2026-07-12T23:15:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "behdari.txt", "original_name": null, "sha256": "0df58720cd10d05060515d322610462a955e6fb40508e5a8e799957390b8e980", "bytes": 4885},
+    {"name": "health_expenditure_series.csv", "original_name": null, "sha256": "d67355958697915e747043fedb65c838b848f545269c3c2c54947b1f5551af56", "bytes": 1426}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1920-1978",
+  "frequency": "one-off reference article with embedded expenditure snapshots (1920, 1948, 1974) and facility counts (1926, 1978)",
+  "topics": ["health-corps", "white-revolution", "public-health", "government-spending", "rural-development", "pahlavi-era", "sepah-e-behdasht"],
+  "units": "described per-file; million rials, persons, percent",
+  "license_terms": "Encyclopaedia Iranica — academic reference, cite author/article per their citation guidance",
+  "notes": "Same Cloudflare-bypass method as the companion iranica-literacy-corps dataset: retrieved via interactive browser tool (get_page_text), not curl/WebFetch (both blocked with HTTP 403). Confirms Health Corps (Sepah-e Behdasht) founding year as 1343 Sh./1964. Article's Tables 1-3 (health worker/facility counts 1978, health indicators 1923-1978) are embedded as print-plate images on the Iranica page and were NOT machine-readable via DOM inspection (confirmed via javascript_tool query for <table> elements -- only a search-terms box returned, no data tables) -- flagged explicitly as an unresolved gap in behdari.txt and this manifest, not fabricated or guessed. Only prose-narrated Table 4 figures (health expenditure growth 1920/1948/1974) were captured into health_expenditure_series.csv; every value is transcribed exactly as printed in the source prose. This dataset covers the broader health system rather than the Health Corps specifically, but is the best available quantitative anchor for corps-era health spending; kept in this source folder because the Health Corps founding and mandate are described directly within it.",
+  "failures": [
+    {"url": "https://www.iranicaonline.org/articles/behdari/", "method": "curl (not attempted separately -- Cloudflare block already confirmed for this domain by companion dataset and by pre-existing data/raw/encyclopaedia-iranica manifests)", "result": "not attempted, known-blocked domain"}
+  ]
+}
