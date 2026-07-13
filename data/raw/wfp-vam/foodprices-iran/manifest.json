@@ -1,0 +1,36 @@
+{
+  "dataset_id": "wfp-foodprices-iran",
+  "title": "WFP Food Prices \u2014 Iran (Islamic Republic of)",
+  "source_org": "World Food Programme (via HDX)",
+  "source_url": "https://data.humdata.org/dataset/wfp-food-prices-for-iran-islamic-republic-of",
+  "download_url": "https://data.humdata.org/dataset/6df76343-1bd9-488a-af3c-1e5aec3fc78c/resource/987b0f53-5b55-4ed8-868a-ea285f0f0307/download/wfp_food_prices_irn.csv",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "wfp_food_prices_irn.csv",
+      "original_name": null,
+      "sha256": "5384a94814441abf52b9682b758228a6c4ea9ae61c43ccbad517691c2b42c69d",
+      "bytes": 274562
+    },
+    {
+      "name": "wfp_markets_irn.csv",
+      "original_name": null,
+      "sha256": "13a4060f6090aa5b00944c0b4aeb4c155cd4cc11979d9ac3556949e94b543865",
+      "bytes": 112
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "varies by market",
+  "frequency": "monthly",
+  "topics": [
+    "food-prices",
+    "market-prices"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "CC BY 4.0 (HDX/WFP)",
+  "notes": "wfp_markets_irn.csv is the market metadata sidecar file."
+}

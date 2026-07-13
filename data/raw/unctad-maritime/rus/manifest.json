@@ -1,0 +1,34 @@
+{
+  "dataset_id": "unctad-maritime-profile-rus",
+  "title": "UNCTAD Maritime Country Profile — Russian Federation",
+  "source_org": "UNCTAD (UN Trade and Development), UNCTADstat",
+  "source_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/643/index.html",
+  "download_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/643/MaritimeProfile643.pdf",
+  "retrieved_at_utc": "2026-07-12T19:30:07Z",
+  "retrieved_by": "agent:iran-finance-trade-infra",
+  "files": [
+    {
+      "name": "MaritimeProfile643.pdf",
+      "original_name": "MaritimeProfile643.pdf",
+      "sha256": "ab96c88707deff1bfff1591e5f75bda8b4256db520ceb13d678326320a591c0a",
+      "bytes": 635983
+    }
+  ],
+  "countries": [
+    "RUS"
+  ],
+  "time_coverage": "2024 (latest annual snapshot; profile also includes select multi-year time series charts)",
+  "frequency": "annual (profile refreshed periodically by UNCTAD)",
+  "topics": [
+    "maritime transport",
+    "shipping",
+    "merchant fleet",
+    "port infrastructure",
+    "seaborne trade",
+    "liner shipping connectivity"
+  ],
+  "units": "described within PDF (population millions, GDP current US$ millions, fleet counts/DWT, TEU, etc.)",
+  "license_terms": "UNCTAD public statistical publication; standard UN data terms of use",
+  "notes": "Direct PDF download from UNCTADstat Country Profile Maritime Profile tool, country code 643 (UN M49 numeric code). Downloaded as a natural comparator alongside Iran since UNCTAD publishes this exact profile template for every UN M49 country code — one source covers all target comparators. USA required code 840 (not 842, which 404s).",
+  "failures": []
+}

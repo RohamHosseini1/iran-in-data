@@ -1,0 +1,21 @@
+{
+  "dataset_id": "turkstat-gdp",
+  "title": "TurkStat Quarterly GDP by Expenditure Approach — current prices and chain-linked volume index",
+  "source_org": "Turkish Statistical Institute (TurkStat / TUIK)",
+  "source_url": "https://veriportali.tuik.gov.tr/en/statistical-themes",
+  "download_url": "https://veriportali.tuik.gov.tr/api/en/data/downloads?t=i&p=<signed-token, see notes>",
+  "retrieved_at_utc": "2026-07-12T19:00:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "GDP_current_prices_by_expenditure.xls", "original_name": "istab-57_t13", "sha256": "741f645088354867528789957fbfa741d56b0a39f8f93d8d30af6bd2c00dec43", "bytes": 114688},
+    {"name": "GDP_chain_linked_volume_index_by_expenditure.xls", "original_name": "istab-57_t16", "sha256": "23e49b5249093cab0df0f53d673f8db54dac87c66c7dc09c8350fd570cc54122", "bytes": 134144}
+  ],
+  "countries": ["TUR"],
+  "time_coverage": "quarterly series, historical run through latest available quarter (2026 Q1 per portal)",
+  "frequency": "quarterly",
+  "topics": ["GDP", "national accounts", "growth"],
+  "units": "current-price file: national currency value/share/% change; volume-index file: chain-linked volume index (2009=100) and % change",
+  "license_terms": "TUIK public statistics",
+  "notes": "Path in the veriportali.tuik.gov.tr statistical-themes tree: National Accounts > Quarterly Gross Domestic Product > GDP by Expenditure Approach > Tables and Graphics > 'GDP by Expenditure Approach in Current Prices' / 'in Chain Linked Volume Index'. Same signed-download-URL mechanism as the CPI dataset in this source (see turkstat/cpi/manifest.json notes for how these tokenized URLs were extracted). Provincial/regional GDP tables also exist in the same tree (id prefix 16.90.*) but were skipped as out of scope (task asked for national GDP).",
+  "failures": []
+}

@@ -1,0 +1,24 @@
+{
+  "dataset_id": "venezuela-black-market-fx-milestones-2003-2020",
+  "title": "Venezuela Official/Black-Market Bolivar-Dollar Exchange Rate Milestones (2003-2020) -- Compiled",
+  "source_org": "Compiled by this project from multiple secondary/academic sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+  "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Venezuela ; https://en.wikipedia.org/wiki/Venezuelan_bol%C3%ADvar ; https://mises.org/mises-wire/venezuelas-bizarre-system-exchange-rates",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:26:51Z",
+  "retrieved_by": "claude (hand-compiled from cross-checked secondary sources)",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "7765f4ca5ca47b62c0a9213c772e2d5a8316e3503f5d0f17264789a06b1d2031", "bytes": 2551}
+  ],
+  "countries": ["VEN"],
+  "time_coverage": "2003-2020 (sparse dated milestones, not a continuous daily/monthly series)",
+  "frequency": "irregular spot-dates",
+  "topics": ["fx", "exchange-rate", "parallel-market", "black-market-premium", "hyperinflation", "multi-tier-exchange-rate-system"],
+  "units": "VEB/VEF/VES per USD (three successive currency units across two redenominations -- 2008 VEB->VEF at 1000:1, 2018 VEF->VES at 100000:1; EACH ROW IS IN THE UNIT STATED AT THAT DATE, deliberately NOT rebased to a single common unit, to avoid introducing conversion errors -- a future user doing cross-period comparison must apply the redenomination factors explicitly)",
+  "license_terms": "compiled from multiple sources cited per-row",
+  "notes": "COMPARATOR dataset for the parallel-FX mission (Venezuela explicitly named in the mission brief as a comparator with 'well-documented parallel/black-market FX premium history'). This is a genuine best-effort result, not a full clean continuous series: attempted to get a real continuous daily/monthly Venezuela parallel-rate series comparable to what was found for Argentina (ArgentinaDatos API) or Iran (TGJU), but hit dead ends -- pydolarve.org (a documented open API with historical-price endpoints) is UNREACHABLE from this environment (DNS/connection failure via curl, WebFetch, AND the browser tool's in-page fetch -- confirmed genuinely down/blocked, not a one-off network blip, tried 3 different methods); the old dolartoday.com S3 JSON feed is confirmed DEAD (multiple sources note replacement scrapers exist because the original endpoint disappeared); Malone & Ter Horst's academic paper 'The Black Market for Dollars in Venezuela' (hosted at banrep.gov.co, the Colombian central bank -- a legitimate, reachable host) turned out to be IMAGE-based (scanned figures/tables embedded as JPEGs within the PDF, not machine-readable text), so its Feb-2003-to-Aug-2008 monthly data could not be extracted without a full visual-transcription pass (flagged as a possible future addition using this project's established pdftoppm-plus-visual-read methodology, not attempted this round due to time budget). What WAS successfully compiled: 21 dated milestone rows spanning three currency redenominations (Bolivar Fuerte VEF pre-2018, Bolivar Soberano VES post-2018), covering the CADIVI (2003) / CENCOEX+SICAD-I+SIMADI (2015 three-tier system) / DICOM (2018) succession of official-rate regimes alongside contemporaneous black-market rates at the same dates -- enough to see the ORDER OF MAGNITUDE of Venezuela's premium blow-out (official 6.3 vs black-market ~1,000 VEF/USD by Feb 2016; official DICOM 63.81 vs black-market 171.34 VES/USD by Oct 2018) even without a smooth interpolatable series. Cross-referenced against the project's existing data/raw/ovf-venezuela/ and data/raw/bcv-venezuela/ folders -- those cover INFLATION/economic-activity bulletins (OVF) and presumably official BCV rates (not independently re-verified this round), neither is a parallel-FX time series, so this fills a genuinely distinct gap rather than duplicating.",
+  "failures": [
+    {"url": "https://pydolarve.org/api/v1/dollar", "reason": "DNS/connection failure (getaddrinfo ENOTFOUND) via direct curl; also failed via WebFetch (navigation denied) and via browser in-page fetch() (CORS/Failed to fetch) -- domain appears genuinely unreachable from this environment across three independent methods"},
+    {"url": "https://s3.amazonaws.com/dolartoday/data.json", "reason": "Confirmed dead by multiple independent secondary sources (original DolarToday S3 JSON feed discontinued) -- not attempted directly given corroborating evidence"},
+    {"url": "https://www.banrep.gov.co/sites/default/files/eventos/archivos/SSRN-id1318227.pdf", "reason": "PDF fetched successfully (212KB) but its data tables/charts are embedded as non-text JPEG images, not extractable via standard text tools -- would need the project's visual pdftoppm-transcription methodology to recover, not attempted this round"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_id": "wfp-foodprices-turkey",
+  "title": "WFP Food Prices \u2014 Turkey",
+  "source_org": "World Food Programme (via HDX)",
+  "source_url": "https://data.humdata.org/dataset/5b184049-f8ee-4b55-a867-1409de538ff8",
+  "download_url": "https://data.humdata.org/dataset/5b184049-f8ee-4b55-a867-1409de538ff8/resource/33f303b8-4557-424e-8205-227b889f00e5/download/wfp_food_prices_tur.csv",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "wfp_food_prices_tur.csv",
+      "original_name": null,
+      "sha256": "a99ea497494d196c2b7df1cb5538f17f6a63c9be77a36bc8821b8c1603312d3a",
+      "bytes": 1347439
+    }
+  ],
+  "countries": [
+    "TUR"
+  ],
+  "time_coverage": "varies by market",
+  "frequency": "monthly",
+  "topics": [
+    "food-prices",
+    "market-prices"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "CC BY 4.0 (HDX/WFP)",
+  "notes": ""
+}

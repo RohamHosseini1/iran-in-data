@@ -1,0 +1,36 @@
+{
+  "dataset_id": "wfp-foodprices-venezuela",
+  "title": "WFP Food Prices \u2014 Venezuela",
+  "source_org": "World Food Programme (via HDX)",
+  "source_url": "https://data.humdata.org/dataset/a3800f18-0126-4911-917e-2b2a9415d909",
+  "download_url": "https://data.humdata.org/dataset/a3800f18-0126-4911-917e-2b2a9415d909/resource/706f628f-98e4-4bf9-a077-5ef85c83aa77/download/wfp_food_prices_ven.csv",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "wfp_food_prices_ven.csv",
+      "original_name": null,
+      "sha256": "8be7367489785b1b9abf4522b9d978d085c15408825b23874cdda80782120828",
+      "bytes": 2582078
+    },
+    {
+      "name": "wfp_markets_ven.csv",
+      "original_name": null,
+      "sha256": "5100ca7fbdeb4561e2dca6342891c2e3ee1554b585afef16a3da7f1546ef4702",
+      "bytes": 6455
+    }
+  ],
+  "countries": [
+    "VEN"
+  ],
+  "time_coverage": "varies by market",
+  "frequency": "monthly",
+  "topics": [
+    "food-prices",
+    "market-prices"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "CC BY 4.0 (HDX/WFP)",
+  "notes": "wfp_markets_ven.csv is the market metadata sidecar file."
+}

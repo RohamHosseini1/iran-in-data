@@ -1,0 +1,21 @@
+{
+  "dataset_id": "turkstat-agriculture-poultry",
+  "title": "TurkStat Poultry Statistics — animals by type, and slaughtered/meat production quantity",
+  "source_org": "Turkish Statistical Institute (TurkStat / TUIK)",
+  "source_url": "https://veriportali.tuik.gov.tr/en/statistical-themes",
+  "download_url": "https://veriportali.tuik.gov.tr/api/en/data/downloads?t=i&p=<signed-token, see notes>",
+  "retrieved_at_utc": "2026-07-12T19:00:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "Poultry_animals_by_type.xls", "original_name": "istab-46_t8", "sha256": "91218a0ab4310751b8d7b10d55c86ebd44c502ba449439b84d4e52dc2c7a4417", "bytes": 47616},
+    {"name": "Poultry_slaughtered_and_meat_production.xls", "original_name": "istab-46_t10", "sha256": "4105eac8e060fb8d4007a6f5a2b11379a46cf942ff6125271ffbd98f1776c08b", "bytes": 47104}
+  ],
+  "countries": ["TUR"],
+  "time_coverage": "historical annual run through latest available year",
+  "frequency": "annual",
+  "topics": ["agriculture", "livestock", "poultry", "production"],
+  "units": "head counts and metric tons, described in file",
+  "license_terms": "TUIK public statistics",
+  "notes": "Path in the veriportali.tuik.gov.tr statistical-themes tree: Agriculture > Livestock > Poultry > Tables and Graphics. Same signed-download-URL mechanism as CPI/GDP datasets in this source (see turkstat/cpi/manifest.json notes).",
+  "failures": []
+}

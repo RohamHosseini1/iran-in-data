@@ -1,0 +1,21 @@
+{
+  "dataset_id": "turkstat-cpi",
+  "title": "TurkStat Consumer Price Index — index numbers and rate of changes (2003=100 and 2025=100 bases)",
+  "source_org": "Turkish Statistical Institute (TurkStat / TUIK)",
+  "source_url": "https://veriportali.tuik.gov.tr/en/statistical-themes",
+  "download_url": "https://veriportali.tuik.gov.tr/api/en/data/downloads?t=i&p=<signed-token, see notes>",
+  "retrieved_at_utc": "2026-07-12T19:00:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "CPI_index_and_rate_of_change_2003base.xls", "original_name": "istab-17_t1", "sha256": "5c5f3496314d22715afe27ab4fc96bfaba6f14290f599a9a18676ff1f8770e7f", "bytes": 53248},
+    {"name": "CPI_index_and_rate_of_change_2025base.xls", "original_name": "istab-17_ty1", "sha256": "3563ffc230741fd55e2eeeb89884c74d3d2319bb4ba51a03a5493088d6d9b705", "bytes": 58368}
+  ],
+  "countries": ["TUR"],
+  "time_coverage": "2003-base series (2003-present) and 2025-base series (latest rebasing)",
+  "frequency": "monthly",
+  "topics": ["CPI", "inflation", "prices"],
+  "units": "index numbers and % change, base year = 100",
+  "license_terms": "TUIK public statistics",
+  "notes": "TurkStat's data.tuik.gov.tr redirects to the new veriportali.tuik.gov.tr SPA. Its category tree (and signed, tokenized per-file download URLs) is served by an internal JSON API at https://veriportali.tuik.gov.tr/api/en/data/statistical-themes (~1.2MB, fetched via browser same-origin fetch since a bare curl to that endpoint 404s without proper session context). Each leaf table node in that tree has a 'url' field of the form /api/en/data/downloads?t=i&p=<base64-like signed token>, and those download URLs DO work via plain curl (no cookies/session needed) once extracted from the tree. CPI path in the tree: Statistical Themes > Price Statistics > Consumer Price Index (CPI) > Tables and Graphics > Consumer Price Indices (2003=100) / (2025=100) > 'Index numbers and rate of changes in the consumer price index'. Only 2003- and 2025-base tables are exposed on the modern portal; the task's '1982-' long back-run lives in the older MEDAS interactive database at http://biruni.tuik.gov.tr/medas/?kn=162&locale=en, which is a legacy query-builder tool, not a flat downloadable file — not scraped here due to time budget; flagged for follow-up if the pre-2003 series is specifically needed.",
+  "failures": []
+}

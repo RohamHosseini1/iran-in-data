@@ -1,0 +1,39 @@
+{
+  "dataset_id": "sci-yearbook1399-ch21-household-expenditure-detail",
+  "title": "Iran Statistical Yearbook 1399 (2020/21) Chapter 21: Average Annual Household Expenditure by Detailed Item, Urban and Rural, 1380-1399 SH (2001-2020)",
+  "source_org": "Statistical Centre of Iran (SCI)",
+  "source_url": "https://www.amar.org.ir (Iran Statistical Yearbook 1399, Chapter 21: Household Expenditure and Income)",
+  "download_url": null,
+  "retrieved_by": "claude (extracted from already-downloaded PDF; original PDF retrieval was by a prior agent/session, see note)",
+  "retrieved_at_utc": "2026-07-13T02:30:00Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "8006f7b07bb5cfc591709818e186649ab7bd3665ee95876ea384a4e3fe473248",
+      "bytes": 70664
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1380, 1385, 1390, 1395, 1396, 1397, 1398, 1399 SH (Iranian solar years; Gregorian start-years 2001, 2006, 2011, 2016, 2017, 2018, 2019, 2020) -- selected years only (5-year gaps 1380-1395, then annual 1395-1399), matching exactly what the source table itself publishes, not a project-imposed subsample",
+  "frequency": "irregular (selected years as published)",
+  "topics": [
+    "consumption",
+    "household-budget-survey",
+    "food-expenditure",
+    "non-food-expenditure",
+    "durable-goods",
+    "refrigerators",
+    "appliances",
+    "clothing-consumption",
+    "urban-rural",
+    "micro-consumption",
+    "islamic-republic-era"
+  ],
+  "units": "thousand rials per year per average surveyed household",
+  "license_terms": "Official Statistical Centre of Iran publication (Iran Statistical Yearbook), publicly published government statistics",
+  "notes": "PDF already existed in this repo at data/raw/sci-amar/sci-cpi-yearbook/sci_yearbook_1399_ch21_household-expenditure-income.pdf (downloaded by a prior session/agent alongside 4 sibling chapters of the same yearbook -- see that folder's own manifest.json for original download provenance) but had NOT been extracted into tidy data before this session; this dataset is the first structured extraction of its actual data tables (21.1, 21.2, 21.3, 21.10, 21.11 of 21.1-21.18 available in the source; the remaining tables -- expenditure-by-decile breakdowns 21.4-21.9/21.12-21.17, and income-by-source 21.18 -- were NOT extracted this round, left as a scoped future addition, same source PDF). MISSION-CRITICAL VALUE: this is the direct Islamic-Republic-era continuation of the Pahlavi-era 1965-1971 household-budget-survey series extracted this same session (see data/raw/pahlavi-era-primary-extraction/wb1974-household-expenditure-food-nonfood-1965-1971/ and siblings) -- together they give a partial bridge across the revolution for Iran's household consumption structure, though a ~30-year gap (1971-2001) remains unfilled (the HEIS microdata that would fill it is registration-gated, see data/raw/iheis-microdata-metadata/). Table 21.2/21.10 non-food breakdown includes a specific 'Heating and cooking appliances, refrigerators, etc' line item -- the durable-goods/appliance-ownership proxy this project's mission brief specifically asked for (expenditure on the category, not an ownership-rate/stock survey, but the closest available proxy found this session; no direct refrigerator/washing-machine ownership-percentage series was found, flagged as a genuine gap). Table 21.3/21.11 food breakdown separately itemizes 'Tea, coffee and cocoa' expenditure -- directly relevant to the tea-consumption mission target, complementing the FAO tea-market-study physical-volume series (data/raw/iran-sugar-tea-history/fao-tea-market-study-2005/) with an expenditure-value view for a different (later, IRI-era) period. Units are THOUSAND RIALS OF EXPENDITURE, not physical quantities -- these figures are heavily inflation-distorted across 2001-2020 (Iran's rial lost enormous value this period) and must NOT be read as a real consumption-volume trend without deflating by a matching CPI series (data/raw/sci-amar/sci-cpi-yearbook/sci_yearbook_1399_ch22_price-indices.pdf, not yet cross-referenced this session) or converting to USD/food-basket terms -- flagged explicitly so a future chart-builder does not naively plot nominal-rial trend lines as if they were real consumption growth.",
+  "failures": []
+}

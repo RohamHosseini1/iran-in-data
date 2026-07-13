@@ -1,0 +1,22 @@
+{
+  "dataset_id": "tehran-stock-exchange-founding-to-present-history",
+  "title": "Tehran Stock Exchange structural history 1967-2024 — founding, revolution-era closure/reopening, listed company counts, market capitalization, TEPIX/TEDPIX index milestones, shareholder base growth",
+  "source_org": "Wikipedia ('Tehran Stock Exchange' article, itself citing TSE's own published statistics, World Federation of Exchanges rankings, and financial press)",
+  "source_url": "https://en.wikipedia.org/wiki/Tehran_Stock_Exchange",
+  "download_url": "https://en.wikipedia.org/wiki/Tehran_Stock_Exchange",
+  "retrieved_at_utc": "2026-07-12T23:55:00Z",
+  "retrieved_by": "agent:iran-niche-institutional-hunt",
+  "files": [
+    {"name": "tse_history_statistics.csv", "original_name": null, "sha256": "ca7a6da6506835b16d3603ea44f4614ae56eda5376364c014c517ddf11cbd78f", "bytes": 7141}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1967-2024",
+  "frequency": "irregular milestone snapshots (annual where available, some intra-year index-value dates)",
+  "topics": ["stock-market", "tehran-stock-exchange", "tepix", "tedpix", "finance", "capital-markets", "pahlavi-era"],
+  "units": "described per-row in CSV (rials, US dollars, count, index points, percent, dates)",
+  "license_terms": "Wikipedia content, CC BY-SA",
+  "notes": "The database already has data/raw/tsetmc/tedpix-index-history/ (TGJU-sourced daily TEDPIX index values, 2014-2026) -- that dataset is excellent for HIGH-FREQUENCY recent index tracking but starts in 2014 and has no company-count/market-cap/founding-history context. This new dataset is deliberately complementary, not overlapping: it covers the STRUCTURAL history (1967 founding through the 1979 revolution closure, 1988 reopening, and decade-by-decade listed-company-count/market-cap/shareholder-base growth) that the TGJU daily-index feed doesn't capture. Genuinely fills the user's explicit candidate direction #6 ('Tehran Stock Exchange -- historical index values, trading volumes, number of listed companies, founding in 1967 through today'). One internal-consistency flag worth noting for future chart-builders: the TEPIX-to-TEDPIX index value jump from 102,000 (June 2018 ATH) to 512,000 (2019) in the source almost certainly reflects an index base-rebasing/methodology change around 2018-2019 (TEPIX was renamed/adjusted to TEDPIX), not pure organic 5x growth in one year -- flagged in the row's own notes field so nobody charts a naive continuous line across that boundary without adjustment. Similarly, the 2023 market-cap figures (approaching $2 trillion) should be read alongside Iran's severe rial depreciation over the same period (see data/raw/fx-parallel-rate/) since nominal-USD-converted market cap in a hyperinflating-currency, capital-controlled market is not directly comparable to market cap in a stable-currency market -- this is analogous to the caution already applied elsewhere in this database to Iran's nominal GDP/rial-denominated series. Pre-1979 (1970s) LISTED COMPANY COUNTS specifically were searched for but not found as a precise number in this pass -- only aggregate trading-VALUE figures (15M rials in 1967 growing to 34.2B rials by 1978) were located; flagged as a remaining gap.",
+  "failures": [
+    {"url": "Pre-1979 Tehran Stock Exchange listed company count (1970s specifically)", "method": "WebSearch (multiple queries)", "result": "not found as a precise number; only aggregate trading-value figures located for the pre-revolution period"}
+  ]
+}

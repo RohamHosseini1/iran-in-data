@@ -1,0 +1,25 @@
+{
+  "dataset_id": "worldbank-gfdd-iran-banking-sector-depth-1960-2016",
+  "title": "Iran Banking Sector Depth & Structure — World Bank Global Financial Development Database (GFDD), via FRED",
+  "source_org": "World Bank (Global Financial Development Database), mirrored by Federal Reserve Bank of St. Louis (FRED)",
+  "source_url": "https://fred.stlouisfed.org/release?rid=381 (Global Financial Development release, Iran series)",
+  "download_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=<SERIES_ID> for each of: DDDI01IRA156NWDB, DDDI04IRA156NWDB, DDDI05IRA156NWDB, DDDI06IRA156NWDB, DDOI02IRA156NWDB, DDOI07IRA648NWDB, DDSI04IRA156NWDB",
+  "retrieved_at_utc": "2026-07-13T00:12:00Z",
+  "retrieved_by": "claude (direct curl of fredgraph.csv endpoint per-series; fred.stlouisfed.org's HTML pages 403 direct curl/WebFetch but the fredgraph.csv CSV export endpoint is open; series titles/units verified via browser tool against the live FRED series page for one series (DDOI07IRA648NWDB) and cross-checked title-pattern consistency for the rest)",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "5aeb078e8fb9f32894236a23abe5d2b5cf1dcdfa52c1ff6eca3c970de9491143",
+      "bytes": 56515
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1960-2016 (varies by indicator; most start 1960 or 1961, all end 2016 -- GFDD discontinued Iran updates after 2016)",
+  "frequency": "annual",
+  "topics": ["banking", "banking-depth", "bank-deposits", "central-bank-assets", "broad-money", "private-credit", "bank-branches"],
+  "units": "percent (GDP ratios and asset-share ratios) except GFDD.OI.07 which is millions of constant-2000 US dollars; see data.csv unit column per row",
+  "license_terms": "World Bank public data (CC BY 4.0-equivalent); FRED terms: Public Domain: Citation Requested",
+  "notes": "Fills the 'total bank assets/deposits over time' part of the banking-sector mission. Seven indicators pulled: GFDD.DI.01 Private Credit by Deposit Money Banks/GDP, GFDD.DI.04 Deposit Money Bank Assets/(DMB+CB Assets), GFDD.DI.05 Liquid Liabilities/GDP, GFDD.DI.06 Central Bank Assets/GDP, GFDD.OI.02 Bank Deposits/GDP, GFDD.OI.07 Liquid Liabilities (Broad Money, level, millions of constant-2000 USD), GFDD.SI.04 Bank Credit/Bank Deposits. This is the World Bank's GFDD database, DISTINCT from the standard WDI bulk file already harmonized in data/processed/macro_wdi.csv -- confirmed via direct check that these GFDD.* indicator codes are NOT present in WDICSV.csv (WDI proper doesn't carry Global Financial Development Database series). A related FRED series, 'Number of Bank Branches for Islamic Republic of Iran' (DDAI02IRA643NWDB, 2004-2018, per-100,000-adults), was checked and confirmed to be a pure duplicate of WDI's FB.CBK.BRCH.P5 (already harmonized) -- NOT included here to avoid duplication. GFDD Iran coverage stops at 2016 (no updates found for 2017+ in these series -- confirmed genuine data-availability cutoff, not a download failure). Every value is a raw World-Bank-computed ratio/level, no fabrication or interpolation performed. Complements the pre-existing data/raw/pahlavi-era-primary-extraction/wb1960-banking-statistics-private-sector-1957-1959/ (which has raw billion-rial levels + advances/deposit ratios for June 1957-June 1959 only) by extending banking-depth coverage across five and a half decades on a consistent World Bank methodology.",
+  "failures": []
+}

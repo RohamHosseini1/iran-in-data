@@ -1,0 +1,27 @@
+{
+  "dataset_id": "un-demographic-yearbook",
+  "title": "UN Demographic Yearbook 2024 — Vital Statistics Tables (births, deaths, life expectancy, marriage/divorce)",
+  "source_org": "United Nations Statistics Division (UNSD)",
+  "source_url": "https://unstats.un.org/unsd/demographic-social/products/dyb/dyb_2024/",
+  "download_url": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/",
+  "retrieved_at_utc": "2026-07-12T18:21:14Z",
+  "retrieved_by": "agent:census-health",
+  "files": [
+    {"name": "DYB2024_table09.xls", "original_name": "table09.xls", "sha256": "f9369d45cd905b0cebcfb57d74faeb91b654849aa5b5964b3c3d54a2cb68ea67", "bytes": 911077, "description": "Live births and crude birth rates by country/area, 2020-2024"},
+    {"name": "DYB2024_table10.xls", "original_name": "table10.xls", "sha256": "c231c07b0162db2f8db82356776b35d6b57b8fa1671984a68cf024b5000bccae", "bytes": 1994141, "description": "Live births by age of mother, and total fertility rates, 2015-2024"},
+    {"name": "DYB2024_table11.xls", "original_name": "table11.xls", "sha256": "0d6414dcede97a729f823ca2d33268fdc6a6956b1e3628b998c8b78a0630b55e", "bytes": 765231, "description": "Live births by age of father, 2015-2024"},
+    {"name": "DYB2024_table15.xls", "original_name": "table15.xls", "sha256": "8fea5b2b8296547e289a492bc3fd35b86a8dd314b7eea7a4b4c7dac179770ef7", "bytes": 815814, "description": "Infant deaths and infant mortality rates, 2020-2024"},
+    {"name": "DYB2024_table17.xls", "original_name": "table17.xls", "sha256": "27aea470a71312ae984eb8a776b2757b4511ebc1e8aa22b83aa0d0bd957cde8f", "bytes": 602897, "description": "Maternal deaths and maternal mortality ratios, 2013-2022"},
+    {"name": "DYB2024_table18.xls", "original_name": "table18.xls", "sha256": "88fd80705a8662b177b9e4ea02d1729f3233b9ec8a92b68334cad78e26363e1f", "bytes": 916942, "description": "Deaths and crude death rates by country/area, 2020-2024"},
+    {"name": "DYB2024_table21.xls", "original_name": "table21.xls", "sha256": "4bc625d30074c5ab34e53b5a938105109e0af4ad06456675b272ba28be8b6c9e", "bytes": 1437167, "description": "Life expectancy at birth and at age 65, by sex, 2005-2024"},
+    {"name": "DYB2024_table22.xls", "original_name": "table22.xls", "sha256": "df8c67bdcf1373114e9cc30677fe318438339d7cfdcbabe123f447316c525029", "bytes": 719900, "description": "Marriages and crude marriage rates, 2020-2024"},
+    {"name": "DYB2024_table24.xls", "original_name": "table24.xls", "sha256": "8b1248306961b16e86487bd5491eb4b6b4aef2fb3f5f15802d7c33abe8dfb4ba", "bytes": 562748, "description": "Divorces and crude divorce rates, 2020-2024"}
+  ],
+  "countries": ["ALL (world; confirmed present: IRN, SAU; USA, KOR, TUR, RUS, ESP, PRT, GRC expected present as standard UN member states; VEN present in some tables only — see notes)"],
+  "time_coverage": "2005-2024 (varies by table; most recent tables cover 2020-2024, life expectancy 2005-2024, maternal mortality 2013-2022)",
+  "frequency": "annual (yearbook published annually, country reporting years vary)",
+  "units": "counts and rates per 1,000 (or per 100,000 for maternal mortality); described in each file",
+  "license_terms": "UN Statistics Division public data; standard UN copyright terms (free use with attribution)",
+  "notes": "Files are SpreadsheetML (XML-based .xls, opens in Excel) as served by UNSD, not legacy binary XLS or CSV — no CSV format was offered on the site. Iran appears as 'Iran (Islamic Republic of)' and uses the Iranian calendar year (21 March-20 March) per table09 footnote. Saudi Arabia figures are nationals-only per 2022 census (table21 footnote). Venezuela (Bolivarian Republic of) is ABSENT from table09 (births), table15 (infant deaths), table18 (deaths), table22 (marriages), table24 (divorces) but PRESENT in table10 (fertility), table11 (father's age), table17 (maternal mortality), table21 (life expectancy) — consistent with well-documented Venezuelan vital-registration reporting gaps already noted elsewhere in this project (see bcv-venezuela, ovf-venezuela source folders). Did not verify every one of the 10 target countries individually in every table (grep-spot-checked IRN, SAU, VEN only) given time budget; full country list is visible inside each file. This is the latest yearbook edition (DYB 2024) — the site also offers DYB 2023 and earlier editions as whole-yearbook PDFs (not per-table XLS) for historical vintages; not downloaded here as task called for 'recent' tables.",
+  "failures": []
+}

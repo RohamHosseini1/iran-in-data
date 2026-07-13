@@ -1,0 +1,34 @@
+{
+  "dataset_id": "unctad-maritime-profile-irn",
+  "title": "UNCTAD Maritime Country Profile — Iran (Islamic Republic of)",
+  "source_org": "UNCTAD (UN Trade and Development), UNCTADstat",
+  "source_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/364/index.html",
+  "download_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/364/MaritimeProfile364.pdf",
+  "retrieved_at_utc": "2026-07-12T19:30:07Z",
+  "retrieved_by": "agent:iran-finance-trade-infra",
+  "files": [
+    {
+      "name": "MaritimeProfile364.pdf",
+      "original_name": "MaritimeProfile364.pdf",
+      "sha256": "9c6a68c6fe82e1ff480fee8f46321c67f7d3db1b6c70ed4d998db37cb9b45a80",
+      "bytes": 588159
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "2024 (latest annual snapshot; profile also includes select multi-year time series charts)",
+  "frequency": "annual (profile refreshed periodically by UNCTAD)",
+  "topics": [
+    "maritime transport",
+    "shipping",
+    "merchant fleet",
+    "port infrastructure",
+    "seaborne trade",
+    "liner shipping connectivity"
+  ],
+  "units": "described within PDF (population millions, GDP current US$ millions, fleet counts/DWT, TEU, etc.)",
+  "license_terms": "UNCTAD public statistical publication; standard UN data terms of use",
+  "notes": "Direct PDF download from UNCTADstat Country Profile Maritime Profile tool, country code 364 (UN M49 numeric code). Iran is this project's primary subject; downloaded first.",
+  "failures": []
+}

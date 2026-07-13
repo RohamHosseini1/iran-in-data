@@ -1,0 +1,25 @@
+{
+  "dataset_id": "unsd-ama-main-aggregates",
+  "title": "UN National Accounts Main Aggregates Database — GDP and its breakdown (all countries, all years)",
+  "source_org": "UN Statistics Division (UNSD)",
+  "source_url": "https://unstats.un.org/unsd/snaama/Downloads",
+  "download_url": "https://unstats.un.org/unsd/amaapi/api/file/{1,2,5,6,9,30}",
+  "retrieved_at_utc": "2026-07-12T18:19:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "GDP_and_breakdown_current_prices_national_currency_all_countries.xlsx", "original_name": "file/1", "sha256": "2434ffdbcfc527314cf5bae6e3530cc8be8138cfeae96c1aea6a979a213ee29f", "bytes": 2255482},
+    {"name": "GDP_and_breakdown_current_prices_USD_all_countries.xlsx", "original_name": "file/2", "sha256": "7cd48f2a282539d401bdf6c824e0f0271ff3b9c4648af43ec475da25e3828716", "bytes": 3061289},
+    {"name": "GDP_and_breakdown_constant_2020_prices_national_currency_all_countries.xlsx", "original_name": "file/5", "sha256": "ef57043aaf1e6af0256f7de2274526e1da85eb45536aba3efe403b8f9285255f", "bytes": 2918096},
+    {"name": "GDP_and_breakdown_constant_2020_prices_USD_all_countries.xlsx", "original_name": "file/6", "sha256": "49cae967082bcbef8b2f0e8a02d755a0809405bae82bc9a7cee4b010814d9e5c", "bytes": 3154994},
+    {"name": "PerCapita_GDP_USD_all_countries.xlsx", "original_name": "file/9", "sha256": "9082e75331f67b8210a102a69494a89cd77cd2ca2648f3fab893dca9383293de", "bytes": 200369},
+    {"name": "ExchangeRates_and_Population_all_countries.xlsx", "original_name": "file/30", "sha256": "e15fcbcf64e74016b3be63d6a0a1d837fe570287867e2a3d9ac0bec89c91bc6e", "bytes": 466053}
+  ],
+  "countries": ["ALL (world, all UNSD member/reporting countries incl. IRN, KOR, TUR, SAU, VEN, USA, DEU, FRA, GBR, ITA, NLD, ESP, PRT, GRC)"],
+  "time_coverage": "1970-latest available year (varies by country; UNSD AMA nominal start is 1970)",
+  "frequency": "annual",
+  "topics": ["GDP", "national accounts", "GNI", "per capita GDP", "exchange rates", "population"],
+  "units": "national currency and current/constant (2020) US dollars; described per-file",
+  "license_terms": "UN Statistics Division — free for non-commercial use with attribution",
+  "notes": "Downloaded via UNSD AMA API endpoints (https://unstats.un.org/unsd/amaapi/api/file/<id>) linked from the snaama/Downloads page, 'All countries for all years - sorted alphabetically' variant for each series. Six of the ~15 available series were pulled (core GDP breakdown at current/constant prices in national currency and USD, per-capita GDP, and exchange-rates/population); NOT pulled: growth-rate series, percentage-distribution/shares series, GNI series (files 3-4,7-8,10-29 region/subregion totals and GNI variants) since GDP breakdown was the task focus. HEAD requests to the API return 404 but GET works fine — use GET/curl -o, not -I, against this API.",
+  "failures": []
+}

@@ -1,0 +1,20 @@
+{
+  "dataset_id": "worldbank-pinksheet-monthly",
+  "title": "World Bank Commodity Price Data (The Pink Sheet) — Monthly historical prices",
+  "source_org": "World Bank (Prospects Group)",
+  "source_url": "https://www.worldbank.org/en/research/commodity-markets",
+  "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+  "retrieved_at_utc": "2026-07-12T17:25:30Z",
+  "retrieved_by": "agent:worldbank-download",
+  "files": [
+    {"name": "CMO-Historical-Data-Monthly.xlsx", "original_name": null, "sha256": "8d51e9ac53037684a43cf00075dd3619517563ef17c7327ef9f09074e312ed95", "bytes": 575636}
+  ],
+  "countries": ["N/A (world commodity benchmark prices, not country-level)"],
+  "time_coverage": "1960M01–2026M06",
+  "frequency": "monthly",
+  "topics": ["commodity prices", "food prices", "chicken", "poultry", "orange", "citrus", "energy", "agriculture"],
+  "units": "nominal US dollars; per-commodity units in header rows and Description sheet",
+  "license_terms": "World Bank terms of use (CC BY-4.0 open data terms)",
+  "notes": "July 2026 edition of the Pink Sheet historical monthly workbook. Sheets: Monthly Prices, Monthly Indices, Description, Index Weights. Poultry is labelled 'Chicken' (Meat, chicken) in the workbook; orange prices under 'Orange'. Verified coverage 1960M01 through 2026M06 (798 monthly periods). Link discovered from the Commodity Markets research page on 2026-07-12; the thedocs.worldbank.org path segment changes with each monthly edition.",
+  "failures": []
+}

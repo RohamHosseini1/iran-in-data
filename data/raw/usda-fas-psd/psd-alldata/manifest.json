@@ -1,0 +1,33 @@
+{
+  "dataset_id": "psd-alldata-csv",
+  "title": "USDA FAS PSD Online \u2014 Full Production/Supply/Distribution Database",
+  "source_org": "USDA Foreign Agricultural Service",
+  "source_url": "https://apps.fas.usda.gov/psdonline/app/index.html#/app/downloads",
+  "download_url": "https://apps.fas.usda.gov/psdonline/downloads/psd_alldata_csv.zip",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "psd_alldata_csv.zip",
+      "original_name": null,
+      "sha256": "3a28a7180f48bba065e0dd2d490c0bbcee689cc39a752b8a67e5e7069a09b349",
+      "bytes": 10430007
+    }
+  ],
+  "countries": [
+    "ALL"
+  ],
+  "time_coverage": "1960-present",
+  "frequency": "annual (updated monthly)",
+  "topics": [
+    "agriculture",
+    "poultry",
+    "citrus",
+    "production",
+    "trade"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "US Government public domain",
+  "notes": "Covers chicken meat and oranges production/supply/distribution by country; not yet unzipped."
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_id": "motheral-report-land-reform",
+  "title": "The Motheral Report and Land Reform in Iran, 1952-1963",
+  "source_org": "Rockefeller Archive Center (research report by Jack Roush, London School of Economics)",
+  "source_url": "https://rockarch.issuelab.org/resource/the-motheral-report-and-land-reform-in-iran-1952-1963.html",
+  "download_url": "https://rockarch.issuelab.org/resources/45044/45044.pdf",
+  "retrieved_at_utc": "2026-07-12T20:38:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "45044.pdf",
+      "original_name": null,
+      "sha256": "e3627abac4ab1ba233b4b981c8fffb69f08789c60c5dfe12b7ba00a577a58a36",
+      "bytes": 231340
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1952-1963 (Pahlavi era, Point Four / US technical assistance)",
+  "frequency": "one-off research report",
+  "topics": ["usaid", "point-four", "land-reform", "pahlavi-era", "rural-development", "white-revolution"],
+  "units": "narrative history with cited archival sources",
+  "license_terms": "Rockefeller Archive Center research report, (c) 2025 Jack Roush -- academic/archival use; cite author",
+  "notes": "RAC Research Reports series, 13 pages. Covers the 1957 Motheral Report (commissioned by Shah Mohammad Reza Pahlavi from US agricultural economist Joseph R. Motheral) on Iran's land tenure system, its role in shaping Prime Minister Ali Amini's 1961 land reform and the Shah's 1963 White Revolution, and the broader US Point Four program's rural-development role in Iran. This is a secondary historical research report drawing on RAC's primary archival holdings (Near East Foundation records etc.), not itself a primary government document -- included per task instructions targeting this specific RAC publication as representative of the USAID/Point Four documentary layer.",
+  "failures": []
+}

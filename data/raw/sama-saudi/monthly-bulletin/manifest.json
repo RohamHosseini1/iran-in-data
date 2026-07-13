@@ -1,0 +1,32 @@
+{
+  "dataset_id": "sama-monthly-bulletin-2026-05",
+  "title": "SAMA Monthly Statistical Bulletin \u2014 May 2026",
+  "source_org": "Saudi Central Bank (SAMA)",
+  "source_url": "https://www.sama.gov.sa/en-US/Statistics/Pages/MonthlyStatistics.aspx",
+  "download_url": "https://www.sama.gov.sa/en-US/Statistics/MonthlyStatistics/Monthly_Bulletin_May_2026.xlsx",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "Monthly_Bulletin_May_2026.xlsx",
+      "original_name": null,
+      "sha256": "d2a09016b3fdb9fed4d412a7feb58e0fc5e22543803bad0411f30a4df5c51a2d",
+      "bytes": 4715225
+    }
+  ],
+  "countries": [
+    "SAU"
+  ],
+  "time_coverage": "latest month + historical series tables",
+  "frequency": "monthly",
+  "topics": [
+    "macro",
+    "banking",
+    "money",
+    "fx"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "SAMA public statistics",
+  "notes": "Annual Statistics tables and GASTAT CPI/yearbook not yet fetched \u2014 follow-up needed."
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_id": "economic-expertise-rural-improvement",
+  "title": "Economic Expertise and Rural Improvement in Iran, 1948-1963",
+  "source_org": "Rockefeller Archive Center (research report by Gregory Brew, Georgetown University)",
+  "source_url": "https://rockarch.issuelab.org/resource/economic-expertise-and-rural-improvement-in-iran-1948-1963.html",
+  "download_url": "https://rockarch.issuelab.org/resources/29283/29283.pdf",
+  "retrieved_at_utc": "2026-07-12T20:39:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "29283.pdf",
+      "original_name": null,
+      "sha256": "16e3a0e8d736f858fd48abce3ebedc174feea8a1f25a121c4d74b090cafff2ac",
+      "bytes": 579531
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1948-1963 (Pahlavi era, Point Four / US technical assistance)",
+  "frequency": "one-off research report",
+  "topics": ["usaid", "point-four", "rural-development", "pahlavi-era", "oil-revenue", "second-seven-year-plan"],
+  "units": "narrative history with cited archival sources",
+  "license_terms": "Rockefeller Archive Center research report, (c) 2017 Gregory Brew -- academic/archival use; cite author",
+  "notes": "RAC Research Reports series, 8 pages. Covers the role of American technical/economic 'know-how' experts in Iran's oil-financed development program after the 1953 coup, centered on the Second Seven Year Plan (1955-1962), oil consortium revenue growth ($33m to $338m 1955-1960), and US Point Four-era rural improvement efforts. Secondary historical research report drawing on RAC's primary archival holdings, not itself a primary government document -- included per task instructions targeting this specific RAC publication.",
+  "failures": []
+}

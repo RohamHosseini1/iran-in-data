@@ -1,0 +1,34 @@
+{
+  "dataset_id": "unctad-maritime-profile-ven",
+  "title": "UNCTAD Maritime Country Profile — Venezuela (Bolivarian Republic of)",
+  "source_org": "UNCTAD (UN Trade and Development), UNCTADstat",
+  "source_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/862/index.html",
+  "download_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/862/MaritimeProfile862.pdf",
+  "retrieved_at_utc": "2026-07-12T19:30:07Z",
+  "retrieved_by": "agent:iran-finance-trade-infra",
+  "files": [
+    {
+      "name": "MaritimeProfile862.pdf",
+      "original_name": "MaritimeProfile862.pdf",
+      "sha256": "1954a1305c8780563e3ecc5da0cc1e5cbd519d3c7d3bd446db43ab8218dc874e",
+      "bytes": 595777
+    }
+  ],
+  "countries": [
+    "VEN"
+  ],
+  "time_coverage": "2024 (latest annual snapshot; profile also includes select multi-year time series charts)",
+  "frequency": "annual (profile refreshed periodically by UNCTAD)",
+  "topics": [
+    "maritime transport",
+    "shipping",
+    "merchant fleet",
+    "port infrastructure",
+    "seaborne trade",
+    "liner shipping connectivity"
+  ],
+  "units": "described within PDF (population millions, GDP current US$ millions, fleet counts/DWT, TEU, etc.)",
+  "license_terms": "UNCTAD public statistical publication; standard UN data terms of use",
+  "notes": "Direct PDF download from UNCTADstat Country Profile Maritime Profile tool, country code 862 (UN M49 numeric code). Downloaded as a natural comparator alongside Iran since UNCTAD publishes this exact profile template for every UN M49 country code — one source covers all target comparators. USA required code 840 (not 842, which 404s).",
+  "failures": []
+}

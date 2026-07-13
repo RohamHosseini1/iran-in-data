@@ -1,0 +1,40 @@
+{
+  "dataset_id": "tedpix-tgju-bourse",
+  "title": "Tehran Stock Exchange overall index (TEDPIX) \u2014 daily history via TGJU aggregator",
+  "source_org": "TGJU.org",
+  "source_url": "https://www.tgju.org/profile/bourse",
+  "download_url": "https://api.tgju.org/v1/market/indicator/summary-table-data/bourse?lang=fa&order_dir=asc&draw=1&start=0&length=5000",
+  "retrieved_by": "agent:markets-fx",
+  "retrieved_at_utc": "2026-07-12T19:01:04Z",
+  "files": [
+    {
+      "name": "tedpix-overall-index-tgju_bourse_2026-07-12.json",
+      "original_name": null,
+      "sha256": "13a62def487be0afae84c179d4527bf33d2ee390f4fbccb0f682ff9bd9c869e3",
+      "bytes": 487066
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "2014-04-28 to 2026-07-12",
+  "frequency": "daily",
+  "topics": [
+    "stock-market",
+    "tedpix",
+    "financial-markets"
+  ],
+  "units": "TEDPIX index points",
+  "license_terms": "unspecified \u2014 public aggregator, attribute TGJU",
+  "notes": "tsetmc.com (the official Tehran Stock Exchange site) was unreachable \u2014 connect timeouts on cdn.tsetmc.com:80/443 and old.tsetmc.com:80 from the download IP, confirmed geo-block. TGJU's 'bourse' indicator was cross-checked against tsetmc's own historical TEDPIX values at spot-check dates and matches, per the original agent's log. recordsTotal=2717 starting 2014-04-28. Raw JSON, not yet parsed to CSV.",
+  "failures": [
+    {
+      "url": "http://cdn.tsetmc.com/api/Index/GetIndexB2History/32097828799138957",
+      "result": "connect timeout, geo-blocked"
+    },
+    {
+      "url": "http://old.tsetmc.com/tsev2/chart/data/IndexFinancial.aspx",
+      "result": "connect timeout, geo-blocked"
+    }
+  ]
+}

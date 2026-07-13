@@ -1,0 +1,79 @@
+{
+  "dataset_id": "stanford-iran-2040-archive",
+  "title": "Stanford Iran 2040 Project — selected publication articles (Program in Iranian Studies)",
+  "source_org": "Stanford University, Hamid and Christina Moghadam Program in Iranian Studies / Iran 2040 Project",
+  "source_url": "https://iranian-studies.stanford.edu/iran-2040-project/publications",
+  "download_url": "see per-file source_url",
+  "retrieved_at_utc": "2026-07-12T18:34:04Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "irans_large_and_growing_financing_gap.html",
+      "original_name": null,
+      "sha256": "bfa34bcf32da1d3ade92a28460d05e6ad5177991fd053374f2b1c8e93339a41d",
+      "bytes": 73719,
+      "article_title": "Iran's Large and Growing Financing Gap",
+      "source_url": "https://iranian-studies.stanford.edu/publications/irans-large-and-growing-financing-gap"
+    },
+    {
+      "name": "central_banking_in_iran.html",
+      "original_name": null,
+      "sha256": "b5196e9a35869c4d1d51d06a715802ecc1371ce08f6bdb6149b4a9714affa9ad",
+      "bytes": 172282,
+      "article_title": "Central Banking in Iran",
+      "source_url": "https://iranian-studies.stanford.edu/publications/central-banking-iran"
+    },
+    {
+      "name": "future_of_irans_oil_and_economic_implications.html",
+      "original_name": null,
+      "sha256": "d7a6ec29cf786a84680f251477f17e4b5206e6aa5946cc0eb094c2b2c07431a9",
+      "bytes": 110302,
+      "article_title": "The Future of Iran's Oil and Its Economic Implications",
+      "source_url": "https://iranian-studies.stanford.edu/publications/future-irans-oil-and-its-economic-implications"
+    },
+    {
+      "name": "iran_troubled_economy_verge_of_new_sanctions.html",
+      "original_name": null,
+      "sha256": "2f3d736af48fad06d80e716cfd5ad0e2df926128cd686f78679a595a96f05cd6",
+      "bytes": 64625,
+      "article_title": "Iran: A Troubled Economy on the Verge of New Sanctions",
+      "source_url": "https://iranian-studies.stanford.edu/publications/iran-troubled-economy-verge-new-sanctions"
+    },
+    {
+      "name": "irans_exports_under_sanctions_myth_of_maximum_pressure.html",
+      "original_name": null,
+      "sha256": "69addab85b340169f3e686f1305918be0609dffcdf0b3b513c06e4bcbc4b2d2b",
+      "bytes": 65974,
+      "article_title": "Iran's Exports Under Sanctions: The Myth of Maximum Pressure",
+      "source_url": "https://iranian-studies.stanford.edu/publications/irans-exports-under-sanctions-myth-maximum-pressure"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "articles published roughly 2019-2024, discussing data through those years",
+  "frequency": "n/a (one-off analytical articles)",
+  "topics": [
+    "balance of payments",
+    "central bank",
+    "economic outlook",
+    "energy",
+    "exports",
+    "fiscal deficit",
+    "foreign reserves",
+    "macroeconomy",
+    "monetary policy",
+    "oil",
+    "sanctions",
+    "trade"
+  ],
+  "units": "n/a (narrative articles with embedded charts/figures, not raw data tables)",
+  "license_terms": "Stanford Iranian Studies Program publication; no explicit reuse license stated on site; standard web copyright presumed",
+  "notes": "Both target entry points were directly reachable: https://purl.stanford.edu/yd955cs5721 (HTTP 200) is the Stanford Digital Repository collection landing page for the Iran 2040 archive, but it only links out to a SearchWorks catalog search for the collection's member items (https://searchworks.stanford.edu/catalog?f[collection][]=yd955cs5721) -- that SearchWorks endpoint is blocked by the SAME F5/TSPD JavaScript bot-challenge confirmed against cbi.ir in the prior session (verified via identical signature: window[\"bobcmn\"], /TSPD/ tokens in response body), so the collection's individual archived files/data could not be enumerated or downloaded in this pass. The publications page (https://iranian-studies.stanford.edu/iran-2040-project/publications) WAS directly reachable and listed ~18 publication titles, each linking to its own article page under /publications/<slug> or /iran-2040-project/publications/<slug>. IMPORTANT DEVIATION FROM TASK ASSUMPTION: the site has been redesigned as a Drupal-based web-native publishing platform -- checked 12 publication landing pages (7 under /publications/, 5 under /iran-2040-project/publications/) and NONE exposed a standalone downloadable PDF file (no .pdf hrefs, no print/alternate link tags, no iframes/embeds); each publication is instead a full HTML article with inline text, embedded chart images (as responsive <picture>/webp figures), and captions -- there is no separate 'PDF report with data appendix' to fetch. Given that, downloaded the 5 most economically substantive publication articles as complete HTML pages (the actual content unit the site now serves) rather than fabricating or skipping the task: financing gap/BoP, central banking, oil economics, sanctions-era macroeconomy, and non-oil exports under sanctions. These are real, verified HTML documents (correct <title> tags, substantial body text, embedded data figures) -- not bot-challenge pages.",
+  "failures": [
+    {
+      "url": "https://searchworks.stanford.edu/catalog?f[collection][]=yd955cs5721",
+      "reason": "F5/TSPD JS bot-challenge (same signature as cbi.ir), blocks curl -- could not enumerate/download individual Stanford Digital Repository collection items for yd955cs5721"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_id": "wbes-country-profiles",
+  "title": "World Bank Enterprise Surveys — Harmonized Indicators by Country (via World Bank Data360, dataset WB_ES)",
+  "source_org": "World Bank Group (Enterprise Analysis Unit)",
+  "source_url": "https://www.enterprisesurveys.org/ ; https://data360.worldbank.org/en/dataset/WB_ES",
+  "download_url": "https://data360api.worldbank.org/data360/data?DATABASE_ID=WB_ES&REF_AREA=<ISO3>&top=1000&skip=<N>",
+  "retrieved_at_utc": "2026-07-12T18:25:46Z",
+  "retrieved_by": "agent:swiid-enterprise-competitiveness",
+  "files": [
+    {"name": "wbes_TUR.csv", "original_name": null, "sha256": "8e5677cf634b5f15609807d8562032cbea6488da27b138cdec2205fbd77b9bf3", "bytes": 1023162},
+    {"name": "wbes_SAU.csv", "original_name": null, "sha256": "ec078b63d08a74c05da26937bc6ba977ff1a46e062bc7d93db1663fbb449fd1b", "bytes": 570771},
+    {"name": "wbes_VEN.csv", "original_name": null, "sha256": "ce165b12d12ef40471da59c77ed9234a93687f7c3ce0ecdba9005067f1eda73b", "bytes": 271255},
+    {"name": "wbes_KOR.csv", "original_name": null, "sha256": "97138d9a5b487b9e49c15dcf66d251ba6ac4132e2ef3a8f61e5aa6f49da71ace", "bytes": 356874},
+    {"name": "wbes_USA.csv", "original_name": null, "sha256": "b010fee88e007b1c8e39cd543e673309f6bd02323b6c436a5446fbdb1c6337f7", "bytes": 416245},
+    {"name": "wbes_RUS.csv", "original_name": null, "sha256": "f33311badafa1f930f1c2440f95eef2a4ab6f36c7d2d63324cffadb6f15f1a6c", "bytes": 719008},
+    {"name": "wbes_ESP.csv", "original_name": null, "sha256": "096ee71af0229403a38f7eff6b4116933f89b438230099cc222a3784c08e5e98", "bytes": 578372},
+    {"name": "wbes_PRT.csv", "original_name": null, "sha256": "15c3db5d5b726d1b21a787ffd46fa92950d82dd2e53eaec9fe74ddd749b3fae5", "bytes": 563283},
+    {"name": "wbes_GRC.csv", "original_name": null, "sha256": "0365bcad7ee6e892c8b2762b75e76985005c23cc646ca5957942fdccd98cc9c1", "bytes": 494094},
+    {"name": "wbes_DEU.csv", "original_name": null, "sha256": "30c2528aea6fc07b269542cd8a61a851aa7ba46e226d89f9cabcf317628975de", "bytes": 700773},
+    {"name": "wbes_FRA.csv", "original_name": null, "sha256": "f34ac4c0a9b458a0781049d7ccde630b0371a4ab839964811014024f758bd07f", "bytes": 591966},
+    {"name": "wbes_GBR.csv", "original_name": null, "sha256": "e49cfe088002df8c5722bbc85efee6573c43a4b060f718db339d6d553deed4cd", "bytes": 311732},
+    {"name": "wbes_ITA.csv", "original_name": null, "sha256": "4da6de19ee361d4a06110f4b8f8b9457c6a792f25dcceb01c0addbb5b55d000a", "bytes": 549128},
+    {"name": "wbes_NLD.csv", "original_name": null, "sha256": "27bca9310f8c34cb26085b12e3970643ab509293b82284ee2ba7da739f1ed6d2", "bytes": 507792},
+    {"name": "wbes_SWE.csv", "original_name": null, "sha256": "8fbc24f8de1737acbd7e437e31a0b56f72d7c6711bce8418bae5ebdc12aa487b", "bytes": 665860},
+    {"name": "wbes_indicator_codes.json", "original_name": null, "sha256": "68bfdc6c0153cda11ecf91eb015d742134fba4bfb306b61e27235d99cacc0d09", "bytes": 12987}
+  ],
+  "countries": ["TUR", "SAU", "VEN", "KOR", "USA", "RUS", "ESP", "PRT", "GRC", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "varies by country: TUR 2008-2024, SAU 2022-2025, VEN 2006-2010, KOR 2024, USA 2024, RUS 2009-2019, ESP 2021-2024, PRT 2019-2023, GRC 2018-2023, DEU 2021-2025, FRA 2021-2025, GBR 2024, ITA 2019-2024, NLD 2020-2025, SWE 2014-2024",
+  "frequency": "irregular (survey rounds, roughly every 3-6 years per country; latest round per country marked LATEST_DATA=true)",
+  "topics": ["firm-level obstacles", "informality", "corruption perception", "access to finance", "regulation", "gender", "management practices", "firm performance", "labor", "taxation", "competition", "business readiness"],
+  "units": "mixed — percent of firms, index scores (1-7 or 0-100), median days/counts; see UNIT_MEASURE column per row and wbes_indicator_codes.json for the ~585 indicator codes (self-descriptive prefixes: BREADY=business readiness, FIN=finance, CORR=corruption, INFOR=informality, OBST=obstacles, REG=regulation, TAX=tax, GEND=gender, MGMT=management, PERF=performance, JOBS=employment, WK=workforce, TR=trade)",
+  "license_terms": "World Bank Open Data terms (CC BY 4.0)",
+  "notes": "IRAN IS NOT COVERED: World Bank Enterprise Surveys have never surveyed Iran. Confirmed via three independent checks: (1) World Bank Microdata Library catalog (microdata.worldbank.org/index.php/catalog/enterprise_surveys) of 773 country-survey studies jumps directly from 'Iraq' to 'Ireland' with no Iran entry; (2) the enterprisesurveys.org 'exploreeconomies' economy-selector dropdown does not list Iran; (3) most authoritatively, the official World Bank Data360 API query https://data360api.worldbank.org/data360/data?DATABASE_ID=WB_ES&REF_AREA=IRN returned {\"count\": 0, \"value\": []} — zero records for Iran across all ~585 indicators and all years. Iran's exclusion is consistent with WBES's operational model, which since ~2005 has generally required in-country field access via a local implementing partner and government/statistical-office cooperation for its Business Pulse Survey/ICS methodology; Iran, like North Korea and a handful of other states, has no WBES survey round on record. This is a genuine, confirmed data gap, not a download failure.\n\nWhat WAS retrieved: harmonized WBES indicator data (via the same World Bank Data360 platform that also hosts WEF_GCIHH) for all 15 assigned comparator countries, all of which DO have Enterprise Survey rounds on record — including several high-income countries (USA, DEU, FRA, GBR, ITA, NLD, SWE, ESP, PRT, GRC) that were surveyed under WBES's post-2015 expansion into OECD/EU economies, not just the traditional emerging-market focus. Each row is one indicator observation with SDMX-style dimensions: REF_AREA, INDICATOR, TIME_PERIOD, OBS_VALUE, UNIT_MEASURE, SEX/AGE/URBANISATION demographic breakdowns (mostly '_T' = total), COMP_BREAKDOWN_1/2/3 (often firm-size or sector splits, e.g. WB_ES_M_SECTOR_1), LATEST_DATA flag, OBS_STATUS. Downloaded by paginating the Data360 REST API (max page size 1000 rows) per ISO3 country code; no bulk CSV export was found on the Data360 site itself. wbes_indicator_codes.json lists all 585 indicator codes returned for this dataset (no separate label/description endpoint was found — codes are abbreviation-based, e.g. WB_ES_M_OBST15='obstacle to business, %firms identifying as biggest obstacle', WB_ES_S_FIN15='% of firms with a bank loan/line of credit'; consult enterprisesurveys.org indicator descriptions PDF for exact definitions if needed later). No Cloudflare/anti-bot blocking encountered on this API.",
+  "failures": [
+    {"target": "Iran (IRN)", "reason": "World Bank Enterprise Surveys has never conducted a survey round in Iran — confirmed zero records via official Data360 API (DATABASE_ID=WB_ES, REF_AREA=IRN returns count:0), corroborated by absence from the World Bank Microdata Library catalog and the enterprisesurveys.org economy selector.", "attempted_urls": ["https://data360api.worldbank.org/data360/data?DATABASE_ID=WB_ES&REF_AREA=IRN", "https://microdata.worldbank.org/index.php/catalog/enterprise_surveys/?country=IRN", "https://www.enterprisesurveys.org/en/data/exploreeconomies"]}
+  ]
+}

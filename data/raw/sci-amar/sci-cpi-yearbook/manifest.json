@@ -1,0 +1,91 @@
+{
+  "dataset_id": "sci-cpi-yearbook",
+  "title": "Iran Statistical Yearbook 1399 (2020/21) — selected English chapters (Price Indices/CPI, National Accounts, HEIS, Manpower, Government Budget) retrieved via Wayback Machine",
+  "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
+  "source_url": "https://www.amar.org.ir/english/Iran-Statistical-Yearbook/Statistical-Yearbook-2020-2021",
+  "download_url": "https://web.archive.org/web/{timestamp}id_/https://www.amar.org.ir/Portals/1/yearbook/1399/{chapter}.pdf",
+  "retrieved_at_utc": "2026-07-12T18:20:13Z",
+  "retrieved_by": "agent:iran-official-mopup",
+  "files": [
+    {
+      "name": "sci_yearbook_1399_ch00_preliminary-pages.pdf",
+      "original_name": "Portals/1/yearbook/1399/00.pdf",
+      "sha256": "9380dfabd535229d60a283edb47626038cab7c032a07cd623c0ddc3d9fb19fcc",
+      "bytes": 1611105,
+      "chapter_title": "Preliminary Pages (table of contents / methodology)",
+      "wayback_timestamp": "20230329154635"
+    },
+    {
+      "name": "sci_yearbook_1399_ch4_manpower.pdf",
+      "original_name": "Portals/1/yearbook/1399/4.pdf",
+      "sha256": "9bd32abcf7a68a340360aab60b605e7f9b94bdf8beec95e2399ed560a14915de",
+      "bytes": 1317966,
+      "chapter_title": "4. Manpower",
+      "wayback_timestamp": "20230329154217"
+    },
+    {
+      "name": "sci_yearbook_1399_ch20_government-budget.pdf",
+      "original_name": "Portals/1/yearbook/1399/20.pdf",
+      "sha256": "5726286b9ab54af3ff807eb2be755856cd3768f568c9494c20267d863d268a47",
+      "bytes": 1386620,
+      "chapter_title": "20. Government Budget",
+      "wayback_timestamp": "20230329152736"
+    },
+    {
+      "name": "sci_yearbook_1399_ch21_household-expenditure-income.pdf",
+      "original_name": "Portals/1/yearbook/1399/21.pdf",
+      "sha256": "a140a57c17ede4f08928ef6448da8b9e39d8d4f96f914e089e6f601f54c6390f",
+      "bytes": 1587238,
+      "chapter_title": "21. Household Expenditure & Income",
+      "wayback_timestamp": "20230329153825"
+    },
+    {
+      "name": "sci_yearbook_1399_ch22_price-indices.pdf",
+      "original_name": "Portals/1/yearbook/1399/22.pdf",
+      "sha256": "d9740ededbac66d0a5a27680f17a16049455ae1165d6db76f7240148e98ec707",
+      "bytes": 1623609,
+      "chapter_title": "22. Price Indices (CPI/PPI)",
+      "wayback_timestamp": "20230329152553"
+    },
+    {
+      "name": "sci_yearbook_1399_ch23_national-accounts.pdf",
+      "original_name": "Portals/1/yearbook/1399/23.pdf",
+      "sha256": "2efb89989c25e22fa5e21916125cc82ba2b1cac0383ef963fdc74130b79784cc",
+      "bytes": 1329205,
+      "chapter_title": "23. National Accounts",
+      "wayback_timestamp": "20230329152511"
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "Iranian fiscal year 1399 (2020/21), most tables with multi-year time series back to earlier years",
+  "frequency": "annual",
+  "topics": [
+    "statistics",
+    "CPI",
+    "inflation",
+    "national accounts",
+    "household expenditure",
+    "labor force",
+    "government budget",
+    "official statistics"
+  ],
+  "units": "described within each chapter PDF (rial, index points, persons, etc.)",
+  "license_terms": "SCI public publication; no explicit license stated on site",
+  "notes": "Direct TLS connection to amar.org.ir/www.amar.org.ir resets (curl error 35, 'Recv failure: Connection reset by peer' at TLS Client Hello stage) — consistent with known intermittent geo-blocking of Iranian gov sites noted in SOURCES.md, not a JS bot-challenge like cbi.ir. Retrieved via Wayback Machine CDX API instead: found the archived English 'Yearbooks and similar compendia' landing page, followed to the Statistical Yearbook 2020-2021 (Persian year 1399) English edition landing page (web.archive.org snapshot 20240214151107), which listed 22 of 25 chapter PDFs at /Portals/1/yearbook/1399/{N}.pdf with English chapter titles (full list found: 1 Land & Climate, 2 Environment, 3 Population, 4 Manpower, 5 Agriculture/Forestry/Fisheries, 6 Mining & Quarrying, 7 Oil & Gas, 9 Water & Electricity, 10 Construction & Housing, 11 Trade & Hotels, 12 Transport & Storage, 13 Communications, 14 Financial Intermediation, 15 Judicial Affairs, 16 Welfare & Social Security, 17 Education, 18 Health & Treatment, 19 Culture & Tourism, 20 Government Budget, 21 Household Expenditure & Income, 22 Price Indices, 23 National Accounts, 24 International Statistics, 25 Political Affairs; chapters 8 and 00/99 also exist as front/back matter). Confirmed via CDX that all chapter PDFs are individually archived (application/pdf, HTTP 200, snapshot batch 2023-03-29). Downloaded the 6 most directly economics-relevant chapters (CPI/Price Indices was explicitly requested by task; added National Accounts, Household Expenditure & Income, Manpower/Labor, Government Budget, and the Preliminary Pages/TOC for reference). Did not download the remaining ~16 chapters (land/climate, environment, population, mining, oil&gas, water, construction, trade, transport, communications, banking, judicial, welfare, education, health, culture, international stats, political affairs) to stay within task scope — their Wayback URLs and timestamps are recoverable from the same CDX prefix query (amar.org.ir/Portals/1/yearbook/1399/) if needed later. Did not separately fetch a standalone 'English CPI page' (Statistics-by-Topic/Economic-statistics/Prices) — no Wayback snapshot found for that exact path via CDX; the Price Indices yearbook chapter (ch22) serves the same CPI content in tabular form and was prioritized instead.",
+  "failures": [
+    {
+      "url": "https://www.amar.org.ir/english",
+      "reason": "TLS connection reset (curl 35) at Client Hello — geo-block/network-level, not a bot challenge"
+    },
+    {
+      "url": "https://www.amar.org.ir/en/Statistics-by-Topic/Economic-statistics/Prices",
+      "reason": "no Wayback CDX snapshot found for this exact path"
+    },
+    {
+      "url": "https://amar.org.ir/en/Statistics-by-Topic/agentType/View/PropertyID/11730",
+      "reason": "no Wayback CDX snapshot found (yearbook-by-year landing pages under /en/ not archived)"
+    }
+  ]
+}

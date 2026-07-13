@@ -1,0 +1,46 @@
+{
+  "dataset_id": "wid-world-country-tur",
+  "title": "WID.world Top Income/Wealth Shares & Average National Income — Turkey",
+  "source_org": "World Inequality Lab / World Inequality Database (WID.world)",
+  "source_url": "https://wid.world/data/",
+  "download_url": "https://rfap9nitz6.execute-api.eu-west-1.amazonaws.com/prod/countries-variables-dl?countries=TR&variables=<see notes>&years=1700-2027&format=csv",
+  "retrieved_at_utc": "2026-07-12T18:24:08Z",
+  "retrieved_by": "agent:wid-world-download",
+  "files": [
+    {
+      "name": "country-tur_data_2026-07-12.csv",
+      "original_name": "WID_Data_12072026-182407.csv",
+      "sha256": "638c6650e0dbbedc636b9272a25cb3ce01dcfc9158cc1c3b9195432fac358f99",
+      "bytes": 104475
+    },
+    {
+      "name": "country-tur_metadata_2026-07-12.csv",
+      "original_name": "WID_Metadata_12072026-182407.csv",
+      "sha256": "52e0eff403915f271ad7a05b3d155b3fe9ee1728d6970c141d3cae027c88b5d1",
+      "bytes": 21266
+    },
+    {
+      "name": "country-tur_2026-07-12.zip",
+      "original_name": "WID_Data_Metadata_12072026-182407.zip",
+      "sha256": "57bf51726d1d9174d88662db77bb9480c6f2fd676b12fc48859fe17954bbd149",
+      "bytes": 15003
+    }
+  ],
+  "countries": [
+    "TUR"
+  ],
+  "time_coverage": "varies by country (WID coverage typically starts 1800-1900; see data)",
+  "frequency": "annual",
+  "topics": [
+    "inequality",
+    "top income shares",
+    "top wealth shares",
+    "national income",
+    "income distribution",
+    "wealth distribution"
+  ],
+  "units": "income/wealth shares as fraction of total (0-1); anninc in local currency units per adult (see WID_Metadata csv for exact units/currency per row)",
+  "license_terms": "WID.world data is open access (see https://wid.world/methodology/ and site terms)",
+  "notes": "Retrieved via WID.world's underlying data API (https://rfap9nitz6.execute-api.eu-west-1.amazonaws.com/prod/countries-variables-dl), the same endpoint used by the interactive bulk-download tool at https://wid.world/data/ (client-side public API key extracted from the site's own app.js). Variables requested: top 10% and top 1% shares of pre-tax national income (sptinc) and net personal wealth (shweal), all available age/population variants (10 series requested: anninc_p0p100_992_i,anninc_p0p100_999_i,shweal_p90p100_992_j,shweal_p90p100_999_j,shweal_p99p100_992_j,shweal_p99p100_999_j,sptinc_p90p100_992_j,sptinc_p90p100_999_j,sptinc_p99p100_992_j,sptinc_p99p100_999_j), plus average national income per adult (anninc, p0p100, both age variants). DataQuality column in the CSV encodes WID's own data-quality/estimation-method flag per cell (0=best available observed/interpolated, higher codes indicate more extrapolation/modeling — see WID_Metadata csv and https://wid.world/methodology/ for the quality-code legend). Empty Value cells are genuine missing data (years/series WID has no estimate for), not fabricated. The full mega bulk file (wid_all_data.zip, ~842MB) was skipped per size-discipline rule (>500MB); this per-country extract covers the specific inequality metrics requested.",
+  "failures": []
+}

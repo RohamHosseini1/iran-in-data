@@ -1,0 +1,20 @@
+{
+  "dataset_id": "worldbank-pinksheet-annual",
+  "title": "World Bank Commodity Price Data (The Pink Sheet) — Annual historical prices",
+  "source_org": "World Bank (Prospects Group)",
+  "source_url": "https://www.worldbank.org/en/research/commodity-markets",
+  "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Annual.xlsx",
+  "retrieved_at_utc": "2026-07-12T17:25:30Z",
+  "retrieved_by": "agent:worldbank-download",
+  "files": [
+    {"name": "CMO-Historical-Data-Annual.xlsx", "original_name": null, "sha256": "d418b3c12f1e374a77113d8d42aeb3ffe8c154e7156e28c7b289e7adccf36af0", "bytes": 398503}
+  ],
+  "countries": ["N/A (world commodity benchmark prices, not country-level)"],
+  "time_coverage": "1960–2025",
+  "frequency": "annual",
+  "topics": ["commodity prices", "food prices", "chicken", "poultry", "orange", "citrus", "energy", "agriculture"],
+  "units": "nominal and real (constant US dollars) prices; per-commodity units in header rows and Description sheet",
+  "license_terms": "World Bank terms of use (CC BY-4.0 open data terms)",
+  "notes": "July 2026 edition of the Pink Sheet historical annual workbook. Sheets: Annual Prices (Nominal), Annual Indices (Nominal), Annual Prices (Real), Annual Indices (Real), Description, Definitions, Index Weights. Poultry is labelled 'Chicken' (Meat, chicken); orange prices under 'Orange'. Real-price sheets are deflated (MUV index). Link discovered from the Commodity Markets research page on 2026-07-12; the thedocs.worldbank.org path segment changes with each monthly edition.",
+  "failures": []
+}

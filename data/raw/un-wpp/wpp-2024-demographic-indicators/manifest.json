@@ -1,0 +1,25 @@
+{
+  "dataset_id": "wpp-2024-demographic-indicators",
+  "title": "UN World Population Prospects 2024 — Demographic Indicators (compact CSV, Medium variant)",
+  "source_org": "UN Department of Economic and Social Affairs, Population Division",
+  "source_url": "https://population.un.org/wpp/",
+  "download_url": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz",
+  "retrieved_at_utc": "2026-07-12T18:18:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "WPP2024_Demographic_Indicators_Medium.csv.gz",
+      "original_name": null,
+      "sha256": "286ac36bb1415e2e1ade03acfef0a29f0e4c087e2f78e38c48f50c5df89082bc",
+      "bytes": 16557272
+    }
+  ],
+  "countries": ["ALL (world + regional aggregates); confirmed IRN present, 152 rows 1950-2100ish"],
+  "time_coverage": "1950-2100 (historical + medium-variant projections)",
+  "frequency": "annual",
+  "topics": ["population", "demographics", "fertility", "mortality", "life expectancy", "migration"],
+  "units": "described in file (thousands of persons, rates per 1000, years, etc.)",
+  "license_terms": "UN DESA Population Division — free to use with attribution",
+  "notes": "Compact 'Demographic Indicators' CSV, Medium variant, gzip-compressed. This is the flagship all-in-one indicator file from the WPP2024 download page. Only the Medium projection variant was pulled (the standard comparator use case); Low/High/Constant-fertility variants exist as separate files if needed later.",
+  "failures": []
+}

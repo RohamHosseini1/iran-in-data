@@ -1,0 +1,20 @@
+{
+  "dataset_id": "swiid-gini-coefficients",
+  "title": "Standardized World Income Inequality Database (SWIID) — Version 9.92",
+  "source_org": "Frederick Solt, University of Iowa (dcpo.org)",
+  "source_url": "https://fsolt.org/swiid/",
+  "download_url": "https://dataverse.harvard.edu/api/access/datafile/13657070",
+  "retrieved_at_utc": "2026-07-12T18:20:04Z",
+  "retrieved_by": "agent:swiid-enterprise-competitiveness",
+  "files": [
+    {"name": "swiid9_92.zip", "original_name": null, "sha256": "d36c541307a4e3d16f79f878ae9c23f88effb6650ebc634be829870f383dbbf0", "bytes": 24593134}
+  ],
+  "countries": ["IRN", "KOR", "TUR", "SAU", "VEN", "USA", "RUS", "ESP", "PRT", "GRC", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE", "~196 others (world coverage)"],
+  "time_coverage": "1960–2023 (Iran specifically: 1969–2023, 55 years)",
+  "frequency": "annual",
+  "topics": ["inequality", "gini coefficient", "income distribution", "disposable income", "market income"],
+  "units": "Gini index (0-100 scale), disposable and market income, with standard errors",
+  "license_terms": "CC0 1.0 (Harvard Dataverse dataset license)",
+  "notes": "SWIID provides multiply-imputed Gini estimates standardized for comparability across ~196 countries, using a Bayesian latent variable model that draws on hundreds of underlying source series (LIS, Eurostat, national statistical offices, etc.) per country. Downloaded via the Harvard Dataverse API (dataset doi:10.7910/DVN/LM4OWF, 'The Standardized World Income Inequality Database, Versions 8-9' — the Dataverse landing page title is stale but the dataset itself is kept current; latest file swiid9_92.zip was released 2026-04-07, matching the version cited on fsolt.org as of retrieval). The Dataverse landing page itself (dataset.xhtml) returned an empty HTTP 202 body when fetched directly with curl (likely a JS/anti-bot challenge, similar to the Maddison Project block noted elsewhere in this repo), but the underlying Dataverse REST API (/api/datasets/:persistentId/) was NOT blocked and returned full JSON with a direct file-download link, so no Wayback Machine fallback was needed. Archive contains: swiid9_92.dta (Stata, full multiply-imputed data, 100 imputations x observations), swiid9_92.rda (R), swiid9_92_summary.csv (point estimates + SEs, 1 row per country-year — this is the practically useful CSV), plus PDF codebooks for Stata and R usage. Iran's gini_disp (disposable-income Gini) series runs continuously 1969-2023, e.g. 43.9 in 1969 declining to 35.4 in 2023 (gini_mkt/market-income Gini also provided, consistently ~2.8-3 points higher, reflecting redistribution). Useful for cross-checking WID.world (World Inequality Database) top-income-share figures for Iran, which measure a related but distinct inequality concept.",
+  "failures": []
+}

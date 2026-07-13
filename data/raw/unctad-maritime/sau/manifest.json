@@ -1,0 +1,34 @@
+{
+  "dataset_id": "unctad-maritime-profile-sau",
+  "title": "UNCTAD Maritime Country Profile — Saudi Arabia",
+  "source_org": "UNCTAD (UN Trade and Development), UNCTADstat",
+  "source_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/682/index.html",
+  "download_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/682/MaritimeProfile682.pdf",
+  "retrieved_at_utc": "2026-07-12T19:30:07Z",
+  "retrieved_by": "agent:iran-finance-trade-infra",
+  "files": [
+    {
+      "name": "MaritimeProfile682.pdf",
+      "original_name": "MaritimeProfile682.pdf",
+      "sha256": "76f8f0d50a1dad16ba4b5bc082a893ab67354a483d6dfbe3dba7b6b5b7647a47",
+      "bytes": 578391
+    }
+  ],
+  "countries": [
+    "SAU"
+  ],
+  "time_coverage": "2024 (latest annual snapshot; profile also includes select multi-year time series charts)",
+  "frequency": "annual (profile refreshed periodically by UNCTAD)",
+  "topics": [
+    "maritime transport",
+    "shipping",
+    "merchant fleet",
+    "port infrastructure",
+    "seaborne trade",
+    "liner shipping connectivity"
+  ],
+  "units": "described within PDF (population millions, GDP current US$ millions, fleet counts/DWT, TEU, etc.)",
+  "license_terms": "UNCTAD public statistical publication; standard UN data terms of use",
+  "notes": "Direct PDF download from UNCTADstat Country Profile Maritime Profile tool, country code 682 (UN M49 numeric code). Downloaded as a natural comparator alongside Iran since UNCTAD publishes this exact profile template for every UN M49 country code — one source covers all target comparators. USA required code 840 (not 842, which 404s).",
+  "failures": []
+}

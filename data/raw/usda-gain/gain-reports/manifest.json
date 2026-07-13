@@ -1,0 +1,20 @@
+{
+  "dataset_id": "usda-gain-poultry-reports",
+  "title": "USDA GAIN — Poultry and Products Reports",
+  "source_org": "USDA Foreign Agricultural Service (FAS)",
+  "source_url": "https://gain.fas.usda.gov/",
+  "download_url": "https://gain.fas.usda.gov/Recent%20GAIN%20Publications/",
+  "retrieved_at_utc": "2026-07-12T18:20:02Z",
+  "retrieved_by": "agent:imf-energy-mopup",
+  "files": [
+    {"name": "Turkey_Poultry_Products_Annual_2018.pdf", "original_name": "Poultry and Products Annual_Ankara_Turkey_8-29-2018.pdf", "sha256": "c79e1cb99653b1922a85d580ecdc41855db1019d5ec7d87cfb5c42b1825924ae", "bytes": 631179}
+  ],
+  "countries": ["TUR"],
+  "time_coverage": "2018",
+  "frequency": "annual",
+  "topics": ["poultry", "agricultural-products", "livestock"],
+  "units": "See GAIN report",
+  "license_terms": "USDA Public Domain",
+  "notes": "2018 Turkey Poultry Annual report. Recent annual reports (2024+) for Turkey not publicly available. Iran Poultry reports not found in GAIN database (likely not published due to sanctions).",
+  "failures": ["Iran Poultry Annual — report not found in GAIN database", "Turkey Poultry Annual 2024-2026 — not publicly available"]
+}

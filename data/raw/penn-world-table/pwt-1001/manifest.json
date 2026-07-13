@@ -1,0 +1,31 @@
+{
+  "dataset_id": "pwt-1001-userguide",
+  "title": "Penn World Table 10.01 \u2014 User Guide",
+  "source_org": "Groningen Growth and Development Centre",
+  "source_url": "https://www.rug.nl/ggdc/productivity/pwt/",
+  "download_url": "https://www.rug.nl/ggdc/docs/pwt100-user-guide-to-data-files.pdf",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "pwt100-user-guide-to-data-files.pdf",
+      "original_name": null,
+      "sha256": "d536323485bcd1fd67d21cd3474f27764e266f4124ebbad0e9b00ea07e4e0fa0",
+      "bytes": 204265
+    }
+  ],
+  "countries": [
+    "ALL"
+  ],
+  "time_coverage": "1950-present",
+  "frequency": "annual",
+  "topics": [
+    "macro",
+    "productivity",
+    "gdp"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "CC BY 4.0",
+  "notes": "User guide only \u2014 the PWT100.xlsx/dta data files themselves were not yet fetched in this pass; follow-up needed."
+}

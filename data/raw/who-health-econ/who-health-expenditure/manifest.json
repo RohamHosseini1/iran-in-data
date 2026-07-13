@@ -1,0 +1,35 @@
+{
+  "dataset_id": "who-health-expenditure",
+  "title": "WHO Global Health Expenditure Database (GHED) — health spending indicators, target country set",
+  "source_org": "World Health Organization (WHO)",
+  "source_url": "https://apps.who.int/nha/database",
+  "download_url": "https://ghoapi.azureedge.net/api/{INDICATOR_CODE}?$filter=SpatialDim eq 'IRN' or SpatialDim eq 'KOR' or ... (10 countries)",
+  "retrieved_at_utc": "2026-07-12T18:23:30Z",
+  "retrieved_by": "agent:census-health",
+  "files": [
+    {"name": "GHED_CHEGDP_SHA2011.json", "original_name": null, "sha256": "87526f6e3a2983f027a3b6ecf0d1f4491550a19c5f967c07ebde085773b86ef4", "bytes": 125901, "description": "Current health expenditure (CHE) as % of GDP"},
+    {"name": "GHED_CHE_pc_US_SHA2011.json", "original_name": null, "sha256": "8d11960f14ee513c15e040ff3ae050aa1aaab51d44b061d64109e134083bf19e", "bytes": 127667, "description": "Current health expenditure (CHE) per capita, US$"},
+    {"name": "GHED_EXTCHE_SHA2011.json", "original_name": null, "sha256": "52bff1b25b33e11e0b1519f3f6168710420ff0af90f89ae24ca0b4b5b8ce60e1", "bytes": 125838, "description": "External health expenditure as % of CHE"},
+    {"name": "GHED_EXT_pc_US_SHA2011.json", "original_name": null, "sha256": "2f94cccb5411bc50185f8802bb5d716179ec8baaf15437facd65f5cbf1a2b151", "bytes": 80529, "description": "External health expenditure per capita, US$"},
+    {"name": "GHED_GGHE-DCHE_SHA2011.json", "original_name": null, "sha256": "97a258f06701aa8d13de3a3fea6db26c11d3023b9fd7119f43e8195ef4b87655", "bytes": 126962, "description": "Domestic general government health expenditure (GGHE-D) as % of CHE"},
+    {"name": "GHED_GGHE-DGDP_SHA2011.json", "original_name": null, "sha256": "e66767c295fb2601e1f3d24226d8d146e5a8e149d1ce3ccd907f8361c4c5dff2", "bytes": 126513, "description": "Domestic general government health expenditure (GGHE-D) as % of GDP"},
+    {"name": "GHED_GGHE-DGGE_SHA2011.json", "original_name": null, "sha256": "5cec849f8a43f675b103b24ebb206eb5999a6e2829f73032a01e2e5ba0a45334", "bytes": 126809, "description": "Domestic general government health expenditure (GGHE-D) as % of general government expenditure"},
+    {"name": "GHED_GGHE-D_pc_US_SHA2011.json", "original_name": null, "sha256": "60b409500602b1c70c2e5ca52903036787c0b3d3149f9bccb2d676e3ca0931df", "bytes": 128219, "description": "Domestic general government health expenditure (GGHE-D) per capita, US$"},
+    {"name": "GHED_OOPSCHE_SHA2011.json", "original_name": null, "sha256": "682a2f9eaf329ccd17b815707d0e2562032c05f417b76d5af1f676a42687418b", "bytes": 126505, "description": "Out-of-pocket expenditure as % of CHE"},
+    {"name": "GHED_OOP_pc_US_SHA2011.json", "original_name": null, "sha256": "c16cbbf6e58034188451ceeacdc75169b3d507fa987a23c2ecc754306120f459", "bytes": 127333, "description": "Out-of-pocket expenditure per capita, US$"},
+    {"name": "GHED_PHC_pc_US_SHA2011.json", "original_name": null, "sha256": "cfc6fd3cf11fd33bda17505eca4cf5d4007951938248a1c3da2b227d3bf2535c", "bytes": 5831, "description": "Primary health care expenditure per capita, US$ (sparse coverage: only ESP, SAU populated for our country set)"},
+    {"name": "GHED_PVT-DCHE_SHA2011.json", "original_name": null, "sha256": "0d71e8d42b54e3038fad6f113f217a440231038b1a78e77710861715beceaa84", "bytes": 126736, "description": "Domestic private health expenditure (PVT-D) as % of CHE"},
+    {"name": "GHED_PVT-D_pc_US_SHA2011.json", "original_name": null, "sha256": "e9262e7d40079e0f5f8b581dc4a4084c08a04c728395f3dde062bf18c0bcc3ae", "bytes": 127856, "description": "Domestic private health expenditure (PVT-D) per capita, US$"}
+  ],
+  "countries": ["IRN", "KOR", "TUR", "SAU", "VEN", "USA", "RUS", "ESP", "PRT", "GRC"],
+  "time_coverage": "2000-2023",
+  "frequency": "annual",
+  "topics": ["health economics", "health expenditure", "GDP share", "out-of-pocket spending", "government health spending"],
+  "units": "% of GDP, % of CHE, US$ per capita (see each indicator description)",
+  "license_terms": "WHO open data (CC BY-NC-SA 3.0 IGO)",
+  "notes": "apps.who.int/nha/database is an interactive selector tool (no static bulk-CSV endpoint found); per task instructions, used the keyless WHO Global Health Observatory (GHO) OData API at ghoapi.azureedge.net instead, which serves the same GHED (SHA2011 methodology) indicators. Queried 19 GHED_* indicator codes filtered server-side to our 10 target countries (IRN, KOR, TUR, SAU, VEN, USA, RUS, ESP, PRT, GRC) via OData $filter. 6 indicator codes (GHED_CHE_pc_PPP_SHA2011, GHED_EXT_pc_PPP_SHA2011, GHED_GGHE-D_pc_PPP_SHA2011, GHED_OOP_pc_PPP_SHA2011, GHED_PHC_GGHE-D_PHC_SHA2011, GHED_PVT-D_pc_PPP_SHA2011) exist in the GHO Indicator registry but returned 0 rows even with no country filter at all (verified) — i.e. globally unpopulated in this API backend, not a country-coverage gap. Those empty responses were not saved (no data = nothing to keep); the 13 files here are the indicators that ARE populated, covering % of GDP, per-capita US$ (not PPP), % of CHE breakdowns for total/external/government/private/out-of-pocket spending, plus primary health care (PHC) per capita which is sparsely populated (only Spain and Saudi Arabia have PHC data among our 10 countries). Row counts are ~222 per fully-populated indicator (10 countries x up to 24 years, 2000-2023, with some country-year gaps e.g. Venezuela).",
+  "failures": [
+    {"url": "https://apps.who.int/nha/database (bulk CSV export)", "error": "No static bulk-download URL found; export requires interactive multi-step form selection through the web UI", "note": "used GHO OData API instead per task fallback instructions"},
+    {"url": "https://ghoapi.azureedge.net/api/GHED_CHE_pc_PPP_SHA2011 and 5 other *_PPP_SHA2011 / PHC_GGHE-D indicator codes", "error": "HTTP 200, 0 rows (globally empty, confirmed with unfiltered query)", "note": "indicator registered in GHO metadata but not currently populated by WHO in this API"}
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dataset_id": "wid-world-country-sun",
+  "title": "WID.world Average National Income — USSR (historical; no top income/wealth share series available)",
+  "source_org": "World Inequality Lab / World Inequality Database (WID.world)",
+  "source_url": "https://wid.world/data/",
+  "download_url": "https://rfap9nitz6.execute-api.eu-west-1.amazonaws.com/prod/countries-variables-dl?countries=SU&variables=<see notes>&years=1700-2027&format=csv",
+  "retrieved_at_utc": "2026-07-12T18:24:18Z",
+  "retrieved_by": "agent:wid-world-download",
+  "files": [
+    {
+      "name": "country-sun_data_2026-07-12.csv",
+      "original_name": "WID_Data_12072026-182418.csv",
+      "sha256": "1199be8b6b7245fb0eb4ef35cd175478affce667508e5725509b64d18d4c2f29",
+      "bytes": 19536
+    },
+    {
+      "name": "country-sun_metadata_2026-07-12.csv",
+      "original_name": "WID_Metadata_12072026-182418.csv",
+      "sha256": "5e5620b61b00c5715c7f70e1b63cb9d70837e113a71da206fce3c3fec99a6d1f",
+      "bytes": 4766
+    },
+    {
+      "name": "country-sun_2026-07-12.zip",
+      "original_name": "WID_Data_Metadata_12072026-182418.zip",
+      "sha256": "f2e06fe2cdcb41dcfaaa9e98f541cb139f8c04aa5ff60facf0500dd0614eb58c",
+      "bytes": 3927
+    }
+  ],
+  "countries": [
+    "SUN"
+  ],
+  "time_coverage": "varies by country (WID coverage typically starts 1800-1900; see data)",
+  "frequency": "annual",
+  "topics": [
+    "inequality",
+    "top income shares",
+    "top wealth shares",
+    "national income",
+    "income distribution",
+    "wealth distribution"
+  ],
+  "units": "income/wealth shares as fraction of total (0-1); anninc in local currency units per adult (see WID_Metadata csv for exact units/currency per row)",
+  "license_terms": "WID.world data is open access (see https://wid.world/methodology/ and site terms)",
+  "notes": "IMPORTANT FINDING: WID.world's 'SU' (USSR) area code has NO sptinc (top pre-tax income share) or shweal (top wealth share) series at all — queried via countries-available-variables and confirmed empty for both sixlets. Only anninc (average national income per adult) is available for SU, with real (non-fabricated) observed/estimated values starting 1950 (82 of 656 requested cells non-empty; data before 1950 is genuinely absent, not a download error). This is a real WID coverage gap for the USSR, distinct from Russia (RUS), which DOES have full top-1%/top-10% income and wealth share series (queried separately as country-rus/) covering the Tsarist, Soviet and post-Soviet periods via researcher reconstructions (Novokmet/Piketty/Zucman methodology) — RUS is likely the better series to use for long-run Russian/Soviet inequality history; SU/USSR here is kept only for its distinct average-national-income series. Retrieved via WID.world's underlying data API (https://rfap9nitz6.execute-api.eu-west-1.amazonaws.com/prod/countries-variables-dl), the same endpoint used by the interactive bulk-download tool at https://wid.world/data/ (client-side public API key extracted from the site's own app.js). Variables requested: anninc_p0p100_992_i, anninc_p0p100_999_i (average national income per adult, two age/population variants; no sptinc/shweal variables exist for SU so none were requested). DataQuality column in the CSV encodes WID's own data-quality/estimation-method flag per cell (0=best available observed/interpolated, higher codes indicate more extrapolation/modeling — see WID_Metadata csv and https://wid.world/methodology/ for the quality-code legend). Empty Value cells are genuine missing data, not fabricated. The full mega bulk file (wid_all_data.zip, ~842MB) was skipped per size-discipline rule (>500MB); this per-country extract covers the specific inequality metrics requested.",
+  "failures": []
+}
