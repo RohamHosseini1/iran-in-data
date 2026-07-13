@@ -1,0 +1,77 @@
+{
+  "dataset_id": "cia-soviet-economy-assessments",
+  "title": "CIA declassified assessments of the Soviet economy (CSI historical reviews + FOIA reading-room GNP estimates + JEC compendium)",
+  "source_org": "Central Intelligence Agency (CIA) / US Joint Economic Committee (JEC)",
+  "source_url": "https://www.cia.gov/resources/csi/ ; https://www.cia.gov/readingroom/ ; https://www.jec.senate.gov/",
+  "download_url": "see per-file notes below",
+  "retrieved_by": "agent:ussr-russia-download",
+  "retrieved_at_utc": "2026-07-12T18:15:00Z",
+  "failures": [
+    {
+      "url": "https://www.cia.gov/readingroom/docs/19960501.pdf",
+      "reason": "CIA FOIA reading room /readingroom/docs/ and /readingroom/document/ paths return HTTP 302 redirect to https://www.cia.gov/readingroom for every request in this environment (including the bare /readingroom homepage itself), consistent with an Akamai bot-detection wall rather than a moved/removed document. Content was instead retrieved via the Wayback Machine snapshot (see files list) under a different filename."
+    },
+    {
+      "url": "https://www.jec.senate.gov/reports/101st%20Congress/Measures%20of%20Soviet%20Gross%20National%20Product%20in%201982%20Prices%20(1530).pdf",
+      "reason": "jec.senate.gov returns HTTP 403 Access Denied (Akamai edge block) for direct curl fetch even with browser User-Agent/Referer headers. Retrieved instead via Wayback Machine snapshot."
+    },
+    {
+      "url": "https://www.cia.gov/readingroom/docs/CIA-RDP85T01058R000507850001-1.pdf",
+      "reason": "Same Akamai redirect block as above AND no Wayback Machine snapshot available (checked via web.archive.org availability API) -- document could not be retrieved by any method attempted."
+    }
+  ],
+  "files": [
+    {
+      "name": "CIA-Assessments-Soviet-Union.pdf",
+      "original_name": null,
+      "source_url": "https://www.cia.gov/resources/csi/static/462ef87088e6178e83e074e7f404914a/CIA-Assessments-Soviet-Union.pdf",
+      "sha256": "a7bfb9817ec27e39a2412527e89a81e964d57fd7cf855b8ba42cd45e6fb8ac53",
+      "bytes": 773431
+    },
+    {
+      "name": "Watching-the-Bear-2-Chap2-TheEconomy.pdf",
+      "original_name": null,
+      "source_url": "https://www.cia.gov/resources/csi/static/Watching-the-Bear-2-Chap2-TheEconomy.pdf",
+      "sha256": "aa610e509454002aef7dfa98a9261dbf9906c5eed5ac93b28271d4220891d9b1",
+      "bytes": 3689622
+    },
+    {
+      "name": "4-AssessingSovietEconomicPerformance-documents31-41.pdf",
+      "original_name": null,
+      "source_url": "https://www.cia.gov/resources/csi/static/4-AssessingSovietEconomicPerformance-documents31-41.pdf",
+      "sha256": "13f0d77985f0ec826c58d7fd6c2076d18c20500008ce26cdb3ba8837a089f598",
+      "bytes": 2524646
+    },
+    {
+      "name": "JEC-Measures-Soviet-GNP-1982-Prices.pdf",
+      "original_name": "Measures of Soviet Gross National Product in 1982 Prices (1530).pdf",
+      "source_url": "https://web.archive.org/web/20240917233340/https://www.jec.senate.gov/reports/101st%20Congress/Measures%20of%20Soviet%20Gross%20National%20Product%20in%201982%20Prices%20(1530).pdf",
+      "sha256": "65a53759fb3d2cdd52e62307224c6e679901096987ca3f1d0008636d40b38669",
+      "bytes": 6637497,
+      "notes": "101st Congress Joint Economic Committee print (S. Prt. 101-123), 1990. Retrieved via Wayback Machine because jec.senate.gov blocks direct automated access (HTTP 403)."
+    },
+    {
+      "name": "CIA-RDP92M00732R000300110001-2_MeasuresSovietGNP.pdf",
+      "original_name": "CIA-RDP92M00732R000300110001-2.pdf",
+      "source_url": "https://web.archive.org/web/20240530231915/https://www.cia.gov/readingroom/docs/CIA-RDP92M00732R000300110001-2.pdf",
+      "sha256": "8357ea233f209840f392ce01eeeb79404bf46383360e44af67477346492b60e4",
+      "bytes": 7762511,
+      "notes": "Declassified CIA FOIA reading-room document, 'Measures of Soviet Gross National Product'. Retrieved via Wayback Machine because cia.gov/readingroom blocks direct automated access (HTTP 302 loop)."
+    },
+    {
+      "name": "DOC_0000498181_ComparisonSovietUSGNP.pdf",
+      "original_name": "DOC_0000498181.pdf",
+      "source_url": "https://web.archive.org/web/20251029183128/https://www.cia.gov/readingroom/docs/DOC_0000498181.pdf",
+      "sha256": "c378c9f7f33f05ca4f0781f593fd615fcd691a3e98d37e16716c353dc1f495f2",
+      "bytes": 1676443,
+      "notes": "Declassified CIA FOIA reading-room document, 'A Comparison of Soviet and US Gross National Product'. Retrieved via Wayback Machine because cia.gov/readingroom blocks direct automated access (HTTP 302 loop)."
+    }
+  ],
+  "countries": ["SUN", "RUS", "USA"],
+  "time_coverage": "1950s-1996 (documents published/declassified across this span; underlying GNP estimate series run roughly 1950-1990)",
+  "frequency": "one-off reports/monographs",
+  "topics": ["ussr", "soviet-union", "gnp", "national-accounts", "cia", "intelligence-assessment", "cold-war", "economic-history"],
+  "units": "described within each document (mostly USD billions at various fixed prices, and index numbers)",
+  "license_terms": "US government work, public domain",
+  "notes": "These are CIA/US-government reconstructions of Soviet GNP (Western dollar-cost methodology), NOT official Soviet statistics -- treat as a separate, methodologically distinct series from the 'narodnoe-khozyaistvo-yearbooks' dataset's official Soviet figures per docs/bookkeeping.md neutrality principles. CIA CSI static-resource PDFs (cia.gov/resources/csi/static/...) downloaded directly with no issues. The cia.gov/readingroom/ FOIA reading room and jec.senate.gov both blocked direct automated retrieval (Akamai bot-detection redirect/403) in this environment; 2 of 3 additional JEC/GNP-estimate documents were still obtained via Wayback Machine snapshots. One document (CIA-RDP85T01058R000507850001-1, 'Soviet Statistical Falsification') could not be retrieved by any method."
+}

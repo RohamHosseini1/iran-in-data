@@ -1,0 +1,83 @@
+{
+  "dataset_id": "narodnoe-khozyaistvo-yearbooks",
+  "title": "Narodnoe khozyaistvo SSSR (Народное хозяйство СССР) -- official Soviet statistical yearbooks, selected editions 1932-1989",
+  "source_org": "TsSU SSSR / Goskomstat SSSR (official Soviet state statistics agency), digitized copies hosted by Internet Archive",
+  "source_url": "https://archive.org/details/nar_khoz_1932 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1956 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1965 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1975 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1989",
+  "download_url": "https://archive.org/download/<identifier>/<filename> -- see per-file list",
+  "retrieved_by": "agent:ussr-russia-download",
+  "retrieved_at_utc": "2026-07-12T18:25:00Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "nar_khoz_1932_01_02.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/nar_khoz_1932/nar_khoz_1932_01_02.pdf",
+      "sha256": "59e8f337f420fceb3830f75d4b1a75828cc0f683ba8911a87530017a51145ede",
+      "bytes": 42721054,
+      "notes": "1932 edition issue no. 01-02 of 4 (year published as a serial in parts)"
+    },
+    {
+      "name": "nar_khoz_1932_03_04.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/nar_khoz_1932/nar_khoz_1932_03_04.pdf",
+      "sha256": "f981d32abe3346af05cf95ab1f87c0513e6d7ac762e0ee7facdf2021322aac5c",
+      "bytes": 21224020,
+      "notes": "1932 edition issue no. 03-04 of 4"
+    },
+    {
+      "name": "nar_khoz_1932_05_06.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/nar_khoz_1932/nar_khoz_1932_05_06.pdf",
+      "sha256": "ba805d3d7e42fe64b571dab23182e8e6df0000ed2822e354630650114fc753bd",
+      "bytes": 21963168,
+      "notes": "1932 edition issue no. 05-06 of 4"
+    },
+    {
+      "name": "nar_khoz_1932_07_08.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/nar_khoz_1932/nar_khoz_1932_07_08.pdf",
+      "sha256": "c33051dd1bcf4319cf04b34dc9a65725ebb49ce13d0de2d94b30477bc6861ed3",
+      "bytes": 21090764,
+      "notes": "1932 edition issue no. 07-08 of 4"
+    },
+    {
+      "name": "narodnoe-khoziaistvo-sssr_1956.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/narodnoe-khoziaistvo-sssr_1956/narodnoe-khoziaistvo-sssr_1956.pdf",
+      "sha256": "a1ed1a893142f55d329d909af7461265c171778ff15e918cbe97b9c0a8c31c2e",
+      "bytes": 10822002,
+      "notes": "1956 edition, 296 pages -- first major post-Stalin statistical handbook (data largely for 1955)"
+    },
+    {
+      "name": "narodnoe-khoziaistvo-sssr_1965.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/narodnoe-khoziaistvo-sssr_1965/narodnoe-khoziaistvo-sssr_1965.pdf",
+      "sha256": "b6c942437564eaee4b5695956e812b8115e6f609bf2ed1c6cb3eb13e0d534fb8",
+      "bytes": 38602304,
+      "notes": "1965 edition, 912 pages"
+    },
+    {
+      "name": "narodnoe-khoziaistvo-sssr_1975.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/narodnoe-khoziaistvo-sssr_1975/narodnoe-khoziaistvo-sssr_1975.pdf",
+      "sha256": "ac16d4f936c4f8898f638e69b4643ed3d6349e216716760194aef98e48371b30",
+      "bytes": 39678088,
+      "notes": "1975 edition, 856 pages"
+    },
+    {
+      "name": "narodnoe-khoziaistvo-sssr_1989.pdf",
+      "original_name": null,
+      "source_url": "https://archive.org/download/narodnoe-khoziaistvo-sssr_1989/narodnoe-khoziaistvo-sssr_1989.pdf",
+      "sha256": "8d03a6655d209673df6798389e4cd3fe3c2bebc195f8eb116fde810ede81ac62",
+      "bytes": 27378987,
+      "notes": "1989 edition, 768 pages -- last full pre-collapse yearbook; glasnost-era editions began disclosing previously suppressed series (e.g. more candid defense/mortality data)"
+    }
+  ],
+  "countries": ["SUN"],
+  "time_coverage": "editions selected span data years ~1932, 1955, 1964, 1974, 1988 (5 editions across the 1930s-1980s); archive.org also holds many more years (1917, 1922, 1958, 1961, 1963-1989 near-complete run) not downloaded here -- see notes",
+  "frequency": "annual (irregular in early Soviet period; 1932 issued as a multi-part serial)",
+  "topics": ["ussr", "soviet-union", "official-statistics", "national-accounts", "industry", "agriculture", "population", "statistical-yearbook"],
+  "units": "described within each yearbook (Russian-language, mixed physical/value units, rubles at official Soviet prices)",
+  "license_terms": "public domain / no known restrictions (pre-1978 Soviet state publications; archive.org hosted scans)",
+  "notes": "IMPORTANT -- these are OFFICIAL SOVIET STATISTICS (Narodnoe khozyaistvo SSSR, published by the state statistical agency TsSU/Goskomstat), NOT the CIA/Western dollar-cost reconstructions in the 'cia-soviet-economy-assessments' dataset. Per docs/bookkeeping.md neutrality principles, label any figures drawn from these yearbooks clearly as 'official Soviet statistics' when used alongside CIA-derived series, since the two are known to diverge substantially (Soviet planned-price/index-number methodology inflated real growth relative to Western reconstructions -- this is a well-documented, non-partisan measurement issue, not a claim about either source's honesty). All files are original Russian-language scans (no English translation) -- OCR text layer present in some but not verified. archive.org item 'narodnoe-khoziaistvo-sssr_<year>' also offers an '_encrypted.pdf' variant for several years (DRM/restricted-view copy) -- the unencrypted .pdf was downloaded instead in every case. Additional years available on archive.org but not downloaded (time/scope-limited to 3-5 editions per task instructions): 1917, 1922, 1958, 1961, 1963, 1964, 1968-1974, 1977-1988 -- follow-up agent could expand this set using the same archive.org identifier pattern 'narodnoe-khoziaistvo-sssr_<year>'."
+}
