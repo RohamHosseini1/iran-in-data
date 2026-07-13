@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_misc_light_manufacturing_output_1954_1959",
-  "title": "Miscellaneous Light Manufacturing Output (Matches, Soap, Rubber Shoes, Glass, Soft Drinks)",
+  "title": "Miscellaneous Light Manufacturing Output (1954-1959)",
   "category": "Industry / Light Manufacturing",
   "sources": "pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959",
   "n_rows": 25,
@@ -18,5 +18,7 @@
       "access_date": "2026-07-12",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "صنعت / صنایع سبک",
+  "title_fa": "تولید متفرقه صنایع سبک (1954-1959)"
 }

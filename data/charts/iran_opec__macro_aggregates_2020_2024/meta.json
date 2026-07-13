@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_opec__macro_aggregates_2020_2024",
-  "title": "OPEC-Reported Macro Aggregates: Population, GDP, Growth, Trade, Current Account (2020-2024)",
+  "title": "OPEC-Reported Macro Aggregates for Iran (2020-2024)",
   "category": "Macro / National Accounts",
   "sources": "opec-asb",
   "n_rows": 35,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "OPEC Secretariat",
+      "source_url": "https://www.opec.org/annual-statistical-bulletin.html",
+      "access_date": "2026-07-13",
+      "time_range": "2020-2024"
+    }
+  ],
+  "category_fa": "کلان / حساب‌های ملی",
+  "title_fa": "تجمیع‌های کلان اقتصادی ایران به گزارش اوپک (2020-2024)"
 }

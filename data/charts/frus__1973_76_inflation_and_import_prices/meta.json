@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1973_76_inflation_and_import_prices",
-  "title": "Iran & Comparator Inflation Citations + Specific Import Unit Prices (Sugar/Wheat/Vegetable Oil)",
+  "title": "Iran & Comparator Inflation Citations + Import Unit Prices",
   "category": "Prices & Inflation",
   "sources": "frus-iran",
   "n_rows": 19,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
     }
-  ]
+  ],
+  "category_fa": "قیمت‌ها و تورم",
+  "title_fa": "استنادات تورم ایران و کشورهای مقایسه‌ای به‌همراه قیمت واحد واردات"
 }

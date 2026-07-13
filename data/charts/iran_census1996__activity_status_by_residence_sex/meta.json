@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_census1996__activity_status_by_residence_sex",
-  "title": "Population by Activity/Employment Status (Employed/Unemployed/Student/Homemaker/Other), 1996 Census",
+  "title": "Population by Activity/Employment Status, 1996 Census",
   "category": "Labor & Employment",
   "sources": "sci-amar-via-iran-census-historical",
   "n_rows": 70,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Iran Data Portal (Syracuse University), mirroring Statistical Centre of Iran (SCI/amar.org.ir)",
+      "source_url": "https://irandataportal.syr.edu/census",
+      "access_date": "2026-07-13",
+      "time_range": "1375 SH (1996)"
+    }
+  ],
+  "category_fa": "نیروی کار و اشتغال",
+  "title_fa": "جمعیت به تفکیک وضعیت فعالیت/اشتغال، سرشماری 1996"
 }

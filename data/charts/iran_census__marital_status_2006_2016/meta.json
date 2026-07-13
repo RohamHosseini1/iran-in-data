@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Iran Data Portal (Syracuse University), mirroring Statistical Centre of Iran (SCI/amar.org.ir)",
+      "source_url": "https://irandataportal.syr.edu/census",
+      "access_date": "2026-07-13",
+      "time_range": "2006-2016"
+    }
+  ],
+  "category_fa": "جمعیت‌شناسی و جمعیت",
+  "title_fa": "جمعیت 10 ساله و بیشتر به تفکیک وضعیت زناشویی و جنس (2006-2016)"
 }

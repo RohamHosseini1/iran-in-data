@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_opec__heavy_crude_spot_price_2020_2024",
-  "title": "Iran Heavy Crude Oil Spot Price, OPEC Reference Basket Component (2020-2024 annual average)",
+  "title": "Iran Heavy Crude Oil Spot Price, OPEC Reference Basket (2020-2024)",
   "category": "Energy",
   "sources": "opec-asb",
   "n_rows": 5,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "OPEC Secretariat",
+      "source_url": "https://www.opec.org/annual-statistical-bulletin.html",
+      "access_date": "2026-07-13",
+      "time_range": "2020-2024"
+    }
+  ],
+  "category_fa": "انرژی",
+  "title_fa": "قیمت نقدی نفت خام سنگین ایران، سبد مرجع اوپک (2020-2024)"
 }

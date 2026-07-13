@@ -1,6 +1,6 @@
 {
   "chart_id": "pahlavi__fiscal_system_narrative_indicators_1921_79",
-  "title": "Fiscal-Structure Narrative Indicators: Tax Mix, Oil-Revenue Share, Expenditure Shares (1920-1977)",
+  "title": "Fiscal-Structure Narrative Indicators (1920-1977)",
   "category": "Government Finance",
   "sources": "pahlavi-era-primary-extraction",
   "n_rows": 46,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:6tok:iranica-fiscal-system-narrative-series-1921-1979"
     }
-  ]
+  ],
+  "category_fa": "مالیه دولت",
+  "title_fa": "شاخص‌های روایی ساختار مالی دولت (1920-1977)"
 }

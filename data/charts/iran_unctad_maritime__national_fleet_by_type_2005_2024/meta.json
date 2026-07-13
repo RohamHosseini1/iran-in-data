@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_unctad_maritime__national_fleet_by_type_2005_2024",
-  "title": "National-Flag Merchant Fleet Carrying Capacity by Ship Type (UNCTAD/Clarksons, 2005-2024 selected years)",
+  "title": "National-Flag Merchant Fleet Carrying Capacity by Ship Type (2005-2024)",
   "category": "Maritime & Shipping",
   "sources": "unctad-maritime",
   "n_rows": 24,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "UNCTAD (UN Trade and Development), UNCTADstat",
+      "source_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/364/index.html",
+      "access_date": "2026-07-13",
+      "time_range": "2005-2024 (selected years)"
+    }
+  ],
+  "category_fa": "دریانوردی و کشتیرانی",
+  "title_fa": "ظرفیت باربری ناوگان تجاری تحت پرچم ملی به تفکیک نوع کشتی (2005-2024)"
 }

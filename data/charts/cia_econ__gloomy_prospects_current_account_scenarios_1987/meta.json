@@ -1,6 +1,6 @@
 {
   "chart_id": "cia_econ__gloomy_prospects_current_account_scenarios_1987",
-  "title": "Iran & Iraq Current-Account Balance Under 1987 Oil-Price Scenarios ($18/$15/$10 per Barrel)",
+  "title": "Iran & Iraq Current-Account Balance Under 1987 Oil-Price Scenarios",
   "category": "Balance of Payments (Net)",
   "sources": "cia-iran-economy",
   "n_rows": 25,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:6tok:iran-iraq-gloomy-economic-prospects-1987"
     }
-  ]
+  ],
+  "category_fa": "تراز پرداخت‌ها (خالص)",
+  "title_fa": "تراز حساب جاری ایران و عراق تحت سناریوهای قیمت نفت 1987"
 }

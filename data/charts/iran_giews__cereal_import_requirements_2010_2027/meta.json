@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_giews__cereal_import_requirements_2010_2027",
-  "title": "GIEWS Cereal Import Requirement Forecasts by Marketing Year, incl. Maize/Wheat/Barley/Rice Split (2010/11-2026/27)",
+  "title": "GIEWS Cereal Import Requirement Forecasts by Grain Type (2010/11-2026/27)",
   "category": "Trade (Imports)",
   "sources": "fao-giews",
   "n_rows": 51,
@@ -8,5 +8,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "FAO Global Information and Early Warning System",
+      "source_url": "https://www.fao.org/giews/countrybrief/country.jsp?code=IRN",
+      "access_date": "2026-07-13",
+      "time_range": "2010/11-2026/27"
+    }
+  ],
+  "category_fa": "تجارت (واردات)",
+  "title_fa": "پیش‌بینی نیاز وارداتی غلات به تفکیک نوع دانه (GIEWS)، 2010/11-2026/27"
 }

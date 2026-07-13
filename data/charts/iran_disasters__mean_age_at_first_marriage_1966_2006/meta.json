@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Iran Data Portal, Syracuse University (Persian source: Statistical Centre of Iran, national population & housing censuses and civil registration)",
+      "source_url": "https://irandataportal.syr.edu/population/",
+      "access_date": "2026-07-13",
+      "time_range": "1966-2006"
+    }
+  ],
+  "category_fa": "آمار اجتماعی (ازدواج و ثبت احوال)",
+  "title_fa": "میانگین سن ازدواج اول به تفکیک جنس، شهری/روستایی/کل (6 سال سرشماری، 1966-2006)"
 }

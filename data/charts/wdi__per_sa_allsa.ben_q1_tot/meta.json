@@ -1,7 +1,7 @@
 {
   "chart_id": "wdi__per_sa_allsa.ben_q1_tot",
   "title": "Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits)",
-  "category": "Other (per)",
+  "category": "Social Protection",
   "sources": "wdi",
   "n_rows": 37,
   "year_range": [
@@ -21,5 +21,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "حمایت اجتماعی",
+  "title_fa": "توزیع مزایای برنامه‌های شبکه ایمنی اجتماعی به پنجک فقیرترین جمعیت (درصد از کل مزایای شبکه ایمنی)"
 }

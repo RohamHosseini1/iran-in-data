@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1973_76_western_oil_import_cost_impact",
-  "title": "1974 Oil-Price-Shock Import-Cost Impact on the US, Western Europe, Japan & Developing Countries",
+  "title": "1974 Oil Price Shock: Import-Cost Impact on Western Economies",
   "category": "Balance of Payments (Payments)",
   "sources": "frus-iran",
   "n_rows": 10,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
     }
-  ]
+  ],
+  "category_fa": "تراز پرداخت‌ها (پرداخت‌ها)",
+  "title_fa": "شوک قیمت نفت 1974: تأثیر بر هزینه واردات اقتصادهای غربی"
 }

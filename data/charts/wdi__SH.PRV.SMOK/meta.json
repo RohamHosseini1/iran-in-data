@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SH.PRV.SMOK",
-  "title": "Prevalence of current tobacco use, males (% of male adults)",
+  "title": "Prevalence of current tobacco use, by sex (% of adults)",
   "category": "Health",
   "sources": "wdi",
   "n_rows": 288,
@@ -33,5 +33,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "سلامت",
+  "title_fa": "شیوع مصرف فعلی دخانیات، به تفکیک جنسیت (درصد از بزرگسالان)"
 }

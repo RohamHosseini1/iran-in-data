@@ -1,6 +1,6 @@
 {
   "chart_id": "fx_comparator__venezuela_parallel_fx_milestones_2003_2020",
-  "title": "Venezuela Official vs. Black-Market FX Rate at Major Devaluation/Redenomination Milestones (2003-2020)",
+  "title": "Venezuela Official vs. Black-Market FX Rate, Devaluation Milestones (2003-2020)",
   "category": "Comparator: Venezuela FX",
   "sources": "venezuela-parallel-fx-history",
   "n_rows": 46,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:black-market-rate-milestones-2003-2020"
     }
-  ]
+  ],
+  "category_fa": "مقایسه‌ای: ارز ونزوئلا",
+  "title_fa": "ونزوئلا — نرخ ارز رسمی در برابر بازار سیاه، نقاط عطف کاهش ارزش پول (2003-2020)"
 }

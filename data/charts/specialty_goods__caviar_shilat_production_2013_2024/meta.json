@@ -1,6 +1,6 @@
 {
   "chart_id": "specialty_goods__caviar_shilat_production_2013_2024",
-  "title": "Official Caviar Production & Export (Shilat / Iran Fisheries Organization) (2013-2024)",
+  "title": "Official Caviar Production & Export (2013-2024)",
   "category": "Fisheries & Aquaculture",
   "sources": "iran-caviar-exports:ifo-caviar-production-export-compiled",
   "n_rows": 11,
@@ -18,5 +18,7 @@
       "access_date": "2026-07-12",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "شیلات و آبزی‌پروری",
+  "title_fa": "تولید و صادرات رسمی خاویار (2013-2024)"
 }

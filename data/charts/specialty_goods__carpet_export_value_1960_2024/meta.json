@@ -1,6 +1,6 @@
 {
   "chart_id": "specialty_goods__carpet_export_value_1960_2024",
-  "title": "Iran Handwoven Carpet Export Value (1960-2024) — Incl. the $2.13bn 1994 Peak to Post-JCPOA Collapse",
+  "title": "Iran Handwoven Carpet Export Value, 1960-2024",
   "category": "Trade (Exports)",
   "sources": "iran-carpet-exports",
   "n_rows": 28,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:carpet-export-value-post1990-compiled"
     }
-  ]
+  ],
+  "category_fa": "تجارت (صادرات)",
+  "title_fa": "ارزش صادرات فرش دستباف ایران، 1960-2024"
 }

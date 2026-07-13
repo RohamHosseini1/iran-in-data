@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SE.LPV.PRIM.SD",
-  "title": "Male primary school age children out-of-school (%)",
+  "title": "Primary school age children out-of-school, by sex (%)",
   "category": "Education",
   "sources": "wdi",
   "n_rows": 104,
@@ -31,5 +31,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "آموزش",
+  "title_fa": "کودکان در سن ابتدایی بازمانده از تحصیل، به تفکیک جنسیت (درصد)"
 }

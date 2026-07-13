@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_disasters__ssi_pensioners_amounts_paid_1991_2006",
-  "title": "Social Security Organization Pensioners & Amounts Paid, by Category, 8 Years (1991-2006)",
+  "title": "Social Security Organization Pensioners & Amounts Paid, by Category (1991-2006)",
   "category": "Social Protection",
   "sources": "iran-data-portal",
   "n_rows": 88,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+      "source_url": "https://irandataportal.syr.edu/labor-social-affairs/",
+      "access_date": "2026-07-13",
+      "time_range": "1991-2006"
+    }
+  ],
+  "category_fa": "حمایت اجتماعی",
+  "title_fa": "مستمری‌بگیران سازمان تأمین اجتماعی و مبالغ پرداختی، به تفکیک گروه (1991-2006)"
 }

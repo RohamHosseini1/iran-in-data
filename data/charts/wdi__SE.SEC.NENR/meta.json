@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SE.SEC.NENR",
-  "title": "School enrollment, secondary, male (% net)",
+  "title": "School enrollment, secondary, by sex (% net)",
   "category": "Education",
   "sources": "wdi",
   "n_rows": 782,
@@ -34,5 +34,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "آموزش",
+  "title_fa": "ثبت‌نام در مقطع متوسطه، به تفکیک جنسیت (درصد خالص)"
 }

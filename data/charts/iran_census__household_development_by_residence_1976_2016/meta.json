@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Iran Data Portal (Syracuse University), mirroring Statistical Centre of Iran (SCI/amar.org.ir)",
+      "source_url": "https://irandataportal.syr.edu/census",
+      "access_date": "2026-07-13",
+      "time_range": "1976-2016"
+    }
+  ],
+  "category_fa": "جمعیت‌شناسی و جمعیت",
+  "title_fa": "تعداد خانوار و بعد متوسط خانوار به تفکیک محل سکونت شهری/روستایی (1976-2016)"
 }

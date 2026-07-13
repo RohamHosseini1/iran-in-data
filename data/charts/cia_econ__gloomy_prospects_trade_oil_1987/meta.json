@@ -1,6 +1,6 @@
 {
   "chart_id": "cia_econ__gloomy_prospects_trade_oil_1987",
-  "title": "Iran/Iraq Trade & Oil-Export-Revenue Citations (incl. Iraq's Arab War Aid & OPEC Quota Dispute)",
+  "title": "Iran/Iraq Trade & Oil-Export-Revenue Citations (1987)",
   "category": "Trade",
   "sources": "cia-iran-economy",
   "n_rows": 101,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:6tok:iran-iraq-gloomy-economic-prospects-1987"
     }
-  ]
+  ],
+  "category_fa": "تجارت",
+  "title_fa": "استنادات تجارت و درآمد صادرات نفت ایران/عراق (1987)"
 }

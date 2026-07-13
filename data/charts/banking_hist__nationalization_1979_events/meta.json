@@ -13,11 +13,13 @@
   ],
   "citations": [
     {
-      "source_org": "Encyclopaedia Iranica (Potkin A. Basseer)",
-      "source_url": "https://www.iranicaonline.org/articles/banking-in-iran/banking-i-history-of-banking-in-iran/",
+      "source_org": "Compiled by this project from multiple secondary/academic sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+      "source_url": "https://www.iranicaonline.org/articles/banking-in-iran/banking-i-history-of-banking-in-iran/ ; https://iran1400.org/content/from-imperial-bank-to-bank-e-ghavamin-a-short-history-of-banking-in-iran/ ; https://www.parstimes.com/business/history-of-banking-system.html ; https://en.wikipedia.org/wiki/Banking_and_insurance_in_Iran ; https://www.washingtonpost.com/archive/politics/1979/06/09/iran-announces-takeover-of-all-private-banks/5d0c16a1-da45-43bf-bf8a-91a5562bf6bb/",
       "access_date": "2026-07-13",
-      "time_range": "",
-      "match_confidence": "fuzzy:3tok:banking-i-history-of-banking-in-iran"
+      "time_range": "1979-1984",
+      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
     }
-  ]
+  ],
+  "category_fa": "بخش مالی (دسترسی بانکی)",
+  "title_fa": "گاه‌شمار ملی‌شدن و ادغام بانک‌ها در 1979"
 }

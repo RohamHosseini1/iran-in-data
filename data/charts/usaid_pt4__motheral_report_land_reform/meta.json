@@ -1,6 +1,6 @@
 {
   "chart_id": "usaid_pt4__motheral_report_land_reform",
-  "title": "1950s-60s Land Reform Baseline: Motheral Report, Tenant-Farmer Share & Village Redistribution Counts",
+  "title": "1950s-60s Land Reform Baseline: Motheral Report & Village Redistribution",
   "category": "Agriculture & Rural Development",
   "sources": "usaid-point-four-iran",
   "n_rows": 7,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:motheral-report-land-reform"
     }
-  ]
+  ],
+  "category_fa": "کشاورزی و توسعه روستایی",
+  "title_fa": "خط مبنای اصلاحات ارضی دهه‌های 1950 و 1960: گزارش Motheral و بازتوزیع روستایی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "pahlavi_hh__dairy_consumption_supply_1972_1977",
-  "title": "Dairy Product Consumption (High/Low-Value Split, Fat-Equivalent Basis) & Livestock Supply (1972, 1977p)",
+  "title": "Dairy Product Consumption & Livestock Supply (1972, 1977p)",
   "category": "Household Consumption & Expenditure",
   "sources": "pahlavi-era-primary-extraction",
   "n_rows": 94,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:wb1974-dairy-consumption-patterns-1972-1977"
     }
-  ]
+  ],
+  "category_fa": "مصرف و هزینه خانوار",
+  "title_fa": "مصرف فرآورده‌های لبنی و عرضه دام (1972، پیش‌بینی 1977)"
 }

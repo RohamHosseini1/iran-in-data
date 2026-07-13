@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1973_76_oil_price_shock_production_revenue",
-  "title": "1973-74 Oil Price Shock: Posted Prices, World Oil-Bill Impact & OPEC Export Earnings (Iran/Iraq/OECD)",
+  "title": "1973-74 Oil Price Shock: Posted Prices & OPEC Export Earnings (Iran/Iraq/OECD)",
   "category": "Energy / Oil Production & Trade",
   "sources": "frus-iran",
   "n_rows": 45,
@@ -20,5 +20,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
     }
-  ]
+  ],
+  "category_fa": "انرژی / تولید و تجارت نفت",
+  "title_fa": "شوک قیمت نفت 1973-74: قیمت‌های اعلامی و درآمد صادراتی اوپک (ایران/عراق/OECD)"
 }

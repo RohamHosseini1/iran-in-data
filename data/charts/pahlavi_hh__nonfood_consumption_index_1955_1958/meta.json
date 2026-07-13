@@ -1,6 +1,6 @@
 {
   "chart_id": "pahlavi_hh__nonfood_consumption_index_1955_1958",
-  "title": "Non-Food & Aggregate Per-Capita Consumption Index (Tobacco, Textiles, Cement, Electricity, Kerosene, Agricultural Products), 1955-1958",
+  "title": "Non-Food & Aggregate Per-Capita Consumption Index, 1955-1958",
   "category": "Household Consumption & Expenditure",
   "sources": "pahlavi-era-primary-extraction",
   "n_rows": 18,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:5tok:wb1960-per-capita-consumption-1955-1958"
     }
-  ]
+  ],
+  "category_fa": "مصرف و هزینه خانوار",
+  "title_fa": "شاخص مصرف سرانه غیرخوراکی و کل، 1955-1958"
 }

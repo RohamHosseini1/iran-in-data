@@ -1,6 +1,6 @@
 {
   "chart_id": "cia_econ__gloomy_prospects_iraq_debt_rescheduling_1987",
-  "title": "Iraq's 1986 Debt-Rescheduling Agreements with 11 Creditors & 1987-1992 Repayment Schedule",
+  "title": "Iraq's 1986 Debt-Rescheduling Agreements & Repayment Schedule",
   "category": "External Debt",
   "sources": "cia-iran-economy",
   "n_rows": 94,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:6tok:iran-iraq-gloomy-economic-prospects-1987"
     }
-  ]
+  ],
+  "category_fa": "بدهی خارجی",
+  "title_fa": "توافق‌های تجدید زمان‌بندی بدهی عراق در 1986 و برنامه بازپرداخت"
 }

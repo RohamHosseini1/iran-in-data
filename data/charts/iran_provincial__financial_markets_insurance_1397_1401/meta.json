@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_provincial__financial_markets_insurance_1397_1401",
-  "title": "Financial Markets Indicators by Province (Bank Loan/Deposit Ratio, Insurance Premium/Claims/Per-Capita)",
+  "title": "Financial Markets Indicators by Province (SH1397-1401)",
   "category": "Financial Sector / Insurance",
   "sources": "sci-provincial-standing-indicators",
   "n_rows": 640,
@@ -18,5 +18,7 @@
       "access_date": "2026-07-12",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "بخش مالی / بیمه",
+  "title_fa": "شاخص‌های بازارهای مالی به تفکیک استان (SH1397-1401)"
 }

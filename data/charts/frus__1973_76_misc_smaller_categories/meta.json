@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1973_76_misc_smaller_categories",
-  "title": "Miscellaneous Smaller Economic Citation Categories (Manufacturing, Agriculture Targets, Metals/Minerals Targets, Labor & Employment, Iraq Land Use, Iraq Foreign-Exchange Reserves, Iran Borrowing Rate)",
+  "title": "Miscellaneous Smaller Economic Citation Categories (FRUS 1973-76)",
   "category": "Other / Mixed",
   "sources": "frus-iran",
   "n_rows": 23,
@@ -20,5 +20,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
     }
-  ]
+  ],
+  "category_fa": "سایر / ترکیبی",
+  "title_fa": "دسته‌های کوچک‌تر متفرقه استنادات اقتصادی (FRUS 1973-76)"
 }

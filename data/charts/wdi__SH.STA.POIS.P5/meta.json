@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SH.STA.POIS.P5",
-  "title": "Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",
+  "title": "Mortality rate attributed to unintentional poisoning, by sex (per 100,000 population)",
   "category": "Health",
   "sources": "wdi",
   "n_rows": 748,
@@ -34,5 +34,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "سلامت",
+  "title_fa": "نرخ مرگ‌ومیر ناشی از مسمومیت غیرعمدی، به تفکیک جنسیت (به ازای هر 100,000 نفر جمعیت)"
 }

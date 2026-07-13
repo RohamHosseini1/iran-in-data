@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SE.TER.ENRR",
-  "title": "School enrollment, tertiary, male (% gross)",
+  "title": "School enrollment, tertiary, by sex (% gross)",
   "category": "Education",
   "sources": "wdi",
   "n_rows": 912,
@@ -34,5 +34,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "آموزش",
+  "title_fa": "ثبت‌نام در آموزش عالی، به تفکیک جنسیت (درصد ناخالص)"
 }

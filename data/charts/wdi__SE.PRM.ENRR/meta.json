@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SE.PRM.ENRR",
-  "title": "School enrollment, primary, male (% gross)",
+  "title": "School enrollment, primary, by sex (% gross)",
   "category": "Education",
   "sources": "wdi",
   "n_rows": 1000,
@@ -34,5 +34,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "آموزش",
+  "title_fa": "ثبت‌نام در دوره ابتدایی، به تفکیک جنسیت (درصد ناخالص)"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_energy__national_balance_1386_1394",
-  "title": "Iran National Energy Balance Sheet: Production, Supply & Consumption by Fuel Type and Sector",
+  "title": "Iran National Energy Balance Sheet (SH1386-1394)",
   "category": "Energy",
   "sources": "iran-data-portal",
   "n_rows": 772,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+      "source_url": "https://irandataportal.syr.edu/energy-environment/",
+      "access_date": "2026-07-13",
+      "time_range": "1386-1394 (2007/08-2015/16)"
+    }
+  ],
+  "category_fa": "انرژی",
+  "title_fa": "ترازنامه انرژی کشور ایران (SH1386-1394)"
 }

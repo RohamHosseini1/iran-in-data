@@ -1,236 +1,706 @@
-country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-ARG,Argentina,2002,-5547400000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2003,12189185827.94,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2004,6714071262.55,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2014,88897200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2015,23949100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2016,71961500000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2017,146877200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2018,850097441222.61,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2019,-682998414171.34,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2020,-1013505382746.95,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2021,271167265252.76,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2022,1485288607058.76,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2023,2076279234502.82,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ARG,Argentina,2024,21565345306636.1,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-FRA,France,1990,1189102334.4518,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-FRA,France,1991,4863123649.87339,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-FRA,France,1992,9009736918.73095,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-FRA,France,1993,6158940296.39138,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-FRA,France,1994,-17333453259.8936,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-DEU,Germany,1990,17961683786.4232,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,1999,3808335000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,2000,17527891022500,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,2001,9399465852500,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,2002,35404387700000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,2003,29214254000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,2004,44204544000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,2005,95652798000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-IRN,Iran,2006,93988690000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ITA,Italy,1991,-3296027929.9891,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1990,3695000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1991,2563000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1992,3458000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1993,5251000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1994,8224000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1995,8133000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1996,11368000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1997,18649000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1998,23520195000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,1999,22112141000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2000,20465484000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2001,3003401000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2002,-1031265000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2003,-21781448000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2004,1055506000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2005,3158100000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2006,4255700000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2007,-1518490000000.01,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2008,58330682000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2009,57364549000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2010,35454878000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2011,37548046000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2012,52248200000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2013,74407300000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2014,59962594038702,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2015,60302549416272.6,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2016,69183941154180,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2017,59751873942709,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2018,65997696736275,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2019,55275831702547.3,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2020,89759541143311.6,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2021,99762325921382.5,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2022,45526669986502.6,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2023,37733399182350,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-KOR,South Korea,2024,5571100582623,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-NLD,Netherlands,1990,-703359334.939715,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-NLD,Netherlands,1991,3013100634.83852,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-NLD,Netherlands,1992,462855820.411942,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-NLD,Netherlands,1993,-1497474713.09746,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-NLD,Netherlands,1994,-11045010459.634,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-PRT,Portugal,1990,-1472451392.14493,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-PRT,Portugal,1991,1569716982.0732,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-PRT,Portugal,1992,10973553.7354975,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-PRT,Portugal,1993,64863678.5347313,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-PRT,Portugal,1994,893247274.069493,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,1998,-13052000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,1999,87990000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2000,103071000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2001,-24784000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2002,102279000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2003,-79905687749.8599,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2004,670910461100,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2005,1298675612600,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2006,1564500000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2007,1953100000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2008,2502900000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2009,-1370600000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2010,-139200000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2011,2798000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2012,2136400000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2013,1544400000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2014,500106424893.564,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2015,-1404739861401.34,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2016,-735072000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2017,1559706000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2018,4125030000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2019,5074820500000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2020,3330726000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2021,5418304000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2022,4310792000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2023,6924424000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-RUS,Russia,2024,5748900000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2016,-136744526574.5,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2017,-91673519521.5902,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2018,-65082000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2019,-17123000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2020,-73434979623,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2021,21049345018.14,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2022,161105765427.44,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2023,-12480773384.78,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-SAU,Saudi Arabia,2024,39184576004.7599,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1970,7754123503,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1971,-1953451318,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1990,8989338045.26823,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1991,1080018751.57766,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1992,1708076400.65871,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1993,14931544721.3107,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1994,-7432115682.80985,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1995,2349746628.47468,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1996,13124671193.2968,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1997,-3495874159.1533,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1998,5605308787.52636,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,1999,10164215609.3123,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2000,7356786878.45236,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2001,-1402623177.57563,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2002,6372219897.6271,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2003,-4060170318.46054,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2004,4855615644.75337,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2005,12198452698.4482,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2006,20162202022.734,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2007,19645945070.1756,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2008,17442894411.3382,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2009,25844299032.7961,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2010,-3121247297.69483,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2011,27534282323.1465,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2012,83611328918.1119,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2013,21303265326.9837,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2014,20104869124.9693,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2015,17093653972.1462,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2016,40859683.8060733,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2017,29917604226.8324,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2018,25731622861.1725,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2019,4104849698.75128,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2020,32430401769.3772,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2021,37108616870.6046,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2022,45069832582.5003,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2023,25729425756.7648,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-ESP,Spain,2024,10297687113.1744,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2008,-1369079562.30617,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2009,8787422261.68707,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2010,-1551342057.8994,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2011,13808506395.1148,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2012,12301679426.8947,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2013,14901913025.0873,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2014,23679922637.6641,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2015,38240236482.339,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2016,30906993216.8774,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2017,19866724560.3768,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2018,35572763000.2298,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2019,32150760277.2842,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2020,197987281839.221,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2021,211692327448.838,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2022,715817239597.032,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2023,1277276666635.73,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-TUR,Turkey,2024,976414668067.308,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1990,-10784000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1991,-10217000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1992,-15995000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1993,-7591000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1994,-16248000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1995,1271000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1996,-6132000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1997,-1028000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1998,-2882000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,1999,10290000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2000,33932000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2001,-13731000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2002,-1683000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2003,801000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2004,7852000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2005,12519000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2006,10166000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2007,8460000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2008,69987000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2009,57231000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2010,8553000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2011,16317000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2012,17609000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2013,-20942000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2014,9705000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2015,-18899000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2016,19249000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2017,20221000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2018,16696000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2019,14921000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2020,83132000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2021,29317000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2022,-28237000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2023,13776000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-GBR,United Kingdom,2024,715000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1989,-8400000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1990,1060000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1991,7280000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1992,21270000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1993,-5600000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1994,-17080000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1995,21170000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1996,16930000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1997,17580000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1998,20000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,1999,34800000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2000,4550000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2001,51862000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2002,5745200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2003,33760200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2004,2861000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2005,28799300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2006,-16510600000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2007,-1038300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2008,577269800000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2009,83310300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2010,229854500000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2011,-192947700000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2012,24270300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2013,345701100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2014,13225000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2015,225815000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2016,195899300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2017,114675000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2018,324448100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2019,72316100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2020,1726228000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2021,-1184884300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2022,176657000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2023,269821300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
-USA,United States,2024,76295300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+ARG,Argentina,2002,-5547400000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2003,12189185827.94,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2004,6714071262.55,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2014,88897200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2015,23949100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2016,71961500000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2017,146877200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2018,850097441222.61,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2019,-682998414171.34,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2020,-1013505382746.95,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2021,271167265252.76,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2022,1485288607058.76,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2023,2076279234502.82,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2024,21565345306636.1,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+FRA,France,1990,1189102334.4518,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+FRA,France,1991,4863123649.87339,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+FRA,France,1992,9009736918.73095,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+FRA,France,1993,6158940296.39138,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+FRA,France,1994,-17333453259.8936,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+DEU,Germany,1990,17961683786.4232,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,1999,3808335000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,2000,17527891022500,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,2001,9399465852500,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,2002,35404387700000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,2003,29214254000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,2004,44204544000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,2005,95652798000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+IRN,Iran,2006,93988690000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ITA,Italy,1991,-3296027929.9891,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1990,3695000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1991,2563000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1992,3458000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1993,5251000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1994,8224000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1995,8133000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1996,11368000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1997,18649000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1998,23520195000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,1999,22112141000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2000,20465484000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2001,3003401000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2002,-1031265000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2003,-21781448000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2004,1055506000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2005,3158100000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2006,4255700000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2007,-1518490000000.01,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2008,58330682000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2009,57364549000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2010,35454878000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2011,37548046000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2012,52248200000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2013,74407300000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2014,59962594038702,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2015,60302549416272.6,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2016,69183941154180,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2017,59751873942709,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2018,65997696736275,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2019,55275831702547.3,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2020,89759541143311.6,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2021,99762325921382.5,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2022,45526669986502.6,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2023,37733399182350,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+KOR,South Korea,2024,5571100582623,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+NLD,Netherlands,1990,-703359334.939715,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+NLD,Netherlands,1991,3013100634.83852,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+NLD,Netherlands,1992,462855820.411942,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+NLD,Netherlands,1993,-1497474713.09746,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+NLD,Netherlands,1994,-11045010459.634,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+PRT,Portugal,1990,-1472451392.14493,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+PRT,Portugal,1991,1569716982.0732,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+PRT,Portugal,1992,10973553.7354975,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+PRT,Portugal,1993,64863678.5347313,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+PRT,Portugal,1994,893247274.069493,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,1998,-13052000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,1999,87990000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2000,103071000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2001,-24784000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2002,102279000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2003,-79905687749.8599,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2004,670910461100,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2005,1298675612600,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2006,1564500000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2007,1953100000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2008,2502900000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2009,-1370600000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2010,-139200000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2011,2798000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2012,2136400000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2013,1544400000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2014,500106424893.564,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2015,-1404739861401.34,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2016,-735072000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2017,1559706000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2018,4125030000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2019,5074820500000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2020,3330726000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2021,5418304000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2022,4310792000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2023,6924424000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+RUS,Russia,2024,5748900000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2016,-136744526574.5,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2017,-91673519521.5902,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2018,-65082000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2019,-17123000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2020,-73434979623,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2021,21049345018.14,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2022,161105765427.44,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2023,-12480773384.78,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+SAU,Saudi Arabia,2024,39184576004.7599,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1970,7754123503,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1971,-1953451318,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1990,8989338045.26823,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1991,1080018751.57766,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1992,1708076400.65871,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1993,14931544721.3107,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1994,-7432115682.80985,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1995,2349746628.47468,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1996,13124671193.2968,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1997,-3495874159.1533,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1998,5605308787.52636,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,1999,10164215609.3123,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2000,7356786878.45236,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2001,-1402623177.57563,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2002,6372219897.6271,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2003,-4060170318.46054,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2004,4855615644.75337,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2005,12198452698.4482,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2006,20162202022.734,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2007,19645945070.1756,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2008,17442894411.3382,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2009,25844299032.7961,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2010,-3121247297.69483,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2011,27534282323.1465,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2012,83611328918.1119,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2013,21303265326.9837,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2014,20104869124.9693,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2015,17093653972.1462,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2016,40859683.8060733,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2017,29917604226.8324,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2018,25731622861.1725,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2019,4104849698.75128,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2020,32430401769.3772,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2021,37108616870.6046,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2022,45069832582.5003,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2023,25729425756.7648,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ESP,Spain,2024,10297687113.1744,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2008,-1369079562.30617,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2009,8787422261.68707,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2010,-1551342057.8994,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2011,13808506395.1148,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2012,12301679426.8947,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2013,14901913025.0873,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2014,23679922637.6641,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2015,38240236482.339,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2016,30906993216.8774,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2017,19866724560.3768,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2018,35572763000.2298,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2019,32150760277.2842,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2020,197987281839.221,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2021,211692327448.838,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2022,715817239597.032,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2023,1277276666635.73,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+TUR,Turkey,2024,976414668067.308,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1990,-10784000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1991,-10217000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1992,-15995000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1993,-7591000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1994,-16248000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1995,1271000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1996,-6132000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1997,-1028000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1998,-2882000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,1999,10290000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2000,33932000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2001,-13731000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2002,-1683000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2003,801000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2004,7852000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2005,12519000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2006,10166000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2007,8460000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2008,69987000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2009,57231000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2010,8553000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2011,16317000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2012,17609000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2013,-20942000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2014,9705000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2015,-18899000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2016,19249000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2017,20221000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2018,16696000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2019,14921000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2020,83132000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2021,29317000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2022,-28237000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2023,13776000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+GBR,United Kingdom,2024,715000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1989,-8400000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1990,1060000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1991,7280000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1992,21270000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1993,-5600000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1994,-17080000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1995,21170000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1996,16930000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1997,17580000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1998,20000000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,1999,34800000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2000,4550000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2001,51862000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2002,5745200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2003,33760200000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2004,2861000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2005,28799300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2006,-16510600000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2007,-1038300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2008,577269800000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2009,83310300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2010,229854500000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2011,-192947700000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2012,24270300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2013,345701100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2014,13225000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2015,225815000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2016,195899300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2017,114675000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2018,324448100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2019,72316100000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2020,1726228000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2021,-1184884300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2022,176657000000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2023,269821300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+USA,United States,2024,76295300000,,GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU),wdi,false
+ARG,Argentina,2002,-1810948478.58,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2002,-3968121621.9145,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2003,4202255830.5678,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2003,7685850601.5445,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2004,2296743194.9302,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2004,4054489540.3085,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2014,7137588649.3621,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2014,8014876923.2739,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2015,1698517730.4965,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2015,1698517730.4965,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2016,4779586062.9707,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2016,3774773625.5749,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2017,8604474440.2536,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2017,6234287702.7228,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2018,30179017268.5165,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2018,26872028314.0161,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2019,-13518487130.4452,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2019,-14060658024.421,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2020,-8440977348.884,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2020,-14691887228.3177,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2021,1611909056.8418,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2021,2648668261.1947,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2022,5935332923.6141,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2022,8413685293.1536,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2023,3399148782.324,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2023,5037266121.093,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2024,18290963065.9733,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ARG,Argentina,2024,16355822265.4317,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+FRA,France,1990,1432434541.8735,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+FRA,France,1990,1956688279.6367,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+FRA,France,1991,5653906483.087,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+FRA,France,1991,7753211063.8555,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+FRA,France,1992,11163969782.9811,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+FRA,France,1992,14032406948.5519,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+FRA,France,1993,7133738167.0884,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+FRA,France,1993,9394665718.9581,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+FRA,France,1994,-20478940642.5921,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+FRA,France,1994,-26009349060.5038,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+DEU,Germany,1990,21742449249.0511,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+DEU,Germany,1990,31661194020.1183,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,1999,443900690.6198,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,1999,1455840261.9622,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2000,2127623102.2972,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,2000,5853177966.8354,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2001,1173673977.1911,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,2001,2820814297.4298,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2002,4420437331.8351,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,2002,9292697629.0697,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2003,3534801899.634,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,2003,6583759944.7383,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2004,5131113639.0017,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,2004,8680610455.0677,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2005,10670771753.6814,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,2005,16559256895.9442,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2006,10186267475.886,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+IRN,Iran,2006,14789832834.5023,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ITA,Italy,1991,-5144229735.8296,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ITA,Italy,1991,-6626130020.4489,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1990,5220653252.7825,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1990,8054216067.422,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1991,3495019858.0674,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1991,5109836494.0249,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1992,4429523753.6093,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1992,6490894676.9168,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1993,6542989639.1242,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1993,9404943165.0796,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1994,10231761507.725,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1994,13861285108.9957,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1995,10545161830.5682,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1995,13120032957.9699,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1996,14131262372.4684,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1996,17477975624.8161,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1997,19632799587.3206,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1997,27453656409.0003,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1998,16762025632.1935,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1998,32204921028.9205,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,1999,18590392530.9337,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,1999,30032795695.2852,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2000,18105239690.8072,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2000,27182208492.8916,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2001,2326792894.274,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2001,3833229092.7513,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2002,-823955688.8069,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2002,-1280819929.6371,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2003,-18278457735.2751,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2003,-26133753128.6998,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2004,920834693.4458,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2004,1222517641.201,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2005,3083093474.2604,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2005,3559774158.5684,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2006,4454640534.0502,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2006,4691770885.2018,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2007,-1633881520.8415,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2007,-1632703765.1296,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2008,53021827351.5681,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2008,59917559944.0365,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2009,44912692218.6084,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2009,57344445815.5182,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2010,30658110094.599,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2010,34430443556.7924,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2011,33880993172.3163,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2011,35051952395.5224,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2012,46368380260.441,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2012,47730969083.0796,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2013,67952958152.2992,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2013,67101038776.7151,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2014,56953187605.621,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2014,53394045340.5439,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2015,53320143344.8996,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2015,53320143344.8996,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2016,59601893707.5513,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2016,60584469351.0209,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2017,52830972517.1517,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2017,51326833963.1761,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2018,59988998666.5086,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2018,55867480904.1317,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2019,47432510369.1762,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2019,46612824653.4007,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2020,76050274953.5761,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2020,75287623298.4124,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2021,87208514859.7908,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2021,81638069651.6994,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2022,35252458472.8,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2022,35451340433.0725,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2023,28899810772.1942,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2023,28362440992.3966,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+KOR,South Korea,2024,4086256959.8408,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+KOR,South Korea,2024,4092519426.1084,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+NLD,Netherlands,1990,-851207937.2852,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+NLD,Netherlands,1990,-1322435344.6376,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+NLD,Netherlands,1991,3551435193.4391,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+NLD,Netherlands,1991,5491703473.2764,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+NLD,Netherlands,1992,580050911.7889,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+NLD,Netherlands,1992,817576800.3429,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+NLD,Netherlands,1993,-1776767791.9739,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+NLD,Netherlands,1993,-2578469086.5796,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+NLD,Netherlands,1994,-13373662502.1103,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+NLD,Netherlands,1994,-18499883814.4248,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+PRT,Portugal,1990,-2070783330.6151,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+PRT,Portugal,1990,-3645964036.1166,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+PRT,Portugal,1991,2178125994.9336,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+PRT,Portugal,1991,3475031855.7196,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+PRT,Portugal,1992,16296557.846,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+PRT,Portugal,1992,22173570.8561,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+PRT,Portugal,1993,80870553.3057,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+PRT,Portugal,1993,122739578.2132,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+PRT,Portugal,1994,1078842125.5198,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+PRT,Portugal,1994,1603355851.161,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,1998,-1344862228.5572,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,1998,-2367458237.9813,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,1999,3573938155.7196,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,1999,8592468770.1561,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2000,3664203821.656,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2000,8332179982.8455,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2001,-849683005.9113,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2001,-1649299305.6977,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2002,3262645880.2632,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2002,5878252663.3974,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2003,-2603467439.8271,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2003,-4040352308.3087,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2004,23284392178.6162,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2004,30592794237.6648,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2005,45914839964.1381,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2005,52551847595.3093,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2006,57537508638.7479,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2006,57727182659.1129,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2007,76350096016.6974,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2007,66110995002.0454,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2008,100708670526.0458,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2008,74244807516.8721,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2009,-43181617094.7451,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2009,-36415390929.5773,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2010,-4583785170.9371,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2010,-3461317407.9565,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2011,95227264726.0247,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2011,64159139125.4862,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2012,69274049381.662,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2012,46622445753.3813,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2013,48509376891.6499,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2013,31570786488.768,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2014,13031000197.8901,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2014,9481739677.6072,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2015,-23052084530.5173,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2015,-23052084530.5173,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2016,-10962072458.9124,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2016,-11269072608.6475,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2017,26733478138.1119,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2017,23061742971.3338,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2018,65823406260.7045,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2018,59286064893.1751,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2019,78390547799.394,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2019,69814591105.1699,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2020,46192777676.1383,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2020,44321930358.7671,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2021,73563937499.9576,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2021,67577364399.8136,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2022,62945107276.0155,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2022,47268049843.8201,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2023,81308838712.411,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2023,71719771970.2499,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2024,62115082915.1918,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+RUS,Russia,2024,54912480708.2168,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2016,-36465207086.5333,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2016,-35731472027.8824,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2017,-24446271872.4241,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2017,-24156041860.6764,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2018,-17355200000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2018,-16736445250.8533,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2019,-4566133333.3333,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2019,-4456505090.7041,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2020,-19582661232.8,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2020,-18488987690.6323,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2021,5613158671.504,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2021,5142150066.5667,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2022,42961537447.3173,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2022,38406369228.1922,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2023,-3328206235.9413,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2023,-2907656216.0679,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+SAU,Saudi Arabia,2024,10449220267.936,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+SAU,Saudi Arabia,2024,8977332706.6796,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1970,18431108455.4283,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1970,178232867552.8357,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1971,-4678756141.4824,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1971,-41484167680.0352,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1990,14673231922.3156,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1990,20478847005.5715,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1991,1729354844.1423,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1991,2322591547.9123,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1992,2775957654.1107,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1992,3467786021.3462,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1993,19522174019.8084,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1993,28989884311.7006,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1994,-9231254687.3383,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1994,-13779426778.9625,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1995,3135520715.7439,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1995,4161996605.1004,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1996,17240914598.556,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1996,22448220225.5454,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1997,-3972748469.293,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1997,-5863707241.9466,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1998,6242798202.0368,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1998,9232553254.2068,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,1999,10832781607.5427,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,1999,16363514539.2042,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2000,6794820681.4013,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2000,11450635890.1196,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2001,-1256230733.8755,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2001,-2107488927.0285,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2002,6025403708.242,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2002,9289686785.5847,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2003,-4592703849.6536,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2003,-5744515490.8592,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2004,6039911549.0391,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2004,6667311879.9595,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2005,15175976340.1477,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2005,16203979326.8665,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2006,25315637139.5069,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2006,25873143435.5398,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2007,26924336278.3136,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2007,24527135109.7842,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2008,25654232346.3045,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2008,20923994502.244,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2009,36047173996.625,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2009,31091563330.4558,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2010,-4137889563.3424,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2010,-3688576406.6265,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2011,38326488915.0393,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2011,31531241512.4116,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2012,107422888234.4048,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2012,93462391503.0367,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2013,28293250974.9654,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2013,23482439859.8549,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2014,26709334401.046,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2014,22194997256.2796,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2015,18965629429.9794,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2015,18965629429.9794,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2016,45227711.1946,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2016,45426378.8247,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2017,33797354340.1498,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2017,32623217825.7819,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2018,30387876062.4748,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2018,27596441369.1636,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2019,4595274604.3283,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2019,4371754485.5593,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2020,37041878712.6484,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2020,34650923670.8574,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2021,43889857024.086,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2021,38459842972.6383,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2022,47460725821.8527,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2022,43095027006.4556,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2023,27820420873.1195,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2023,23762666375.5838,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+ESP,Spain,2024,11146015404.5985,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+ESP,Spain,2024,9256248161.529,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2008,-1051906825.1739,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2008,-848089200.1249,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2009,5669451813.9435,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2009,5123201176.4413,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2010,-1032267673.0508,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2010,-833089884.483,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2011,8244108103.6276,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2011,6964598399.971,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2012,6849483829.7046,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2012,5697961656.9316,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2013,7827587777.1388,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2013,6421205815.2388,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2014,10819951418.6057,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2014,9373637852.9382,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2015,14058866393.254,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2015,14058866393.254,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2016,10233647103.5015,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2016,10543090532.8945,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2017,5445724305.0236,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2017,6097477352.6369,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2018,7367447381.9679,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2018,9385136846.7029,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2019,5666511132.8947,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2019,7364600021.5315,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2020,28249169428.0508,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2020,40392137947.8179,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2021,23918935514.5554,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2021,36111556310.5148,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2022,43254775346.8531,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2022,70865637876.4594,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2023,53805973792.6816,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2023,82185360915.2888,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2024,29763421081.1924,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+TUR,Turkey,2024,39636640529.1396,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1990,-19148503594.0437,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1990,-29921323357.5519,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1991,-18018913068.7824,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1991,-26379725242.5224,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1992,-28072525810.6647,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1992,-39485216476.0804,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1993,-11384964965.1737,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1993,-18271629566.6638,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1994,-24865837871.2962,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1994,-38260136698.1355,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1995,2005781827.8755,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1995,2914286908.6063,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1996,-9566925696.2764,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1996,-13670269646.4122,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1997,-1682939132.3767,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1997,-2242395929.3669,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1998,-4772917169.5873,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1998,-6174157039.0672,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,1999,16648954029.4631,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,1999,21664669012.0312,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2000,51339714064.8858,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2000,70605539716.5417,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2001,-19766646752.7046,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2001,-28140191466.8909,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2002,-2522393801.176,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2002,-3397470268.5891,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2003,1307813820.2123,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2003,1595022349.7441,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2004,14376212970.0831,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2004,15421184007.1454,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2005,22761887157.2338,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2005,24083940173.2123,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2006,18705150693.6693,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2006,19088510476.672,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2007,16927730330.1841,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2007,15514912933.0203,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2008,128660555687.0486,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2008,123984154258.015,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2009,89156071884.0415,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2009,99435837457.2376,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2010,13215811132.8429,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2010,14498976058.8899,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2011,26143137999.681,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2011,26633430584.8621,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2012,27816260577.7257,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2012,28021245736.1704,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2013,-32739238172.4272,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2013,-32578467218.3897,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2014,15969272470.4767,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2014,14881653357.3422,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2015,-28873471146.5022,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2015,-28873471146.5022,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2016,25989878872.1136,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2016,29114595940.4203,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2017,26025234037.904,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2017,29821996138.7711,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2018,22275246741.734,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2018,24071397994.8611,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2019,19045367453.7235,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2019,21144779751.1187,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2020,106579545019.7754,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2020,116653367858.0715,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2021,40322395150.7765,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2021,40127943446.2142,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2022,-34804560928.5933,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2022,-35812589389.7077,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2023,17122851219.1128,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2023,16360388127.1966,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+GBR,United Kingdom,2024,913837775.2351,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+GBR,United Kingdom,2024,822234505.9754,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1989,-8400000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1989,-16060307525.4452,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1990,1060000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1990,1922862589.482,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1991,7280000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1991,12669525164.4702,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1992,21270000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1992,35928387679.5664,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1993,-5600000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1993,-9188083364.3335,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1994,-17080000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1994,-27311522193.9378,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1995,21170000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1995,32927813134.5205,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1996,16930000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1996,25583027062.3395,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1997,17580000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1997,25958418629.6749,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1998,20000000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1998,29080353874.1734,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,1999,34800000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,1999,49516383584.0155,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2000,4550000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2000,6262644347.7584,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2001,51862000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2001,69421172761.6333,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2002,5745200000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2002,7570313077.6157,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2003,33760200000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2003,43497574399.7058,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2004,2861000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2004,3590076596.6245,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2005,28799300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2005,34952457494.8064,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2006,-16510600000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2006,-19411977429.6875,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2007,-1038300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2007,-1186900174.8823,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2008,577269800000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2008,635490790840.585,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2009,83310300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2009,92039869260.7697,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2010,229854500000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2010,249842008050.853,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2011,-192947700000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2011,-203307791339.5074,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2012,24270300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2012,25054991775.3128,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2013,345701100000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2013,351725890152.1113,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2014,13225000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2014,13240688494.5766,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2015,225815000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2015,225815000000.0,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2016,195899300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2016,193458664184.3827,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2017,114675000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2017,110884341177.7981,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2018,324448100000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2018,306243024069.6439,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2019,72316100000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2019,67043410631.7931,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2020,1726228000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2020,1580864505112.359,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2021,-1184884300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2021,-1036417222020.4097,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2022,176657000000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2022,143071959225.8239,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2023,269821300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2023,209884809716.4795,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true
+USA,United States,2024,76295300000.0,current US$ (computed),GC.AST.TOTL.COMPUTED_NOMINAL_USD,"Net acquisition of financial assets (current LCU) (computed nominal, US$)",wdi,true
+USA,United States,2024,57647202472.6204,constant 2015 US$ (computed),GC.AST.TOTL.COMPUTED_REAL_2015USD,"Net acquisition of financial assets (current LCU) (computed real, 2015 US$)",wdi,true

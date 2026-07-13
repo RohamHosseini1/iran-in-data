@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SE.PRM.TENR",
-  "title": "Adjusted net enrollment rate, primary, male (% of primary school age children)",
+  "title": "Adjusted net enrollment rate, primary, by sex (% of primary school age children)",
   "category": "Education",
   "sources": "wdi",
   "n_rows": 602,
@@ -34,5 +34,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "آموزش",
+  "title_fa": "نرخ خالص ثبت‌نام تعدیل‌شده، دوره ابتدایی، به تفکیک جنسیت (درصد از کودکان در سن ابتدایی)"
 }

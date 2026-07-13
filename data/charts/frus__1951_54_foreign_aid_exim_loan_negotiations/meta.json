@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1951_54_foreign_aid_exim_loan_negotiations",
-  "title": "US Foreign Aid & EXIM Bank Loan Negotiations with Iran (incl. Sept 1953 $45M Emergency Grant)",
+  "title": "US Foreign Aid & EXIM Bank Loan Negotiations with Iran (1951-54)",
   "category": "Foreign Aid & Development Finance",
   "sources": "frus-iran",
   "n_rows": 65,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1951-54"
     }
-  ]
+  ],
+  "category_fa": "کمک‌های خارجی و تأمین مالی توسعه",
+  "title_fa": "کمک خارجی آمریکا و مذاکرات وام بانک اکسیم با ایران (1951-54)"
 }

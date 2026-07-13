@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_unctad_maritime__transport_services_trade_2005_2024",
-  "title": "Trade in Transport Services: Export Share by Category & Values (UNCTAD, 2005-2024 selected years)",
+  "title": "Trade in Transport Services: Export Share & Values (2005-2024)",
   "category": "Maritime & Shipping",
   "sources": "unctad-maritime",
   "n_rows": 18,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "UNCTAD (UN Trade and Development), UNCTADstat",
+      "source_url": "https://unctadstat.unctad.org/CountryProfile/MaritimeProfile/en-GB/364/index.html",
+      "access_date": "2026-07-13",
+      "time_range": "2005-2015 (selected years)"
+    }
+  ],
+  "category_fa": "دریانوردی و کشتیرانی",
+  "title_fa": "تجارت خدمات حمل‌ونقل: سهم و ارزش صادرات (2005-2024)"
 }

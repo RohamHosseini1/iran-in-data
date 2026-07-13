@@ -33,5 +33,13 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "currency_display": {
+    "has_currency_toggle": true,
+    "default_variant_suffix": ".COMPUTED_REAL_2015USD",
+    "nominal_variant_suffix": ".COMPUTED_NOMINAL_USD",
+    "note": "WDI never published a current-USD variant of this indicator (LCU-only). Both nominal and real (2015-base) USD variants are computed by this project from the LCU value using each country's own FX rate + CPI. Iran: parallel/black-market rate for 1979-present. Venezuela/Argentina: parallel/black-market rate for their own documented divergence eras. All other countries: WDI official PA.NUS.FCRF. See docs/bookkeeping.md and data/processed/fx_cpi_lookup_<iso3>.json."
+  },
+  "category_fa": "مالیه دولت",
+  "title_fa": "سایر هزینه‌ها (واحد پول محلی جاری)"
 }

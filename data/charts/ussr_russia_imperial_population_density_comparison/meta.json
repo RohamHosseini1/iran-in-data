@@ -1,6 +1,6 @@
 {
   "chart_id": "ussr_russia_imperial_population_density_comparison",
-  "title": "Imperial Russia vs. Other Great Powers, Population Density (Tsarist-era official statistics)",
+  "title": "Imperial Russia vs. Other Great Powers, Population Density",
   "category": "Demographics & Population",
   "sources": "ussr-russia-historical:imperial-russia-statistical-yearbook",
   "n_rows": 28,
@@ -33,5 +33,7 @@
       "access_date": "2026-07-12",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "جمعیت‌شناسی و جمعیت",
+  "title_fa": "روسیه تزاری در برابر سایر قدرت‌های بزرگ، تراکم جمعیت"
 }

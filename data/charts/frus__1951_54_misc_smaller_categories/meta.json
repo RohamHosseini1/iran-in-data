@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1951_54_misc_smaller_categories",
-  "title": "Miscellaneous Smaller Economic Citation Categories (Prices, Trade, Money Supply, Agriculture, Demographics, Covert-Operations Financing, External Debt/Assets, Employment)",
+  "title": "Miscellaneous Smaller Economic Citation Categories (FRUS 1951-54)",
   "category": "Other / Mixed",
   "sources": "frus-iran",
   "n_rows": 14,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1951-54"
     }
-  ]
+  ],
+  "category_fa": "سایر / ترکیبی",
+  "title_fa": "دسته‌های کوچک‌تر متفرقه استنادات اقتصادی (FRUS 1951-54)"
 }

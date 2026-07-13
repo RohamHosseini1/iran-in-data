@@ -1,6 +1,6 @@
 {
   "chart_id": "cia_econ__gloomy_prospects_misc_1987",
-  "title": "Miscellaneous Smaller Categories: Foreign Aid, Foreign Exchange, Military Expenditure, Prices, Demographics, Labor, Infrastructure, Macro (1987 Doc)",
+  "title": "Miscellaneous Smaller Categories (1987 Gloomy-Prospects Document)",
   "category": "Other / Mixed",
   "sources": "cia-iran-economy",
   "n_rows": 43,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:6tok:iran-iraq-gloomy-economic-prospects-1987"
     }
-  ]
+  ],
+  "category_fa": "سایر / ترکیبی",
+  "title_fa": "دسته‌های کوچک‌تر متفرقه (سند چشم‌انداز تیره 1987)"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_migration__knomad_remittances_diaspora_2000_2023",
-  "title": "Remittances (Aggregate & Bilateral) and Iranian Diaspora Stock by Host Country (2000-2023 / 2021)",
+  "title": "Remittances & Iranian Diaspora Stock by Host Country (2000-2023)",
   "category": "Migration",
   "sources": "worldbank-knomad",
   "n_rows": 132,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:3tok:iran-remittances-and-migration-2021"
     }
-  ]
+  ],
+  "category_fa": "مهاجرت",
+  "title_fa": "حواله‌های ارسالی و جمعیت ایرانیان مقیم خارج به تفکیک کشور میزبان (2000-2023)"
 }

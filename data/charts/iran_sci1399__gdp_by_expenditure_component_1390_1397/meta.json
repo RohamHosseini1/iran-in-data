@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_sci1399__gdp_by_expenditure_component_1390_1397",
-  "title": "GDP by Final Expenditure Component: Consumption, GFCF, Net Exports, Current & Constant Prices (SH1390-1397)",
+  "title": "GDP by Final Expenditure Component, Current & Constant Prices (SH1390-1397)",
   "category": "Macro / Expenditure & Trade Aggregates",
   "sources": "sci-amar",
   "n_rows": 318,
@@ -15,9 +15,11 @@
     {
       "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
       "source_url": "https://www.amar.org.ir/english/Iran-Statistical-Yearbook/Statistical-Yearbook-2020-2021",
-      "access_date": "2026-07-12",
-      "time_range": "",
-      "verified_fix_note": "citation-accuracy-audit 2026-07-13: previous fuzzy match wrongly cited Banco de Portugal (BPstat) — a genuine PORTUGAL GDP series, confirmed country mismatch (folder countries=['PRT']); corrected to the SCI Statistical Yearbook 1399 source (same raw folder as the sibling CPI chart)."
+      "access_date": "2026-07-13",
+      "time_range": "SH1390-1397",
+      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
     }
-  ]
+  ],
+  "category_fa": "کلان / تجمیع‌های هزینه و تجارت",
+  "title_fa": "تولید ناخالص داخلی به تفکیک اجزای هزینه نهایی، به قیمت جاری و ثابت (SH1390-1397)"
 }

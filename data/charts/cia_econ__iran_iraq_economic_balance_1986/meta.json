@@ -1,6 +1,6 @@
 {
   "chart_id": "cia_econ__iran_iraq_economic_balance_1986",
-  "title": "Iran-Iraq Economic Balance Under the 1986 Oil-Price Collapse (FX Earnings, Unemployment, Gulf Aid to Iraq)",
+  "title": "Iran-Iraq Economic Balance Under the 1986 Oil-Price Collapse",
   "category": "Macro / National Accounts",
   "sources": "cia-iran-economy",
   "n_rows": 37,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:5tok:iran-iraq-economic-balance-1986"
     }
-  ]
+  ],
+  "category_fa": "کلان / حساب‌های ملی",
+  "title_fa": "توازن اقتصادی ایران و عراق در پی سقوط قیمت نفت در 1986"
 }

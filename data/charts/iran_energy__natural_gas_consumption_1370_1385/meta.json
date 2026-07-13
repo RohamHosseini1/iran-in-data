@@ -13,11 +13,13 @@
   ],
   "citations": [
     {
-      "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company",
-      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
+      "source_url": "https://irandataportal.syr.edu/energy-environment/",
       "access_date": "2026-07-13",
-      "time_range": "",
-      "match_confidence": "fuzzy:2tok:wb1971-gas-production-consumption-1965-1969"
+      "time_range": "1991-2006",
+      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
     }
-  ]
+  ],
+  "category_fa": "انرژی",
+  "title_fa": "مصرف گاز طبیعی: فلر (سوزانده‌شده)، تحویلی به شرکت ملی گاز ایران (NIGC) و تزریقی"
 }

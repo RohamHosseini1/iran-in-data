@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_imidro__production_performance_2011_2015",
-  "title": "IMIDRO Subsidiary Production Performance vs. Budget vs. Plan (Steel, Copper, Aluminum, Coal, Iron Ore)",
+  "title": "IMIDRO Subsidiary Production Performance vs. Budget & Plan (2011-2015)",
   "category": "Industry / Value Added by Sector",
   "sources": "imidro-iran",
   "n_rows": 48,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Iran Mines and Mineral Industries Development and Renovation Organization (IMIDRO)",
+      "source_url": "https://imidro.gov.ir",
+      "access_date": "2026-07-13",
+      "time_range": "FY2011/12-2014/15"
+    }
+  ],
+  "category_fa": "صنعت / ارزش افزوده بخشی",
+  "title_fa": "عملکرد تولید شرکت‌های تابعه IMIDRO در برابر بودجه و برنامه (2011-2015)"
 }

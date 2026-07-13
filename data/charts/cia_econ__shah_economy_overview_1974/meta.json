@@ -1,6 +1,6 @@
 {
   "chart_id": "cia_econ__shah_economy_overview_1974",
-  "title": "Pre-Revolution Shah's Economy Overview per CIA: GNP Growth, Fifth Plan Spending, Oil Outlook & Inequality",
+  "title": "Pre-Revolution Shah's Economy Overview per CIA (1974)",
   "category": "Macro / National Accounts",
   "sources": "cia-iran-economy",
   "n_rows": 18,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:shah-economy-overview-1974"
     }
-  ]
+  ],
+  "category_fa": "کلان / حساب‌های ملی",
+  "title_fa": "نمای کلی اقتصاد ایران در دوران شاه پیش از انقلاب به روایت CIA (1974)"
 }

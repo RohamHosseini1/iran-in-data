@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_disasters__significant_earthquakes_1956_2023",
-  "title": "Significant Earthquakes: Location, Magnitude, Deaths, Injuries, Housing & Economic Damage (1956-2023)",
+  "title": "Significant Earthquakes: Magnitude, Casualties & Economic Damage (1956-2023)",
   "category": "Natural Disasters",
   "sources": "noaa-ncei",
   "n_rows": 154,
@@ -19,5 +19,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:3tok:iran-significant-earthquakes"
     }
-  ]
+  ],
+  "category_fa": "بلایای طبیعی",
+  "title_fa": "زمین‌لرزه‌های مهم: بزرگا، تلفات و خسارت اقتصادی (1956-2023)"
 }

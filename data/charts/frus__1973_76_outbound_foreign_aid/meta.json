@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1973_76_outbound_foreign_aid",
-  "title": "Iran's Outbound Foreign Aid & Credit Commitments to Third Countries (UK, France, Egypt, Syria, Pakistan, India, IMF, World Bank)",
+  "title": "Iran's Outbound Foreign Aid & Credit Commitments to Third Countries (1973-76)",
   "category": "Foreign Aid & Development Finance",
   "sources": "frus-iran",
   "n_rows": 31,
@@ -20,5 +20,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
     }
-  ]
+  ],
+  "category_fa": "کمک‌های خارجی و تأمین مالی توسعه",
+  "title_fa": "کمک‌های خارجی اعطایی و تعهدات اعتباری ایران به کشورهای ثالث (1973-76)"
 }

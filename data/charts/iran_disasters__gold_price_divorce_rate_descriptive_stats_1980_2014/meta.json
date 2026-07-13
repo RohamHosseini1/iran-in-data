@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_disasters__gold_price_divorce_rate_descriptive_stats_1980_2014",
-  "title": "Divorce Rate, Real Gold-Coin Price & Related Covariates: Descriptive Statistics (1980-2014)",
+  "title": "Divorce Rate & Real Gold-Coin Price: Descriptive Statistics (1980-2014)",
   "category": "Social Statistics (Marriage & Vital Registration)",
   "sources": "farzanegan-gholipour-2018",
   "n_rows": 10,
@@ -8,5 +8,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Philipps-Universitat Marburg, Marburg Centre for Institutional Economics (MACIE) / Swinburne University of Technology",
+      "source_url": "https://www.uni-marburg.de/en/fb02/research/institutes/macie/activities/macie-papers/2018/05-2018-farzanegan-gholipour.pdf",
+      "access_date": "2026-07-13",
+      "time_range": "1980-2014"
+    }
+  ],
+  "category_fa": "آمار اجتماعی (ازدواج و ثبت احوال)",
+  "title_fa": "نرخ طلاق و قیمت واقعی سکه طلا: آمار توصیفی (1980-2014)"
 }

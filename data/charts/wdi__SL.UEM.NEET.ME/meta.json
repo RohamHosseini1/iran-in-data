@@ -1,6 +1,6 @@
 {
   "chart_id": "wdi__SL.UEM.NEET.ME",
-  "title": "Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",
+  "title": "Share of youth not in education, employment or training, total (% of youth population) (modeled ILO estimate)",
   "category": "Labor & Employment",
   "sources": "wdi",
   "n_rows": 357,
@@ -34,5 +34,7 @@
       "access_date": "2026-07-13",
       "time_range": ""
     }
-  ]
+  ],
+  "category_fa": "نیروی کار و اشتغال",
+  "title_fa": "سهم جوانان خارج از آموزش، اشتغال یا آموزش حرفه‌ای، کل (درصد از جمعیت جوانان) (برآورد مدل‌سازی‌شده سازمان بین‌المللی کار)"
 }

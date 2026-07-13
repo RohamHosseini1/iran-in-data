@@ -1,6 +1,6 @@
 {
   "chart_id": "iran_sci1399__labor_force_indicators_1380_1399",
-  "title": "Labor Force Indicators by Area/Sex: Participation, Unemployment, Sector Shares (SH1380-1399)",
+  "title": "Labor Force Indicators: Participation & Unemployment by Area/Sex (SH1380-1399)",
   "category": "Labor & Employment",
   "sources": "sci-amar",
   "n_rows": 567,
@@ -11,5 +11,14 @@
   "countries": [
     "IRN"
   ],
-  "citations": []
+  "citations": [
+    {
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
+      "source_url": "https://www.amar.org.ir/english/Iran-Statistical-Yearbook/Statistical-Yearbook-2020-2021",
+      "access_date": "2026-07-13",
+      "time_range": "1380-1399 SH (~2001-2020)"
+    }
+  ],
+  "category_fa": "نیروی کار و اشتغال",
+  "title_fa": "شاخص‌های نیروی کار: نرخ مشارکت و بیکاری به تفکیک منطقه/جنس (SH1380-1399)"
 }

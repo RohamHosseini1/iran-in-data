@@ -1,6 +1,6 @@
 {
   "chart_id": "frus__1973_76_gnp_targets_comparator_growth",
-  "title": "Iran's 1983 GNP & Per-Capita Income Targets + OECD/Japan Comparator Growth-Rate Citations",
+  "title": "Iran's 1983 GNP & Per-Capita Income Targets vs. OECD/Japan Growth Rates",
   "category": "Macro / National Accounts",
   "sources": "frus-iran",
   "n_rows": 11,
@@ -20,5 +20,7 @@
       "time_range": "",
       "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
     }
-  ]
+  ],
+  "category_fa": "کلان / حساب‌های ملی",
+  "title_fa": "اهداف تولید ناخالص ملی و درآمد سرانه ایران برای سال 1983 در برابر نرخ رشد OECD/ژاپن"
 }

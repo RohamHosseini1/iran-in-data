@@ -13,11 +13,13 @@
   ],
   "citations": [
     {
-      "source_org": "International Bank for Reconstruction and Development (World Bank)",
-      "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
-      "access_date": "2026-07-12",
-      "time_range": "",
-      "match_confidence": "fuzzy:2tok:wb1971-government-revenue-summary-1962-1972"
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
+      "source_url": "https://www.amar.org.ir/english/Iran-Statistical-Yearbook/Statistical-Yearbook-2020-2021",
+      "access_date": "2026-07-13",
+      "time_range": "SH1385-1400",
+      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
     }
-  ]
+  ],
+  "category_fa": "مالیه دولت",
+  "title_fa": "بودجه کل کشور: تفکیک منابع و مصارف (SH1385-1400)"
 }
