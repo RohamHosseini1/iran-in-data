@@ -1,8 +1,11 @@
 # Master Source Catalog — The Hunt Log
 
-Compiled 2026-07-12, extended 2026-07-12 (second pass) across 23+ themed discovery rounds.
-Every source humanity has that we could find for Iran macro/micro economic data + comparators
-(KOR, TUR, SAU, VEN, USA, RUS/USSR, ESP, PRT, GRC + broader EU reference).
+Compiled 2026-07-12, extended across 47 rounds of themed discovery (verify with
+`grep -c '^## Round' SOURCES.md` → 45 section headers as of 2026-07-13; Round 23 was used twice
+for two unrelated topics, and Rounds 41-42 appear out of strict numeric order in the file —
+preserved as originally written rather than renumbered after the fact, so 45 headers span
+round-numbers 1-47). Every source humanity has that we could find for Iran macro/micro economic
+data + comparators (KOR, TUR, SAU, VEN, USA, RUS/USSR, ESP, PRT, GRC + broader EU reference).
 Status legend: ⬇ = download agent assigned · 🔑 = needs API key/registration · ✋ = manual/gated · 💰 = paywalled · 📚 = reference/book
 
 **Source reliability principle** (see `docs/bookkeeping.md` for full policy): we flag and

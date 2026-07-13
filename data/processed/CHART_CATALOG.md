@@ -32,7 +32,7 @@ an Iran series we actually have.
 | Income/wealth inequality (Gini, top shares) | `wid-world`, `swiid-inequality` (not yet harmonized into `data/processed/`) | all 17 | WID has Iran 1900–2025; SWIID has 55 years, 1969–2023 | 🟡 Good once harmonized — WID's 1900+ coverage is a genuine Pahlavi-era win, worth prioritizing in the next harmonization pass |
 | Sovereign debt / external debt | `pahlavi-era-primary-extraction/wb1960-external-public-debt-summary-1959` (stock as of Sept 1959 + service schedule projected 1960/61–1973/74) + `macro_wdi.csv` (1970–) | IRN + comparators | 1959 snapshot + projected schedule, then WDI 1970– | 🟠 Thin→🟡 improving — the Table 20 extraction that was flagged as "not reached" is now done (single snapshot + forward schedule, not an annual actuals series, so still short of a true time series) |
 | Fiscal narrative, long-run context | `pahlavi-era-primary-extraction/iranica-fiscal-system-narrative-series-1921-1979` | IRN only | 1921–1979, irregular (single years/periods/decade-averages) | 🟡 Good as narrative scaffolding, not a chartable annual series on its own — best used as text annotations alongside the WB point-series above |
-| Government budget, primary Persian legal texts | `data/raw/majlis-historical-budget-laws/lamtakam-mirror-1301-1363` | IRN only | FY1301, 1341, 1357–1363 — **not continuous**, large gap years remain (1302–1340, 1342–1356, 1359, 1364–1370) | 🟠 Thin, real primary documents but sparse; a good target for a further lamtakam.com gap-filling pass |
+| Government budget, primary Persian legal texts | `data/raw/majlis-historical-budget-laws/lamtakam-mirror-1301-1363` | IRN only | FY1301, 1341, 1343–1346, 1352–1358 (near-continuous), 1360–1365, 1368–1370 — **24 files (up from 10 as of this catalog's last refresh)**, expanded Round 43. Remaining gaps: 1302–1340 (entire Reza Shah era, untried), 1342, 1347–1351, 1359, 1366–1367, 1369(main) | 🟡 Good and improving — near-continuous from 1352 on; 1302–1340 is the one large untried block left, a good target for a further lamtakam.com pass |
 
 ## 2. Food & agriculture micro — the founding theme of this project
 
@@ -63,7 +63,7 @@ Ocean trade (non-petroleum exports/imports) | `pahlavi-era-primary-extraction/wb
 | Balance of payments (full breakdown) | `pahlavi-era-primary-extraction/wb1971-balance-of-payments-summary-1963-1970` | IRN only | 1963/64–1969/70 | 🟢 Good |
 | Exports/imports by detailed commodity | `pahlavi-era-primary-extraction/wb1960-exports-by-commodities-1956-1959` + `wb1960-imports-by-commodities-1956-1959` (1956/57–58/59) + FAOSTAT Trade Indices (1961–) | IRN (+ all via FAOSTAT) | **1956–present**, WB extraction bridges directly into the FAOSTAT 1961 start | 🟢 Excellent — the Tables 16–17 extraction flagged as a follow-up target is now done |
 | International transactions (pre-BOP-format capital flows, oil, foreign aid) | `pahlavi-era-primary-extraction/wb1960-international-transactions-1953-1959` | IRN only | 1953–1959 | 🟢 Good — extends the trade/BOP picture 10 years earlier than the 1963–70 balance-of-payments summary above |
-| Trade as % of GDP | `owid_indicators.csv` | all with OWID | check exact start year in file | 🟡 likely Good, not yet spot-checked |
+| Trade as % of GDP | `owid_indicators.csv` | all with OWID | **1960–2024, 65 points (~annual)** — spot-checked this refresh | 🟡 Good, matches the standard WDI-era 1960 start |
 | Maritime/port trade profile | `unctad-maritime/irn/` (not yet harmonized) | IRN + 10 comparators | modern only (UNCTAD profiles are current-day snapshots) | 🔴 Necessarily modern-only — no equivalent historical UNCTAD product exists |
 
 ## 5. Demographics
@@ -71,16 +71,17 @@ Ocean trade (non-petroleum exports/imports) | `pahlavi-era-primary-extraction/wb
 | Chart | Data | Countries | Iran coverage | Pahlavi rating |
 |---|---|---|---|---|
 | **Population** | `macro_maddison.csv`, `owid_indicators.csv` | all | annual from 1950 (Maddison), OWID even deeper | 🟢 Excellent |
-| Life expectancy, child mortality | `owid_indicators.csv` | all with OWID | check exact start; OWID's Gapminder-sourced demographic series often run 1900+ | likely 🟢, not yet spot-checked |
-| **Census data (1956, 1966, 1976)** | — | IRN only | **Confirmed unavailable via the two most obvious routes** — Iran Data Portal's census hub and year-specific pages are navigation-only with no linked files (double-checked directly, including one promising-looking file that turned out to be an unrelated modern yearbook mislabeled by URL); IPUMS International's Iran holdings are confirmed to start at 2006 (nothing for 1956/66/76/86/96) | 🔴 **Priority gap, genuinely hard.** All three of these censuses are pure Pahlavi-era (1976 is the last one before the revolution). Remaining untried avenues: UN Statistics Division's historical Demographic Yearbook print archive (pre-digital editions sometimes carry national census totals even without microdata), university census microfilm collections (Princeton/Michigan/LSE Middle East collections), and the SCI provincial compendium already in `data/raw/iran-provincial-statistics/` may have retrospective census-year comparison tables worth mining before searching further afield |
-| Education (literacy, enrollment) | `owid_indicators.csv` (`mean-years-of-schooling-long-run`) | all with OWID | some pre-1979 rows exist (15 rows found in the pre-1941 scan) | 🟠 Thin — worth checking exact Iran years; the White Revolution's Literacy Corps (1963) is a natural policy-timeline anchor for this chart once coverage is confirmed |
+| Life expectancy, child mortality | `owid_indicators.csv` | all with OWID | **1950–2023, 74 points** (life expectancy) — spot-checked this refresh | 🟢 Excellent — covers the entire Second Pahlavi era annually |
+| **Census totals & vital statistics (1956, 1966, 1976)** | `data/processed/un_demographic_yearbook_iran/` + `world-bank-archives-iran/census-demographic-citations-1956-1982` + `iran-census/iranica-census-demography-narrative-series-1868-1998` | IRN only | **Breakthrough (Round 42)**: exact enumerated totals for 1956 (18,954,704), 1966 (25,785,210), 1976 (33,708,744) plus 1986/1991/1996, full age pyramids, unbroken 1948–1997 birth/death-rate series, life expectancy 1950–1995 — cross-validated to the exact digit across 3 independent sources. The *original census documents/microdata* remain a confirmed dead end (do not re-try: Iran Data Portal's census hub and year-specific pages are navigation-only; IPUMS International starts at 2006) | 🟢 now chartable — population-by-census-date and vital-rate charts are buildable today; upgraded from 🔴 since this catalog's last refresh |
+| Education (literacy, enrollment) | `owid_indicators.csv` (`mean-years-of-schooling-long-run`) | all with OWID | **1870–2020, 31 points (benchmark years, not annual)** — spot-checked this refresh | 🟡 Good — reaches back well before the Pahlavi era even though sparse; the White Revolution's Literacy Corps (1963) is a natural policy-timeline anchor |
 
 ## 6. Industry & mining
 
 | Chart | Data | Countries | Iran coverage | Pahlavi rating |
 |---|---|---|---|---|
 | Industrial production (textiles, cement, sugar) | `pahlavi-era-primary-extraction` (industrial production 1954–59 + import-dependence by product ~1970) | IRN only | 1954–1959, plus a 1970 snapshot | 🟢 Good for the 1950s window |
-| Mineral production by commodity | `usgs-minerals-yearbook/iran/` (not yet harmonized) | IRN + 4 comparators | **2016–2023 only** — USGS's modern digital archive; older (1960s-70s) USGS Minerals Yearbook editions were not checked this round | 🔴 for Pahlavi era — worth checking if USGS has pre-1990s Iran editions digitized, since USGS has published this series since the 1930s |
+| Mineral production by commodity, modern | `usgs-minerals-yearbook/iran/` (not yet harmonized) | IRN + 4 comparators | 2016–2023 — USGS's modern digital archive | 🟡 Good, modern-only |
+| Mineral production by commodity, pre-1990s (chromite, copper, iron/steel, lead, zinc, manganese, aluminum, barite, cement, gypsum, salt, sulfur, coal, coke) | `usgs-minerals-yearbook/historical-pre1990-volumes/` (1965/1970/1975/1980 Area Reports, via archive.org; not yet harmonized) | IRN + opportunistic Argentina/Turkey chapters | **1961–1965, 1968–1970, 1973–1980, non-continuous** — includes narrative on Sar Cheshmeh copper mine and the Isfahan Steel Mill/Aryamehr complex | 🟢 now real Pahlavi-era coverage — resolves the "worth checking pre-1990s USGS" item from this catalog's previous refresh |
 
 ## 7. Labor
 
@@ -95,11 +96,13 @@ Ocean trade (non-petroleum exports/imports) | `pahlavi-era-primary-extraction/wb
 |---|---|---|---|---|
 | Housing price index | `cbi-iran`, `sci-amar` | IRN only | modern decades only (housing price indices are a late-20th-century statistical practice everywhere, not an Iran-specific gap) | 🔴 Necessarily modern-only |
 
-## 9. Modernization & infrastructure (new this round)
+## 9. Modernization & infrastructure
 
-Encyclopaedia Iranica / Wikipedia / GFRAS / Encyclopedia.com narrative extraction — none yet
-harmonized into `data/processed/`, but real, citation-backed, and pre-1970 in every case (filling
-gaps WDI's own telephone/air-passenger series don't reach):
+Encyclopaedia Iranica / Wikipedia / GFRAS / Encyclopedia.com narrative extraction — **harmonized
+2026-07-13, now [P]** (was still raw/[R] as of the previous refresh of this catalog), real,
+citation-backed, and pre-1970 in every case (filling gaps WDI's own telephone/air-passenger series
+don't reach). Live in `data/processed/iran_telecom_communications_series/`,
+`iran_media_history_series/`, `iran_aviation_history_series/`, and `iran_white_revolution_corps_series/`:
 
 | Chart | Data | Countries | Iran coverage | Pahlavi rating |
 |---|---|---|---|---|
@@ -112,11 +115,12 @@ gaps WDI's own telephone/air-passenger series don't reach):
 | White Revolution — Health Corps & health spending | `data/raw/iran-white-revolution-corps/iranica-behdari-health-system/` | IRN only | 1920–1978 | 🟢 Good |
 | White Revolution — Extension/Development Corps | `data/raw/iran-white-revolution-corps/gfras-extension-development-corps/` | IRN only | 1964–1979 | 🟡 Good, thinner (single source) |
 
-## 10. Specialty exports & consumption goods (new this round)
+## 10. Specialty exports & consumption goods
 
 FAOSTAT has zero caviar/sturgeon and zero carpet data at any date (confirmed absence, not a gap in
 search) — these charts exist only via Encyclopaedia Iranica narrative extraction plus modern
-trade-press/official compilations. Also not yet harmonized:
+trade-press/official compilations. **Harmonized 2026-07-13, now [P]** (was still raw/[R] as of the
+previous refresh of this catalog) — live in `data/processed/specialty_goods_series/`:
 
 | Chart | Data | Countries | Iran coverage | Pahlavi rating |
 |---|---|---|---|---|
@@ -125,6 +129,48 @@ trade-press/official compilations. Also not yet harmonized:
 | Sugar consumption & import origin | `data/raw/iran-sugar-tea-history/iranica-sugar-narrative-and-table1/` | IRN + 8 historical trade partners (incl. Russia, France, UK, British India) | 1890–2002, non-continuous; one real 1906/07–1913/14 embedded table | 🟢 Good — the 1906–1914 table is pre-Pahlavi (Qajar era) |
 | Tea cultivation area, production, imports | `data/raw/iran-sugar-tea-history/iranica-tea-cultivation-narrative-series-1895-1984/` | IRN only | 1895–1984, non-continuous | 🟢 Good |
 | Caviar/sturgeon production & exports | `data/raw/iran-caviar-exports/` (3 sources: CITES 2006, EUMOFA 2010–18, Shilat 2013/14–2024/25) | IRN (+ CHN/ARM/RUS/USA/VNM/EU via EUMOFA) | modern only, 2006–2025 | 🔴 None yet for Pahlavi era — genuinely modern-only phenomenon (Caspian aquaculture pivot postdates wild-catch collapse) |
+
+## 11. USSR/Russia historical (comparator — new since this catalog's last refresh)
+
+Not a Pahlavi-era Iran theme directly, but a genuine comparator-country deep-dive that existed only
+as one thin bullet in `DATA_INVENTORY.md` until this refresh. **17 registered charts**, harmonized
+into `data/processed/ussr_russia_historical_series/`, all **[P]**:
+
+All file paths below are relative to `data/processed/ussr_russia_historical_series/`.
+
+| Chart | Data | Countries | Coverage | Notes |
+|---|---|---|---|---|
+| USSR GNP by sector of origin / end use (CIA estimate, 1982 rubles) | `cia_soviet_gnp_by_sector_1950_1987.csv`, `cia_soviet_gnp_by_end_use_1950_1987.csv` | USSR only | 1950–1987 | Declassified CIA Soviet-economy assessments — same source family as the project's Iran NIS-33 assessments |
+| Soviet GNP as % of US GNP (CIA geometric-mean estimate) | `cia_soviet_gnp_pct_of_us_gnp_1960_1983.csv` | USSR + USA | 1960–1983 | Direct superpower-comparison chart, ready-made |
+| USSR/US defense spending & GNP, ruble-valuation comparison | `cia_soviet_us_defense_spending_ruble_valuation_1960_1981.csv`, `cia_soviet_us_gnp_ruble_valuation_1960_1981.csv` | USSR + USA | 1960–1981 | |
+| Narodnoe khozyaistvo (official Soviet statistics) — national-economy index, population, grain/livestock indices | `narkhoz_national_economy_index_1913_1989.csv`, `narkhoz_population_1913_1956.csv`, `narkhoz_grain_harvest_index_1950_1956.csv`, `narkhoz_livestock_products_index_1950_1956.csv`, `narkhoz_livestock_headcount_1916_1956.csv` | USSR only | 1913–1989 | Official Soviet-government-published data, distinct from and complementary to the CIA's independent estimates above — both kept as separate labeled series per project convention (never blended) |
+| Imperial Russia — foreign trade, population by region, international comparisons | `imperial_russia_foreign_trade_1897_1908.csv`, `imperial_russia_population_by_region_1858_1910.csv`, `imperial_russia_population_density_comparison.csv`, `imperial_russia_international_population_comparison.csv` | Imperial Russia + comparators | 1858–1910 | Pre-Soviet anchor, useful for any chart wanting a Qajar-era-contemporaneous Russia comparison |
+| USGS Minerals Yearbook — Russia | `usgs-minerals-yearbook/rus/` (separate folder, not in the series above) | Russia | 2016–2022 | Modern comparator slice, matches Iran's own USGS coverage window |
+
+## 12. Currency & FX — official vs. parallel/black-market, and the real/nominal USD toggle
+
+Two distinct things, both new/expanded since this catalog's last refresh and worth documenting
+separately because they serve different chart purposes:
+
+**(a) Dedicated Iran official-vs-parallel FX charts** — the headline product of Round 47's gap-
+closing work (see `docs/bookkeeping.md` for the full methodology, incl. why the parallel rate is
+used for the entire 1979-present era, not the official rate):
+
+| Chart | Data | Iran coverage | Pahlavi rating |
+|---|---|---|---|
+| **Official vs. parallel (black-market) USD rate & the gap** | `fx__official_vs_parallel_gap_irn` (registered chart) | 1960–present, the two series diverge sharply post-1979 | 🟡 Good — the divergence itself is the story |
+| USD/IRR parallel-market rate, daily | `iran_fx__usd_irr_parallel_rate_daily_2011_2026` | 2011–2026 | 🔴 modern-only by construction (TGJU daily feed) |
+| Parallel-market rate, monthly 1979–2003 + annual anchors 2004–2010 | `data/processed/iran_trade_institutions_fx_series/usd_irr_parallel_rate_1979_2011.csv` | 1979–2011, now near-complete (Round 47 closed what was previously the single largest FX gap in the project) | 🟢 for the Islamic Republic era; N/A for Pahlavi (pre-1979 used the official rate, which was genuinely convertible then) |
+| Comparator parallel-FX charts (Argentina "blue dollar" cepo-era, Venezuela CADIVI/CENCOEX/DICOM vs. black market) | `fx_comparator__argentina_fx_retail_rate_daily` + 4 more; `fx_comparator__venezuela_parallel_fx_milestones_2003_2020` | Argentina 2010–2026 daily; Venezuela 2003–2020 milestones | comparator-only, no Pahlavi-era equivalent needed |
+
+**(b) The real (inflation-adjusted, base-year-2015) / nominal USD toggle** — not a separate chart at
+all, but an *additional computed variant row* merged into ~124+ existing WDI-sourced charts wherever
+`n_unit_variants_merged` > 1 in `CHART_REGISTRY.csv` (e.g. `wdi__BM.GSR.FCTY` alone carries 821+
+`computed=true` rows). Every currency-denominated chart across all 17 countries should be checked
+for this toggle before assuming it only shows nominal values — see `docs/bookkeeping.md`'s "Currency
+& inflation-adjustment conventions" section for the full base-year/deflation/parallel-rate
+methodology, including the Eurozone pre-Euro-changeover rescaling fix and the Venezuela/Argentina
+parallel-rate treatment.
 
 ---
 
@@ -161,22 +207,57 @@ charts; 1977 anti-profiteering campaign → the cost-of-living index chart.
 
 ## Next actions, in priority order (Iran-first, Pahlavi-first)
 
-1. **Done across rounds to date**: 33 primary-source tables now extracted and verified from the World
-   Bank archives (39-document pool), Encyclopaedia Iranica, and Esfahani-Pesaran/Mohaddes-Pesaran —
-   government budget and money supply/banking are now near-continuous 1955–1974 (see §1 above);
-   trade-by-commodity, international transactions, and external debt (the previously-flagged
-   Tables 14–17/20 follow-up batch) are all done; new modernization/infrastructure (§9) and
-   specialty-export-goods (§10) themes added; Majlis primary budget-law texts and the Stanford
-   "Iran in Charts" budget dashboard added. See `DATA_INVENTORY.md` §2, §8, §17, §18 for full detail.
-2. Hunt specifically for the 1956/1966/1976 census data — still the single highest-value known gap,
-   confirmed genuinely hard rather than just unsearched (see `DATA_INVENTORY.md` §9).
-3. Fill Majlis budget-law year-gaps via the proven lamtakam.com search-plus-pagination method (current
-   gaps: 1302–1340, 1342–1356, 1359, 1364–1370) — same methodology, high probability of more finds.
-4. Harmonize WID.world (1900+ Iran inequality coverage), the modernization/specialty-goods raw finds
-   (§9–§10, all still **[R]** not **[P]**), and the USGS/UNCTAD comparator-matched sources.
+*Refreshed 2026-07-13 — the pipeline is now essentially complete (1,846 charts registered in
+`CHART_REGISTRY.csv`, ~1,788 materialized in `data/charts/`), so most of what was "next" a few
+rounds ago is now done. Items below are re-verified against current state, not carried forward
+unchecked.*
+
+1. **Done across rounds to date**: 57 primary-source tables now extracted and verified from the World
+   Bank archives (39-document pool), Encyclopaedia Iranica, Esfahani-Pesaran/Mohaddes-Pesaran, and a
+   US Bureau of Mines report (up from 33 as of the previous refresh of this file) — government budget
+   and money supply/banking are now near-continuous 1955–1974 (see §1 above); trade-by-commodity,
+   international transactions, and external debt are all done; modernization/infrastructure (§9) and
+   specialty-export-goods (§10) are now **fully harmonized to [P]** (was still [R] as of the last
+   refresh — see `DATA_INVENTORY.md` §17–§18); Majlis primary budget-law texts (24 files, up from 10)
+   and the Stanford "Iran in Charts" budget dashboard added; the USSR/Russia comparator archive (17
+   registered charts) and the Iran official-vs-parallel/black-market FX series are both now real,
+   chartable data (see the two new theme sections below) but were previously undocumented here. See
+   `DATA_INVENTORY.md` §2, §7, §8, §14, §17, §18 for full detail.
+2. ~~Hunt specifically for the 1956/1966/1976 census data~~ — **RESOLVED (Round 42)**. The original
+   census *documents/microdata* are still unrecoverable (confirmed dead end, do not re-try), but a
+   genuine breakthrough found exact enumerated totals for 1956/1966/1976 (plus 1986/1991/1996),
+   full age pyramids, and an unbroken 1948–1997 birth/death-rate series, cross-validated to the exact
+   digit across three independent sources (UN Demographic Yearbook Historical Supplement, World Bank
+   archival PDFs, Encyclopaedia Iranica) — see `DATA_INVENTORY.md` §9. Not yet reflected as a chart
+   row in §5 below at the time of this refresh's spot-check; a genuine population-by-census-date chart
+   is now buildable from `data/processed/un_demographic_yearbook_iran/`.
+3. Majlis budget-law year-gaps — **partially filled (Round 43)**, not fully closed. 24 files now (was
+   10): near-continuous FY1352–1370 with only small partial gaps, but FY1302–1340 (the entire Reza
+   Shah era) remains completely untried. Current real gaps: 1302–1340, 1342, 1347–1351, 1359,
+   1366–1367, 1369(main law) — see `DATA_INVENTORY.md` §8 for the precise year list. The
+   lamtakam.com/rc.majlis.ir shared-internal-ID method that produced this round's gains is proven and
+   should be applied systematically to the untried 1302–1340 block next.
+4. ~~Harmonize WID.world, modernization/specialty-goods raw finds, USGS/UNCTAD comparator sources~~ —
+   modernization (§9) and specialty-goods (§10) are **done** (now [P], see above). WID.world
+   inequality data harmonization status not re-verified this pass — check `data/processed/` for a
+   `wid_world` or `inequality_wid_world.csv`-derived Iran file before re-hunting.
 5. Extract the companion tables flagged in the 1971/1974 WB statistical-appendix manifests as
-   known follow-ups (revenue detail, expenditure functional breakdown, banking-system balance
-   sheets) — same documents already in hand, same proven methodology.
-6. Check whether USGS has pre-1990s Iran Minerals Yearbook editions.
-7. Spot-check OWID's exact Iran start years for life expectancy, education, and trade-share-of-GDP
-   (flagged above as "not yet assessed") to finish rating every row in this catalog.
+   known follow-ups (Table 6.4 Interest Rates on Bank Deposits — clean scan, not yet transcribed;
+   Table 6.6 Government Bonds; Table 6.3 too scan-degraded even at 400dpi) — same documents already
+   in hand, same proven methodology. (Table 6.5 Bank Deposits of the Private Sector was completed in
+   Round 43 — see `DATA_INVENTORY.md` §2.)
+6. ~~Check whether USGS has pre-1990s Iran Minerals Yearbook editions~~ — **RESOLVED**. Found via
+   archive.org (1965/1970/1975/1980 Area Reports volumes), closing 1961–1965/1968–1970/1973–1980
+   coverage for chromite/copper/iron-steel/lead/zinc/manganese/aluminum/barite/cement/gypsum/salt/
+   sulfur/coal/coke, plus narrative on Sar Cheshmeh copper and the Isfahan Steel Mill — see §6 below
+   and `DATA_INVENTORY.md` §12. BGS World Mineral Statistics 1970–1974 was also *downloaded* (scanned,
+   organized by commodity not country) but **not yet extracted** — a real remaining task.
+7. ~~Spot-check OWID's exact Iran start years for life expectancy, education, and trade-share-of-GDP~~
+   — **RESOLVED this pass**: life-expectancy 1950–2023 (74 points), mean-years-of-schooling-long-run
+   1870–2020 (31 benchmark-year points, not annual), trade-as-share-of-GDP 1960–2024 (65 points,
+   ~annual). Ratings updated in §4/§5 below.
+8. Extract the BGS World Mineral Statistics 1970–1974 volume (downloaded, image-only scan, organized
+   by commodity across 216 pages) — flagged as a future OCR/visual-extraction pass in `DATA_INVENTORY.md` §12.
+9. Systematically pull IMF IFS historical monthly issues beyond the 4 samples currently held
+   (`data/raw/imf-ifs-historical/ifs-monthly-issues-free-archive/`) — IMF eLibrary's free Archived
+   Series confirmed working, just needs volume.

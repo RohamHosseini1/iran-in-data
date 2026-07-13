@@ -27,11 +27,20 @@ always given first; comparator range noted only when it differs meaningfully.
 
 ## 2. Pahlavi-era primary-source extraction
 
-Hand-transcribed from scanned World Bank reports (plus one Encyclopaedia Iranica narrative series
-and one academic paper), every number visually verified against the source page image (not trusted
-from raw OCR). All Iran-only, all 1920s–1970s. 33 dataset folders now exist in
-`data/raw/pahlavi-era-primary-extraction/` (up from the 21 first recorded); the master index is
-`data/processed/pahlavi_era_tables_index.md`.
+Hand-transcribed from scanned World Bank reports (plus one Encyclopaedia Iranica narrative series,
+one academic paper, and one US Bureau of Mines report), every number visually verified against the
+source page image (not trusted from raw OCR). All Iran-only, all 1920s–1970s. **58 dataset folders
+now exist in `data/raw/pahlavi-era-primary-extraction/`** (verified by direct folder count
+2026-07-13 — up from 33 at the last count, itself up from the 21 first recorded); 57 are real
+extracted tables and 1 (`usbm1963-source-pdf/`) is the source-PDF-only folder for the 5
+oil-consortium-wages tables listed in §20 below. The master index,
+`data/processed/pahlavi_era_tables_index.md`, is itself stale (lists 43 of the 57) — a known gap,
+flagged here rather than silently left inconsistent, not fixed in this pass (out of scope: this
+refresh only touches SOURCES.md/DATA_INVENTORY.md/CHART_CATALOG.md). The table below lists the 33
+tables originally tracked here plus 19 new rows added in this refresh (dam/water-infrastructure
+engineering specs, the Isfahan-steel/IDRO capital-goods table, and additional monetary/household-
+consumption/energy tables) = 52; the remaining 5 (US Bureau of Mines oil-consortium wage/employment
+tables) are documented in §20 below rather than duplicated here, bringing the true total to 57.
 
 | Table | Years | Source document |
 |---|---|---|
@@ -68,8 +77,24 @@ from raw OCR). All Iran-only, all 1920s–1970s. 33 dataset folders now exist in
 | Movements in monetary aggregates | 1963–1973 | same (Table 7.1) — extends the money-supply flow series 3 years past the 1971-vintage table above, capturing the post-1973 oil-boom monetary expansion |
 | Iranica fiscal-system narrative (taxation, budget, oil revenue) | 1921–1979 (irregular: single years, periods, decade-averages as stated in the source) | Encyclopaedia Iranica |
 | Iran development indicators, 1900 vs. 2006 (population, income, urbanization, life expectancy, literacy, ag. share of GDP, trade/GDP) | **1900 and 2006** — a genuine century-bridging single table | Esfahani & Pesaran (2008) |
+| Bank deposits of the private sector (sight/saving/time) | FY1963/64–1969/70 | 1971 WB "CEP" Vol.7 Statistical Annex (Table 6.5) |
+| Household expenditure, food vs. non-food (urban/rural) | 1965–1971 | 1974 WB "Economic Development" (Table 9.1) — Iran's earliest known household-budget-survey results |
+| Household expenditure, composition shares | 1965–1971 | same (Table 9.2) |
+| Household expenditure distribution (inequality cross-section) | 1971 | same (Table 9.3) |
+| Food-demand projections (wheat, rice, sugar, meat, dairy, eggs, pulses) | 1972 actual; 1977/1982 projected | same (Table 10.6) |
+| Dairy consumption & supply patterns | 1972 actual; 1977 projected | same (Table 10.7) |
+| Motor-vehicle registration & gasoline consumption, continuous | 1962–1972 | same (Table 14.7) |
+| Power-generating capacity | 1970–1971 | same (Table 15.2) |
+| Electric power generation by plant & use (residential consumption) | 1968–1972 | same (Table 15.3) |
+| Domestic consumption of oil products (kerosene, gasoline, fuel oil) | 1964–1969 | 1971 WB "CEP" Vol.7 (Table 8.8) |
+| Production & consumption of natural gas (incl. flaring) | 1965–1969 | same (Table 8.9) |
+| Dez Dam power-cost estimate & project key parameters | project-level, no annual series | 1960s WB project appraisal docs |
+| Ghazvin irrigation project — key parameters (1967) and completion outcomes (1978) | 1967 and 1978, two-point comparison | WB project appraisal + completion report |
+| Isfahan steel mill (Aryamehr) & IDRO capital-goods financing | ~1972, project-level | 1972 WB industrial-sector report |
+| Major dams, diversion dams, and reservoir/water-control forecast specifications | 1937–1971, non-continuous, engineering-spec tables not annual series | 1975 WB water-sector appraisal docs |
 
-**Extraction status**: 33 datasets total, all verified against source page images, zero fabricated
+**Extraction status**: 57 datasets total (52 tracked individually in this table + 5 more in §20),
+all verified against source page images, zero fabricated
 cells (illegible values left blank and noted, never guessed — including cases where a value could
 have been back-calculated from an accounting identity and deliberately wasn't entered as data; several
 sign ambiguities in faint print were instead resolved by testing which reading makes a documented
@@ -141,11 +166,15 @@ the same proven methodology.
 | Dataset | Iran coverage | Comparators |
 |---|---|---|
 | **[R]** BIS (policy rates, credit, property prices, USD FX) | Iran included in BIS-reporting economies | all, long historical runs |
-| **[R]** CBI Annual Review (via Wayback) | fiscal years 1396–1400 (2017/18–2021/22) | Iran only |
+| **[R]** CBI Annual Review (via Wayback) | fiscal years 1379–1401 (2000/01–2022/23), effectively continuous — 23 files (up from 5; expanded Round 43 via a 2025 Wayback snapshot of CBI's own publications-listing page) | Iran only |
 | **[R]** CBI policy rates (via Wayback) | weekly, 2021–2025 | Iran only |
 | **[R]** TGJU parallel USD/IRR rate | 2011–2026 | Iran only |
+| **[P]** Iran parallel/black-market USD/IRR rate, 1979–2011 gap-fill (Bahmani-Oskooee 2005 monthly series + WB report + Wikipedia anchors) | monthly 1979–2003 (Bahmani-Oskooee, CBI-sourced), annual anchors 2004–2010 | Iran only — closes what was previously the single largest FX gap in the project (Round 47); `data/processed/iran_trade_institutions_fx_series/usd_irr_parallel_rate_1979_2011.csv` |
 | **[R]** TGJU gold coin prices (Bahar Azadi, Emami) | 2013–2026 | Iran only |
 | **[R]** TEDPIX (Tehran Stock Exchange index, via TGJU) | 2014–2026 | Iran only |
+| **[P]** Iran banking sector structure (branch network, 1979 nationalization/consolidation, private-bank reentry 2000–2015) | 1979–2015, non-continuous | `data/processed/iran_banking_history_series/` — Iran only, was missing from this inventory entirely |
+| **[R]** World Bank GFDD — Iran banking-sector depth | 1960–2016 | `worldbank-gfdd/iran-banking-sector-depth-1960-2016/` — Iran only |
+| **[R]** World Bank KNOMAD — Iran remittances & migration | 2021 snapshot | `worldbank-knomad/iran-remittances-and-migration-2021/` — Iran only |
 | **[R]** Bimeh Markazi (Central Insurance) annual reports | fiscal years 1384–1391 (2005/06–2012/13) | Iran only |
 | **[R]** SAMA monthly bulletin | latest + historical series | Saudi only |
 | **[R]** BCRA (Argentina) reserves, FX, policy rate | — | 1996–2026, Argentina; **no parallel/blue-dollar rate exists in official data**, confirmed absent not just unfound |
@@ -162,7 +191,7 @@ the same proven methodology.
 | Pahlavi-era budget/oil-revenue/monetary tables (see §2) | 1953–1974, near-continuous for budget & money supply from 1955 | Iran only |
 | **[R]** IMF Article IV staff reports | 2015–2025 | Iran, Saudi, Korea, Turkey |
 | **[R]** Iran Data Portal — government finance tables | **1937–2017** | Iran only — one of the deepest single tables in the project |
-| **[R]** Majlis historical budget-law texts (lamtakam.com mirror) | FY1301, 1341, 1357–1363 (~1922/23, 1962/63, 1978/79–1984/85) — **not continuous**, real gap years 1302–1340, 1342–1356, 1359, 1364–1370 | Iran only — primary Persian legal texts, not summaries; complements `iran-plan-budget-org/annual-budget-laws` (1371–1401) |
+| **[R]** Majlis historical budget-law texts (lamtakam.com mirror) | FY1301 (3 ministry-level laws), 1341, 1343–1346, 1352–1358 (near-continuous, 1356/1357 partial-only), 1360–1365, 1368, 1369 (supplement only), 1370 — **24 files (up from 10)**, expanded Round 43 via the lamtakam.com/rc.majlis.ir shared-internal-ID method. **Remaining gap years**: 1302–1340 (Reza Shah era, entirely untried), 1342, 1347–1351, 1359, 1366–1367, 1369 (main law) | Iran only — primary Persian legal texts, not summaries; complements `iran-plan-budget-org/annual-budget-laws` (1371–1401), giving near-continuous coverage FY1360–FY1401 |
 | **[R]** Stanford Iran 2040 "Government Budget" dashboard (Azadi & Mirramezani 2022) | ~1996/98–2018, revenue/expenditure/tax composition, by presidential administration | Iran only — captured as a static image (source Tableau viz gates its data-export button behind a CAPTCHA) |
 
 ## 9. Demographics & census
@@ -171,7 +200,8 @@ the same proven methodology.
 |---|---|---|
 | **[P]** UN World Population Prospects 2024 | 1950–2100 | all + regional aggregates |
 | **[R]** UN Demographic Yearbook | 2005–2024 | Iran, Saudi confirmed present |
-| **[R]** Iran national censuses | **only 1996, 2011, 2016 secured** — 1956/1966/1976/1986/2006 confirmed genuinely unavailable via Iran Data Portal or IPUMS International (IPUMS starts at 2006) | Iran only |
+| **[R]** Iran national censuses (original documents/microdata) | **only 1996, 2011, 2016 secured** — the original 1956/1966/1976/1986/2006 census documents/microdata remain confirmed unavailable via Iran Data Portal or IPUMS International (IPUMS starts at 2006) | Iran only |
+| **[R]** Iran 1956/1966/1976 census **totals & vital statistics** (independent secondary-source breakthrough) | Exact enumerated totals for 1956 (18,954,704), 1966 (25,785,210), 1976 (33,708,744), 1986, 1991, 1996; full age pyramids at each census date; unbroken annual 1948–1997 birth/death-rate series; life expectancy 1950–1995; infant mortality (quinquennial, 1953–1994) | Iran only — `un-demographic-yearbook-historical` (UNSD Historical Supplement) + `world-bank-archives-iran/census-demographic-citations-1956-1982` + `iran-census/iranica-census-demography-narrative-series-1868-1998`, cross-validated to the exact digit across all three independent sources (Round 42). Does **not** substitute for the original census microdata row above — this is aggregate totals/vital-rates recovered from secondary compilations, not the primary census document itself |
 | **[R]** Barro-Lee education attainment | 1950–2015 | all |
 | **[P]** OWID demographics (population, life expectancy, child mortality, schooling) | -10000–2025 | same |
 
@@ -196,13 +226,18 @@ the same proven methodology.
 
 | Dataset | Iran coverage | Comparators |
 |---|---|---|
-| **[R]** USGS Minerals Yearbook | 2016–2023 (modern digital archive; older editions not yet checked) | Saudi, Turkey, Russia, Argentina (matched via same source); USA via Mineral Commodity Summaries instead |
+| **[R]** USGS Minerals Yearbook, modern digital archive | 2016–2023 | Saudi, Turkey, Russia, Argentina (matched via same source); USA via Mineral Commodity Summaries instead |
+| **[R]** USGS/Bureau of Mines Minerals Yearbook, pre-1990s volumes (1965/1970/1975/1980 editions, via archive.org) | 1961–1965, 1968–1970, 1973–1980 (non-continuous) — chromite, copper, iron/steel, lead, zinc, manganese, aluminum, barite, cement, gypsum, salt, sulfur, coal, coke; narrative on Sar Cheshmeh copper mine (1965 exploration→1980 $1.4bn/450Mt, suspended by the Revolution) and Isfahan Steel Mill/Aryamehr (1965 planning→1980 1.5Mt/yr capacity) | IRN + opportunistic Argentina/Turkey comparator chapters (1968–1970) — closes the "pre-1990s USGS never checked" gap flagged in an earlier pass |
+| **[R]** BGS World Mineral Statistics 1970–1974 | continuous back to 1913 per BGS, but this project has only the 1970–1974 volume | downloaded (37.9MB) but **not yet extracted** — scanned image-only PDF, organized by commodity not country across 216 pages; flagged for a future OCR/visual-extraction pass |
 | **[R]** ICCIMA (Chamber of Commerce) — PMI, statistical yearbook | recent months + Statistical Yearbook 1403 | Iran only |
 | **[R]** MIMT (Ministry of Industry, Mine & Trade) | Feb 2021 daily bulletins (via Wayback) | Iran only |
 | **[R]** IMIDRO (mining) | 2012–2022 | Iran only |
 | **[R]** Eurostat Prodcom (domestic appliances) | — | 2020–2024, EU countries |
 | **[R]** APPLiA statistical reports (appliance industry) | — | 2018–2024, EU countries |
 | Pahlavi-era industrial production, gasoline, railways (see §2) | 1953–1962 | Iran only |
+| **[P]** Iran Khodro/Paykan automotive production history | non-continuous, spans Pahlavi launch through modern era | **[P]** `data/processed/iran_automotive_textile_series/` — was missing from this inventory entirely |
+| **[P]** Pahlavi-era textile sector overview | Pahlavi era, sector-level narrative + figures | same folder — Iran only |
+| **[R]** Foreign industrial concessions pre-1979 (D'Arcy oil concession 1901 terms; automotive joint ventures) | 1901–1979 | `data/raw/iran-foreign-concessions-pre1979/` — Iran only, was missing from this inventory entirely |
 
 ## 13. Housing
 
@@ -221,7 +256,9 @@ the same proven methodology.
 | Encyclopaedia Iranica economy/fiscal articles | 1921–1994 (Pahlavi + early Islamic Republic) |
 | USAID/Point Four Program reports | 1948–1963 |
 | Esfahani-Pesaran (2008) | 1900–2008 narrative + data, century-spanning |
-| USSR: CIA Soviet-economy assessments, Narodnoe khozyaistvo yearbooks, imperial Russia yearbook | 1904–1996 |
+| **[P]** USSR/Russia comparator archive: CIA Soviet-economy assessments (GNP by sector/end-use, consumption, US-GNP comparison, defense-burden narrative, 1950–1987), Narodnoe khozyaistvo official yearbooks (national-economy index 1913–1989, population 1913–1956, grain/livestock indices 1950–1956), imperial Russia yearbook (foreign trade, population by region, international comparisons, 1897–1910) | 1897–1989 — `data/processed/ussr_russia_historical_series/` (17 CSVs, 17 registered charts); this row was previously a single thin bullet, materially under-representing the actual depth now harmonized |
+| **[R]** IMF IFS historical monthly issues (free eLibrary archive) | 4 sample PDFs (1948-07, 1962-04, 1966-12, 1974-03) + 1 extracted Iran annual series (`iran-annual-series-extracted/`) | `data/raw/imf-ifs-historical/` — systematic pulling flagged as a continuation target, not yet done at scale |
+| Billion Prices Project / PriceStats methodology reference | reference document only, not raw price data | `data/raw/billion-prices-project-reference/` — a methodology citation, not a usable series for Iran |
 
 ## 15. Competitiveness & business environment
 
@@ -316,6 +353,21 @@ yet harmonize-scripted into `data/processed/`).
 
 See SOURCES.md Round 41 for full source attribution and dead-ends (newspaper cover-price history
 and postal-savings history remain confirmed gaps).
+
+## 21. Provincial disparities, nomadic/pastoral economy, women's economic participation, natural disasters (this refresh's catch-up — previously undocumented)
+
+These datasets already existed on disk (some for several rounds) but had never been given a row in
+this inventory — found by cross-checking every `data/raw/` folder against this file's contents
+during the 2026-07-13 docs-refresh pass. All small, real, cited finds; none of them change the
+"Post-1979 coverage is comprehensive" conclusion below.
+
+| Dataset | Iran coverage | Notes |
+|---|---|---|
+| Iran provincial statistics depth | multi-decade, provincial-level | **[R]** `data/raw/iran-provincial-statistics/` (8 files) — provincial GDP/indicators; feeds the census-year comparison cross-check noted in §9 |
+| Nomadic/pastoral economy | 1884–2008 (population estimates); modern livestock-economy data | **[P]** `data/processed/nomadic_pastoral_economy/` (`iran_nomad_population_estimates_1884_2008.csv`, `nomad_pastoral_livestock_economy.csv`) — was entirely absent from this inventory |
+| Women's economic participation (gold-price/divorce-rate correlation study) | modern, single academic paper | **[R]** `data/raw/academic-gender-economics/farzanegan-gholipour-2018-gold-divorce/` — Farzanegan & Gholipour (2018), "Does Gold Price Matter for Divorce Rate in Iran?"; thin (1 source), listed here so it isn't silently lost |
+| Natural hazards — significant earthquakes with damage estimates | historical to present | **[R]** `data/raw/noaa-ncei-hazards/iran-significant-earthquakes/` — NOAA NCEI significant-earthquake database, Iran-filtered, with damage-estimate fields |
+| World Bank Poverty & Equity — Iran regional poverty rates | 2011–2020 | **[P]** `data/processed/worldbank_poverty_equity/iran_poverty_rate_by_region_2011_2020.csv` (from the November 2023 Iran Poverty Assessment report) |
 
 ---
 
