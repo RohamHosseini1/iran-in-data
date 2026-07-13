@@ -240,3 +240,38 @@ data we already have — don't invent a different one):**
 - `sha256` computed at download time (`shasum -a 256`).
 - `retrieved_at_utc` from `date -u +%Y-%m-%dT%H:%M:%SZ`.
 - Nothing is deleted. Superseded downloads get a new dataset folder with a date suffix.
+
+## Chart-ID stability policy
+
+Once this project is public (git history exists, CC BY 4.0 license is live, iranindata.org is a real
+domain), `chart_id` values in `CHART_REGISTRY.csv` and `data/charts/<chart_id>/` must be treated as
+**stable public identifiers** — the same status as a URL. External citations, bookmarks, embeds, and
+any AI agent that fetched `catalog/CHARTS_INDEX.json` may reference a `chart_id` directly.
+
+- **Never rename or delete a `chart_id`** once it has appeared in a committed/published state, even if
+  a later pass finds a better title or a cleaner category for it. Fix the `title`/`category`/`notes`
+  fields freely — those are metadata, not identity.
+- If a chart genuinely needs to be split (e.g. a bundled multi-commodity table found to actually be
+  several distinct series) or merged (a duplicate discovered later), do NOT just delete the old
+  `chart_id` — add a `superseded_by` / `merged_into` field pointing at the replacement(s), and keep the
+  old chart_id's folder as a redirect-style stub (a `meta.json` with a pointer, not a 404). This is the
+  same principle as an HTTP redirect: cheap to do right, expensive to fix after the fact once external
+  links exist.
+- New `chart_id`s can always be added freely — this policy only constrains renaming/removing ones that
+  already exist.
+
+## Versioning & changelog
+
+- `CHANGELOG.md` at the repo root (create if missing) tracks changes that matter to a re-user or
+  citer: new chart categories, methodology changes (e.g. the 2026-07-13 FX-rate policy correction —
+  official vs. parallel-market rate by era), major data-quality fixes (e.g. the citation-accuracy
+  audit), and schema changes to `CHART_REGISTRY.csv` or the `data/charts/` format. Routine new-data
+  additions within an existing category/methodology don't need a changelog entry — this is for
+  changes that could affect how someone interprets or re-uses already-published data, not a running
+  commit log (git history already covers that).
+- Each `data/charts/<chart_id>/meta.json` should carry a `last_updated` date (the date its data.csv
+  was last regenerated) once the materializer scripts are next touched — not required retroactively
+  for the current batch, but add it going forward so a re-user can tell freshness at a glance without
+  cross-referencing git history.
+- Tag meaningful public milestones in git (e.g. `v1.0` for the first public release) once this repo
+  has a remote and the frontend work begins — not needed yet for the local-only repo.
