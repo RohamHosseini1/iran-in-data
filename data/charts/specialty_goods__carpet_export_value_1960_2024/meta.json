@@ -1,0 +1,23 @@
+{
+  "chart_id": "specialty_goods__carpet_export_value_1960_2024",
+  "title": "Iran Handwoven Carpet Export Value (1960-2024) — Incl. the $2.13bn 1994 Peak to Post-JCPOA Collapse",
+  "category": "Trade (Exports)",
+  "sources": "iran-carpet-exports",
+  "n_rows": 28,
+  "year_range": [
+    "1960",
+    "2024"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Multiple: Radio Farda (RFE/RL), Iran International, Tehran Times, tradingeconomics.com/UN Comtrade, farahancarpet.com; all ultimately attributing figures to Iran's National Carpet Center or UN Comtrade",
+      "source_url": "https://en.radiofarda.com/a/after-2017-peak-iran-carpet-exports-drop-sharply/30813005.html ; https://www.iranintl.com/en/202303172791 ; https://www.tehrantimes.com/news/512161/Iran-s-annual-hand-made-carpet-export-value-up-about-4 ; https://tradingeconomics.com/iran/exports/carpets-textile-floor-coverings ; https://farahancarpet.com/export-of-iranian-handmade-carpets/",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:carpet-export-value-post1990-compiled"
+    }
+  ]
+}

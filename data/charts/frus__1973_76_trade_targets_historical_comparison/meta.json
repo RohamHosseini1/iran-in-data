@@ -1,0 +1,24 @@
+{
+  "chart_id": "frus__1973_76_trade_targets_historical_comparison",
+  "title": "Iran Trade-Volume Targets, Growth Citations & 1930-1976 Historical Comparison",
+  "category": "Trade",
+  "sources": "frus-iran",
+  "n_rows": 28,
+  "year_range": [
+    "1972",
+    "1983"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ"
+  ],
+  "citations": [
+    {
+      "source_org": "US Department of State, Office of the Historian",
+      "source_url": "https://history.state.gov/historicaldocuments/frus1969-76v27",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
+    }
+  ]
+}

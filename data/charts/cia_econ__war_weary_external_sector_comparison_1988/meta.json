@@ -1,0 +1,23 @@
+{
+  "chart_id": "cia_econ__war_weary_external_sector_comparison_1988",
+  "title": "Iran vs. Iraq Wartime External-Sector Comparison: Debt, FX, Trade & Oil",
+  "category": "External Debt",
+  "sources": "cia-iran-economy",
+  "n_rows": 97,
+  "year_range": [
+    "1975",
+    "1990"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Intelligence Agency (CIA), Directorate of Intelligence, Office of Near Eastern and South Asian Analysis (NESA)",
+      "source_url": "https://www.cia.gov/readingroom/document/cia-rdp89s01450r000600600001-5",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:iran-iraq-war-weary-economies-1988"
+    }
+  ]
+}

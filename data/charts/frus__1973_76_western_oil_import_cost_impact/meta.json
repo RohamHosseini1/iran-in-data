@@ -1,0 +1,23 @@
+{
+  "chart_id": "frus__1973_76_western_oil_import_cost_impact",
+  "title": "1974 Oil-Price-Shock Import-Cost Impact on the US, Western Europe, Japan & Developing Countries",
+  "category": "Balance of Payments (Payments)",
+  "sources": "frus-iran",
+  "n_rows": 10,
+  "year_range": [
+    "1974",
+    "1975"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "US Department of State, Office of the Historian",
+      "source_url": "https://history.state.gov/historicaldocuments/frus1969-76v27",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
+    }
+  ]
+}

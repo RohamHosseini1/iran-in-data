@@ -1,0 +1,23 @@
+{
+  "chart_id": "nis33__external_debt_investment_fx",
+  "title": "External Debt, Foreign Investment & Foreign-Exchange Citations",
+  "category": "External Debt",
+  "sources": "cia-iran-economy",
+  "n_rows": 23,
+  "year_range": [
+    "1966",
+    "1978"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:2tok:wb1960-external-public-debt-summary-1959"
+    }
+  ]
+}

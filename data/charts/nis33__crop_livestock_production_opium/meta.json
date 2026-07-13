@@ -1,0 +1,23 @@
+{
+  "chart_id": "nis33__crop_livestock_production_opium",
+  "title": "Crop Production, Livestock Population & Opium Poppy Cultivation by Province",
+  "category": "Agriculture Production",
+  "sources": "cia-iran-economy",
+  "n_rows": 134,
+  "year_range": [
+    "1961",
+    "1973"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:2tok:wb1962-crop-land-production-value-1960"
+    }
+  ]
+}

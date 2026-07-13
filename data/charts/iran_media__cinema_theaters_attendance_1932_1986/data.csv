@@ -1,0 +1,13 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,notes
+IRN,Iran,1932,8,count,cinemas_in_tehran,cinemas_in_tehran,iran-media-history:iranica-cinema-history,[source: Encyclopaedia Iranica CINEMA i. History of Cinema in Persia (Gaffary 1991)]
+IRN,Iran,1950,80,count,cinemas_total,cinemas_total,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing UNESCO Press Film Radio Report IV, 1950]"
+IRN,Iran,1950,20,count,cinemas_open_air_summer,cinemas_open_air_summer,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing UNESCO Press Film Radio Report IV, 1950]"
+IRN,Iran,1950,9000000,persons,cinema_annual_audience_total,cinema_annual_audience_total,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing UNESCO Press Film Radio Report IV, 1950]"
+IRN,Iran,1959,142,count,movie_houses_total,movie_houses_total,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 2535 (1976) p.161 / UNESCO Statistical Yearbook 1961 p.152]"
+IRN,Iran,1975,453,count,movie_houses_total,movie_houses_total,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 2535 (1976) p.161]"
+IRN,Iran,1975,112,count,movie_houses_in_tehran,movie_houses_in_tehran,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 2535 (1976) p.161]"
+IRN,Iran,1979,198,count,cinemas_total,cinemas_total,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 2535 (1976) p.161 and 1360 Sh (1981) p.203 -- post-revolution figure; ~255 cinemas burned or closed in the 2 years preceding the revolution]"
+IRN,Iran,1986,247,count,theaters_total,theaters_total,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 1365 Sh (1986) p.227]"
+IRN,Iran,1986,78,count,theaters_in_tehran,theaters_in_tehran,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 1365 Sh (1986) p.227]"
+IRN,Iran,1986,156000,seats,theater_seats_total,theater_seats_total,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 1365 Sh (1986) p.227]"
+IRN,Iran,1986,631,seats,theater_seats_average_per_theater,theater_seats_average_per_theater,iran-media-history:iranica-cinema-history,"[source: Encyclopaedia Iranica CINEMA i., citing Iran Statistical Yearbook 1365 Sh (1986) p.227]"

@@ -1,0 +1,23 @@
+{
+  "chart_id": "nis33__oil_production_export_destination",
+  "title": "Crude Oil Production by Operator & Export Destination by Region",
+  "category": "Energy / Oil Production & Trade",
+  "sources": "cia-iran-economy",
+  "n_rows": 183,
+  "year_range": [
+    "1960",
+    "1985"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "US Bureau of Mines Information Circular 8203 (1963), unlabeled table (p.19)",
+      "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:usbm1963-oil-revenue-distribution-1957-1959"
+    }
+  ]
+}

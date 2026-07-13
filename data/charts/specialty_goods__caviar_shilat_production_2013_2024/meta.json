@@ -1,0 +1,22 @@
+{
+  "chart_id": "specialty_goods__caviar_shilat_production_2013_2024",
+  "title": "Official Caviar Production & Export (Shilat / Iran Fisheries Organization) (2013-2024)",
+  "category": "Fisheries & Aquaculture",
+  "sources": "iran-caviar-exports:ifo-caviar-production-export-compiled",
+  "n_rows": 11,
+  "year_range": [
+    "2013",
+    "2024"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Iran Fisheries Organization (Sazman-e Shilat-e Iran, successor to the historic state fishing monopoly Shilat), as reported by Tehran Times, Financial Tribune, and Mehr News Agency",
+      "source_url": "https://www.tehrantimes.com/news/463245/Caviar-output-reaches-12-tons-in-a-year ; https://financialtribune.com/articles/domestic-economy/118925/caviar-production-hit-185-tons-exports-55-tons-in-fy-2022-23 ; https://en.mehrnews.com/news/234110/Iran-s-annual-production-of-caviar-rises-by-17",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

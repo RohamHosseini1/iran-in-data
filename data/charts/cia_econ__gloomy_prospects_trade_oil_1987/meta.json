@@ -1,0 +1,23 @@
+{
+  "chart_id": "cia_econ__gloomy_prospects_trade_oil_1987",
+  "title": "Iran/Iraq Trade & Oil-Export-Revenue Citations (incl. Iraq's Arab War Aid & OPEC Quota Dispute)",
+  "category": "Trade",
+  "sources": "cia-iran-economy",
+  "n_rows": 101,
+  "year_range": [
+    "1983",
+    "1987"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Intelligence Agency (CIA), Directorate of Intelligence, Office of Near Eastern and South Asian Analysis (NESA)",
+      "source_url": "https://www.cia.gov/readingroom/document/cia-rdp88t00096r000600710001-8",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:iran-iraq-gloomy-economic-prospects-1987"
+    }
+  ]
+}

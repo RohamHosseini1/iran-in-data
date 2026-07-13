@@ -1,0 +1,23 @@
+{
+  "chart_id": "imf_a4__oil_production_trade_2015_2018",
+  "title": "Crude Oil Production, Export Volumes & Revenue Projections",
+  "category": "Energy / Oil Production & Trade",
+  "sources": "imf-article-iv-iran-staff-reports",
+  "n_rows": 64,
+  "year_range": [
+    "2014",
+    "2023"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Iran Open Data (IOD)",
+      "source_url": "https://iranopendata.org/en/article/half-of-iranian-households-don-t-own-a-car-stats-show/",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-open-data-car-ownership-article"
+    }
+  ]
+}

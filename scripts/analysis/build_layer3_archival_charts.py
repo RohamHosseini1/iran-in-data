@@ -1,8 +1,15 @@
-"""Materialize Layer 3 (data/charts/<chart_id>/data.csv + meta.json) for the ~213 archival/
+"""Materialize Layer 3 (data/charts/<chart_id>/data.csv + meta.json) for the archival/
 hand-curated chart_ids in CHART_REGISTRY.csv that build_layer3_charts.py deliberately skipped
 (chart_ids NOT prefixed wdi__/weo__/owid__/faostat__/wid__, whose underlying_codes point at
 heterogeneous data/processed/*_series/*.csv files instead of the uniform macro_wdi.csv-style
 indexed files).
+
+Originally covered the first ~213 such chart_ids (groups 0-22). Extended 2026-07-13 (groups 23-24)
+to cover 56 more chart_ids added to the registry via newly-merged staging batches (the
+us_primary_source_archives.csv staging file and several iran-institutional/modernization/
+specialty-goods folders) -- same schema/conventions, same idempotent-per-chart_id design, just
+two more narrative-citation-series source shapes (date_label/category/subcategory and
+year/metric) that groups 0-22 hadn't needed a generic helper for yet.
 
 Target schema (matches the 1,576 machine-readable charts exactly):
   data.csv columns: country_iso3, country_name, year, value, unit, variant_code, variant_label,
@@ -35,7 +42,11 @@ from country_crosswalk import COUNTRIES  # noqa: E402
 REGISTRY = "data/processed/CHART_REGISTRY.csv"
 OUT_DIR = "data/charts"
 PROC = "data/processed"
-LOG_PATH = "logs/downloads/archival-layer3-materialization.log"
+# Round 2 (2026-07-13, groups 23-24) writes to its own dated log per task instructions --
+# log() appends every line immediately (not buffered to end-of-run), so this file is valid
+# to inspect mid-run if the process is ever interrupted. The original groups 0-22 log lives
+# at archival-layer3-materialization.log and is left alone.
+LOG_PATH = "logs/downloads/archival-layer3-materialization-round2.log"
 
 import datetime
 
@@ -2517,6 +2528,574 @@ def group22_daily_fx():
 group22_daily_fx()
 
 log(f"After group 22: built={STATS['built']} skipped={STATS['skipped']} rows={STATS['rows_total']}")
+
+# ============================================================================
+# GROUP 23 (round 2, 2026-07-13): US/IMF primary-source narrative-citation archives --
+# FRUS 1951-54 & 1973-76, CIA war-era (1974-1988) + NIS-33 (1973 survey), USAID Point Four
+# RAC secondary-research reports, IMF Article IV 2015/2018. All 6 source files share one
+# schema: date_label,year,category,subcategory,value,unit,notes,country_iso3,
+# source_dataset,citation [+ value_usd_nominal,value_usd_real_2015,currency_conversion_note
+# on the IMF file] -- structurally the pahlavi category/subcategory schema (see
+# rows_from_catsub above) but keyed on date_label (not fiscal_year_label) and carrying a
+# per-row `citation` (exact document/page) that pahlavi's single-document tables didn't
+# need, since these files mix many distinct source documents under one source_dataset tag.
+# The registry's own underlying_codes strings for this batch use a
+# "path|source_dataset=X & category in {A,B,C} (n1+n2+... = N rows)" mini-DSL; rather than
+# writing a string parser for a one-off 34-chart_id batch, the same filter is expressed
+# directly as composable predicates (cat_eq/cat_in/src_eq/all_of) -- verified below to
+# reproduce the registry's own stated row counts exactly for every one of the 34 chart_ids.
+# ============================================================================
+
+def cat_eq(c):
+    return lambda r: (r.get("category") or "").strip() == c
+
+
+def cat_in(cats):
+    s = set(cats)
+    return lambda r: (r.get("category") or "").strip() in s
+
+
+def src_eq(sd):
+    return lambda r: (r.get("source_dataset") or "").strip() == sd
+
+
+def all_of(*preds):
+    return lambda r: all(p(r) for p in preds)
+
+
+def rows_from_citation_series(records, source_dataset_override=None, row_filter=None,
+                               country_iso3="IRN", include_citation=True):
+    out = []
+    for r in records:
+        if row_filter and not row_filter(r):
+            continue
+        cat = (r.get("category") or "").strip()
+        sub = (r.get("subcategory") or "").strip()
+        label = f"{cat} — {sub}" if sub else cat
+        vcode = slugify(label)
+        sd = source_dataset_override or r.get("source_dataset", "")
+        ciso = r.get("country_iso3") or country_iso3
+        # the FRUS 1973-76 file tags some rows country_iso3=IRQ (Iraq context around
+        # Iran-focused discussions, per that folder's own convention) -- country_crosswalk's
+        # COUNTRIES dict only covers this project's 18 tracked comparators (Iraq isn't one),
+        # so name it explicitly here rather than let cname() fall back to the bare code.
+        cname_override = "Iraq" if ciso == "IRQ" else None
+        yr = r.get("year", "")
+        dl = r.get("date_label", "")
+        has_usd = bool(r.get("value_usd_nominal") or r.get("value_usd_real_2015"))
+        note_parts = []
+        if r.get("notes"):
+            note_parts.append(r["notes"])
+        if not has_usd and r.get("currency_conversion_note"):
+            note_parts.append(f"[{r['currency_conversion_note']}]")
+        if include_citation and r.get("citation"):
+            note_parts.append(f"[cite: {r['citation']}]")
+        notes = " ".join(note_parts) if note_parts else None
+        out.append(base_row(ciso, yr, r.get("value", ""), r.get("unit", ""), vcode, label, sd,
+                             original_period_label=dl if dl and dl != yr else None,
+                             computed=False if has_usd else None,
+                             notes=notes, country_name=cname_override))
+        if r.get("value_usd_nominal"):
+            out.append(base_row(ciso, yr, r["value_usd_nominal"], "current US$ (computed)",
+                                 vcode + ".USD_NOMINAL", label + " (computed, nominal US$)", sd,
+                                 original_period_label=dl if dl and dl != yr else None,
+                                 computed=True, notes=r.get("currency_conversion_note", ""),
+                                 country_name=cname_override))
+        if r.get("value_usd_real_2015"):
+            out.append(base_row(ciso, yr, r["value_usd_real_2015"], "constant 2015 US$ (computed)",
+                                 vcode + ".USD_REAL_2015", label + " (computed, real 2015 US$)", sd,
+                                 original_period_label=dl if dl and dl != yr else None,
+                                 computed=True, notes=r.get("currency_conversion_note", ""),
+                                 country_name=cname_override))
+    return out
+
+
+def group23_us_primary_source_archives():
+    dfrus = os.path.join(PROC, "frus_iran_economic_citations_series")
+    frus1951 = load_csv(os.path.join(dfrus, "frus_1951_54_mossadegh_coup_era.csv"))
+    frus1973 = load_csv(os.path.join(dfrus, "frus_1973_76_oil_boom_era.csv"))
+    dcia = os.path.join(PROC, "cia_iran_economy_series")
+    cia_war = load_csv(os.path.join(dcia, "cia_iran_iraq_economic_assessments_1974_1988.csv"))
+    cia_nis33 = load_csv(os.path.join(dcia, "cia_nis33_iran_economy_survey_1973.csv"))
+    usaid = load_csv(os.path.join(PROC, "usaid_point_four_series",
+                                   "usaid_point_four_rac_research_reports.csv"))
+    imf = load_csv(os.path.join(PROC, "imf_article_iv_iran_series",
+                                 "imf_article_iv_iran_2015_2018.csv"))
+
+    # --- FRUS 1951-54 (Mossadegh/coup era) ---
+    if "frus__1951_54_foreign_aid_exim_loan_negotiations" in missing:
+        write_chart("frus__1951_54_foreign_aid_exim_loan_negotiations",
+                    rows_from_citation_series(frus1951, row_filter=cat_eq("Foreign aid")))
+    if "frus__1951_54_oil_production_trade_abadan_crisis" in missing:
+        write_chart("frus__1951_54_oil_production_trade_abadan_crisis",
+                    rows_from_citation_series(frus1951, row_filter=cat_eq("Oil production & trade")))
+    if "frus__1951_54_misc_smaller_categories" in missing:
+        write_chart("frus__1951_54_misc_smaller_categories",
+                    rows_from_citation_series(frus1951, row_filter=cat_in(
+                        ["Prices", "Trade", "Money supply", "Agriculture", "Demographics",
+                         "Covert operations financing", "External debt", "External assets",
+                         "Employment"])))
+
+    # --- FRUS 1973-76 (oil boom era) ---
+    if "frus__1973_76_arms_deals_cost_escalation" in missing:
+        write_chart("frus__1973_76_arms_deals_cost_escalation",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Military expenditure")))
+    if "frus__1973_76_oil_price_shock_production_revenue" in missing:
+        write_chart("frus__1973_76_oil_price_shock_production_revenue",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Oil production & trade")))
+    if "frus__1973_76_government_finance_oil_dependence" in missing:
+        write_chart("frus__1973_76_government_finance_oil_dependence",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Government Finance")))
+    if "frus__1973_76_outbound_foreign_aid" in missing:
+        write_chart("frus__1973_76_outbound_foreign_aid",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Foreign aid")))
+    if "frus__1973_76_western_oil_import_cost_impact" in missing:
+        write_chart("frus__1973_76_western_oil_import_cost_impact",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Balance of Payments")))
+    if "frus__1973_76_foreign_investment_deal_pipeline" in missing:
+        write_chart("frus__1973_76_foreign_investment_deal_pipeline",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Foreign investment")))
+    if "frus__1973_76_trade_targets_historical_comparison" in missing:
+        write_chart("frus__1973_76_trade_targets_historical_comparison",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Trade")))
+    if "frus__1973_76_gnp_targets_comparator_growth" in missing:
+        write_chart("frus__1973_76_gnp_targets_comparator_growth",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Macro / National Accounts")))
+    if "frus__1973_76_inflation_and_import_prices" in missing:
+        write_chart("frus__1973_76_inflation_and_import_prices",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Prices")))
+    if "frus__1973_76_demographics_population" in missing:
+        write_chart("frus__1973_76_demographics_population",
+                    rows_from_citation_series(frus1973, row_filter=cat_eq("Demographics & Population")))
+    if "frus__1973_76_misc_smaller_categories" in missing:
+        write_chart("frus__1973_76_misc_smaller_categories",
+                    rows_from_citation_series(frus1973, row_filter=cat_in(
+                        ["Manufacturing", "Agriculture", "Metals & Minerals", "Labor & Employment",
+                         "External debt", "Land Use", "Foreign exchange"])))
+
+    # --- CIA war-era (1974-1988): shah-economy-overview, iran-iraq-economic-balance-1986,
+    # war-weary-economies-1988 (split 3 ways), gloomy-economic-prospects-1987 (split 4 ways) ---
+    if "cia_econ__shah_economy_overview_1974" in missing:
+        write_chart("cia_econ__shah_economy_overview_1974",
+                    rows_from_citation_series(cia_war, row_filter=src_eq("cia-shah-economy-overview-1974")))
+    if "cia_econ__iran_iraq_economic_balance_1986" in missing:
+        write_chart("cia_econ__iran_iraq_economic_balance_1986",
+                    rows_from_citation_series(cia_war, row_filter=src_eq("cia-iran-iraq-economic-balance-1986")))
+    if "cia_econ__war_weary_demographic_macro_comparison_1988" in missing:
+        write_chart("cia_econ__war_weary_demographic_macro_comparison_1988",
+                    rows_from_citation_series(cia_war, row_filter=all_of(
+                        src_eq("cia-iran-iraq-war-weary-economies-1988"),
+                        cat_in(["Demographics", "Demographics & Population", "Health",
+                                "Social Protection", "Macro / National Accounts"]))))
+    if "cia_econ__war_weary_external_sector_comparison_1988" in missing:
+        write_chart("cia_econ__war_weary_external_sector_comparison_1988",
+                    rows_from_citation_series(cia_war, row_filter=all_of(
+                        src_eq("cia-iran-iraq-war-weary-economies-1988"),
+                        cat_in(["External debt", "Foreign exchange", "Foreign aid", "Trade",
+                                "Oil production & trade", "Balance of Payments (Net)",
+                                "Balance of Payments (misc)"]))))
+    if "cia_econ__war_weary_military_infra_govt_finance_1988" in missing:
+        write_chart("cia_econ__war_weary_military_infra_govt_finance_1988",
+                    rows_from_citation_series(cia_war, row_filter=all_of(
+                        src_eq("cia-iran-iraq-war-weary-economies-1988"),
+                        cat_in(["Military expenditure", "Infrastructure (Transport)",
+                                "Infrastructure & Technology", "Energy", "Government finance",
+                                "Labor & Employment", "Prices"]))))
+    if "cia_econ__gloomy_prospects_current_account_scenarios_1987" in missing:
+        write_chart("cia_econ__gloomy_prospects_current_account_scenarios_1987",
+                    rows_from_citation_series(cia_war, row_filter=all_of(
+                        src_eq("cia-iran-iraq-gloomy-economic-prospects-1987"),
+                        cat_in(["Balance of Payments (Net)", "Balance of Payments (misc)"]))))
+    if "cia_econ__gloomy_prospects_trade_oil_1987" in missing:
+        write_chart("cia_econ__gloomy_prospects_trade_oil_1987",
+                    rows_from_citation_series(cia_war, row_filter=all_of(
+                        src_eq("cia-iran-iraq-gloomy-economic-prospects-1987"),
+                        cat_in(["Trade", "Oil production & trade"]))))
+    if "cia_econ__gloomy_prospects_iraq_debt_rescheduling_1987" in missing:
+        write_chart("cia_econ__gloomy_prospects_iraq_debt_rescheduling_1987",
+                    rows_from_citation_series(cia_war, row_filter=all_of(
+                        src_eq("cia-iran-iraq-gloomy-economic-prospects-1987"),
+                        cat_eq("External debt"))))
+    if "cia_econ__gloomy_prospects_misc_1987" in missing:
+        write_chart("cia_econ__gloomy_prospects_misc_1987",
+                    rows_from_citation_series(cia_war, row_filter=all_of(
+                        src_eq("cia-iran-iraq-gloomy-economic-prospects-1987"),
+                        cat_in(["Foreign aid", "Foreign exchange", "Military expenditure", "Prices",
+                                "Demographics & Population", "Labor & Employment",
+                                "Infrastructure & Technology", "Macro / National Accounts"]))))
+
+    # --- CIA NIS-33 (1973 economy survey) ---
+    if "nis33__land_use_irrigation_demographics" in missing:
+        write_chart("nis33__land_use_irrigation_demographics",
+                    rows_from_citation_series(cia_nis33, row_filter=cat_in(
+                        ["Land Use", "Demographics & Population"])))
+    if "nis33__crop_livestock_production_opium" in missing:
+        write_chart("nis33__crop_livestock_production_opium",
+                    rows_from_citation_series(cia_nis33, row_filter=cat_eq("Agriculture")))
+    if "nis33__oil_production_export_destination" in missing:
+        # Full 'Oil production & trade' category (183 rows). The sibling
+        # nis33__petroleum_revenue_series_1959_71 chart (out of this task's 56-chart scope,
+        # status=extends in the registry) actually draws from the separate 'Government
+        # Finance' category's 'Revenue from the petroleum sector' / 'Figure 28' subcategories
+        # (verified directly against the file), NOT from 'Oil production & trade' as the
+        # staging script's own underlying_codes comment guessed -- so there is no real overlap
+        # to subtract here despite that comment; using the full category is correct and drops
+        # nothing that actually belongs to the other chart.
+        write_chart("nis33__oil_production_export_destination",
+                    rows_from_citation_series(cia_nis33, row_filter=cat_eq("Oil production & trade")))
+    if "nis33__manufactured_goods_output" in missing:
+        write_chart("nis33__manufactured_goods_output",
+                    rows_from_citation_series(cia_nis33, row_filter=cat_eq("Manufacturing")))
+    if "nis33__trade_by_commodity_and_partner" in missing:
+        write_chart("nis33__trade_by_commodity_and_partner",
+                    rows_from_citation_series(cia_nis33, row_filter=cat_eq("Trade")))
+    if "nis33__external_debt_investment_fx" in missing:
+        write_chart("nis33__external_debt_investment_fx",
+                    rows_from_citation_series(cia_nis33, row_filter=cat_in(
+                        ["External debt", "Foreign investment", "Foreign exchange"])))
+    if "nis33__macro_national_accounts" in missing:
+        write_chart("nis33__macro_national_accounts",
+                    rows_from_citation_series(cia_nis33, row_filter=cat_eq("Macro / National Accounts")))
+
+    # --- USAID Point Four RAC secondary-research reports (2 academic sources, filtered by
+    # author surname in the row's own `citation` field -- this file has no separate per-
+    # author source_dataset tag, both rows share source_dataset=usaid-point-four-rac-
+    # research-reports) ---
+    if "usaid_pt4__ford_foundation_harvard_advisory_group" in missing:
+        write_chart("usaid_pt4__ford_foundation_harvard_advisory_group",
+                    rows_from_citation_series(usaid, row_filter=lambda r: "Brew" in r.get("citation", "")))
+    if "usaid_pt4__motheral_report_land_reform" in missing:
+        write_chart("usaid_pt4__motheral_report_land_reform",
+                    rows_from_citation_series(usaid, row_filter=lambda r: "Roush" in r.get("citation", "")))
+
+    # --- IMF Article IV 2015/2018 (only 2 of the staging script's 10 rows are in this
+    # task's 56-chart scope; the other 8 are status=extends, out of scope) ---
+    if "imf_a4__foreign_exchange_2015_2018" in missing:
+        write_chart("imf_a4__foreign_exchange_2015_2018",
+                    rows_from_citation_series(imf, row_filter=cat_eq("Foreign exchange")))
+    if "imf_a4__oil_production_trade_2015_2018" in missing:
+        write_chart("imf_a4__oil_production_trade_2015_2018",
+                    rows_from_citation_series(imf, row_filter=cat_eq("Oil production & trade")))
+
+
+group23_us_primary_source_archives()
+log(f"After group 23: built={STATS['built']} skipped={STATS['skipped']} rows={STATS['rows_total']}")
+
+# ============================================================================
+# GROUP 24 (round 2, 2026-07-13): Iran institutional/modernization/culture archival --
+# aviation history, pre-1979 foreign concessions, Iran Data Portal employment/housing deep
+# series, media history (cinema/film/press), telecom history (post/telegraph/radio-TV),
+# White Revolution corps, World Bank poverty & equity, and specialty goods (carpets,
+# caviar, tobacco, Trans-Iranian Railway financing -- incl. the flagship carpet-export
+# chart). Most source files share one narrow schema: year,metric,value,unit,source,
+# [notes,]country_iso3[,value_usd_nominal,value_usd_real_2015,currency_conversion_note] --
+# a handful (radio/TV has a `medium` prefix column; the two White Revolution corps files use
+# period_start/period_end instead of a single year; automotive JVs, the D'Arcy concession,
+# and the two Iran Data Portal wide-employment files, plus WB poverty and housing, are
+# bespoke enough to write directly rather than force through the generic helper).
+# ============================================================================
+
+def rows_from_metric_series(records, source_dataset, country_iso3="IRN",
+                             year_field="year", label_field="metric", label_prefix_field=None,
+                             notes_field="notes", source_field="source"):
+    """Generic loader for the year/metric/value/unit/source[/notes]/country_iso3[/USD-variant]
+    schema shared by the aviation, media-history, telecom-history, White-Revolution-extension,
+    and specialty-goods archival files. The row's own free-text `source` citation is folded
+    into notes as `[source: ...]` (mirrors the convention already used in group4's banking-
+    history rows) since these folders don't carry a separate short source_dataset slug column
+    of their own -- source_dataset here is the fixed project-level slug from the registry's
+    primary_source field, passed in by the caller."""
+    out = []
+    for r in records:
+        label = r.get(label_field, "")
+        if label_prefix_field and r.get(label_prefix_field):
+            label = f"{r[label_prefix_field]} — {label}"
+        vcode = slugify(label)
+        ciso = r.get("country_iso3") or country_iso3
+        yr = r.get(year_field, "")
+        has_usd = bool(r.get("value_usd_nominal") or r.get("value_usd_real_2015"))
+        note_parts = []
+        if notes_field and r.get(notes_field):
+            note_parts.append(r[notes_field])
+        if not has_usd and r.get("currency_conversion_note"):
+            note_parts.append(f"[{r['currency_conversion_note']}]")
+        if source_field and r.get(source_field):
+            note_parts.append(f"[source: {r[source_field]}]")
+        notes = " ".join(note_parts) if note_parts else None
+        out.append(base_row(ciso, yr, r.get("value", ""), r.get("unit", ""), vcode, label,
+                             source_dataset, notes=notes, computed=False if has_usd else None))
+        if r.get("value_usd_nominal"):
+            out.append(base_row(ciso, yr, r["value_usd_nominal"], "current US$ (computed)",
+                                 vcode + ".USD_NOMINAL", label + " (computed, nominal US$)",
+                                 source_dataset, computed=True,
+                                 notes=r.get("currency_conversion_note", "")))
+        if r.get("value_usd_real_2015"):
+            out.append(base_row(ciso, yr, r["value_usd_real_2015"], "constant 2015 US$ (computed)",
+                                 vcode + ".USD_REAL_2015", label + " (computed, real 2015 US$)",
+                                 source_dataset, computed=True,
+                                 notes=r.get("currency_conversion_note", "")))
+    return out
+
+
+def group24_institutional_modernization_specialty():
+    if "iran_aviation__events_fleet_workforce_1952_1988" in missing:
+        recs = load_csv(os.path.join(PROC, "iran_aviation_history_series", "aviation_events_and_fleet.csv"))
+        write_chart("iran_aviation__events_fleet_workforce_1952_1988",
+                    rows_from_metric_series(recs, "iran-aviation-history:iranica-aviation-history"))
+
+    # --- pre-1979 foreign concessions ---
+    d_conc = os.path.join(PROC, "iran_foreign_concessions_series")
+
+    if "iran_concessions__darcy_oil_1901_terms" in missing:
+        recs = load_csv(os.path.join(d_conc, "darcy_oil_concession_1901_terms.csv"))
+        sd = "iran-foreign-concessions-pre1979:darcy-concession-1901-terms"
+        rows = []
+        for r in recs:
+            term = r.get("term", "")
+            label = term.replace("_", " ")
+            # single 1901 contract's terms (not a time series, per the registry's own
+            # framing) except the 6 "successor_agreement_1933_..." rows, which describe the
+            # 1933 renegotiation explicitly named in the term itself -- grounded in the
+            # source's own field name, not guessed.
+            yr = 1933 if "1933" in term else 1901
+            has_usd = bool(r.get("value_usd_nominal") or r.get("value_usd_real_2015"))
+            note_parts = []
+            if r.get("notes"):
+                note_parts.append(r["notes"])
+            if not has_usd and r.get("currency_conversion_note"):
+                note_parts.append(f"[{r['currency_conversion_note']}]")
+            rows.append(base_row("IRN", yr, r.get("value", ""), r.get("unit", ""), slugify(label), label, sd,
+                                  notes=" ".join(note_parts) if note_parts else None,
+                                  computed=False if has_usd else None))
+            if r.get("value_usd_nominal"):
+                rows.append(base_row("IRN", yr, r["value_usd_nominal"], "current US$ (computed)",
+                                      slugify(label) + ".USD_NOMINAL", label + " (computed, nominal US$)", sd,
+                                      computed=True, notes=r.get("currency_conversion_note", "")))
+            if r.get("value_usd_real_2015"):
+                rows.append(base_row("IRN", yr, r["value_usd_real_2015"], "constant 2015 US$ (computed)",
+                                      slugify(label) + ".USD_REAL_2015", label + " (computed, real 2015 US$)", sd,
+                                      computed=True, notes=r.get("currency_conversion_note", "")))
+        write_chart("iran_concessions__darcy_oil_1901_terms", rows)
+
+    if "iran_concessions__automotive_joint_ventures_1956_1979" in missing:
+        recs = load_csv(os.path.join(d_conc, "automotive_joint_ventures_1956_1979.csv"))
+        rows = []
+        for r in recs:
+            label = r.get("venture_name", "")
+            sy = r.get("start_year", "")
+            yr = leading_year(sy)
+            note = (f"Foreign partner: {r.get('foreign_partner','')} ({r.get('foreign_partner_country','')}); "
+                    f"Iranian partner: {r.get('iranian_partner','')}; ends/status: "
+                    f"{r.get('end_year_or_status','')}; {r.get('notes','')} [source: {r.get('source','')}]")
+            rows.append(base_row("IRN", yr, "", "", slugify(label), label,
+                                  "iran-foreign-concessions-pre1979:automotive-joint-ventures-1956-1979",
+                                  original_period_label=sy if sy and str(yr) != sy else None,
+                                  notes=note))
+        write_chart("iran_concessions__automotive_joint_ventures_1956_1979", rows)
+
+    # --- Iran Data Portal deep series (employment + housing) ---
+    d_idp = os.path.join(PROC, "iran_data_portal_deep_series")
+
+    if "iran_data_portal__employment_by_gender_1966_2011" in missing:
+        recs = load_csv(os.path.join(d_idp, "employment_by_gender_1966_2011.csv"))
+        value_fields = {"employed_male": "persons", "employed_female": "persons",
+                         "employed_total": "persons", "female_share_pct": "percent"}
+        rows = []
+        for r in recs:
+            yr = fiscal_range_to_later_year(r.get("year_western", "")) or leading_year(r.get("year_western", ""))
+            for vf, unit in value_fields.items():
+                if r.get(vf) in (None, ""):
+                    continue
+                label = vf.replace("_", " ")
+                rows.append(base_row("IRN", yr, r[vf], unit, slugify(label), label, "iran-data-portal",
+                                      original_period_label=r.get("year_iranian", "")))
+        write_chart("iran_data_portal__employment_by_gender_1966_2011", rows)
+
+    if "iran_data_portal__employment_by_sector_1956_2011" in missing:
+        recs = load_csv(os.path.join(d_idp, "employment_by_sector_1956_2011.csv"))
+        SECTOR_FIELDS = ["agriculture", "oil", "mining", "industry", "water_electricity_gas",
+                          "construction", "transport_storage", "communication",
+                          "trade_hotels_restaurants", "services_financial", "services_real_estate",
+                          "services_public_social", "uncategorized", "total"]
+        rows = []
+        for r in recs:
+            yr = fiscal_range_to_later_year(r.get("year_western", "")) or leading_year(r.get("year_western", ""))
+            for vf in SECTOR_FIELDS:
+                if r.get(vf) in (None, ""):
+                    continue
+                label = "Total employment (all sectors)" if vf == "total" else vf.replace("_", " ").title()
+                rows.append(base_row("IRN", yr, r[vf], "persons", slugify(label), label, "iran-data-portal",
+                                      original_period_label=r.get("year_iranian", "")))
+        write_chart("iran_data_portal__employment_by_sector_1956_2011", rows)
+
+    if "iran_data_portal__housing_units_by_household_size_1966_2006" in missing:
+        recs = load_csv(os.path.join(d_idp, "housing_units_by_household_census_1966_2006.csv"))
+        FIELD_LABELS = {"total_housing_units": "Total housing units",
+                         "1_household": "Housing units with 1 resident household",
+                         "2_households": "Housing units with 2 resident households",
+                         "3_households": "Housing units with 3 resident households",
+                         "4plus_households": "Housing units with 4+ resident households"}
+        rows = []
+        for r in recs:
+            lbl_raw = r.get("census_year_label", "").strip()
+            m = re.search(r"\((\d{4})\)", lbl_raw)
+            yr = int(m.group(1)) if m else ""
+            for vf, label in FIELD_LABELS.items():
+                if not r.get(vf):
+                    continue
+                rows.append(base_row("IRN", yr, r[vf], "housing units", slugify(label), label,
+                                      "iran-data-portal", original_period_label=lbl_raw))
+        write_chart("iran_data_portal__housing_units_by_household_size_1966_2006", rows)
+
+    # --- media history ---
+    d_media = os.path.join(PROC, "iran_media_history_series")
+
+    if "iran_media__cinema_theaters_attendance_1932_1986" in missing:
+        recs = load_csv(os.path.join(d_media, "cinema_theaters_and_attendance.csv"))
+        write_chart("iran_media__cinema_theaters_attendance_1932_1986",
+                    rows_from_metric_series(recs, "iran-media-history:iranica-cinema-history"))
+    if "iran_media__film_production_industry_1941_1982" in missing:
+        recs = load_csv(os.path.join(d_media, "film_production_and_industry.csv"))
+        write_chart("iran_media__film_production_industry_1941_1982",
+                    rows_from_metric_series(recs, "iran-media-history:iranica-cinema-history"))
+    if "iran_media__press_periodicals_1898_1988" in missing:
+        recs = load_csv(os.path.join(d_media, "press_periodicals_series.csv"))
+        write_chart("iran_media__press_periodicals_1898_1988",
+                    rows_from_metric_series(recs, "iran-media-history:iranica-press-newspapers"))
+
+    # --- telecom history ---
+    d_tel = os.path.join(PROC, "iran_telecom_communications_series")
+
+    if "iran_telecom__postal_service_1913_1989" in missing:
+        recs = load_csv(os.path.join(d_tel, "postal_service_series.csv"))
+        write_chart("iran_telecom__postal_service_1913_1989",
+                    rows_from_metric_series(recs, "iran-telecom-history:iranica-communications-in-persia"))
+    if "iran_telecom__telegraph_offices_1914_1989" in missing:
+        recs = load_csv(os.path.join(d_tel, "telegraph_offices.csv"))
+        write_chart("iran_telecom__telegraph_offices_1914_1989",
+                    rows_from_metric_series(recs, "iran-telecom-history:iranica-communications-in-persia"))
+    if "iran_telecom__radio_tv_ownership_1940_1989" in missing:
+        recs = load_csv(os.path.join(d_tel, "radio_tv_series.csv"))
+        write_chart("iran_telecom__radio_tv_ownership_1940_1989",
+                    rows_from_metric_series(recs, "iran-telecom-history:iranica-communications-in-persia",
+                                             label_prefix_field="medium"))
+
+    # --- White Revolution corps ---
+    d_wr = os.path.join(PROC, "iran_white_revolution_corps_series")
+
+    if "white_revolution__extension_corps_stats_1964_1965" in missing:
+        recs = load_csv(os.path.join(d_wr, "extension_corps_stats.csv"))
+        write_chart("white_revolution__extension_corps_stats_1964_1965",
+                    rows_from_metric_series(recs, "iran-white-revolution-corps:gfras-extension-development-corps"))
+
+    if "white_revolution__literacy_corps_program_totals_1963_1979" in missing:
+        recs = load_csv(os.path.join(d_wr, "literacy_corps_program_totals.csv"))
+        sd = "iran-white-revolution-corps:iranica-literacy-corps"
+        rows = []
+        for r in recs:
+            label = r.get("metric", "").replace("_", " ")
+            ps, pe = r.get("period_start", ""), r.get("period_end", "")
+            yr = ps
+            opl = f"{ps}-{pe}" if pe and pe != ps else None
+            has_usd = bool(r.get("value_usd_nominal") or r.get("value_usd_real_2015"))
+            note_parts = []
+            if r.get("notes"):
+                note_parts.append(r["notes"])
+            if not has_usd and r.get("currency_conversion_note"):
+                note_parts.append(f"[{r['currency_conversion_note']}]")
+            if r.get("source"):
+                note_parts.append(f"[source: {r['source']}]")
+            rows.append(base_row("IRN", yr, r.get("value", ""), r.get("unit", ""), slugify(label), label, sd,
+                                  original_period_label=opl, computed=False if has_usd else None,
+                                  notes=" ".join(note_parts) if note_parts else None))
+            if r.get("value_usd_nominal"):
+                rows.append(base_row("IRN", yr, r["value_usd_nominal"], "current US$ (computed)",
+                                      slugify(label) + ".USD_NOMINAL", label + " (computed, nominal US$)", sd,
+                                      original_period_label=opl, computed=True,
+                                      notes=r.get("currency_conversion_note", "")))
+            if r.get("value_usd_real_2015"):
+                rows.append(base_row("IRN", yr, r["value_usd_real_2015"], "constant 2015 US$ (computed)",
+                                      slugify(label) + ".USD_REAL_2015", label + " (computed, real 2015 US$)", sd,
+                                      original_period_label=opl, computed=True,
+                                      notes=r.get("currency_conversion_note", "")))
+        write_chart("white_revolution__literacy_corps_program_totals_1963_1979", rows)
+
+    if "white_revolution__corps_stats_bundle_1963_1978" in missing:
+        recs = load_csv(os.path.join(d_wr, "white_revolution_corps_stats.csv"))
+        sd = "iran-white-revolution-corps:wikipedia-white-revolution-corps-stats"
+        rows = []
+        for r in recs:
+            label = f"{r.get('corps','')} — {r.get('metric','').replace('_',' ')}"
+            ps, pe = r.get("period_start", ""), r.get("period_end", "")
+            yr = ps
+            opl = f"{ps}-{pe}" if pe and pe != ps else None
+            rows.append(base_row("IRN", yr, r.get("value", ""), r.get("unit", ""), slugify(label), label, sd,
+                                  original_period_label=opl, notes=f"[source: {r.get('source','')}]"))
+        write_chart("white_revolution__corps_stats_bundle_1963_1978", rows)
+
+    # --- World Bank poverty & equity ---
+    if "wb_poverty__iran_poverty_rate_by_region_2011_2020" in missing:
+        recs = load_csv(os.path.join(PROC, "worldbank_poverty_equity", "iran_poverty_rate_by_region_2011_2020.csv"))
+        sd = "worldbank-poverty-equity-iran-poverty-assessment-2023"
+        rows = []
+        for r in recs:
+            region = r.get("region", "")
+            for yr_field, yr in [("poverty_rate_2011_percent", 2011), ("poverty_rate_2020_percent", 2020)]:
+                if not r.get(yr_field):
+                    continue
+                label = f"{region} — poverty rate"
+                rows.append(base_row("IRN", yr, r[yr_field], "percent", slugify(label), label, sd))
+            if r.get("percentage_point_change"):
+                label = f"{region} — poverty rate change, 2011-2020"
+                rows.append(base_row("IRN", "", r["percentage_point_change"], "percentage points",
+                                      slugify(label), label, sd, original_period_label="2011-2020"))
+        write_chart("wb_poverty__iran_poverty_rate_by_region_2011_2020", rows)
+
+    # --- specialty goods: carpets (the flagship chart), caviar, tobacco, railway financing ---
+    d_sg = os.path.join(PROC, "specialty_goods_series")
+
+    if "specialty_goods__carpet_export_value_1960_2024" in missing:
+        # two source files (state-monopoly era 1960-1988, post-liberalization 1994-2024)
+        # concatenated into one chart per the registry's own underlying_codes
+        # ("...1960_1988.csv|...post1990.csv") -- same chart concept (carpet export value),
+        # same metric-series schema in both files, just a 6-year sourcing gap (1989-1993)
+        # between them that is a genuine, not fabricated, data gap.
+        rows = rows_from_metric_series(load_csv(os.path.join(d_sg, "carpet_exports_1960_1988.csv")),
+                                        "iran-carpet-exports")
+        rows += rows_from_metric_series(load_csv(os.path.join(d_sg, "carpet_exports_post1990.csv")),
+                                         "iran-carpet-exports")
+        write_chart("specialty_goods__carpet_export_value_1960_2024", rows)
+
+    if "specialty_goods__caviar_shilat_production_2013_2024" in missing:
+        recs = load_csv(os.path.join(d_sg, "caviar_shilat_production_2013_2024.csv"))
+        write_chart("specialty_goods__caviar_shilat_production_2013_2024",
+                    rows_from_metric_series(recs, "iran-caviar-exports:ifo-caviar-production-export-compiled"))
+
+    if "specialty_goods__caviar_sturgeon_aquaculture_2010_2018" in missing:
+        recs = load_csv(os.path.join(d_sg, "caviar_sturgeon_aquaculture_eumofa_2010_2018.csv"))
+        write_chart("specialty_goods__caviar_sturgeon_aquaculture_2010_2018",
+                    rows_from_metric_series(recs, "iran-caviar-exports:eumofa-caviar-market-report-2021"))
+
+    if "specialty_goods__tobacco_monopoly_1890_1995" in missing:
+        recs = load_csv(os.path.join(d_sg, "tobacco_monopoly_1890_1995.csv"))
+        write_chart("specialty_goods__tobacco_monopoly_1890_1995",
+                    rows_from_metric_series(
+                        recs, "iran-tobacco-monopoly:iranica-tobacco-monopoly-narrative-series-1890-1995"))
+
+    if "specialty_goods__tobacco_post_privatization_2018" in missing:
+        recs = load_csv(os.path.join(d_sg, "tobacco_post_privatization_2018.csv"))
+        write_chart("specialty_goods__tobacco_post_privatization_2018",
+                    rows_from_metric_series(recs, "iran-tobacco-monopoly:tobacco-market-post-privatization-2018"))
+
+    if "specialty_goods__trans_iranian_railway_financing_1938_39" in missing:
+        recs = load_csv(os.path.join(d_sg, "trans_iranian_railway_financing_context.csv"))
+        write_chart("specialty_goods__trans_iranian_railway_financing_1938_39",
+                    rows_from_metric_series(recs, "iran-sugar-tea-history:trans-iranian-railway-financing-context"))
+
+
+group24_institutional_modernization_specialty()
+log(f"After group 24: built={STATS['built']} skipped={STATS['skipped']} rows={STATS['rows_total']}")
+
 log("=" * 70)
 log(f"FINAL: built={STATS['built']} skipped={STATS['skipped']} total_rows={STATS['rows_total']}")
 if SKIPPED:

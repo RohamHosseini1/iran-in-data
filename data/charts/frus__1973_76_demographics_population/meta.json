@@ -1,0 +1,24 @@
+{
+  "chart_id": "frus__1973_76_demographics_population",
+  "title": "Iran Population, Literacy & Rural-Share Citations + Iraq/US-Resident Counts",
+  "category": "Demographics & Population",
+  "sources": "frus-iran",
+  "n_rows": 10,
+  "year_range": [
+    "1973",
+    "1983"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ"
+  ],
+  "citations": [
+    {
+      "source_org": "US Department of State, Office of the Historian",
+      "source_url": "https://history.state.gov/historicaldocuments/frus1969-76v27",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
+    }
+  ]
+}

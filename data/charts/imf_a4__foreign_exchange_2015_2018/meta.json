@@ -1,0 +1,23 @@
+{
+  "chart_id": "imf_a4__foreign_exchange_2015_2018",
+  "title": "Official/Market Exchange-Rate Spread Narrative Citations (2018 Press Release)",
+  "category": "Exchange Rates",
+  "sources": "imf-article-iv-iran-staff-reports",
+  "n_rows": 5,
+  "year_range": [
+    "2016",
+    "2018"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Iran Open Data (IOD)",
+      "source_url": "https://iranopendata.org/en/article/half-of-iranian-households-don-t-own-a-car-stats-show/",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-open-data-car-ownership-article"
+    }
+  ]
+}

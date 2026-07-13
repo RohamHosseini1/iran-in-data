@@ -1,0 +1,23 @@
+{
+  "chart_id": "cia_econ__war_weary_military_infra_govt_finance_1988",
+  "title": "Iran vs. Iraq Wartime Military, Infrastructure & Government-Finance Citations",
+  "category": "Military Expenditure",
+  "sources": "cia-iran-economy",
+  "n_rows": 24,
+  "year_range": [
+    "1983",
+    "1988"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Intelligence Agency (CIA), Directorate of Intelligence, Office of Near Eastern and South Asian Analysis (NESA)",
+      "source_url": "https://www.cia.gov/readingroom/document/cia-rdp89s01450r000600600001-5",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:iran-iraq-war-weary-economies-1988"
+    }
+  ]
+}

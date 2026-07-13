@@ -1,0 +1,23 @@
+{
+  "chart_id": "cia_econ__shah_economy_overview_1974",
+  "title": "Pre-Revolution Shah's Economy Overview per CIA: GNP Growth, Fifth Plan Spending, Oil Outlook & Inequality",
+  "category": "Macro / National Accounts",
+  "sources": "cia-iran-economy",
+  "n_rows": 18,
+  "year_range": [
+    "1970",
+    "1975"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Intelligence Agency (CIA), Office of Economic Research (OER)",
+      "source_url": "https://www.cia.gov/readingroom/document/cia-rdp85t00875r001900030152-7",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:shah-economy-overview-1974"
+    }
+  ]
+}

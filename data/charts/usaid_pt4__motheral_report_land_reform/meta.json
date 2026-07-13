@@ -1,0 +1,23 @@
+{
+  "chart_id": "usaid_pt4__motheral_report_land_reform",
+  "title": "1950s-60s Land Reform Baseline: Motheral Report, Tenant-Farmer Share & Village Redistribution Counts",
+  "category": "Agriculture & Rural Development",
+  "sources": "usaid-point-four-iran",
+  "n_rows": 7,
+  "year_range": [
+    "1951",
+    "1963"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Rockefeller Archive Center (research report by Jack Roush, London School of Economics)",
+      "source_url": "https://rockarch.issuelab.org/resource/the-motheral-report-and-land-reform-in-iran-1952-1963.html",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:motheral-report-land-reform"
+    }
+  ]
+}

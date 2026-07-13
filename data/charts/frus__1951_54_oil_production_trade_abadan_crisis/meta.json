@@ -1,0 +1,23 @@
+{
+  "chart_id": "frus__1951_54_oil_production_trade_abadan_crisis",
+  "title": "Oil Production, Refining & Trade During the Abadan Nationalization Crisis",
+  "category": "Energy / Oil Production & Trade",
+  "sources": "frus-iran",
+  "n_rows": 30,
+  "year_range": [
+    "1945",
+    "1975"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "US Department of State, Office of the Historian",
+      "source_url": "https://history.state.gov/historicaldocuments/frus1951-54Iran",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:frus-iran-1951-54"
+    }
+  ]
+}

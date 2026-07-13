@@ -1,0 +1,24 @@
+{
+  "chart_id": "frus__1973_76_outbound_foreign_aid",
+  "title": "Iran's Outbound Foreign Aid & Credit Commitments to Third Countries (UK, France, Egypt, Syria, Pakistan, India, IMF, World Bank)",
+  "category": "Foreign Aid & Development Finance",
+  "sources": "frus-iran",
+  "n_rows": 31,
+  "year_range": [
+    "1973",
+    "1976"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ"
+  ],
+  "citations": [
+    {
+      "source_org": "US Department of State, Office of the Historian",
+      "source_url": "https://history.state.gov/historicaldocuments/frus1969-76v27",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:frus-iran-1973-76"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "chart_id": "specialty_goods__caviar_sturgeon_aquaculture_2010_2018",
+  "title": "Sturgeon Aquaculture Production, Whole-Fish Live Weight (2010-2018)",
+  "category": "Fisheries & Aquaculture",
+  "sources": "iran-caviar-exports:eumofa-caviar-market-report-2021",
+  "n_rows": 9,
+  "year_range": [
+    "2010",
+    "2018"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "EUMOFA (European Market Observatory for Fisheries and Aquaculture Products), European Commission DG MARE",
+      "source_url": "https://fishery-aquaculture-market-observatory.ec.europa.eu/en/publications/other-publications/the-caviar-market-2021-edition",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}
