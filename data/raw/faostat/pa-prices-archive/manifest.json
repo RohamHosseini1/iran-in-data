@@ -1,0 +1,25 @@
+{
+  "dataset_id": "faostat-pa-prices-archive",
+  "title": "FAOSTAT Prices Archive — Discontinued Producer Prices (Old Series)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/PA",
+  "download_url": "https://bulks-faostat.fao.org/production/PricesArchive_E_All_Data_(Normalized).zip",
+  "retrieved_at_utc": "2026-07-12T20:28:45Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "PricesArchive_E_All_Data_(Normalized).zip",
+      "original_name": null,
+      "sha256": "de5defddc50469bb811770d0f9b61dd8525b4d1f88d1b87f038a77db2e39bc55",
+      "bytes": 1111816
+    }
+  ],
+  "countries": ["IRN", "USA", "MEX", "BRA", "ARG", "AUS", "GBR", "FRA", "DEU", "ITA"],
+  "time_coverage": "1966–1990",
+  "frequency": "annual",
+  "topics": ["agriculture", "prices", "producer-prices", "archive"],
+  "units": "LCU/tonne (Local Currency Unit per tonne)",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "Discontinued archive of historical producer prices. Includes data for Iran (Islamic Republic of) from 1966. This is an older series; current producer prices are in the PP (Producer Prices) domain.",
+  "failures": []
+}

@@ -1,0 +1,77 @@
+{
+  "dataset_id": "faostat-fbs-food-balances",
+  "title": "FAOSTAT Food Balance Sheets 2010 onwards (FBS)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+  "download_url": "https://bulks-faostat.fao.org/production/FoodBalanceSheets_E_All_Data_(Normalized).zip",
+  "retrieved_at_utc": "2026-07-12T17:27:24Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "FoodBalanceSheets_E_All_Data_(Normalized).csv",
+      "original_name": null,
+      "sha256": "2834e1012daaebf4e4f8195fa86ce9063d1c81fdd9d7c04cbf0aba758ccfa020",
+      "bytes": 633057019
+    },
+    {
+      "name": "FoodBalanceSheets_E_All_Data_(Normalized).zip",
+      "original_name": null,
+      "sha256": "26200855ed5da3d0805e34219124e241d0e0bc6959d0995ebc77a10dd84cbaf1",
+      "bytes": 54840802
+    },
+    {
+      "name": "FoodBalanceSheets_E_AreaCodes.csv",
+      "original_name": null,
+      "sha256": "496ca6b2a4ec25e917fba12b67f7768a9538000993494cb10e8e9731ee17c710",
+      "bytes": 9468
+    },
+    {
+      "name": "FoodBalanceSheets_E_Elements.csv",
+      "original_name": null,
+      "sha256": "ac009d54c7d90bdfda2f2d4ed47d0e6fd0a959fad28ffc18a5f435f16bdbf42f",
+      "bytes": 552
+    },
+    {
+      "name": "FoodBalanceSheets_E_Flags.csv",
+      "original_name": null,
+      "sha256": "491ff165b06d9c208e92133fd85abf9614ef44cfa0124c34927e33d0ce5d6923",
+      "bytes": 115
+    },
+    {
+      "name": "FoodBalanceSheets_E_ItemCodes.csv",
+      "original_name": null,
+      "sha256": "3599a809f38cef6d3018598c13b61dcb8cb46606bd7b6627d44c4ac954e44054",
+      "bytes": 28
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE",
+    "...all countries/areas (global bulk file)"
+  ],
+  "time_coverage": "2010\u20132023",
+  "frequency": "annual",
+  "topics": [
+    "agriculture",
+    "food-supply",
+    "consumption",
+    "per-capita",
+    "poultry",
+    "citrus",
+    "food-balance"
+  ],
+  "units": "described in file / element column and codebook CSVs in this folder",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "All Data Normalized. New methodology, 2010 onwards. Per-capita food supply (kg/capita/yr, kcal/capita/day) by item incl. Poultry Meat and Citrus, Other \u2014 consumption proxy. DateUpdate per FAO index: 2025-10-28. Verified: 4820497 data rows, 22602 rows for Iran (Islamic Republic of). Quirk: FoodBalanceSheets_E_ItemCodes.csv ships from FAO with only a header row (no item codes); item names/codes are embedded in the main normalized CSV.",
+  "failures": []
+}

@@ -1,0 +1,85 @@
+{
+  "dataset_id": "faostat-tcl-trade-crops-livestock",
+  "title": "FAOSTAT Trade \u2014 Crops and Livestock Products (export/import quantity+value by commodity)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/TCL",
+  "download_url": "https://bulks-faostat.fao.org/production/Trade_CropsLivestock_E_All_Data_(Normalized).zip",
+  "retrieved_by": "agent:iran-specialty-goods-hunt (download) + claude (filtering/cleanup after the agent hit a usage-limit wall mid-task)",
+  "retrieved_at_utc": "2026-07-12T22:54:38Z",
+  "files": [
+    {
+      "name": "Trade_CropsLivestock_E_All_Data_Normalized.zip",
+      "original_name": null,
+      "sha256": "0598c7ac2ee797fc411ab50e396e9fd5b75f4094b7b539f6c16ea19da0eb94ef",
+      "bytes": 277815777
+    },
+    {
+      "name": "Trade_CropsLivestock_E_AreaCodes.csv",
+      "original_name": null,
+      "sha256": "d0be89162439aaa0cd6c738278a647b295f9b347842040c06e8def008129c69c",
+      "bytes": 7576
+    },
+    {
+      "name": "Trade_CropsLivestock_E_Elements.csv",
+      "original_name": null,
+      "sha256": "21ea21944193371c33feaff5e9bddda4a0308517b47307178d1316c0c29bf4f6",
+      "bytes": 236
+    },
+    {
+      "name": "Trade_CropsLivestock_E_Flags.csv",
+      "original_name": null,
+      "sha256": "85e924f38861df798974e5f04d51997c4d0dc00a7ed09a7824af74a5af1d7c60",
+      "bytes": 133
+    },
+    {
+      "name": "Trade_CropsLivestock_E_ItemCodes.csv",
+      "original_name": null,
+      "sha256": "343c4ce8fec5902059f89d05c7f19bd9f698718a4f57abe114bb718744daf264",
+      "bytes": 23227
+    },
+    {
+      "name": "filtered_iran_and_comparators.csv",
+      "original_name": null,
+      "sha256": "b3b2f3ad9ece0381fb569b9c0e7d328c683685e95ce0b29c34016fcfb506601b",
+      "bytes": 180225628
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "USA",
+    "RUS",
+    "ARG",
+    "ESP",
+    "PRT",
+    "GRC",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "NLD",
+    "SWE"
+  ],
+  "time_coverage": "1961-2024",
+  "frequency": "annual",
+  "topics": [
+    "trade",
+    "agriculture",
+    "export-value",
+    "import-value",
+    "pistachio",
+    "specialty-crops"
+  ],
+  "units": "tonnes (quantity), 1000 USD (value) -- see Unit column",
+  "license_terms": "FAO CC BY-NC-SA 3.0 IGO",
+  "notes": "The original bulk file (Trade_CropsLivestock_E_All_Data_(Normalized).csv) was 2.4GB, well over this project's 500MB cap. Stream-filtered to our 17-country set (filtered_iran_and_comparators.csv, 1,571,697 rows, 172MB) and the oversized original was deleted -- the 265MB zip is kept as the re-derivable archival source. A second filter file the downloading agent had started (filtered_all_items.csv) was found malformed (broken CSV parsing, included countries/items outside any sensible filter criterion) and was discarded rather than kept as-is. This dataset gives export/ import quantity AND value by specific commodity -- e.g. Iran's pistachio import quantity by year -- filling the 'export value, not just production volume' gap noted in DATA_INVENTORY.md for pistachio/specialty crops.",
+  "failures": [
+    {
+      "issue": "downloading agent hit a session usage-limit wall mid-task, left the 2.4GB unfiltered file and a malformed partial filter on disk",
+      "resolution": "cleaned up by claude in the main thread; see notes above"
+    }
+  ]
+}

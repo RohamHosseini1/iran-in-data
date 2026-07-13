@@ -1,0 +1,72 @@
+{
+  "dataset_id": "faostat-fbsh-food-balances-historic",
+  "title": "FAOSTAT Food Balance Sheets Historic 1961-2013 (FBSH)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+  "download_url": "https://bulks-faostat.fao.org/production/FoodBalanceSheetsHistoric_E_All_Data_(Normalized).zip",
+  "retrieved_at_utc": "2026-07-12T17:27:39Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "FoodBalanceSheetsHistoric_E_All_Data_(Normalized).csv",
+      "original_name": null,
+      "sha256": "e04c959bb9c05ed9eacd6b3a80a850c2ecf215f77b0b12701e63691402d3f08f",
+      "bytes": 1504457792
+    },
+    {
+      "name": "FoodBalanceSheetsHistoric_E_All_Data_(Normalized).zip",
+      "original_name": null,
+      "sha256": "925bac969ea3904eca1a33f0b3d7ea4416bbac79d14db50b0db43cd2a77a3adb",
+      "bytes": 72467143
+    },
+    {
+      "name": "FoodBalanceSheetsHistoric_E_AreaCodes.csv",
+      "original_name": null,
+      "sha256": "3a5166b4667a5f1769d1a4d1e90c4e862f50aac6476a3d803ca964f8fcd9d0b8",
+      "bytes": 9527
+    },
+    {
+      "name": "FoodBalanceSheetsHistoric_E_Flags.csv",
+      "original_name": null,
+      "sha256": "af484475a9ffe705e18234f51df5f3b14c6152434ad7533309f3c43898d35d9b",
+      "bytes": 97
+    },
+    {
+      "name": "FoodBalanceSheetsHistoric_E_ItemCodes.csv",
+      "original_name": null,
+      "sha256": "9c95dcd4a04100a992d64190bedda20d44307b1c8485f4fff3792f8a2dea17db",
+      "bytes": 25
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE",
+    "...all countries/areas (global bulk file)"
+  ],
+  "time_coverage": "1961\u20132013",
+  "frequency": "annual",
+  "topics": [
+    "agriculture",
+    "food-supply",
+    "consumption",
+    "per-capita",
+    "poultry",
+    "citrus",
+    "food-balance",
+    "historical"
+  ],
+  "units": "described in file / element column and codebook CSVs in this folder",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "All Data Normalized. Old methodology and population, 1961-2013. Use with FBS (2010-) for full series; methodologies differ across the break. DateUpdate per FAO index: 2023-03-10. Verified: 11479903 data rows, 58353 rows for Iran (Islamic Republic of).",
+  "failures": []
+}

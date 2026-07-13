@@ -1,0 +1,25 @@
+{
+  "dataset_id": "faostat-datasets-index",
+  "title": "FAOSTAT Bulk Download Datasets Index (datasets_E.xml)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data",
+  "download_url": "https://bulks-faostat.fao.org/production/datasets_E.xml",
+  "retrieved_at_utc": "2026-07-12T17:22:41Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "datasets_E.xml",
+      "original_name": null,
+      "sha256": "33f2d9a8cf59fddcb04145380971027c154095e2ce2c710cbe2bf1ee8793c915",
+      "bytes": 117647
+    }
+  ],
+  "countries": ["(index file — not country data)"],
+  "time_coverage": "index snapshot as of 2026-07-12",
+  "frequency": "n/a (metadata index)",
+  "topics": ["metadata", "catalog", "faostat-bulk-index"],
+  "units": "n/a",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "Master XML index of all FAOSTAT bulk-download files: dataset codes, names, update dates, file sizes, row counts and download URLs. Used to locate the QCL, FBS, FBSH, PP, CP and TI bulk zips downloaded into sibling folders.",
+  "failures": []
+}

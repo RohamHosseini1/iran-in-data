@@ -1,0 +1,79 @@
+{
+  "dataset_id": "faostat-qcl-production",
+  "title": "FAOSTAT Production \u2014 Crops and Livestock Products (QCL)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+  "download_url": "https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip",
+  "retrieved_at_utc": "2026-07-12T17:27:17Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "Production_Crops_Livestock_E_All_Data_(Normalized).csv",
+      "original_name": null,
+      "sha256": "c4ff713e4b8e0f30eadf5a37632ede4faf95bb8e60c12becd16ef793b0cbac01",
+      "bytes": 545005770
+    },
+    {
+      "name": "Production_Crops_Livestock_E_All_Data_(Normalized).zip",
+      "original_name": null,
+      "sha256": "c5835418c18f9322e7decbd6800f93a216eaae3cdfa31acb08f0518c0c6d6853",
+      "bytes": 33921825
+    },
+    {
+      "name": "Production_Crops_Livestock_E_AreaCodes.csv",
+      "original_name": null,
+      "sha256": "890c3b69454a0274dc7c5c63a669db907cd13b371d44b1a76876c5499960fb28",
+      "bytes": 5391
+    },
+    {
+      "name": "Production_Crops_Livestock_E_Elements.csv",
+      "original_name": null,
+      "sha256": "404bfb00c4f93fad8d5c633aa0a809889b37aa2182fce8c50acd7dd61066777f",
+      "bytes": 404
+    },
+    {
+      "name": "Production_Crops_Livestock_E_Flags.csv",
+      "original_name": null,
+      "sha256": "5add99e80e1191080671106da71a336cae08f7ad150da0fa13dd7b1ff78a7ec8",
+      "bytes": 169
+    },
+    {
+      "name": "Production_Crops_Livestock_E_ItemCodes.csv",
+      "original_name": null,
+      "sha256": "1f6a16d865bdd4c4895a5f52b857583adca797a1b36a829ead2cc14fe7fb65a8",
+      "bytes": 10838
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE",
+    "...all countries/areas (global bulk file)"
+  ],
+  "time_coverage": "1961\u20132024",
+  "frequency": "annual",
+  "topics": [
+    "agriculture",
+    "production",
+    "chicken",
+    "poultry",
+    "citrus",
+    "oranges",
+    "lemons",
+    "crops",
+    "livestock"
+  ],
+  "units": "described in file / element column and codebook CSVs in this folder",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "All Data Normalized (long format). Contains production quantity, area harvested, yield, laying, producing animals for all crops/livestock products incl. 'Meat of chickens, fresh or chilled' and citrus items (Oranges, Lemons and limes, Tangerines/mandarins, Pomelos and grapefruits). DateUpdate per FAO index: 2025-12-31. Verified: 4209110 data rows, 27266 rows for Iran (Islamic Republic of).",
+  "failures": []
+}

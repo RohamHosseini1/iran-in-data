@@ -1,0 +1,74 @@
+{
+  "dataset_id": "faostat-cp-consumer-price-indices",
+  "title": "FAOSTAT Consumer Price Indices (CP)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/CP",
+  "download_url": "https://bulks-faostat.fao.org/production/ConsumerPriceIndices_E_All_Data_(Normalized).zip",
+  "retrieved_at_utc": "2026-07-12T17:27:42Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "ConsumerPriceIndices_E_All_Data_(Normalized).csv",
+      "original_name": null,
+      "sha256": "ff5575bf429f569500f1053f6c39005330909df0dbf7ed8a59f3d2484fe59fbf",
+      "bytes": 39024424
+    },
+    {
+      "name": "ConsumerPriceIndices_E_All_Data_(Normalized).zip",
+      "original_name": null,
+      "sha256": "2f97b98ff309baa690006cffaff646317cebbae990470039be01120971ff2473",
+      "bytes": 2387806
+    },
+    {
+      "name": "ConsumerPriceIndices_E_AreaCodes.csv",
+      "original_name": null,
+      "sha256": "12b5591f2e14a8090ba90d4d38aba645fb377783a8ab83b808ade8b8cbd7c499",
+      "bytes": 5622
+    },
+    {
+      "name": "ConsumerPriceIndices_E_Elements.csv",
+      "original_name": null,
+      "sha256": "0ea9b26968078d6b7c22a1078ac8a078e9dd8c125203869ebaa321e5c54e9b06",
+      "bytes": 46
+    },
+    {
+      "name": "ConsumerPriceIndices_E_Flags.csv",
+      "original_name": null,
+      "sha256": "85e924f38861df798974e5f04d51997c4d0dc00a7ed09a7824af74a5af1d7c60",
+      "bytes": 133
+    },
+    {
+      "name": "ConsumerPriceIndices_E_ItemCodes.csv",
+      "original_name": null,
+      "sha256": "65cce6374041d8be684294bd997f108f362f1b871464d875dd0d7f81953eca07",
+      "bytes": 493
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE",
+    "...all countries/areas (global bulk file)"
+  ],
+  "time_coverage": "2000\u20132025",
+  "frequency": "monthly",
+  "topics": [
+    "prices",
+    "cpi",
+    "food-cpi",
+    "inflation"
+  ],
+  "units": "described in file / element column and codebook CSVs in this folder",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "All Data Normalized. Monthly general and food CPI by country, plus food price inflation. DateUpdate per FAO index: 2026-06-11. Verified: 248394 data rows, 924 rows for Iran (Islamic Republic of).",
+  "failures": []
+}

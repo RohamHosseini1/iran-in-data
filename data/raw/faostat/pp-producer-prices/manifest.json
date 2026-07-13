@@ -1,0 +1,76 @@
+{
+  "dataset_id": "faostat-pp-producer-prices",
+  "title": "FAOSTAT Producer Prices (PP)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/PP",
+  "download_url": "https://bulks-faostat.fao.org/production/Prices_E_All_Data_(Normalized).zip",
+  "retrieved_at_utc": "2026-07-12T17:27:42Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "Prices_E_All_Data_(Normalized).csv",
+      "original_name": null,
+      "sha256": "54dd8e10f2c7805a2fdb451cc35ecf70d16cc21d458c6c63c5a06c07a0762af9",
+      "bytes": 214283741
+    },
+    {
+      "name": "Prices_E_All_Data_(Normalized).zip",
+      "original_name": null,
+      "sha256": "0eaff92014d4af5fc2f477dbd436a792bfed1a408645e9ed18d8e45ab14fdc6b",
+      "bytes": 11683910
+    },
+    {
+      "name": "Prices_E_AreaCodes.csv",
+      "original_name": null,
+      "sha256": "aa34b5d958cc299d911d9c45ad6b4e04eae26618e9df3d342efff43489fa6195",
+      "bytes": 5139
+    },
+    {
+      "name": "Prices_E_Elements.csv",
+      "original_name": null,
+      "sha256": "f97d162fe99fed9e0c2f483c084d3bbc54214c4be08b14592f87d2c67f26663b",
+      "bytes": 166
+    },
+    {
+      "name": "Prices_E_Flags.csv",
+      "original_name": null,
+      "sha256": "180d38bc5891f9efb1af7cff1c6285ada0d177253f792da685e8f4636555f9c4",
+      "bytes": 154
+    },
+    {
+      "name": "Prices_E_ItemCodes.csv",
+      "original_name": null,
+      "sha256": "b688555d4299ff30cdacb4f11fd03bf680d43af2b4071c2f942ecf135dca0119",
+      "bytes": 8879
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE",
+    "...all countries/areas (global bulk file)"
+  ],
+  "time_coverage": "1991\u20132025",
+  "frequency": "monthly + annual",
+  "topics": [
+    "agriculture",
+    "prices",
+    "producer-prices",
+    "farm-gate",
+    "chicken",
+    "citrus"
+  ],
+  "units": "described in file / element column and codebook CSVs in this folder",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "All Data Normalized. Annual + monthly farm-gate producer prices in LCU, SLC and USD, plus producer price index. DateUpdate per FAO index: 2026-01-09. Verified: 1319563 data rows, 10451 rows for Iran (Islamic Republic of).",
+  "failures": []
+}

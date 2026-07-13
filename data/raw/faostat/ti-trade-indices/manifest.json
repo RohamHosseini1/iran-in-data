@@ -1,0 +1,75 @@
+{
+  "dataset_id": "faostat-ti-trade-indices",
+  "title": "FAOSTAT Trade Indices (TI)",
+  "source_org": "FAO",
+  "source_url": "https://www.fao.org/faostat/en/#data/TI",
+  "download_url": "https://bulks-faostat.fao.org/production/Trade_Indices_E_All_Data_(Normalized).zip",
+  "retrieved_at_utc": "2026-07-12T17:27:57Z",
+  "retrieved_by": "agent:faostat-download",
+  "files": [
+    {
+      "name": "Trade_Indices_E_All_Data_(Normalized).csv",
+      "original_name": null,
+      "sha256": "0b0ddcfe00038279826dbee78212e304bb4c5b767122f475e3664541da402ce9",
+      "bytes": 1603772661
+    },
+    {
+      "name": "Trade_Indices_E_All_Data_(Normalized).zip",
+      "original_name": null,
+      "sha256": "f67dfb517026a749cbb04e884c3c9129ad9fcae3bd9a07e9b8cfb412a0d7583e",
+      "bytes": 68115070
+    },
+    {
+      "name": "Trade_Indices_E_AreaCodes.csv",
+      "original_name": null,
+      "sha256": "d0be89162439aaa0cd6c738278a647b295f9b347842040c06e8def008129c69c",
+      "bytes": 7576
+    },
+    {
+      "name": "Trade_Indices_E_Elements.csv",
+      "original_name": null,
+      "sha256": "b728138d4130a53a14c1f3886b98160c6a2820fc5b3083d9d58ca9d96a9bdcab",
+      "bytes": 290
+    },
+    {
+      "name": "Trade_Indices_E_Flags.csv",
+      "original_name": null,
+      "sha256": "a35e26ab956737846749893a32fca003934440915646adb662bbb82c3de69759",
+      "bytes": 38
+    },
+    {
+      "name": "Trade_Indices_E_ItemCodes.csv",
+      "original_name": null,
+      "sha256": "b69f31918c372bbad33645369a7661830c782d6313a99f49244861e3e236b8db",
+      "bytes": 6950
+    }
+  ],
+  "countries": [
+    "IRN",
+    "KOR",
+    "TUR",
+    "SAU",
+    "VEN",
+    "DEU",
+    "FRA",
+    "GBR",
+    "ITA",
+    "ESP",
+    "NLD",
+    "SWE",
+    "...all countries/areas (global bulk file)"
+  ],
+  "time_coverage": "1961\u20132024",
+  "frequency": "annual",
+  "topics": [
+    "agriculture",
+    "trade",
+    "trade-indices",
+    "exports",
+    "imports"
+  ],
+  "units": "described in file / element column and codebook CSVs in this folder",
+  "license_terms": "CC BY-NC-SA 3.0 IGO (FAO)",
+  "notes": "All Data Normalized. Import/export value, quantity and unit-value indices by country and item. Detailed trade matrix deliberately NOT downloaded (too large). DateUpdate per FAO index: 2025-12-23. Verified: 10406391 data rows, 40892 rows for Iran (Islamic Republic of).",
+  "failures": []
+}
