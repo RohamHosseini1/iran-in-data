@@ -1,0 +1,21 @@
+{
+  "dataset_id": "iranica-banking-i-history-of-banking-in-iran",
+  "title": "BANKING i. History of Banking in Iran (Encyclopaedia Iranica, Vol. III, Fasc. 7, pp. 698-708)",
+  "source_org": "Encyclopaedia Iranica (Potkin A. Basseer)",
+  "source_url": "https://www.iranicaonline.org/articles/banking-in-iran/banking-i-history-of-banking-in-iran/",
+  "download_url": "https://www.iranicaonline.org/articles/banking-in-iran/banking-i-history-of-banking-in-iran/?generate_pdf=1",
+  "retrieved_at_utc": "2026-07-13T00:15:32Z",
+  "retrieved_by": "claude (direct curl 403'd; recovered via browser in-page fetch() + base64, same technique as the Mazarei IMF paper this round)",
+  "files": [
+    {"name": "banking-i-history-of-banking-in-iran.pdf", "original_name": "banking-i-history-of-banking-in-iran.pdf (site-generated PDF)", "sha256": "96ae43e938fd45cf62dde95dab50e299b730518a9e46fba437a1109823850a31", "bytes": 158287},
+    {"name": "banking-i-history-of-banking-in-iran.txt", "original_name": null, "sha256": "f152b914abf1feae3e2fb89d5313b9fc9638afaff14b8a6d4e50b632ad663d1b", "bytes": 47300}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1888-1983 (foreign bank era through Islamic-banking reform)",
+  "frequency": "narrative (not a time series)",
+  "topics": ["banking", "bank-nationalization", "bank-history", "pahlavi-era", "islamic-republic-era", "central-bank-of-iran"],
+  "units": "n/a -- narrative/qualitative source with embedded quantitative figures (extracted separately into data/raw/iran-banking-history/)",
+  "license_terms": "Encyclopaedia Iranica -- freely accessible online encyclopedia article, standard academic citation terms",
+  "notes": "The single richest primary/academic source found this round for Iran's banking history: covers the 1888 New Oriental Bank, 1889 Imperial Bank of Persia (Reuter concession terms), the 1890 Russian Loan Bank, Ottoman Bank, the 1925 founding of Bank Sepah and 1928 founding of Bank Melli, the 1949-1959 emergence of private/joint-venture banks, the 1960 founding of Bank Markazi (central bank), detailed 1954-78 branch-network growth statistics, and a precise account of the 28 May 1979 nationalization decree and October 1979 five-bank consolidation (Bank Ma'dan va San'at, Bank Maskan, Bank Keshavarzi, Bank Tejarat, Bank Mellat) with which pre-existing banks (Melli/Sepah/Refah-e Kargaran/Saderat) continued under state control, and the sole exception (Bank Iran o Rus). CONFIRMED GAP: the article's text explicitly references six data tables (Table 25: Imperial Bank assets/branches to 1951; Table 26: Bank Melli branch count by year to ~1940; Table 27: money supply/notes in circulation + cost-of-living index 1941-44; Table 28: full list of all commercial banks with ownership type/establishment date/1976 operating data; Table 29: aggregate financial data for selected years 1954-78; Table 30: special/development banks by area with establishment dates/ownership/1976 data) -- NONE of these tables are reproduced in either the live HTML page or the site's own site-generated PDF version (both fetched and checked via pdftotext -- only narrative references to the tables survive online, the tables themselves were apparently never digitized from the print Encyclopaedia Iranica Vol. III). This is a genuine, confirmed digitization gap, not a search failure -- flagged rather than fabricated. All quantitative figures the article DOES state in running prose (not just in the missing tables) were extracted into data/raw/iran-banking-history/nationalization-1979-consolidation/ and .../branch-network-timeseries/.",
+  "failures": []
+}

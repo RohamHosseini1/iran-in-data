@@ -1,0 +1,26 @@
+{
+  "dataset_id": "indec-cpi-gdp-poverty",
+  "title": "INDEC Argentina — CPI (post-Dec-2016 rebuild, official), National Accounts (GDP/supply-demand), Poverty & Indigence",
+  "source_org": "Instituto Nacional de Estadística y Censos (INDEC), Argentina",
+  "source_url": "https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos",
+  "download_url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_aperturas.csv ; https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_divisiones.csv ; https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_metadatos.txt ; https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_aperturas.xls ; https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_09_24.xls ; https://www.indec.gob.ar/ftp/cuadros/economia/sh_ingreso_ahorro_nac_08_25.xls ; https://www.indec.gob.ar/ftp/cuadros/sociedad/sh_pobrezaeindigencia_continua.xls",
+  "retrieved_at_utc": "2026-07-12T19:13:19Z",
+  "retrieved_by": "agent:argentina",
+  "files": [
+    {"name": "serie_ipc_aperturas.csv", "original_name": null, "sha256": "cefb220731bb5f9c7f9a9576642d5003537482ae86f3410e0734b293c5f7de40", "bytes": 2416104},
+    {"name": "serie_ipc_divisiones.csv", "original_name": null, "sha256": "7e74f345b5a1db40200d964cc44c49ce099247c4c00c7adec8d52c64a7d6b60e", "bytes": 1199306},
+    {"name": "serie_ipc_metadatos.txt", "original_name": null, "sha256": "989b3b7aab9225865a0acdaf658e6015fe98415ba9e7bab388549a94da42c9bf", "bytes": 1504},
+    {"name": "sh_ipc_aperturas.xls", "original_name": null, "sha256": "e4c187ef74eef358d2b2dacb62e19f561cbae73563d91f9a9f49c1c7f0ac03ea", "bytes": 1214976},
+    {"name": "sh_oferta_demanda_09_24.xls", "original_name": null, "sha256": "12b658a950ca5e3fad008733d2b07100107b2e8e7ede66ce4a880d724a14638f", "bytes": 708096},
+    {"name": "sh_ingreso_ahorro_nac_08_25.xls", "original_name": null, "sha256": "dc29eb4ccc2f424da82679fc3e5594cea278d84cc5c6dc86f1779799cf5666ff", "bytes": 155136},
+    {"name": "sh_pobrezaeindigencia_continua.xls", "original_name": null, "sha256": "c2b8bf54b548cdb5083db9ed95f8d99a8ac4ab53ac3d11d3894d3d610c592a32", "bytes": 116224}
+  ],
+  "countries": ["ARG"],
+  "time_coverage": "CPI: national series by regional breakdown (aperturas) and division/category (divisiones), monthly, base December 2016 = 100 — this is the CREDIBLE POST-INDEC-SCANDAL series, i.e. post-rebuild after the 2007-2015 data-falsification period; National accounts (sh_oferta_demanda): quarterly supply/demand aggregates (GDP by expenditure) through Q3 2024 vintage file; income/national savings (sh_ingreso_ahorro_nac): through Aug 2025 vintage; Poverty/indigence (sh_pobrezaeindigencia_continua): semester series from EPH (Encuesta Permanente de Hogares), 31 urban agglomerates.",
+  "frequency": "CPI monthly; national accounts quarterly; poverty semi-annual",
+  "topics": ["CPI", "inflation", "prices", "GDP", "national accounts", "poverty", "indigence"],
+  "units": "CPI: index numbers (base Dec-2016=100) and % variation, described in file; GDP: current and constant pesos; poverty: % of population/households below poverty/indigence line",
+  "license_terms": "INDEC public statistics (Argentine government open data)",
+  "notes": "IMPORTANT PROVENANCE NOTE per project methodology: this is the POST-DECEMBER-2016-REBUILD CPI series, launched after INDEC's 2007-2015 statistics-falsification scandal (formal IMF censure 2013) discredited the prior official CPI. This post-2016 series is treated as credible/official by IMF and market participants; it should NOT be spliced backward through 2007-2015 without the Cavallo-Bertolotto reconstruction (see cavallo-bertolotto-inflation-1943-2016 dataset) or private trackers (e.g. PriceStats/Billion Prices Project), which independently estimated inflation during the blackout years because the pre-2016 official numbers from that window are not reliable. Files retrieved directly from INDEC's public FTP cuadros directory (found via search since the BasesDeDatos landing page itself is menu-only / JS-driven with no crawlable direct links). GDP file sh_oferta_demanda is the quarterly national-accounts supply/demand table (closest direct-download proxy for GDP by expenditure); a longer annual PIB time-back-series was not found as a single direct file in this session.",
+  "failures": []
+}

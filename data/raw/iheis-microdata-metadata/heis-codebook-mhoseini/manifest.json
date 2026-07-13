@@ -1,0 +1,104 @@
+{
+  "dataset_id": "iheis-microdata-metadata-heis-codebook-mhoseini",
+  "title": "Iran Household Expenditure and Income Surveys (HEIS) — documentation, cleaning methodology, and published trend tables (M. Hoseini)",
+  "source_org": "Mohammad Hoseini (Institute for Management and Planning Studies, Iran), independent researcher documentation site",
+  "source_url": "https://m-hoseini.github.io/HEIS/",
+  "download_url": "https://m-hoseini.github.io/HEIS/{index,introduction,questionnaire-details,importing-raw-data,cleaning-data,trends-in-expenditure-items,trends-of-household-level-data,trends-in-individual-level-data,some-applications-of-household-level-data}.html , reference-keys.txt , style.css , search_index.json",
+  "retrieved_at_utc": "2026-07-12T19:35:55Z",
+  "retrieved_by": "agent:iran-provincial-census",
+  "files": [
+    {
+      "name": "index.html",
+      "original_name": "index.html",
+      "sha256": "4e3f766a27a23bac2d2140e4427c7dc10b448fd8f077539f456012dd5a2b9a05",
+      "bytes": 14527
+    },
+    {
+      "name": "introduction.html",
+      "original_name": "introduction.html",
+      "sha256": "b5320ff0eed64ad6e69384528c0c416d60725fe61a097f01b1e263a864641b3e",
+      "bytes": 21256
+    },
+    {
+      "name": "questionnaire-details.html",
+      "original_name": "questionnaire-details.html",
+      "sha256": "0583e525a9b779175a21db163a578035f08d25c3d0e325b7bd7325c9f235460b",
+      "bytes": 21093
+    },
+    {
+      "name": "importing-raw-data.html",
+      "original_name": "importing-raw-data.html",
+      "sha256": "e31990fbee75037176e1e585d4faac7a22052d3fa3f36e1251d7c14f865d1cea",
+      "bytes": 35015
+    },
+    {
+      "name": "cleaning-data.html",
+      "original_name": "cleaning-data.html",
+      "sha256": "0c83d90cdac474326a949fee94a329d5119330643a3f1b20c648d9e326c00387",
+      "bytes": 252997
+    },
+    {
+      "name": "trends-in-expenditure-items.html",
+      "original_name": "trends-in-expenditure-items.html",
+      "sha256": "6f059c690e5630b249d49062b03f91b3f82c472c2eb8341d6a5a185d394c92ec",
+      "bytes": 36068
+    },
+    {
+      "name": "trends-of-household-level-data.html",
+      "original_name": "trends-of-household-level-data.html",
+      "sha256": "f71612e9c9ab781f1057be5a3227e0cd1b7ea123c85683e4adc467ed53a35503",
+      "bytes": 119085
+    },
+    {
+      "name": "trends-in-individual-level-data.html",
+      "original_name": "trends-in-individual-level-data.html",
+      "sha256": "d849ace5961b72a2c86e9be1d810cc765ba0060666cd0391c39015cc95151b54",
+      "bytes": 77589
+    },
+    {
+      "name": "some-applications-of-household-level-data.html",
+      "original_name": "some-applications-of-household-level-data.html",
+      "sha256": "81b2e4f942e7c7f827ffec79a5ec362c0da744ae45069bf3b0c8eca561d190bc",
+      "bytes": 35748
+    },
+    {
+      "name": "reference-keys.txt",
+      "original_name": "reference-keys.txt",
+      "sha256": "f4b6d418cc03e7b19baa1d63f2f73d3ab1972a47c106569ea4e19503951a15fe",
+      "bytes": 966
+    },
+    {
+      "name": "style.css",
+      "original_name": "style.css",
+      "sha256": "785082905b910ed2aff3ec5c82e030a7e0cc952e61e3d39ced0edb5788a63d0f",
+      "bytes": 172
+    },
+    {
+      "name": "search_index.json",
+      "original_name": "search_index.json",
+      "sha256": "81ced890ed40bc2a251961b6268ecfd928e91a4874b6e187b5e8ba7706decddb",
+      "bytes": 1830
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "documentation describes HEIS survey years 1969(1348 SH, rural start)/1963(1342 SH, urban start)-2021(1400 SH); example trend tables/charts in chapters 5-7 span roughly 1996-2021 depending on series",
+  "frequency": "static reference documentation (not a periodic release)",
+  "topics": [
+    "heis",
+    "household-survey",
+    "microdata-documentation",
+    "codebook",
+    "methodology",
+    "expenditure",
+    "income",
+    "coicop",
+    "poverty",
+    "gas-price-reform"
+  ],
+  "units": "n/a (documentation); embedded tables use rial and share/percent as noted per chapter",
+  "license_terms": "CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike), per site footer",
+  "notes": "This is a full bookdown-rendered guide (9 HTML chapter pages + index) to SCI's HEIS survey: sample design, rotating panel structure, four-part questionnaire (member characteristics, household facilities, expenditure, income), R code and step-by-step methodology for importing raw MS Access files and cleaning them into item/individual/household-level datasets, PLUS substantive results chapters with embedded data tables and charts: 'Trends in expenditure items' (COICOP group shares, per-capita expenditure by region), 'Trends of household-level data' (9 embedded HTML tables + 2 charts -- verified via regex scan), 'Trends in individual-level data', and 'Some applications' (poverty impact of the November 2019 gas price reform). Satisfies task 2a (codebook/methodology, no registration required) AND substantially task 2b (published aggregate/trend tables derived from IHEIS microdata, not requiring the raw microdata itself) in a single coherent source, so no separate academic-paper appendices were pursued given cost/time budget for this pass. Companion repo github.com/IPRCIRI/IRHEIS (R processing code, not fetched here -- code only, no data/documentation beyond what this site already covers) and github.com/m-hoseini/HEIS (GitHub Pages source repo for this exact site, confirms authorship/currency) checked but not separately downloaded to avoid duplication. Does NOT include the raw IHEIS microdata itself -- see data/raw/iheis-microdata-metadata/access-instructions.md for how to obtain that via SCI registration.",
+  "failures": []
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_id": "imf-article-iv-iran-consultation-history-2002-2025",
+  "title": "IMF Article IV Consultation History with Iran, 2002-2025 (dates + headline findings)",
+  "source_org": "International Monetary Fund (official press releases, public information notices, mission concluding statements)",
+  "source_url": "https://www.imf.org/en/countries/irn",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:07:37Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "Narrative/policy-history extraction pattern: each row cites its own IMF press release / public information notice / mission statement, found via WebSearch (direct WebFetch of imf.org pages returned HTTP 403 for every URL tried this round -- imf.org appears to block automated fetch, consistent with other Iran-adjacent institutional sites blocking curl/WebFetch elsewhere in this project). Existing project coverage note: SOURCES.md already lists 'IMF Article IV (Iran 2015, 2018 + comparators)' as policy-narrative snapshots under data/raw/policy-docs or similar -- this dataset is a NEW, broader addition specifically indexing the full CONSULTATION SCHEDULE (which years happened, which didn't, exact dates) across 2002-2025, not just 2 country reports.",
+  "files": [
+    {"name": "imf_article_iv_iran_consultation_history.csv", "original_name": null, "sha256": "a622f3cb72a03efa8e8ca1955733aaaed2be8301f7f2599553a4cdd4a7a24c2c", "bytes": 4824}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2002-2025, non-continuous (8 completed consultations + 1 documented multi-year gap + 1 informal-briefing event)",
+  "frequency": "irregular (nominally annual per IMF Article IV obligations, but Iran's actual cadence has been irregular for decades)",
+  "topics": ["IMF", "Article IV", "international economic institutions", "policy history", "sanctions"],
+  "units": "n/a (qualitative milestones; some rows carry macro figures like inflation % or GDP growth characterization as reported in the original press release)",
+  "license_terms": "Compiled from public IMF press releases; each row individually cited",
+  "notes": "Genuine finding worth flagging for the timeline layer: Iran's Article IV cycle has NOT been completed since 2018 -- a 7-year (and counting, as of this round's mid-2026 research) gap, with only an informal March 2025 Board briefing (grouped with Afghanistan/Sudan/Syria/Tunisia/Yemen -- IMF's standard 'delayed consultation' cohort) in between. This gap itself is a citable data point about Iran's institutional relationship with the IMF, directly answering the user brief's request for 'IMF Article IV consultation history (dates + headline findings)'. Years NOT found this round despite searching (2000, 2001, 2003, 2005, 2007-2010, 2012-2013, 2017): may exist as IMF Country Reports but did not surface in WebSearch snippets within this session's search budget -- a future continuation pass fetching the IMF eLibrary's Iran country-report index directly (elibrary.imf.org, also 403-blocked to WebFetch this round) could plausibly fill these gaps. 2018 conclusion date reported inconsistently across secondary sources (21/22/29 March) -- recorded as found, not resolved to a single day, per project's contested-figure convention.",
+  "failures": [
+    {"attempted": "Direct WebFetch of imf.org/en/countries/irn and multiple imf.org press-release URLs", "outcome": "HTTP 403 on every attempt this round", "note": "worked around via WebSearch snippet synthesis instead; a browser-tool-based recovery (as used for iranicaonline.org elsewhere in this project) was not attempted this round due to time budget -- flagged as a possible future improvement"},
+    {"attempted": "elibrary.imf.org search page for a comprehensive Iran Article IV report list", "outcome": "HTTP 403", "note": "same imf.org-domain block"}
+  ],
+  "bookkeeping_fix": "Post-write CSV validation found 4 rows with unquoted commas inside date-detail or source_name cells breaking column alignment. Fixed by quoting those cells (data unchanged). sha256/bytes above reflect the corrected file."
+}

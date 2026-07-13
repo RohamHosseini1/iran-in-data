@@ -1,0 +1,25 @@
+{
+  "dataset_id": "iran-open-data-car-ownership-article",
+  "title": "Iran Open Data — \"Half of Iranian Households Don't Own a Car, Stats Show\" (article, Dec 2022)",
+  "source_org": "Iran Open Data (IOD)",
+  "source_url": "https://iranopendata.org/en/article/half-of-iranian-households-don-t-own-a-car-stats-show/",
+  "download_url": "https://iranopendata.org/en/article/half-of-iranian-households-don-t-own-a-car-stats-show/",
+  "retrieved_at_utc": "2026-07-12T18:20:57Z",
+  "retrieved_by": "agent:iran-car-ownership",
+  "files": [
+    {
+      "name": "half-of-iranian-households-dont-own-a-car.md",
+      "original_name": null,
+      "sha256": "9e339f7ad0171f30a4b5dc135998ddc835be53f8abc0c5b390b9425602320e31",
+      "bytes": 3278
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2020 (household car ownership data), published Dec 2022",
+  "frequency": "one-off article",
+  "topics": ["transportation", "vehicles", "car-ownership", "household-survey", "urban-rural"],
+  "units": "percent (household ownership rates), count (vehicles, households)",
+  "license_terms": "Iran Open Data editorial article; free-preview portion only (site paywalls remainder). Underlying primary data credited by article to Statistical Centre of Iran (SCI) 2020 Household Income/Expenditure Report and Iranian Police vehicle registration data.",
+  "notes": "Hand-written markdown note transcribing the free-preview portion of the IOD article verbatim (article cuts off mid-paragraph at IOD's subscription paywall: 'Examining household income …'). All figures traced to SCI as the primary source per the article's own attribution. No data fabricated beyond what is quoted on the page.",
+  "failures": []
+}

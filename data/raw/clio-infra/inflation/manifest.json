@@ -1,0 +1,25 @@
+{
+  "dataset_id": "clio-infra-inflation",
+  "title": "Clio Infra Inflation Rates (Compact)",
+  "source_org": "Clio Infra",
+  "source_url": "https://clio-infra.eu/Indicators/Inflation.html",
+  "download_url": "https://clio-infra.eu/data/Inflation_Compact.xlsx",
+  "retrieved_at_utc": "2026-07-12T20:10:00Z",
+  "retrieved_by": "agent:clio-maddison-mopup",
+  "files": [
+    {
+      "name": "Inflation_Compact.xlsx",
+      "original_name": null,
+      "sha256": "2925d74474d47cfa04e4e76115d643a92d6fa6753453c7c07a29a5420817e454",
+      "bytes": 743713
+    }
+  ],
+  "countries": ["IRN", "KOR", "TUR", "SAU", "VEN", "USA", "RUS", "ESP", "PRT", "GRC", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1500–2010",
+  "frequency": "annual",
+  "topics": ["inflation", "prices"],
+  "units": "annual percentage change",
+  "license_terms": "Clio Infra (see https://clio-infra.eu/)",
+  "notes": "Compact version contains only countries with available data. Downloaded via https://clio-infra.eu/",
+  "failures": []
+}

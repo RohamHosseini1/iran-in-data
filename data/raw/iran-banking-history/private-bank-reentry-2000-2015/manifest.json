@@ -1,0 +1,20 @@
+{
+  "dataset_id": "iran-private-bank-reentry-2000-2015",
+  "title": "Iran Post-2001 Private Bank Re-emergence -- Compiled Entry Dates",
+  "source_org": "Compiled by this project from multiple secondary sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+  "source_url": "https://iran1400.org/content/from-imperial-bank-to-bank-e-ghavamin-a-short-history-of-banking-in-iran/ ; https://en.wikipedia.org/wiki/Parsian_Bank ; https://en.wikipedia.org/wiki/Pasargad_Bank ; https://en.wikipedia.org/wiki/EN_Bank ; https://en.wikipedia.org/wiki/Karafarin_Bank ; https://en.wikipedia.org/wiki/Sarmayeh_Bank ; https://en.wikipedia.org/wiki/Ayandeh_Bank ; https://www.iranwatch.org/iranian-entities/saman-bank ; https://www.aljazeera.com/news/2025/10/27/corruption-mismanagement-in-spotlight-as-iran-dissolves-major-private-bank",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:32Z",
+  "retrieved_by": "claude (hand-compiled from cross-checked secondary sources, each row individually cited in the source column)",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "4c5f7663c1db2ff060b565c7dc657b3c16cee09d34b538b313b1f1453c8c0643", "bytes": 3118}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2000-2025 (establishment dates 2000-2013; includes the 2025 dissolution of Ayandeh Bank as a closing bookend)",
+  "frequency": "event log",
+  "topics": ["banking", "private-banks", "bank-privatization", "islamic-republic-era"],
+  "units": "n/a (event log with per-row source citations)",
+  "license_terms": "compiled from multiple sources cited per-row",
+  "notes": "Directly addresses the mission's 'post-2001 re-emergence of private banks with entry dates' ask. Confirmed exact dates for EN Bank/Eqtesad Novin (2000, Iran's first post-revolution private bank), Karafarin (2001), Parsian (incorporated Sept 2001, operations Jan 2002), Saman (full license Aug 2002), Pasargad (fifth private bank, license dated 13 Sept 2005), Sarmayeh (2005), Tat (2009) and its 2013 merger into Ayandeh Bank (which itself got its own CBI license 17 March 2015 and was then DISSOLVED 23 Oct 2025 in a corruption/mismanagement scandal, merged into Bank Melli -- a genuinely current, still-unfolding data point worth having in the database). GENUINE GAP, flagged not fabricated: exact founding years for Sina, Dey, and Shahr banks (all confirmed operating by 2011 per Iran1400.org's 'seven additional banks by 2011' framing, but no source checked gave their individual founding years), and the identities of the 'eight new private banks' Iran1400.org says were established in 2011 specifically -- flagged as an open lead for a future continuation pass rather than guessed at.",
+  "failures": []
+}

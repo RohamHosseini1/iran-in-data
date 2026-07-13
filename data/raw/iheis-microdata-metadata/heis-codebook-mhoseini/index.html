@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Iran Household Expenditure and Income Surveys</title>
+  <meta name="description" content="Iran Household Expenditure and Income Surveys: Introduction and data cleaning" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Iran Household Expenditure and Income Surveys" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Iran Household Expenditure and Income Surveys: Introduction and data cleaning" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Iran Household Expenditure and Income Surveys" />
+  
+  <meta name="twitter:description" content="Iran Household Expenditure and Income Surveys: Introduction and data cleaning" />
+  
+
+<meta name="author" content="Mohammad Hoseini" />
+
+
+<meta name="date" content="2021-12-27" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="introduction.html"/>
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Iran HEIS surveys</a></li>
+
+<li class="divider"></li>
+<li><a href="index.html#section"></a>
+<ul>
+<li><a href="index.html#section-1"></a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#sample-design"><i class="fa fa-check"></i><b>1.1</b> Sample design</a>
+<ul>
+<li class="chapter" data-level="1.1.1" data-path="introduction.html"><a href="introduction.html#rotating-panel-feature"><i class="fa fa-check"></i><b>1.1.1</b> Rotating panel feature</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="introduction.html"><a href="introduction.html#different-rounds"><i class="fa fa-check"></i><b>1.2</b> Different rounds</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="questionnaire-details.html"><a href="questionnaire-details.html"><i class="fa fa-check"></i><b>2</b> Questionnaire details</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-1---member-characteristics"><i class="fa fa-check"></i><b>2.1</b> Part 1 - Member Characteristics</a></li>
+<li class="chapter" data-level="2.2" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-2---household-facilities"><i class="fa fa-check"></i><b>2.2</b> Part 2 - Household Facilities</a></li>
+<li class="chapter" data-level="2.3" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-3---expenditure"><i class="fa fa-check"></i><b>2.3</b> Part 3 - Expenditure</a></li>
+<li class="chapter" data-level="2.4" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-4-income"><i class="fa fa-check"></i><b>2.4</b> Part 4: Income</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="importing-raw-data.html"><a href="importing-raw-data.html"><i class="fa fa-check"></i><b>3</b> Importing raw data</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-access-files-to-r"><i class="fa fa-check"></i><b>3.1</b> Importing access files to R</a></li>
+<li class="chapter" data-level="3.2" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-code-for-all-years"><i class="fa fa-check"></i><b>3.2</b> Importing code for all years</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="cleaning-data.html"><a href="cleaning-data.html"><i class="fa fa-check"></i><b>4</b> Cleaning data</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#importing-raw-data-and-sampling-information"><i class="fa fa-check"></i><b>4.1</b> Importing raw data and sampling information</a></li>
+<li class="chapter" data-level="4.2" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-1"><i class="fa fa-check"></i><b>4.2</b> Cleaning Part 1</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="cleaning-data.html"><a href="cleaning-data.html#education-code"><i class="fa fa-check"></i><b>4.2.1</b> Education code</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-2"><i class="fa fa-check"></i><b>4.3</b> Cleaning Part 2</a></li>
+<li class="chapter" data-level="4.4" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-3"><i class="fa fa-check"></i><b>4.4</b> Cleaning Part 3</a>
+<ul>
+<li class="chapter" data-level="4.4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#price-index-and-real-expenditure"><i class="fa fa-check"></i><b>4.4.1</b> Price index and real expenditure</a></li>
+</ul></li>
+<li class="chapter" data-level="4.5" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-4"><i class="fa fa-check"></i><b>4.5</b> Cleaning Part 4</a></li>
+<li class="chapter" data-level="4.6" data-path="cleaning-data.html"><a href="cleaning-data.html#building-item-level-data"><i class="fa fa-check"></i><b>4.6</b> Building item-level data</a></li>
+<li class="chapter" data-level="4.7" data-path="cleaning-data.html"><a href="cleaning-data.html#building-individual-level-data"><i class="fa fa-check"></i><b>4.7</b> Building individual-level data</a></li>
+<li class="chapter" data-level="4.8" data-path="cleaning-data.html"><a href="cleaning-data.html#building-household-level-data-summary-files"><i class="fa fa-check"></i><b>4.8</b> Building Household-level data (summary files)</a>
+<ul>
+<li class="chapter" data-level="4.8.1" data-path="cleaning-data.html"><a href="cleaning-data.html#exporting-to-other-formats."><i class="fa fa-check"></i><b>4.8.1</b> Exporting to other formats.</a></li>
+</ul></li>
+<li class="chapter" data-level="4.9" data-path="cleaning-data.html"><a href="cleaning-data.html#special-issues-for-different-years"><i class="fa fa-check"></i><b>4.9</b> Special issues for different years</a>
+<ul>
+<li class="chapter" data-level="4.9.1" data-path="cleaning-data.html"><a href="cleaning-data.html#the-structure-of-address-variable"><i class="fa fa-check"></i><b>4.9.1</b> The structure of Address variable</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html"><i class="fa fa-check"></i><b>5</b> Trends in expenditure items</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#total-expenditure-across-coicop-groups"><i class="fa fa-check"></i><b>5.1</b> Total expenditure across COICOP groups</a></li>
+<li class="chapter" data-level="5.2" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#expenditure-shares-of-coicop-groups"><i class="fa fa-check"></i><b>5.2</b> Expenditure shares of COICOP groups</a></li>
+<li class="chapter" data-level="5.3" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#percapita-expenditure-across-coicop-groups-and-regions"><i class="fa fa-check"></i><b>5.3</b> Percapita expenditure across COICOP groups and regions</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="trends-of-household-level-data.html"><a href="trends-of-household-level-data.html"><i class="fa fa-check"></i><b>6</b> Trends of household-level data</a></li>
+<li class="chapter" data-level="7" data-path="trends-in-individual-level-data.html"><a href="trends-in-individual-level-data.html"><i class="fa fa-check"></i><b>7</b> Trends in individual-level data</a></li>
+<li class="chapter" data-level="8" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html"><i class="fa fa-check"></i><b>8</b> Some applications of household-level data</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html#finding-the-trend-of-a-specific-expenditure-item"><i class="fa fa-check"></i><b>8.1</b> Finding the trend of a specific expenditure item</a></li>
+<li class="chapter" data-level="8.2" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html#finding-the-trend-of-percent-of-households-with-a-nonzero-expenditure-for-a-specific-items"><i class="fa fa-check"></i><b>8.2</b> Finding the trend of percent of households with a nonzero expenditure for a specific items</a></li>
+<li class="chapter" data-level="8.3" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html#gas-price-reform-in-november-2019-in-iran-and-poverty"><i class="fa fa-check"></i><b>8.3</b> Gas price reform in November 2019 in Iran and poverty</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank"> </a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Iran Household Expenditure and Income Surveys</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Iran Household Expenditure and Income Surveys</h1>
+<h2 class="subtitle"><em>Introduction and data cleaning</em></h2>
+<p class="author"><em>Mohammad Hoseini</em></p>
+<p class="date"><em>2021-12-27</em></p>
+</div>
+<div id="section" class="section level1 unnumbered">
+<h1 class="unnumbered"></h1>
+<p><img src="figures/titlephoto.jpg" /></p>
+<p>This document is free to read here and licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. If you are using any material of this document, please cite it as</p>
+<ul>
+<li><em>Hoseini, Mohammad. (2021) “Iran Household Expenditure and Income Surveys: Introduction and data cleaning”</em> <a href="https://m-hoseini.github.io/HEIS" class="uri">https://m-hoseini.github.io/HEIS</a></li>
+</ul>
+<p>If you find any typo, error, or have suggestions to improve this document, please contact me via <a href="mailto:mo.hoseini@imps.ac.ir" class="email">mo.hoseini@imps.ac.ir</a>.</p>
+<p>This project is coded in <em>R</em> in Windows 10 environment. The user can utilize various online resources available for learning <em>R</em>. A good book for beginners is available here <a href="https://r4ds.had.co.nz/" class="uri">https://r4ds.had.co.nz/</a>. The codes heavily used the popular collection of <em>R</em> packages called “tidyverse” (<a href="https://www.tidyverse.org/" class="uri">https://www.tidyverse.org/</a>), and its knowledge is essential to understand the codes.</p>
+<p>This document is made by <em>R bookdown</em>. Although the knowledge of that is not necessary to learn the codes, interested users can find information about it here: <a href="https://bookdown.org/yihui/bookdown/" class="uri">https://bookdown.org/yihui/bookdown/</a></p>
+<div id="section-1" class="section level2 unnumbered">
+<h2 class="unnumbered"></h2>
+<p><strong>Acknowledgement</strong></p>
+<p>Special thanks to Mahdi Babaloo and Avenia Ghazarian for their excellent research assistance.</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+<a href="introduction.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/index.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["HEIS.pdf", "HEIS.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

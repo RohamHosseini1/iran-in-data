@@ -1,0 +1,21 @@
+{
+  "dataset_id": "ine-spain-cpi-historical",
+  "title": "INE Spain — Consumer Price Index (CPI), national general index level and monthly/annual variation, series since January 1961",
+  "source_org": "Instituto Nacional de Estadística (INE), Spain",
+  "source_url": "https://www.ine.es/jaxiT3/Tabla.htm?t=24077",
+  "download_url": "https://www.ine.es/jaxiT3/files/t/en/csv_bd/24077.csv?nocab=1",
+  "retrieved_at_utc": "2026-07-12T18:12:19Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "ine_24075_cpi_variation_since_1961.csv", "original_name": "24075.csv", "sha256": "ac573df95ada819f564b90cc6f9df33a3b9df3ad48951a61986cbdf37ad62856", "bytes": 95665},
+    {"name": "ine_24077_cpi_index_since_1961.csv", "original_name": "24077.csv", "sha256": "092d42a4222e042a04fb7019bb388689bb8baed8e7a9b6ef65618c46021371c2", "bytes": 26352}
+  ],
+  "countries": ["ESP"],
+  "time_coverage": "1961-01 to 2026-06 (index level table has NaN/empty cells for months not applicable to a given base)",
+  "frequency": "monthly",
+  "topics": ["prices", "cpi", "inflation"],
+  "units": "Index (base varies by vintage) and % variation, described in INE metadata",
+  "license_terms": "INE public statistics, free reuse with attribution",
+  "notes": "Downloaded via INE JaxiT3 CSV bulk-download endpoint (https://www.ine.es/jaxiT3/files/t/en/csv_bd/<table_id>.csv?nocab=1), English column headers. 24075 = monthly/annual % variation rate of national general CPI index since 1961; 24077 = national general CPI index level since 1961. Empty string cells (\"\") represent no-data points in INE's export.",
+  "failures": []
+}

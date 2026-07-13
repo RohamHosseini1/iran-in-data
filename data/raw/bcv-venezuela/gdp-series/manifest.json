@@ -1,0 +1,20 @@
+{
+  "dataset_id": "bcv-gdp-series",
+  "title": "BCV Venezuela — GDP by Institutional Sector, Constant Prices (Base 2007), Annual",
+  "source_org": "Banco Central de Venezuela (BCV)",
+  "source_url": "https://www.bcv.org.ve/estadisticas/producto-interno-bruto",
+  "download_url": "https://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_1_si_anual.xlsx",
+  "retrieved_at_utc": "2026-07-12T18:58:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "5_2_1_si_anual.xlsx", "original_name": null, "sha256": "bba8e70a1900acc55b4788c6ed97d51eea1cfaef7edbe32eae0ae609d34fc09a", "bytes": 14895}
+  ],
+  "countries": ["VEN"],
+  "time_coverage": "annual series, per file (Base 2007 constant prices)",
+  "frequency": "annual",
+  "topics": ["GDP", "national accounts"],
+  "units": "constant prices (Base 2007), described in file",
+  "license_terms": "BCV public statistics",
+  "notes": "Direct download worked on first attempt, no flakiness/Wayback fallback needed this session. Page /estadisticas/producto-interno-bruto also links quarterly and Base-1997 vintage files (5_2_1_trim, 5_2_1_anual [Base1997], 5_2_4_* by economic activity, 7_1_7/7_1_14) not downloaded here — this 'por sector institucional, Base 2007, annual' file was judged the flagship current-standard national GDP series.",
+  "failures": []
+}

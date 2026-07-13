@@ -1,0 +1,25 @@
+{
+  "dataset_id": "ilostat-mean-nominal-wages",
+  "title": "ILOSTAT Average Monthly Earnings of Employees by Sex (local currency, nominal)",
+  "source_org": "International Labour Organization (ILOSTAT)",
+  "source_url": "https://ilostat.ilo.org/data/",
+  "download_url": "https://rplumber.ilo.org/data/indicator/?id=EAR_EMTA_SEX_NB_A&format=.csv",
+  "retrieved_at_utc": "2026-07-12T18:16:30Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "EAR_EMTA_SEX_NB_A.csv",
+      "original_name": null,
+      "sha256": "8ca47055d193ccc8c418f9be25e8f9d8aaacf96cf2d901637ff1c9349631e2ea",
+      "bytes": 421289
+    }
+  ],
+  "countries": ["ALL (world); IRN NOT present in this indicator (0 rows) — Iran does not appear to report this series to ILO; KOR/TUR/SAU/VEN/USA/DEU/FRA/GBR/ITA/NLD/ESP/PRT/GRC coverage varies, check file"],
+  "time_coverage": "1969-2026 (coverage varies by country)",
+  "frequency": "annual",
+  "topics": ["labour", "wages", "earnings", "nominal wages"],
+  "units": "local currency units per month (nominal)",
+  "license_terms": "ILOSTAT — CC BY 4.0",
+  "notes": "Full-world indicator CSV pulled from ILOSTAT's public rplumber REST API (no API key required). Indicator EAR_EMTA_SEX_NB_A = average monthly earnings of employees by sex, nominal local currency. Iran has no data in this particular series; check other EAR_* indicators (e.g. EAR_EHRA hourly earnings) if IRN wage data is specifically needed later.",
+  "failures": []
+}

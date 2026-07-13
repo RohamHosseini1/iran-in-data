@@ -1,0 +1,25 @@
+{
+  "dataset_id": "iran-iraq-economic-balance-1986",
+  "title": "Iran-Iraq: The Economic Balance",
+  "source_org": "Central Intelligence Agency (CIA), Directorate of Intelligence, Office of Near Eastern and South Asian Analysis (NESA)",
+  "source_url": "https://www.cia.gov/readingroom/document/cia-rdp86t01017r000302500001-0",
+  "download_url": "https://www.cia.gov/readingroom/docs/CIA-RDP86T01017R000302500001-0.pdf",
+  "retrieved_at_utc": "2026-07-12T18:35:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "CIA-RDP86T01017R000302500001-0.pdf",
+      "original_name": null,
+      "sha256": "5cc77aa001e36f79df85646647caf35580fdf108013527112b78f1dd2e27b513",
+      "bytes": 407126
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1986 (Iran-Iraq War economic assessment)",
+  "frequency": "one-off intelligence memo",
+  "topics": ["cia", "economy", "iran-iraq-war", "declassified", "nesa"],
+  "units": "narrative economic assessment",
+  "license_terms": "US government work, public domain; sanitized/declassified FOIA release",
+  "notes": "CREST General CIA Records. NESA M 86-20082, 6 June 1986. Sanitized Copy Approved for Release 2011/03/22. Original Classification: Secret. Document Page Count: 7. Summary: 'Iran and Iraq face severe economic hardships in the months ahead.' Distributed to State/NSC/DoD/DIA/Commerce/Energy/Treasury recipients. Retrieved via browser in-page fetch()->base64->local decode (see NIS-33 manifest for background).",
+  "failures": []
+}

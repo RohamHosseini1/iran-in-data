@@ -1,0 +1,25 @@
+{
+  "dataset_id": "iran-cites-caviar-quota-trade-timeline-1998-2006",
+  "title": "CITES/Caviar Export Quota & Trade Timeline for Iran, 1998-2006 (retry of Round 35's single-year finding)",
+  "source_org": "Multiple (CITES Secretariat via UN press mirrors, CITES Animals Committee documents, academic literature) -- citation-preserving compilation",
+  "source_url": "https://press.un.org/en/2003/eco36.doc.htm ; https://cites.org/sites/default/files/eng/com/ac/16/16-7-2a3.pdf ; https://caspianmonarque.com/caviar-from-iran/",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:19:47Z",
+  "retrieved_by": "agent:wildcard-hunt-round38",
+  "extraction_method": "Narrative/policy-history extraction pattern. This is the explicit RETRY requested in this round's brief ('CITES sturgeon quota archive -- try the CITES trade database trade.cites.org directly rather than the CAPTCHA-gated main site'). RESULT: cites.org (the main site, hosting the actual quota-decision pages under /eng/resources/quotas/) is STILL Cloudflare-blocked -- confirmed freshly this round via both WebFetch (403) and direct curl with a real browser User-Agent (curl received the literal Cloudflare 'Just a moment...' JS-challenge page, not just a generic 403). HOWEVER: trade.cites.org (the actual TRADE DATABASE subdomain, distinct from the main cites.org site) is NOT Cloudflare-blocked -- curl and WebFetch both reached it successfully (HTTP 200), and it exposes a working JSON REST API at trade.cites.org/api/v1/taxon_concepts. This is a genuine partial breakthrough: the API endpoint responds with real taxonomic JSON data, but the query-filter parameter (`query=`, `term=`, `q=`, `name=`, `search=` were all tried) did not appear to filter results in this session -- it returned an identical unfiltered alphabetical listing regardless of parameter, suggesting either a different (undocumented) parameter name, a required auth token, or a POST-only filtering mechanism not accessible via simple GET. This API access path is flagged for a FUTURE continuation session to properly reverse-engineer (e.g. via browser dev-tools network-tab inspection of the live search form, not attempted this round due to the Claude Browser tab pool being at capacity with other concurrent agents). In the meantime, this dataset was compiled via WebSearch synthesis of secondary/tertiary sources reporting real CITES-sourced figures.",
+  "files": [
+    {"name": "cites_caviar_quota_trade_timeline_1998_2006.csv", "original_name": null, "sha256": "b96f033b7f058bda2e8a72f1f41ea08c6195908bcb66ce6d2027a16b768be70d", "bytes": 5220}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1998-2006, non-continuous (mix of Iran-specific and Caspian-wide/global figures, clearly labeled per row in the 'scope' column)",
+  "frequency": "irregular",
+  "topics": ["caviar", "sturgeon", "CITES", "fisheries", "trade quotas", "policy history"],
+  "units": "kg (quota/export quantities); qualitative rows have no unit",
+  "license_terms": "Compiled from public web sources; each row individually cited",
+  "notes": "Real improvement over Round 35's single 2006-only data point: now includes 1998 baseline (40t Iran), 1998-2004 cumulative (480t+, largest exporter globally), the pivotal June 2001 Paris Agreement policy event (Iran EXEMPTED from a caviar-trade suspension imposed on Azerbaijan/Kazakhstan/Turkmenistan/Russia -- making Iran the dominant legal exporter for a period), Caspian-wide (not Iran-only, clearly flagged) quota totals for 2001/2002/2003, the global Acipenseriformes quota decline from >250t (1999) to 110t (2005), and the previously-found 2006 Iran-specific 44,370kg quota reproduced for continuity. Genuine remaining gap: a clean Iran-ONLY quota breakdown for 2001-2005 (as opposed to Caspian-wide totals) was not found despite the CITES press-release trail being followed as far as freely accessible sources allow -- the underlying CITES Notification to the Parties documents (which DO contain the per-country breakdown) are hosted on the Cloudflare-blocked cites.org main domain.",
+  "failures": [
+    {"attempted": "cites.org/eng/resources/quotas/sturgeon_intro.shtml and year-specific quota pages, both WebFetch and direct curl with browser User-Agent", "outcome": "HTTP 403 / Cloudflare 'Just a moment...' JS challenge page, confirmed NOT a simple bot-UA block", "note": "consistent with Round 35's finding; per safety rules, NOT bypassed"},
+    {"attempted": "trade.cites.org/api/v1/taxon_concepts with various query-filter parameter names", "outcome": "endpoint responds (HTTP 200, real JSON) but filtering did not work with any parameter name tried", "note": "genuine partial breakthrough (a non-blocked CITES subdomain with a real API) flagged for future continuation with browser network-tab inspection"}
+  ],
+  "bookkeeping_fix": "Post-write CSV validation found unquoted commas inside several description/source_name cells breaking column alignment on 6 of 10 data rows. Regenerated via csv.writer with QUOTE_MINIMAL -- same data, correct quoting. sha256/bytes above reflect the corrected file."
+}

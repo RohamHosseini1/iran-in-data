@@ -1,0 +1,25 @@
+{
+  "dataset_id": "frus-iran-1973-76",
+  "title": "Foreign Relations of the United States, 1969-1976, Volume XXVII, Iran; Iraq, 1973-1976",
+  "source_org": "US Department of State, Office of the Historian",
+  "source_url": "https://history.state.gov/historicaldocuments/frus1969-76v27",
+  "download_url": "https://static.history.state.gov/frus/frus1969-76v27/pdf/frus1969-76v27.pdf",
+  "retrieved_at_utc": "2026-07-12T20:31:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "frus1969-76v27.pdf",
+      "original_name": null,
+      "sha256": "d86e9c4d704145e7545e53133c8b0a5e4ce5b5513d87e0148223be13ce0af0a6",
+      "bytes": 3672927
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1973-1976 (Iran documents; volume also covers Iraq)",
+  "frequency": "one-off compiled volume",
+  "topics": ["frus", "state-department", "declassified", "pahlavi-era", "oil-revenue", "nixon-ford", "covert-action"],
+  "units": "compiled diplomatic documents (narrative)",
+  "license_terms": "US government work, public domain",
+  "notes": "Editor: Monica L. Belmonte; General Editor: Edward C. Keefer; US GPO, Washington, 2012. Iran documents 1-202 (Jan 1973-Jan 1977): January-August 1973 (Docs 1-34); September 1973-November 1974 (Docs 35-90, post-oil-shock era); December 1974-November 1975 (Docs 91-149); December 1975-January 1977 (Docs 150-202). Iraq documents 203-325 follow. Includes a 'Note on U.S. Covert Actions'. This is the peak-oil-boom Pahlavi era (Shah's arms buildup and development spending funded by the 1973 oil price shock) -- directly complements the CIA 'Shah's Economy' 1974 memo already downloaded. Straightforward curl download, no bot-gating.",
+  "failures": []
+}

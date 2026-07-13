@@ -1,0 +1,23 @@
+{
+  "dataset_id": "iranica-aviation-history",
+  "title": "AVIATION — full history of Iranian civil aviation 1913-2007, incl. Iran Air founding and fleet/workforce growth",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation), article by Abbas Atrvash",
+  "source_url": "https://www.iranicaonline.org/articles/aviation-history/",
+  "download_url": "https://www.iranicaonline.org/articles/aviation-history/",
+  "retrieved_at_utc": "2026-07-13T01:00:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "aviation-history.txt", "original_name": null, "sha256": "a874b2bf8b7fea925de37ac2372900a1076b5f4f92c52dfa33d89533a9fd8af9", "bytes": 5608},
+    {"name": "aviation_events_and_fleet.csv", "original_name": null, "sha256": "08380c974cf5fbd4ed760ea6173838ed1b0fabf988ad00758a95b608a838b4de", "bytes": 1713}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1913-2007 (pre-Iran-Air era 1913-1962; Iran Air/HOMA state-airline era 1962-1979; post-revolution era 1979-2007)",
+  "frequency": "one-off reference article with embedded dated events and a few quantitative snapshots",
+  "topics": ["aviation", "iran-air", "civil-aviation", "pahlavi-era", "islamic-republic-early-years"],
+  "units": "described per-row in CSV; rials, persons, aircraft counts",
+  "license_terms": "Encyclopaedia Iranica — academic reference, cite author/article per their citation guidance",
+  "notes": "Directly addresses the aviation topic's pre-1970 WDI gap: covers Iran Air's February 1962 founding (170M rial startup capital, absorbing Iranian Airways + Persian Air Services), the predecessor private airlines back to 1944 (Iranian Airways) and even the 1927 Junkers airmail service and 1921-23 Air Force founding. Workforce grew from 700 (1962) to over 12,000 (by end of the 1962-1978 Khademi era). Fleet reached 35 all-jet aircraft (29 Boeing + 6 Airbus) carrying 'close to five million passengers a year' by approximately 1978 (exact year not stated in source, flagged as such in both .txt and .csv). Also documents the sharp post-1979 institutional decline (executive turnover, US sanctions crippling maintenance, the 1988 Flight 655 shootdown killing 290) -- a genuine 'before and after' aviation story parallel to the cinema and telecom findings elsewhere in this hunt. Retrieved via interactive browser tool (get_page_text) since iranicaonline.org blocks curl/WebFetch with Cloudflare (HTTP 403), consistent with every other retrieval from this domain in this database. Companion dataset encyclopedia-com-iranair-company-history/ (sibling folder) provides a denser year-by-year passenger/employee/revenue series that complements this article's narrative-embedded figures.",
+  "failures": [
+    {"url": "https://www.iranicaonline.org/articles/aviation-history/", "method": "curl (not separately attempted; domain confirmed Cloudflare-blocked repeatedly this session)", "result": "not attempted, known-blocked domain, used browser tool directly"}
+  ]
+}

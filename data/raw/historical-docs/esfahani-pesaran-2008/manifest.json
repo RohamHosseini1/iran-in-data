@@ -1,0 +1,31 @@
+{
+  "dataset_id": "esfahani-pesaran-2008",
+  "title": "Esfahani & Pesaran \u2014 The Iranian Economy in the Twentieth Century: A Global Perspective (2008 working paper)",
+  "source_org": "University of Cambridge (Faculty of Economics)",
+  "source_url": "https://files.econ.cam.ac.uk/people-files/mhp1/wp08/",
+  "download_url": "https://files.econ.cam.ac.uk/people-files/mhp1/wp08/EsfahaniandPesaran17March08(IranianEconomyinTwentiethCentury).pdf",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "EsfahaniandPesaran17March08(IranianEconomyinTwentiethCentury).pdf",
+      "original_name": null,
+      "sha256": "524e3930f048860b8c2d32f85d81e6dae89c395fae1028b4a08a4a190e7ec04c",
+      "bytes": 256629
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "1900-2008 (narrative + data)",
+  "frequency": "one-off working paper",
+  "topics": [
+    "history",
+    "macro",
+    "narrative"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "academic working paper, cite authors",
+  "notes": ""
+}

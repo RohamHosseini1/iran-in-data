@@ -1,0 +1,25 @@
+{
+  "dataset_id": "ifo-caviar-production-export-compiled",
+  "title": "Iran Fisheries Organization (Shilat) Official Caviar Production & Export Statistics, Compiled 2014-2025",
+  "source_org": "Iran Fisheries Organization (Sazman-e Shilat-e Iran, successor to the historic state fishing monopoly Shilat), as reported by Tehran Times, Financial Tribune, and Mehr News Agency",
+  "source_url": "https://www.tehrantimes.com/news/463245/Caviar-output-reaches-12-tons-in-a-year ; https://financialtribune.com/articles/domestic-economy/118925/caviar-production-hit-185-tons-exports-55-tons-in-fy-2022-23 ; https://en.mehrnews.com/news/234110/Iran-s-annual-production-of-caviar-rises-by-17",
+  "download_url": null,
+  "extraction_method": "MANUAL COMPILATION from web article text. Tehran Times and Mehr News articles fetched and read in full (WebFetch for Mehr News; Claude Browser tool for Tehran Times). Financial Tribune's full article body could not be retrieved (see failures) -- its data point is taken directly from its own headline/title text as surfaced in web search results, which itself states the two figures plainly ('Caviar Production Hit 18.5 Tons, Exports 5.5 Tons in FY 2022-23'); no inference or estimation was applied.",
+  "retrieved_by": "claude (compiled multi-source web research)",
+  "retrieved_at_utc": "2026-07-12T23:07:05Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "ac2c93b423e09534a7418278693fa8c9f3a3bd3a23ee234e2e841106672705c2", "bytes": 3187}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2013/14-2024/25 (Iranian fiscal years, non-continuous)",
+  "frequency": "annual, sparse (only years with a directly reported official figure)",
+  "topics": ["caviar", "sturgeon", "fisheries", "shilat", "exports", "state-fishing-company", "aquaculture"],
+  "units": "tonnes (caviar production and export volume are roe weight, distinct from the whole-fish aquaculture tonnage in the sibling eumofa dataset)",
+  "license_terms": "News-article content; used here for factual data-point citation with full source attribution per row.",
+  "notes": "Tehran Times rows are explicitly labeled STATE-MEDIA-ATTRIBUTED per docs/bookkeeping.md source-reliability rule 4; all figures in this file are direct quotes of named Iran Fisheries Organization officials (on-the-record, named individuals: Nabiollah Khoun-Mirzaei), not anonymous or propagandistic claims, and the trend (1t in 2013/14 -> 12t in 2021 -> 18.5t in 2022/23 -> 25.1t in 2024/25) is internally consistent and plausible given Iran's well-documented pivot from banned wild-catch sturgeon fishing to state-supported aquaculture/caviar farming after the 2014 Caspian littoral-state fishing ban. This dataset captures Iran's MODERN (post-collapse, farmed) caviar era; it does NOT cover the historic mid-20th-century wild-catch peak (when Iran held an estimated 60-70% global market share) or the CITES-regulated 1998-2007 wild-catch quota era, for which see the sibling dataset iran-caviar-exports/cites-caviar-export-quota-2006/ and this dataset's failures list.",
+  "failures": [
+    "Financial Tribune article body (financialtribune.com/articles/domestic-economy/118925/) returned only a 'Transferring to the website...' redirect stub via both WebFetch and the Claude Browser tool -- could not verify beyond the headline text captured in web search results.",
+    "No freely-accessible source found in this session giving a continuous year-by-year caviar production/export series for 1990-2013 (the wild-catch-to-collapse transition period) beyond the qualitative '60-70% global peak share, mid-20th century' claim, which lacks a specific year or tonnage and was therefore NOT included as a numeric row to avoid fabrication.",
+    "Could not access cites.org directly: the site presented a Cloudflare bot-verification CAPTCHA challenge, which per project safety rules was not attempted/bypassed. A single 2006 quota figure was instead obtained via a UN News summary of the same CITES announcement -- see sibling dataset cites-caviar-export-quota-2006/."
+  ]
+}

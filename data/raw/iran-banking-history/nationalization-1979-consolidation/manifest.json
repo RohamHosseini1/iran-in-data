@@ -1,0 +1,22 @@
+{
+  "dataset_id": "iran-banking-nationalization-1979-consolidation",
+  "title": "Iran 1979 Bank Nationalization and Consolidation -- Compiled Event Timeline",
+  "source_org": "Compiled by this project from multiple secondary/academic sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+  "source_url": "https://www.iranicaonline.org/articles/banking-in-iran/banking-i-history-of-banking-in-iran/ ; https://iran1400.org/content/from-imperial-bank-to-bank-e-ghavamin-a-short-history-of-banking-in-iran/ ; https://www.parstimes.com/business/history-of-banking-system.html ; https://en.wikipedia.org/wiki/Banking_and_insurance_in_Iran ; https://www.washingtonpost.com/archive/politics/1979/06/09/iran-announces-takeover-of-all-private-banks/5d0c16a1-da45-43bf-bf8a-91a5562bf6bb/",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:32Z",
+  "retrieved_by": "claude (hand-compiled from cross-checked secondary/academic sources, each row individually cited in the source column)",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "c97e61a95fe8cfc7194988072950241dbd7aee55eaca2b60188b2b58cf3a36ba", "bytes": 3733}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1979-1984",
+  "frequency": "event log",
+  "topics": ["banking", "bank-nationalization", "islamic-republic-era", "1979-revolution"],
+  "units": "n/a (event log with per-row source citations, per docs/bookkeeping.md rule 5 for curated/hand-compiled data)",
+  "license_terms": "compiled from multiple sources cited per-row",
+  "notes": "MINOR DATE DISCREPANCY FLAGGED, not silently resolved: the academic/primary source (Encyclopaedia Iranica, citing Bank Markazi's own 1980 Annual Report) dates the nationalization decree to 28 May 1979, while the contemporaneous Western press (Washington Post archive index) dates its 'Iran Announces Takeover' story to 9 June 1979 and iran1400.org states 8 June 1979 -- most likely explained by a ~10-12 day gap between the decree's issuance and international press coverage/effective implementation, but we did not resolve this to a single date; both are recorded with their sources so a future user can judge. The Washington Post archive article itself could NOT be fetched (Access Denied to both direct curl/WebFetch and the browser tool -- paywalled/bot-blocked), so only its dateline (visible in the search-result index) is cited, not its body text. Cross-checked bank-count/branch-count figures across three independent sources (Iranica, Wikipedia, Parstimes) -- all broadly consistent (36 banks pre-nationalization, consolidation to 9 banks by 1982) though exact branch-count figures vary slightly by source/year, which is expected for a chaotic transition period.",
+  "failures": [
+    {"url": "https://www.washingtonpost.com/archive/politics/1979/06/09/iran-announces-takeover-of-all-private-banks/5d0c16a1-da45-43bf-bf8a-91a5562bf6bb/", "reason": "HTTP 403 / Access Denied via both WebFetch and browser tool -- WaPo archive is paywalled/bot-blocked; only the dateline from the search-result snippet could be used, not article body text"}
+  ]
+}

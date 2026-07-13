@@ -1,0 +1,28 @@
+{
+  "dataset_id": "gastat-national-accounts",
+  "title": "GASTAT Saudi Arabia — Annual National Accounts Publication 2024 (GDP by economic activity)",
+  "source_org": "General Authority for Statistics (GASTAT), Saudi Arabia",
+  "source_url": "https://www.stats.gov.sa/statistics?index=119021&subindex=120034",
+  "download_url": "https://www.stats.gov.sa/documents/20117/2435267/Annual_National_Accounts_Publication_2024_EN.pdf_fixed_8631783/770f9e7b-444a-5d5e-5b75-f6825f2668d0?t=1761806939052",
+  "retrieved_at_utc": "2026-07-12T19:17:21Z",
+  "retrieved_by": "agent:gastat-yearbook-retry",
+  "files": [
+    {"name": "Annual_National_Accounts_Publication_2024_EN.pdf", "original_name": "Annual_National_Accounts_Publication_2024_EN.pdf_fixed_8631783", "sha256": "da7af1d8274e599dd6042f9611db210c325d760bdddddf77396b2a89a87fdd2f", "bytes": 279939},
+    {"name": "Annual_National_Accounts_Publication_2024_EN.xlsx", "original_name": "Annual_National_Accounts_Publication_2024-EN_(2).xlsx_fixed_10331477", "sha256": "917b25b10ad77cfe5e17640b6bfee34521c81e18c27deee4a1e78151c161de06", "bytes": 813829}
+  ],
+  "countries": ["SAU"],
+  "time_coverage": "annual national accounts, full-year 2024 (with historical comparison years in tables)",
+  "frequency": "annual",
+  "units": "SAR (current and constant prices), % growth rates — described in file",
+  "topics": ["GDP", "national accounts", "economic activity", "value added"],
+  "license_terms": "GASTAT public statistics",
+  "notes": "Original task target was GASTAT's Statistical Yearbook (last known edition: 53rd, for 2017, announced at https://www.stats.gov.sa/en/w/gastat-releases-the-53rd-edition-of-the-statistical-yearbook-2017- on 2018-05-16). That announcement page renders but contains no downloadable file link (news article only). The old Drupal-era catalog pages that indexed each yearbook edition (e.g. /en/193, /en/864, /en/node/153063 found via web search) all 404 on the current Liferay-based site — the site was fully rebuilt and old node paths were not redirected. Extensively searched the current site (main nav Statistics categories under Economic/Social/Environmental Statistics, sitewide search box, sitemap.xml, Google site: search) and found no 'Statistical Yearbook' entry anywhere in the current publication catalog; GASTAT appears to have discontinued the single consolidated Yearbook product (no edition found past 2017) in favor of per-topic annual/quarterly bulletins organized under statistics?index=X&subindex=Y category pages (same Liferay document-library pattern as the CPI series already in data/raw/gastat-saudi/cpi-series/). Per task instructions, substituted with GASTAT's National Accounts bulletin (Statistics > Economic Statistics > National Accounts Statistics > Gross Domestic Product Statistics), which is genuinely distinct content (GDP by economic activity, value added by sector) not covered by SAMA's monthly bulletin already in data/raw/sama-saudi/. Found via /statistics?index=119021&subindex=120034 -> expandable 'Annual National Accounts Publication 2024' entry with both PDF (2-page highlights) and XLSX (full data tables) Liferay document-library links.",
+  "failures": [
+    {"attempted": "https://www.stats.gov.sa/en/w/gastat-releases-the-53rd-edition-of-the-statistical-yearbook-2017-", "reason": "page renders (Liferay news article) but contains no download link for the Yearbook PDF itself, only narrative text about the 2017 edition"},
+    {"attempted": "https://www.stats.gov.sa/en/193", "reason": "HTTP 404 — old pre-redesign Drupal node path, not migrated to current Liferay site"},
+    {"attempted": "https://www.stats.gov.sa/en/864", "reason": "HTTP 404 — old pre-redesign Drupal node path (Statistical Yearbook 2016 edition per Google cache), not migrated"},
+    {"attempted": "https://www.stats.gov.sa/en/node/153063", "reason": "HTTP 404 — old pre-redesign Drupal node path (Statistical Yearbook per Google cache), not migrated"},
+    {"attempted": "sitewide search box on stats.gov.sa for 'Statistical Yearbook'", "reason": "search UI accepted the query but result list did not change from the unfiltered default (appears broken/non-functional for this query), no yearbook entry surfaced"},
+    {"attempted": "browsed all Economic/Social/Environmental Statistics category pages in main nav for a 'Statistical Yearbook' or general/comprehensive category", "reason": "no such category or publication exists in the current site's taxonomy; closest analog 'Comprehensive Economic Survey 2023' under Comprehensive Economic Statistics is a different, narrower establishment-survey product, not the multi-topic Yearbook"}
+  ]
+}

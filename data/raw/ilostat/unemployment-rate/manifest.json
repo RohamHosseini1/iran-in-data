@@ -1,0 +1,25 @@
+{
+  "dataset_id": "ilostat-unemployment-rate",
+  "title": "ILOSTAT Unemployment Rate by Sex and Age (annual, previous ILO definition ICLS13)",
+  "source_org": "International Labour Organization (ILOSTAT)",
+  "source_url": "https://ilostat.ilo.org/data/",
+  "download_url": "https://rplumber.ilo.org/data/indicator/?id=UNE_DEAP_SEX_AGE_RT_A&format=.csv",
+  "retrieved_at_utc": "2026-07-12T18:16:30Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "UNE_DEAP_SEX_AGE_RT_A.csv",
+      "original_name": null,
+      "sha256": "12e45708247364456e5eb3a2728c550f72c3fa576e1f86c85ad0ea93c5a9c7da",
+      "bytes": 30396755
+    }
+  ],
+  "countries": ["ALL (world); confirmed IRN present (1692 rows)"],
+  "time_coverage": "1947-2027 (coverage varies by country)",
+  "frequency": "annual",
+  "topics": ["labour", "unemployment", "employment"],
+  "units": "percent of labour force",
+  "license_terms": "ILOSTAT — CC BY 4.0",
+  "notes": "Full-world indicator CSV pulled from ILOSTAT's public rplumber REST API (no API key required) — this is the per-indicator bulk download referenced by ILOSTAT's data portal. Indicator UNE_DEAP_SEX_AGE_RT_A = unemployment rate by sex and age.",
+  "failures": []
+}

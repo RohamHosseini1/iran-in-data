@@ -1,0 +1,22 @@
+{
+  "dataset_id": "bpp-pricestats-methodology-reference",
+  "title": "The Billion Prices Project / PriceStats — methodology & reference notes (curated, not raw data)",
+  "source_org": "The Billion Prices Project (Alberto Cavallo / Roberto Rigobon); PriceStats (State Street)",
+  "source_url": "https://www.thebillionpricesproject.com",
+  "download_url": "n/a — hand-compiled reference note synthesized from https://www.thebillionpricesproject.com/ , https://www.thebillionpricesproject.com/datasets/ , https://www.centralbanking.com/awards/3346716/economics-in-central-banking-alberto-cavallo-and-roberto-rigobon-billion-prices-projectpricestats , https://www.aeaweb.org/articles?id=10.1257%2Fjep.30.2.151 , https://www.nber.org/system/files/working_papers/w22111/w22111.pdf",
+  "retrieved_at_utc": "2026-07-12T19:21:00Z",
+  "retrieved_by": "agent:argentina",
+  "files": [
+    {"name": "bpp-pricestats-reference.md", "original_name": null, "sha256": "39b71ac6a8215c9824ebd43397aed1281e185709dd418a55d80ad1efbae51e17", "bytes": 7746}
+  ],
+  "countries": ["ARG"],
+  "time_coverage": "narrative covers 2007-2026 (project founding through current commercial status)",
+  "frequency": "one-off curated reference compilation",
+  "topics": ["methodology", "inflation measurement", "independent data tracker", "INDEC scandal", "online prices"],
+  "units": "n/a — narrative/reference document",
+  "license_terms": "n/a — hand-compiled research note with inline source attribution; underlying sources retain their own copyright",
+  "notes": "Per task scope: 'this is mostly a methodology/reference site now (commercialized as PriceStats under State Street) — save the informational pages as reference notes (markdown with citations), don't expect a bulk data download.' No bulk dataset exists for current PriceStats data (institutional/commercial paywall). The historical academic BPP replication datasets that ARE public live on Harvard Dataverse and are cataloged (with URLs) inside the markdown note rather than downloaded here, since none are the Argentina-1943-2016 series specifically (that is covered separately under argentina-inflation-reconstruction/cavallo-bertolotto-inflation-1943-2016). /research/ sub-page returned HTTP 404 during this session.",
+  "failures": [
+    {"url": "https://www.thebillionpricesproject.com/research/", "http_status": 404, "note": "Page no longer live; not required since sufficient methodology material was found on the homepage and cross-referenced academic sources."}
+  ]
+}

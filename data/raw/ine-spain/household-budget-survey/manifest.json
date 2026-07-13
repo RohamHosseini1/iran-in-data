@@ -1,0 +1,20 @@
+{
+  "dataset_id": "ine-spain-epf-household-budget-survey",
+  "title": "INE Spain — Encuesta de Presupuestos Familiares (Household Budget Survey): average expenditure per household/person by expenditure group and quintile",
+  "source_org": "Instituto Nacional de Estadística (INE), Spain",
+  "source_url": "https://www.ine.es/jaxiT3/Tabla.htm?t=24900",
+  "download_url": "https://www.ine.es/jaxiT3/files/t/en/csv_bd/24900.csv?nocab=1",
+  "retrieved_at_utc": "2026-07-12T18:12:19Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "ine_24900_epf_avg_expenditure_by_group_quintile.csv", "original_name": "24900.csv", "sha256": "460b0613d0fa60b2ac6097cff8fe393065f0f794873e9a214242c437874b5953", "bytes": 482382}
+  ],
+  "countries": ["ESP"],
+  "time_coverage": "annual, back to early 2000s through 2023 (exact start year embedded in file)",
+  "frequency": "annual",
+  "topics": ["household budget survey", "consumption", "expenditure", "inequality", "cost of living"],
+  "units": "EUR and percentage distribution, described in INE metadata",
+  "license_terms": "INE public statistics, free reuse with attribution",
+  "notes": "Spain's HEIS/household-expenditure-survey equivalent (EPF, base 2006 methodology). Table 24900: average expenditure per household, average expenditure per person, and expenditure distribution (vertical/horizontal %) by COICOP expenditure group and expenditure quintile. Downloaded via INE JaxiT3 CSV bulk-download endpoint, English headers.",
+  "failures": []
+}

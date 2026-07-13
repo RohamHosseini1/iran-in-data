@@ -1,0 +1,25 @@
+{
+  "dataset_id": "clio-infra-real-wage",
+  "title": "Clio Infra Labourers Real Wage (Compact)",
+  "source_org": "Clio Infra",
+  "source_url": "https://clio-infra.eu/Indicators/LabourersRealWage.html",
+  "download_url": "https://clio-infra.eu/data/LabourersRealWage_Compact.xlsx",
+  "retrieved_at_utc": "2026-07-12T20:10:00Z",
+  "retrieved_by": "agent:clio-maddison-mopup",
+  "files": [
+    {
+      "name": "LabourersRealWage_Compact.xlsx",
+      "original_name": null,
+      "sha256": "09d8d9114ceab34dd32120c8b9205a8e4d507fb0ac05b7213a6b0ac8e85f33be",
+      "bytes": 333842
+    }
+  ],
+  "countries": ["IRN", "KOR", "TUR", "SAU", "VEN", "USA", "RUS", "ESP", "PRT", "GRC", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1820–2000",
+  "frequency": "annual",
+  "topics": ["wages", "labor", "real wages"],
+  "units": "real wages (building laborers)",
+  "license_terms": "Clio Infra (see https://clio-infra.eu/)",
+  "notes": "Compact version contains only countries with available data. Building laborers real wages. Downloaded via https://clio-infra.eu/",
+  "failures": []
+}

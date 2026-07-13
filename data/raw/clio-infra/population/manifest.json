@@ -1,0 +1,25 @@
+{
+  "dataset_id": "clio-infra-population",
+  "title": "Clio Infra Total Population (Compact)",
+  "source_org": "Clio Infra",
+  "source_url": "https://clio-infra.eu/Indicators/TotalPopulation.html",
+  "download_url": "https://clio-infra.eu/data/TotalPopulation_Compact.xlsx",
+  "retrieved_at_utc": "2026-07-12T20:10:00Z",
+  "retrieved_by": "agent:clio-maddison-mopup",
+  "files": [
+    {
+      "name": "TotalPopulation_Compact.xlsx",
+      "original_name": null,
+      "sha256": "fbf1c9349a10dfe115c79e5808b9b6f29631eca9c0741e0ad59d90eef435a329",
+      "bytes": 330878
+    }
+  ],
+  "countries": ["IRN", "KOR", "TUR", "SAU", "VEN", "USA", "RUS", "ESP", "PRT", "GRC", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "1500–2000",
+  "frequency": "50-year intervals (1500-1800), 10-year intervals (1800-2000)",
+  "topics": ["population", "demographics"],
+  "units": "persons (actual numbers)",
+  "license_terms": "Clio Infra (see https://clio-infra.eu/)",
+  "notes": "Compact version contains only countries with available data, modern borders. Downloaded via https://clio-infra.eu/",
+  "failures": []
+}

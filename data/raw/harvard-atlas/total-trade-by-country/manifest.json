@@ -1,0 +1,24 @@
+{
+  "dataset_id": "harvard-atlas-total-trade-by-country",
+  "title": "Harvard Growth Lab Atlas — Total Trade by Country (country-year aggregates, all product classifications)",
+  "source_org": "Harvard Growth Lab, Harvard Kennedy School",
+  "source_url": "https://atlas.hks.harvard.edu/data-downloads",
+  "download_url": "https://dataverse.harvard.edu/api/access/datafile/{13685109,13685175,13685130,13685143,13685142}",
+  "retrieved_at_utc": "2026-07-12T18:25:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "hs92_country_year.csv", "original_name": null, "sha256": "af929b790e95b1ef1815229640ecc5d66f8ca48da0e226782571ded42994d468", "bytes": 363501},
+    {"name": "hs12_country_year.csv", "original_name": null, "sha256": "648c8ac3b9cd18cc66d6c5e97f69cceed5c55ad584b767f00299e47c8ba74298", "bytes": 164622},
+    {"name": "hs22_country_year.csv", "original_name": null, "sha256": "cb973ad3c5caf314ef8a8d9d5e5e51d347ca9a45b3457b4feef4dbf63217be8e", "bytes": 38862},
+    {"name": "sitc_country_year.csv", "original_name": null, "sha256": "88333a5ef9ba47d81762e0ef6cc17f59aec40bdd753484546a870de8cb10f178", "bytes": 655792},
+    {"name": "services_unilateral_country_year.csv", "original_name": null, "sha256": "12f82e73f6209988309c9e3d73346b6cb5532aaa3d053f88a6535395a1ed53a2", "bytes": 283746}
+  ],
+  "countries": ["ALL (world, country-level, incl. IRN/KOR/TUR/SAU/VEN/USA/DEU/FRA/GBR/ITA/NLD/ESP/PRT/GRC)"],
+  "time_coverage": "HS92 & SITC: 1995-2024 (SITC extends conceptually to 1962 but this Atlas cut is 1995-2024); HS12: 2012-2024; HS22: 2022-2024; services: 1995-2024 (varies)",
+  "frequency": "annual",
+  "topics": ["trade", "exports", "imports", "economic complexity"],
+  "units": "current USD (export_value, import_value)",
+  "license_terms": "Harvard Dataverse — DOIs 10.7910/DVN/T4CHWJ (HS92), 10.7910/DVN/YAVJDF (HS12), 10.7910/DVN/FTUUJU (HS22), 10.7910/DVN/H8SFD2 (SITC), 10.7910/DVN/NDDMSN (services) — cite per Atlas citation guidelines",
+  "notes": "Country-year total trade (no product or partner breakdown) for all 5 Atlas classification systems. These are the 'Total Trade by Country' rows from the Atlas downloads catalog (productLevel=null). Deliberately SKIPPED per task instructions: 'Country Trade by Partner' (bilateral country-country-year, 3.3MB-45.8MB, still no product breakdown, could be added later if needed) and all 'Country/Country Trade by Partner and Product' files, which are full product-level matrices ranging from 327MB to 5.6GB each (multiple far exceed the 500MB cap) — none of those were downloaded. File catalog with exact sizes obtained via https://atlas.hks.harvard.edu/api/graphql (see complexity-rankings manifest for query used).",
+  "failures": []
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_id": "ine-spain-national-accounts-qna",
+  "title": "INE Spain — Quarterly National Accounts (QNA): GDP by supply (output) and demand (expenditure), current prices, since 1995",
+  "source_org": "Instituto Nacional de Estadística (INE), Spain",
+  "source_url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736164439&menu=ultiDatos&idp=1254735576581",
+  "download_url": "https://www.ine.es/jaxiT3/files/t/en/csv_bd/30678.csv?nocab=1 ; https://www.ine.es/jaxiT3/files/t/en/csv_bd/30680.csv?nocab=1",
+  "retrieved_at_utc": "2026-07-12T18:12:19Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "ine_30678_gdp_supply_current_prices.csv", "original_name": "30678.csv", "sha256": "181a692f6b0920101b11be3e344c51bc4729ffb88b96634b6d3c38e1ff43cad3", "bytes": 1933589},
+    {"name": "ine_30680_gdp_demand_current_prices.csv", "original_name": "30680.csv", "sha256": "3e8a1f90965c8ce410ce06fe75aad27980df5919bd5e73b0da1e67ef193b294c", "bytes": 4945576}
+  ],
+  "countries": ["ESP"],
+  "time_coverage": "1995Q1–2025Q4",
+  "frequency": "quarterly",
+  "topics": ["national accounts", "gdp", "macro"],
+  "units": "EUR (current prices), levels and annual/quarterly variation rates; described in INE metadata",
+  "license_terms": "INE public statistics, free reuse with attribution",
+  "notes": "Downloaded via INE JaxiT3 CSV bulk-download endpoint. 30678 = GDP at market prices, supply/output side, current prices (seasonally adjusted and unadjusted, base and variation-rate series). 30680 = GDP at market prices, demand/expenditure side, current prices, same structure. Annual National Accounts (longer run, back further than 1995) exist as a separate INE operation but a stable JaxiT3 table id for the full historical annual series was not located in this session; QNA (quarterly, back to 1995) was confirmed reachable and downloaded instead. Follow-up: locate Annual National Accounts long-run table id for pre-1995 GDP levels.",
+  "failures": []
+}

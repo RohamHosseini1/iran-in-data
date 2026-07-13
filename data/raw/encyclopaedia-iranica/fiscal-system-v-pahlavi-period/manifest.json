@@ -1,0 +1,25 @@
+{
+  "dataset_id": "fiscal-system-v-pahlavi-period",
+  "title": "FISCAL SYSTEM v. Pahlavi Period",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation)",
+  "source_url": "https://www.iranicaonline.org/articles/fiscal-system-v-pahlavi-period/",
+  "download_url": "https://www.iranicaonline.org/articles/fiscal-system-v-pahlavi-period/",
+  "retrieved_at_utc": "2026-07-12T20:58:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "fiscal-system-v-pahlavi-period.txt",
+      "original_name": null,
+      "sha256": "95307ed52c37c22991b1af5222c9e8dcca7d1f92d2564fecee6ce3e17a7a8485",
+      "bytes": 19591
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1921-1979 (Pahlavi era, three sub-periods: 1921-41, 1941-54, 1954-79)",
+  "frequency": "one-off reference article",
+  "topics": ["fiscal-policy", "taxation", "pahlavi-era", "oil-revenue", "government-budget", "millspaugh-mission"],
+  "units": "narrative with cited statistical figures (tax shares of revenue/GNP, budget composition)",
+  "license_terms": "Encyclopaedia Iranica -- academic reference, cite author/article per their citation guidance",
+  "notes": "Article by Massoud Karshenas (Vol. IX, Fasc. 6, pp. 651-654; published Dec 15, 1999; last updated Oct 12, 2012). Covers the modern Persian/Iranian fiscal system's development across three periods: 1921-41 (Millspaugh mission tax rationalization, 1931 trade monopoly law, indirect-tax-dominated revenue, ~70% of revenue from indirect taxation, oil only 10-16% of revenue); 1941-54 (WWII disruption, first Seven-Year Plan financed partly by a World Bank loan that was withheld during the oil nationalization dispute); 1954-79 (oil revenue share rising from 15-16% to >75% of government revenue by 1975-77, low direct-tax effort, rising military share of expenditure from 28% to 48% of budget 1963-77, and Farhad Mehran's 1971 incidence analysis showing net-negative distributional impact of tax/expenditure policy despite oil-funded largesse). Complements the economy-ix-pahlavi-period article (also cites Karshenas's 1990 book extensively). Retrieved via browser tool (Cloudflare bot-challenge blocked plain curl/WebFetch, same pattern as the other two Iranica articles) and get_page_text extraction, saved as clean plain text.",
+  "failures": []
+}

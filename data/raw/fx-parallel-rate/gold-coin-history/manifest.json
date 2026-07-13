@@ -1,0 +1,37 @@
+{
+  "dataset_id": "gold-coin-tgju",
+  "title": "Iranian Gold Coin Prices \u2014 Bahar Azadi & Emami, daily history",
+  "source_org": "TGJU.org",
+  "source_url": "https://www.tgju.org/profile/sekeb",
+  "download_url": "https://api.tgju.org/v1/market/indicator/summary-table-data/sekeb?lang=fa&order_dir=asc&draw=1&start=0&length=5000",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "gold-coin-bahar-azadi-tgju_sekeb_2026-07-12.json",
+      "original_name": null,
+      "sha256": "434b4928d63a1ab18c360bac9b616ae414a24d194b1797ddf0bc44247c0a441d",
+      "bytes": 609350
+    },
+    {
+      "name": "gold-coin-emami-tgju_sekee_2026-07-12.json",
+      "original_name": null,
+      "sha256": "68d4534e27f5bb2428226c11b31acba0187dd70149b033c3012b3a87e63a63fc",
+      "bytes": 754369
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "2013-07-22 (Bahar Azadi) / similar (Emami) to 2026-07-12",
+  "frequency": "daily",
+  "topics": [
+    "gold",
+    "inflation-hedge",
+    "fx"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "unspecified \u2014 public aggregator, attribute TGJU",
+  "notes": "Classic Iranian inflation-hedge indicator. sekeb=Bahar Azadi coin, sekee=Emami coin. Raw JSON."
+}

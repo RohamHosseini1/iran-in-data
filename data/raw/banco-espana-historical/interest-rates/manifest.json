@@ -1,0 +1,20 @@
+{
+  "dataset_id": "banco-espana-interest-rates",
+  "title": "Banco de España Statistical Bulletin — Interest Rates (complete topic, time series CSV bundle)",
+  "source_org": "Banco de España",
+  "source_url": "https://www.bde.es/webbe/en/estadisticas/recursos/descargas-completas.html",
+  "download_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/zip/TE_TIPOS.zip",
+  "retrieved_at_utc": "2026-07-12T18:09:44Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "TE_TIPOS.zip", "original_name": null, "sha256": "4daec73f66eabc861cbc3f33f83415a0a537ffb453214f0aa520d506ff658969", "bytes": 2171861}
+  ],
+  "countries": ["ESP"],
+  "time_coverage": "long-run interest rate series through mid-2026 (exact start year varies by series; some daily series like si_1_2.csv/si_2_2.csv are long-run)",
+  "frequency": "daily/monthly",
+  "topics": ["interest rates", "monetary policy", "reference rates"],
+  "units": "described in file / codebook (CSV headers in Spanish)",
+  "license_terms": "Banco de España public statistics (free reuse per BdE terms)",
+  "notes": "Complete 'Interest Rates' topic ZIP bundle from BdE bulk-download page, includes reference rates, MFI rates, and daily interest-rate series (be0115.csv, be1911.csv, si_2_2.csv, si_1_2.csv, ti_1_4.csv, be0208.csv, be2634.csv, etc.). CSV headers in Spanish.",
+  "failures": []
+}

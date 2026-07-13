@@ -1,0 +1,25 @@
+{
+  "dataset_id": "shah-economy-overview-1974",
+  "title": "Iran: An Overview of the Shah's Economy",
+  "source_org": "Central Intelligence Agency (CIA), Office of Economic Research (OER)",
+  "source_url": "https://www.cia.gov/readingroom/document/cia-rdp85t00875r001900030152-7",
+  "download_url": "https://www.cia.gov/readingroom/docs/CIA-RDP85T00875R001900030152-7.pdf",
+  "retrieved_at_utc": "2026-07-12T18:22:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "CIA-RDP85T00875R001900030152-7.pdf",
+      "original_name": null,
+      "sha256": "4d23826d9079eed4783bf4aa950c0a1349e5655878fbbf79a491e9c6f77cb482",
+      "bytes": 221769
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1967-1974 (Pahlavi era, Fifth Development Plan 1973-77)",
+  "frequency": "one-off intelligence memo",
+  "topics": ["cia", "economy", "pahlavi-era", "oil-revenue", "development-plan", "declassified"],
+  "units": "narrative with figures (GNP, oil revenue, arms spending in USD)",
+  "license_terms": "US government work, public domain; declassified FOIA release",
+  "notes": "CREST General CIA Records. Prepared by CIA/OER (Office of Economic Research), 16 October 1974, publication date October 1, 1974, for the Secretary of State's briefing book. Original Classification: Confidential; Release Decision: RIPPUB; Document Page Count: 5. Covers Fifth Development Plan (1973-77), oil revenue windfall, GNP growth (33% in 1973, 40% projected 1974), Iran as an 'emerging world banker', arms purchases (~$8bn 1967-73), inflation, labor shortages, and income inequality (top 20% >50% of income, bottom 20% ~5%). Retrieved via browser in-page fetch()->base64->local decode (see NIS-33 manifest for why: www.cia.gov/readingroom/* blocks plain HTTP clients with a redirect loop / 403).",
+  "failures": []
+}

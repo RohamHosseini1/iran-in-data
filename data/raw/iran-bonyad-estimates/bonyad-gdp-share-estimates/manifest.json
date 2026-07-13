@@ -1,0 +1,25 @@
+{
+  "dataset_id": "bonyad-gdp-share-estimates",
+  "title": "Bonyads' / IRGC-affiliated enterprises' share of Iran's GDP — curated range of contested estimates (4.2%–65%)",
+  "source_org": "Multi-source compilation (PressTV, Wikipedia, CISES, Clingendael, RFE/RL, GlobalSecurity.org — see estimates.md for full per-item attribution)",
+  "source_url": "n/a (multi-source curated compilation; see estimates.md for each individual source URL)",
+  "download_url": "n/a (hand-compiled note, not a single downloadable file)",
+  "retrieved_at_utc": "2026-07-12T18:27:28Z",
+  "retrieved_by": "agent:iran-bonyad-estimates",
+  "files": [
+    {
+      "name": "estimates.md",
+      "original_name": null,
+      "sha256": "eb41e2143b2a4860d218f7edc4938a9e3e5f3ac143e3305c05114eb7d6f7b147",
+      "bytes": 11094
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2006-2026 (individual estimates span this period; see estimates.md for each claim's specific year/context)",
+  "frequency": "one-off curated compilation",
+  "topics": ["bonyad", "irgc", "contested-estimate", "gdp-share", "shadow-economy", "parastatal"],
+  "units": "percent of GDP (scope varies by source — see notes)",
+  "license_terms": "n/a — hand-compiled research note; underlying sources retain their own licenses/copyright, quotes used are short and attributed",
+  "notes": "THIS IS A CURATED MULTI-SOURCE ESTIMATE RANGE, NOT RAW STATISTICAL DATA. Per task instructions and docs/bookkeeping.md ('Where an estimate is genuinely contested... record the full range with each source attributed rather than picking one number'), this file lists every estimate of bonyads'/IRGC-affiliated enterprises' share of Iran's GDP found during research (7 numeric estimates ranging 4.2% to 65%, plus one sector-specific data point), each with source name, URL, and year/context, with NO single number picked as 'the' answer. Two estimates found during research (an IFMAT.org ~30% figure, and a Wikipedia IRGC-economic-activities-page range of '10% to over 50%') were deliberately EXCLUDED and documented as excluded in estimates.md: the former because IFMAT is an advocacy/opposition outlet comparable in kind to the project's explicitly excluded MEK/NCRI sources (docs/bookkeeping.md neutrality principle 2), the latter because the source Wikipedia page itself carries an active editorial warning that it may contain LLM-hallucinated/unverified content. One included estimate (Rachel Ehrenfeld/American Center for Democracy, ~67%, via RFE/RL interview) is flagged inline as an advocacy-affiliated analyst's personal opinion rather than a cited study, consistent with bookkeeping.md's instruction to label state-media and comparably interested sources transparently rather than exclude them outright when published via a legitimate outlet (RFE/RL). The lowest estimate (4.2%, Iravani/Office of the Supreme Leader via PressTV) is explicitly labeled state-media-attributed per bookkeeping.md rule 4.",
+  "failures": []
+}

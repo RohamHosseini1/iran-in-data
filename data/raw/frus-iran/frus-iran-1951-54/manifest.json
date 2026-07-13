@@ -1,0 +1,25 @@
+{
+  "dataset_id": "frus-iran-1951-54",
+  "title": "Foreign Relations of the United States, 1952-1954, Iran, 1951-1954",
+  "source_org": "US Department of State, Office of the Historian",
+  "source_url": "https://history.state.gov/historicaldocuments/frus1951-54Iran",
+  "download_url": "https://static.history.state.gov/frus/frus1951-54Iran/pdf/frus1951-54Iran.pdf",
+  "retrieved_at_utc": "2026-07-12T20:21:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "frus1951-54Iran.pdf",
+      "original_name": null,
+      "sha256": "697dc30450017402cafcbf54911fd3bc953cab78c2cb389395bd6a30802715d5",
+      "bytes": 3191431
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1951-1954",
+  "frequency": "one-off compiled volume",
+  "topics": ["frus", "state-department", "declassified", "mosadeq", "tpajax", "oil-nationalization", "pahlavi-era"],
+  "units": "compiled diplomatic/intelligence documents (narrative)",
+  "license_terms": "US government work, public domain",
+  "notes": "Editor: James C. Van Hook; General Editor: Adam M. Howard; US Government Publishing Office, Washington, 2017. 375 documents covering: United States Efforts To Understand Mosadeq (Feb 1951-Feb 1952); The July 1952 Iranian Political Crisis and Its Aftermath; Planning and Implementation of Operation TPAJAX (the 1953 coup), March-August 1953; The Aftermath of Operation TPAJAX, Sept 1953-Dec 1954. Companion to the earlier-published FRUS 1952-1954, vol. X, Iran, 1951-1954 (1989) -- 'Both volumes should be read together.' Straightforward curl download (no bot-gating on static.history.state.gov, unlike cia.gov). Also available as EPUB (https://static.history.state.gov/frus/frus1951-54Iran/ebook/frus1951-54Iran.epub, 1.3MB) and Mobi (https://static.history.state.gov/frus/frus1951-54Iran/ebook/frus1951-54Iran.mobi, 1.83MB) -- not downloaded, PDF preferred for this project.",
+  "failures": []
+}

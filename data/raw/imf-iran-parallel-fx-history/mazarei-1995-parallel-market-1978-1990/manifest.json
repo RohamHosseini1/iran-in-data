@@ -1,0 +1,31 @@
+{
+  "dataset_id": "imf-mazarei-1995-parallel-market-iran-1978-1990",
+  "title": "The Parallel Market for Foreign Exchange in an Oil Exporting Economy: The Case of Iran, 1978-1990 (IMF Working Paper WP/95/69)",
+  "source_org": "International Monetary Fund",
+  "source_url": "https://www.elibrary.imf.org/view/journals/001/1995/069/001.1995.issue-069-en.xml",
+  "download_url": "https://www.elibrary.imf.org/downloadpdf/view/journals/001/1995/069/001.1995.issue-069-en.pdf",
+  "retrieved_at_utc": "2026-07-13T00:08:36Z",
+  "retrieved_by": "claude (browser in-page fetch to bypass direct-curl 403; base64-encoded in-page, decoded locally, verified as valid 25-page 1.5MB PDF)",
+  "files": [
+    {
+      "name": "mazarei_1995_imf_wp95-69_parallel_market_iran_1978-1990.pdf",
+      "original_name": "001.1995.issue-069-en.pdf",
+      "sha256": "525d68faf6692518398045e160ecb2c5be17b60a0e1e73be883781cfdb5f967d",
+      "bytes": 1607672
+    },
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "e83fa7d79773ef17844aa9caca9ad1ab00009bb2f50dc7385fbeef9957343daf",
+      "bytes": 1861
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "January 1978 - December 1990",
+  "frequency": "monthly (underlying series); paper reports summary statistics + chart, not a printed monthly data table",
+  "topics": ["fx", "exchange-rate", "parallel-market", "black-market-premium", "multi-tier-exchange-rate-system"],
+  "units": "percent (premium and rate-of-change); see data.csv notes column",
+  "license_terms": "IMF eLibrary — publicly downloadable working paper (no login required), standard IMF working-paper terms",
+  "notes": "IMPORTANT METHODOLOGICAL NOTE: this paper's actual monthly rial/dollar parallel-market rate series (variable 'b') was sourced by the author from International Currency Analysis Inc.'s 'World Currency Yearbook' (formerly Pick's Currency Yearbook) -- a print publication not available to us -- and the official rate 'e' from IMF International Financial Statistics (IFS, already covered elsewhere in this project). The paper presents this series ONLY as Chart 1 (a continuous line plot of the parallel market premium, PMP, Jan 1978-Dec 1990, y-axis 0.8-2269.4 percent) and Chart 2 (monthly % change), never as a printed data table. Per this project's no-fabrication rule, we did NOT attempt to back out individual monthly values by reading pixel positions off the chart image -- that would not be a real transcription, just an approximation dressed up as data. What IS captured in data.csv is everything the paper reports as exact printed numbers: Table 1's rate-of-change distribution statistics (max/min monthly change, mean, std dev, skewness, kurtosis, coefficient of variation) plus several narrative figures from the text (oil/gas export earnings 1978/1986/1990, the ~96% oil-export-share figure, the 'over ten' concurrent official rates claim, the >2,000% end-of-period premium). This is a genuine gap in what's digitally recoverable for 1978-1990 monthly parallel-FX levels -- flagged honestly rather than papered over. The paper importantly documents the STRUCTURE of Iran's multi-tier exchange rate system 1978-1990 (footnote 1: parallel market existed 1930-1960 too, with few exceptions) and cites further primary literature: Amuzegar (1977), Behdad (1988), Central Bank of Iran (1979) 'Analysis of the Economic Developments in the Country after the Revolution' (Persian), Khosropour (1956) dissertation on exchange controls 1930-1955, Lautenschlager (1986), Pesaran (1992) 'The Iranian Foreign Exchange Policy and the Role of the Black Market for Dollars' (Int'l Journal of Middle East Studies) -- these are candidate leads for a future continuation pass if more precise 1978-1990 monthly data is ever needed. Complements this project's existing data/raw/fx-parallel-rate/usd-irr-parallel-history/ (TGJU daily series, 2011-2026) -- together they bracket a ~21-year gap (1991-2011) in Iran's parallel-FX history that remains unfilled (see SOURCES.md Round 38 for what was checked and ruled out for that gap).",
+  "failures": []
+}

@@ -1,0 +1,38 @@
+{
+  "dataset_id": "mohaddes-pesaran-2013-oil-income-100years",
+  "title": "One Hundred Years of Oil Income and the Iranian Economy: A Curse or a Blessing? -- Tables 1-4 (Mohaddes & Pesaran, 2013)",
+  "source_org": "Economic Research Forum (ERF), Kamiar Mohaddes (University of Cambridge) and M. Hashem Pesaran (University of Cambridge / USC)",
+  "source_url": "https://erf.org.eg/publications/one-hundred-years-of-oil-income-and-the-iranian-economy-a-curse-or-a-blessing/",
+  "download_url": "https://erf.org.eg/app/uploads/2014/07/771.pdf",
+  "retrieved_at_utc": "2026-07-12T22:57:00Z",
+  "retrieved_by": "agent:academic-fiscal-hunt (iran-academic-fiscal-history)",
+  "extraction_method": "Downloaded via curl (browser User-Agent) from ERF working paper archive. Text layer extracted with pdftotext -layout (poppler emitted a non-fatal 'optional content group list' syntax warning but text extraction completed normally). Table locations found by grepping for 'Table [0-9]' headings. All four genuine data tables in the paper (Tables 1-4; every other numbered item is a 'Figure' -- a line/scatter chart image, not a transcribable table, so none of those were extracted) were visually verified by rendering the exact PDF pages to PNG at 200 DPI (pdftoppm -r 200 -f 32/33 -l 32/33) and reading the rendered table image directly with the Read tool; the rendered image matched the pdftotext -layout extraction exactly for every cell, confirming the text layer is reliable for this document. No value was interpolated, estimated, or fabricated.",
+  "files": [
+    {
+      "name": "mohaddes-pesaran-2013-one-hundred-years-oil-income.pdf",
+      "original_name": "771.pdf",
+      "sha256": "ee5a6b7b419a091722cfb84afd583f4475596f64f0de8a7795217b7d4fcda83d",
+      "bytes": 2011977
+    },
+    {
+      "name": "table1_iranian_royalties_taxation_vs_british_taxation_1914-1950.csv",
+      "original_name": null,
+      "sha256": "9be8f23bd6c869556e4054c1686feff65d9f363e6ee8f9d275872dbd2b1ed718",
+      "bytes": 679
+    },
+    {
+      "name": "table2_3_4_growth_inflation_volatility_1937-2010.csv",
+      "original_name": null,
+      "sha256": "8763ab22c75fb9bfcad88a1364e8a0f54f6000e0a4c1fa0349887c12021c70a6",
+      "bytes": 2962
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1914-1950 (Table 1, quinquennial averages); 1937-2010 and various subperiods (Tables 2-4, period-average growth/inflation/volatility statistics)",
+  "frequency": "5-year period averages (Table 1); multi-decade sub-period averages (Tables 2-4) -- NOT an annual series",
+  "topics": ["oil-revenue", "government-revenue", "taxation", "royalties", "gdp-growth", "inflation", "oil-price-volatility", "pahlavi-era", "rentier-state"],
+  "units": "Table 1: million pounds sterling (GBP) and percent; Tables 2-4: percent per annum (growth/inflation rates) and percent (volatility), correlation coefficients unitless",
+  "license_terms": "ERF Working Paper 771 (September 2013) -- academic working paper, cite Mohaddes & Pesaran (2013)",
+  "notes": "Kamiar Mohaddes and M. Hashem Pesaran, 'One Hundred Years of Oil Income and the Iranian Economy: A Curse or a Blessing?', ERF Working Paper 771, September 2013 (also issued as CESifo Working Paper 4118). Table 1 ('Iranian Royalties and Taxation vs British Taxation, 1914-1950') is a genuine reproduced long-run fiscal-revenue table spanning nearly the entire pre-nationalization Reza Shah / early Mohammad Reza Shah period -- it shows Iranian government oil royalties+taxation and British tax receipts on AIOC profits in GBP millions, plus the ratio of Iranian government oil revenue to total oil export revenue, in 5-year period averages (single-year for 1950). The table's own source note attributes the royalties/taxation columns to Ferrier (1982) and Bamberg (1994) (the official Anglo-Iranian/BP company histories) and the government/total revenue column to 'Esfahani (2009)' -- i.e. Esfahani, H.S. and M.H. Pesaran (2009), 'The Iranian Economy in the Twentieth Century: A Global Perspective', Iranian Studies 42(2) -- the SAME underlying paper already partially extracted in this project as data/raw/pahlavi-era-primary-extraction/esfahani-pesaran-2008-century-indicators-1900-2006 (that prior extraction only pulled Table 1 there, a single 1900-vs-2006 cross-section; this Table 1 here is a genuinely different, additional long-run series). Tables 2-4 are NOT raw budget/money-supply series but period-average growth-rate, inflation, and volatility STATISTICS computed by the authors from IMF IFS/WEO, OPEC ASB, and Esfahani (2009) data; included here for completeness since they are still genuine reproduced tabular results (not narrative) and the 1960-1978 sub-period rows isolate exactly the late-Pahlavi oil-boom years, but a future user should treat them as derived statistics, not primary annual series. IMPORTANT CAVEAT: none of these four tables provide annual (year-by-year) observations -- they are period averages/summary statistics, which is the closest this particular paper comes to a data appendix; the paper's actual annual-frequency charts (Figures 1-12, oil production/price/revenue 1908-2010, real output vs oil revenue growth, etc.) are rendered only as line/scatter-plot images with no accompanying data table, so no annual values could be extracted from them without risking fabrication, consistent with prior extractions in this project (e.g. the Esfahani-Pesaran 2008 Figure 10 caveat).",
+  "failures": []
+}

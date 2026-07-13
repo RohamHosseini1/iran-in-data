@@ -1,0 +1,25 @@
+{
+  "dataset_id": "bis-usd-exchange-rates",
+  "title": "BIS US Dollar / Bilateral Exchange Rates — full bulk dataset (CSV, flat)",
+  "source_org": "Bank for International Settlements (BIS)",
+  "source_url": "https://data.bis.org/bulkdownload",
+  "download_url": "https://data.bis.org/static/bulk/WS_XRU_csv_flat.zip",
+  "retrieved_at_utc": "2026-07-12T18:12:12Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "WS_XRU_csv_flat.zip",
+      "original_name": null,
+      "sha256": "f1a5b266e777805161f1e3b560ad5b04049a2584a12e32d5dac9d73c3500e30f",
+      "bytes": 10292847
+    }
+  ],
+  "countries": ["ALL (world, BIS-reporting economies; IRN not a BIS reporter — KOR/TUR/USA/DEU/FRA/GBR/ITA/NLD/ESP/PRT/GRC included)"],
+  "time_coverage": "long historical daily run through most recent date (series start dates vary by country)",
+  "frequency": "daily",
+  "topics": ["exchange rates", "USD", "currency", "fx"],
+  "units": "national currency units per USD",
+  "license_terms": "BIS Terms of Use — free for non-commercial use with attribution",
+  "notes": "BIS dataset WS_XRU ('Bilateral exchange rates', reported vs USD). Full-topic bulk zip, world coverage, flat CSV format. Uncompressed CSV ~447MB; zip itself 10.3MB, well under 500MB limit.",
+  "failures": []
+}

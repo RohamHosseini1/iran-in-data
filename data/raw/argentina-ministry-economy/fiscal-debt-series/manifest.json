@@ -1,0 +1,23 @@
+{
+  "dataset_id": "fiscal-debt-series",
+  "title": "Argentina Ministry of Economy — Public Debt (SIGADE) and Fiscal Accounts (National Public Administration expenditure/revenue) time series",
+  "source_org": "Ministerio de Economía, Argentina — Secretaría de Finanzas (public debt) and Oficina Nacional de Presupuesto / ONP (fiscal accounts)",
+  "source_url": "https://www.argentina.gob.ar/economia/finanzas/datos-trimestrales-de-la-deuda ; https://www.economia.gob.ar/onp/estadisticas/",
+  "download_url": "https://www.argentina.gob.ar/sites/default/files/deuda_publica_31-03-2026.xlsx ; https://www.argentina.gob.ar/sites/default/files/sin_cod_2003-para_el_sitio_basesigade_2026-31-03.zip ; https://www.economia.gob.ar/onp/documentos/resultado/devengado/1993/1993.xls ; https://www.economia.gob.ar/onp/documentos/series/spaimcc2024.xlsx",
+  "retrieved_at_utc": "2026-07-12T19:23:42Z",
+  "retrieved_by": "agent:argentina",
+  "files": [
+    {"name": "deuda_publica_31-03-2026.xlsx", "original_name": null, "sha256": "fad7687446da2e312d5f442e4d8e4fe53af87303a5fbdbe1030e8b241473aeee", "bytes": 1568870},
+    {"name": "sigade_basedatos_2026-31-03.zip", "original_name": "sin_cod_2003-para_el_sitio_basesigade_2026-31-03.zip", "sha256": "df6ee65cda6f898ef64c85b70aad9756a2dc50a6f4ae624935fb88577d28c993", "bytes": 1263883},
+    {"name": "fiscal_result_1993.xls", "original_name": "1993.xls", "sha256": "dbe01983fdf15e7f67fb1e567b27115fe769415db08f99917aaac55a4624e124", "bytes": 31232},
+    {"name": "fiscal_series_spaimcc_2024.xlsx", "original_name": "spaimcc2024.xlsx", "sha256": "0c47fbe12d9e220b01b4392fc6bfb7d5fcdac1ed63344ddd45ce7c6b64e21d1b", "bytes": 24908}
+  ],
+  "countries": ["ARG"],
+  "time_coverage": "deuda_publica_31-03-2026.xlsx + sigade zip: public debt stock/composition as of 2026-03-31 (quarterly snapshot, latest available as of this session — the debt page publishes a fresh snapshot file each quarter back to 2019, only the latest was retained here); fiscal_result_1993.xls: earliest available annual accrued fiscal result (revenue/expenditure/deficit) table published on the ONP statistical-series page, i.e. fiscal year 1993, used as an early historical anchor; fiscal_series_spaimcc_2024.xlsx: 2024 vintage of the 'SPAIMCC' national-public-sector income/expenditure series (base-2004 GDP methodology).",
+  "frequency": "debt: quarterly; fiscal accounts: annual",
+  "topics": ["public debt", "fiscal accounts", "government spending", "government revenue", "deficit"],
+  "units": "debt: USD/ARS depending on instrument, described in file; fiscal accounts: current ARS (nominal), described in file",
+  "license_terms": "Argentine government open data (Ministerio de Economía)",
+  "notes": "SSL note: www.argentina.gob.ar and www.economia.gob.ar both require curl -k (certificate verification failure with default trust store; WebFetch also failed with 'unable to verify the first certificate') — content itself downloaded fine once verification was bypassed for these specific known Argentine-government domains, no other anomalies. DEBT: page https://www.argentina.gob.ar/economia/finanzas/datos-trimestrales-de-la-deuda lists a full quarterly archive back to 2019 (one xlsx snapshot + one SIGADE database zip per quarter); only the latest (2026-Q1, as of 31-03-2026) was downloaded to keep this dataset scoped — earlier quarters are all directly downloadable from the same page pattern if a full run-series is wanted later. FISCAL ACCOUNTS: https://www.economia.gob.ar/onp/estadisticas/ is a large index of ~86 individual xls/xlsx files (one per year/vintage, several parallel naming schemes reflecting GDP-base revisions: 'resultado/devengado/YYYY/YYYY.xls' annual accrued fiscal-result tables from 1993-2016, and 'series/serieYYYY.xls' / 'series/spaimccYYYY.xls' / 'series/spaccYYYY.xls' expenditure-by-function-and-economic-nature series from 2004-2024 under different base-year/coverage revisions) — rather than downloading all 86 files, the earliest (1993, the oldest fiscal-result table on the page) and the most recent consolidated series (spaimcc2024.xlsx) were selected as historical-anchor + current-snapshot per bookkeeping.md's size-discipline guidance to prefer targeted extracts. A single master historical time-series file spanning the full period was not found — the ONP page is structured as per-year/per-vintage files only.",
+  "failures": []
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_id": "bis-central-bank-policy-rates",
+  "title": "BIS Central Bank Policy Rates — full bulk dataset (CSV, flat)",
+  "source_org": "Bank for International Settlements (BIS)",
+  "source_url": "https://data.bis.org/bulkdownload",
+  "download_url": "https://data.bis.org/static/bulk/WS_CBPOL_csv_flat.zip",
+  "retrieved_at_utc": "2026-07-12T18:12:12Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "WS_CBPOL_csv_flat.zip",
+      "original_name": null,
+      "sha256": "2af3b1991275891ff1bcb5778a4dd95b451ed37d349ca2cb5b2f95ceac9345fa",
+      "bytes": 4094673
+    }
+  ],
+  "countries": ["ALL (world, BIS-reporting economies; IRN not a BIS reporter — KOR/TUR/USA/DEU/FRA/GBR/ITA/NLD/ESP/PRT/GRC included)"],
+  "time_coverage": "long historical daily run through most recent date (series start dates vary by country)",
+  "frequency": "daily",
+  "topics": ["monetary policy", "policy rate", "interest rates", "central banking"],
+  "units": "percent per annum",
+  "license_terms": "BIS Terms of Use — free for non-commercial use with attribution",
+  "notes": "Full-topic bulk zip, world coverage, flat CSV format, daily frequency so large: uncompressed CSV ~469MB, but zip itself is 4.1MB, well under the 500MB skip threshold.",
+  "failures": []
+}

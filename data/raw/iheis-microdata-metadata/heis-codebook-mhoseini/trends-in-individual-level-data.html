@@ -1,0 +1,2399 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 7 Trends in individual-level data | Household Expenditure and Income Surveys of Iran</title>
+  <meta name="description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 7 Trends in individual-level data | Household Expenditure and Income Surveys of Iran" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 7 Trends in individual-level data | Household Expenditure and Income Surveys of Iran" />
+  
+  <meta name="twitter:description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  
+
+<meta name="author" content="Mohammad Hoseini" />
+
+
+<meta name="date" content="2021-04-10" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="trends-of-household-level-data.html"/>
+<link rel="next" href="some-applications-of-household-level-data.html"/>
+<script src="libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<link href="libs/bsTable-3.3.7/bootstrapTable.min.css" rel="stylesheet" />
+<script src="libs/bsTable-3.3.7/bootstrapTable.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Iran's HEIS surveys</a></li>
+
+<li class="divider"></li>
+<li><a href="index.html#section"></a>
+<ul>
+<li><a href="index.html#section-1"></a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#sample-design"><i class="fa fa-check"></i><b>1.1</b> Sample design</a>
+<ul>
+<li class="chapter" data-level="1.1.1" data-path="introduction.html"><a href="introduction.html#rotating-panel-feature"><i class="fa fa-check"></i><b>1.1.1</b> Rotating panel feature</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="introduction.html"><a href="introduction.html#different-rounds"><i class="fa fa-check"></i><b>1.2</b> Different rounds</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="questionnaire-details.html"><a href="questionnaire-details.html"><i class="fa fa-check"></i><b>2</b> Questionnaire details</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-1---member-characteristics"><i class="fa fa-check"></i><b>2.1</b> Part 1 - Member Characteristics</a></li>
+<li class="chapter" data-level="2.2" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-2---household-facilities"><i class="fa fa-check"></i><b>2.2</b> Part 2 - Household Facilities</a></li>
+<li class="chapter" data-level="2.3" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-3---expenditure"><i class="fa fa-check"></i><b>2.3</b> Part 3 - Expenditure</a></li>
+<li class="chapter" data-level="2.4" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-4-income"><i class="fa fa-check"></i><b>2.4</b> Part 4: Income</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="importing-raw-data.html"><a href="importing-raw-data.html"><i class="fa fa-check"></i><b>3</b> Importing raw data</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-access-files-to-r"><i class="fa fa-check"></i><b>3.1</b> Importing access files to R</a></li>
+<li class="chapter" data-level="3.2" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-code-for-all-years"><i class="fa fa-check"></i><b>3.2</b> Importing code for all years</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="cleaning-data.html"><a href="cleaning-data.html"><i class="fa fa-check"></i><b>4</b> Cleaning data</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#importing-raw-data-and-sampling-information"><i class="fa fa-check"></i><b>4.1</b> Importing raw data and sampling information</a></li>
+<li class="chapter" data-level="4.2" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-1"><i class="fa fa-check"></i><b>4.2</b> Cleaning Part 1</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="cleaning-data.html"><a href="cleaning-data.html#education-code"><i class="fa fa-check"></i><b>4.2.1</b> Education code</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-2"><i class="fa fa-check"></i><b>4.3</b> Cleaning Part 2</a></li>
+<li class="chapter" data-level="4.4" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-3"><i class="fa fa-check"></i><b>4.4</b> Cleaning Part 3</a>
+<ul>
+<li class="chapter" data-level="4.4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#price-index-and-real-expenditure"><i class="fa fa-check"></i><b>4.4.1</b> Price index and real expenditure</a></li>
+</ul></li>
+<li class="chapter" data-level="4.5" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-4"><i class="fa fa-check"></i><b>4.5</b> Cleaning Part 4</a></li>
+<li class="chapter" data-level="4.6" data-path="cleaning-data.html"><a href="cleaning-data.html#building-item-level-data"><i class="fa fa-check"></i><b>4.6</b> Building item-level data</a></li>
+<li class="chapter" data-level="4.7" data-path="cleaning-data.html"><a href="cleaning-data.html#building-individual-level-data"><i class="fa fa-check"></i><b>4.7</b> Building individual-level data</a></li>
+<li class="chapter" data-level="4.8" data-path="cleaning-data.html"><a href="cleaning-data.html#building-household-level-data-summary-files"><i class="fa fa-check"></i><b>4.8</b> Building Household-level data (summary files)</a>
+<ul>
+<li class="chapter" data-level="4.8.1" data-path="cleaning-data.html"><a href="cleaning-data.html#exporting-to-other-formats."><i class="fa fa-check"></i><b>4.8.1</b> Exporting to other formats.</a></li>
+</ul></li>
+<li class="chapter" data-level="4.9" data-path="cleaning-data.html"><a href="cleaning-data.html#special-issues-for-different-years"><i class="fa fa-check"></i><b>4.9</b> Special issues for different years</a>
+<ul>
+<li class="chapter" data-level="4.9.1" data-path="cleaning-data.html"><a href="cleaning-data.html#the-structure-of-address-variable"><i class="fa fa-check"></i><b>4.9.1</b> The structure of Address variable</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html"><i class="fa fa-check"></i><b>5</b> Trends in expenditure items</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#total-expenditure-across-coicop-groups"><i class="fa fa-check"></i><b>5.1</b> Total expenditure across COICOP groups</a></li>
+<li class="chapter" data-level="5.2" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#expenditure-shares-of-coicop-groups"><i class="fa fa-check"></i><b>5.2</b> Expenditure shares of COICOP groups</a></li>
+<li class="chapter" data-level="5.3" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#percapita-expenditure-across-coicop-groups-and-regions"><i class="fa fa-check"></i><b>5.3</b> Percapita expenditure across COICOP groups and regions</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="trends-of-household-level-data.html"><a href="trends-of-household-level-data.html"><i class="fa fa-check"></i><b>6</b> Trends of household-level data</a></li>
+<li class="chapter" data-level="7" data-path="trends-in-individual-level-data.html"><a href="trends-in-individual-level-data.html"><i class="fa fa-check"></i><b>7</b> Trends in individual-level data</a></li>
+<li class="chapter" data-level="8" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html"><i class="fa fa-check"></i><b>8</b> Some applications of household-level data</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html#gas-price-reform-in-november-2019-in-iran-and-poverty"><i class="fa fa-check"></i><b>8.1</b> Gas price reform in November 2019 in Iran and poverty</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank"> </a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Household Expenditure and Income Surveys of Iran</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="trends-in-individual-level-data" class="section level1" number="7">
+<h1><span class="header-section-number">Chapter 7</span> Trends in individual-level data</h1>
+<style type="text/css">
+pre {
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+pre[class] {
+  max-height: 500px;
+}
+</style>
+<p>In this section, I present the trend of variables in the individual-level data.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="trends-in-individual-level-data.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse) </span>
+<span id="cb1-2"><a href="trends-in-individual-level-data.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
+<span id="cb1-3"><a href="trends-in-individual-level-data.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(kableExtra)</span>
+<span id="cb1-4"><a href="trends-in-individual-level-data.html#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="trends-in-individual-level-data.html#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(<span class="at">list =</span> <span class="fu">ls</span>())</span>
+<span id="cb1-6"><a href="trends-in-individual-level-data.html#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="trends-in-individual-level-data.html#cb1-7" aria-hidden="true" tabindex="-1"></a>list_IND <span class="ot">&lt;-</span> <span class="fu">list.files</span>(<span class="at">path =</span> <span class="st">&quot;./../exported&quot;</span>, <span class="at">pattern =</span> <span class="st">&quot;^IND.*</span><span class="sc">\\</span><span class="st">Rds$&quot;</span>)</span>
+<span id="cb1-8"><a href="trends-in-individual-level-data.html#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="trends-in-individual-level-data.html#cb1-9" aria-hidden="true" tabindex="-1"></a>IND <span class="ot">&lt;-</span> <span class="cn">NULL</span></span>
+<span id="cb1-10"><a href="trends-in-individual-level-data.html#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (year <span class="cf">in</span> list_IND) {</span>
+<span id="cb1-11"><a href="trends-in-individual-level-data.html#cb1-11" aria-hidden="true" tabindex="-1"></a>  IND <span class="ot">&lt;-</span> <span class="fu">assign</span>(year, <span class="fu">readRDS</span>(<span class="fu">paste0</span>(<span class="st">&quot;./../exported/&quot;</span>,year))) <span class="sc">%&gt;%</span> </span>
+<span id="cb1-12"><a href="trends-in-individual-level-data.html#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="fu">filter</span>(<span class="sc">!</span><span class="fu">is.na</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb1-13"><a href="trends-in-individual-level-data.html#cb1-13" aria-hidden="true" tabindex="-1"></a>    <span class="fu">mutate</span>(<span class="at">year =</span> <span class="fu">parse_number</span>(year)) <span class="sc">%&gt;%</span></span>
+<span id="cb1-14"><a href="trends-in-individual-level-data.html#cb1-14" aria-hidden="true" tabindex="-1"></a>    <span class="fu">bind_rows</span>(IND)</span>
+<span id="cb1-15"><a href="trends-in-individual-level-data.html#cb1-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rm</span>(<span class="at">list=</span>year)</span>
+<span id="cb1-16"><a href="trends-in-individual-level-data.html#cb1-16" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-17"><a href="trends-in-individual-level-data.html#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="trends-in-individual-level-data.html#cb1-18" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span></span>
+<span id="cb1-19"><a href="trends-in-individual-level-data.html#cb1-19" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">literate =</span> (literacy<span class="sc">==</span><span class="st">&quot;literate&quot;</span>)<span class="sc">*</span><span class="dv">100</span>,</span>
+<span id="cb1-20"><a href="trends-in-individual-level-data.html#cb1-20" aria-hidden="true" tabindex="-1"></a>         <span class="at">student =</span> (studying<span class="sc">==</span><span class="st">&quot;Yes&quot;</span>)<span class="sc">*</span><span class="dv">100</span>,</span>
+<span id="cb1-21"><a href="trends-in-individual-level-data.html#cb1-21" aria-hidden="true" tabindex="-1"></a>         <span class="at">female =</span> (gender<span class="sc">==</span><span class="st">&quot;Female&quot;</span>)<span class="sc">*</span><span class="dv">100</span> ) <span class="sc">%&gt;%</span></span>
+<span id="cb1-22"><a href="trends-in-individual-level-data.html#cb1-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb1-23"><a href="trends-in-individual-level-data.html#cb1-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="fu">across</span>(<span class="fu">c</span>(khanevartype, literate, student, female, age, hours_w, days_w, hours_s, days_s),</span>
+<span id="cb1-24"><a href="trends-in-individual-level-data.html#cb1-24" aria-hidden="true" tabindex="-1"></a>                   <span class="sc">~</span><span class="fu">weighted.mean</span>(.x,weight,<span class="at">na.rm =</span> T))) <span class="sc">%&gt;%</span></span>
+<span id="cb1-25"><a href="trends-in-individual-level-data.html#cb1-25" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_longer</span>(khanevartype<span class="sc">:</span>days_s, <span class="at">names_to =</span> <span class="st">&quot;Individual_characteristics&quot;</span>, <span class="at">values_to =</span> <span class="st">&quot;value&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb1-26"><a href="trends-in-individual-level-data.html#cb1-26" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(Individual_characteristics, <span class="at">names_from=</span><span class="st">&quot;year&quot;</span>, <span class="at">values_from=</span><span class="st">&quot;value&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb1-27"><a href="trends-in-individual-level-data.html#cb1-27" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;Trend of mean individual characteristics&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb1-28"><a href="trends-in-individual-level-data.html#cb1-28" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb1-29"><a href="trends-in-individual-level-data.html#cb1-29" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scroll_box</span>(<span class="at">height =</span> <span class="st">&quot;300px&quot;</span>)</span></code></pre></div>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:300px; ">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:unnamed-chunk-2">Table 7.1: </span>Trend of mean individual characteristics
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Individual_characteristics
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+89
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+90
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+91
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+92
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+93
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+94
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+95
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+96
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+97
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+98
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+khanevartype
+</td>
+<td style="text-align:right;">
+1.001268
+</td>
+<td style="text-align:right;">
+1.001268
+</td>
+<td style="text-align:right;">
+1.001500
+</td>
+<td style="text-align:right;">
+1.000587
+</td>
+<td style="text-align:right;">
+1.000646
+</td>
+<td style="text-align:right;">
+1.000365
+</td>
+<td style="text-align:right;">
+1.001348
+</td>
+<td style="text-align:right;">
+1.000713
+</td>
+<td style="text-align:right;">
+1.001219
+</td>
+<td style="text-align:right;">
+1.000926
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+literate
+</td>
+<td style="text-align:right;">
+83.602879
+</td>
+<td style="text-align:right;">
+83.316930
+</td>
+<td style="text-align:right;">
+83.618546
+</td>
+<td style="text-align:right;">
+85.242792
+</td>
+<td style="text-align:right;">
+85.495947
+</td>
+<td style="text-align:right;">
+85.490397
+</td>
+<td style="text-align:right;">
+85.633596
+</td>
+<td style="text-align:right;">
+86.345914
+</td>
+<td style="text-align:right;">
+87.218438
+</td>
+<td style="text-align:right;">
+87.325561
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+student
+</td>
+<td style="text-align:right;">
+30.719317
+</td>
+<td style="text-align:right;">
+30.657163
+</td>
+<td style="text-align:right;">
+30.117890
+</td>
+<td style="text-align:right;">
+29.329119
+</td>
+<td style="text-align:right;">
+28.871824
+</td>
+<td style="text-align:right;">
+28.668172
+</td>
+<td style="text-align:right;">
+27.991695
+</td>
+<td style="text-align:right;">
+27.376933
+</td>
+<td style="text-align:right;">
+26.965645
+</td>
+<td style="text-align:right;">
+26.180286
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+female
+</td>
+<td style="text-align:right;">
+49.901832
+</td>
+<td style="text-align:right;">
+50.031919
+</td>
+<td style="text-align:right;">
+49.937203
+</td>
+<td style="text-align:right;">
+49.603845
+</td>
+<td style="text-align:right;">
+49.800529
+</td>
+<td style="text-align:right;">
+49.919711
+</td>
+<td style="text-align:right;">
+49.828943
+</td>
+<td style="text-align:right;">
+49.909681
+</td>
+<td style="text-align:right;">
+49.772406
+</td>
+<td style="text-align:right;">
+50.002658
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+age
+</td>
+<td style="text-align:right;">
+31.214607
+</td>
+<td style="text-align:right;">
+31.932403
+</td>
+<td style="text-align:right;">
+32.660355
+</td>
+<td style="text-align:right;">
+31.450977
+</td>
+<td style="text-align:right;">
+32.249490
+</td>
+<td style="text-align:right;">
+32.776086
+</td>
+<td style="text-align:right;">
+33.286370
+</td>
+<td style="text-align:right;">
+33.497837
+</td>
+<td style="text-align:right;">
+33.214002
+</td>
+<td style="text-align:right;">
+34.184482
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+hours_w
+</td>
+<td style="text-align:right;">
+8.512224
+</td>
+<td style="text-align:right;">
+8.536169
+</td>
+<td style="text-align:right;">
+8.514653
+</td>
+<td style="text-align:right;">
+8.426629
+</td>
+<td style="text-align:right;">
+8.413178
+</td>
+<td style="text-align:right;">
+8.443573
+</td>
+<td style="text-align:right;">
+8.415468
+</td>
+<td style="text-align:right;">
+8.540553
+</td>
+<td style="text-align:right;">
+8.567393
+</td>
+<td style="text-align:right;">
+8.535429
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+days_w
+</td>
+<td style="text-align:right;">
+5.578062
+</td>
+<td style="text-align:right;">
+5.610158
+</td>
+<td style="text-align:right;">
+5.553329
+</td>
+<td style="text-align:right;">
+5.562511
+</td>
+<td style="text-align:right;">
+5.568581
+</td>
+<td style="text-align:right;">
+5.555247
+</td>
+<td style="text-align:right;">
+5.508658
+</td>
+<td style="text-align:right;">
+5.534698
+</td>
+<td style="text-align:right;">
+5.574768
+</td>
+<td style="text-align:right;">
+5.593744
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+hours_s
+</td>
+<td style="text-align:right;">
+7.725828
+</td>
+<td style="text-align:right;">
+7.749941
+</td>
+<td style="text-align:right;">
+7.845208
+</td>
+<td style="text-align:right;">
+7.832617
+</td>
+<td style="text-align:right;">
+7.740324
+</td>
+<td style="text-align:right;">
+7.815028
+</td>
+<td style="text-align:right;">
+7.761225
+</td>
+<td style="text-align:right;">
+7.937650
+</td>
+<td style="text-align:right;">
+8.024436
+</td>
+<td style="text-align:right;">
+7.937381
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+days_s
+</td>
+<td style="text-align:right;">
+6.501877
+</td>
+<td style="text-align:right;">
+6.402398
+</td>
+<td style="text-align:right;">
+6.432165
+</td>
+<td style="text-align:right;">
+6.388551
+</td>
+<td style="text-align:right;">
+6.396116
+</td>
+<td style="text-align:right;">
+6.337979
+</td>
+<td style="text-align:right;">
+6.249191
+</td>
+<td style="text-align:right;">
+6.267626
+</td>
+<td style="text-align:right;">
+6.210391
+</td>
+<td style="text-align:right;">
+6.234992
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="trends-in-individual-level-data.html#cb2-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(year, education) <span class="sc">%&gt;%</span></span>
+<span id="cb2-2"><a href="trends-in-individual-level-data.html#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">number =</span> <span class="fu">sum</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb2-3"><a href="trends-in-individual-level-data.html#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb2-4"><a href="trends-in-individual-level-data.html#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">share =</span> number<span class="sc">/</span><span class="fu">sum</span>(number)<span class="sc">*</span><span class="dv">100</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb2-5"><a href="trends-in-individual-level-data.html#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(education, <span class="at">names_from=</span><span class="st">&quot;year&quot;</span>, <span class="at">values_from=</span><span class="st">&quot;share&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb2-6"><a href="trends-in-individual-level-data.html#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;Trend of education-level&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb2-7"><a href="trends-in-individual-level-data.html#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb2-8"><a href="trends-in-individual-level-data.html#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scroll_box</span>(<span class="at">height =</span> <span class="st">&quot;300px&quot;</span>)</span></code></pre></div>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:300px; ">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:unnamed-chunk-2">Table 7.1: </span>Trend of education-level
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+education
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+89
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+90
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+91
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+92
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+93
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+94
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+95
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+96
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+97
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+98
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Elemantry
+</td>
+<td style="text-align:right;">
+27.4179293
+</td>
+<td style="text-align:right;">
+26.9558956
+</td>
+<td style="text-align:right;">
+27.3383235
+</td>
+<td style="text-align:right;">
+27.3431344
+</td>
+<td style="text-align:right;">
+27.4436532
+</td>
+<td style="text-align:right;">
+27.5148864
+</td>
+<td style="text-align:right;">
+27.4352938
+</td>
+<td style="text-align:right;">
+27.0558504
+</td>
+<td style="text-align:right;">
+25.8042373
+</td>
+<td style="text-align:right;">
+25.6667534
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Secondary
+</td>
+<td style="text-align:right;">
+15.9497885
+</td>
+<td style="text-align:right;">
+16.2280615
+</td>
+<td style="text-align:right;">
+15.6610064
+</td>
+<td style="text-align:right;">
+15.1920500
+</td>
+<td style="text-align:right;">
+14.2881366
+</td>
+<td style="text-align:right;">
+14.8987009
+</td>
+<td style="text-align:right;">
+15.1181891
+</td>
+<td style="text-align:right;">
+15.2680867
+</td>
+<td style="text-align:right;">
+15.5019227
+</td>
+<td style="text-align:right;">
+15.4230765
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+HighSchool
+</td>
+<td style="text-align:right;">
+4.9248632
+</td>
+<td style="text-align:right;">
+4.5006534
+</td>
+<td style="text-align:right;">
+4.3578238
+</td>
+<td style="text-align:right;">
+4.6338828
+</td>
+<td style="text-align:right;">
+5.4099959
+</td>
+<td style="text-align:right;">
+4.7036006
+</td>
+<td style="text-align:right;">
+4.4113239
+</td>
+<td style="text-align:right;">
+4.1121194
+</td>
+<td style="text-align:right;">
+4.1299510
+</td>
+<td style="text-align:right;">
+4.2677753
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Diploma
+</td>
+<td style="text-align:right;">
+15.6913560
+</td>
+<td style="text-align:right;">
+15.7270475
+</td>
+<td style="text-align:right;">
+15.8424642
+</td>
+<td style="text-align:right;">
+15.1835181
+</td>
+<td style="text-align:right;">
+16.1720745
+</td>
+<td style="text-align:right;">
+16.3517987
+</td>
+<td style="text-align:right;">
+16.4026533
+</td>
+<td style="text-align:right;">
+17.0096987
+</td>
+<td style="text-align:right;">
+17.2682861
+</td>
+<td style="text-align:right;">
+17.6466180
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+College
+</td>
+<td style="text-align:right;">
+3.2418831
+</td>
+<td style="text-align:right;">
+3.3760137
+</td>
+<td style="text-align:right;">
+3.3154985
+</td>
+<td style="text-align:right;">
+3.3470578
+</td>
+<td style="text-align:right;">
+3.5061038
+</td>
+<td style="text-align:right;">
+3.5078284
+</td>
+<td style="text-align:right;">
+3.4729789
+</td>
+<td style="text-align:right;">
+3.4734857
+</td>
+<td style="text-align:right;">
+3.5672502
+</td>
+<td style="text-align:right;">
+3.4931683
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Bachelor
+</td>
+<td style="text-align:right;">
+8.0135856
+</td>
+<td style="text-align:right;">
+8.3270709
+</td>
+<td style="text-align:right;">
+8.9204476
+</td>
+<td style="text-align:right;">
+9.3472453
+</td>
+<td style="text-align:right;">
+9.2292317
+</td>
+<td style="text-align:right;">
+9.1854107
+</td>
+<td style="text-align:right;">
+9.2927006
+</td>
+<td style="text-align:right;">
+9.6921996
+</td>
+<td style="text-align:right;">
+9.7624141
+</td>
+<td style="text-align:right;">
+10.0362701
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Master
+</td>
+<td style="text-align:right;">
+0.7105265
+</td>
+<td style="text-align:right;">
+0.9649471
+</td>
+<td style="text-align:right;">
+1.2293105
+</td>
+<td style="text-align:right;">
+1.3908550
+</td>
+<td style="text-align:right;">
+1.7759496
+</td>
+<td style="text-align:right;">
+1.9737183
+</td>
+<td style="text-align:right;">
+2.2272200
+</td>
+<td style="text-align:right;">
+2.3862066
+</td>
+<td style="text-align:right;">
+2.6228452
+</td>
+<td style="text-align:right;">
+2.6540900
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+PhD
+</td>
+<td style="text-align:right;">
+0.1130590
+</td>
+<td style="text-align:right;">
+0.0700451
+</td>
+<td style="text-align:right;">
+0.0742135
+</td>
+<td style="text-align:right;">
+0.1039445
+</td>
+<td style="text-align:right;">
+0.1363366
+</td>
+<td style="text-align:right;">
+0.1941889
+</td>
+<td style="text-align:right;">
+0.2469767
+</td>
+<td style="text-align:right;">
+0.2438966
+</td>
+<td style="text-align:right;">
+0.1337045
+</td>
+<td style="text-align:right;">
+0.2363086
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other
+</td>
+<td style="text-align:right;">
+0.6872334
+</td>
+<td style="text-align:right;">
+0.6036479
+</td>
+<td style="text-align:right;">
+0.6531497
+</td>
+<td style="text-align:right;">
+0.5642147
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:right;">
+NA
+</td>
+<td style="text-align:right;">
+0.5275625
+</td>
+<td style="text-align:right;">
+0.5018630
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:right;">
+23.2497755
+</td>
+<td style="text-align:right;">
+23.2466174
+</td>
+<td style="text-align:right;">
+22.6077623
+</td>
+<td style="text-align:right;">
+22.8940971
+</td>
+<td style="text-align:right;">
+22.0385183
+</td>
+<td style="text-align:right;">
+21.6698673
+</td>
+<td style="text-align:right;">
+21.3926636
+</td>
+<td style="text-align:right;">
+20.7584563
+</td>
+<td style="text-align:right;">
+20.6818264
+</td>
+<td style="text-align:right;">
+20.0740768
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="trends-in-individual-level-data.html#cb3-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(year, education) <span class="sc">%&gt;%</span></span>
+<span id="cb3-2"><a href="trends-in-individual-level-data.html#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">number =</span> <span class="fu">sum</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb3-3"><a href="trends-in-individual-level-data.html#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb3-4"><a href="trends-in-individual-level-data.html#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">share =</span> number<span class="sc">/</span><span class="fu">sum</span>(number)) <span class="sc">%&gt;%</span></span>
+<span id="cb3-5"><a href="trends-in-individual-level-data.html#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x=</span>year,<span class="at">y=</span>share,<span class="at">fill=</span>education)) <span class="sc">+</span> </span>
+<span id="cb3-6"><a href="trends-in-individual-level-data.html#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>() <span class="sc">+</span></span>
+<span id="cb3-7"><a href="trends-in-individual-level-data.html#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="co">#geom_text(aes(label = scales::percent(share)), position = position_stack(vjust = 0.5)) + </span></span>
+<span id="cb3-8"><a href="trends-in-individual-level-data.html#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_bw</span>() </span></code></pre></div>
+<p><img src="HEIS_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="trends-in-individual-level-data.html#cb4-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(year, relation) <span class="sc">%&gt;%</span></span>
+<span id="cb4-2"><a href="trends-in-individual-level-data.html#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">number =</span> <span class="fu">sum</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb4-3"><a href="trends-in-individual-level-data.html#cb4-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb4-4"><a href="trends-in-individual-level-data.html#cb4-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">share =</span> number<span class="sc">/</span><span class="fu">sum</span>(number)<span class="sc">*</span><span class="dv">100</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb4-5"><a href="trends-in-individual-level-data.html#cb4-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(relation, <span class="at">names_from=</span><span class="st">&quot;year&quot;</span>, <span class="at">values_from=</span><span class="st">&quot;share&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb4-6"><a href="trends-in-individual-level-data.html#cb4-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;Trend of relationship with houshold head&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb4-7"><a href="trends-in-individual-level-data.html#cb4-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb4-8"><a href="trends-in-individual-level-data.html#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scroll_box</span>(<span class="at">height =</span> <span class="st">&quot;400px&quot;</span>)</span></code></pre></div>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:400px; ">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:unnamed-chunk-2">Table 7.1: </span>Trend of relationship with houshold head
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+relation
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+89
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+90
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+91
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+92
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+93
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+94
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+95
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+96
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+97
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+98
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Head
+</td>
+<td style="text-align:right;">
+26.3254514
+</td>
+<td style="text-align:right;">
+26.6112215
+</td>
+<td style="text-align:right;">
+27.0900754
+</td>
+<td style="text-align:right;">
+28.0990164
+</td>
+<td style="text-align:right;">
+28.3246302
+</td>
+<td style="text-align:right;">
+28.4575214
+</td>
+<td style="text-align:right;">
+28.7046541
+</td>
+<td style="text-align:right;">
+28.7849908
+</td>
+<td style="text-align:right;">
+29.3539703
+</td>
+<td style="text-align:right;">
+29.5364925
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Spouse
+</td>
+<td style="text-align:right;">
+22.1063708
+</td>
+<td style="text-align:right;">
+22.2137142
+</td>
+<td style="text-align:right;">
+22.4996692
+</td>
+<td style="text-align:right;">
+23.8397578
+</td>
+<td style="text-align:right;">
+23.7604768
+</td>
+<td style="text-align:right;">
+23.7842859
+</td>
+<td style="text-align:right;">
+23.9314996
+</td>
+<td style="text-align:right;">
+24.1297725
+</td>
+<td style="text-align:right;">
+24.4905686
+</td>
+<td style="text-align:right;">
+24.5092192
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Child
+</td>
+<td style="text-align:right;">
+47.1016528
+</td>
+<td style="text-align:right;">
+47.0020117
+</td>
+<td style="text-align:right;">
+46.3588156
+</td>
+<td style="text-align:right;">
+44.8672394
+</td>
+<td style="text-align:right;">
+44.5858656
+</td>
+<td style="text-align:right;">
+44.5406326
+</td>
+<td style="text-align:right;">
+44.0449584
+</td>
+<td style="text-align:right;">
+43.8862288
+</td>
+<td style="text-align:right;">
+42.8234469
+</td>
+<td style="text-align:right;">
+42.7469844
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+SonDaughter_inLaw
+</td>
+<td style="text-align:right;">
+1.0269177
+</td>
+<td style="text-align:right;">
+1.0047514
+</td>
+<td style="text-align:right;">
+0.9515441
+</td>
+<td style="text-align:right;">
+0.6938261
+</td>
+<td style="text-align:right;">
+0.7256086
+</td>
+<td style="text-align:right;">
+0.6875495
+</td>
+<td style="text-align:right;">
+0.7026408
+</td>
+<td style="text-align:right;">
+0.6418243
+</td>
+<td style="text-align:right;">
+0.5705477
+</td>
+<td style="text-align:right;">
+0.5291946
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+GrandSonDaughter
+</td>
+<td style="text-align:right;">
+1.2106559
+</td>
+<td style="text-align:right;">
+1.1652605
+</td>
+<td style="text-align:right;">
+1.1639143
+</td>
+<td style="text-align:right;">
+0.9391639
+</td>
+<td style="text-align:right;">
+0.9971313
+</td>
+<td style="text-align:right;">
+1.0545372
+</td>
+<td style="text-align:right;">
+1.0750574
+</td>
+<td style="text-align:right;">
+1.0975951
+</td>
+<td style="text-align:right;">
+1.1462817
+</td>
+<td style="text-align:right;">
+1.1289256
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Parent
+</td>
+<td style="text-align:right;">
+0.9369964
+</td>
+<td style="text-align:right;">
+0.8812030
+</td>
+<td style="text-align:right;">
+0.8859965
+</td>
+<td style="text-align:right;">
+0.7773839
+</td>
+<td style="text-align:right;">
+0.7733104
+</td>
+<td style="text-align:right;">
+0.7433376
+</td>
+<td style="text-align:right;">
+0.7593385
+</td>
+<td style="text-align:right;">
+0.7414480
+</td>
+<td style="text-align:right;">
+0.7834874
+</td>
+<td style="text-align:right;">
+0.7283398
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Sibling
+</td>
+<td style="text-align:right;">
+0.7182855
+</td>
+<td style="text-align:right;">
+0.5961798
+</td>
+<td style="text-align:right;">
+0.5676886
+</td>
+<td style="text-align:right;">
+0.4439059
+</td>
+<td style="text-align:right;">
+0.5052952
+</td>
+<td style="text-align:right;">
+0.4001753
+</td>
+<td style="text-align:right;">
+0.4669795
+</td>
+<td style="text-align:right;">
+0.4339498
+</td>
+<td style="text-align:right;">
+0.4395565
+</td>
+<td style="text-align:right;">
+0.4564733
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+OtherRelative
+</td>
+<td style="text-align:right;">
+0.4125645
+</td>
+<td style="text-align:right;">
+0.3831132
+</td>
+<td style="text-align:right;">
+0.3485921
+</td>
+<td style="text-align:right;">
+0.2758895
+</td>
+<td style="text-align:right;">
+0.2420757
+</td>
+<td style="text-align:right;">
+0.2124597
+</td>
+<td style="text-align:right;">
+0.2516056
+</td>
+<td style="text-align:right;">
+0.2315500
+</td>
+<td style="text-align:right;">
+0.3098134
+</td>
+<td style="text-align:right;">
+0.2963955
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NonRelative
+</td>
+<td style="text-align:right;">
+0.1611050
+</td>
+<td style="text-align:right;">
+0.1425447
+</td>
+<td style="text-align:right;">
+0.1337041
+</td>
+<td style="text-align:right;">
+0.0638170
+</td>
+<td style="text-align:right;">
+0.0856063
+</td>
+<td style="text-align:right;">
+0.1195007
+</td>
+<td style="text-align:right;">
+0.0632661
+</td>
+<td style="text-align:right;">
+0.0526406
+</td>
+<td style="text-align:right;">
+0.0823275
+</td>
+<td style="text-align:right;">
+0.0679750
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="trends-in-individual-level-data.html#cb5-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(year, maritalst) <span class="sc">%&gt;%</span></span>
+<span id="cb5-2"><a href="trends-in-individual-level-data.html#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">number =</span> <span class="fu">sum</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb5-3"><a href="trends-in-individual-level-data.html#cb5-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb5-4"><a href="trends-in-individual-level-data.html#cb5-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">share =</span> number<span class="sc">/</span><span class="fu">sum</span>(number)<span class="sc">*</span><span class="dv">100</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb5-5"><a href="trends-in-individual-level-data.html#cb5-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(maritalst, <span class="at">names_from=</span><span class="st">&quot;year&quot;</span>, <span class="at">values_from=</span><span class="st">&quot;share&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb5-6"><a href="trends-in-individual-level-data.html#cb5-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;Trend of marital status&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb5-7"><a href="trends-in-individual-level-data.html#cb5-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb5-8"><a href="trends-in-individual-level-data.html#cb5-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scroll_box</span>(<span class="at">height =</span> <span class="st">&quot;200px&quot;</span>)</span></code></pre></div>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; ">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:unnamed-chunk-2">Table 7.1: </span>Trend of marital status
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+maritalst
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+89
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+90
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+91
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+92
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+93
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+94
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+95
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+96
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+97
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+98
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Married
+</td>
+<td style="text-align:right;">
+49.0326918
+</td>
+<td style="text-align:right;">
+49.111976
+</td>
+<td style="text-align:right;">
+49.715671
+</td>
+<td style="text-align:right;">
+51.3841124
+</td>
+<td style="text-align:right;">
+51.261460
+</td>
+<td style="text-align:right;">
+51.151987
+</td>
+<td style="text-align:right;">
+51.338463
+</td>
+<td style="text-align:right;">
+51.660369
+</td>
+<td style="text-align:right;">
+52.041044
+</td>
+<td style="text-align:right;">
+52.002669
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Widowed
+</td>
+<td style="text-align:right;">
+3.9631069
+</td>
+<td style="text-align:right;">
+4.197008
+</td>
+<td style="text-align:right;">
+4.282663
+</td>
+<td style="text-align:right;">
+3.8590685
+</td>
+<td style="text-align:right;">
+4.184238
+</td>
+<td style="text-align:right;">
+4.133063
+</td>
+<td style="text-align:right;">
+4.332200
+</td>
+<td style="text-align:right;">
+4.187647
+</td>
+<td style="text-align:right;">
+4.221930
+</td>
+<td style="text-align:right;">
+4.306677
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Divorced
+</td>
+<td style="text-align:right;">
+0.7910894
+</td>
+<td style="text-align:right;">
+0.894192
+</td>
+<td style="text-align:right;">
+1.037142
+</td>
+<td style="text-align:right;">
+0.8897502
+</td>
+<td style="text-align:right;">
+1.075377
+</td>
+<td style="text-align:right;">
+1.229318
+</td>
+<td style="text-align:right;">
+1.219983
+</td>
+<td style="text-align:right;">
+1.264830
+</td>
+<td style="text-align:right;">
+1.430927
+</td>
+<td style="text-align:right;">
+1.440146
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Single
+</td>
+<td style="text-align:right;">
+32.6162394
+</td>
+<td style="text-align:right;">
+32.741118
+</td>
+<td style="text-align:right;">
+32.264639
+</td>
+<td style="text-align:right;">
+28.5834258
+</td>
+<td style="text-align:right;">
+28.683464
+</td>
+<td style="text-align:right;">
+29.124115
+</td>
+<td style="text-align:right;">
+29.016093
+</td>
+<td style="text-align:right;">
+28.721138
+</td>
+<td style="text-align:right;">
+27.065574
+</td>
+<td style="text-align:right;">
+27.679812
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:right;">
+13.5968726
+</td>
+<td style="text-align:right;">
+13.055705
+</td>
+<td style="text-align:right;">
+12.699885
+</td>
+<td style="text-align:right;">
+15.2836432
+</td>
+<td style="text-align:right;">
+14.795462
+</td>
+<td style="text-align:right;">
+14.361517
+</td>
+<td style="text-align:right;">
+14.093261
+</td>
+<td style="text-align:right;">
+14.166015
+</td>
+<td style="text-align:right;">
+15.240526
+</td>
+<td style="text-align:right;">
+14.570697
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="trends-in-individual-level-data.html#cb6-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(year, occupationalst) <span class="sc">%&gt;%</span></span>
+<span id="cb6-2"><a href="trends-in-individual-level-data.html#cb6-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">number =</span> <span class="fu">sum</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb6-3"><a href="trends-in-individual-level-data.html#cb6-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb6-4"><a href="trends-in-individual-level-data.html#cb6-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">share =</span> number<span class="sc">/</span><span class="fu">sum</span>(number)<span class="sc">*</span><span class="dv">100</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb6-5"><a href="trends-in-individual-level-data.html#cb6-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(occupationalst, <span class="at">names_from=</span><span class="st">&quot;year&quot;</span>, <span class="at">values_from=</span><span class="st">&quot;share&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb6-6"><a href="trends-in-individual-level-data.html#cb6-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;Trend of employment status&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb6-7"><a href="trends-in-individual-level-data.html#cb6-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb6-8"><a href="trends-in-individual-level-data.html#cb6-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scroll_box</span>(<span class="at">height =</span> <span class="st">&quot;300px&quot;</span>)</span></code></pre></div>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:300px; ">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:unnamed-chunk-2">Table 7.1: </span>Trend of employment status
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+occupationalst
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+89
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+90
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+91
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+92
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+93
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+94
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+95
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+96
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+97
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+98
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+employed
+</td>
+<td style="text-align:right;">
+28.513920
+</td>
+<td style="text-align:right;">
+27.585573
+</td>
+<td style="text-align:right;">
+28.335838
+</td>
+<td style="text-align:right;">
+28.183325
+</td>
+<td style="text-align:right;">
+27.728575
+</td>
+<td style="text-align:right;">
+27.465109
+</td>
+<td style="text-align:right;">
+27.324447
+</td>
+<td style="text-align:right;">
+27.761092
+</td>
+<td style="text-align:right;">
+27.789235
+</td>
+<td style="text-align:right;">
+27.250272
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+unemployed
+</td>
+<td style="text-align:right;">
+5.298381
+</td>
+<td style="text-align:right;">
+5.816293
+</td>
+<td style="text-align:right;">
+5.682773
+</td>
+<td style="text-align:right;">
+4.759909
+</td>
+<td style="text-align:right;">
+4.904475
+</td>
+<td style="text-align:right;">
+5.274785
+</td>
+<td style="text-align:right;">
+5.626695
+</td>
+<td style="text-align:right;">
+5.349918
+</td>
+<td style="text-align:right;">
+5.002252
+</td>
+<td style="text-align:right;">
+5.173184
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+IncomeWOJob
+</td>
+<td style="text-align:right;">
+8.506198
+</td>
+<td style="text-align:right;">
+8.658578
+</td>
+<td style="text-align:right;">
+9.018800
+</td>
+<td style="text-align:right;">
+8.499383
+</td>
+<td style="text-align:right;">
+9.349279
+</td>
+<td style="text-align:right;">
+9.236707
+</td>
+<td style="text-align:right;">
+9.536829
+</td>
+<td style="text-align:right;">
+9.723449
+</td>
+<td style="text-align:right;">
+9.690237
+</td>
+<td style="text-align:right;">
+10.491756
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Student
+</td>
+<td style="text-align:right;">
+17.483612
+</td>
+<td style="text-align:right;">
+17.779308
+</td>
+<td style="text-align:right;">
+17.243620
+</td>
+<td style="text-align:right;">
+15.964403
+</td>
+<td style="text-align:right;">
+15.725067
+</td>
+<td style="text-align:right;">
+15.742607
+</td>
+<td style="text-align:right;">
+15.473114
+</td>
+<td style="text-align:right;">
+15.215887
+</td>
+<td style="text-align:right;">
+14.804962
+</td>
+<td style="text-align:right;">
+14.535477
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Housewife
+</td>
+<td style="text-align:right;">
+24.350677
+</td>
+<td style="text-align:right;">
+24.826701
+</td>
+<td style="text-align:right;">
+24.817637
+</td>
+<td style="text-align:right;">
+25.414939
+</td>
+<td style="text-align:right;">
+25.441029
+</td>
+<td style="text-align:right;">
+25.870279
+</td>
+<td style="text-align:right;">
+25.876333
+</td>
+<td style="text-align:right;">
+25.697787
+</td>
+<td style="text-align:right;">
+25.646267
+</td>
+<td style="text-align:right;">
+26.045687
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other
+</td>
+<td style="text-align:right;">
+2.250010
+</td>
+<td style="text-align:right;">
+2.273938
+</td>
+<td style="text-align:right;">
+2.200392
+</td>
+<td style="text-align:right;">
+1.891518
+</td>
+<td style="text-align:right;">
+2.056112
+</td>
+<td style="text-align:right;">
+2.043811
+</td>
+<td style="text-align:right;">
+2.068338
+</td>
+<td style="text-align:right;">
+2.085853
+</td>
+<td style="text-align:right;">
+1.820692
+</td>
+<td style="text-align:right;">
+1.932469
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:right;">
+13.597203
+</td>
+<td style="text-align:right;">
+13.059609
+</td>
+<td style="text-align:right;">
+12.700940
+</td>
+<td style="text-align:right;">
+15.286523
+</td>
+<td style="text-align:right;">
+14.795462
+</td>
+<td style="text-align:right;">
+14.366701
+</td>
+<td style="text-align:right;">
+14.094243
+</td>
+<td style="text-align:right;">
+14.166015
+</td>
+<td style="text-align:right;">
+15.246355
+</td>
+<td style="text-align:right;">
+14.571155
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="trends-in-individual-level-data.html#cb7-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(year, status_w) <span class="sc">%&gt;%</span></span>
+<span id="cb7-2"><a href="trends-in-individual-level-data.html#cb7-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">number =</span> <span class="fu">sum</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb7-3"><a href="trends-in-individual-level-data.html#cb7-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb7-4"><a href="trends-in-individual-level-data.html#cb7-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">share =</span> number<span class="sc">/</span><span class="fu">sum</span>(number)<span class="sc">*</span><span class="dv">100</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb7-5"><a href="trends-in-individual-level-data.html#cb7-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(status_w, <span class="at">names_from=</span><span class="st">&quot;year&quot;</span>, <span class="at">values_from=</span><span class="st">&quot;share&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb7-6"><a href="trends-in-individual-level-data.html#cb7-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;Trend of job-status of wage-earners&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb7-7"><a href="trends-in-individual-level-data.html#cb7-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb7-8"><a href="trends-in-individual-level-data.html#cb7-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scroll_box</span>(<span class="at">height =</span> <span class="st">&quot;200px&quot;</span>)</span></code></pre></div>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; ">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:unnamed-chunk-2">Table 7.1: </span>Trend of job-status of wage-earners
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+status_w
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+89
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+90
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+91
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+92
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+93
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+94
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+95
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+96
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+97
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+98
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+public
+</td>
+<td style="text-align:right;">
+4.2575349
+</td>
+<td style="text-align:right;">
+3.9216423
+</td>
+<td style="text-align:right;">
+4.1921650
+</td>
+<td style="text-align:right;">
+4.166793
+</td>
+<td style="text-align:right;">
+3.983877
+</td>
+<td style="text-align:right;">
+3.8425475
+</td>
+<td style="text-align:right;">
+3.9190328
+</td>
+<td style="text-align:right;">
+3.9622387
+</td>
+<td style="text-align:right;">
+3.8090221
+</td>
+<td style="text-align:right;">
+3.7287082
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+cooperative
+</td>
+<td style="text-align:right;">
+0.0707955
+</td>
+<td style="text-align:right;">
+0.0665362
+</td>
+<td style="text-align:right;">
+0.0575354
+</td>
+<td style="text-align:right;">
+0.050287
+</td>
+<td style="text-align:right;">
+0.050758
+</td>
+<td style="text-align:right;">
+0.0478215
+</td>
+<td style="text-align:right;">
+0.0239547
+</td>
+<td style="text-align:right;">
+0.0364969
+</td>
+<td style="text-align:right;">
+0.0426843
+</td>
+<td style="text-align:right;">
+0.0240996
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+private
+</td>
+<td style="text-align:right;">
+13.6524155
+</td>
+<td style="text-align:right;">
+12.8585388
+</td>
+<td style="text-align:right;">
+13.0103767
+</td>
+<td style="text-align:right;">
+13.343096
+</td>
+<td style="text-align:right;">
+13.798232
+</td>
+<td style="text-align:right;">
+13.9974171
+</td>
+<td style="text-align:right;">
+13.9940446
+</td>
+<td style="text-align:right;">
+14.5115773
+</td>
+<td style="text-align:right;">
+14.4381913
+</td>
+<td style="text-align:right;">
+14.0669243
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:right;">
+82.0192541
+</td>
+<td style="text-align:right;">
+83.1532827
+</td>
+<td style="text-align:right;">
+82.7399229
+</td>
+<td style="text-align:right;">
+82.439824
+</td>
+<td style="text-align:right;">
+82.167133
+</td>
+<td style="text-align:right;">
+82.1122139
+</td>
+<td style="text-align:right;">
+82.0629679
+</td>
+<td style="text-align:right;">
+81.4896871
+</td>
+<td style="text-align:right;">
+81.7101023
+</td>
+<td style="text-align:right;">
+82.1802679
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="trends-in-individual-level-data.html#cb8-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(year, status_s) <span class="sc">%&gt;%</span></span>
+<span id="cb8-2"><a href="trends-in-individual-level-data.html#cb8-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">number =</span> <span class="fu">sum</span>(weight)) <span class="sc">%&gt;%</span></span>
+<span id="cb8-3"><a href="trends-in-individual-level-data.html#cb8-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb8-4"><a href="trends-in-individual-level-data.html#cb8-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">share =</span> number<span class="sc">/</span><span class="fu">sum</span>(number)<span class="sc">*</span><span class="dv">100</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb8-5"><a href="trends-in-individual-level-data.html#cb8-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(status_s, <span class="at">names_from=</span><span class="st">&quot;year&quot;</span>, <span class="at">values_from=</span><span class="st">&quot;share&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb8-6"><a href="trends-in-individual-level-data.html#cb8-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;Trend of job-status of self-employment&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-7"><a href="trends-in-individual-level-data.html#cb8-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="st">&quot;striped&quot;</span>, <span class="st">&quot;hover&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb8-8"><a href="trends-in-individual-level-data.html#cb8-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scroll_box</span>(<span class="at">height =</span> <span class="st">&quot;200px&quot;</span>)</span></code></pre></div>
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; ">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:unnamed-chunk-2">Table 7.1: </span>Trend of job-status of self-employment
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+status_s
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+89
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+90
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+91
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+92
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+93
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+94
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+95
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+96
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+97
+</th>
+<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
+98
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+employer
+</td>
+<td style="text-align:right;">
+1.997396
+</td>
+<td style="text-align:right;">
+1.735552
+</td>
+<td style="text-align:right;">
+1.707096
+</td>
+<td style="text-align:right;">
+1.574974
+</td>
+<td style="text-align:right;">
+1.344553
+</td>
+<td style="text-align:right;">
+1.156768
+</td>
+<td style="text-align:right;">
+1.276251
+</td>
+<td style="text-align:right;">
+1.239464
+</td>
+<td style="text-align:right;">
+1.234822
+</td>
+<td style="text-align:right;">
+1.145904
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+selfemployed
+</td>
+<td style="text-align:right;">
+9.080730
+</td>
+<td style="text-align:right;">
+8.834283
+</td>
+<td style="text-align:right;">
+9.085923
+</td>
+<td style="text-align:right;">
+8.987861
+</td>
+<td style="text-align:right;">
+8.695944
+</td>
+<td style="text-align:right;">
+9.012654
+</td>
+<td style="text-align:right;">
+9.002299
+</td>
+<td style="text-align:right;">
+9.148716
+</td>
+<td style="text-align:right;">
+9.295213
+</td>
+<td style="text-align:right;">
+9.351290
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+familyworker
+</td>
+<td style="text-align:right;">
+2.749234
+</td>
+<td style="text-align:right;">
+2.435735
+</td>
+<td style="text-align:right;">
+2.507786
+</td>
+<td style="text-align:right;">
+2.007001
+</td>
+<td style="text-align:right;">
+1.869709
+</td>
+<td style="text-align:right;">
+1.627454
+</td>
+<td style="text-align:right;">
+1.380053
+</td>
+<td style="text-align:right;">
+1.177641
+</td>
+<td style="text-align:right;">
+1.123499
+</td>
+<td style="text-align:right;">
+1.164581
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:right;">
+86.172640
+</td>
+<td style="text-align:right;">
+86.994431
+</td>
+<td style="text-align:right;">
+86.699195
+</td>
+<td style="text-align:right;">
+87.430165
+</td>
+<td style="text-align:right;">
+88.089794
+</td>
+<td style="text-align:right;">
+88.203125
+</td>
+<td style="text-align:right;">
+88.341397
+</td>
+<td style="text-align:right;">
+88.434179
+</td>
+<td style="text-align:right;">
+88.346466
+</td>
+<td style="text-align:right;">
+88.338225
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="trends-in-individual-level-data.html#cb9-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="at">income_wageearner=</span>income_w_y,<span class="at">wage=</span>wage_w_y, <span class="at">perks=</span>perk_w_y,<span class="at">income_selfemployed=</span>income_s_y,</span>
+<span id="cb9-2"><a href="trends-in-individual-level-data.html#cb9-2" aria-hidden="true" tabindex="-1"></a>              <span class="at">pension=</span>income_pension, <span class="at">rent=</span>income_rent, <span class="at">interest=</span>income_interest, </span>
+<span id="cb9-3"><a href="trends-in-individual-level-data.html#cb9-3" aria-hidden="true" tabindex="-1"></a>              <span class="at">aid=</span>income_aid, <span class="at">resale=</span>income_resale, <span class="at">transfer=</span>income_transfer,subsidy, </span>
+<span id="cb9-4"><a href="trends-in-individual-level-data.html#cb9-4" aria-hidden="true" tabindex="-1"></a>              weight, cpi_y,year) <span class="sc">%&gt;%</span></span>
+<span id="cb9-5"><a href="trends-in-individual-level-data.html#cb9-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb9-6"><a href="trends-in-individual-level-data.html#cb9-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="fu">across</span>(income_wageearner<span class="sc">:</span>subsidy,<span class="sc">~</span><span class="fu">weighted.mean</span>(.x<span class="sc">/</span>cpi_y<span class="sc">*</span><span class="dv">100</span>,weight,<span class="at">na.rm =</span> T))) <span class="sc">%&gt;%</span></span>
+<span id="cb9-7"><a href="trends-in-individual-level-data.html#cb9-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_longer</span>(income_wageearner<span class="sc">:</span>subsidy, <span class="at">names_to =</span> <span class="st">&quot;Income_type&quot;</span>, <span class="at">values_to =</span> <span class="st">&quot;real_value&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb9-8"><a href="trends-in-individual-level-data.html#cb9-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x=</span>year,<span class="at">y=</span><span class="fu">log</span>(real_value),<span class="at">color=</span>Income_type,<span class="at">shape=</span>Income_type)) <span class="sc">+</span></span>
+<span id="cb9-9"><a href="trends-in-individual-level-data.html#cb9-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>() <span class="sc">+</span> <span class="fu">geom_point</span>() <span class="sc">+</span> <span class="fu">theme_bw</span>() <span class="sc">+</span> <span class="fu">ggtitle</span>(<span class="st">&quot;log of mean individual income&quot;</span>)</span></code></pre></div>
+<p><img src="HEIS_files/figure-html/unnamed-chunk-2-2.png" width="672" /></p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="trends-in-individual-level-data.html#cb10-1" aria-hidden="true" tabindex="-1"></a>IND <span class="sc">%&gt;%</span> <span class="fu">select</span>(cost_employment<span class="sc">:</span>sale,weight, cpi_y,year) <span class="sc">%&gt;%</span></span>
+<span id="cb10-2"><a href="trends-in-individual-level-data.html#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(year) <span class="sc">%&gt;%</span></span>
+<span id="cb10-3"><a href="trends-in-individual-level-data.html#cb10-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="fu">across</span>(cost_employment<span class="sc">:</span>sale,<span class="sc">~</span><span class="fu">weighted.mean</span>(.x<span class="sc">/</span>cpi_y<span class="sc">*</span><span class="dv">100</span>,weight,<span class="at">na.rm =</span> T))) <span class="sc">%&gt;%</span></span>
+<span id="cb10-4"><a href="trends-in-individual-level-data.html#cb10-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_longer</span>(cost_employment<span class="sc">:</span>sale, <span class="at">names_to =</span> <span class="st">&quot;type&quot;</span>, <span class="at">values_to =</span> <span class="st">&quot;real_value&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb10-5"><a href="trends-in-individual-level-data.html#cb10-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x=</span>year,<span class="at">y=</span><span class="fu">log</span>(real_value),<span class="at">color=</span>type,<span class="at">shape=</span>type)) <span class="sc">+</span></span>
+<span id="cb10-6"><a href="trends-in-individual-level-data.html#cb10-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>() <span class="sc">+</span> <span class="fu">geom_point</span>() <span class="sc">+</span> <span class="fu">theme_bw</span>() <span class="sc">+</span> <span class="fu">ggtitle</span>(<span class="st">&quot;log of mean cost for self-employment&quot;</span>)</span></code></pre></div>
+<p><img src="HEIS_files/figure-html/unnamed-chunk-2-3.png" width="672" /></p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="trends-of-household-level-data.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="some-applications-of-household-level-data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/07-IND.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["HEIS.pdf", "HEIS.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

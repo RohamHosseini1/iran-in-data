@@ -1,0 +1,21 @@
+{
+  "dataset_id": "iran-khodro-paykan-production-history",
+  "title": "Iran Khodro / Paykan Automotive Production History, 1967-2018 (milestones + national vehicle production time series)",
+  "source_org": "Wikipedia (Paykan; Automotive industry in Iran articles) cross-referenced with World Bank Archives primary source",
+  "source_url": "https://en.wikipedia.org/wiki/Paykan ; https://en.wikipedia.org/wiki/Automotive_industry_in_Iran",
+  "download_url": null,
+  "extraction_method": "WebFetch of the two Wikipedia articles + WebSearch synthesis for the pre-1979 Paykan-specific ~100,000-unit 1979 figure (lower confidence, flagged explicitly in the notes column). Cross-referenced against a genuinely primary source already in this archive -- the World Bank's 1972_industrial_policies_and_priorities.pdf (see companion dataset wb1972industrial-isfahan-steel-and-idro-capital-goods) -- which independently corroborates the Paykan's market-leading position and price-competitiveness by 1972, though that document does not give a unit-count figure.",
+  "retrieved_by": "claude (WebFetch + WebSearch, manual compilation)",
+  "retrieved_at_utc": "2026-07-13T00:23:01Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "8c8ac22b32fb27e431f88d3afa150c553617df42e5c38919b6ce0f5b20e7642b", "bytes": 3632}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1967-2018 (milestone events) / 1970,1980,1990,2000,2005,2015 (production-count data points)",
+  "frequency": "irregular milestones + decadal/spot-year production counts",
+  "topics": ["automotive", "iran-khodro", "paykan", "manufacturing", "pahlavi-era", "import-substitution"],
+  "units": "vehicle units per year",
+  "license_terms": "Wikipedia content under CC BY-SA; World Bank Archives content public disclosure authorized",
+  "notes": "GENUINE GAP CLOSED: prior to this round, this project had ZERO automotive-industry data (confirmed via full-archive grep before starting this hunt). Wikipedia was used here because no primary Iranian government/industry statistical source with a clean production-count time series could be located in the time available for this round (Iran Khodro's own corporate site, SCI/Iran Statistical Yearbook automotive tables, and Plan Organization industrial statistics were NOT checked in this pass -- flagged as a natural follow-up for a future round to upgrade this dataset to primary-sourced). The 1970/1980/1990/2000/2005/2015/2018 whole-industry production figures come from a Wikipedia-hosted table (source of that table's own underlying citation was not independently traced in this pass). One explicit unresolved discrepancy is flagged in the data: a secondary-source claim of ~100,000 Paykan units in 1979 does not obviously reconcile with the 161,000 all-vehicle total reported for 1980 (different scope -- single model vs. whole industry -- so not necessarily contradictory, but flagged rather than silently smoothed over). Part of this project's Round 38 (mining/dams/industrial subsectors) hunt -- this dataset is the primary deliverable for the 'automotive industry' mission component.",
+  "failures": ["Iran Khodro corporate/investor-relations site not checked this round for an official production archive", "SCI Iran Statistical Yearbook automotive production tables not checked this round", "Plan Organization industrial census automotive figures not checked this round"]
+}

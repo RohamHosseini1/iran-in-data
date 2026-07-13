@@ -1,0 +1,20 @@
+{
+  "dataset_id": "iran-bank-branch-network-timeseries",
+  "title": "Iran Bank Branch Network Size Over Time -- Compiled Timeseries (1919-2016)",
+  "source_org": "Compiled by this project from multiple secondary/academic sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+  "source_url": "https://www.iranicaonline.org/articles/banking-in-iran/banking-i-history-of-banking-in-iran/ ; https://en.wikipedia.org/wiki/Banking_and_insurance_in_Iran",
+  "download_url": null,
+  "retrieved_at_utc": "2026-07-13T00:15:32Z",
+  "retrieved_by": "claude (hand-compiled from cross-checked secondary/academic sources, each row individually cited in the source column)",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "518a57221ba2ecc6a7b371f4b8338be6a91786043794228e0e3bf2123b7a76f0", "bytes": 1702}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1919, 1940, 1954, 1977, 1978, 1982, 2004, 2005, 2016 (sparse spot-years, not continuous -- this is what the underlying sources actually provide)",
+  "frequency": "irregular spot-years",
+  "topics": ["banking", "bank-branches", "financial-inclusion"],
+  "units": "count (branches, banks) and ratio (branches per million population)",
+  "license_terms": "compiled from multiple sources cited per-row",
+  "notes": "Directly addresses the mission's 'number of bank branches nationally over time' ask. Genuinely continuous annual branch-count data was NOT found for any source this round (would require Bank Markazi Annual Reports for every intervening year, most of which are not digitized/accessible -- see also the pre-existing data/raw/pahlavi-era-primary-extraction/ Bank Markazi/World-Bank extractions, which cover different individual years via primary-document transcription, not this compiled-narrative approach). This dataset should be read as a set of verified anchor points (each individually sourced), not an interpolatable continuous series -- no values were invented to fill gaps between rows. Combined with the pre-existing data/raw/pahlavi-era-primary-extraction/wb1960-banking-statistics-private-sector-1957-1959/ (deposit/credit levels for June 1957-June 1959) and the new data/raw/worldbank-gfdd/iran-banking-sector-depth-1960-2016/ (banking-depth RATIOS 1960-2016, this same round), the project now has a reasonably well-triangulated picture of Iran's banking-system SIZE (branches/bank-count, sparse anchors) and DEPTH (deposits/credit-to-GDP ratios, continuous annual) even though a true year-by-year branch count remains elusive.",
+  "failures": []
+}

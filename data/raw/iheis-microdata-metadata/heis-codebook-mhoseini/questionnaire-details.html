@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 2 Questionnaire details | Household Expenditure and Income Surveys of Iran</title>
+  <meta name="description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 2 Questionnaire details | Household Expenditure and Income Surveys of Iran" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 2 Questionnaire details | Household Expenditure and Income Surveys of Iran" />
+  
+  <meta name="twitter:description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  
+
+<meta name="author" content="Mohammad Hoseini" />
+
+
+<meta name="date" content="2021-04-10" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="introduction.html"/>
+<link rel="next" href="importing-raw-data.html"/>
+<script src="libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Iran's HEIS surveys</a></li>
+
+<li class="divider"></li>
+<li><a href="index.html#section"></a>
+<ul>
+<li><a href="index.html#section-1"></a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#sample-design"><i class="fa fa-check"></i><b>1.1</b> Sample design</a>
+<ul>
+<li class="chapter" data-level="1.1.1" data-path="introduction.html"><a href="introduction.html#rotating-panel-feature"><i class="fa fa-check"></i><b>1.1.1</b> Rotating panel feature</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="introduction.html"><a href="introduction.html#different-rounds"><i class="fa fa-check"></i><b>1.2</b> Different rounds</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="questionnaire-details.html"><a href="questionnaire-details.html"><i class="fa fa-check"></i><b>2</b> Questionnaire details</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-1---member-characteristics"><i class="fa fa-check"></i><b>2.1</b> Part 1 - Member Characteristics</a></li>
+<li class="chapter" data-level="2.2" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-2---household-facilities"><i class="fa fa-check"></i><b>2.2</b> Part 2 - Household Facilities</a></li>
+<li class="chapter" data-level="2.3" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-3---expenditure"><i class="fa fa-check"></i><b>2.3</b> Part 3 - Expenditure</a></li>
+<li class="chapter" data-level="2.4" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-4-income"><i class="fa fa-check"></i><b>2.4</b> Part 4: Income</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="importing-raw-data.html"><a href="importing-raw-data.html"><i class="fa fa-check"></i><b>3</b> Importing raw data</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-access-files-to-r"><i class="fa fa-check"></i><b>3.1</b> Importing access files to R</a></li>
+<li class="chapter" data-level="3.2" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-code-for-all-years"><i class="fa fa-check"></i><b>3.2</b> Importing code for all years</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="cleaning-data.html"><a href="cleaning-data.html"><i class="fa fa-check"></i><b>4</b> Cleaning data</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#importing-raw-data-and-sampling-information"><i class="fa fa-check"></i><b>4.1</b> Importing raw data and sampling information</a></li>
+<li class="chapter" data-level="4.2" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-1"><i class="fa fa-check"></i><b>4.2</b> Cleaning Part 1</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="cleaning-data.html"><a href="cleaning-data.html#education-code"><i class="fa fa-check"></i><b>4.2.1</b> Education code</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-2"><i class="fa fa-check"></i><b>4.3</b> Cleaning Part 2</a></li>
+<li class="chapter" data-level="4.4" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-3"><i class="fa fa-check"></i><b>4.4</b> Cleaning Part 3</a>
+<ul>
+<li class="chapter" data-level="4.4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#price-index-and-real-expenditure"><i class="fa fa-check"></i><b>4.4.1</b> Price index and real expenditure</a></li>
+</ul></li>
+<li class="chapter" data-level="4.5" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-4"><i class="fa fa-check"></i><b>4.5</b> Cleaning Part 4</a></li>
+<li class="chapter" data-level="4.6" data-path="cleaning-data.html"><a href="cleaning-data.html#building-item-level-data"><i class="fa fa-check"></i><b>4.6</b> Building item-level data</a></li>
+<li class="chapter" data-level="4.7" data-path="cleaning-data.html"><a href="cleaning-data.html#building-individual-level-data"><i class="fa fa-check"></i><b>4.7</b> Building individual-level data</a></li>
+<li class="chapter" data-level="4.8" data-path="cleaning-data.html"><a href="cleaning-data.html#building-household-level-data-summary-files"><i class="fa fa-check"></i><b>4.8</b> Building Household-level data (summary files)</a>
+<ul>
+<li class="chapter" data-level="4.8.1" data-path="cleaning-data.html"><a href="cleaning-data.html#exporting-to-other-formats."><i class="fa fa-check"></i><b>4.8.1</b> Exporting to other formats.</a></li>
+</ul></li>
+<li class="chapter" data-level="4.9" data-path="cleaning-data.html"><a href="cleaning-data.html#special-issues-for-different-years"><i class="fa fa-check"></i><b>4.9</b> Special issues for different years</a>
+<ul>
+<li class="chapter" data-level="4.9.1" data-path="cleaning-data.html"><a href="cleaning-data.html#the-structure-of-address-variable"><i class="fa fa-check"></i><b>4.9.1</b> The structure of Address variable</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html"><i class="fa fa-check"></i><b>5</b> Trends in expenditure items</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#total-expenditure-across-coicop-groups"><i class="fa fa-check"></i><b>5.1</b> Total expenditure across COICOP groups</a></li>
+<li class="chapter" data-level="5.2" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#expenditure-shares-of-coicop-groups"><i class="fa fa-check"></i><b>5.2</b> Expenditure shares of COICOP groups</a></li>
+<li class="chapter" data-level="5.3" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#percapita-expenditure-across-coicop-groups-and-regions"><i class="fa fa-check"></i><b>5.3</b> Percapita expenditure across COICOP groups and regions</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="trends-of-household-level-data.html"><a href="trends-of-household-level-data.html"><i class="fa fa-check"></i><b>6</b> Trends of household-level data</a></li>
+<li class="chapter" data-level="7" data-path="trends-in-individual-level-data.html"><a href="trends-in-individual-level-data.html"><i class="fa fa-check"></i><b>7</b> Trends in individual-level data</a></li>
+<li class="chapter" data-level="8" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html"><i class="fa fa-check"></i><b>8</b> Some applications of household-level data</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html#gas-price-reform-in-november-2019-in-iran-and-poverty"><i class="fa fa-check"></i><b>8.1</b> Gas price reform in November 2019 in Iran and poverty</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank"> </a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Household Expenditure and Income Surveys of Iran</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="questionnaire-details" class="section level1" number="2">
+<h1><span class="header-section-number">Chapter 2</span> Questionnaire details</h1>
+<p>The HEIS questionnaire has four main parts:</p>
+<ul>
+<li>Part 1: Member characteristics</li>
+<li>Part 2: Household facilities</li>
+<li>Part 3: Expenditures</li>
+<li>Part 4: Income</li>
+</ul>
+<div id="part-1---member-characteristics" class="section level2" number="2.1">
+<h2><span class="header-section-number">2.1</span> Part 1 - Member Characteristics</h2>
+<p>Characteristics such as age, gender, literacy, relation to the householder, marital status, and activity status are included in this part. The province’s codes where households lives are extracted from their address and are noted in column “province.” In below, I provide the variables included in this part with their value labels.</p>
+<ul>
+<li><p>Relationship: How members of the household are related to the householder?<br />
+1 = Householder (head)
+2 = Spouse<br />
+3 = Child<br />
+4 = Son/Daughter in law<br />
+5 = Grand/great son/daughter<br />
+6 = Parent<br />
+7 = Sibling<br />
+8 = Other relative<br />
+0 = Non relative</p></li>
+<li><p>Gender<br />
+1 = Male<br />
+2 = Female</p></li>
+<li><p>Literacy<br />
+1 = Literate<br />
+2 = Illiterate</p></li>
+<li><p>Currently studying<br />
+1 = Yes<br />
+2 = No</p></li>
+<li><p>Education<br />
+1 = Elemantry (ابتدایی/سواد آموزی)<br />
+2 = Secondary (راهنمایی/ متوسطه 1)<br />
+3 = High school (متوسطه / متوسطه 2)<br />
+4 = Diploma (دیپلم و پیش دانشگاهی)<br />
+5 = College (فوق دیپلم و کاردانی)<br />
+6 = Bachelor (لیسانس / کارشناسی)<br />
+7 = Master (کارشناسی ارشد و دکترای حرفه ای)<br />
+8 = Ph.D (دکترای تخصصی)<br />
+9 = Other or unofficial degrees (سایر و غیر رسمی)</p></li>
+</ul>
+<p>For the years prior to 1393, the education code is a 3-digit code providing more specific information on one’s grade and degree. For those years, I preserve the information as “degree” while building variable “education” with a unique coding as above for all years.</p>
+<ul>
+<li><p>Employment<br />
+1 = Employed<br />
+2 = Unemployed (looking for a job)<br />
+3 = Income without a job<br />
+4 = Student<br />
+5 = Housekeeper<br />
+6 = Other</p></li>
+<li><p>Marital Status<br />
+1 = Married<br />
+2 = Widowed<br />
+3 = Divorced<br />
+4 = Never married</p></li>
+</ul>
+</div>
+<div id="part-2---household-facilities" class="section level2" number="2.2">
+<h2><span class="header-section-number">2.2</span> Part 2 - Household Facilities</h2>
+<p>Appliances are listed as follows, and they express whether households have access to each one.</p>
+<ul>
+<li>tenure (نحوه تصرف محل سكونت)<br />
+</li>
+<li>room (تعداداتاق در اختیار خانوار)<br />
+</li>
+<li>space (سطح زيربنا)<br />
+</li>
+<li>construction (نوع اسکلت بنای محل سکونت)<br />
+</li>
+<li>meterial (مصالح عمده)<br />
+</li>
+<li>vehicle (اتومبيل سوارئ شخصي)<br />
+</li>
+<li>motorcycle (موتورسيكلت)<br />
+</li>
+<li>bicycle (دوچرخه)<br />
+</li>
+<li>radio (راديو)<br />
+</li>
+<li>radiotape (راديو ضبط، ضبط و پخش صوت )<br />
+</li>
+<li>TVbw (تلویزیون سیاه و سفید)<br />
+</li>
+<li>TV (تلويزيون رنگي)<br />
+</li>
+<li>VHS_VCD_DVD ( VCD و DVD انواع ویذیو و)<br />
+</li>
+<li>Computer (رایانه)<br />
+</li>
+<li>Cellphone (تلفت همراه غیر شغلی)<br />
+</li>
+<li>Freezer (فريزر)<br />
+</li>
+<li>Refridgerator (يخچال)<br />
+</li>
+<li>Fridge (يخچال فريزر)<br />
+</li>
+<li>Stove (اجاق گاز)<br />
+</li>
+<li>Vacuum (جاروبرقي)<br />
+</li>
+<li>Washingmachine (ماشین لباسشویی )<br />
+</li>
+<li>Sewingmachine (چرخ خياطي)<br />
+</li>
+<li>Fan (پنکه)<br />
+</li>
+<li>Evapcoolingportable (کولر آبي متحرک)<br />
+</li>
+<li>Splitportable (كولر گازي متحرك)<br />
+</li>
+<li>Dishwasher (ماشين ظرفشويي)<br />
+</li>
+<li>None (هيچكدام)</li>
+</ul>
+<p>The below list are utilites/facilities that are asked whether the households have access to or not:</p>
+<ul>
+<li>Pipewater (آب لوله كشي)<br />
+</li>
+<li>Electricity (برق)<br />
+</li>
+<li>Pipegas (گازلوله كشي)</li>
+<li>Telephone (تلفن)<br />
+</li>
+<li>Internet (اينترنت)<br />
+</li>
+<li>Bathroom (حمام )<br />
+</li>
+<li>Kitchen (آشپزخانه)<br />
+</li>
+<li>Evapcooling (كولرآبي ثابت)<br />
+</li>
+<li>Centralcooling (برودت مرکزی)<br />
+</li>
+<li>Centralheating (حرارت مركزئ)<br />
+</li>
+<li>Package (پكيج)<br />
+</li>
+<li>Split (كولر گازي ثابت)<br />
+</li>
+<li>Wastewater (شبكه فاضلاب شهري)<br />
+</li>
+<li>Cookingfuel ((نوع سوخت عمده مصرفی خانوار (پخت و پز)<br />
+</li>
+<li>Heatingfuel ((نوع سوخت عمده مصرفی خانوار (گرما)<br />
+</li>
+<li>Waterheatingfuel ((نوع سوخت عمده مصرفی خانوار (تهيه آب گرم )</li>
+</ul>
+<p>Since 1384, households are asked about having below instances in the past month/year or not. However, in the raw data of SCI after 1395, this information is not provided.
+* Celebration
+* Mourning
+* House maintenance
+* Pilgrimage
+* Travel abroad
+* Surgery
+* Other occasions (by providing name)</p>
+</div>
+<div id="part-3---expenditure" class="section level2" number="2.3">
+<h2><span class="header-section-number">2.3</span> Part 3 - Expenditure</h2>
+<p>Part 3 is the longest in the questionnaire, and it includes several tables. The number of tables and item codes in this part of HEIS has been changed year to year. These changes are more in specific years in which the questionnaire was revised substantially. Classification of expenditure items of the questionnaire was at first based on CPC (Central Product Classification) and after 1383 on COICOP (Classification Of the Individual Consumption Purpose). Since 1383 there are 14 aggregate expenditure tables, including:</p>
+<ol style="list-style-type: decimal">
+<li>Food (خوراکی),</li>
+<li>Tobacco (دخانیات),</li>
+<li>Clothing (پوشاک و کفش),</li>
+<li>Housing (مسکن),</li>
+<li>Furniture &amp; Appliance (مبلمان و لوازم خانگی),</li>
+<li>Health &amp; Hygiene (بهداشت و درمان),</li>
+<li>Transport (حمل و نقل),</li>
+<li>Communication (ارتباطات),</li>
+<li>Recreation &amp; Leisure (خدمات فرهنگی و تفریحات),</li>
+<li>Education (هزینه آموزش و تحصیل خانوار),</li>
+<li>Hotel &amp; Restaurant (هتل و رستوران),</li>
+<li>miscellaneous (کالا و خدمات متفرقه),</li>
+<li>Durable goods &amp; other yearly expenditure (کالاهای بادوام),</li>
+<li>Investment (سرمایه گذاری)</li>
+</ol>
+<p>The recall period for groups 1 to 12 is the past month, and for groups 13 and 14 is the past year. Prior to 1383, there are 10 expenditure groups the recall period of the first 8 groups is the past month, and for the groups 9 and 10 is the past year.</p>
+</div>
+<div id="part-4-income" class="section level2" number="2.4">
+<h2><span class="header-section-number">2.4</span> Part 4: Income</h2>
+<p>The income data is collected in 4 sections as follows:</p>
+<ol style="list-style-type: decimal">
+<li>Net wage and salary income of public, cooperative and private sectors (درآمد پولی خانوار از مشاغل مزد و حقوق بگیری),</li>
+<li>Self-employment income (درآمد پولی خانوار از مشاغل آزاد),</li>
+<li>Miscellaneous income (درآمد های متفرقه خانوار در 12 ماه گذشته),</li>
+<li>Non-monetary income (درآمد غیرپولی)</li>
+</ol>
+<p>Part 4 of the questionnaire has 3 tables corresponding to the first above items.
+Tables 1 and 2 of Part 4 include information such as whether a member of a household is currently employed, the industry (ISIC) and occupation (ISCO) code for her job, the working hours in a day and the working days in a week, various earnings and costs of employment such as raw material machinery and tax.
+Table 3 of Part 4 includes miscellaneous income from sources including pension, rent, interest, aid, resale, and transfer. After 1390, a new table attached to the third table including the information on the cash subsidies received by households through the Iranian Subsidy Reform plan, such as the number of members in a household who received a subsidy, the number of months in the previous year that they have received a subsidy and the exact amount of it. This embedded table is presented as a separate table in the raw data of SCI.</p>
+<p>Non-monetary income is to be computed from expenditure tables as follows: For each expenditure item the method of obtaining is inquired which includes 1- purchasing, 2-home production, in return of service to 3-public sector, 4-cooperative society, 5-private sector, 6-agricultural business, 7-non-agricultural business, or 8-free. The total non-monetary income is then the sum of the value of expenditure that the method of obtaining is one of the codes 2 to 8.</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="introduction.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="importing-raw-data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/02-Questionnaire.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["HEIS.pdf", "HEIS.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

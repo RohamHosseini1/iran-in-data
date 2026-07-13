@@ -1,0 +1,23 @@
+{
+  "dataset_id": "gastat-cpi-series",
+  "title": "GASTAT Saudi Arabia — Consumer Price Index bulletins (latest monthly + annual average)",
+  "source_org": "General Authority for Statistics (GASTAT), Saudi Arabia",
+  "source_url": "https://www.stats.gov.sa/statistics?index=119021&subindex=121417",
+  "download_url": "https://www.stats.gov.sa/documents/20117/2435267/CPI_May_2026-EN.pdf_fixed_15261505/b63d62b6-4cf7-6380-32ad-ea44095d2b7e?t=1781499130556",
+  "retrieved_at_utc": "2026-07-12T18:40:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "CPI_May_2026-EN.pdf", "original_name": "CPI_May_2026-EN.pdf_fixed_15261505", "sha256": "792b08fe2c4f035538ba55052cf2e010fb1a3e57c9854523d5cc8265c93814f1", "bytes": 321118},
+    {"name": "Annual_Average_CPI_2025-EN.pdf", "original_name": "Annual_Average_Consumer_Price_Index_2024_EN.pdf_fixed_10899467", "sha256": "f930068730ba1a9059c921b9788e9793b58913ae13c71198f6c3037a503d58c7", "bytes": 247241}
+  ],
+  "countries": ["SAU"],
+  "time_coverage": "monthly bulletin: May 2026; annual bulletin: full-year 2025 average with historical comparison",
+  "frequency": "monthly / annual",
+  "topics": ["CPI", "inflation", "prices"],
+  "units": "index numbers and % change, described in file",
+  "license_terms": "GASTAT public statistics",
+  "notes": "GASTAT's stats.gov.sa is a heavy client-rendered SPA; no plain HTML/API listing works via curl alone. Found the actual publication catalog by using a browser to reach Statistics > Economic Statistics > Prices Statistics > Consumer Prices Statistics (https://www.stats.gov.sa/statistics?index=119021&subindex=121417), which lists 153 CPI publication entries (all monthly bulletins 2016-2026 plus annual averages) each with a stable Liferay document URL of the form https://www.stats.gov.sa/documents/20117/2435267/<filename>/<doc-uuid>?t=<timestamp>. Files are PDF bulletins (GASTAT does not appear to expose the CPI as a standalone CSV/XLSX on this catalog page — only the narrative PDF report, which does contain full index tables by COICOP division/region). Downloaded the latest monthly (May 2026) and the annual-average 2025 bulletin as representative time-series snapshots; the other 151 monthly PDFs (2016-2026) are available at predictable-pattern URLs on the same page if a longer back-run is wanted later. od.data.gov.sa (Saudi Open Data portal, which lists a 'CPI by commodity and city' CSV dataset) is UNREACHABLE from this environment (curl times out on connect — likely network/geo restriction), so that CSV route was not usable.",
+  "failures": [
+    {"attempted": "od.data.gov.sa CPI by commodity and city CSV dataset", "reason": "curl connection timeout (unreachable from this network), 1 attempt"}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_id": "agsiw-hardship-jihad-liberalization",
+  "title": "AGSIW/AGSI (Arab Gulf States Institute) — \"Waiting on Hardship: Economic Jihad or Market Liberalization in Iran?\" (Bazoobandi, July 2022)",
+  "source_org": "Arab Gulf States Institute (site rebranded from agsiw.org to agsi.org; both refer to the same institute)",
+  "source_url": "https://agsiw.org/waiting-on-hardship-economic-jihad-or-market-liberalization-in-iran/",
+  "download_url": "https://agsi.org/waiting-on-hardship-economic-jihad-or-market-liberalization-in-iran/",
+  "retrieved_at_utc": "2026-07-12T18:22:12Z",
+  "retrieved_by": "agent:iran-bread-subsidy",
+  "files": [
+    {
+      "name": "agsiw-waiting-on-hardship.md",
+      "original_name": null,
+      "sha256": "dc2f79648d1073f80b55665c790da40b113e057c4ec86b2a52ee871dcc7aa547",
+      "bytes": 4063
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2010-2022 (article context, incl. 2010 energy-subsidy baseline and June 2022 inflation data), published 2022-07-28",
+  "frequency": "one-off article",
+  "topics": ["bread-subsidy", "flour-subsidy", "energy-subsidy", "subsidy-reform", "inflation", "cash-transfer"],
+  "license_terms": "AGSIW/AGSI editorial article; used per project source-reliability guidance (docs/bookkeeping.md) as an approved non-MEK/NCRI outlet for this topic",
+  "units": "narrative + embedded statistics (USD billions, percent of GDP, USD/month cash transfers, million tons wheat, percent inflation)",
+  "notes": "Hand-written markdown note structured/summarized from the article as fetched via WebFetch on 2026-07-12. The requested URL (agsiw.org) 301-redirected to agsi.org; both source_url (as-requested) and download_url (as-fetched) are recorded for traceability. Selected per task instructions specifically because it is AGSIW/AGSI (not NCRI/Iran Focus/MEK-affiliated). All figures attributed inline to the source article.",
+  "failures": []
+}

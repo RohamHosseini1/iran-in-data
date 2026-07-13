@@ -1,0 +1,25 @@
+{
+  "dataset_id": "clio-infra-gdp-per-capita",
+  "title": "Clio Infra GDP per Capita (Compact)",
+  "source_org": "Clio Infra",
+  "source_url": "https://clio-infra.eu/Indicators/GDPperCapita.html",
+  "download_url": "https://clio-infra.eu/data/GDPperCapita_Compact.xlsx",
+  "retrieved_at_utc": "2026-07-12T20:10:00Z",
+  "retrieved_by": "agent:clio-maddison-mopup",
+  "files": [
+    {
+      "name": "GDPperCapita_Compact.xlsx",
+      "original_name": null,
+      "sha256": "1d6330694ff58b524c36b33f8d7554f2f9cc5f0aff21071f24c65c0c260de332",
+      "bytes": 701980
+    }
+  ],
+  "countries": ["IRN", "KOR", "TUR", "SAU", "VEN", "USA", "RUS", "ESP", "PRT", "GRC", "DEU", "FRA", "GBR", "ITA", "NLD", "SWE"],
+  "time_coverage": "Roman times–2016",
+  "frequency": "annual",
+  "topics": ["GDP", "economic growth", "development"],
+  "units": "Geary-Khamis dollars (1990 prices)",
+  "license_terms": "Clio Infra (see https://clio-infra.eu/)",
+  "notes": "Compact version contains only countries with available data, modern borders. Based on Maddison Project methodology. Downloaded via https://clio-infra.eu/",
+  "failures": []
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_id": "iran-iraq-gloomy-economic-prospects-1987",
+  "title": "Iran-Iraq: Gloomy Economic Prospects (An Intelligence Assessment)",
+  "source_org": "Central Intelligence Agency (CIA), Directorate of Intelligence, Office of Near Eastern and South Asian Analysis (NESA)",
+  "source_url": "https://www.cia.gov/readingroom/document/cia-rdp88t00096r000600710001-8",
+  "download_url": "https://www.cia.gov/readingroom/docs/CIA-RDP88T00096R000600710001-8.pdf",
+  "retrieved_at_utc": "2026-07-12T18:40:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "CIA-RDP88T00096R000600710001-8.pdf",
+      "original_name": null,
+      "sha256": "f2f046c3fa107ed2e94298fb3a0eb934170e121d4b83a514771669ee1935a118",
+      "bytes": 1794181
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1986-1987 (Iran-Iraq War economic outlook)",
+  "frequency": "one-off intelligence assessment",
+  "topics": ["cia", "economy", "iran-iraq-war", "oil-prices", "declassified", "nesa"],
+  "units": "narrative economic assessment with tables",
+  "license_terms": "US government work, public domain; declassified in part, sanitized copy",
+  "notes": "CREST General CIA Records. NESA 87-10025, May 1987. Declassified in Part - Sanitized Copy Approved for Release 2011/12/29. Original Classification: Secret. Document Page Count: 36. Key Judgments: lower oil prices worsening economic outlook for both belligerents. Retrieved via browser in-page fetch()->base64->local decode (see NIS-33 manifest for background).",
+  "failures": []
+}

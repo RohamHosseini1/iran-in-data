@@ -1,0 +1,28 @@
+{
+  "dataset_id": "iranica-carpet-export-narrative-series-1960-1988",
+  "title": "Iran Carpet Export Value, Pahlavi & Early Post-Pahlavi Period (1960-1988) — extracted from Encyclopaedia Iranica",
+  "source_org": "Encyclopaedia Iranica (Center for Iranian Studies, Columbia University)",
+  "source_url": "https://www.iranicaonline.org/articles/carpets-xii/ ; https://www.iranicaonline.org/articles/carpets-xiii/",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION of numeric values embedded in narrative prose (not a table download). The two Encyclopaedia Iranica articles CARPETS xii (Pahlavi Period, by Willem M. Floor) and CARPETS xiii (Post-Pahlavi Period, by P. R. Jim Ford) were read in full via browser (iranicaonline.org blocks WebFetch with HTTP 403, so content was read live via the Claude Browser tool's get_page_text, which extracts the live-rendered article text directly -- not OCR of a scan). Every year-value pair below was copied verbatim from that rendered text; no interpolation or estimation was performed. The articles also reference 'Table 48', 'Table 49', 'Table 50', and 'Table 51' with additional loom-count, export, and price data, but these tables are NOT present as images or structured data in the online HTML version of either article (confirmed: zero <img> tags on the page) -- only the print fascicule (Vol. IV, Fasc. 8, 1990) would contain them, which was not accessible. This is a genuine gap, not a fabrication.",
+  "retrieved_by": "claude (manual transcription from live-rendered Encyclopaedia Iranica page text, via browser tool)",
+  "retrieved_at_utc": "2026-07-12T23:01:15Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "679e5b3ec6484df3b24c6a53fdedf14da6e20e2bfd92a2943ac35fff0dbb0733",
+      "bytes": 2170
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1960-1988 (Iranian fiscal years 1339-1367 Sh.)",
+  "frequency": "annual, non-continuous (only years explicitly cited in the narrative are captured)",
+  "topics": ["carpets", "handwoven-carpets", "exports", "trade", "pahlavi-era", "iran-carpet-company", "state-monopoly"],
+  "units": "mixed: million rials or million USD as specified per row; year field uses the Gregorian calendar year in which the cited Iranian fiscal year (beginning ~21 March) starts",
+  "license_terms": "Encyclopaedia Iranica content is copyrighted; used here for non-commercial research/citation purposes with full source attribution per row.",
+  "notes": "The Iran Carpet Company (Sherkat-e Farsh-e Iran), founded 1935, held a state monopoly over 'quality' carpet exports for part of this period; by 1977 it controlled only 2-3% of total national carpet output despite its monopoly mandate, per the source article. Two years (1982-83, 1983-84) carry an apparent million/billion-rial unit ambiguity in the original printed article; transcribed exactly as printed, flagged per-row, not corrected -- see notes column in data.csv. Complements (does not duplicate) the existing 1956/57-1958/59 carpet export figures already captured in data/raw/pahlavi-era-primary-extraction/wb1960-exports-by-commodities-1956-1959/ (World Bank 1960 report: $17.1M/$19.5M/$17.4M). This dataset picks up from 1960 onward. FAOSTAT does not cover carpets (not an agricultural commodity), confirmed by grep of data/raw/faostat/tcl-trade-crops-livestock/filtered_iran_and_comparators.csv (zero matches).",
+  "failures": [
+    "Table 48 (loom counts by center, ~1940), Table 49 (export commodity ranking table), Table 50 (1979-1988 export series), and Table 51 (1973-1988 Hamadan-area price series) are referenced in the article text but not present in the online HTML rendering (no images found) -- could not be extracted."
+  ]
+}

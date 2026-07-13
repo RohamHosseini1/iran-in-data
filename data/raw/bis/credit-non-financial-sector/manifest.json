@@ -1,0 +1,25 @@
+{
+  "dataset_id": "bis-credit-non-financial-sector",
+  "title": "BIS Total Credit to the Non-Financial Sector — full bulk dataset (CSV, flat)",
+  "source_org": "Bank for International Settlements (BIS)",
+  "source_url": "https://data.bis.org/bulkdownload",
+  "download_url": "https://data.bis.org/static/bulk/WS_TC_csv_flat.zip",
+  "retrieved_at_utc": "2026-07-12T18:12:12Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "WS_TC_csv_flat.zip",
+      "original_name": null,
+      "sha256": "aab49fd183db1d8623e9ea2c3c10167ace31ed7a36f58ba6b5983529090eabac",
+      "bytes": 1803310
+    }
+  ],
+  "countries": ["ALL (world, BIS-reporting economies; IRN not a BIS reporter — KOR/TUR/USA/DEU/FRA/GBR/ITA/NLD/ESP/PRT/GRC included)"],
+  "time_coverage": "long historical run through most recent quarter (series start dates vary by country)",
+  "frequency": "quarterly",
+  "topics": ["credit", "non-financial sector", "macro-financial"],
+  "units": "described in file (percent of GDP and levels; see BIS data dictionary)",
+  "license_terms": "BIS Terms of Use — free for non-commercial use with attribution",
+  "notes": "Full-topic bulk zip, world coverage, flat CSV format (long format with all dimensions as columns). Uncompressed CSV inside is ~74MB; zip itself 1.8MB, well under 500MB limit. BIS reports for named central banks/currency areas, not by country ISO3 uniformly — filter by BIS area code at processing time.",
+  "failures": []
+}

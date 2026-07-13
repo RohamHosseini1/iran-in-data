@@ -1,0 +1,25 @@
+{
+  "dataset_id": "bis-residential-property-prices",
+  "title": "BIS Selected Residential Property Prices — full bulk dataset (CSV, flat)",
+  "source_org": "Bank for International Settlements (BIS)",
+  "source_url": "https://data.bis.org/bulkdownload",
+  "download_url": "https://data.bis.org/static/bulk/WS_SPP_csv_flat.zip",
+  "retrieved_at_utc": "2026-07-12T18:12:12Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "WS_SPP_csv_flat.zip",
+      "original_name": null,
+      "sha256": "2a1581da1414f4ae930d8927fca3bb9b42b8bed6756c56f5440017910924ce3b",
+      "bytes": 303274
+    }
+  ],
+  "countries": ["ALL (world, BIS-reporting economies; IRN not a BIS reporter — KOR/TUR/USA/DEU/FRA/GBR/ITA/NLD/ESP/PRT/GRC included)"],
+  "time_coverage": "long historical run through most recent quarter (series start dates vary by country)",
+  "frequency": "quarterly (some annual)",
+  "topics": ["housing", "residential property prices", "macro-financial"],
+  "units": "index numbers, described in file / BIS data dictionary",
+  "license_terms": "BIS Terms of Use — free for non-commercial use with attribution",
+  "notes": "Full-topic bulk zip, world coverage, flat CSV format. Uncompressed CSV ~6.6MB; zip 0.3MB.",
+  "failures": []
+}

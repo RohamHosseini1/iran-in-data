@@ -1,0 +1,31 @@
+{
+  "dataset_id": "usd-irr-parallel-tgju",
+  "title": "USD/IRR Free-Market (Parallel) Exchange Rate \u2014 daily history",
+  "source_org": "TGJU.org (tgju.org financial data aggregator)",
+  "source_url": "https://www.tgju.org/profile/price_dollar_rl",
+  "download_url": "https://api.tgju.org/v1/market/indicator/summary-table-data/price_dollar_rl?lang=fa&order_dir=asc&draw=1&start=0&length=5000",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "usd-irr-parallel-tgju_price_dollar_rl_2026-07-12.json",
+      "original_name": null,
+      "sha256": "583cb722dc2e9225a78ce5cdce90ae6949fdb5fe5e501c2b8565bcf27f667964",
+      "bytes": 636050
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "2011-11-26 to 2026-07-12",
+  "frequency": "daily",
+  "topics": [
+    "fx",
+    "exchange-rate",
+    "parallel-market"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "unspecified \u2014 public aggregator, attribute TGJU",
+  "notes": "tsetmc.com and iranopendata.org were unreachable (geo-block / Cloudflare challenge) from the download IP; TGJU API was the working fallback. recordsTotal=3899 per API response. Raw JSON, not yet parsed to CSV."
+}

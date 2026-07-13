@@ -1,0 +1,22 @@
+{
+  "dataset_id": "applia-statistical-reports",
+  "title": "APPLiA Statistical Reports — European Home Appliance Industry (production, sales, trade by country)",
+  "source_org": "APPLiA Home Appliance Europe (industry association)",
+  "source_url": "https://www.applia-europe.eu/facts-and-figures/statistical-reports",
+  "download_url": "multiple (see files)",
+  "retrieved_at_utc": "2026-07-12T18:09:16Z",
+  "retrieved_by": "agent:appliance-micro-download",
+  "files": [
+    {"name": "applia-statistical-report-2023-2024.pdf", "original_name": "APPLiA-statistical-report-2023-2024.pdf", "sha256": "f4c9775856c88d4f3effd160b2bc99b0745392afb57e64ab535ed7f72ec98cb8", "bytes": 5763923, "download_url": "https://statreport2024.applia-europe.eu/files/pdf/APPLiA-statistical-report-2023-2024.pdf"},
+    {"name": "applia-statistical-report-2022-2023.pdf", "original_name": "APPLiA_-_Statistical_report_2022-2023.pdf", "sha256": "4454cc5456287c80be2bd742283024eff73ac2b30274095baa87efb86dce4f03", "bytes": 4693649, "download_url": "https://www.applia-europe.eu/images/APPLiA_-_Statistical_report_2022-2023.pdf"},
+    {"name": "applia-statistical-report-2020-2021.pdf", "original_name": "APPLiA-Statistical-Report_2020-21.pdf", "sha256": "1f5356dc4afd0c39b435961def148271016653abf1e1894c42222cae9f70dd88", "bytes": 9879331, "download_url": "https://www.applia-europe.eu/images/APPLiA-Statistical-Report_2020-21.pdf"}
+  ],
+  "countries": ["DEU", "FRA", "GBR", "ITA", "ESP", "PRT", "GRC", "NLD", "SWE", "and other EU/EFTA members covered in APPLiA member country tables"],
+  "time_coverage": "2018–2024 (varies by report edition; each PDF covers roughly a 2-year window plus historical trend charts)",
+  "frequency": "annual (report editions)",
+  "topics": ["household appliances", "production", "sales", "imports", "exports", "refrigerators", "washing machines", "ovens", "large domestic appliances", "small domestic appliances"],
+  "units": "described within each PDF (units, volumes, EUR value) — not machine-readable, tables embedded in PDF text/images",
+  "license_terms": "APPLiA public report; no explicit open license stated on site — used for reference/research per project source-hygiene rules (industry association primary publication, not excluded category)",
+  "notes": "Filenames given directly by task; each PDF verified via `file` as a real PDF document (not an HTML error page). 2023-2024 and 2022-2023 are PDF 1.6 (zip-deflate encoded); 2020-21 is PDF 1.4. Content not yet extracted/parsed — raw PDFs only. Editions requested were the 3 most recent per task instructions (2023-2024, 2022-2023, 2020-21); no 2021-2022 edition URL was provided/requested.",
+  "failures": []
+}

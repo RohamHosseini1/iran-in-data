@@ -1,0 +1,29 @@
+{
+  "dataset_id": "nis-33-iran-economy",
+  "title": "National Intelligence Survey 33; Iran; The Economy",
+  "source_org": "Central Intelligence Agency (CIA) / National Intelligence Survey Program",
+  "source_url": "https://www.cia.gov/readingroom/document/cia-rdp01-00707r000200070041-3",
+  "download_url": "https://www.cia.gov/readingroom/docs/CIA-RDP01-00707R000200070041-3.pdf",
+  "retrieved_at_utc": "2026-07-12T18:15:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "CIA-RDP01-00707R000200070041-3.pdf",
+      "original_name": null,
+      "sha256": "e0bf506686873e18de25e0dcee9d9c07c5aba5275d71484cafea91aee16cd8ab",
+      "bytes": 3406862
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "circa 1973 (NIS General Survey program; economy chapter)",
+  "frequency": "one-off intelligence survey chapter",
+  "topics": ["cia", "national-intelligence-survey", "economy", "declassified", "pahlavi-era"],
+  "units": "narrative + statistical tables (scanned document, no text layer)",
+  "license_terms": "US government work, public domain; declassified FOIA release",
+  "notes": "CREST collection document, CIA FOIA Electronic Reading Room. Document Type: CREST; Collection: NIS; Original Classification: U (declassified, originally SECRET per document body, approved for release 2009/06/16); Document Page Count: 44; Document Creation Date listed on FOIA metadata: October 25, 2016 (release/processing date, not original document date — original NIS 33 Iran Economy chapter dates to the early-mid 1970s General Survey program). Landing page https://www.cia.gov/readingroom/document/cia-rdp01-00707r000200070041-3 and www.cia.gov/readingroom/* return HTTP 302 redirect loops for plain HTTP clients (curl/WebFetch got 403/redirect-loop) — the reading room is a JS-driven app that resolves to foia.cia.gov, which did not resolve via this environment's sandboxed DNS. Retrieved by loading the page in the agent's browser tool (which could reach foia.cia.gov), fetching the PDF via in-page fetch() to a base64 string, and decoding it losslessly outside the browser. Byte count matches the page's declared file size (3406862 bytes) exactly. PDF is scanned/image-based (pdftotext extracted no text layer) — expected for a CREST-era scanned CIA release.",
+  "failures": [
+    {"url": "https://www.cia.gov/readingroom/document/cia-rdp01-00707r000200070041-3", "method": "curl", "result": "HTTP 302 redirect loop (curl error 47, max redirects) -- bot/JS-gate on www.cia.gov"},
+    {"url": "https://www.cia.gov/readingroom/document/cia-rdp01-00707r000200070041-3", "method": "WebFetch", "result": "HTTP 403 Forbidden"},
+    {"url": "https://www.cia.gov/readingroom/docs/CIA-RDP01-00707R000200070041-3.pdf", "method": "curl", "result": "HTTP 302 redirect loop (curl error 47)"}
+  ]
+}

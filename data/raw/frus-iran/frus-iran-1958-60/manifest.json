@@ -1,0 +1,27 @@
+{
+  "dataset_id": "frus-iran-1958-60",
+  "title": "Foreign Relations of the United States, 1958-1960, Near East Region; Iraq; Iran; Arabian Peninsula, Volume XII",
+  "source_org": "US Department of State, Office of the Historian",
+  "source_url": "https://history.state.gov/historicaldocuments/frus1958-60v12",
+  "download_url": "https://static.history.state.gov/frus/frus1958-60v12/ebook/frus1958-60v12.epub",
+  "retrieved_at_utc": "2026-07-12T20:28:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "frus1958-60v12.epub",
+      "original_name": null,
+      "sha256": "da38a08b87ac51ff33a36ef4b25c7aeda518daec87c0b4a759e0e2596772be23",
+      "bytes": 1276266
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1958-1960",
+  "frequency": "one-off compiled volume",
+  "topics": ["frus", "state-department", "declassified", "pahlavi-era", "military-assistance", "cold-war"],
+  "units": "compiled diplomatic documents (narrative)",
+  "license_terms": "US government work, public domain",
+  "notes": "Editor: Edward C. Keefer; General Editor: Glenn W. LaFantasie; US GPO, Washington, 1993. This volume covers Near East Region, Iraq, Iran, Saudi Arabia, British Protectorates/Muscat and Oman, and Yemen together -- Iran section is Documents 224-305 ('U.S. high-level visits; Iranian reaction to the Iraqi coup; increased U.S. military assistance; U.S. interest in political and social reform; the Soviet military threat' for 1958, and 'Iranian requests for increased U.S. military assistance; Iranian-Soviet negotiations for a non-aggression pact; President Eisenhower's visit' for 1959-1960). NO compiled PDF is offered by the Office of the Historian for this volume (confirmed: only EPUB and Mobi links present on the volume page; direct guess at static.history.state.gov/frus/frus1958-60v12/pdf/frus1958-60v12.pdf returned HTTP 403, i.e. does not exist) -- downloaded the EPUB instead as the best available full-volume primary-source format. Mobi also available at https://static.history.state.gov/frus/frus1958-60v12/ebook/frus1958-60v12.mobi (2.04MB, not downloaded).",
+  "failures": [
+    {"url": "https://static.history.state.gov/frus/frus1958-60v12/pdf/frus1958-60v12.pdf", "method": "curl (guessed URL, no PDF link present on page)", "result": "HTTP 403 -- no compiled PDF exists for this volume, only EPUB/Mobi"}
+  ]
+}

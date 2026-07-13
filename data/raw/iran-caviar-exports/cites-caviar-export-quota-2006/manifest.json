@@ -1,0 +1,23 @@
+{
+  "dataset_id": "cites-caviar-export-quota-2006",
+  "title": "CITES-Authorized Iran Caviar (Persian Sturgeon) Export Quota, 2006",
+  "source_org": "CITES Secretariat (Convention on International Trade in Endangered Species), as reported by UN News",
+  "source_url": "https://news.un.org/en/story/2006/04/175582-hold-caviar-un-backed-body-bans-export-most-endangered-sturgeon",
+  "download_url": null,
+  "extraction_method": "MANUAL TRANSCRIPTION from UN News article text via WebFetch. Direct access to cites.org's own quota-document archive (e.g. cites.org/sites/default/files/common/quotas/2006/Sturgeon2006.pdf) was attempted but blocked by a Cloudflare bot-verification CAPTCHA challenge; per project safety rules, CAPTCHA bypass was not attempted. UN News, as the official news service of the United Nations reporting directly on a CITES Secretariat announcement, is treated as a reliable secondary citation of the primary quota figure.",
+  "retrieved_by": "claude (WebFetch)",
+  "retrieved_at_utc": "2026-07-12T23:07:05Z",
+  "files": [
+    {"name": "data.csv", "original_name": null, "sha256": "a5177499bedf2dafa50c232638fd0a0688a8b2841a1e0a6bfbb964c953cf39ce", "bytes": 573}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2006 (single year)",
+  "frequency": "annual (single data point)",
+  "topics": ["caviar", "sturgeon", "cites", "export-quota", "beluga", "persian-sturgeon"],
+  "units": "kg",
+  "license_terms": "UN News content, public UN information service.",
+  "notes": "This is a REGULATORY CEILING (permitted export volume under international treaty), not an actual production/export figure -- distinct in kind from the sibling dataset ifo-caviar-production-export-compiled/, which reports actual reported output. Useful as a rough proxy: 44.37 tonnes authorized in 2006 is roughly 3.6x Iran's actual reported production a decade-plus later (12t in 2021) and ~2.4x the FY2022-23 production (18.5t), illustrating the scale of the wild-catch-era Caspian caviar trade relative to today's farmed output. This dataset intentionally contains only ONE row; a fuller CITES quota time series (1998-2007) was sought but not obtainable within this session without CAPTCHA bypass -- see failures.",
+  "failures": [
+    "cites.org blocked all direct access attempts (both curl and Claude Browser) with a Cloudflare 'Verify you are human' CAPTCHA challenge. Per project safety rules (never bypass/complete CAPTCHAs), no further attempt was made. A multi-year CITES sturgeon quota time series for Iran (which likely exists at cites.org/sites/default/files/common/quotas/<year>/Sturgeon<year>.pdf for years 1998-2007+) could NOT be retrieved as a result. Future sessions with different tooling/access may be able to retrieve this directly from CITES."
+  ]
+}

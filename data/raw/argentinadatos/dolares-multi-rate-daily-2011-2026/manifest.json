@@ -1,0 +1,20 @@
+{
+  "dataset_id": "argentinadatos-dolares-multi-rate-daily",
+  "title": "Argentina USD/ARS Exchange Rates -- All Tiers, Daily (Official, Wholesale, Blue/Black-Market, CCL, MEP, Card/Tourist, Solidario, Crypto)",
+  "source_org": "ArgentinaDatos (argentinadatos.com) -- an open public API for Argentine economic/financial data, itself aggregating from Ambito Financiero and other standard Argentine financial-media sources",
+  "source_url": "https://argentinadatos.com/",
+  "download_url": "https://api.argentinadatos.com/v1/cotizaciones/dolares",
+  "retrieved_at_utc": "2026-07-13T00:24:07Z",
+  "retrieved_by": "claude (direct curl, no key/auth required, single JSON GET)",
+  "files": [
+    {"name": "dolares_2026-07-13.json", "original_name": null, "sha256": "71b08fe293af49f2f1e33191aa402e2487574748671eeba1bb0f5948758cf02e", "bytes": 2931107}
+  ],
+  "countries": ["ARG"],
+  "time_coverage": "2011-01-03 to 2026-07-12 (oficial/mayorista/blue: full range, 5,670 obs each; contadoconliqui/CCL from 2013-01-02, 4,940 obs; bolsa/MEP from 2018-10-29, 2,814 obs; tarjeta/card-tourist from 2019-12-23, 2,394 obs; solidario/COVID-tax-rate 2020-01-02 to 2023-12-13 only -- discontinued when the tax was repealed, 1,442 obs; cripto from 2023-02-07, 1,252 obs)",
+  "frequency": "daily",
+  "topics": ["fx", "exchange-rate", "parallel-market", "black-market-premium", "dolar-blue", "multi-tier-exchange-rate-system"],
+  "units": "ARS per USD (compra=buy, venta=sell)",
+  "license_terms": "ArgentinaDatos public API -- freely accessible, no key required, no explicit license statement found on the site (treated as public financial-media-sourced data, standard for this project's FX-tracker sources e.g. TGJU/Bonbast for Iran)",
+  "notes": "COMPARATOR FIND for the parallel-FX mission (Iran-first project, comparator opportunistically grabbed per mission brief -- Argentina explicitly named as a good direct comparison to Iran's black-market FX premium history). This is the DIRECT ARGENTINE EQUIVALENT of this project's existing data/raw/fx-parallel-rate/usd-irr-parallel-history/ (TGJU Iran parallel rate, 2011-2026) -- same date range start almost exactly (Argentina 2011-01-03 vs Iran TGJU 2011-11-26), same daily frequency, directly chartable side-by-side. Fills the confirmed gap noted in data/raw/bcra-argentina/bcra-monetary-fx/manifest.json, which explicitly flagged that BCRA's own official API does NOT publish an informal/parallel/blue rate (by design -- central banks only report their own regulated operations) and that an independent source would be needed. 'blue' = the informal/black-market cash rate (the direct analogue to Iran's TGJU free-market rate); 'oficial' = official CBI-equivalent rate (already covered for Argentina via bcra-argentina); 'mayorista' = wholesale reference rate; 'contadoconliqui' (CCL) and 'bolsa' (MEP) = the two main LEGAL-BUT-INDIRECT capital-account channels Argentines use to effectively buy dollars via securities transactions, priced close to but not identical to the blue rate; 'tarjeta' = the card/tourist rate (official rate plus tax surcharges, for foreign card purchases); 'solidario' = the pandemic-era 'Impuesto PAIS'-loaded rate for individual dollar-savings purchases, active 2020-2023 and correctly shows as discontinued (not a download failure) once that tax regime ended. Every rate type kept as found -- no fabrication, no gap-filling.",
+  "failures": []
+}

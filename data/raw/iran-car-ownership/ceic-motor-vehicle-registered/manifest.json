@@ -1,0 +1,25 @@
+{
+  "dataset_id": "ceic-motor-vehicle-registered",
+  "title": "CEIC Data — Iran Registered Motor Vehicles (free-preview figures only)",
+  "source_org": "CEIC Data (original series attributed by CEIC to OICA — International Organization of Motor Vehicle Manufacturers)",
+  "source_url": "https://www.ceicdata.com/en/indicator/iran/motor-vehicle-registered",
+  "download_url": "https://www.ceicdata.com/en/indicator/iran/motor-vehicle-registered",
+  "retrieved_at_utc": "2026-07-12T18:20:57Z",
+  "retrieved_by": "agent:iran-car-ownership",
+  "files": [
+    {
+      "name": "ceic-iran-registered-motor-vehicles.md",
+      "original_name": null,
+      "sha256": "18a90e68e0c3226b6c3eb4334643f1459870ac233d148c50cec26b312be24e32",
+      "bytes": 2733
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2005-2020 (12 yearly observations per CEIC free-preview summary; page title claims through 2025 but only figures through 2020 are visible without a subscription)",
+  "frequency": "annual",
+  "topics": ["transportation", "vehicles", "car-ownership", "registered-motor-vehicles"],
+  "units": "thousand units (vehicles)",
+  "license_terms": "CEIC proprietary data platform — only the free-preview summary text is captured here; bulk/full time series requires a paid CEIC subscription and was NOT accessed or downloaded",
+  "notes": "This is a hand-written markdown note transcribing exactly what CEIC's public free-preview page displays (summary stats: latest value, previous value, all-time high/low, average). No bulk CSV/API data was obtained — CEIC's underlying time series is paywalled. Quoted text is verbatim from the page as fetched via browser on 2026-07-12.",
+  "failures": []
+}

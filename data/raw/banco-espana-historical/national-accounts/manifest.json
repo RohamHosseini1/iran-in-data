@@ -1,0 +1,20 @@
+{
+  "dataset_id": "banco-espana-national-accounts",
+  "title": "Banco de España Statistical Bulletin — National Accounts of the Spanish Economy (time series CSV bundle)",
+  "source_org": "Banco de España",
+  "source_url": "https://www.bde.es/webbe/en/estadisticas/recursos/descargas-completas.html",
+  "download_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/zip/SB_CNESP.zip",
+  "retrieved_at_utc": "2026-07-12T18:09:44Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "SB_CNESP.zip", "original_name": null, "sha256": "68b72507c3bb0100867d5dd751514771807fad3a96f52f89321c14efe643e39d", "bytes": 63771}
+  ],
+  "countries": ["ESP"],
+  "time_coverage": "national accounts series through 2026 (exact start year varies by series within bundle)",
+  "frequency": "quarterly/annual",
+  "topics": ["national accounts", "gdp", "macro"],
+  "units": "described in file / codebook (CSV headers in Spanish)",
+  "license_terms": "Banco de España public statistics (free reuse per BdE terms)",
+  "notes": "ZIP bundle of CSV time series (be23a.csv through be23g.csv) covering Chapter 23 (National Accounts) of the BdE Statistical Bulletin. CSV headers in Spanish.",
+  "failures": []
+}

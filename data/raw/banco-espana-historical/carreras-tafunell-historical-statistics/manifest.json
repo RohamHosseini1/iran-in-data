@@ -1,0 +1,20 @@
+{
+  "dataset_id": "carreras-tafunell-estadisticas-historicas-espana",
+  "title": "Estadísticas Históricas de España, siglos XIX-XX (Carreras & Tafunell, coords., Fundación BBVA 2005 — free PDF edition)",
+  "source_org": "Fundación BBVA",
+  "source_url": "https://www.fbbva.es/en/publicaciones/estadisticas-historicas-de-espana-siglos-xix-xx-2/",
+  "download_url": "https://www.fbbva.es/wp-content/uploads/2017/05/dat/DE_2006_estadisticas_historicas.pdf",
+  "retrieved_at_utc": "2026-07-12T18:10:43Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "DE_2006_estadisticas_historicas.pdf", "original_name": null, "sha256": "a66b51a562e0e150af550392b762cfe574d7ac5bcd0b38510e99895f92c99f93", "bytes": 7782198}
+  ],
+  "countries": ["ESP"],
+  "time_coverage": "19th-20th centuries (long-run historical statistics)",
+  "frequency": "annual (varies by table)",
+  "topics": ["national accounts", "prices", "population", "agriculture", "industry", "long-run macro history"],
+  "units": "described within document",
+  "license_terms": "Fundación BBVA freely-distributed PDF (book itself out of stock in print; publisher offers digital edition free of charge under 'materials available')",
+  "notes": "Full free PDF of the landmark long-run Spanish historical statistics compendium coordinated by Albert Carreras & Xavier Tafunell (Fundación BBVA, 2nd ed. 2005). Originally shipped with a CD-ROM containing the underlying spreadsheet series; only the book PDF was reachable via the publisher site (fbbva.es 'MATERIALS AVAILABLE' section) — the CD-ROM data tables themselves were not found as a separate downloadable file and were not pursued further (task said log if book-only/paywalled and move on; here at least the PDF text/tables are free, so this is a partial win).",
+  "failures": []
+}

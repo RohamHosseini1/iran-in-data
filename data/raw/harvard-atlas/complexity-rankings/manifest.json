@@ -1,0 +1,20 @@
+{
+  "dataset_id": "harvard-atlas-complexity-rankings",
+  "title": "Harvard Growth Lab Atlas — Complexity Rankings & Growth Projections (country-level)",
+  "source_org": "Harvard Growth Lab, Harvard Kennedy School",
+  "source_url": "https://atlas.hks.harvard.edu/data-downloads",
+  "download_url": "https://dataverse.harvard.edu/api/access/datafile/13439575",
+  "retrieved_at_utc": "2026-07-12T18:25:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "growth_proj_eci_rankings.csv", "original_name": null, "sha256": "51faff164e10c00872118c823d1f342f38f6fc170b8aeef75a9b783b51f5ed0a", "bytes": 198703}
+  ],
+  "countries": ["ALL (world, country-level, incl. IRN/KOR/TUR/SAU/VEN/USA/DEU/FRA/GBR/ITA/NLD/ESP/PRT/GRC)"],
+  "time_coverage": "1995-2024",
+  "frequency": "annual",
+  "topics": ["economic complexity", "ECI", "growth projections", "trade"],
+  "units": "index values (ECI, growth projection); see column descriptions in GraphQL schema / Atlas glossary",
+  "license_terms": "Harvard Dataverse, DOI 10.7910/DVN/XTAQMC — cite per Atlas citation guidelines",
+  "notes": "Harvard Atlas 'Data Downloads' page (atlas.hks.harvard.edu/data-downloads) is a client-rendered React app; the actual catalog of ~71 downloadable tables (with DOI, Dataverse file ID, and exact file size for each) is served via POST to https://atlas.hks.harvard.edu/api/graphql with query '{ downloadsTable { displayName doi dvFileId dvFileName dvFileSize productLevel tableDataType tableName repo yearMin yearMax } }'. Actual files are then fetched from Harvard Dataverse at https://dataverse.harvard.edu/api/access/datafile/<dvFileId>. This dataset (country_id x year, no product breakdown) is a country-level aggregate, well under the 500MB cap.",
+  "failures": []
+}

@@ -1,0 +1,54 @@
+{
+  "dataset_id": "barro-lee-attainment",
+  "title": "Barro-Lee Educational Attainment Dataset",
+  "source_org": "Barro & Lee / barrolee.github.io",
+  "source_url": "https://barrolee.github.io/BarroLeeDataSet/Data.html",
+  "download_url": "https://barrolee.github.io/BarroLeeDataSet/BLData/",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "BL2013_MF1599_v2.2.csv",
+      "original_name": null,
+      "sha256": "a1e6e6fc22f0bb5ff495cbe42dab78f63e437154e3c78916069e08e58d37987c",
+      "bytes": 245463
+    },
+    {
+      "name": "BL2013_MF2599_v2.2.csv",
+      "original_name": null,
+      "sha256": "4e762273d5920176d71a913085b7fbc18a8fb69603d23597a61657a77ab18d06",
+      "bytes": 244904
+    },
+    {
+      "name": "BL_v3_DataAvailability.pdf",
+      "original_name": null,
+      "sha256": "f7abecc1d6ccc43911bc7dfe54dc9c560ca20a29d6235a2df7a94c87f609b9fb",
+      "bytes": 53024
+    },
+    {
+      "name": "BL_v3_MF.csv",
+      "original_name": null,
+      "sha256": "618732c5cc749f91e609a7fb7a1e1142d761c2b97510781b07754322a24218ef",
+      "bytes": 1362495
+    },
+    {
+      "name": "BL_v3_MF1564.csv",
+      "original_name": null,
+      "sha256": "349374c63cb869455dd208a2dd6bc4f7119003a9fc19b06188f4c443abd80861",
+      "bytes": 274760
+    }
+  ],
+  "countries": [
+    "ALL"
+  ],
+  "time_coverage": "1950-2015 (5-yr intervals)",
+  "frequency": "5-year",
+  "topics": [
+    "education",
+    "demographics"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "Free for research/academic use",
+  "notes": "BL2013 and BL_v3 vintages, male+female 15-99 and 15-64 breakdowns, plus data-availability PDF."
+}

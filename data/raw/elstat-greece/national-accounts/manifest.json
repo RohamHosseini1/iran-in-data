@@ -1,0 +1,22 @@
+{
+  "dataset_id": "elstat-greece-quarterly-national-accounts",
+  "title": "ELSTAT — Quarterly National Accounts (GDP): non-seasonally and seasonally adjusted, current prices and chain-linked volumes, production and expenditure approaches, since Q1 1995",
+  "source_org": "Hellenic Statistical Authority (ELSTAT)",
+  "source_url": "https://www.statistics.gr/en/statistics/-/publication/SEL84/-",
+  "download_url": "https://www.statistics.gr/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd&p_p_lifecycle=2&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_documentID=<115386|115385|115376>&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_locale=en",
+  "retrieved_at_utc": "2026-07-12T18:25:55Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "A0704_SEL84_TS_QQ_01_1995_01_2026_04_P_EN.xls", "original_name": "A0704_SEL84_TS_QQ_01_1995_01_2026_04_P_EN.xls", "sha256": "73372614687aa3fc19e45368f863872eadb8e2a632dac7233ab82c28b6badb2f", "bytes": 53760},
+    {"name": "A0704_SEL84_TS_QQ_01_1995_01_2026_05_P_EN.xls", "original_name": "A0704_SEL84_TS_QQ_01_1995_01_2026_05_P_EN.xls", "sha256": "c66cc6aaacb6c1a47251c6ca3e10db2969b84468d29bfb1827a01f85163ecfcf", "bytes": 65536},
+    {"name": "A0704_SEL84_TS_QQ_01_1995_01_2026_14_P_EN.xls", "original_name": "A0704_SEL84_TS_QQ_01_1995_01_2026_14_P_EN.xls", "sha256": "d0e268f4eb9a6a1937f1f1345ec209cf74f42df0f91a17369eaa630f6630ffff", "bytes": 118272}
+  ],
+  "countries": ["GRC"],
+  "time_coverage": "1995Q1–2026Q1 (provisional data for most recent quarters)",
+  "frequency": "quarterly",
+  "topics": ["national accounts", "gdp", "macro"],
+  "units": "EUR (current prices) and chain-linked volumes (2020 reference), described in file",
+  "license_terms": "ELSTAT public statistics, free reuse with attribution",
+  "notes": "Retrieved via the same ELSTAT Liferay 'downloadResources' JSF endpoint used for the CPI dataset (different portlet instance id for this page). Table 03 = Non-seasonally adjusted GDP, current prices; Table 04 = Non-seasonally adjusted, chain-linked volumes (constant 2020 prices); Table 13 = Expenditure approach, chain-linked volumes. Files are 'Provisional Data' (_P_ in filename) per ELSTAT's own labeling for the most recent quarters.",
+  "failures": []
+}

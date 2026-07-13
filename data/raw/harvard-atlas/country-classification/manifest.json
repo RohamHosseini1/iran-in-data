@@ -1,0 +1,21 @@
+{
+  "dataset_id": "harvard-atlas-country-classification",
+  "title": "Harvard Growth Lab Atlas — Country and Regional Classification lookup tables",
+  "source_org": "Harvard Growth Lab, Harvard Kennedy School",
+  "source_url": "https://atlas.hks.harvard.edu/data-downloads",
+  "download_url": "https://dataverse.harvard.edu/api/access/datafile/{13809180,13809181}",
+  "retrieved_at_utc": "2026-07-12T18:25:00Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "location_country.csv", "original_name": null, "sha256": "e855d6bd3790234bf66cb20b5de0fec179e58d19623a77d652f9e53ac2216ddc", "bytes": 9677},
+    {"name": "location_group.csv", "original_name": null, "sha256": "526fd8548878d6a1c1359cf1dc668b209e921a6b91a3a25b4695f79e06609eff", "bytes": 52345}
+  ],
+  "countries": ["ALL (world) — codebook, not observation data"],
+  "time_coverage": "n/a (static classification/codebook)",
+  "frequency": "n/a",
+  "topics": ["codebook", "country classification", "region classification"],
+  "units": "n/a",
+  "license_terms": "Harvard Dataverse, DOI 10.7910/DVN/3BAL1O — cite per Atlas citation guidelines",
+  "notes": "Codebook tables mapping Atlas country_id to ISO3 codes and names, and country_id to regional/income groupings. Needed to decode country_id in the total-trade-by-country and complexity-rankings CSVs in this same source.",
+  "failures": []
+}

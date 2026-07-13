@@ -1,0 +1,20 @@
+{
+  "dataset_id": "banco-portugal-series-longas-pos-guerra",
+  "title": "Séries Longas para a Economia Portuguesa — Pós II Guerra Mundial (Long Series for the Portuguese Economy — Post WWII)",
+  "source_org": "Banco de Portugal",
+  "source_url": "https://www.bportugal.pt/en",
+  "download_url": "https://www.bportugal.pt/sites/default/files/documents/2023-12/series-longas-para-economia-portuguesa-pos-ii-guerra-mundial.pdf",
+  "retrieved_at_utc": "2026-07-12T18:21:06Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "series-longas-para-economia-portuguesa-pos-ii-guerra-mundial.pdf", "original_name": null, "sha256": "caeaebe06866fdedbcdbfedb1f5c35555a81d48bff9af30ee323e9ab85b33557", "bytes": 2334348}
+  ],
+  "countries": ["PRT"],
+  "time_coverage": "post-WWII (late 1940s) through recent years, long-run annual series",
+  "frequency": "annual (mostly)",
+  "topics": ["long-run macro history", "national accounts", "monetary", "prices"],
+  "units": "described within document",
+  "license_terms": "Banco de Portugal public statistics, free reuse with attribution",
+  "notes": "Banco de Portugal's own PDF compilation of long-run economic series for Portugal since WWII (companion/predecessor to the joint INE/BdP 'Séries Longas para a Economia Portuguesa 2020' downloaded under ine-portugal — see data/raw/ine-portugal/long-series-portuguese-economy/). Direct PDF download from bportugal.pt document library, no login required.",
+  "failures": []
+}

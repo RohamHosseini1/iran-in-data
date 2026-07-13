@@ -1,0 +1,21 @@
+{
+  "dataset_id": "eumofa-caviar-market-report-2021",
+  "title": "The Caviar Market 2021 Edition (EUMOFA) — Sturgeon Aquaculture Production incl. Iran, 2010-2018",
+  "source_org": "EUMOFA (European Market Observatory for Fisheries and Aquaculture Products), European Commission DG MARE",
+  "source_url": "https://fishery-aquaculture-market-observatory.ec.europa.eu/en/publications/other-publications/the-caviar-market-2021-edition",
+  "download_url": "https://fishery-aquaculture-market-observatory.ec.europa.eu/system/files/2026-05/The%20caviar%20market%20-%202021%20Edition.pdf",
+  "retrieved_at_utc": "2026-07-12T23:07:05Z",
+  "retrieved_by": "agent:iran-specialty-goods-hunt (curl)",
+  "files": [
+    {"name": "eumofa_caviar_market_2021.pdf", "original_name": "The caviar market - 2021 Edition.pdf", "sha256": "76d8d3cacdfa055d942622824dc5b54cc31d5d527582bd8d349f9a183dcbe252", "bytes": 1929206},
+    {"name": "data.csv", "original_name": null, "sha256": "6166ef6f3c8ea7dca4814d55fd3e0ffca8b8389c935118daed66e21246263158", "bytes": 1842}
+  ],
+  "countries": ["IRN", "CHN", "ARM", "RUS", "USA", "VNM", "EU-aggregate"],
+  "time_coverage": "2010-2018 (report also has global/EU narrative data back to 1977 and 2002)",
+  "frequency": "annual",
+  "topics": ["caviar", "sturgeon", "aquaculture", "fisheries", "exports", "state-fishing-company", "shilat"],
+  "units": "tonnes (whole fish, live weight, aquaculture production) -- NOT caviar/roe weight",
+  "license_terms": "European Commission open-access publication (reuse permitted with source acknowledgement per EU standard reuse policy)",
+  "notes": "data.csv extracted from Table 3 ('Sturgeon production (tonnes)'), page 12 of the PDF (page 15 in absolute PDF page order due to cover/TOC pages), sourced by EUMOFA to FAO. VISUAL VERIFICATION: table was rendered via `pdftoppm -r 200` and read directly with the Read tool (image at scratchpad/eumofa_p15-15.png during this session) to confirm every digit against the raw pdftotext -layout extraction, which used European '.' thousands-separator formatting (e.g. '2.839' = 2,839 tonnes) that could otherwise be misread. Values cross-checked column-by-column against the 'Total' row (sum of all countries) which matched. This complements (does not duplicate) data/raw/faostat/tcl-trade-crops-livestock/, which does NOT cover fisheries/caviar at all (confirmed zero caviar/sturgeon/fish-roe matches for Iran in that file). Note this table measures whole-fish aquaculture output, not extracted caviar (roe) weight -- roe is typically ~10-15% of a mature female sturgeon's weight, so these figures are NOT directly comparable to the caviar-specific tonnages in the sibling dataset iran-caviar-exports/ifo-caviar-production-export-compiled/.",
+  "failures": []
+}

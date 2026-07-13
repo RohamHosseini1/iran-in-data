@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 1 Introduction | Household Expenditure and Income Surveys of Iran</title>
+  <meta name="description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 1 Introduction | Household Expenditure and Income Surveys of Iran" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 1 Introduction | Household Expenditure and Income Surveys of Iran" />
+  
+  <meta name="twitter:description" content="The Household Expenditure and Income Surveys of Iran: Introduction and data cleaning" />
+  
+
+<meta name="author" content="Mohammad Hoseini" />
+
+
+<meta name="date" content="2021-04-10" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="index.html"/>
+<link rel="next" href="questionnaire-details.html"/>
+<script src="libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Iran's HEIS surveys</a></li>
+
+<li class="divider"></li>
+<li><a href="index.html#section"></a>
+<ul>
+<li><a href="index.html#section-1"></a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#sample-design"><i class="fa fa-check"></i><b>1.1</b> Sample design</a>
+<ul>
+<li class="chapter" data-level="1.1.1" data-path="introduction.html"><a href="introduction.html#rotating-panel-feature"><i class="fa fa-check"></i><b>1.1.1</b> Rotating panel feature</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="introduction.html"><a href="introduction.html#different-rounds"><i class="fa fa-check"></i><b>1.2</b> Different rounds</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="questionnaire-details.html"><a href="questionnaire-details.html"><i class="fa fa-check"></i><b>2</b> Questionnaire details</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-1---member-characteristics"><i class="fa fa-check"></i><b>2.1</b> Part 1 - Member Characteristics</a></li>
+<li class="chapter" data-level="2.2" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-2---household-facilities"><i class="fa fa-check"></i><b>2.2</b> Part 2 - Household Facilities</a></li>
+<li class="chapter" data-level="2.3" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-3---expenditure"><i class="fa fa-check"></i><b>2.3</b> Part 3 - Expenditure</a></li>
+<li class="chapter" data-level="2.4" data-path="questionnaire-details.html"><a href="questionnaire-details.html#part-4-income"><i class="fa fa-check"></i><b>2.4</b> Part 4: Income</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="importing-raw-data.html"><a href="importing-raw-data.html"><i class="fa fa-check"></i><b>3</b> Importing raw data</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-access-files-to-r"><i class="fa fa-check"></i><b>3.1</b> Importing access files to R</a></li>
+<li class="chapter" data-level="3.2" data-path="importing-raw-data.html"><a href="importing-raw-data.html#importing-code-for-all-years"><i class="fa fa-check"></i><b>3.2</b> Importing code for all years</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="cleaning-data.html"><a href="cleaning-data.html"><i class="fa fa-check"></i><b>4</b> Cleaning data</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#importing-raw-data-and-sampling-information"><i class="fa fa-check"></i><b>4.1</b> Importing raw data and sampling information</a></li>
+<li class="chapter" data-level="4.2" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-1"><i class="fa fa-check"></i><b>4.2</b> Cleaning Part 1</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="cleaning-data.html"><a href="cleaning-data.html#education-code"><i class="fa fa-check"></i><b>4.2.1</b> Education code</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-2"><i class="fa fa-check"></i><b>4.3</b> Cleaning Part 2</a></li>
+<li class="chapter" data-level="4.4" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-3"><i class="fa fa-check"></i><b>4.4</b> Cleaning Part 3</a>
+<ul>
+<li class="chapter" data-level="4.4.1" data-path="cleaning-data.html"><a href="cleaning-data.html#price-index-and-real-expenditure"><i class="fa fa-check"></i><b>4.4.1</b> Price index and real expenditure</a></li>
+</ul></li>
+<li class="chapter" data-level="4.5" data-path="cleaning-data.html"><a href="cleaning-data.html#cleaning-part-4"><i class="fa fa-check"></i><b>4.5</b> Cleaning Part 4</a></li>
+<li class="chapter" data-level="4.6" data-path="cleaning-data.html"><a href="cleaning-data.html#building-item-level-data"><i class="fa fa-check"></i><b>4.6</b> Building item-level data</a></li>
+<li class="chapter" data-level="4.7" data-path="cleaning-data.html"><a href="cleaning-data.html#building-individual-level-data"><i class="fa fa-check"></i><b>4.7</b> Building individual-level data</a></li>
+<li class="chapter" data-level="4.8" data-path="cleaning-data.html"><a href="cleaning-data.html#building-household-level-data-summary-files"><i class="fa fa-check"></i><b>4.8</b> Building Household-level data (summary files)</a>
+<ul>
+<li class="chapter" data-level="4.8.1" data-path="cleaning-data.html"><a href="cleaning-data.html#exporting-to-other-formats."><i class="fa fa-check"></i><b>4.8.1</b> Exporting to other formats.</a></li>
+</ul></li>
+<li class="chapter" data-level="4.9" data-path="cleaning-data.html"><a href="cleaning-data.html#special-issues-for-different-years"><i class="fa fa-check"></i><b>4.9</b> Special issues for different years</a>
+<ul>
+<li class="chapter" data-level="4.9.1" data-path="cleaning-data.html"><a href="cleaning-data.html#the-structure-of-address-variable"><i class="fa fa-check"></i><b>4.9.1</b> The structure of Address variable</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html"><i class="fa fa-check"></i><b>5</b> Trends in expenditure items</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#total-expenditure-across-coicop-groups"><i class="fa fa-check"></i><b>5.1</b> Total expenditure across COICOP groups</a></li>
+<li class="chapter" data-level="5.2" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#expenditure-shares-of-coicop-groups"><i class="fa fa-check"></i><b>5.2</b> Expenditure shares of COICOP groups</a></li>
+<li class="chapter" data-level="5.3" data-path="trends-in-expenditure-items.html"><a href="trends-in-expenditure-items.html#percapita-expenditure-across-coicop-groups-and-regions"><i class="fa fa-check"></i><b>5.3</b> Percapita expenditure across COICOP groups and regions</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="trends-of-household-level-data.html"><a href="trends-of-household-level-data.html"><i class="fa fa-check"></i><b>6</b> Trends of household-level data</a></li>
+<li class="chapter" data-level="7" data-path="trends-in-individual-level-data.html"><a href="trends-in-individual-level-data.html"><i class="fa fa-check"></i><b>7</b> Trends in individual-level data</a></li>
+<li class="chapter" data-level="8" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html"><i class="fa fa-check"></i><b>8</b> Some applications of household-level data</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="some-applications-of-household-level-data.html"><a href="some-applications-of-household-level-data.html#gas-price-reform-in-november-2019-in-iran-and-poverty"><i class="fa fa-check"></i><b>8.1</b> Gas price reform in November 2019 in Iran and poverty</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank"> </a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Household Expenditure and Income Surveys of Iran</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="introduction" class="section level1" number="1">
+<h1><span class="header-section-number">Chapter 1</span> Introduction</h1>
+<p>The Statistical Center of Iran (SCI, <a href="https://amar.org.ir" class="uri">https://amar.org.ir</a>) has been conducting Household Expenditure and Income Survey (HEIS), formerly known as Household Budget Survey, in rural areas since 1342 (1963-1964), and urban areas as of 1347 (1968-69). In the beginning, it only contained the household expenditures questions; and it was in 1353 (1974-75) that the questions concerning the household income were added to the survey’s questionnaire.</p>
+<p>The HIES aims to hand in estimates of the average income and expenditure for urban and rural households at provincial and country levels. Among many applications, the surveys enable researchers to estimate the household’s income and expenditure composition and distribution patterns, the household consumption pattern, the weight for each commodity in the household consumption basket, also to calculate the poverty line, and study the imparity in household income and facilities.</p>
+<p>The SCI has published the raw data of this survey since 1984. In this project, I clean and explore this data in a reproducible way enabling researchers to use them with little hassle. Because the raw data of the surveys conducted prior to 1376 (1997-98) does not provide sample multipliers to the user, at the first stage of this project, I put my primary focus on the period after 1376. For the future, I aim at generating the sample multiplier for older years using the Census data.</p>
+<p><strong>A note on Persian calendar</strong>. The reference year of the surveys is based on the Persian calendar in which new year’s eve (Nowrouz) is on March 20 or March 21. In this document, we refer to the survey year based on the Persian calendar. To convert years from Persian to Gregorian calendar, one should add 621 for dates before 1 Farvardin (March 21) and 622 for dates after 1 Farvardin (March 21). For example, 1400 in the Persian calendar starts in March 2021 and ends in March 2022.</p>
+<div id="sample-design" class="section level2" number="1.1">
+<h2><span class="header-section-number">1.1</span> Sample design</h2>
+<p>The SCI uses a multi-stage sample design for this survey, and its target population includes all private and collective settled households in urban and rural areas. A three-stage cluster sampling method with strata is used in the survey using the latest population census as the framework. At the first stage, the census areas are classified and selected. At the second stage, the urban and rural blocks are selected, and the selection of sample households is made at the third stage. The number of samples is optimized to estimate the average annual income and expenditure of the sample household. In order to obtain estimations more representative of the whole year, the samples are evenly distributed between the months of the year.</p>
+<div id="rotating-panel-feature" class="section level3" number="1.1.1">
+<h3><span class="header-section-number">1.1.1</span> Rotating panel feature</h3>
+<p>Since 1389 (2010-11), the sample is designed with a rotating panel feature, in the sense that households are resampled up to three consecutive years. The first rotating frame is designed for 1389-1391, then for 1392-1396, and the third one, which is ongoing, has started in 1397.</p>
+<p>As an example the design of the second frame is as follows:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">group</th>
+<th align="center">Y1392</th>
+<th align="center">Y1393</th>
+<th align="center">Y1394</th>
+<th align="center">Y1395</th>
+<th align="center">Y1396</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">A</td>
+<td align="center">A3</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center">B</td>
+<td align="center">B2</td>
+<td align="center">B3</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">C</td>
+<td align="center">C1</td>
+<td align="center">C2</td>
+<td align="center">C3</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center">D</td>
+<td align="center"></td>
+<td align="center">D1</td>
+<td align="center">D2</td>
+<td align="center">D3</td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">E</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">E1</td>
+<td align="center">E2</td>
+<td align="center">E3</td>
+</tr>
+<tr class="even">
+<td align="center">F</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">F1</td>
+<td align="center">F2</td>
+</tr>
+<tr class="odd">
+<td align="center">G</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">G1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="different-rounds" class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> Different rounds</h2>
+<p>Over time surveys are different in some features such as sample size, rotating panel sampling, number of expenditure and income tables, and coding different variables. The below table compares different years. More details on the differences will be presented in the next parts.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">year</th>
+<th align="center">Households</th>
+<th align="center">Rotating.panel</th>
+<th align="center">Expenditure.tables</th>
+<th align="center">Income.tables</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">1376</td>
+<td align="center">21950</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td align="center">1377</td>
+<td align="center">17477</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="odd">
+<td align="center">1378</td>
+<td align="center">27464</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td align="center">1379</td>
+<td align="center">26941</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="odd">
+<td align="center">1380</td>
+<td align="center">26961</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td align="center">1381</td>
+<td align="center">32152</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="odd">
+<td align="center">1382</td>
+<td align="center">23134</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td align="center">1383</td>
+<td align="center">24534</td>
+<td align="center">No</td>
+<td align="center">10</td>
+<td align="center">3</td>
+</tr>
+<tr class="odd">
+<td align="center">1384</td>
+<td align="center">26895</td>
+<td align="center">No</td>
+<td align="center">14</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td align="center">1385</td>
+<td align="center">30910</td>
+<td align="center">No</td>
+<td align="center">14</td>
+<td align="center">3</td>
+</tr>
+<tr class="odd">
+<td align="center">1386</td>
+<td align="center">31283</td>
+<td align="center">No</td>
+<td align="center">14</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td align="center">1387</td>
+<td align="center">39088</td>
+<td align="center">No</td>
+<td align="center">14</td>
+<td align="center">3</td>
+</tr>
+<tr class="odd">
+<td align="center">1388</td>
+<td align="center">37045</td>
+<td align="center">No</td>
+<td align="center">14</td>
+<td align="center">3</td>
+</tr>
+<tr class="even">
+<td align="center">1389</td>
+<td align="center">38950</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">3</td>
+</tr>
+<tr class="odd">
+<td align="center">1390</td>
+<td align="center">38513</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center">1391</td>
+<td align="center">38192</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="odd">
+<td align="center">1392</td>
+<td align="center">38331</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center">1393</td>
+<td align="center">39856</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="odd">
+<td align="center">1394</td>
+<td align="center">39857</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center">1395</td>
+<td align="center">39864</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="odd">
+<td align="center">1396</td>
+<td align="center">37962</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="even">
+<td align="center">1397</td>
+<td align="center">38960</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+<tr class="odd">
+<td align="center">1398</td>
+<td align="center">38328</td>
+<td align="center">yes</td>
+<td align="center">14</td>
+<td align="center">4</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="questionnaire-details.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/01-introduction.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["HEIS.pdf", "HEIS.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

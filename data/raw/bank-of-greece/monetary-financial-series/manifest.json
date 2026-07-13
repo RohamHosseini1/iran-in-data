@@ -1,0 +1,25 @@
+{
+  "dataset_id": "bank-of-greece-monetary-financial-series",
+  "title": "Bank of Greece Open Data — Real Effective Exchange Rate (CPI-based) and MFI Deposit Flow series",
+  "source_org": "Bank of Greece",
+  "source_url": "https://opendata.bankofgreece.gr/",
+  "download_url": "https://web.archive.org/web/20250726002601/https://www.bankofgreece.gr/OpenDataSetFilesALL/DOAM/BoG_REERCPI_en_2023-9-14.xlsx ; https://web.archive.org/web/20230724215841/https://www.bankofgreece.gr/OpenDataSetFilesALL/STATISTIKI/BoG_DepositFlow_en_2021-01-05.xls",
+  "retrieved_at_utc": "2026-07-12T18:36:00Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "BoG_REERCPI_en_2023-9-14.xlsx", "original_name": "BoG_REERCPI_en_2023-9-14.xlsx", "sha256": "d5bd72cc42ad97216239818bec84c26f03cdcb9cf9a6d2570b8916e1d3fe5352", "bytes": 28931},
+    {"name": "BoG_DepositFlow_en_2021-01-05.xls", "original_name": "BoG_DepositFlow_en_2021-01-05.xls", "sha256": "eaae557ef904eeeeca031efe5da25ed8a171bbeafc54551d3212b931ff8150f7", "bytes": 225792}
+  ],
+  "countries": ["GRC"],
+  "time_coverage": "varies by series within file, monthly, as of snapshot dates 2021-01 and 2023-09",
+  "frequency": "monthly",
+  "topics": ["monetary", "exchange rates", "deposits", "banking"],
+  "units": "index / EUR, described in file",
+  "license_terms": "Bank of Greece Open Data, Creative Commons Attribution 4.0 International",
+  "notes": "bankofgreece.gr (all subdomains, all paths, including opendata.bankofgreece.gr and its own JSON API) blocks curl and WebFetch entirely with an Akamai Bot Manager 403 ('Access Denied' / errors.edgesuite.net), confirmed on repeated attempts including full browser headers. A live interactive browser session (mcp Claude_Browser) COULD render opendata.bankofgreece.gr pages and its Angular dataset catalog (confirmed 53 datasets across 8 categories, e.g. dataset id 14 = 'Balance Sheet of the Bank of Greece', monthly xlsx files 2018-2026; dataset covering 'Bulletin of prices of gold bars and gold coins from 1970' — genuinely long-run back to 1970), but direct navigation/fetch to the actual file URLs (www.bankofgreece.gr/OpenDataSetFilesALL/...) was also denied even from that browser session, and clicking the in-page download icon did not produce a capturable network request. Files in THIS dataset were instead retrieved via the Internet Archive Wayback Machine (web.archive.org), which had crawled several bankofgreece.gr/OpenDataSetFilesALL/ files with HTTP 200 snapshots (confirmed via the CDX API: http://web.archive.org/cdx/search/cdx?url=bankofgreece.gr/OpenDataSetFilesALL*). This is the same primary-source content, just served through the Wayback cache rather than the live (blocked) origin. Only 2 of several available archived files were pulled for size/time discipline; other archived candidates seen in the CDX listing include Office_Price_Index, Retail_Price_Index, and Residents_expenditure_per_overnight_stay (all real-estate/tourism, less central to 'monetary/financial'). Live long-run series NOT retrieved (blocked, follow-up needed with a tool that can pass Akamai's JS challenge): gold price bulletins since 1970, full 'Interest rates' history (BoG/ECB joint estimates back to 1980 per bankofgreece.gr page text), SSRN paper 'Money Supply and Greek Historical Monetary Statistics' (Bank of Greece submitter) referenced in web search but not independently verified/downloaded this session.",
+  "failures": [
+    {"url": "https://www.bankofgreece.gr/en/statistics/monetary-and-banking-statistics", "reason": "HTTP 403 Akamai Bot Manager block on all bankofgreece.gr paths/subdomains via curl and WebFetch"},
+    {"url": "https://opendata.bankofgreece.gr/api.aspx/getDatasetDetails?parentDatasetId=14&language=2", "reason": "HTTP 403 Akamai Bot Manager block via curl, even though same URL loads fine inside a live interactive browser session"},
+    {"url": "https://www.bankofgreece.gr/OpenDataSetFilesALL/STATISTIKI/BoG_NCB_EN_2026-06-29.xlsx", "reason": "Direct navigation denied even from live browser session (most recent live file, not yet in Wayback); curl also 403"}
+  ]
+}

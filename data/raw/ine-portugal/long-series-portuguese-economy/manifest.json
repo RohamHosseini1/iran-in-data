@@ -1,0 +1,22 @@
+{
+  "dataset_id": "ine-portugal-series-longas-economia-portuguesa-2020",
+  "title": "Séries Longas para a Economia Portuguesa (Long Series for the Portuguese Economy) — 2020 edition, joint INE / Banco de Portugal publication",
+  "source_org": "Instituto Nacional de Estatística (INE), Portugal — joint publication with Banco de Portugal",
+  "source_url": "https://www.ine.pt/xurl/pub/536285836",
+  "download_url": "https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=536286027&att_display=n&att_download=y ; https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=536288881&att_display=n&att_download=y ; https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=536288988&att_display=n&att_download=y",
+  "retrieved_at_utc": "2026-07-12T18:18:29Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "SLEP2020_report.pdf", "original_name": "SLEP2020", "sha256": "07bdc4e6a70b73f2f1e03bdd3d0f398a0b1b85044b161ab3332457bd8dae6efb", "bytes": 1795865},
+    {"name": "SLEP2020_tables.xlsx", "original_name": "XLSX", "sha256": "46737d13bef2b07a437d63b1fc2afd3217684546c1c4b13dbc64904a08c0335a", "bytes": 1487454},
+    {"name": "SLEP2020_csv.zip", "original_name": "CSV", "sha256": "72f4fb415a3a38c290b55a77f139f3a14f81d28c0ea26167c9f33b88889a5fe8", "bytes": 417638}
+  ],
+  "countries": ["PRT"],
+  "time_coverage": "late 1940s (post-WWII) through ~2019/2020, long-run annual series",
+  "frequency": "annual (mostly)",
+  "topics": ["national accounts", "gdp", "prices", "cpi", "long-run macro history", "population", "external sector"],
+  "units": "described in report/codebook (tables in PDF/XLSX/CSV); CPI used as deflator throughout",
+  "license_terms": "INE / Banco de Portugal public statistics, free reuse with attribution",
+  "notes": "Landmark long-run macro-history compendium for Portugal, jointly produced by INE and Banco de Portugal, covering fundamental series (GDP, prices/CPI, population, external accounts, etc.) back to the late 1940s. CSV bundle unzips into per-table CSVs (Q1.1.csv, Q1.10.csv, ... plus an index and metainformation file); some filenames contain non-ASCII characters that appear mangled in the zip's stored encoding (e.g. 'Metainforma??o.csv' for 'Metainformação.csv', 'Ãndice.csv' for 'Índice.csv') — this is an artifact of the original zip's Windows/Latin-1 filename encoding, left as-is per raw-data immutability rule. This single publication substitutes for the individual INE CPI/national-accounts series that proved unreachable via direct download in this session (see cpi-national-accounts-blocked dataset note in ine-portugal source folder log) — it is INE's own official long-run series product and directly satisfies the 'CPI and national accounts historical series' task requirement.",
+  "failures": []
+}

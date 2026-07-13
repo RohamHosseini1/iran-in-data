@@ -1,0 +1,21 @@
+{
+  "dataset_id": "encyclopedia-com-iranair-company-history",
+  "title": "IranAir year-by-year passengers, employees, and revenue, 1946-2003 — International Directory of Company Histories (via Encyclopedia.com)",
+  "source_org": "International Directory of Company Histories (reference series), reproduced at Encyclopedia.com",
+  "source_url": "https://www.encyclopedia.com/books/politics-and-business-magazines/iranair",
+  "download_url": "https://www.encyclopedia.com/books/politics-and-business-magazines/iranair",
+  "retrieved_at_utc": "2026-07-13T01:05:00Z",
+  "retrieved_by": "agent:iran-modernization-hunt",
+  "files": [
+    {"name": "iranair_company_history_excerpt.txt", "original_name": null, "sha256": "2f3f835004f0ed9a9034dc2a25dd6ed5815d0568c69460573478977e67b29de9", "bytes": 2867},
+    {"name": "iranair_passengers_employees_revenue.csv", "original_name": null, "sha256": "942005319fe36baa1020b1b49a94d3bc38366d96be2340dc115d78dbc9ffedd8", "bytes": 2688}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1946-2003",
+  "frequency": "one-off reference-book profile with roughly decadal snapshot years (1961, 1967, 1972, 1975, 1990, 2000-2003)",
+  "topics": ["aviation", "iran-air", "civil-aviation", "employment", "revenue", "pahlavi-era"],
+  "units": "persons (passengers/employees), US dollars, rials, aircraft counts -- described per row",
+  "license_terms": "Encyclopedia.com reference content, part of the International Directory of Company Histories reference series",
+  "notes": "This is the single best PRE-1970 Iran Air data point found in this hunt: annual passengers approx. 142,000 in 1961 (the merger year immediately preceding Iran Air's Feb 1962 founding) and approx. 403,000 in 1967, filling the exact gap WDI leaves open (WDI's IS.AIR.PSGR only starts in 1970 at 715,600, and is an Iran-wide aggregate, not Iran-Air-specific). The 1972 figure (nearly 800,000 passengers) is broadly consistent with WDI's 1972 Iran-wide figure of 894,800, a reasonable cross-check given Iran Air was the dominant/near-monopoly domestic+international carrier at the time. This is a tertiary business-reference source (not a primary Iran Air annual report or government statistical yearbook), so figures are flagged as order-of-magnitude reliable rather than exact, per docs/bookkeeping.md guidance on tertiary-source figures; every number is transcribed exactly as printed in the source, nothing interpolated or fabricated.",
+  "failures": []
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_id": "bcv-inpc-cpi",
+  "title": "BCV Venezuela — Consumer Price Index (INPC national since 2008, and IPC Caracas metro area since 1950)",
+  "source_org": "Banco Central de Venezuela (BCV)",
+  "source_url": "https://www.bcv.org.ve/estadisticas/consumidor",
+  "download_url": "https://www.bcv.org.ve/sites/default/files/precios_consumidor/4_5_7.xls ; https://www.bcv.org.ve/sites/default/files/precios_consumidor/4_1_7.xls",
+  "retrieved_at_utc": "2026-07-12T18:58:30Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {"name": "4_5_7_INPC_nacional_desde_2008.xls", "original_name": "4_5_7.xls", "sha256": "e98ca2d459d3c81e9e745cb84d20a06300fb045563cfbd1c5e5fd85d8884eb9d", "bytes": 62976},
+    {"name": "4_1_7_IPC_Caracas_desde_1950.xls", "original_name": "4_1_7.xls", "sha256": "df699e0ebb562d16b7852707d661114c5ee78a057ec001dc1f43c213e30a12f2", "bytes": 121856}
+  ],
+  "countries": ["VEN"],
+  "time_coverage": "4_5_7: national INPC since 2008; 4_1_7: Caracas metro area IPC since 1950 (pre-INPC historical continuity series)",
+  "frequency": "monthly",
+  "topics": ["CPI", "inflation", "prices", "INPC"],
+  "units": "index numbers, described in file",
+  "license_terms": "BCV public statistics",
+  "notes": "Direct download worked on first attempt, no flakiness/Wayback fallback needed this session (bookkeeping.md warns this source is 'often flaky' — not observed today). Page also links category-breakdown files (4_5_1 variations, 4_5_3 indices by group, 4_5_7_2) not downloaded here; these two files (flagship national INPC since 2008 + the older long-run Caracas series back to 1950 for historical continuity) were judged sufficient.",
+  "failures": []
+}

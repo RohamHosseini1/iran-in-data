@@ -1,0 +1,20 @@
+{
+  "dataset_id": "academic-nomadic-pastoral-economy-ansari-renani-2016",
+  "title": "Ansari-Renani (2016) — 'An investigation of organic sheep and goat production by nomad pastoralists in southern Iran' (Pastoralism: Research, Policy and Practice, journal article, open access)",
+  "source_org": "Springer Nature / Pastoralism journal (peer-reviewed academic)",
+  "source_url": "https://pastoralismjournal.springeropen.com/articles/10.1186/s13570-016-0056-y",
+  "download_url": "https://link.springer.com/content/pdf/10.1186/s13570-016-0056-y.pdf",
+  "retrieved_at_utc": "2026-07-13T02:09:00Z",
+  "retrieved_by": "agent:round38-regional-social-hunt",
+  "files": [
+    {"name": "ansari-renani-2016-organic-sheep-goat-nomad-pastoralists.pdf", "original_name": "s13570-016-0056-y.pdf", "sha256": "685f6ef418e025487c3a02fbdf8106e134d721ab0356d4c7b299ed0441af7027", "bytes": 2866764, "notes": "Author: Hamid R. Ansari-Renani. Pastoralism 6:8 (2016). DOI 10.1186/s13570-016-0056-y. CC BY 4.0. Field study of 30 nomad (Siahjel sub-tribe of the Raen tribe) households in Baft district, Kerman province."}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2012-2015 fieldwork (published 2016); cites FAO 2014 national livestock totals",
+  "frequency": "one-time academic field study",
+  "topics": ["nomadic", "pastoral-economy", "livestock", "cashmere", "wool", "agriculture"],
+  "units": "mixed (kg, %, head counts)",
+  "license_terms": "CC BY 4.0 (Springer Open Access)",
+  "notes": "Directly answers project brief bucket 2 (nomadic/tribal pastoral economy, livestock-herd-size estimates). Key quantified facts extracted: nationally, Iran's nomads keep 58.5% of the country's sheep population and 39.7% of its goat population (Iran's total sheep=53.8M head [world rank 6th], goats=25M head [world rank 5th], FAO 2014 cited within the paper). Typical nomad family flock ~250 head, composition 89% goats / 8% sheep / 3% pack animals (horses/mules/donkeys/camels) (Ansari-Renani et al. 2013, cited within). Raeini cashmere goats: avg live weight 35kg (male)/30kg (female), average cashmere yield 507g/animal, 56.5% down yield, 19.5-micron fibre diameter. Kermani sheep (carpet-wool breed): avg 2.0kg wool/animal, 70% efficiency, 150mm staple length. This is genuine micro-level ('under the rocks') pastoral-economy data of exactly the kind the project brief asks for, complementing the national/provincial nomad population counts recorded separately in SOURCES.md Round 38.",
+  "failures": []
+}

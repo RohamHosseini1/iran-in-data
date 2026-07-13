@@ -1,0 +1,20 @@
+{
+  "dataset_id": "banco-portugal-bpstat-interest-rates",
+  "title": "BPstat (Banco de Portugal) — Interest rates applied by banks in Portugal to loans and deposits (subset: first 100 of 263 series in domain)",
+  "source_org": "Banco de Portugal (BPstat statistics portal)",
+  "source_url": "https://bpstat.bportugal.pt/api/domains/21",
+  "download_url": "https://bpstat.bportugal.pt/api/observations/csv/?series_ids=<first 100 series ids of domain_id=21>&language=EN",
+  "retrieved_at_utc": "2026-07-12T18:21:06Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "bpstat_domain21_interest_rates_p1of3.csv", "original_name": null, "sha256": "6b620df30817ad99e6400e8ecb679483af32ddaa2fe98cfe995d145334f8377c", "bytes": 3326364}
+  ],
+  "countries": ["PRT"],
+  "time_coverage": "1965-12 to 2026-05 (varies by series; some series start as early as 1965, most MFI-harmonized series start ~2003)",
+  "frequency": "monthly",
+  "topics": ["interest rates", "monetary policy", "banking"],
+  "units": "percentage (annualized agreed rate / APR / etc., described in series metadata)",
+  "license_terms": "Banco de Portugal / BPstat open data API, free reuse with attribution",
+  "notes": "Domain 21 'Interest rates' has 263 total series; only the first 100 (page 1) were downloaded in this session due to size/time discipline — filename suffixed p1of3 to signal 2 more pages (100 each) remain if deeper coverage is wanted later. Retrieved via the same BPstat REST API used for the GDP dataset (data/raw/banco-portugal/gdp-expenditure-series-since-1977/). Covers deposit and loan interest rates by sector/instrument/maturity for Portuguese banks.",
+  "failures": []
+}

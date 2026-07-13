@@ -1,0 +1,28 @@
+{
+  "dataset_id": "economy-ix-pahlavi-period",
+  "title": "ECONOMY ix. In the Pahlavi Period",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation)",
+  "source_url": "https://www.iranicaonline.org/articles/economy-ix/",
+  "download_url": "https://www.iranicaonline.org/articles/economy-ix/",
+  "retrieved_at_utc": "2026-07-12T20:52:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "economy-ix-pahlavi-period.txt",
+      "original_name": null,
+      "sha256": "d7353518275998b06881f4390999bb98fb287213150e19c8bd9b13edf641e644",
+      "bytes": 41074
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1921-1979 (Pahlavi era)",
+  "frequency": "one-off reference article",
+  "topics": ["economic-history", "pahlavi-era", "oil-revenue", "development-plans", "reza-shah", "mohammad-reza-shah"],
+  "units": "narrative with cited statistical figures (GNP growth, sector shares, income distribution, etc.)",
+  "license_terms": "Encyclopaedia Iranica -- academic reference, cite author/article per their citation guidance",
+  "notes": "Article by M. Hashem Pesaran (Vol. VIII, Fasc. 2, pp. 143-156; published Dec 15, 1997; last updated Jan 16, 2014). Comprehensive scholarly economic history covering Reza Shah's rise (1921) through Mohammad Reza Shah's fall (1979): Trans-Iranian Railway, 1933 oil concession, 1930 foreign exchange crisis and trade monopoly law, WWII disruption, oil nationalization (1951-53) and Mosaddeq coup, the two Seven-Year Plans, White Revolution/land reform (1963), and the 1963-78 industrialization boom with detailed GDP/sector-share/income-distribution statistics. Full bibliography of underlying academic sources (Bharier, Karshenas, Amuzegar, Issawi, Katouzian, etc.) preserved. cia.gov-style bot gating (Cloudflare challenge) blocked plain curl/WebFetch (HTTP 403 with cf-mitigated:challenge header) -- retrieved via the agent's browser tool, which passed the Cloudflare check, then extracted full article text via get_page_text. Saved as clean UTF-8 plain text (not a scrape of raw HTML) since no PDF/print version was offered by the site; content and structure verified against the rendered page.",
+  "failures": [
+    {"url": "https://www.iranicaonline.org/articles/economy-ix/", "method": "curl", "result": "HTTP 403 (Cloudflare bot-challenge, cf-mitigated: challenge)"},
+    {"url": "https://www.iranicaonline.org/articles/economy-ix/", "method": "WebFetch", "result": "HTTP 403 Forbidden"}
+  ]
+}

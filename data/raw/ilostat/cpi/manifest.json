@@ -1,0 +1,25 @@
+{
+  "dataset_id": "ilostat-cpi",
+  "title": "ILOSTAT National Consumer Price Index by COICOP (annual, base year 2017=100)",
+  "source_org": "International Labour Organization (ILOSTAT)",
+  "source_url": "https://ilostat.ilo.org/data/",
+  "download_url": "https://rplumber.ilo.org/data/indicator/?id=CPI_XCPI_COI_RT_A&format=.csv",
+  "retrieved_at_utc": "2026-07-12T18:16:30Z",
+  "retrieved_by": "agent:comparators-trade-mopup",
+  "files": [
+    {
+      "name": "CPI_XCPI_COI_RT_A.csv",
+      "original_name": null,
+      "sha256": "27fefb20055c5c22cb2f86d1c26360c2fff861802d8c293625b7c38d9d26660a",
+      "bytes": 3542733
+    }
+  ],
+  "countries": ["ALL (world); confirmed IRN present (45 rows)"],
+  "time_coverage": "1914-2025 (coverage varies by country)",
+  "frequency": "annual",
+  "topics": ["prices", "CPI", "inflation"],
+  "units": "index, base year 2017 = 100, by COICOP division",
+  "license_terms": "ILOSTAT — CC BY 4.0",
+  "notes": "Full-world indicator CSV pulled from ILOSTAT's public rplumber REST API (no API key required). Indicator CPI_XCPI_COI_RT_A = national CPI index by COICOP division, annual.",
+  "failures": []
+}

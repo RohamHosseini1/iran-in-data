@@ -1,0 +1,20 @@
+{
+  "dataset_id": "banco-espana-cpi-series",
+  "title": "Banco de España Statistical Bulletin — CPI & Harmonised Price Indices (time series CSV bundle)",
+  "source_org": "Banco de España",
+  "source_url": "https://www.bde.es/webbe/en/estadisticas/recursos/descargas-completas.html",
+  "download_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/zip/SB_IPC.zip",
+  "retrieved_at_utc": "2026-07-12T18:09:44Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "SB_IPC.zip", "original_name": null, "sha256": "2231043dd5cf04249a43060a3ff559ae9adefd17591b7802b27dfd354a4579ae", "bytes": 165207}
+  ],
+  "countries": ["ESP"],
+  "time_coverage": "long-run historical series through mid-2026 (exact start year varies by series within bundle)",
+  "frequency": "monthly (mostly)",
+  "topics": ["prices", "cpi", "inflation"],
+  "units": "described in file / codebook (CSV headers in Spanish)",
+  "license_terms": "Banco de España public statistics (free reuse per BdE terms)",
+  "notes": "ZIP bundle of CSV time series for CPI, harmonised CPI, and related price indices from the BdE Statistical Bulletin bulk-download page. CSV column headers are in Spanish; series catalogue/manual at https://www.bde.es/webbe/es/estadisticas/compartido/docs/manual_archivos_csv.pdf explains structure (English translation available per BdE). Contains multiple CSVs (be0105.csv, be2502.csv, si_3_1.csv, be2623.csv, be2501.csv, be2621.csv, etc.), not individually itemized here — see ZIP contents.",
+  "failures": []
+}

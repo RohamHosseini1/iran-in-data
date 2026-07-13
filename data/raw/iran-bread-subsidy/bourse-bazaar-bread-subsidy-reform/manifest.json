@@ -1,0 +1,25 @@
+{
+  "dataset_id": "bourse-bazaar-bread-subsidy-reform",
+  "title": "Bourse & Bazaar Foundation — \"Is Iran's Bread Subsidy Reform a Half-Baked Idea?\" (Batmanghelidj, May 2022)",
+  "source_org": "Bourse & Bazaar Foundation",
+  "source_url": "https://www.bourseandbazaar.org/articles/2022/5/13/is-irans-bread-subsidy-reform-a-half-baked-idea",
+  "download_url": "https://www.bourseandbazaar.org/articles/2022/5/13/is-irans-bread-subsidy-reform-a-half-baked-idea",
+  "retrieved_at_utc": "2026-07-12T18:22:12Z",
+  "retrieved_by": "agent:iran-bread-subsidy",
+  "files": [
+    {
+      "name": "bourse-bazaar-bread-subsidy-half-baked.md",
+      "original_name": null,
+      "sha256": "61f884af0ab4b5026511a259ef7826786d0eb3ab105591ac8672a393b2f12659",
+      "bytes": 3463
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2018-2022 (article context), published 2022-05-13",
+  "frequency": "one-off article",
+  "topics": ["bread-subsidy", "flour-subsidy", "exchange-rate", "subsidy-reform", "inflation"],
+  "license_terms": "Bourse & Bazaar Foundation editorial article; used per project source-reliability guidance (docs/bookkeeping.md) as an approved non-MEK/NCRI outlet for this topic",
+  "units": "narrative + embedded statistics (IRR/USD exchange rates, USD billions, item counts, price multiples)",
+  "notes": "Hand-written markdown note structured/summarized from the article as fetched via WebFetch on 2026-07-12. Selected per task instructions specifically because it is Bourse & Bazaar (not NCRI/Iran Focus/MEK-affiliated). All figures attributed inline to the source article.",
+  "failures": []
+}

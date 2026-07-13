@@ -1,0 +1,25 @@
+{
+  "dataset_id": "economy-x-islamic-republic",
+  "title": "ECONOMY x. Under the Islamic Republic",
+  "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation)",
+  "source_url": "https://www.iranicaonline.org/articles/economy-x-under-the-islamic-republic/",
+  "download_url": "https://www.iranicaonline.org/articles/economy-x-under-the-islamic-republic/",
+  "retrieved_at_utc": "2026-07-12T20:55:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "economy-x-islamic-republic.txt",
+      "original_name": null,
+      "sha256": "82cebbed1615dbed7cf06958b0257ba0e606d57e95ccbf99f03f723cff87468c",
+      "bytes": 31731
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1979-1994 (early-mid Islamic Republic era)",
+  "frequency": "one-off reference article",
+  "topics": ["economic-history", "islamic-republic", "oil-revenue", "iran-iraq-war", "nationalization", "islamic-banking"],
+  "units": "narrative with cited statistical figures (GDP by sector, inflation, budget, trade)",
+  "license_terms": "Encyclopaedia Iranica -- academic reference, cite author/article per their citation guidance",
+  "notes": "Article by Vahid F. Nowshirvani (Vol. VIII, Fasc. 2, pp. 156-163; published Dec 15, 1997; last updated Jun 29, 2015). Covers the 1979 revolution's economic impact, ideological/constitutional setting, mass nationalization of industry/banking, macroeconomic developments 1977-1992 (GDP by sector, inflation ~16.4%/yr 1979-92), agriculture and the 1980 land reform law, manufacturing nationalization, oil/gas sector collapse and partial recovery, Islamic (interest-free) banking law of 1983, fiscal policy and oil revenue share of budget, and foreign trade/exchange controls. Companion piece to economy-ix-pahlavi-period (same encyclopedia entry series). Retrieved via browser tool (Cloudflare bot-challenge blocked plain curl/WebFetch, same as economy-ix -- see that manifest for details) and get_page_text extraction, saved as clean plain text.",
+  "failures": []
+}

@@ -1,0 +1,20 @@
+{
+  "dataset_id": "academic-gender-economics-farzanegan-gholipour-2018-gold-divorce",
+  "title": "Farzanegan & Gholipour Fereidouni (2018) — 'Does Gold Price Matter for Divorce Rate in Iran?' (MACIE Working Paper 2018/05, also CESifo WP 6873)",
+  "source_org": "Philipps-Universitat Marburg, Marburg Centre for Institutional Economics (MACIE) / Swinburne University of Technology",
+  "source_url": "https://www.uni-marburg.de/en/fb02/research/institutes/macie/activities/macie-papers/2018/05-2018-farzanegan-gholipour.pdf",
+  "download_url": "https://www.uni-marburg.de/en/fb02/research/institutes/macie/activities/macie-papers/2018/05-2018-farzanegan-gholipour.pdf",
+  "retrieved_at_utc": "2026-07-13T02:12:30Z",
+  "retrieved_by": "agent:round38-regional-social-hunt",
+  "files": [
+    {"name": "farzanegan-gholipour-2018-does-gold-price-matter-for-divorce-rate-in-iran.pdf", "original_name": "05-2018-farzanegan-gholipour.pdf", "sha256": "b7d0facbb1a1fa2d25d0333d1193f3ee7c0602d0655b24aeb1cf497497856e68", "bytes": 309657, "notes": "Authors: Mohammad Reza Farzanegan (Philipps-Universitat Marburg / CNMS / MACIE / CESifo / ERF) and Hassan F. Gholipour Fereidouni (Swinburne University of Technology). Working paper, this version 27.04.2018. Peer-reviewed academic economics."}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1980-2014 (annual)",
+  "frequency": "annual time series underlying a cross-sectional econometric study (data itself not tabulated in full in the paper -- only descriptive statistics)",
+  "topics": ["gender", "marriage", "divorce", "mehrieh", "dowry", "gold-price", "female-literacy"],
+  "units": "divorces per 1,000 population (DIVR); real gold-coin price in 1,000 Rials, CPI-deflated (GOLDP)",
+  "license_terms": "Working paper, MACIE series -- freely downloadable, academic use",
+  "notes": "Directly answers the project brief's explicit niche-data suggestion (wedding-dowry/mehrieh value trends). Establishes the mehrieh-gold-price economic linkage: in Iran, dowries (mehrieh) are conventionally denominated and paid in gold coins, so gold coin price IS the de facto mehrieh value index -- this project already holds a real Bahar Azadi/Emami gold coin price series from TGJU (data/raw/fx-parallel-rate/gold-coin-history/, covering 2013-2026) which can now be understood as a mehrieh-value proxy series too. This paper's own GOLDP series (1980-2014, sourced from the Central Bank of Iran's Economic Time Series Database) extends the concept 33 years further back than TGJU's coverage, though the paper only publishes DESCRIPTIVE STATISTICS, not the full annual series: DIVR mean=0.99, min=0.50, max=2.00 (divorces/1,000 pop); GOLDP (real, 1000 Rials) mean=3,631.97, min=2,171.09, max=6,605.52; female literacy (WEDU) mean=0.61, min=0.28, max=0.81 (as a fraction, i.e. 28%-81% over 1980-2014). Core finding: statistically significant positive long-run relationship between real gold-coin price and divorce rate -- i.e. rising mehrieh burden is empirically linked to marital instability in Iran, a genuinely 'under the rocks' economic-demographic finding. The full year-by-year CBI-sourced GOLDP/DIVR series was NOT recoverable from this paper (only shown as an unlabeled chart, Figure 1) -- the Central Bank of Iran's own Economic Time Series Database (tsd.cbi.ir) would be the primary source for the raw series but is an Iran-domestic .ir site, consistent with this project's repeatedly-documented geo-block pattern; not pursued further this round given time budget, flagged as a possible future target.",
+  "failures": []
+}

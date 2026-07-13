@@ -1,0 +1,25 @@
+{
+  "dataset_id": "iran-iraq-war-weary-economies-1988",
+  "title": "Iran-Iraq: A Comparison of Two War-Weary Economies (An Intelligence Assessment)",
+  "source_org": "Central Intelligence Agency (CIA), Directorate of Intelligence, Office of Near Eastern and South Asian Analysis (NESA)",
+  "source_url": "https://www.cia.gov/readingroom/document/cia-rdp89s01450r000600600001-5",
+  "download_url": "https://www.cia.gov/readingroom/docs/CIA-RDP89S01450R000600600001-5.pdf",
+  "retrieved_at_utc": "2026-07-12T18:30:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "CIA-RDP89S01450R000600600001-5.pdf",
+      "original_name": null,
+      "sha256": "043389c155d8b6c5f9706cd81655df92889ec2caa5fc0e3922e3a13cd0af8471",
+      "bytes": 1345835
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1980-1988 (Iran-Iraq War economic impact)",
+  "frequency": "one-off intelligence assessment",
+  "topics": ["cia", "economy", "iran-iraq-war", "oil-sector", "declassified", "nesa"],
+  "units": "narrative economic assessment with tables",
+  "license_terms": "US government work, public domain; declassified in part, sanitized copy",
+  "notes": "CREST General CIA Records. NESA 88-10067, November 1988. Declassified in Part - Sanitized Copy Approved for Release 2012/07/30. Original Classification: Secret. Document Page Count: 27. Assesses comparative war-time economic damage/resilience of Iran vs Iraq: Iran's opposition to foreign borrowing forced cuts to civilian spending and deterioration of economic infrastructure including the oil sector, contrasted with Iraq's accumulation of foreign debt while maintaining more of its civilian economy. Retrieved via browser in-page fetch()->base64->local decode (see NIS-33 manifest for background on why plain curl/WebFetch are blocked on www.cia.gov/readingroom).",
+  "failures": []
+}

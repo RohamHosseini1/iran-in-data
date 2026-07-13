@@ -1,0 +1,26 @@
+{
+  "dataset_id": "bcra-monetary-fx",
+  "title": "BCRA Argentina — Monetary & FX Time Series (International Reserves, Official Exchange Rates, Policy/Reference Interest Rates)",
+  "source_org": "Banco Central de la República Argentina (BCRA)",
+  "source_url": "https://www.bcra.gob.ar/en/central-bank-api-catalog/",
+  "download_url": "https://api.bcra.gob.ar/estadisticas/v4.0/monetarias/1 (Reservas internacionales) ; https://api.bcra.gob.ar/estadisticas/v4.0/monetarias/5 (Tipo de cambio mayorista de referencia) ; https://api.bcra.gob.ar/estadisticas/v4.0/monetarias/4 (Tipo de cambio minorista) ; https://api.bcra.gob.ar/estadisticas/v4.0/monetarias/160 (Tasas de interés de política monetaria) ; https://api.bcra.gob.ar/estadisticas/v4.0/monetarias/7 (Tasa de interés BADLAR de bancos privados) — all paginated with limit=3000&offset=N",
+  "retrieved_at_utc": "2026-07-12T19:16:00Z",
+  "retrieved_by": "agent:argentina",
+  "files": [
+    {"name": "bcra_1_reservas_internacionales.json", "original_name": null, "sha256": "1120681c5c045df1a795235c5302a35fcbfde88918ed20e3292ab2821a2afe55", "bytes": 322913},
+    {"name": "bcra_5_tipo_cambio_mayorista_referencia.json", "original_name": null, "sha256": "1f6a5ffb4c9ed70349fa6e2a942262a59a976b97bd4d2b49d5130fdd213f4550", "bytes": 252683},
+    {"name": "bcra_4_tipo_cambio_minorista.json", "original_name": null, "sha256": "80d01a5ac4508950eca019920b520bf3d8714bd1690362c86a5c3ec37021419d", "bytes": 160689},
+    {"name": "bcra_160_tasa_interes_politica_monetaria.json", "original_name": null, "sha256": "b294b82343caf95c36c0506d3e34dbacb3b67846afdfaf6e2404689ae375a310", "bytes": 94452},
+    {"name": "bcra_7_tasa_interes_badlar_bancos_privados.json", "original_name": null, "sha256": "b39ecdc825cdccd949b348c9586e040957df1263541769c2fc98f33118e2ab7d", "bytes": 281146}
+  ],
+  "countries": ["ARG"],
+  "time_coverage": "reservas_internacionales (idVariable 1): daily 1996-01-03 to 2026-07-06 (7,510 obs); tipo_cambio_mayorista_referencia (idVariable 5, official wholesale/reference FX rate — the rate typically cited as 'the' official ARS/USD rate since the 2002 float): daily 2002-03-04 to 2026-07-08 (5,967 obs); tipo_cambio_minorista (idVariable 4, retail average selling rate): daily 2010-06-01 to 2026-07-08 (3,918 obs); tasa_interes_politica_monetaria (idVariable 160): daily 2015-12-16 to 2025-07-10 (2,329 obs); tasa_interes_badlar_bancos_privados (idVariable 7, long-running wholesale deposit reference rate, used as a proxy monetary-policy indicator before the 2015 policy-rate series existed): daily 1999-01-04 to 2026-07-07 (6,714 obs)",
+  "frequency": "daily",
+  "topics": ["FX", "exchange rate", "international reserves", "interest rates", "monetary policy"],
+  "units": "reservas: millions of USD; tipo de cambio: ARS per USD; tasas de interés: nominal annual percentage",
+  "license_terms": "BCRA public statistics API (Estadísticas Monetarias v4.0 — v3.0 confirmed deprecated/HTTP 410 during this session, migrated to v4.0)",
+  "notes": "Retrieved via BCRA's official public REST API (api.bcra.gob.ar/estadisticas/v4.0/monetarias/{idVariable}), paginated at limit=3000 per request. Full variable catalog (1,581 series) was fetched first to identify the correct idVariable codes; catalog itself not retained as a separate raw file (used only for discovery) — the five series above were selected as the core monetary/FX/reserves/rates set requested. PARALLEL/INFORMAL FX RATE: searched the full 1,581-series catalog for 'blue', 'paralelo', 'informal', 'MEP', 'CCL' (contado con liquidación) — BCRA's own official API does NOT publish an informal/parallel/blue-dollar rate, which is expected: the central bank only reports rates from its own regulated/official operations. A parallel-rate series (comparable to Iran's TGJU or Venezuela's dolartoday-style trackers) would need to come from an independent Argentine financial-media source (e.g. Ámbito Financiero, dolarhoy.com) and was NOT fabricated or substituted here — flagged as a gap for a future round if the project wants it. Estadísticas Cambiarias v1.0 (Cotizaciones endpoint) was also tested and returns current-day multi-currency reference rates but not a bulk historical download in one call.",
+  "failures": [
+    {"url": "https://api.bcra.gob.ar/estadisticas/v3.0/monetarias", "http_status": 410, "note": "v3.0 of the Monetarias API is deprecated ('Método correspondiente a la v3 ha sido deprecado'); superseded by v4.0 which was used successfully."}
+  ]
+}

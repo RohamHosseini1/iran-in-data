@@ -1,0 +1,20 @@
+{
+  "dataset_id": "banco-portugal-bpstat-gdp-expenditure-since-1977",
+  "title": "BPstat (Banco de Portugal) — Time-series for the Portuguese economy: GDP and main components of expenditure, quarterly since 1977",
+  "source_org": "Banco de Portugal (BPstat statistics portal)",
+  "source_url": "https://bpstat.bportugal.pt/dominios/31",
+  "download_url": "https://bpstat.bportugal.pt/api/observations/csv/?series_ids=12562568,12562569,12562570,12562571,12562572,12562573,12562574,12562575,12562576,12562577,12562578,12562579,12562580,12562581,12562582,12562583,12562584,12562585,12562586,12562587,12562588,12562589,12562590,12562591,12562592,12562593,12562594,12562595,12562596,12562597,12562598,12562599,12562600,12562601,12562602,12562603,12562604,12562605,12562606,12562607,12562608,12562609,12562610,12562611,12562612,12562613,12562614,12562615,12562616&language=EN",
+  "retrieved_at_utc": "2026-07-12T18:21:06Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "bpstat_domain31_gdp_expenditure_since_1977.csv", "original_name": null, "sha256": "c3f81a3de6b19a7b4683fa5ecedbf142fb80468cd25420a69128b9ad3bbedd81", "bytes": 727402}
+  ],
+  "countries": ["PRT"],
+  "time_coverage": "1977Q1–2024Q4",
+  "frequency": "quarterly",
+  "topics": ["national accounts", "gdp", "macro", "long-run macro history"],
+  "units": "millions of euros (current prices and chain-linked volume), described in series metadata",
+  "license_terms": "Banco de Portugal / BPstat open data API, free reuse with attribution",
+  "notes": "Retrieved via BPstat public REST API (https://bpstat.bportugal.pt/api/) — domain_id=31 'Time-series for the Portuguese economy - GDP and main components of expenditure' contains 49 series (private/public consumption, investment, exports/imports, GDP, current prices and chain-linked volume, current and constant prices). All 49 series ids from this domain were pulled via the observations/csv endpoint. Discovered by probing REST endpoints (/api/domains, /api/series/?domain_ids=N, /api/observations/csv/?series_ids=...) after finding one example CSV-download URL via web search; this API is the modern successor exposing BdP's long-run 'séries longas' data programmatically.",
+  "failures": []
+}

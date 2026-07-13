@@ -1,0 +1,28 @@
+{
+  "dataset_id": "carpet-export-value-post1990-compiled",
+  "title": "Iran Handwoven Carpet Export Value/Volume, Post-1990 — compiled from news reporting on Iran National Carpet Center data",
+  "source_org": "Multiple: Radio Farda (RFE/RL), Iran International, Tehran Times, tradingeconomics.com/UN Comtrade, farahancarpet.com; all ultimately attributing figures to Iran's National Carpet Center or UN Comtrade",
+  "source_url": "https://en.radiofarda.com/a/after-2017-peak-iran-carpet-exports-drop-sharply/30813005.html ; https://www.iranintl.com/en/202303172791 ; https://www.tehrantimes.com/news/512161/Iran-s-annual-hand-made-carpet-export-value-up-about-4 ; https://tradingeconomics.com/iran/exports/carpets-textile-floor-coverings ; https://farahancarpet.com/export-of-iranian-handmade-carpets/",
+  "download_url": null,
+  "extraction_method": "MANUAL COMPILATION from web article text, fetched via WebFetch (radiofarda.com required the Claude Browser tool instead, as WebFetch returned HTTP 403). No PDF/scan involved; all figures are journalistic citations of official Iran National Carpet Center or UN Comtrade data, transcribed verbatim with the citing outlet recorded per row. Tehran Times is Iranian state media -- labeled per row and cross-check-noted per docs/bookkeeping.md source-reliability rule 4. No FAOSTAT overlap: FAOSTAT's crops/livestock trade file does not track carpets (confirmed via grep, zero matches).",
+  "retrieved_by": "claude (compiled multi-source web research)",
+  "retrieved_at_utc": "2026-07-12T23:02:16Z",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "99a887f915d9ce976c189377579474f650076f101c59ffd299c70468b7819721",
+      "bytes": 3925
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1994-2025 (non-continuous; only years with a directly cited figure are included)",
+  "frequency": "annual, non-continuous, plus two quarterly/11-month data points explicitly labeled as such",
+  "topics": ["carpets", "handwoven-carpets", "exports", "trade", "sanctions", "iran-national-carpet-center"],
+  "units": "mixed: million USD (value), tonnes (volume) -- see unit column per row; several rows are sub-annual (Q2, 11-month) and explicitly flagged, do not treat as annual totals",
+  "license_terms": "News-article content; used here for factual data-point citation with full source attribution per row, consistent with fair-use/citation norms for a research database.",
+  "notes": "Narrative arc corroborated across independent outlets: 1994 peak ($2.132bn) -> collapse under 2010s sanctions -> brief post-JCPOA (2015 deal) recovery peaking 2017 ($426M) -> renewed collapse after US withdrawal from JCPOA in 2018 and re-imposed sanctions -> low tens-of-millions USD by 2019-2025. One internal inconsistency flagged in notes column (2018 figure: $238M per Radio Farda/official data vs $430M per a less-precise secondary source) -- both are reported as-is, Radio Farda's figure preferred as primary since it explicitly cites official per-year data. This dataset intentionally does NOT include Encyclopaedia Iranica's 1948-1988 figures, which are captured separately in the sibling dataset iran-carpet-exports/iranica-carpet-export-narrative-series-1960-1988/ to keep source-type (primary encyclopedia narrative vs. compiled news reporting) separated per dataset.",
+  "failures": [
+    "Could not obtain a complete unbroken annual series 1995-2016 (the intervening 'sanctions decade' years) from freely accessible sources within this session; only headline/peak/trough years were reported by the outlets found. Iran National Carpet Center's own site was not directly queryable/found with a clean historical table."
+  ]
+}

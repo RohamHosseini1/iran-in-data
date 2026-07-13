@@ -1,0 +1,22 @@
+{
+  "dataset_id": "elstat-greece-cpi-historical",
+  "title": "ELSTAT — Consumer Price Index (CPI) historical time series, national general index (2020=100.0), since January 1959",
+  "source_org": "Hellenic Statistical Authority (ELSTAT)",
+  "source_url": "https://www.statistics.gr/en/statistics/-/publication/DKT87/-",
+  "download_url": "https://www.statistics.gr/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_0qObWqzRnXSG&p_p_lifecycle=2&_documents_WAR_publicationsportlet_INSTANCE_0qObWqzRnXSG_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_0qObWqzRnXSG_documentID=<114834|114837|114839>&_documents_WAR_publicationsportlet_INSTANCE_0qObWqzRnXSG_locale=en",
+  "retrieved_at_utc": "2026-07-12T18:25:55Z",
+  "retrieved_by": "agent:spain-portugal-greece",
+  "files": [
+    {"name": "A0515_DKT87_TS_MM_00_1959_00_2025_02_F_EN.xls", "original_name": "A0515_DKT87_TS_MM_00_1959_00_2025_02_F_EN.xls", "sha256": "65148306da9a900d0d0423c1d32da2866723eef3ab2f8efb05cf698ec627a7ed", "bytes": 58368},
+    {"name": "A0515_DKT87_TS_MM_01_1959_06_2026_05_F_EN.xlsx", "original_name": "A0515_DKT87_TS_MM_01_1959_06_2026_05_F_EN.xlsx", "sha256": "833ba87fd8d2f86012e1fbf393b2d8f24e0979dcaa0537253639e185c25c1475", "bytes": 56293},
+    {"name": "A0515_DKT87_TS_MM_01_1999_06_2026_06_F_EN.xlsx", "original_name": "A0515_DKT87_TS_MM_01_1999_06_2026_06_F_EN.xlsx", "sha256": "4a3f880efc09e1dbd8a524d67d28562aa4cadce99acbc5ec18e7610a6d1b4fc2", "bytes": 66046}
+  ],
+  "countries": ["GRC"],
+  "time_coverage": "1959-01 to 2026-06 (three tables with slightly different coverage — see filenames)",
+  "frequency": "monthly/annual",
+  "topics": ["prices", "cpi", "inflation"],
+  "units": "Index 2020=100.0 and % change, described in file",
+  "license_terms": "ELSTAT public statistics, free reuse with attribution",
+  "notes": "Files retrieved from ELSTAT's Liferay document-management download endpoint (statistics.gr publicationsportlet 'downloadResources' JSF resource action), discovered by parsing the CPI publication page's raw HTML for documentID values (the WebFetch tool's markdown rendering did not surface the underlying URLs; curl on the raw page did). Filenames and formats (xls/xlsx) taken verbatim from the server's Content-Disposition header. A0515_DKT87_TS_MM_00_1959_00_2025_02_F_EN.xls = Table I, annual rates of change since Jan 1959. A0515_DKT87_TS_MM_01_1959_06_2026_05_F_EN.xlsx = Table IV, monthly evolution of overall CPI since Jan 1959. A0515_DKT87_TS_MM_01_1999_06_2026_06_F_EN.xlsx = Table V, twelve-month rate of change since Jan 1959 (per page listing; sub-indices table from 1999).",
+  "failures": []
+}

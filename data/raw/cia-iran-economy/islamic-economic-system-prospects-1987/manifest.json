@@ -1,0 +1,25 @@
+{
+  "dataset_id": "islamic-economic-system-prospects-1987",
+  "title": "The Islamic Economic System and Its Prospects in Iran",
+  "source_org": "Central Intelligence Agency (CIA), Directorate of Intelligence",
+  "source_url": "https://www.cia.gov/readingroom/document/cia-rdp88t00096r000400470008-0",
+  "download_url": "https://www.cia.gov/readingroom/docs/CIA-RDP88T00096R000400470008-0.pdf",
+  "retrieved_at_utc": "2026-07-12T18:45:00Z",
+  "retrieved_by": "agent:cia-frus-iran-primary",
+  "files": [
+    {
+      "name": "CIA-RDP88T00096R000400470008-0.pdf",
+      "original_name": null,
+      "sha256": "d2a0f8791e77045b436335933f88ce6fc6c5433165c4bec6d9ef85c760b0cdca",
+      "bytes": 512763
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1979-1987 (Islamic Republic economic policy, first post-revolution decade)",
+  "frequency": "one-off intelligence assessment",
+  "topics": ["cia", "economy", "islamic-republic", "economic-policy", "declassified"],
+  "units": "narrative economic assessment",
+  "license_terms": "US government work, public domain; sanitized/declassified FOIA release",
+  "notes": "CREST General CIA Records. Publication date January 2, 1987. Sanitized Copy Approved for Release 2011/06/01. Original Classification: Secret. Document Page Count: 30 (adhoc dissemination list on 10 saved pages of this PDF, incl. distribution to White House Situation Room, Council of Economic Advisers, OMB, NSC, USTR). Assesses whether Islamic economic principles (as distinct from pragmatic state control) will persist in Iran's post-revolution economy. FOIA metadata lists title as '(UNTITLED)' but document body clearly states title 'THE ISLAMIC ECONOMIC SYSTEM AND ITS PROSPECTS IN IRAN'. Retrieved via browser in-page fetch()->base64->local decode (see NIS-33 manifest for background).",
+  "failures": []
+}

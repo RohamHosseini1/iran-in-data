@@ -1,0 +1,36 @@
+{
+  "dataset_id": "fao-giews-iran-brief",
+  "title": "FAO GIEWS Country Brief \u2014 Iran (current + archive)",
+  "source_org": "FAO Global Information and Early Warning System",
+  "source_url": "https://www.fao.org/giews/countrybrief/country.jsp?code=IRN",
+  "download_url": "https://www.fao.org/giews/countrybrief/country/IRN/pdf/IRN.pdf",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "giews-iran-brief-archive_2026-07-12.pdf",
+      "original_name": null,
+      "sha256": "6b6dd2817a3f2ec3983db54817bf7e011badd13b14ace646b9a7c2b5a09e2fd9",
+      "bytes": 3652137
+    },
+    {
+      "name": "giews-iran-brief_2026-07-12.pdf",
+      "original_name": null,
+      "sha256": "2ce49e2ad6783f0e47c242fd506928a1b8497afcb3cf75e55b48d0e02c8a285e",
+      "bytes": 398786
+    }
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "time_coverage": "current + historical archive",
+  "frequency": "periodic",
+  "topics": [
+    "food-security",
+    "agriculture"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "FAO CC BY-NC-SA 3.0 IGO",
+  "notes": "Includes both the current brief PDF and the historical archive PDF."
+}
