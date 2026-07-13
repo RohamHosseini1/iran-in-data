@@ -1,0 +1,34 @@
+{
+  "chart_id": "wdi__SH.STA.SMSS.UR",
+  "title": "People using safely managed sanitation services, urban (% of urban population)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 323,
+  "year_range": [
+    "2000",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.SMSS.UR.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

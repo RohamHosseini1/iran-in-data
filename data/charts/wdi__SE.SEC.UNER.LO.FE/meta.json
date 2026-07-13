@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SE.SEC.UNER.LO.FE",
+  "title": "Adolescents out of school, female (% of female lower secondary school age)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 214,
+  "year_range": [
+    "1974",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.SEC.UNER.LO.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

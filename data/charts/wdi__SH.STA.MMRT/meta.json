@@ -1,0 +1,29 @@
+{
+  "chart_id": "wdi__SH.STA.MMRT",
+  "title": "Maternal mortality ratio (national estimate, per 100,000 live births)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 98,
+  "year_range": [
+    "1995",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "KOR",
+    "PRT",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.MMRT.NE",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

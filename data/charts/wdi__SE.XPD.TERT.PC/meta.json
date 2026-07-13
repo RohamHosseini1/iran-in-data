@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SE.XPD.TERT.PC",
+  "title": "Government expenditure per student, tertiary (% of GDP per capita)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 196,
+  "year_range": [
+    "1998",
+    "2017"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.XPD.TERT.PC.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

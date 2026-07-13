@@ -1,0 +1,22 @@
+{
+  "chart_id": "ussr_russia_imperial_foreign_trade_1897_1908",
+  "title": "Imperial Russia Total Foreign Trade (Tsarist-era official statistics)",
+  "category": "Trade (Goods)",
+  "sources": "ussr-russia-historical:imperial-russia-statistical-yearbook",
+  "n_rows": 22,
+  "year_range": [
+    "1897",
+    "1908"
+  ],
+  "countries": [
+    "RUS"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Statistical Committee of the Ministry of Internal Affairs, Imperial Russia (digitized copies hosted by Internet Archive)",
+      "source_url": "https://archive.org/details/StatisticalYearbookOfRussia",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

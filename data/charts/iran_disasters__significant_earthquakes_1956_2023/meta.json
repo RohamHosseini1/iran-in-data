@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_disasters__significant_earthquakes_1956_2023",
+  "title": "Significant Earthquakes: Location, Magnitude, Deaths, Injuries, Housing & Economic Damage (1956-2023)",
+  "category": "Natural Disasters",
+  "sources": "noaa-ncei",
+  "n_rows": 154,
+  "year_range": [
+    "1956",
+    "2023"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "NOAA National Centers for Environmental Information (NCEI), Natural Hazards / Significant Earthquake Database",
+      "source_url": "https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-significant-earthquakes"
+    }
+  ]
+}

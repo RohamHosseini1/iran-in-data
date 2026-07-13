@@ -1,0 +1,28 @@
+{
+  "chart_id": "wdi__SE.PRM.TCAQ.FE",
+  "title": "Trained teachers in primary education, female (% of female teachers)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 97,
+  "year_range": [
+    "2000",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "KOR",
+    "PRT",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.PRM.TCAQ.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__EN.POP",
+  "title": "Population density (people per sq. km of land area)",
+  "category": "Environment",
+  "sources": "wdi",
+  "n_rows": 1040,
+  "year_range": [
+    "1961",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/EN.POP.DNST",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

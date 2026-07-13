@@ -1,0 +1,23 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,original_period_label,notes
+RUS,Russia,1897,559997870,rubles,imports,imports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.322"
+RUS,Russia,1898,617459439,rubles,imports,imports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.322"
+RUS,Russia,1899,650485044,rubles,imports,imports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.322"
+RUS,Russia,1900,626374878,rubles,imports,imports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.322"
+RUS,Russia,1901,593425456,rubles,imports,imports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.322"
+RUS,Russia,,609548537,rubles,imports,imports,ussr-russia-historical:imperial-russia-statistical-yearbook,1897-1901 average,"printed 5-year average, 1904 edition p.322"
+RUS,Russia,1902,599150984,rubles,imports,imports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.322"
+RUS,Russia,1897,726623590,rubles,exports,exports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.323"
+RUS,Russia,1898,732672608,rubles,exports,exports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.323"
+RUS,Russia,1899,626982891,rubles,exports,exports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.323"
+RUS,Russia,1900,716417945,rubles,exports,exports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.323"
+RUS,Russia,1901,761582501,rubles,exports,exports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.323"
+RUS,Russia,,712855907,rubles,exports,exports,ussr-russia-historical:imperial-russia-statistical-yearbook,1897-1901 average,"printed 5-year average, 1904 edition p.323"
+RUS,Russia,1902,860321932,rubles,exports,exports,ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed grand total, 1904 edition p.323"
+RUS,Russia,1908,791249000,rubles,imports_european_border,imports (European border),ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed subtotal, 1910 edition p.554"
+RUS,Russia,1908,30630000,rubles,imports_finnish_border,imports (Finnish border),ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed subtotal, 1910 edition p.554"
+RUS,Russia,1908,180780000,rubles,imports_asian_border,imports (Asian border),ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed subtotal, 1910 edition p.554"
+RUS,Russia,1908,1002659000,rubles,imports_all_borders,"imports, all borders",ussr-russia-historical:imperial-russia-statistical-yearbook,,computed by us as the sum of the 3 printed border subtotals above -- not a single printed cell on the page crop captured
+RUS,Russia,1908,816491000,rubles,exports_european_border,exports (European border),ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed subtotal, 1910 edition p.555"
+RUS,Russia,1908,48762000,rubles,exports_finnish_border,exports (Finnish border),ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed subtotal, 1910 edition p.555"
+RUS,Russia,1908,132997000,rubles,exports_asian_border,exports (Asian border),ussr-russia-historical:imperial-russia-statistical-yearbook,,"printed subtotal, 1910 edition p.555"
+RUS,Russia,1908,998250000,rubles,exports_all_borders,"exports, all borders",ussr-russia-historical:imperial-russia-statistical-yearbook,,computed by us as the sum of the 3 printed border subtotals above -- not a single printed cell on the page crop captured

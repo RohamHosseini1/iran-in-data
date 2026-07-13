@@ -1,0 +1,22 @@
+{
+  "chart_id": "ussr_russia_cia_consumption_population_1950_1987",
+  "title": "USSR Consumption Per Capita & Population (CIA estimate)",
+  "category": "Demographics & Population",
+  "sources": "ussr-russia-historical:cia-soviet-economy-assessments",
+  "n_rows": 152,
+  "year_range": [
+    "1950",
+    "1987"
+  ],
+  "countries": [
+    "SUN"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Intelligence Agency (CIA) / US Joint Economic Committee (JEC)",
+      "source_url": "https://www.cia.gov/resources/csi/ ; https://www.cia.gov/readingroom/ ; https://www.jec.senate.gov/",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

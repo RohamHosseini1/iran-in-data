@@ -1,0 +1,37 @@
+{
+  "chart_id": "ussr_russia_imperial_population_density_comparison",
+  "title": "Imperial Russia vs. Other Great Powers, Population Density (Tsarist-era official statistics)",
+  "category": "Demographics & Population",
+  "sources": "ussr-russia-historical:imperial-russia-statistical-yearbook",
+  "n_rows": 28,
+  "year_range": [
+    "1904",
+    "1910"
+  ],
+  "countries": [
+    "BEL",
+    "CHE",
+    "DEU",
+    "DNK",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "ITA",
+    "NLD",
+    "NOR",
+    "PRT",
+    "RUS",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Statistical Committee of the Ministry of Internal Affairs, Imperial Russia (digitized copies hosted by Internet Archive)",
+      "source_url": "https://archive.org/details/StatisticalYearbookOfRussia",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

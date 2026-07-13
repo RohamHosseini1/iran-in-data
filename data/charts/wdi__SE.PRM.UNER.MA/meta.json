@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SE.PRM.UNER.MA",
+  "title": "Children out of school, male (% of male primary school age)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 232,
+  "year_range": [
+    "1970",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.PRM.UNER.MA.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

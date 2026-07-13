@@ -1,0 +1,36 @@
+{
+  "chart_id": "wdi__IC.BUS",
+  "title": "New businesses registered (number)",
+  "category": "Business & Investment Climate",
+  "sources": "wdi",
+  "n_rows": 248,
+  "year_range": [
+    "2006",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/IC.BUS.NREG",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chart_id": "wdi__GC.TAX.EXPT",
+  "title": "Taxes on exports (current LCU)",
+  "category": "Government Finance",
+  "sources": "wdi",
+  "n_rows": 187,
+  "year_range": [
+    "1972",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "GBR",
+    "GRC",
+    "IRN",
+    "PRT",
+    "RUS"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/GC.TAX.EXPT.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

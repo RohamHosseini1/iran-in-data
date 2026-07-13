@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SE.SEC.UNER.LO",
+  "title": "Adolescents out of school (% of lower secondary school age)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 341,
+  "year_range": [
+    "1971",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.SEC.UNER.LO.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

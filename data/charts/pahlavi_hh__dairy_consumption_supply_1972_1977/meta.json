@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi_hh__dairy_consumption_supply_1972_1977",
+  "title": "Dairy Product Consumption (High/Low-Value Split, Fat-Equivalent Basis) & Livestock Supply (1972, 1977p)",
+  "category": "Household Consumption & Expenditure",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 94,
+  "year_range": [
+    "1972",
+    "1977"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank) Agricultural Task Force (IBRD)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1974-dairy-consumption-patterns-1972-1977"
+    }
+  ]
+}

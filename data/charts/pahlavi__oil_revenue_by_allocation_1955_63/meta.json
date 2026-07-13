@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__oil_revenue_by_allocation_1955_63",
+  "title": "Oil Revenue by Allocation (Budget/NIOC/Plan Org/B.P.C.), 1955/56-1962/63",
+  "category": "Government Finance",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 50,
+  "year_range": [
+    "1956",
+    "1963"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1960-oil-revenues-1955-1963"
+    }
+  ]
+}

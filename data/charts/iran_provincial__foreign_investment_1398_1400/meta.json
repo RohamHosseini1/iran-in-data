@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_provincial__foreign_investment_1398_1400",
+  "title": "Foreign Investment Value by Province",
+  "category": "Trade & Investment",
+  "sources": "sci-provincial-standing-indicators",
+  "n_rows": 96,
+  "year_range": [
+    "2019",
+    "2021"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+      "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

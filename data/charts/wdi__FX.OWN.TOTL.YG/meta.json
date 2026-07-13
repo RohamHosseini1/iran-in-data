@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__FX.OWN.TOTL.YG",
+  "title": "Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",
+  "category": "Exchange Rates",
+  "sources": "wdi",
+  "n_rows": 85,
+  "year_range": [
+    "2011",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/FX.OWN.TOTL.YG.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

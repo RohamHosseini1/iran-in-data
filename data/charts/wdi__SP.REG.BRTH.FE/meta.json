@@ -1,0 +1,36 @@
+{
+  "chart_id": "wdi__SP.REG.BRTH.FE",
+  "title": "Completeness of birth registration, female (%)",
+  "category": "Demographics & Population",
+  "sources": "wdi",
+  "n_rows": 15,
+  "year_range": [
+    "2010",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.REG.BRTH.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

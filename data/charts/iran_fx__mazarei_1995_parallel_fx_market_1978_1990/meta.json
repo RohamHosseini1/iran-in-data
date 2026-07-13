@@ -1,0 +1,20 @@
+{
+  "chart_id": "iran_fx__mazarei_1995_parallel_fx_market_1978_1990",
+  "title": "Parallel-Market Rial/Dollar FX Rate Volatility: Descriptive Statistics (1978-1990)",
+  "category": "Exchange Rates (Parallel/Black Market)",
+  "sources": "imf-mazarei-1995",
+  "n_rows": 14,
+  "year_range": null,
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Monetary Fund",
+      "source_url": "https://www.elibrary.imf.org/view/journals/001/1995/069/001.1995.issue-069-en.xml",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:mazarei-1995-parallel-market-1978-1990"
+    }
+  ]
+}

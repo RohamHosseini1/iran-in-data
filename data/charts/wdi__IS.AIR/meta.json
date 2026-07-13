@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__IS.AIR",
+  "title": "Air transport, passengers carried",
+  "category": "Infrastructure (Transport)",
+  "sources": "wdi",
+  "n_rows": 1782,
+  "year_range": [
+    "1970",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/IS.AIR.PSGR",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

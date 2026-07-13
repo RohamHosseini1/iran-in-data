@@ -1,0 +1,36 @@
+{
+  "chart_id": "faostat__Chick peas, dry__price",
+  "title": "Chick peas, dry — Producer Price",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 1503,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "GRC",
+    "IRN",
+    "ITA",
+    "PRT",
+    "RUS",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

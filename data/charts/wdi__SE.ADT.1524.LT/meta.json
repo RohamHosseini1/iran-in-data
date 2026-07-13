@@ -1,0 +1,32 @@
+{
+  "chart_id": "wdi__SE.ADT.1524.LT",
+  "title": "Literacy rate, youth total (% of people ages 15-24)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 108,
+  "year_range": [
+    "1975",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.ADT.1524.LT.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

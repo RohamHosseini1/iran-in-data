@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__animal_fats_production_1950_1958",
+  "title": "Animal Fats (aggregate) — Production, 1950-1958",
+  "category": "Agriculture Production",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 9,
+  "year_range": [
+    "1950",
+    "1958"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1960-agricultural-production-1950-1958"
+    }
+  ]
+}

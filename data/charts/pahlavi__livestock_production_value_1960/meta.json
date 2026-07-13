@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__livestock_production_value_1960",
+  "title": "Livestock Product Quantity & Gross Value, 1960",
+  "category": "Agriculture Production",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 50,
+  "year_range": [
+    "1960",
+    "1960"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1962-livestock-production-value-1960"
+    }
+  ]
+}

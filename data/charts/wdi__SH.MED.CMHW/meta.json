@@ -1,0 +1,24 @@
+{
+  "chart_id": "wdi__SH.MED.CMHW",
+  "title": "Community health workers (per 1,000 people)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 8,
+  "year_range": [
+    "2004",
+    "2009"
+  ],
+  "countries": [
+    "FRA",
+    "IRN",
+    "KOR"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.MED.CMHW.P3",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

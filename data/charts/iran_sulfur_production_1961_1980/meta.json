@@ -1,0 +1,15 @@
+{
+  "chart_id": "iran_sulfur_production_1961_1980",
+  "title": "Sulfur Production (Refined + Elemental Byproduct)",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Sulfur')",
+  "n_rows": 13,
+  "year_range": [
+    "1961",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": []
+}

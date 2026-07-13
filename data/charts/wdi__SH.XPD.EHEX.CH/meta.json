@@ -1,0 +1,33 @@
+{
+  "chart_id": "wdi__SH.XPD.EHEX.CH",
+  "title": "External health expenditure (% of current health expenditure)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 225,
+  "year_range": [
+    "2000",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.XPD.EHEX.CH.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

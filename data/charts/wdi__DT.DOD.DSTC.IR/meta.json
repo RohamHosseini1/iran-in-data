@@ -1,0 +1,25 @@
+{
+  "chart_id": "wdi__DT.DOD.DSTC.IR",
+  "title": "Short-term debt (% of total reserves)",
+  "category": "External Debt",
+  "sources": "wdi",
+  "n_rows": 143,
+  "year_range": [
+    "1970",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "RUS",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/DT.DOD.DSTC.IR.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

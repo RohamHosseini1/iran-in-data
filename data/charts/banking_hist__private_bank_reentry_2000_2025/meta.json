@@ -1,0 +1,23 @@
+{
+  "chart_id": "banking_hist__private_bank_reentry_2000_2025",
+  "title": "Post-Privatization Private Bank Founding/Licensing Timeline (2000-2025)",
+  "category": "Financial Sector (Banking Access)",
+  "sources": "iran-banking-history",
+  "n_rows": 13,
+  "year_range": [
+    "2000",
+    "2013"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Compiled by this project from multiple secondary sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+      "source_url": "https://iran1400.org/content/from-imperial-bank-to-bank-e-ghavamin-a-short-history-of-banking-in-iran/ ; https://en.wikipedia.org/wiki/Parsian_Bank ; https://en.wikipedia.org/wiki/Pasargad_Bank ; https://en.wikipedia.org/wiki/EN_Bank ; https://en.wikipedia.org/wiki/Karafarin_Bank ; https://en.wikipedia.org/wiki/Sarmayeh_Bank ; https://en.wikipedia.org/wiki/Ayandeh_Bank ; https://www.iranwatch.org/iranian-entities/saman-bank ; https://www.aljazeera.com/news/2025/10/27/corruption-mismanagement-in-spotlight-as-iran-dissolves-major-private-bank",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:private-bank-reentry-2000-2015"
+    }
+  ]
+}

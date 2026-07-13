@@ -1,0 +1,44 @@
+{
+  "chart_id": "faostat__Meat of cattle with the bone, fresh or chilled__price",
+  "title": "Meat of cattle with the bone, fresh or chilled — Producer Price",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 1174,
+  "year_range": [
+    "1991",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

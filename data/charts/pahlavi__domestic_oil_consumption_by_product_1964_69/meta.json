@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__domestic_oil_consumption_by_product_1964_69",
+  "title": "Domestic Oil Consumption by Product, 1964-1969",
+  "category": "Energy",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 36,
+  "year_range": [
+    "1964",
+    "1969"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company (via Bank Markazi Iran reports 1969-1970)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:5tok:wb1971-domestic-oil-consumption-1964-1969"
+    }
+  ]
+}

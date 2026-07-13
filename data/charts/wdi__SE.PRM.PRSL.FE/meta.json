@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__SE.PRM.PRSL.FE",
+  "title": "Persistence to last grade of primary, female (% of cohort)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 310,
+  "year_range": [
+    "1970",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.PRM.PRSL.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

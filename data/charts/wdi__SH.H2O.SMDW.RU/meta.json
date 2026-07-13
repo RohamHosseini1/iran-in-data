@@ -1,0 +1,26 @@
+{
+  "chart_id": "wdi__SH.H2O.SMDW.RU",
+  "title": "People using safely managed drinking water services, rural (% of rural population)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 125,
+  "year_range": [
+    "2000",
+    "2024"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "FRA",
+    "IRN",
+    "PRT"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.H2O.SMDW.RU.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

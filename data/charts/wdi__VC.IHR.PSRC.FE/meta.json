@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__VC.IHR.PSRC.FE",
+  "title": "Intentional homicides, female (per 100,000 female)",
+  "category": "Conflict & Violence",
+  "sources": "wdi",
+  "n_rows": 371,
+  "year_range": [
+    "1990",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/VC.IHR.PSRC.FE.P5",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

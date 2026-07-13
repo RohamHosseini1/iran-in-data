@@ -1,0 +1,23 @@
+{
+  "chart_id": "fx_comparator__venezuela_parallel_fx_milestones_2003_2020",
+  "title": "Venezuela Official vs. Black-Market FX Rate at Major Devaluation/Redenomination Milestones (2003-2020)",
+  "category": "Comparator: Venezuela FX",
+  "sources": "venezuela-parallel-fx-history",
+  "n_rows": 46,
+  "year_range": [
+    "2003",
+    "2020"
+  ],
+  "countries": [
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "Compiled by this project from multiple secondary/academic sources (curated, hand-compiled -- see docs/bookkeeping.md rule 5)",
+      "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Venezuela ; https://en.wikipedia.org/wiki/Venezuelan_bol%C3%ADvar ; https://mises.org/mises-wire/venezuelas-bizarre-system-exchange-rates",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:black-market-rate-milestones-2003-2020"
+    }
+  ]
+}

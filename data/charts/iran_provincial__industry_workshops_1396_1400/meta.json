@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_provincial__industry_workshops_1396_1400",
+  "title": "Industrial Production Value & Workshop Count Share by Province (10+ Employee Workshops)",
+  "category": "Industry / Value Added by Sector",
+  "sources": "sci-provincial-standing-indicators",
+  "n_rows": 320,
+  "year_range": [
+    "2017",
+    "2021"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+      "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

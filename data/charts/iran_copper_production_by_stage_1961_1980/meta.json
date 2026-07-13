@@ -1,0 +1,15 @@
+{
+  "chart_id": "iran_copper_production_by_stage_1961_1980",
+  "title": "Copper Production — Mine Output, Smelter Output & Refined",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Copper')",
+  "n_rows": 32,
+  "year_range": [
+    "1961",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": []
+}

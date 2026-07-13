@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_sci1399__gdp_by_expenditure_component_1390_1397",
+  "title": "GDP by Final Expenditure Component: Consumption, GFCF, Net Exports, Current & Constant Prices (SH1390-1397)",
+  "category": "Macro / Expenditure & Trade Aggregates",
+  "sources": "sci-amar",
+  "n_rows": 318,
+  "year_range": [
+    "2011",
+    "2018"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
+      "source_url": "https://www.amar.org.ir/english/Iran-Statistical-Yearbook/Statistical-Yearbook-2020-2021",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "verified_fix_note": "citation-accuracy-audit 2026-07-13: previous fuzzy match wrongly cited Banco de Portugal (BPstat) — a genuine PORTUGAL GDP series, confirmed country mismatch (folder countries=['PRT']); corrected to the SCI Statistical Yearbook 1399 source (same raw folder as the sibling CPI chart)."
+    }
+  ]
+}

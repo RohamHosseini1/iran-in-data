@@ -1,0 +1,15 @@
+{
+  "chart_id": "iran_aluminum_production_1973_1980",
+  "title": "Primary Aluminum (Ingot) Production",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Aluminum')",
+  "n_rows": 8,
+  "year_range": [
+    "1973",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": []
+}

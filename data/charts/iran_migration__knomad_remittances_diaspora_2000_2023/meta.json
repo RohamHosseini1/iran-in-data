@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_migration__knomad_remittances_diaspora_2000_2023",
+  "title": "Remittances (Aggregate & Bilateral) and Iranian Diaspora Stock by Host Country (2000-2023 / 2021)",
+  "category": "Migration",
+  "sources": "worldbank-knomad",
+  "n_rows": 132,
+  "year_range": [
+    "2000",
+    "2023"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank (KNOMAD -- Global Knowledge Partnership on Migration and Development), via the Data360 API",
+      "source_url": "https://data360.worldbank.org/en/dataset/WB_KNOMAD",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-remittances-and-migration-2021"
+    }
+  ]
+}

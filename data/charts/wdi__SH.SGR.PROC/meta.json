@@ -1,0 +1,36 @@
+{
+  "chart_id": "wdi__SH.SGR.PROC",
+  "title": "Number of surgical procedures (per 100,000 population)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 24,
+  "year_range": [
+    "2007",
+    "2023"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.SGR.PROC.P5",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

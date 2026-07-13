@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__IS.RRS.TOTL",
+  "title": "Rail lines (total route-km)",
+  "category": "Infrastructure (Transport)",
+  "sources": "wdi",
+  "n_rows": 405,
+  "year_range": [
+    "1995",
+    "2021"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/IS.RRS.TOTL.KM",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

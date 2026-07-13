@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__power_generating_capacity_1970_71",
+  "title": "Installed Power Generating Capacity by Prime Mover, 1970-1971",
+  "category": "Energy",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 165,
+  "year_range": [
+    "1970",
+    "1971"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Ministry of Water and Power (Iran)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1974-power-generating-capacity-1970-1971"
+    }
+  ]
+}

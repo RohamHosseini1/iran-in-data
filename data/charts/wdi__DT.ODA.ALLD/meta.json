@@ -1,0 +1,28 @@
+{
+  "chart_id": "wdi__DT.ODA.ALLD",
+  "title": "Net official development assistance and official aid received (current US$)",
+  "category": "External Debt",
+  "sources": "wdi",
+  "n_rows": 725,
+  "year_range": [
+    "1960",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/DT.ODA.ALLD.CD",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

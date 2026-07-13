@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__EG.ELC.LOSS",
+  "title": "Electric power transmission and distribution losses (% of output)",
+  "category": "Energy",
+  "sources": "wdi",
+  "n_rows": 591,
+  "year_range": [
+    "1990",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

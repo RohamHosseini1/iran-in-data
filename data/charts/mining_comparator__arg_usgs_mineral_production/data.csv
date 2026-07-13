@@ -1,0 +1,546 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,notes
+ARG,Argentina,2014,16265,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,12917,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,12389,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,5977,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,7225,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,3898,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,4000,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,4000,"metric tons, gross weight",barite,Barite,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,395058,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,246683,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,148390,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,129918,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,71212,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,181878,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,134604,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,130000,"metric tons, gross weight",boron,Boron,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,700,"metric tons, gross weight",celestite,Celestite,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,700,"metric tons, gross weight",celestite,Celestite,usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2016,700,"metric tons, gross weight",celestite,Celestite,usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2017,700,"metric tons, gross weight",celestite,Celestite,usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2018,700,"metric tons, gross weight",celestite,Celestite,usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2014,11408,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,12193,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,10899,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,11960,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,11842,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,11082,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,9871,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,12126,thousand metric tons,cement_hydraulic,"Cement, hydraulic",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,280407,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,229715,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,145723,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,121735,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,184969,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,113390,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,46288,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,46000,"metric tons, gross weight",clay_bentonite,"Clay, Bentonite",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,9058397,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,9489529,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,9209313,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,6726653,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,5486139,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,1526632,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,1532014,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,1600000,"metric tons, gross weight",clay_common_clay,"Clay, Common clay",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,45892,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,55488,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2019,flag=r
+ARG,Argentina,2016,26198,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,19940,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,17000,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,11853,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,20628,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,21000,"metric tons, gross weight",clay_kaolin,"Clay, Kaolin",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,52039,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,60951,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,57113,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,70419,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,72419,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,94610,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,98575,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,100000,"metric tons, gross weight",diatomite,Diatomite,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2015,186974,"metric tons, gross weight",feldspar,Feldspar,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,155217,"metric tons, gross weight",feldspar,Feldspar,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,88465,"metric tons, gross weight",feldspar,Feldspar,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,56500,"metric tons, gross weight",feldspar,Feldspar,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,50000,"metric tons, gross weight",feldspar,Feldspar,usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,32000,"metric tons, gross weight",feldspar,Feldspar,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,90000,"metric tons, gross weight",feldspar,Feldspar,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,162854,"metric tons, gross weight",feldspar_mine,"Feldspar, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,186974,"metric tons, gross weight",feldspar_mine,"Feldspar, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,155217,"metric tons, gross weight",feldspar_mine,"Feldspar, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2017,88465,"metric tons, gross weight",feldspar_mine,"Feldspar, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,56500,"metric tons, gross weight",feldspar_mine,"Feldspar, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2014,39433,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,65282,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,14222,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,13696,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,7924,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,1500,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,1500,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,1500,"metric tons, gross weight",fluorspar,Fluorspar,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,7330,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,11781,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,15863,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,5548,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,5000,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2019,5000,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,5000,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,5000,kilograms,gemstones_other_unspecified,"Gemstones, Other, unspecified",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,58889,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,79405,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,48152,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,15443,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,22534,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,127152,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,120000,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,120000,kilograms,gemstones_rhodochrosite,"Gemstones, Rhodochrosite",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,1560960,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1314655,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,1558390,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,1275608,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,897217,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,761016,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,499092,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,500000,"metric tons, gross weight",gypsum_mine,"Gypsum, mine",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2017,26559,"metric tons, gross weight",lithium_carbonate,"Lithium, Carbonate",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,29707,"metric tons, gross weight",lithium_carbonate,"Lithium, Carbonate",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,29994,"metric tons, gross weight",lithium_carbonate,"Lithium, Carbonate",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,26911,"metric tons, gross weight",lithium_carbonate,"Lithium, Carbonate",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,28520,"metric tons, gross weight",lithium_carbonate,"Lithium, Carbonate",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2017,4501,"metric tons, gross weight",lithium_chloride,"Lithium, Chloride",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,5005,"metric tons, gross weight",lithium_chloride,"Lithium, Chloride",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,4284,"metric tons, gross weight",lithium_chloride,"Lithium, Chloride",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,4836,"metric tons, gross weight",lithium_chloride,"Lithium, Chloride",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,3723,"metric tons, gross weight",lithium_chloride,"Lithium, Chloride",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,11698,"metric tons, gross weight",lithium_lithium_carbonate,"Lithium, Lithium carbonate",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,21111,"metric tons, gross weight",lithium_lithium_carbonate,"Lithium, Lithium carbonate",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,24409,"metric tons, gross weight",lithium_lithium_carbonate,"Lithium, Lithium carbonate",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,26559,"metric tons, gross weight",lithium_lithium_carbonate,"Lithium, Lithium carbonate",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,29707,"metric tons, gross weight",lithium_lithium_carbonate,"Lithium, Lithium carbonate",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,29994,"metric tons, gross weight",lithium_lithium_carbonate,"Lithium, Lithium carbonate",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2014,7370,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium chloride",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,5848,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium chloride",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,6468,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium chloride",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2017,4501,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium chloride",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,5005,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium chloride",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,5848,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium, chloride",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,6468,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium, chloride",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,4501,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium, chloride",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,5005,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium, chloride",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,4284,"metric tons, gross weight",lithium_lithium_chloride,"Lithium, Lithium, chloride",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2014,575,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,583,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,564,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,189,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,120,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,120,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,100,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,100,"metric tons, gross weight",mica,Mica,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,22680,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,23282,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,17905,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,19924,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,18794,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,19000,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,18000,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,18000,"metric tons, gross weight",perlite,Perlite,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,7320,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,7110,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,7000,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,7000,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2018,2310,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,2300,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,2300,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,2300,"metric tons, gross weight",pumice_and_related_materials,Pumice and related materials,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,1537478,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1400762,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,1812191,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,1461065,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,1405893,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,1412251,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,1256963,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,1300000,"metric tons, gross weight",salt_common,"Salt, common",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2015,673253,"metric tons, gross weight",sand_and_gravel_industrial_silica,"Sand and gravel, industrial, silica",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,1098056,"metric tons, gross weight",sand_and_gravel_industrial_silica,"Sand and gravel, industrial, silica",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,1136740,"metric tons, gross weight",sand_and_gravel_industrial_silica,"Sand and gravel, industrial, silica",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2018,1599755,"metric tons, gross weight",sand_and_gravel_industrial_silica,"Sand and gravel, industrial, silica",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,3942180,"metric tons, gross weight",sand_and_gravel_industrial_silica,"Sand and gravel, industrial, silica",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,2435345,"metric tons, gross weight",sand_and_gravel_industrial_silica,"Sand and gravel, industrial, silica",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,3600000,"metric tons, gross weight",sand_and_gravel_industrial_silica,"Sand and gravel, industrial, silica",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,658673,"metric tons, gross weight",silica_mine,"Silica, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,673253,"metric tons, gross weight",silica_mine,"Silica, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,1098056,"metric tons, gross weight",silica_mine,"Silica, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2017,949313,"metric tons, gross weight",silica_mine,"Silica, mine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,950000,"metric tons, gross weight",silica_mine,"Silica, mine",usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2014,42748291,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_construction,"Stone, sand and gravel, construction, Sand and gravel, Construction",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,43531705,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_construction,"Stone, sand and gravel, construction, Sand and gravel, Construction",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,37149385,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_construction,"Stone, sand and gravel, construction, Sand and gravel, Construction",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2017,39902023,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_construction,"Stone, sand and gravel, construction, Sand and gravel, Construction",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,22975589,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_construction,"Stone, sand and gravel, construction, Sand and gravel, Construction",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2014,29963911,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,28014042,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,18578513,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,17560089,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,16221770,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,17000000,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,3932821,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,17000000,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_gravel,"Stone, sand and gravel, construction, Sand and gravel, Gravel",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2015,43531705,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_sand,"Stone, sand and gravel, construction, Sand and gravel, Sand",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,37149385,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_sand,"Stone, sand and gravel, construction, Sand and gravel, Sand",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,39902023,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_sand,"Stone, sand and gravel, construction, Sand and gravel, Sand",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,22975589,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_sand,"Stone, sand and gravel, construction, Sand and gravel, Sand",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,21027517,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_sand,"Stone, sand and gravel, construction, Sand and gravel, Sand",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,14802117,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_sand,"Stone, sand and gravel, construction, Sand and gravel, Sand",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,15000000,"metric tons, gross weight",stone_sand_and_gravel_construction_sand_and_gravel_sand,"Stone, sand and gravel, construction, Sand and gravel, Sand",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,1826751,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,2120290,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,1639955,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,2766811,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,1390000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2019,1072094,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,974161,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,1000000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_basalt,"Stone, sand and gravel, construction, Stone, Crushed, Basalt",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,1280570,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1616428,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,2730786,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,1790178,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,2351264,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,920602,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,577794,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,700000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_dolomite_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Dolomite, calcareous",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,30808,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_granite_block,"Stone, sand and gravel, construction, Stone, Crushed, Granite, block",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,39353,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_granite_block,"Stone, sand and gravel, construction, Stone, Crushed, Granite, block",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,11768,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_granite_block,"Stone, sand and gravel, construction, Stone, Crushed, Granite, block",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,41680,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_granite_block,"Stone, sand and gravel, construction, Stone, Crushed, Granite, block",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,40000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_granite_block,"Stone, sand and gravel, construction, Stone, Crushed, Granite, block",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2019,31146,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_granite_block,"Stone, sand and gravel, construction, Stone, Crushed, Granite, block",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2014,20220775,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,21543473,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,19798241,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,20649475,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,19797787,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,5494773,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,3930767,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,5000000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_limestone_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Limestone, calcareous",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,346800,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,361800,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,210000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,52000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,25000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,12000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,100000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,100000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_serpentine,"Stone, sand and gravel, construction, Stone, Crushed, Serpentine",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,573749,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,590962,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,608691,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,610000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,177976,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,232742,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,159977,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,190000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_shell_calcareous,"Stone, sand and gravel, construction, Stone, Crushed, Shell, calcareous",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,29518229,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,29600000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2016,29800000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2017,39557384,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2018,30456618,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2019,22750278,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,13759192,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,15000000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_other,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, other",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2015,29600000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_othere,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, othere",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,29800000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_othere,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, othere",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,30000000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_othere,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, othere",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,30000000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_othere,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, othere",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,30000000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_crushed_unspecified_othere,"Stone, sand and gravel, construction, Stone, Crushed, Unspecified, othere",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,49414,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, Flagstone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,43844,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, Flagstone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,7799,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, Flagstone",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,8388,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, Flagstone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,9000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, Flagstone",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2017,41680,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_granite_block,"Stone, sand and gravel, construction, Stone, Dimension, Granite, block",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,40000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_granite_block,"Stone, sand and gravel, construction, Stone, Dimension, Granite, block",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2019,31146,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_granite_block,"Stone, sand and gravel, construction, Stone, Dimension, Granite, block",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,23844,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_granite_block,"Stone, sand and gravel, construction, Stone, Dimension, Granite, block",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,30000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_granite_block,"Stone, sand and gravel, construction, Stone, Dimension, Granite, block",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,142749,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, flagstone",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,121524,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, flagstone",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,92458,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, flagstone",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,49414,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, flagstone",usgs-minerals-yearbook:MYB3-2019,flag=r
+ARG,Argentina,2018,43844,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, flagstone",usgs-minerals-yearbook:MYB3-2019,flag=r
+ARG,Argentina,2019,45000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_dimension_flagstone,"Stone, sand and gravel, construction, Stone, Dimension, flagstone",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2014,196789,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,358067,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,406461,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,425000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,280000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,55000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,115000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,130000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_calcite,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Calcite",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,187108,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2015,194072,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,192422,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,10000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2018,7440,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,10000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,9100,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,10000,"metric tons, gross weight",stone_sand_and_gravel_construction_stone_other_size_and_shape_unspecified_calcareous_marble_onyx_travertine,"Stone, sand and gravel, construction, Stone, Other, size and shape unspecified, calcareous, Marble, onyx, travertine",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2015,1973,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates (Magnesium, epsomite)",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,1909,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates (Magnesium, epsomite)",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,1900,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates (Magnesium, epsomite)",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2018,0,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates (Magnesium, epsomite)",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,0,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates (Magnesium, epsomite)",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,0,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates (Magnesium, epsomite)",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,0,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates (Magnesium, epsomite)",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,1934,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates, Magnesium, epsomite",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1973,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates, Magnesium, epsomite",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,1909,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates, Magnesium, epsomite",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2017,1900,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates, Magnesium, epsomite",usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2018,0,"metric tons, gross weight",sulfur_compounds_sulfates_magnesium_epsomite,"Sulfur compounds, sulfates, Magnesium, epsomite",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2014,41260,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2015,27386,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,11262,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,8335,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,11728,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,11000,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,11000,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,11000,"metric tons, gross weight",talc,Talc,usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,90,"metric tons, gross weight",vermiculite,Vermiculite,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,90,"metric tons, gross weight",vermiculite,Vermiculite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,60,"metric tons, gross weight",vermiculite,Vermiculite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,0,"metric tons, gross weight",vermiculite,Vermiculite,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,0,"metric tons, gross weight",vermiculite,Vermiculite,usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2019,0,"metric tons, gross weight",vermiculite,Vermiculite,usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2014,441597,"metric tons, gross weight",aluminum_metal_primary,"Aluminum, metal, primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,433478,"metric tons, gross weight",aluminum_metal_primary,"Aluminum, metal, primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,412283,"metric tons, gross weight",aluminum_metal_primary,"Aluminum, metal, primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2017,403192,"metric tons, gross weight",aluminum_metal_primary,"Aluminum, metal, primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,419435,"metric tons, gross weight",aluminum_metal_primary,"Aluminum, metal, primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,433478,"metric tons, gross weight",aluminum_primary,"Aluminum, primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,412283,"metric tons, gross weight",aluminum_primary,"Aluminum, primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,403192,"metric tons, gross weight",aluminum_primary,"Aluminum, primary",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,419435,"metric tons, gross weight",aluminum_primary,"Aluminum, primary",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,426886,"metric tons, gross weight",aluminum_primary,"Aluminum, primary",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,376875,"metric tons, gross weight",aluminum_primary,"Aluminum, primary",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,400000,"metric tons, gross weight",aluminum_primary,"Aluminum, primary",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,115,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, Mine, Cd content",usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2015,107,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, Mine, Cd content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,91,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, Mine, Cd content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,96,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, Mine, Cd content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,74,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, Mine, Cd content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,45,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, Mine, Cd content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2015,30,"metric tons, gross weight",cadmium_refinery_primary,"Cadmium, Refinery, primary",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2016,0,"metric tons, gross weight",cadmium_refinery_primary,"Cadmium, Refinery, primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,0,"metric tons, gross weight",cadmium_refinery_primary,"Cadmium, Refinery, primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,0,"metric tons, gross weight",cadmium_refinery_primary,"Cadmium, Refinery, primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,0,"metric tons, gross weight",cadmium_refinery_primary,"Cadmium, Refinery, primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2014,30,"metric tons, gross weight",cadmium_refinery_primary_metal,"Cadmium, Refinery, primary, metal",usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2015,30,"metric tons, gross weight",cadmium_refinery_primary_metal,"Cadmium, Refinery, primary, metal",usgs-minerals-yearbook:MYB3-2017-18,flag=e
+ARG,Argentina,2016,0,"metric tons, gross weight",cadmium_refinery_primary_metal,"Cadmium, Refinery, primary, metal",usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2017,0,"metric tons, gross weight",cadmium_refinery_primary_metal,"Cadmium, Refinery, primary, metal",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,0,"metric tons, gross weight",cadmium_refinery_primary_metal,"Cadmium, Refinery, primary, metal",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2017,96,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, mine, Cd content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,74,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, mine, Cd content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,80,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, mine, Cd content",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,46,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, mine, Cd content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,0,"metric tons, gross weight",cadmium_mine_cd_content,"Cadmium, mine, Cd content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,97566,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2015,61766,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,81902,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,33303,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,17435,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,0,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,0,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,0,"metric tons, gross weight",copper_mine_cu_content,"Copper, Mine, Cu content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,16000,"metric tons, gross weight",copper_refinery_secondarye,"Copper, Refinery, secondarye",usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2015,16000,"metric tons, gross weight",copper_refinery_secondarye,"Copper, Refinery, secondarye",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,16000,"metric tons, gross weight",copper_refinery_secondarye,"Copper, Refinery, secondarye",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,16000,"metric tons, gross weight",copper_refinery_secondarye,"Copper, Refinery, secondarye",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,16000,"metric tons, gross weight",copper_refinery_secondarye,"Copper, Refinery, secondarye",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,0,"metric tons, gross weight",copper_refinery_secondarye,"Copper, Refinery, secondarye",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2014,17000,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,12700,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,12000,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,13000,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,13000,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,13000,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,11200,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,13000,"metric tons, gross weight",ferroalloys_ferrosilicone,"Ferroalloys, ferrosilicone",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,60162,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,61310,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,56998,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,60956,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,58375,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,53092,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,37100,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,43000,kilograms,gold_mine_au_content,"Gold, mine, Au content",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,1663,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1252,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,773,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,1231,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,1606,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,1006,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,525,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,1408,thousand metric tons,iron_and_steel_direct_reduced_iron,"Iron and steel, Direct-reduced iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,2766,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,2685,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,2141,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,2171,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,2184,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,1964,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,1930,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,2142,thousand metric tons,iron_and_steel_pig_iron,"Iron and steel, Pig iron",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,5488,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,5028,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,4126,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,4624,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,5162,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,4645,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,3651,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,4875,thousand metric tons,iron_and_steel_raw_steel,"Iron and steel, Raw steel",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,118,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,118,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,56,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,2020,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2018,2260,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2019,1820,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,1460,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,2110,thousand metric tons,iron_ore_mine_fe_content,"Iron ore, mine, Fe content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,197,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,197,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,94,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,3401,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2018,3794,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2019,3051,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,2456,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,3551,thousand metric tons,iron_ore_mine_gross_weight,"Iron ore, mine, Gross weight",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,29911,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,29834,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,28016,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,40135,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,28260,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,42957,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,23008,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,17098,"metric tons, gross weight",lead_mine_pb_content,"Lead, Mine, Pb content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,12000,"metric tons, gross weight",lead_primary,"Lead, Primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,8000,"metric tons, gross weight",lead_primary,"Lead, Primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,8000,"metric tons, gross weight",lead_primary,"Lead, Primary",usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2017,10000,"metric tons, gross weight",lead_primary,"Lead, Primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,14000,"metric tons, gross weight",lead_primary,"Lead, Primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,8000,"metric tons, gross weight",lead_refinery_primary,"Lead, Refinery, Primary",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2016,8000,"metric tons, gross weight",lead_refinery_primary,"Lead, Refinery, Primary",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2017,10000,"metric tons, gross weight",lead_refinery_primary,"Lead, Refinery, Primary",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2018,0,"metric tons, gross weight",lead_refinery_primary,"Lead, Refinery, Primary",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2019,0,"metric tons, gross weight",lead_refinery_primary,"Lead, Refinery, Primary",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,0,"metric tons, gross weight",lead_refinery_primary,"Lead, Refinery, Primary",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,0,"metric tons, gross weight",lead_refinery_primary,"Lead, Refinery, Primary",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2015,33000,"metric tons, gross weight",lead_refinery_secondarye,"Lead, Refinery, Secondarye",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,33000,"metric tons, gross weight",lead_refinery_secondarye,"Lead, Refinery, Secondarye",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,30000,"metric tons, gross weight",lead_refinery_secondarye,"Lead, Refinery, Secondarye",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2018,26000,"metric tons, gross weight",lead_refinery_secondarye,"Lead, Refinery, Secondarye",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,28000,"metric tons, gross weight",lead_refinery_secondarye,"Lead, Refinery, Secondarye",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,19000,"metric tons, gross weight",lead_refinery_secondarye,"Lead, Refinery, Secondarye",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,22000,"metric tons, gross weight",lead_refinery_secondarye,"Lead, Refinery, Secondarye",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,28000,"metric tons, gross weight",lead_secondary,"Lead, Secondary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,33000,"metric tons, gross weight",lead_secondary,"Lead, Secondary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2016,33000,"metric tons, gross weight",lead_secondary,"Lead, Secondary",usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2017,35000,"metric tons, gross weight",lead_secondary,"Lead, Secondary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2018,26000,"metric tons, gross weight",lead_secondary,"Lead, Secondary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2014,52,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,59,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,135,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,54,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,50,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2019,50,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2020,0,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,0,"metric tons, gross weight",mercury_hg_content,"Mercury, Hg content",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,1910,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2017-18,flag=r
+ARG,Argentina,2015,1736,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,2048,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,1297,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,728,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,0,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,0,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,0,"metric tons, gross weight",molybdenum_mine_mo_content,"Molybdenum, mine, Mo content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,989950,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1175245,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2019,flag=r
+ARG,Argentina,2016,1055700,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,997961,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,1023768,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,1071000,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,783800,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,833573,kilograms,silver_mine_ag_content,"Silver, mine, Ag content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,28038,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, Mine, Zn content",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,30498,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, Mine, Zn content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,22792,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, Mine, Zn content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,23392,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, Mine, Zn content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,22050,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, Mine, Zn content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,14877,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, Mine, Zn content",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2014,29122,"metric tons, gross weight",zinc_smelter_primary,"Zinc, Smelter, Primary",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,30000,"metric tons, gross weight",zinc_smelter_primary,"Zinc, Smelter, Primary",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2016,0,"metric tons, gross weight",zinc_smelter_primary,"Zinc, Smelter, Primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,0,"metric tons, gross weight",zinc_smelter_primary,"Zinc, Smelter, Primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,0,"metric tons, gross weight",zinc_smelter_primary,"Zinc, Smelter, Primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,0,"metric tons, gross weight",zinc_smelter_primary,"Zinc, Smelter, Primary",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2014,2300,"metric tons, gross weight",zinc_smelter_secondary_remelt,"Zinc, Smelter, Secondary, remelt",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,2400,"metric tons, gross weight",zinc_smelter_secondary_remelt,"Zinc, Smelter, Secondary, remelt",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,2000,"metric tons, gross weight",zinc_smelter_secondary_remelt,"Zinc, Smelter, Secondary, remelt",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2017,0,"metric tons, gross weight",zinc_smelter_secondary_remelt,"Zinc, Smelter, Secondary, remelt",usgs-minerals-yearbook:MYB3-2019,flag=e
+ARG,Argentina,2018,0,"metric tons, gross weight",zinc_smelter_secondary_remelt,"Zinc, Smelter, Secondary, remelt",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,0,"metric tons, gross weight",zinc_smelter_secondary_remelt,"Zinc, Smelter, Secondary, remelt",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,23392,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, mine, Zn content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,22050,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, mine, Zn content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,19462,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, mine, Zn content",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,11320,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, mine, Zn content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,6188,"metric tons, gross weight",zinc_mine_zn_content,"Zinc, mine, Zn content",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,174,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,49,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,41,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,38,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,15,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2019,15,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,13,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,14,thousand metric tons,coal_bituminous,"Coal, bituminous",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,840,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1154,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2019,flag=r
+ARG,Argentina,2016,947,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2019,flag=r
+ARG,Argentina,2017,1061,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,1151,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2019,1185,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2020-21,flag=r
+ARG,Argentina,2020,891,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,1096,thousand metric tons,coke_metallurgical,"Coke, metallurgical",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,41484,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,42895,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,44988,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,44595,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,47020,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,49126,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,45096,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,45293,million cubic meters,natural_gas,Natural gas,usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,5109,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,1436,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,10579,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2019,flag=r
+ARG,Argentina,2017,9842,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,11532,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,9098,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,10000,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2021,10000,"metric tons, gross weight",peat_horticultural_use_turba,"Peat, horticultural use, turba",usgs-minerals-yearbook:MYB3-2020-21,flag=e
+ARG,Argentina,2014,194253,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,194290,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,186639,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,175017,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,178631,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,185639,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,175200,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,187245,thousand 42-gallon barrels,petroleum_crude,"Petroleum, Crude",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2014,191151,thousand 42-gallon barrels,petroleum_refinery,"Petroleum, Refinery",usgs-minerals-yearbook:MYB3-2017-18,
+ARG,Argentina,2015,195494,thousand 42-gallon barrels,petroleum_refinery,"Petroleum, Refinery",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2016,175565,thousand 42-gallon barrels,petroleum_refinery,"Petroleum, Refinery",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,179580,thousand 42-gallon barrels,petroleum_refinery,"Petroleum, Refinery",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2018,170455,thousand 42-gallon barrels,petroleum_refinery,"Petroleum, Refinery",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2019,172645,thousand 42-gallon barrels,petroleum_refinery,"Petroleum, Refinery",usgs-minerals-yearbook:MYB3-2019,
+ARG,Argentina,2017,179580,thousand 42-gallon barrels,petroleum_refinery_products,"Petroleum, Refinery products",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2018,170455,thousand 42-gallon barrels,petroleum_refinery_products,"Petroleum, Refinery products",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2019,172645,thousand 42-gallon barrels,petroleum_refinery_products,"Petroleum, Refinery products",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2020,161330,thousand 42-gallon barrels,petroleum_refinery_products,"Petroleum, Refinery products",usgs-minerals-yearbook:MYB3-2020-21,
+ARG,Argentina,2021,170090,thousand 42-gallon barrels,petroleum_refinery_products,"Petroleum, Refinery products",usgs-minerals-yearbook:MYB3-2020-21,

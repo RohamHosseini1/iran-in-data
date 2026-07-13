@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__FP.CPI",
+  "title": "Consumer price index (2010 = 100)",
+  "category": "Prices & Inflation",
+  "sources": "wdi",
+  "n_rows": 963,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/FP.CPI.TOTL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

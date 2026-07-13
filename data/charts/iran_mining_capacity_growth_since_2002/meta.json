@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_mining_capacity_growth_since_2002",
+  "title": "Steel/Copper/Aluminum Production CAPACITY Growth Since IMIDRO's Founding (2002-2021)",
+  "category": "Mining & Minerals Production",
+  "sources": "imidro-iran:annual-report-2021-22-extraction",
+  "n_rows": 6,
+  "year_range": [
+    "2003",
+    "2022"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Iran Mines and Mining Industries Development and Renovation Organization (IMIDRO)",
+      "source_url": "imidro.gov.ir (original); already-downloaded file data/raw/imidro-iran/statistical-reports/annual-report-2021-2022.pdf from a prior round, not previously extracted into tabular data",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

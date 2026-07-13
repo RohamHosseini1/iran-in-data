@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__century_indicators_world_rank_1900_2006",
+  "title": "Iran's World Rank in Population, Per-Capita Income & Life Expectancy (1900 vs. 2006)",
+  "category": "Demographics & Population",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 23,
+  "year_range": [
+    "1900",
+    "2006"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Hadi Salehi Esfahani (University of Illinois) and M. Hashem Pesaran (University of Cambridge)",
+      "source_url": "https://files.econ.cam.ac.uk/people-files/mhp1/wp08/",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:esfahani-pesaran-2008-century-indicators-1900-2006"
+    }
+  ]
+}

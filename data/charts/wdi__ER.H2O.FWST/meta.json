@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__ER.H2O.FWST",
+  "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+  "category": "Environment (Land & Resources)",
+  "sources": "wdi",
+  "n_rows": 717,
+  "year_range": [
+    "1970",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/ER.H2O.FWST.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

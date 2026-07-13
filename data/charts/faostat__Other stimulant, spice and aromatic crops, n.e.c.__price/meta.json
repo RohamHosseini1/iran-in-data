@@ -1,0 +1,32 @@
+{
+  "chart_id": "faostat__Other stimulant, spice and aromatic crops, n.e.c.__price",
+  "title": "Other stimulant, spice and aromatic crops, n.e.c. — Producer Price",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 279,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "GRC",
+    "IRN",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

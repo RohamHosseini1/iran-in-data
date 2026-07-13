@@ -1,0 +1,23 @@
+{
+  "chart_id": "wdi__SP.REG.BRTH.UR",
+  "title": "Completeness of birth registration, urban (%)",
+  "category": "Demographics & Population",
+  "sources": "wdi",
+  "n_rows": 5,
+  "year_range": [
+    "2003",
+    "2018"
+  ],
+  "countries": [
+    "IRN",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.REG.BRTH.UR.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

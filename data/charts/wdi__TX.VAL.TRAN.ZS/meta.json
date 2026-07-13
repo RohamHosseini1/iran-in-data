@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__TX.VAL.TRAN.ZS",
+  "title": "Transport services (% of commercial service exports)",
+  "category": "Trade (Exports)",
+  "sources": "wdi",
+  "n_rows": 802,
+  "year_range": [
+    "1967",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/TX.VAL.TRAN.ZS.WT",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

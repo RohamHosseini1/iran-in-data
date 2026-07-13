@@ -1,0 +1,32 @@
+{
+  "chart_id": "wid__wealth_share_top10",
+  "title": "Net Wealth Share, Top 10%",
+  "category": "Inequality & Wealth",
+  "sources": "wid-world",
+  "n_rows": 1830,
+  "year_range": [
+    "1820",
+    "2024"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "GRC",
+    "IRN",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Inequality Database (WID.world)",
+      "source_url": "https://wid.world/country/iran/",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

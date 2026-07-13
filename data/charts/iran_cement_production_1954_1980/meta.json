@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_cement_production_1954_1980",
+  "title": "Cement (Hydraulic) Production",
+  "category": "Mining & Minerals Production",
+  "sources": "pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959 + usgs-minerals-yearbook",
+  "n_rows": 21,
+  "year_range": [
+    "1955",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1960-industrial-production-1954-1959"
+    }
+  ]
+}

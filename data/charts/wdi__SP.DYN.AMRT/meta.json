@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SP.DYN.AMRT",
+  "title": "Mortality rate, adult, male (per 1,000 male adults)",
+  "category": "Demographics & Population",
+  "sources": "wdi",
+  "n_rows": 2126,
+  "year_range": [
+    "1960",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.DYN.AMRT.MA",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

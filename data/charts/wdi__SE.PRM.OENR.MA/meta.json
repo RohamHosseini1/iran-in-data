@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SE.PRM.OENR.MA",
+  "title": "Over-age students, primary, male (% of male enrollment)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 479,
+  "year_range": [
+    "1970",
+    "2018"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.PRM.OENR.MA.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

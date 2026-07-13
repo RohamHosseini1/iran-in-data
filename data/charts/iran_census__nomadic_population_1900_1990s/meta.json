@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_census__nomadic_population_1900_1990s",
+  "title": "Nomadic Population Counts & Share of Rural Population (c.1900-1990s)",
+  "category": "Demographics & Population",
+  "sources": "iranica-online",
+  "n_rows": 4,
+  "year_range": [
+    "1976",
+    "1987"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Encyclopaedia Iranica Foundation (articles), citing Bharier (1968, 1972), Amani (1988), Amirahmadi, Aghajanian (1992), Bozorgmehr and Sabbagh, Chasteland et al., Jalali et al., Moore et al., and primary Markaz-e Amar-e Iran (Statistical Centre of Iran) census bulletins as original sources",
+      "source_url": "https://www.iranicaonline.org/articles/census-i/ ; https://www.iranicaonline.org/articles/demography/",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:7tok:iranica-census-demography-narrative-series-1868-1998"
+    }
+  ]
+}

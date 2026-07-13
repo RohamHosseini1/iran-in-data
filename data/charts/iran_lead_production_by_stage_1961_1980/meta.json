@@ -1,0 +1,15 @@
+{
+  "chart_id": "iran_lead_production_by_stage_1961_1980",
+  "title": "Lead Production — Mine Output & Smelter/Ingot Output",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Lead')",
+  "n_rows": 22,
+  "year_range": [
+    "1961",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": []
+}

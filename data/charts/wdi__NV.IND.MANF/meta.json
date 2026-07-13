@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__NV.IND.MANF",
+  "title": "Manufacturing, value added (% of GDP)",
+  "category": "Industry / Value Added by Sector",
+  "sources": "wdi",
+  "n_rows": 3787,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NV.IND.MANF.KN",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,original_period_label
+IRN,Iran,1900,8.6,millions,population,Population,esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,70.5,millions,population,Population,esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,20,rank (1=largest),population_rank_in_the_world,Population rank in the world,esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,18,rank (1=largest),population_rank_in_the_world,Population rank in the world,esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,228,count,population_out_of_number_of_countries_ranked,Population out of (number of countries ranked),esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,211,count,population_out_of_number_of_countries_ranked,Population out of (number of countries ranked),esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,1000,constant 2000 PPP US dollars,per_capita_income,Per capita income,esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,7400,constant 2000 PPP US dollars,per_capita_income,Per capita income,esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,44,rank (1=highest),per_capita_income_rank_in_the_world,Per capita income rank in the world,esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,78,rank (1=highest),per_capita_income_rank_in_the_world,Per capita income rank in the world,esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,68,count; 1900 note: '68 countries for which data is available',per_capita_income_out_of_number_of_countries_ranked,Per capita income out of (number of countries ranked),esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,187,count; 1900 note: '68 countries for which data is available',per_capita_income_out_of_number_of_countries_ranked,Per capita income out of (number of countries ranked),esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,27,percent,urbanization_rate,Urbanization rate,esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,64,percent,urbanization_rate,Urbanization rate,esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,<30,years; 1900 value shown in source as '<30?' (uncertain rough estimate),life_expectancy_total,Life expectancy (total),esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,71,years; 1900 value shown in source as '<30?' (uncertain rough estimate),life_expectancy_total,Life expectancy (total),esfahani-pesaran-2008-century-indicators,
+IRN,Iran,2006,114,rank; 1900 value shown in source as '?' (unknown/not estimated),life_expectancy_rank_in_the_world,Life expectancy rank in the world,esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,<5,percent; 1900 value shown in source as '<5?' (uncertain rough estimate),literacy_rate_population_15,Literacy rate (population 15+),esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,83,percent; 1900 value shown in source as '<5?' (uncertain rough estimate),literacy_rate_population_15,Literacy rate (population 15+),esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,65,percent,share_of_agriculture_in_gdp,Share of agriculture in GDP,esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,15,percent,share_of_agriculture_in_gdp,Share of agriculture in GDP,esfahani-pesaran-2008-century-indicators,
+IRN,Iran,1900,35,percent,trade_gdp_ratio,Trade-GDP ratio,esfahani-pesaran-2008-century-indicators,1900 (rough estimate)
+IRN,Iran,2006,68,percent,trade_gdp_ratio,Trade-GDP ratio,esfahani-pesaran-2008-century-indicators,

@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__NV.MNF.TECH.ZS",
+  "title": "Medium and high-tech manufacturing value added (% manufacturing value added)",
+  "category": "Industry / Value Added by Sector",
+  "sources": "wdi",
+  "n_rows": 561,
+  "year_range": [
+    "1990",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NV.MNF.TECH.ZS.UN",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

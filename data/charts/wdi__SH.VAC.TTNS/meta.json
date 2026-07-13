@@ -1,0 +1,24 @@
+{
+  "chart_id": "wdi__SH.VAC.TTNS",
+  "title": "Newborns protected against tetanus (%)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 106,
+  "year_range": [
+    "1980",
+    "2024"
+  ],
+  "countries": [
+    "IRN",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.VAC.TTNS.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

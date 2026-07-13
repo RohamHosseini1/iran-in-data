@@ -1,0 +1,44 @@
+{
+  "chart_id": "faostat__Pimento__consumption",
+  "title": "Pimento — Per-Capita Food Consumption",
+  "category": "Food Consumption",
+  "sources": "faostat-fbs+fbsh",
+  "n_rows": 5275,
+  "year_range": [
+    "1961",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

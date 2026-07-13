@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__monetary_aggregates_movements_1963_73",
+  "title": "Money & Quasi-Money Component Movements, Year-over-Year Flows (FY1963-1973)",
+  "category": "Financial Sector (Monetary)",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 429,
+  "year_range": [
+    "1963",
+    "1973"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1974-movements-monetary-aggregates-1963-1973"
+    }
+  ]
+}

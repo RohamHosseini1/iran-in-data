@@ -1,0 +1,33 @@
+{
+  "chart_id": "wid__avg_national_income",
+  "title": "Average National Income per Adult",
+  "category": "Inequality & Wealth",
+  "sources": "wid-world",
+  "n_rows": 4186,
+  "year_range": [
+    "1800",
+    "2025"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "GRC",
+    "IRN",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SUN",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Inequality Database (WID.world)",
+      "source_url": "https://wid.world/country/iran/",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

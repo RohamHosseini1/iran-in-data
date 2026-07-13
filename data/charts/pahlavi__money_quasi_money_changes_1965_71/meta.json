@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__money_quasi_money_changes_1965_71",
+  "title": "Money & Quasi-Money Component Changes, Year-over-Year Flows (FY1964/65-1970/71)",
+  "category": "Financial Sector (Monetary)",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 439,
+  "year_range": [
+    "1965",
+    "1971"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank), data sourced by the Bank from Bank Markazi Iran",
+      "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1971-changes-money-quasi-money-1965-1971"
+    }
+  ]
+}

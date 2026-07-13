@@ -1,0 +1,33 @@
+{
+  "chart_id": "faostat__Mangoes, guavas and mangosteens__price",
+  "title": "Mangoes, guavas and mangosteens — Producer Price",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 500,
+  "year_range": [
+    "1967",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

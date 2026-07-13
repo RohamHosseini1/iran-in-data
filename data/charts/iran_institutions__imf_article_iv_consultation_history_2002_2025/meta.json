@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_institutions__imf_article_iv_consultation_history_2002_2025",
+  "title": "IMF Article IV Consultation History for Iran: Dates & Headline Findings (2002-2025)",
+  "category": "Trade Institutions & Policy History",
+  "sources": "imf-article-iv-iran",
+  "n_rows": 10,
+  "year_range": [
+    "2002",
+    "2025"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Monetary Fund (official press releases, public information notices, mission concluding statements)",
+      "source_url": "https://www.imf.org/en/countries/irn",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:consultation-history-2002-2025"
+    }
+  ]
+}

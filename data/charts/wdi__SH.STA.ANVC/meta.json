@@ -1,0 +1,31 @@
+{
+  "chart_id": "wdi__SH.STA.ANVC",
+  "title": "Pregnant women receiving prenatal care (%)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 28,
+  "year_range": [
+    "1993",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "FRA",
+    "IRN",
+    "ITA",
+    "PRT",
+    "SAU",
+    "SWE",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.ANVC.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

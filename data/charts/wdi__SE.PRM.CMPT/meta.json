@@ -1,0 +1,36 @@
+{
+  "chart_id": "wdi__SE.PRM.CMPT",
+  "title": "Primary completion rate, total (% of relevant age group)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 323,
+  "year_range": [
+    "1970",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

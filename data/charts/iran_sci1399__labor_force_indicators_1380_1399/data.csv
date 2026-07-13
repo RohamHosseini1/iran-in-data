@@ -1,0 +1,568 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,original_period_label,notes
+IRN,Iran,2001,37.2,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,14.2,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,33.6,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,27.4,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,26.1,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,30.6,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,43.3,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,40.4,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,11.3,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,23.5,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,20.8,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,7.0,percent,national_both_underemployment_share_pct,national — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,23.2,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,31.7,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,45.1,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,36.9,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,12.3,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,26.5,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,24.0,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,9.0,percent,national_both_underemployment_share_pct,national — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,18.6,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,33.4,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,48.0,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,39.4,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,12.4,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,29.2,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,25.9,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,10.3,percent,national_both_underemployment_share_pct,national — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,18.0,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,31.9,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,50.1,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,40.3,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,12.1,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,28.4,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,25.3,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,10.4,percent,national_both_underemployment_share_pct,national — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,17.6,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,32.0,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,50.4,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,40.5,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,12.0,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,27.7,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,25.1,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,10.8,percent,national_both_underemployment_share_pct,national — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,17.7,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,32.0,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,50.3,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,44.1,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,10.7,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,26.0,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,17.9,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,9.9,percent,national_both_underemployment_share_pct,national — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,17.7,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,32.0,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,50.3,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,41.3,percent,national_both_economic_participation_rate_pct,national — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,9.6,percent,national_both_unemployment_rate_pct,national — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,23.7,percent,national_both_unemployment_rate_15_24_pct,national — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,21.8,percent,national_both_unemployment_rate_15_29_pct,national — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,9.5,percent,national_both_underemployment_share_pct,national — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,17.4,percent,national_both_employment_share_agriculture_pct,national — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,33.3,percent,national_both_employment_share_manufacturing_pct,national — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,49.3,percent,national_both_employment_share_services_pct,national — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2001,11.8,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,19.9,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,41.1,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,34.9,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,31.2,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,31.8,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,37.0,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,16.4,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,16.2,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,31.8,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,29.5,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,4.1,percent,national_female_underemployment_share_pct,national — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,30.9,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,31.7,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,37.3,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,12.6,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,20.9,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,42.7,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,40.3,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,4.4,percent,national_female_underemployment_share_pct,national — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,26.3,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,23.3,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,50.4,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,14.9,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,20.7,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,44.2,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,42.3,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,4.9,percent,national_female_underemployment_share_pct,national — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,22.0,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,25.2,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,52.8,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,16.0,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,19.8,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,43.7,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,41.0,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,5.1,percent,national_female_underemployment_share_pct,national — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,21.3,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,25.5,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,53.2,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,16.1,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,18.9,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,39.9,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,38.6,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,5.8,percent,national_female_underemployment_share_pct,national — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,19.7,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,26.9,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,53.4,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,17.0,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,17.5,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,38.8,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,29.7,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,5.5,percent,national_female_underemployment_share_pct,national — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,19.8,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,26.9,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,53.3,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,13.9,percent,national_female_economic_participation_rate_pct,national — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,15.6,percent,national_female_unemployment_rate_pct,national — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,36.0,percent,national_female_unemployment_rate_15_24_pct,national — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,35.0,percent,national_female_unemployment_rate_15_29_pct,national — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,4.2,percent,national_female_underemployment_share_pct,national — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,18.6,percent,national_female_employment_share_agriculture_pct,national — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,25.7,percent,national_female_employment_share_manufacturing_pct,national — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,55.7,percent,national_female_employment_share_services_pct,national — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2001,62.1,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,13.2,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,31.7,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,42.7,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,25.2,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,30.4,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,44.4,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,63.9,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,10.0,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,21.0,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,18.2,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,7.7,percent,national_male_underemployment_share_pct,national — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,21.3,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,31.7,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,47.0,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,60.7,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,10.5,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,22.9,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,20.1,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,9.9,percent,national_male_underemployment_share_pct,national — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,17.2,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,35.2,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,47.6,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,64.1,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,10.5,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,25.4,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,21.4,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,11.5,percent,national_male_underemployment_share_pct,national — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,17.1,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,33.3,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,49.6,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,64.5,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,10.2,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,24.2,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,20.8,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,11.6,percent,national_male_underemployment_share_pct,national — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,16.8,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,33.5,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,49.8,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,64.8,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,10.4,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,24.3,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,21.2,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,12.0,percent,national_male_underemployment_share_pct,national — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,17.2,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,33.2,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,49.6,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,71.1,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,9.0,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,22.7,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,14.8,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,10.9,percent,national_male_underemployment_share_pct,national — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,17.2,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,33.1,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,49.7,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,68.7,percent,national_male_economic_participation_rate_pct,national — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2020,8.4,percent,national_male_unemployment_rate_pct,national — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2020,21.2,percent,national_male_unemployment_rate_15_24_pct,national — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2020,18.8,percent,national_male_unemployment_rate_15_29_pct,national — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2020,4.1,percent,national_male_underemployment_share_pct,national — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2020,17.2,percent,national_male_employment_share_agriculture_pct,national — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2020,34.7,percent,national_male_employment_share_manufacturing_pct,national — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2020,48.1,percent,national_male_employment_share_services_pct,national — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,"Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397). Underemployment share printed exactly as '4.10' in source table (PDF p.182/printed p.182), verified by visual page render against pdftotext extraction — breaks the pattern of neighboring values (7-12 range) but is not an extraction artifact; preserved as printed, flagged as a possible SCI publication anomaly, not resolved/guessed."
+IRN,Iran,2001,39.1,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,13.5,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,29.8,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,24.8,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,52.7,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,26.0,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,21.3,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,43.9,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,7.1,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,14.0,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,13.0,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,9.4,percent,rural_both_underemployment_share_pct,rural — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,54.7,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,26.4,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,18.9,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,39.8,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,8.9,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,19.8,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,17.7,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,12.5,percent,rural_both_underemployment_share_pct,rural — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,50.4,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,28.0,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,21.6,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,41.0,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,8.9,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,22.5,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,19.9,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,14.6,percent,rural_both_underemployment_share_pct,rural — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,50.3,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,25.4,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,24.3,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,42.4,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,8.2,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,20.7,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,18.6,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,13.4,percent,rural_both_underemployment_share_pct,rural — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,50.0,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,25.5,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,24.4,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,42.6,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,7.9,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,18.9,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,16.8,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,14.6,percent,rural_both_underemployment_share_pct,rural — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,49.1,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,26.6,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,24.3,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,47.3,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,7.3,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,19.1,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,12.9,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,13.1,percent,rural_both_underemployment_share_pct,rural — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,49.2,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,26.6,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,24.2,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,44.2,percent,rural_both_economic_participation_rate_pct,rural — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,7.2,percent,rural_both_unemployment_rate_pct,rural — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,18.4,percent,rural_both_unemployment_rate_15_24_pct,rural — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,16.5,percent,rural_both_unemployment_rate_15_29_pct,rural — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,13.2,percent,rural_both_underemployment_share_pct,rural — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,48.6,percent,rural_both_employment_share_agriculture_pct,rural — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,28.7,percent,rural_both_employment_share_manufacturing_pct,rural — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,22.7,percent,rural_both_employment_share_services_pct,rural — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2001,14.4,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,11.8,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,24.7,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,21.0,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,52.4,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,39.6,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,8.0,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,21.8,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,5.4,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,11.0,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,11.0,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,4.1,percent,rural_female_underemployment_share_pct,rural — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,60.3,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,31.4,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,8.2,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,15.0,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,9.8,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,21.4,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,21.3,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,5.2,percent,rural_female_underemployment_share_pct,rural — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,66.7,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,20.8,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,12.5,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,16.1,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,10.3,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,28.7,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,27.1,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,4.6,percent,rural_female_underemployment_share_pct,rural — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,61.3,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,23.2,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,15.4,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,17.3,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,8.5,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,23.1,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,23.1,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,4.8,percent,rural_female_underemployment_share_pct,rural — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,60.8,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,23.3,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,15.8,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,17.3,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,7.9,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,19.6,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,20.4,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,5.7,percent,rural_female_underemployment_share_pct,rural — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,57.9,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,25.9,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,16.2,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,18.7,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,7.8,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,21.8,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,17.4,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,10.9,percent,rural_female_underemployment_share_pct,rural — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,58.5,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,25.2,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,16.3,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,15.2,percent,rural_female_economic_participation_rate_pct,rural — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,8.1,percent,rural_female_unemployment_rate_pct,rural — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,22.1,percent,rural_female_unemployment_rate_15_24_pct,rural — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,22.9,percent,rural_female_unemployment_rate_15_29_pct,rural — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,4.8,percent,rural_female_underemployment_share_pct,rural — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,57.6,percent,rural_female_employment_share_agriculture_pct,rural — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,26.5,percent,rural_female_employment_share_manufacturing_pct,rural — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,15.9,percent,rural_female_employment_share_services_pct,rural — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2001,64.0,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,13.9,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,31.4,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,25.8,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,52.8,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,22.9,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,24.4,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,66.0,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,7.6,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,15.0,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,13.6,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,11.2,percent,rural_male_underemployment_share_pct,rural — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,52.9,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,24.7,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,22.5,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,64.8,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,8.7,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,19.5,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,16.9,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,14.2,percent,rural_male_underemployment_share_pct,rural — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,46.6,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,29.7,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,23.6,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,66.3,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,8.5,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,21.1,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,18.3,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,17.0,percent,rural_male_underemployment_share_pct,rural — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,47.6,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,25.9,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,26.5,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,66.6,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,8.2,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,20.1,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,17.5,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,15.6,percent,rural_male_underemployment_share_pct,rural — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,47.3,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,26.1,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,26.6,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,68.0,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,7.9,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,18.7,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,16.0,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,16.9,percent,rural_male_underemployment_share_pct,rural — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,46.9,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,26.8,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,26.3,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,76.0,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,7.2,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,18.5,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,11.9,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,15.1,percent,rural_male_underemployment_share_pct,rural — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,46.9,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,26.9,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,26.1,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,73.4,percent,rural_male_economic_participation_rate_pct,rural — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,7.0,percent,rural_male_unemployment_rate_pct,rural — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,17.7,percent,rural_male_unemployment_rate_15_24_pct,rural — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,15.3,percent,rural_male_unemployment_rate_15_29_pct,rural — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,14.9,percent,rural_male_underemployment_share_pct,rural — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,46.8,percent,rural_male_employment_share_agriculture_pct,rural — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,29.2,percent,rural_male_employment_share_manufacturing_pct,rural — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,24.1,percent,rural_male_employment_share_services_pct,rural — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2001,35.8,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,14.8,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,37.3,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,29.7,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,5.1,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,34.3,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,60.6,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,38.8,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,13.4,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,29.2,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,24.9,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,5.7,percent,urban_both_underemployment_share_pct,urban — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,6.1,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,34.6,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,59.3,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,35.8,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,13.7,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,30.0,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,26.5,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,7.6,percent,urban_both_underemployment_share_pct,urban — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,5.0,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,35.7,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,59.4,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,38.9,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,13.7,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,32.3,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,28.1,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,8.7,percent,urban_both_underemployment_share_pct,urban — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,5.3,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,34.4,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,60.3,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,39.7,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,13.4,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,31.9,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,27.6,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,9.3,percent,urban_both_underemployment_share_pct,urban — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,5.4,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,34.5,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,60.1,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,39.8,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,13.5,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,31.5,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,28.2,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,9.4,percent,urban_both_underemployment_share_pct,urban — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,6.1,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,34.0,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,59.9,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,43.0,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,11.8,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,29.1,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,19.6,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,8.8,percent,urban_both_underemployment_share_pct,urban — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,6.3,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,33.9,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,59.7,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,40.4,percent,urban_both_economic_participation_rate_pct,urban — both — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,10.4,percent,urban_both_unemployment_rate_pct,urban — both — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,26.0,percent,urban_both_unemployment_rate_15_24_pct,urban — both — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,23.8,percent,urban_both_unemployment_rate_15_29_pct,urban — both — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,8.2,percent,urban_both_underemployment_share_pct,urban — both — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,6.5,percent,urban_both_employment_share_agriculture_pct,urban — both — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,34.9,percent,urban_both_employment_share_manufacturing_pct,urban — both — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,58.5,percent,urban_both_employment_share_services_pct,urban — both — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2001,9.9,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,28.5,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,61.5,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,49.6,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,3.5,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,21.6,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,74.9,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,14.0,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,23.7,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,47.0,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,40.7,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,4.2,percent,urban_female_underemployment_share_pct,urban — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,5.2,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,32.0,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,62.7,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,11.7,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,26.2,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,53.9,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,47.7,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,4.0,percent,urban_female_underemployment_share_pct,urban — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,2.7,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,24.8,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,72.5,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,14.5,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,24.8,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,50.6,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,46.8,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,5.1,percent,urban_female_underemployment_share_pct,urban — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,3.3,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,26.1,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,70.6,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,15.5,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,24.0,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,51.1,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,46.0,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,5.2,percent,urban_female_underemployment_share_pct,urban — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,4.0,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,26.5,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,69.5,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,15.7,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,22.8,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,47.7,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,43.9,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,5.9,percent,urban_female_underemployment_share_pct,urban — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,3.3,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,27.3,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,69.3,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,16.4,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,21.0,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,44.8,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,33.0,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,5.7,percent,urban_female_underemployment_share_pct,urban — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,3.7,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,27.6,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,68.8,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,13.5,percent,urban_female_economic_participation_rate_pct,urban — female — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,18.3,percent,urban_female_unemployment_rate_pct,urban — female — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,41.2,percent,urban_female_unemployment_rate_15_24_pct,urban — female — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,38.7,percent,urban_female_unemployment_rate_15_29_pct,urban — female — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,4.0,percent,urban_female_underemployment_share_pct,urban — female — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,3.4,percent,urban_female_employment_share_agriculture_pct,urban — female — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,25.5,percent,urban_female_employment_share_manufacturing_pct,urban — female — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,71.2,percent,urban_female_employment_share_services_pct,urban — female — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2001,60.8,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,12.6,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,31.9,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,25.6,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,5.3,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,35.9,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2001,58.8,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1380,1380 figures relate to the month of Aban (survey methodology pre-dates annual Labour Force Survey).
+IRN,Iran,2006,63.0,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,11.1,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,24.4,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,20.5,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,6.0,percent,urban_male_underemployment_share_pct,urban — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,6.3,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,35.0,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2006,58.7,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1385,
+IRN,Iran,2011,59.3,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,11.2,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,24.7,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,21.4,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,8.1,percent,urban_male_underemployment_share_pct,urban — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,5.3,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,37.4,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2011,57.3,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1390,
+IRN,Iran,2016,63.3,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,11.2,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,27.5,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,22.6,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,9.4,percent,urban_male_underemployment_share_pct,urban — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,5.7,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,36.0,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2016,58.3,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1395,
+IRN,Iran,2017,63.7,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,10.9,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,26.2,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,22.0,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,10.1,percent,urban_male_underemployment_share_pct,urban — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,5.7,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,36.1,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2017,58.2,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1396,
+IRN,Iran,2018,63.7,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,11.2,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,26.9,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,23.3,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,10.2,percent,urban_male_underemployment_share_pct,urban — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,6.7,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,35.5,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2018,57.9,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1397,
+IRN,Iran,2019,69.6,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,9.6,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,24.7,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,15.7,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,9.4,percent,urban_male_underemployment_share_pct,urban — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,6.9,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,35.2,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2019,57.9,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1398,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,67.2,percent,urban_male_economic_participation_rate_pct,urban — male — economic_participation_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,8.8,percent,urban_male_unemployment_rate_pct,urban — male — unemployment_rate_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,22.8,percent,urban_male_unemployment_rate_15_24_pct,urban — male — unemployment_rate_15_24_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,20.2,percent,urban_male_unemployment_rate_15_29_pct,urban — male — unemployment_rate_15_29_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,8.9,percent,urban_male_underemployment_share_pct,urban — male — underemployment_share_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,7.1,percent,urban_male_employment_share_agriculture_pct,urban — male — employment_share_agriculture_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,36.6,percent,urban_male_employment_share_manufacturing_pct,urban — male — employment_share_manufacturing_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).
+IRN,Iran,2020,56.3,percent,urban_male_employment_share_services_pct,urban — male — employment_share_services_pct,sci-amar:statistical-yearbook-1399,1399,Figures relate to population aged 15 and over (methodology break from 'aged 10 and over' used 1380-1397).

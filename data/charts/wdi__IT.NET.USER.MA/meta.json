@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__IT.NET.USER.MA",
+  "title": "Individuals using the Internet, male (% of male population)",
+  "category": "Infrastructure & Technology",
+  "sources": "wdi",
+  "n_rows": 282,
+  "year_range": [
+    "2002",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/IT.NET.USER.MA.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

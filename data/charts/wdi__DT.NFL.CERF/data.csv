@@ -1,0 +1,14 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+IRN,Iran,2019,1971475.95882416,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+IRN,Iran,2023,1000020.0271606401,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+TUR,Turkey,2023,10200241.0888672,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+VEN,Venezuela,2018,9202770.2331543,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+VEN,Venezuela,2019,10015686.0351563,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+VEN,Venezuela,2021,8000000,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+VEN,Venezuela,2022,8000000,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+VEN,Venezuela,2023,8245001.792907709,,DT.NFL.CERF.CD,"Net official flows from UN agencies, CERF (current US$)",wdi,false
+IRN,Iran,2019,3823057.2186,constant 2015 US$ (computed),DT.NFL.CERF.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, CERF (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2023,1984358.4643,constant 2015 US$ (computed),DT.NFL.CERF.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, CERF (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2023,15580249.482,constant 2015 US$ (computed),DT.NFL.CERF.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, CERF (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2018,16016849.4408,constant 2015 US$ (computed),DT.NFL.CERF.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, CERF (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2019,17329168.8527,constant 2015 US$ (computed),DT.NFL.CERF.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, CERF (current US$) (computed real, 2015 US$)",wdi,true

@@ -1,0 +1,31 @@
+{
+  "chart_id": "faostat__Meat of camels, fresh or chilled__price",
+  "title": "Meat of camels, fresh or chilled — Producer Price",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 222,
+  "year_range": [
+    "1991",
+    "2025"
+  ],
+  "countries": [
+    "IRN",
+    "RUS",
+    "SAU",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

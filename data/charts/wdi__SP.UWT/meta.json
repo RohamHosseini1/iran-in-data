@@ -1,0 +1,33 @@
+{
+  "chart_id": "wdi__SP.UWT",
+  "title": "Unmet need for contraception (% of married women ages 15-49)",
+  "category": "Demographics & Population",
+  "sources": "wdi",
+  "n_rows": 24,
+  "year_range": [
+    "1988",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "FRA",
+    "GBR",
+    "IRN",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.UWT.TFRT",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

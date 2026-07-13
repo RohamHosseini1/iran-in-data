@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__NY.ADJ.ICTR.GN",
+  "title": "Adjusted savings: gross savings (% of GNI)",
+  "category": "Macro / National Accounts",
+  "sources": "wdi",
+  "n_rows": 754,
+  "year_range": [
+    "1970",
+    "2021"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NY.ADJ.ICTR.GN.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

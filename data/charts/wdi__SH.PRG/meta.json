@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SH.PRG",
+  "title": "Prevalence of anemia among pregnant women (%)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 408,
+  "year_range": [
+    "2000",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.PRG.ANEM",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chart_id": "wdi__VC.BTL",
+  "title": "Battle-related deaths (number of people)",
+  "category": "Conflict & Violence",
+  "sources": "wdi",
+  "n_rows": 121,
+  "year_range": [
+    "1989",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "IRN",
+    "ITA",
+    "NLD",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/VC.BTL.DETH",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

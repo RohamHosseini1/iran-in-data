@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__NV.AGR.TOTL",
+  "title": "Agriculture, forestry, and fishing, value added (% of GDP)",
+  "category": "Industry / Value Added by Sector",
+  "sources": "wdi",
+  "n_rows": 3860,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NV.AGR.TOTL.CN",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

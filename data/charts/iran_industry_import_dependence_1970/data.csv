@@ -1,0 +1,38 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,notes
+IRN,Iran,1970,2,percent,light_consumer_goods_sugar,Light Consumer Goods — Sugar,wb1970-industry-import-dependence,
+IRN,Iran,1970,10,percent,light_consumer_goods_meat_packing,Light Consumer Goods — Meat Packing,wb1970-industry-import-dependence,
+IRN,Iran,1970,10,percent,light_consumer_goods_cotton_textiles,Light Consumer Goods — Cotton Textiles,wb1970-industry-import-dependence,
+IRN,Iran,1970,10-20,percent,light_consumer_goods_footwear,Light Consumer Goods — Footwear,wb1970-industry-import-dependence,
+IRN,Iran,1970,10-20,percent,light_consumer_goods_canned_fruits_and_vegetables,Light Consumer Goods — Canned Fruits and Vegetables,wb1970-industry-import-dependence,
+IRN,Iran,1970,40,percent,light_consumer_goods_woolen_textiles,Light Consumer Goods — Woolen Textiles,wb1970-industry-import-dependence,
+IRN,Iran,1970,50,percent,light_consumer_goods_vegetable_oils,Light Consumer Goods — Vegetable Oils,wb1970-industry-import-dependence,
+IRN,Iran,1970,60,percent,light_consumer_goods_pharmaceuticals,Light Consumer Goods — Pharmaceuticals,wb1970-industry-import-dependence,
+IRN,Iran,1970,26,percent,durable_consumer_goods_electric_fans,Durable Consumer Goods — Electric Fans,wb1970-industry-import-dependence,[yes]
+IRN,Iran,1970,37-50,percent,durable_consumer_goods_radios,Durable Consumer Goods — Radios,wb1970-industry-import-dependence,
+IRN,Iran,1970,40,percent,durable_consumer_goods_space_heaters,Durable Consumer Goods — Space Heaters,wb1970-industry-import-dependence,
+IRN,Iran,1970,40,percent,durable_consumer_goods_refrigerators,Durable Consumer Goods — Refrigerators,wb1970-industry-import-dependence,"source annotates this figure ""(understated?)"""
+IRN,Iran,1970,60,percent,durable_consumer_goods_air_coolers,Durable Consumer Goods — Air Coolers,wb1970-industry-import-dependence,
+IRN,Iran,1970,60,percent,durable_consumer_goods_tv_sets,Durable Consumer Goods — TV Sets,wb1970-industry-import-dependence,
+IRN,Iran,1970,33-43,percent,transport_equipment_diesel_engines,Transport Equipment — Diesel Engines,wb1970-industry-import-dependence,[yes]
+IRN,Iran,1970,48,percent,transport_equipment_trucks,Transport Equipment — Trucks,wb1970-industry-import-dependence,
+IRN,Iran,1970,,percent,transport_equipment_buses,Transport Equipment — Buses,wb1970-industry-import-dependence,"source gives n.a., annotated ""probably as trucks"" (i.e. similar to the Trucks figure of 48%)"
+IRN,Iran,1970,50,percent,transport_equipment_passenger_cars,Transport Equipment — Passenger Cars,wb1970-industry-import-dependence,
+IRN,Iran,1970,50,percent,transport_equipment_tires,Transport Equipment — Tires,wb1970-industry-import-dependence,
+IRN,Iran,1970,10,percent,intermediate_products_ddb_dodecil_benzane,Intermediate Products — DDB (Dodecil Benzane),wb1970-industry-import-dependence,[yes]
+IRN,Iran,1970,10,percent,intermediate_products_pvc,Intermediate Products — PVC,wb1970-industry-import-dependence,[yes]
+IRN,Iran,1970,10,percent,intermediate_products_caustic_soda,Intermediate Products — Caustic Soda,wb1970-industry-import-dependence,
+IRN,Iran,1970,10,percent,intermediate_products_glass_sheet,Intermediate Products — Glass (Sheet),wb1970-industry-import-dependence,
+IRN,Iran,1970,25,percent,intermediate_products_paper,Intermediate Products — Paper,wb1970-industry-import-dependence,[yes]
+IRN,Iran,1970,45,percent,intermediate_products_paints,Intermediate Products — Paints,wb1970-industry-import-dependence,
+IRN,Iran,1970,,percent,intermediate_products_synthetic_fibres,Intermediate Products — Synthetic Fibres,wb1970-industry-import-dependence,"source gives n.a., annotated ""(above 50?)"""
+IRN,Iran,1970,60,percent,intermediate_products_rolled_steel,Intermediate Products — Rolled Steel,wb1970-industry-import-dependence,
+IRN,Iran,1970,20,percent,capital_goods_cement,Capital Goods — Cement,wb1970-industry-import-dependence,
+IRN,Iran,1970,20,percent,capital_goods_carbon_steel_and_stainless_blades,Capital Goods — Carbon Steel and Stainless Blades,wb1970-industry-import-dependence,
+IRN,Iran,1970,20,percent,capital_goods_telephone_receivers,Capital Goods — Telephone Receivers,wb1970-industry-import-dependence,
+IRN,Iran,1970,20,percent,capital_goods_electric_meters,Capital Goods — Electric Meters,wb1970-industry-import-dependence,[yes]
+IRN,Iran,1970,20,percent,capital_goods_telephone_exchanges,Capital Goods — Telephone Exchanges,wb1970-industry-import-dependence,[yes]
+IRN,Iran,1970,30,percent,capital_goods_steel_wire_nails_and_screws,"Capital Goods — Steel Wire, Nails and Screws",wb1970-industry-import-dependence,"source marks this figure with ""(?)"" indicating a doubtful/conflicting estimate"
+IRN,Iran,1970,40,percent,capital_goods_pumps,Capital Goods — Pumps,wb1970-industry-import-dependence,
+IRN,Iran,1970,45,percent,capital_goods_transformers,Capital Goods — Transformers,wb1970-industry-import-dependence,
+IRN,Iran,1970,65-90,percent,capital_goods_cables,Capital Goods — Cables,wb1970-industry-import-dependence,
+IRN,Iran,1970,80,percent,capital_goods_electric_switchgear,Capital Goods — Electric Switchgear,wb1970-industry-import-dependence,

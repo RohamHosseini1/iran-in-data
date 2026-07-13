@@ -1,0 +1,32 @@
+{
+  "chart_id": "wdi__SE.ADT.LITR.FE",
+  "title": "Literacy rate, adult female (% of females ages 15 and above)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 101,
+  "year_range": [
+    "1975",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.ADT.LITR.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

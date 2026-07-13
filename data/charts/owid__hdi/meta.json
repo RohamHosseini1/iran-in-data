@@ -1,0 +1,38 @@
+{
+  "chart_id": "owid__hdi",
+  "title": "Human Development Index",
+  "category": "Development / Composite Index",
+  "sources": "owid",
+  "n_rows": 578,
+  "year_range": [
+    "1990",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/human-development-index",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

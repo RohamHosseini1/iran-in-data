@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_fx__gold_coin_emami_price_daily_2010_2026",
+  "title": "Emami Gold Coin Price, Rial, Daily (2010-04-04 to 2026-07-11)",
+  "category": "Precious Metals Prices",
+  "sources": "tgju",
+  "n_rows": 24681,
+  "year_range": [
+    "2010",
+    "2026"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Multiple (see per-row citations in data.csv); primary sources are Bahmani-Oskooee (2005, Iranian Economic Review, University of Tehran) and World Bank Report No. 22953-IRN (2001), with 2004-2011 annual anchors compiled via Wikipedia's transcription of Central Bank of Iran Annual Review 2013/14 + CIA World Factbook, and one PBS Frontline/Tehran Bureau (2012) narrative figure",
+      "source_url": "https://ier.ut.ac.ir/article_30891.html ; https://documents1.worldbank.org/curated/en/122611468752357210/pdf/multi0page.pdf ; https://en.wikipedia.org/wiki/Iranian_rial ; https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/10/business-the-rials-freefall-a-historical-perspective.html",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-parallel-fx-1979-2010-research"
+    }
+  ]
+}

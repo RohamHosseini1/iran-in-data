@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__gas_production_consumption_1965_69",
+  "title": "Natural Gas Production, Consumption & Flaring, 1965-1969",
+  "category": "Energy",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 45,
+  "year_range": [
+    "1965",
+    "1969"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:5tok:wb1971-gas-production-consumption-1965-1969"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SH.ALC.PCAP.FE",
+  "title": "Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 357,
+  "year_range": [
+    "2000",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.ALC.PCAP.FE.LI",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

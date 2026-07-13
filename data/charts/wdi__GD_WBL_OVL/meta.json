@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__GD_WBL_OVL",
+  "title": "WBL: Legal Framework Index (scale 0-100)",
+  "category": "Gender / Legal Rights",
+  "sources": "wdi",
+  "n_rows": 50,
+  "year_range": [
+    "2025",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/GD_WBL_OVL_SFR",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

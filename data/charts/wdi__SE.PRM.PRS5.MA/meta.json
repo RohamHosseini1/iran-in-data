@@ -1,0 +1,36 @@
+{
+  "chart_id": "wdi__SE.PRM.PRS5.MA",
+  "title": "Persistence to grade 5, male (% of cohort)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 287,
+  "year_range": [
+    "1970",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.PRM.PRS5.MA.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

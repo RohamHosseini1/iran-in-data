@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__imports_by_commodity_value_1956_59",
+  "title": "Merchandise Imports by Commodity (Value, USD), 1956/57-1958/59",
+  "category": "Trade (Imports)",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 120,
+  "year_range": [
+    "1957",
+    "1959"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1960-imports-by-commodities-1956-1959"
+    }
+  ]
+}

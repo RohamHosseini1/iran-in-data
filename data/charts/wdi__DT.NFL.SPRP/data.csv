@@ -1,0 +1,12 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+ARG,Argentina,2022,123038.999736309,,DT.NFL.SPRP.CD,"Net official flows from UN agencies, SPRP (current US$)",wdi,false
+IRN,Iran,2021,662100.01707077,,DT.NFL.SPRP.CD,"Net official flows from UN agencies, SPRP (current US$)",wdi,false
+IRN,Iran,2022,325628.99589538603,,DT.NFL.SPRP.CD,"Net official flows from UN agencies, SPRP (current US$)",wdi,false
+TUR,Turkey,2021,302899.98650550796,,DT.NFL.SPRP.CD,"Net official flows from UN agencies, SPRP (current US$)",wdi,false
+TUR,Turkey,2022,32960.0013792515,,DT.NFL.SPRP.CD,"Net official flows from UN agencies, SPRP (current US$)",wdi,false
+VEN,Venezuela,2022,47495.000064373,,DT.NFL.SPRP.CD,"Net official flows from UN agencies, SPRP (current US$)",wdi,false
+ARG,Argentina,2022,174415.0557,constant 2015 US$ (computed),DT.NFL.SPRP.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, SPRP (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2021,1421163.7699,constant 2015 US$ (computed),DT.NFL.SPRP.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, SPRP (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2022,581872.8536,constant 2015 US$ (computed),DT.NFL.SPRP.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, SPRP (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2021,457302.5381,constant 2015 US$ (computed),DT.NFL.SPRP.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, SPRP (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2022,53999.3909,constant 2015 US$ (computed),DT.NFL.SPRP.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, SPRP (current US$) (computed real, 2015 US$)",wdi,true

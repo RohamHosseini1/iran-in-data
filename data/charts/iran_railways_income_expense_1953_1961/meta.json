@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_railways_income_expense_1953_1961",
+  "title": "Iranian State Railways — Income & Expense Account",
+  "category": "Infrastructure (Transport) / Government Finance",
+  "sources": "pahlavi-era-primary-extraction:wb1962-railways-income-expense-1953-1961",
+  "n_rows": 24,
+  "year_range": [
+    "1954",
+    "1961"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__ST.INT.XPND.MP",
+  "title": "International tourism, expenditures (% of total imports)",
+  "category": "Tourism & Trade Services",
+  "sources": "wdi",
+  "n_rows": 316,
+  "year_range": [
+    "1995",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/ST.INT.XPND.MP.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

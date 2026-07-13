@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__LP.LPI.CUST",
+  "title": "Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)",
+  "category": "Logistics Performance",
+  "sources": "wdi",
+  "n_rows": 118,
+  "year_range": [
+    "2007",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/LP.LPI.CUST.XQ",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

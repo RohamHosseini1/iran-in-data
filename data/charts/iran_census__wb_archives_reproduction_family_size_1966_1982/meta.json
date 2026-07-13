@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_census__wb_archives_reproduction_family_size_1966_1982",
+  "title": "Gross/Net Reproduction Rate & Completed Family Size, Rural vs. Tehran (1966-1982)",
+  "category": "Health",
+  "sources": "world-bank-archives-iran",
+  "n_rows": 10,
+  "year_range": [
+    "1966",
+    "1982"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank (IBRD), citing Statistical Centre of Iran / Ministry of Interior censuses, Plan Organization, Plan and Budget Organization, Bank Markazi Iran",
+      "source_url": "https://search.worldbank.org/api/v3/wds",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:5tok:census-demographic-citations-1956-1982"
+    }
+  ]
+}

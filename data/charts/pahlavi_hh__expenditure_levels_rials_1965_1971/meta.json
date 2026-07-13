@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi_hh__expenditure_levels_rials_1965_1971",
+  "title": "Household Expenditure Levels, Rials/Month/Household by Category (1965-1971)",
+  "category": "Household Consumption & Expenditure",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 196,
+  "year_range": [
+    "1965",
+    "1971"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Statistical Center of Iran (SCI)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1974-household-expenditure-composition-shares-1965-1971"
+    }
+  ]
+}

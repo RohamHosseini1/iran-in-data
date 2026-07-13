@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SG.GEN.PARL",
+  "title": "Proportion of seats held by women in national parliaments (%)",
+  "category": "Gender",
+  "sources": "wdi",
+  "n_rows": 477,
+  "year_range": [
+    "1997",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SG.GEN.PARL.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

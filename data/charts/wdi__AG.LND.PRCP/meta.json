@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__AG.LND.PRCP",
+  "title": "Average precipitation in depth (mm per year)",
+  "category": "Agriculture & Rural Development",
+  "sources": "wdi",
+  "n_rows": 1022,
+  "year_range": [
+    "1961",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/AG.LND.PRCP.MM",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

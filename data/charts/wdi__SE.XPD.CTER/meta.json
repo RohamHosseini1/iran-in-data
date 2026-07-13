@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__SE.XPD.CTER",
+  "title": "Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 228,
+  "year_range": [
+    "1998",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.XPD.CTER.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

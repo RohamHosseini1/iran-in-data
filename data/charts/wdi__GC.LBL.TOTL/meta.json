@@ -1,0 +1,36 @@
+{
+  "chart_id": "wdi__GC.LBL.TOTL",
+  "title": "Net incurrence of liabilities, total (current LCU)",
+  "category": "Government Finance",
+  "sources": "wdi",
+  "n_rows": 390,
+  "year_range": [
+    "1972",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/GC.LBL.TOTL.CN",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

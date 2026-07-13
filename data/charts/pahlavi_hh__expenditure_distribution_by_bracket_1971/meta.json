@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi_hh__expenditure_distribution_by_bracket_1971",
+  "title": "Households by Monthly Expenditure Bracket, Urban/Rural/Total (1971)",
+  "category": "Household Consumption & Expenditure",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 66,
+  "year_range": [
+    "1971",
+    "1971"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank); 'Mission estimates'",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1974-household-expenditure-distribution-1971"
+    }
+  ]
+}

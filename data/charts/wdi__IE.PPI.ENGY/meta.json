@@ -1,0 +1,32 @@
+{
+  "chart_id": "wdi__IE.PPI.ENGY",
+  "title": "Investment in energy with private participation (current US$)",
+  "category": "Infrastructure (Energy)",
+  "sources": "wdi",
+  "n_rows": 89,
+  "year_range": [
+    "1990",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "RUS",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/IE.PPI.ENGY.CD",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "currency_display": {
+    "has_currency_toggle": true,
+    "default_variant_suffix": ".COMPUTED_REAL_2015USD",
+    "nominal_variant_suffix": ".CD",
+    "note": "Real variant computed by this project (not WDI-native) using each country's own FX rate + CPI, base year 2015. Iran: parallel/black-market rate for 1979-present. Venezuela/Argentina: parallel/black-market rate for their own documented official-vs-parallel divergence eras. All other countries: WDI official PA.NUS.FCRF (no known equivalent divergence). See docs/bookkeeping.md and data/processed/fx_cpi_lookup_<iso3>.json."
+  }
+}

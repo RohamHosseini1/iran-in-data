@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__EG.IMP.CONS",
+  "title": "Energy imports, net (% of energy use)",
+  "category": "Energy",
+  "sources": "wdi",
+  "n_rows": 568,
+  "year_range": [
+    "1990",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/EG.IMP.CONS.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

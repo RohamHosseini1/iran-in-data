@@ -1,0 +1,25 @@
+{
+  "chart_id": "fx__official_vs_parallel_gap_irn",
+  "title": "Iran — Official vs. Parallel (Black-Market) USD Exchange Rate, and the Gap Between Them",
+  "category": "Exchange Rates",
+  "sources": "wdi (PA.NUS.FCRF) + IMF IFS historical (1937-1949) for official; Bahmani-Oskooee (2005) monthly series (1979-2003) + secondary-compiled annual anchors (2004-2010) + TGJU daily data (2011-2026) for parallel",
+  "n_rows": 170,
+  "year_range": [
+    "1937",
+    "2026"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "years_with_both_series_for_gap_calc": 45,
+  "notes": "Pre-1979 (Pahlavi era) the two series are expected to sit very close together (no meaningful parallel market under the pre-revolution convertible economy) -- watch for the gap opening sharply at the 1979 revolution, narrowing to ~0 during the genuinely unified 2002-2010 window, then reopening from ~2010-2011 onward with sanctions escalation. This chart exists specifically to make that story visible.",
+  "citations": [
+    {
+      "source_org": "Multiple (see per-row citations in data.csv); primary sources are Bahmani-Oskooee (2005, Iranian Economic Review, University of Tehran) and World Bank Report No. 22953-IRN (2001), with 2004-2011 annual anchors compiled via Wikipedia's transcription of Central Bank of Iran Annual Review 2013/14 + CIA World Factbook, and one PBS Frontline/Tehran Bureau (2012) narrative figure",
+      "source_url": "https://ier.ut.ac.ir/article_30891.html ; https://documents1.worldbank.org/curated/en/122611468752357210/pdf/multi0page.pdf ; https://en.wikipedia.org/wiki/Iranian_rial ; https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/10/business-the-rials-freefall-a-historical-perspective.html",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-parallel-fx-1979-2010-research"
+    }
+  ]
+}

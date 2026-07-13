@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__EN.POP.EL5M",
+  "title": "Population living in areas where elevation is below 5 meters (% of total population)",
+  "category": "Environment",
+  "sources": "wdi",
+  "n_rows": 51,
+  "year_range": [
+    "1990",
+    "2015"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/EN.POP.EL5M.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "chart_id": "faostat__Sugar Crops__consumption",
+  "title": "Sugar Crops — Per-Capita Food Consumption",
+  "category": "Food Consumption",
+  "sources": "faostat-fbs+fbsh",
+  "n_rows": 1568,
+  "year_range": [
+    "1961",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "IRN",
+    "KOR",
+    "RUS",
+    "SAU",
+    "SWE",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

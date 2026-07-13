@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_institutions__opec_quota_policy_history_1960_2025",
+  "title": "OPEC Membership, Quota System & Production Policy Milestones for Iran (1960-2025)",
+  "category": "Trade Institutions & Policy History",
+  "sources": "iran-opec-membership",
+  "n_rows": 18,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Multiple (Wikipedia, MERIP, Oil & Gas Journal, EIA, Stimson Center, AGSI, RUSI, GIS Reports, PressTV) -- citation-preserving compilation, not a single bulk dataset",
+      "source_url": "https://en.wikipedia.org/wiki/OPEC ; https://www.merip.org/1992/05/opec-since-the-gulf-war/ ; https://www.ogj.com/drilling-production/production-operations/article/17239967/opecs-challenge-rethinking-its-quota-system ; https://www.eia.gov/international/content/analysis/countries_long/iran/ ; https://www.stimson.org/2025/irans-oil-exports-resilience-amid-sanctions-and-snapback/",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:5tok:opec-quota-policy-history-1960-2025"
+    }
+  ]
+}

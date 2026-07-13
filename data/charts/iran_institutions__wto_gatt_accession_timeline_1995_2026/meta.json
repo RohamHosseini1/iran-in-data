@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_institutions__wto_gatt_accession_timeline_1995_2026",
+  "title": "WTO/GATT Accession Timeline for Iran: Still Incomplete After 3 Decades (1995-2026)",
+  "category": "Trade Institutions & Policy History",
+  "sources": "iran-wto-gatt-accession",
+  "n_rows": 11,
+  "year_range": [
+    "1995",
+    "2026"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Trade Organization (official) + Wikipedia + USTR + IRFA Journal (academic legal analysis) -- citation-preserving compilation",
+      "source_url": "https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm ; https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization ; https://ustr.gov/trade-agreements/wto-multilateral-affairs/wto-accessions/other-accessions ; https://irfajournal.csr.ir/article_123379.html",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:wto-accession-timeline-1996-2025"
+    }
+  ]
+}

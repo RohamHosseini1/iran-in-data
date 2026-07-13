@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__NY.ADJ.DPEM.GN",
+  "title": "Adjusted savings: particulate emission damage (% of GNI)",
+  "category": "Macro / National Accounts",
+  "sources": "wdi",
+  "n_rows": 493,
+  "year_range": [
+    "1990",
+    "2021"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NY.ADJ.DPEM.GN.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

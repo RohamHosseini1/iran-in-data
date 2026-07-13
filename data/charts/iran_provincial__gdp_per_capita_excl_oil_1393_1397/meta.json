@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_provincial__gdp_per_capita_excl_oil_1393_1397",
+  "title": "Non-Oil GDP Per Capita by Province",
+  "category": "Macro / National Accounts",
+  "sources": "sci-provincial-standing-indicators",
+  "n_rows": 160,
+  "year_range": [
+    "2014",
+    "2018"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+      "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

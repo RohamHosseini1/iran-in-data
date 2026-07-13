@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__BG.GSR.NFSV.GD",
+  "title": "Trade in services (% of GDP)",
+  "category": "Balance of Payments (misc)",
+  "sources": "wdi",
+  "n_rows": 839,
+  "year_range": [
+    "1967",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/BG.GSR.NFSV.GD.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

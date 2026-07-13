@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_automotive_national_vehicle_production_1970_2018",
+  "title": "National Motor Vehicle Production (incl. Paykan/Iran Khodro Milestones)",
+  "category": "Industry / Automotive",
+  "sources": "iran-automotive-industry:khodro-paykan-production-history",
+  "n_rows": 7,
+  "year_range": [
+    "1967",
+    "2005"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Wikipedia (Paykan; Automotive industry in Iran articles) cross-referenced with World Bank Archives primary source",
+      "source_url": "https://en.wikipedia.org/wiki/Paykan ; https://en.wikipedia.org/wiki/Automotive_industry_in_Iran",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

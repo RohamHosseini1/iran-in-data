@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SP.POP.6569.MA",
+  "title": "Population ages 65-69, male (% of male population)",
+  "category": "Demographics & Population",
+  "sources": "wdi",
+  "n_rows": 1122,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.POP.6569.MA.5Y",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

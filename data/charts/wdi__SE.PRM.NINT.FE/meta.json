@@ -1,0 +1,32 @@
+{
+  "chart_id": "wdi__SE.PRM.NINT.FE",
+  "title": "Net intake rate in grade 1, female (% of official school-age population)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 99,
+  "year_range": [
+    "1998",
+    "2018"
+  ],
+  "countries": [
+    "ESP",
+    "GBR",
+    "GRC",
+    "IRN",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.PRM.NINT.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

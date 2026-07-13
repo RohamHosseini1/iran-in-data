@@ -1,0 +1,15 @@
+{
+  "chart_id": "iran_gypsum_production_1968_1980",
+  "title": "Gypsum Production",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Gypsum)",
+  "n_rows": 11,
+  "year_range": [
+    "1968",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": []
+}

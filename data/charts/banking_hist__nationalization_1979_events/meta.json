@@ -1,0 +1,23 @@
+{
+  "chart_id": "banking_hist__nationalization_1979_events",
+  "title": "1979 Bank Nationalization & Consolidation Event Log",
+  "category": "Financial Sector (Banking Access)",
+  "sources": "iran-banking-history",
+  "n_rows": 16,
+  "year_range": [
+    "1979",
+    "1984"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Encyclopaedia Iranica (Potkin A. Basseer)",
+      "source_url": "https://www.iranicaonline.org/articles/banking-in-iran/banking-i-history-of-banking-in-iran/",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:banking-i-history-of-banking-in-iran"
+    }
+  ]
+}

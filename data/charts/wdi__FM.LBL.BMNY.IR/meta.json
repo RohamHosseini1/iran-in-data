@@ -1,0 +1,31 @@
+{
+  "chart_id": "wdi__FM.LBL.BMNY.IR",
+  "title": "Broad money to total reserves ratio",
+  "category": "Financial Sector (Monetary)",
+  "sources": "wdi",
+  "n_rows": 548,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "GBR",
+    "IRN",
+    "KOR",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/FM.LBL.BMNY.IR.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

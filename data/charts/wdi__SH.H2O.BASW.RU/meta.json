@@ -1,0 +1,35 @@
+{
+  "chart_id": "wdi__SH.H2O.BASW.RU",
+  "title": "People using at least basic drinking water services, rural (% of rural population)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 337,
+  "year_range": [
+    "2000",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.H2O.BASW.RU.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

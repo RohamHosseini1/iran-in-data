@@ -1,0 +1,22 @@
+{
+  "chart_id": "ussr_russia_imperial_population_by_region_1858_1910",
+  "title": "Imperial Russia Population by Region (Tsarist-era official statistics)",
+  "category": "Demographics & Population",
+  "sources": "ussr-russia-historical:imperial-russia-statistical-yearbook",
+  "n_rows": 32,
+  "year_range": [
+    "1858",
+    "1897"
+  ],
+  "countries": [
+    "RUS"
+  ],
+  "citations": [
+    {
+      "source_org": "Central Statistical Committee of the Ministry of Internal Affairs, Imperial Russia (digitized copies hosted by Internet Archive)",
+      "source_url": "https://archive.org/details/StatisticalYearbookOfRussia",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

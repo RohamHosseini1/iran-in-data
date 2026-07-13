@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__oil_revenue_distribution_pct_1957_59",
+  "title": "Oil Revenue Distribution by Recipient (% share), 1957-1959",
+  "category": "Government Finance",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 9,
+  "year_range": [
+    "1957",
+    "1959"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "US Bureau of Mines Information Circular 8203 (1963), unlabeled table (p.19)",
+      "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:usbm1963-oil-revenue-distribution-1957-1959"
+    }
+  ]
+}

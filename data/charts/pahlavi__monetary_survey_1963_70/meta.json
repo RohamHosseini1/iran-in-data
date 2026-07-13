@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__monetary_survey_1963_70",
+  "title": "Consolidated Banking-System Balance Sheet, Year-End Stock Levels (FY1963/64-1969/70)",
+  "category": "Financial Sector (Monetary)",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 408,
+  "year_range": [
+    "1964",
+    "1970"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank), data sourced by the Bank from Bank Markazi Iran",
+      "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:wb1971-monetary-survey-1963-1970"
+    }
+  ]
+}

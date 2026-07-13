@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_textile_sector_capacity_employment_1923_2002",
+  "title": "Textile Sector Capacity, Employment & Cotton Production",
+  "category": "Industry / Textiles",
+  "sources": "iran-textile-industry:pahlavi-era-textile-sector-overview",
+  "n_rows": 29,
+  "year_range": [
+    "1931",
+    "2002"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Encyclopaedia Iranica ('Textile Industry in Iran' article), retrieved via a legitimate reproducing mirror since iranicaonline.org itself returns HTTP 403 to direct fetch (a longstanding, previously-documented pattern in this project); cross-referenced with World Bank Archives primary source for the 1972 price-competitiveness data point",
+      "source_url": "https://www.iranicaonline.org/articles/textile-industry-in-iran/ (canonical, blocked to direct fetch) ; https://iranyarn.ir/en/articles/261-textile-industry-in-iran/ (working mirror used for retrieval)",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

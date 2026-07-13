@@ -1,0 +1,27 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+IRN,Iran,2021,14063.9999881387,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2011,140000.000596046,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2012,90000.0035762787,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2013,168614.000082016,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2015,221852.00452804597,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2016,3058984.9948883103,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2017,69890.9983038902,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2018,1750265.9559249901,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2019,3357.99995809793,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2020,70655.0031900406,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2021,63072.003424167604,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+TUR,Turkey,2023,111374.996602535,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+VEN,Venezuela,2019,55971.998721361204,,DC.DAC.ESTL.CD,"Net bilateral aid flows from DAC donors, Estonia (current US$)",wdi,false
+IRN,Iran,2021,30187.6555,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2011,118271.5908,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2012,74869.3744,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2013,138319.1385,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2015,221852.0045,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2016,3151482.1074,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2017,78255.6654,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2018,2229603.3705,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2019,4364.2951,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2020,101026.214,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2021,95222.808,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2023,170118.5509,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2019,96842.9136,constant 2015 US$ (computed),DC.DAC.ESTL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Estonia (current US$) (computed real, 2015 US$)",wdi,true

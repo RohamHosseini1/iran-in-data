@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_sar_cheshmeh_copper_project_narrative_1965_2022",
+  "title": "Sar Cheshmeh Copper Project — Development Narrative & Modern Production",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs-minerals-yearbook (narrative) + imidro-iran (modern production)",
+  "n_rows": 51,
+  "year_range": [
+    "1965",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:2tok:wb1971-gas-production-consumption-1965-1969"
+    }
+  ]
+}

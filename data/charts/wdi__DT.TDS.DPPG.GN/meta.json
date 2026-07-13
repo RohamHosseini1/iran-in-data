@@ -1,0 +1,25 @@
+{
+  "chart_id": "wdi__DT.TDS.DPPG.GN",
+  "title": "Public and publicly guaranteed debt service (% of GNI)",
+  "category": "External Debt",
+  "sources": "wdi",
+  "n_rows": 188,
+  "year_range": [
+    "1970",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "RUS",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/DT.TDS.DPPG.GN.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

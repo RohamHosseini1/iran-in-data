@@ -1,0 +1,22 @@
+{
+  "chart_id": "portugal_comparator__investment_fbcf_1953_2020",
+  "title": "Portugal — Gross Fixed Capital Formation by Asset Type (INE/BdP long series)",
+  "category": "Comparator: Investment",
+  "sources": "ine-portugal:slep2020",
+  "n_rows": 680,
+  "year_range": [
+    "1953",
+    "2020"
+  ],
+  "countries": [
+    "PRT"
+  ],
+  "citations": [
+    {
+      "source_org": "Instituto Nacional de Estatística (INE), Portugal — joint publication with Banco de Portugal",
+      "source_url": "https://www.ine.pt/xurl/pub/536285836",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

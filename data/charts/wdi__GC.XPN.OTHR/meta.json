@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__GC.XPN.OTHR",
+  "title": "Other expense (current LCU)",
+  "category": "Government Finance",
+  "sources": "wdi",
+  "n_rows": 915,
+  "year_range": [
+    "1970",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/GC.XPN.OTHR.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

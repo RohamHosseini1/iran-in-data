@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__TX.VAL.MRCH.WR",
+  "title": "Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)",
+  "category": "Trade (Exports)",
+  "sources": "wdi",
+  "n_rows": 956,
+  "year_range": [
+    "1960",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/TX.VAL.MRCH.WR.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

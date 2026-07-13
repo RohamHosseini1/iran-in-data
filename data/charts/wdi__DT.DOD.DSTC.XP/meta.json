@@ -1,0 +1,25 @@
+{
+  "chart_id": "wdi__DT.DOD.DSTC.XP",
+  "title": "Short-term debt (% of exports of goods, services and primary income)",
+  "category": "External Debt",
+  "sources": "wdi",
+  "n_rows": 150,
+  "year_range": [
+    "1974",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "RUS",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/DT.DOD.DSTC.XP.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

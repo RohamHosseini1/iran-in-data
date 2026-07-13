@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__LP.IMP.DURS",
+  "title": "Lead time to import, median case (days)",
+  "category": "Logistics Performance",
+  "sources": "wdi",
+  "n_rows": 89,
+  "year_range": [
+    "2007",
+    "2018"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/LP.IMP.DURS.MD",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

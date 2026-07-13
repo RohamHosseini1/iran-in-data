@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__oil_exports_revenues_by_company_1963_71",
+  "title": "Oil Export Volume & Revenue by Paying Company, 1963/64-1970/71",
+  "category": "Energy",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 80,
+  "year_range": [
+    "1964",
+    "1971"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:5tok:wb1971-oil-exports-and-revenues-1963-1971"
+    }
+  ]
+}

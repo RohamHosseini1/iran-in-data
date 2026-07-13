@@ -1,0 +1,23 @@
+{
+  "chart_id": "wdi__NV.FSM.TOTL",
+  "title": "Financial intermediary services indirectly Measured (FISIM) (current LCU)",
+  "category": "Industry / Value Added by Sector",
+  "sources": "wdi",
+  "n_rows": 62,
+  "year_range": [
+    "1960",
+    "2010"
+  ],
+  "countries": [
+    "ARG",
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NV.FSM.TOTL.CN",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

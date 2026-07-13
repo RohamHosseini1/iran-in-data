@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_trade__cites_caviar_quota_trade_timeline_1998_2006",
+  "title": "CITES Caviar Export Quota & Trade Timeline (1998-2006)",
+  "category": "Trade Institutions & Policy History",
+  "sources": "cites-caviar",
+  "n_rows": 10,
+  "year_range": [
+    "1998",
+    "2006"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Multiple (CITES Secretariat via UN press mirrors, CITES Animals Committee documents, academic literature) -- citation-preserving compilation",
+      "source_url": "https://press.un.org/en/2003/eco36.doc.htm ; https://cites.org/sites/default/files/eng/com/ac/16/16-7-2a3.pdf ; https://caspianmonarque.com/caviar-from-iran/",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:cites-quota-trade-timeline-1998-2006-retry"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chart_id": "owid__mean_years_schooling_long_run",
+  "title": "Average Years of Schooling (long-run)",
+  "category": "Education",
+  "sources": "owid",
+  "n_rows": 498,
+  "year_range": [
+    "1870",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

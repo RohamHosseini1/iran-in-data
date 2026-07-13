@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__ocean_trade_tonnage_1950_60",
+  "title": "Ocean-Borne Trade Tonnage, Excl. Petroleum, 1950/51-1959/60",
+  "category": "Trade (Goods)",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 30,
+  "year_range": [
+    "1951",
+    "1960"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:wb1962-ocean-trade-1950-1960"
+    }
+  ]
+}

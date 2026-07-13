@@ -1,0 +1,67 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+ARG,Argentina,2007,9999.99977648258,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2009,9999.99977648258,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2014,14914.0004068613,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2015,4393.99993047118,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2016,6415.00018537045,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2017,17371.000722050703,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2018,56177.0014464855,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2019,9514.99957591295,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2020,6963.00016716123,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2021,4600.00010207295,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2022,5594.99999508262,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2023,51686.9984567165,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+IRN,Iran,2019,766.00001193583,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+IRN,Iran,2020,16706.9993913174,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+IRN,Iran,2021,23369.999602436998,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+IRN,Iran,2022,52813.0009770393,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+IRN,Iran,2023,13860.0002974272,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2006,9999.99977648258,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2011,19999.9995529652,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2015,13973.9997684956,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2016,1679949.04518127,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2017,15703.0001282692,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2018,1374529.9577712999,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2019,938129.007816315,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2020,925104.975700378,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2021,627016.007900238,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2022,560878.992080688,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+TUR,Turkey,2023,1514423.96640778,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+VEN,Venezuela,2014,1499.0000054240202,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+VEN,Venezuela,2018,1749.00004640222,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+VEN,Venezuela,2019,113603.00332307801,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+VEN,Venezuela,2020,3297.99996688962,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+VEN,Venezuela,2021,62620.997428894,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+VEN,Venezuela,2022,789.000012446195,,DC.DAC.LTUL.CD,"Net bilateral aid flows from DAC donors, Lithuania (current US$)",wdi,false
+ARG,Argentina,2007,13201.6147,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2009,10887.8643,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2014,16747.0954,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2015,4393.9999,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2016,5066.3746,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2017,12585.9885,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2018,50021.1773,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2019,9896.6071,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2020,12119.4038,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2021,7558.6611,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2022,7931.2432,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2023,76595.99,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2019,1485.416,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2020,41276.1124,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2021,50162.507,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2022,94372.5896,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2023,27502.6581,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2006,10628.5861,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2011,16895.9411,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2015,13973.9998,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2016,1730747.0831,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2017,17582.3605,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2018,1750966.2553,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2019,1219259.0377,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2020,1322763.414,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2021,946635.9347,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2022,918905.4209,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2023,2313190.7386,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2014,738.5966,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2018,3044.0258,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2019,196556.2439,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2020,12766.2973,constant 2015 US$ (computed),DC.DAC.LTUL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Lithuania (current US$) (computed real, 2015 US$)",wdi,true

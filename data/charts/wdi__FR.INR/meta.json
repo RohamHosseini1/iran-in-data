@@ -1,0 +1,33 @@
+{
+  "chart_id": "wdi__FR.INR",
+  "title": "Real interest rate (%)",
+  "category": "Financial Sector (Interest Rates)",
+  "sources": "wdi",
+  "n_rows": 1075,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "FRA",
+    "GBR",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "RUS",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/FR.INR.RINR",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

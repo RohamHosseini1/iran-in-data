@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_sci1399__government_budget_summary_1385_1400",
+  "title": "Total Country Budget: Resources & Uses Breakdown (SH1385-1400)",
+  "category": "Government Finance",
+  "sources": "sci-amar",
+  "n_rows": 224,
+  "year_range": [
+    "2006",
+    "2021"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://search.worldbank.org/api/v3/wds (World Bank Documents & Reports API)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:2tok:wb1971-government-revenue-summary-1962-1972"
+    }
+  ]
+}

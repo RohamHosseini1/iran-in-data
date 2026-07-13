@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_vehicle_registration_by_type_1955_1972",
+  "title": "Road Vehicle Registration by Type (Cars, Buses, Trucks, Motorcycles)",
+  "category": "Infrastructure (Transport)",
+  "sources": "pahlavi-era-primary-extraction:wb1962-road-vehicle-registration-1955-1961",
+  "n_rows": 98,
+  "year_range": [
+    "1956",
+    "1972"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

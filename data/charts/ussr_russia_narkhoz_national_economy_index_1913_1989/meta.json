@@ -1,0 +1,22 @@
+{
+  "chart_id": "ussr_russia_narkhoz_national_economy_index_1913_1989",
+  "title": "USSR Official National-Economy Development Indices (Narodnoe khozyaistvo SSSR, multiple bases)",
+  "category": "Macro / National Accounts",
+  "sources": "ussr-russia-historical:narodnoe-khozyaistvo-yearbooks",
+  "n_rows": 652,
+  "year_range": [
+    "1913",
+    "1989"
+  ],
+  "countries": [
+    "SUN"
+  ],
+  "citations": [
+    {
+      "source_org": "TsSU SSSR / Goskomstat SSSR (official Soviet state statistics agency), digitized copies hosted by Internet Archive",
+      "source_url": "https://archive.org/details/nar_khoz_1932 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1956 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1965 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1975 ; https://archive.org/details/narodnoe-khoziaistvo-sssr_1989",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

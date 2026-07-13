@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__FB.CBK.BRCH",
+  "title": "Commercial bank branches (per 100,000 adults)",
+  "category": "Financial Sector (Banking Access)",
+  "sources": "wdi",
+  "n_rows": 327,
+  "year_range": [
+    "2004",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/FB.CBK.BRCH.P5",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
+IRN,Iran,2024,1.92,USD_cents_per_GT,entrance_dues_commercial_non_tanker,Entrance dues — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,3.19,USD_cents_per_ton,loading_discharge_dues_at_berth_commercial_non_tanker,Loading_discharge_dues_at_berth — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,3.83,USD_cents_per_GT,light_dues_commercial_non_tanker,Light dues — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,3,USD_cents_per_GT,ship_clearance_group_charges_foreign_entry_commercial_non_tanker,Ship_clearance_group_charges_foreign_entry — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,19.16,USD_cents_per_GT,pilotage_charges_round_trip_commercial_non_tanker,Pilotage_charges_round_trip — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,19.9,USD_cents_per_GT,dredging_and_channel_safety_dues_commercial_non_tanker,Dredging_and_channel_safety_dues — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,38.34,USD_cents_per_GT,tug_operation_charges_commercial_non_tanker,Tug_operation_charges — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,12.82,USD_cents_per_GT,marine_safety_and_protection_commercial_non_tanker,Marine_safety_and_protection — commercial_non_tanker,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,16,USD_cents_per_GT,entrance_dues_oil_tanker_and_sts,Entrance dues — oil_tanker_and_STS,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,24,USD_cents_per_ton,loading_discharge_dues_at_berth_oil_tanker_and_sts,Loading_discharge_dues_at_berth — oil_tanker_and_STS,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,4,USD_cents_per_GT,light_dues_oil_tanker_and_sts,Light dues — oil_tanker_and_STS,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,40,USD_cents_per_GT,pilotage_charges_per_trip_oil_tanker_and_sts,Pilotage_charges_per_trip — oil_tanker_and_STS,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,41,USD_cents_per_GT,dredging_and_channel_safety_dues_oil_tanker_and_sts,Dredging_and_channel_safety_dues — oil_tanker_and_STS,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,0.45,USD_cents_per_GT_per_hour,wharfage_dues_oil_tanker_and_sts,Wharfage_dues — oil_tanker_and_STS,iran-ports-maritime-org:port-dues-tariff-2024
+IRN,Iran,2024,3,USD_cents_per_GT,ship_clearance_group_charges_foreign_entry_oil_tanker_and_sts,Ship_clearance_group_charges_foreign_entry — oil_tanker_and_STS,iran-ports-maritime-org:port-dues-tariff-2024

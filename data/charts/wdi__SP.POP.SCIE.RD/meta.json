@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SP.POP.SCIE.RD",
+  "title": "Researchers in R&D (per million people)",
+  "category": "Demographics & Population",
+  "sources": "wdi",
+  "n_rows": 412,
+  "year_range": [
+    "1996",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.POP.SCIE.RD.P6",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

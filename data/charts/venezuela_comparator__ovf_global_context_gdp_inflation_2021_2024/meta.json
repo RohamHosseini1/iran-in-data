@@ -1,0 +1,22 @@
+{
+  "chart_id": "venezuela_comparator__ovf_global_context_gdp_inflation_2021_2024",
+  "title": "Venezuela in Global/Regional Context — IMF GDP Growth & Inflation Projections, 2021-2024 (via OVF/IIES-UCAB)",
+  "category": "Comparator: Macro / National Accounts",
+  "sources": "ovf-venezuela:imf-via-ovf",
+  "n_rows": 141,
+  "year_range": [
+    "2021",
+    "2024"
+  ],
+  "countries": [
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "Observatorio Venezolano de Finanzas (OVF)",
+      "source_url": "https://observatoriodefinanzas.com/documentos-tecnicos/",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

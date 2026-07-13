@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__NV.MNF.MTRN.ZS",
+  "title": "Machinery and transport equipment (% of value added in manufacturing)",
+  "category": "Industry / Value Added by Sector",
+  "sources": "wdi",
+  "n_rows": 868,
+  "year_range": [
+    "1963",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NV.MNF.MTRN.ZS.UN",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

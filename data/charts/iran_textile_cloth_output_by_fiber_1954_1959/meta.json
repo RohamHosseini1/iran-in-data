@@ -1,0 +1,22 @@
+{
+  "chart_id": "iran_textile_cloth_output_by_fiber_1954_1959",
+  "title": "Textile Cloth Output by Fiber Type (Cotton, Woolen, Jute, Silk)",
+  "category": "Industry / Light Manufacturing",
+  "sources": "pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959",
+  "n_rows": 20,
+  "year_range": [
+    "1955",
+    "1959"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

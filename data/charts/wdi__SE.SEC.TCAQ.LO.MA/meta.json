@@ -1,0 +1,28 @@
+{
+  "chart_id": "wdi__SE.SEC.TCAQ.LO.MA",
+  "title": "Trained teachers in lower secondary education, male (% of male teachers)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 79,
+  "year_range": [
+    "2000",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "KOR",
+    "PRT",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.SEC.TCAQ.LO.MA.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

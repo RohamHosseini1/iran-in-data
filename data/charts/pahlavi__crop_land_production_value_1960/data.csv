@@ -1,0 +1,89 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed,notes
+IRN,Iran,1960,3663,1000 ha,wheat_area_harvested,Wheat — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,2590,1000 metric tons,wheat_production,Wheat — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,16969,Rls million,wheat_gross_value,Wheat — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,224.0132,current US$ (computed),wheat_gross_value.USD_NOMINAL,"Wheat — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,1026.6025,constant 2015 US$ (computed),wheat_gross_value.USD_REAL_2015,"Wheat — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,1071,1000 ha,barley_area_harvested,Barley — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,684,1000 metric tons,barley_production,Barley — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,2950,Rls million,barley_gross_value,Barley — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,38.9439,current US$ (computed),barley_gross_value.USD_NOMINAL,"Barley — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,178.4712,constant 2015 US$ (computed),barley_gross_value.USD_REAL_2015,"Barley — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,313,1000 ha,rice_paddy_area_harvested,Rice Paddy — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,651,1000 metric tons,rice_paddy_production,Rice Paddy — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,10947,Rls million,rice_paddy_gross_value,Rice Paddy — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,144.5149,current US$ (computed),rice_paddy_gross_value.USD_NOMINAL,"Rice Paddy — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,662.2793,constant 2015 US$ (computed),rice_paddy_gross_value.USD_REAL_2015,"Rice Paddy — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,45,1000 ha,other_cereals_area_harvested,Other cereals — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,37,1000 metric tons,other_cereals_production,Other cereals — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,124,Rls million,other_cereals_gross_value,Other cereals — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,1.637,current US$ (computed),other_cereals_gross_value.USD_NOMINAL,"Other cereals — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,7.5018,constant 2015 US$ (computed),other_cereals_gross_value.USD_REAL_2015,"Other cereals — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,5092,1000 ha,total_for_cereals_area_harvested,Total for cereals — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,3962,1000 metric tons,total_for_cereals_production,Total for cereals — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,30990,Rls million,total_for_cereals_gross_value,Total for cereals — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,409.1089,current US$ (computed),total_for_cereals_gross_value.USD_NOMINAL,"Total for cereals — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,1874.8548,constant 2015 US$ (computed),total_for_cereals_gross_value.USD_REAL_2015,"Total for cereals — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,122,1000 ha,vegetables_area_harvested,Vegetables — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,561,1000 metric tons,vegetables_production,Vegetables — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,2245,Rls million,vegetables_gross_value,Vegetables — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,29.637,current US$ (computed),vegetables_gross_value.USD_NOMINAL,"Vegetables — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,135.8196,constant 2015 US$ (computed),vegetables_gross_value.USD_REAL_2015,"Vegetables — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,16,1000 ha,potatoes_area_harvested,Potatoes — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,89,1000 metric tons,potatoes_production,Potatoes — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,732,Rls million,potatoes_gross_value,Potatoes — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,9.6634,current US$ (computed),potatoes_gross_value.USD_NOMINAL,"Potatoes — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,44.285,constant 2015 US$ (computed),potatoes_gross_value.USD_REAL_2015,"Potatoes — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,123,1000 ha,pulses_area_harvested,Pulses — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,64,1000 metric tons,pulses_production,Pulses — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,1142,Rls million,pulses_gross_value,Pulses — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,15.0759,current US$ (computed),pulses_gross_value.USD_NOMINAL,"Pulses — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,69.0895,constant 2015 US$ (computed),pulses_gross_value.USD_REAL_2015,"Pulses — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,284,1000 ha,cotton_area_harvested,Cotton — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,298,1000 metric tons,cotton_production,Cotton — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,3874,Rls million,cotton_gross_value,Cotton — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,51.1419,current US$ (computed),cotton_gross_value.USD_NOMINAL,"Cotton — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,234.372,constant 2015 US$ (computed),cotton_gross_value.USD_REAL_2015,"Cotton — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,7,1000 ha,other_textiles_area_harvested,Other textiles — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,6,1000 metric tons,other_textiles_production,Other textiles — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,57,Rls million,other_textiles_gross_value,Other textiles — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,0.7525,current US$ (computed),other_textiles_gross_value.USD_NOMINAL,"Other textiles — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,3.4484,constant 2015 US$ (computed),other_textiles_gross_value.USD_REAL_2015,"Other textiles — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,40,1000 ha,sugar_beet_area_harvested,Sugar beet — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,588,1000 metric tons,sugar_beet_production,Sugar beet — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,482,Rls million,sugar_beet_gross_value,Sugar beet — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,6.363,current US$ (computed),sugar_beet_gross_value.USD_NOMINAL,"Sugar beet — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,29.1604,constant 2015 US$ (computed),sugar_beet_gross_value.USD_REAL_2015,"Sugar beet — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,28,1000 ha,tobacco_area_harvested,Tobacco — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,11,1000 metric tons,tobacco_production,Tobacco — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,419,Rls million,tobacco_gross_value,Tobacco — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,5.5314,current US$ (computed),tobacco_gross_value.USD_NOMINAL,"Tobacco — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,25.349,constant 2015 US$ (computed),tobacco_gross_value.USD_REAL_2015,"Tobacco — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,45,1000 ha,oilseeds_area_harvested,Oilseeds — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,7,1000 metric tons,oilseeds_production,Oilseeds — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,72,Rls million,oilseeds_gross_value,Oilseeds — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,0.9505,current US$ (computed),oilseeds_gross_value.USD_NOMINAL,"Oilseeds — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,4.3559,constant 2015 US$ (computed),oilseeds_gross_value.USD_REAL_2015,"Oilseeds — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,20,1000 ha,tea_area_harvested,Tea — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,9,1000 metric tons,tea_production,Tea — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,909,Rls million,tea_gross_value,Tea — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,12.0,current US$ (computed),tea_gross_value.USD_NOMINAL,"Tea — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,54.9933,constant 2015 US$ (computed),tea_gross_value.USD_REAL_2015,"Tea — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,930,1000 ha,tree_crops_area_harvested,Tree crops — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,978,1000 metric tons,tree_crops_production,Tree crops — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,10044,Rls million,tree_crops_gross_value,Tree crops — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,132.5941,current US$ (computed),tree_crops_gross_value.USD_NOMINAL,"Tree crops — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,607.649,constant 2015 US$ (computed),tree_crops_gross_value.USD_REAL_2015,"Tree crops — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,55,1000 ha,others_area_harvested,Others — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,9,1000 metric tons,others_production,Others — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,531,Rls million,others_gross_value,Others — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,7.0099,current US$ (computed),others_gross_value.USD_NOMINAL,"Others — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,32.1248,constant 2015 US$ (computed),others_gross_value.USD_REAL_2015,"Others — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,148,1000 ha,fodder_area_harvested,Fodder — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,,1000 metric tons,fodder_production,Fodder — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,,Rls million,fodder_gross_value,Fodder — Gross Value,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,6910,1000 ha,total_area_harvested,Total — Area Harvested,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,6582,1000 metric tons,total_production,Total — Production,wb1962-agriculturetable1-crop-land-production-value,,
+IRN,Iran,1960,51497,Rls million,total_gross_value,Total — Gross Value,wb1962-agriculturetable1-crop-land-production-value,false,
+IRN,Iran,1960,679.8284,current US$ (computed),total_gross_value.USD_NOMINAL,"Total — Gross Value (computed, nominal US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"
+IRN,Iran,1960,3115.5016,constant 2015 US$ (computed),total_gross_value.USD_REAL_2015,"Total — Gross Value (computed, real 2015 US$)",wb1962-agriculturetable1-crop-land-production-value,true,"computed via IRN official FX rate + CPI, base year 2015 (FX_1960=75.75000007575, rebased CPI_1960=0.0491)"

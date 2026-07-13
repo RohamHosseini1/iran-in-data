@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SP.REG.DTHS",
+  "title": "Completeness of death registration with cause-of-death information (%)",
+  "category": "Demographics & Population",
+  "sources": "wdi",
+  "n_rows": 92,
+  "year_range": [
+    "1992",
+    "2016"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.REG.DTHS.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

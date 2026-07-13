@@ -1,0 +1,27 @@
+{
+  "chart_id": "wdi__DT.ODA.ODAT.MP",
+  "title": "Net ODA received (% of imports of goods, services and primary income)",
+  "category": "External Debt",
+  "sources": "wdi",
+  "n_rows": 231,
+  "year_range": [
+    "1970",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "KOR",
+    "SAU",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/DT.ODA.ODAT.MP.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

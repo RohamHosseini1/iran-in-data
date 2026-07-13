@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__SH.PRV.SMOK",
+  "title": "Prevalence of current tobacco use, males (% of male adults)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 288,
+  "year_range": [
+    "2000",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.PRV.SMOK.MA",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

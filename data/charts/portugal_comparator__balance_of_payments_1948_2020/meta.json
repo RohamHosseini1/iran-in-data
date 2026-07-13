@@ -1,0 +1,22 @@
+{
+  "chart_id": "portugal_comparator__balance_of_payments_1948_2020",
+  "title": "Portugal — Balance of Payments Summary (INE/BdP long series)",
+  "category": "Comparator: Balance of Payments",
+  "sources": "ine-portugal:slep2020",
+  "n_rows": 365,
+  "year_range": [
+    "1948",
+    "2020"
+  ],
+  "countries": [
+    "PRT"
+  ],
+  "citations": [
+    {
+      "source_org": "Instituto Nacional de Estatística (INE), Portugal — joint publication with Banco de Portugal",
+      "source_url": "https://www.ine.pt/xurl/pub/536285836",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ]
+}

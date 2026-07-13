@@ -1,0 +1,155 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,original_period_label
+IRN,Iran,1956,6.4,magnitude,iran_bastak_eqmagnitude,IRAN:  BASTAK — eqMagnitude,NOAA NCEI Significant Earthquake Database,1956-10-31
+IRN,Iran,1956,410,persons,iran_bastak_deaths,IRAN:  BASTAK — deaths,NOAA NCEI Significant Earthquake Database,1956-10-31
+IRN,Iran,1956,2.8,million USD,iran_bastak_damagemillionsdollars,IRAN:  BASTAK — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1956-10-31
+IRN,Iran,1960,5.9,magnitude,iran_lar_eqmagnitude,IRAN:  LAR — eqMagnitude,NOAA NCEI Significant Earthquake Database,1960-4-24
+IRN,Iran,1960,420,persons,iran_lar_deaths,IRAN:  LAR — deaths,NOAA NCEI Significant Earthquake Database,1960-4-24
+IRN,Iran,1960,3000,persons,iran_lar_injuries,IRAN:  LAR — injuries,NOAA NCEI Significant Earthquake Database,1960-4-24
+IRN,Iran,1960,20,million USD,iran_lar_damagemillionsdollars,IRAN:  LAR — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1960-4-24
+IRN,Iran,1962,7.2,magnitude,iran_buyin_zara_eqmagnitude,IRAN:   BUYIN-ZARA — eqMagnitude,NOAA NCEI Significant Earthquake Database,1962-9-1
+IRN,Iran,1962,12225,persons,iran_buyin_zara_deaths,IRAN:   BUYIN-ZARA — deaths,NOAA NCEI Significant Earthquake Database,1962-9-1
+IRN,Iran,1962,2776,persons,iran_buyin_zara_injuries,IRAN:   BUYIN-ZARA — injuries,NOAA NCEI Significant Earthquake Database,1962-9-1
+IRN,Iran,1962,21310,houses,iran_buyin_zara_housesdestroyed,IRAN:   BUYIN-ZARA — housesDestroyed,NOAA NCEI Significant Earthquake Database,1962-9-1
+IRN,Iran,1962,30,million USD,iran_buyin_zara_damagemillionsdollars,IRAN:   BUYIN-ZARA — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1962-9-1
+IRN,Iran,1968,5.6,magnitude,iran_maku_shah_bandalu_qurta_bolagh_qondeqli_eqmagnitude,"IRAN:  MAKU,SHAH BANDALU,QURTA BOLAGH,QONDEQLI — eqMagnitude",NOAA NCEI Significant Earthquake Database,1968-4-29
+IRN,Iran,1968,38,persons,iran_maku_shah_bandalu_qurta_bolagh_qondeqli_deaths,"IRAN:  MAKU,SHAH BANDALU,QURTA BOLAGH,QONDEQLI — deaths",NOAA NCEI Significant Earthquake Database,1968-4-29
+IRN,Iran,1968,100,persons,iran_maku_shah_bandalu_qurta_bolagh_qondeqli_injuries,"IRAN:  MAKU,SHAH BANDALU,QURTA BOLAGH,QONDEQLI — injuries",NOAA NCEI Significant Earthquake Database,1968-4-29
+IRN,Iran,1968,1000,houses,iran_maku_shah_bandalu_qurta_bolagh_qondeqli_housesdestroyed,"IRAN:  MAKU,SHAH BANDALU,QURTA BOLAGH,QONDEQLI — housesDestroyed",NOAA NCEI Significant Earthquake Database,1968-4-29
+IRN,Iran,1968,1,million USD,iran_maku_shah_bandalu_qurta_bolagh_qondeqli_damagemillionsdollars,"IRAN:  MAKU,SHAH BANDALU,QURTA BOLAGH,QONDEQLI — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1968-4-29
+IRN,Iran,1968,7.1,magnitude,iran_dasht_e_bayaz_eqmagnitude,IRAN:  DASHT-E-BAYAZ — eqMagnitude,NOAA NCEI Significant Earthquake Database,1968-8-31
+IRN,Iran,1968,10488,persons,iran_dasht_e_bayaz_deaths,IRAN:  DASHT-E-BAYAZ — deaths,NOAA NCEI Significant Earthquake Database,1968-8-31
+IRN,Iran,1968,17000,persons,iran_dasht_e_bayaz_injuries,IRAN:  DASHT-E-BAYAZ — injuries,NOAA NCEI Significant Earthquake Database,1968-8-31
+IRN,Iran,1968,12000,houses,iran_dasht_e_bayaz_housesdestroyed,IRAN:  DASHT-E-BAYAZ — housesDestroyed,NOAA NCEI Significant Earthquake Database,1968-8-31
+IRN,Iran,1968,35,million USD,iran_dasht_e_bayaz_damagemillionsdollars,IRAN:  DASHT-E-BAYAZ — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1968-8-31
+IRN,Iran,1970,6.7,magnitude,iran_karnaveh_marev_eqmagnitude,"IRAN:  KARNAVEH, MAREV — eqMagnitude",NOAA NCEI Significant Earthquake Database,1970-7-30
+IRN,Iran,1970,220,persons,iran_karnaveh_marev_deaths,"IRAN:  KARNAVEH, MAREV — deaths",NOAA NCEI Significant Earthquake Database,1970-7-30
+IRN,Iran,1970,483,persons,iran_karnaveh_marev_injuries,"IRAN:  KARNAVEH, MAREV — injuries",NOAA NCEI Significant Earthquake Database,1970-7-30
+IRN,Iran,1970,2000,houses,iran_karnaveh_marev_housesdestroyed,"IRAN:  KARNAVEH, MAREV — housesDestroyed",NOAA NCEI Significant Earthquake Database,1970-7-30
+IRN,Iran,1970,8,million USD,iran_karnaveh_marev_damagemillionsdollars,"IRAN:  KARNAVEH, MAREV — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1970-7-30
+IRN,Iran,1978,7.4,magnitude,iran_tabas_eqmagnitude,IRAN:  TABAS — eqMagnitude,NOAA NCEI Significant Earthquake Database,1978-9-16
+IRN,Iran,1978,20000,persons,iran_tabas_deaths,IRAN:  TABAS — deaths,NOAA NCEI Significant Earthquake Database,1978-9-16
+IRN,Iran,1978,15000,houses,iran_tabas_housesdestroyed,IRAN:  TABAS — housesDestroyed,NOAA NCEI Significant Earthquake Database,1978-9-16
+IRN,Iran,1978,50,million USD,iran_tabas_damagemillionsdollars,IRAN:  TABAS — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1978-9-16
+IRN,Iran,1978,6.3,magnitude,iran_rasht_siahbil_eqmagnitude,"IRAN:  RASHT, SIAHBIL — eqMagnitude",NOAA NCEI Significant Earthquake Database,1978-11-4
+IRN,Iran,1978,26,persons,iran_rasht_siahbil_deaths,"IRAN:  RASHT, SIAHBIL — deaths",NOAA NCEI Significant Earthquake Database,1978-11-4
+IRN,Iran,1978,541,houses,iran_rasht_siahbil_housesdestroyed,"IRAN:  RASHT, SIAHBIL — housesDestroyed",NOAA NCEI Significant Earthquake Database,1978-11-4
+IRN,Iran,1978,1.2,million USD,iran_rasht_siahbil_damagemillionsdollars,"IRAN:  RASHT, SIAHBIL — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1978-11-4
+IRN,Iran,1980,6,magnitude,iran_n_central_tehran_eqmagnitude,"IRAN:  N CENTRAL, TEHRAN — eqMagnitude",NOAA NCEI Significant Earthquake Database,1980-12-19
+IRN,Iran,1980,26,persons,iran_n_central_tehran_deaths,"IRAN:  N CENTRAL, TEHRAN — deaths",NOAA NCEI Significant Earthquake Database,1980-12-19
+IRN,Iran,1980,5,million USD,iran_n_central_tehran_damagemillionsdollars,"IRAN:  N CENTRAL, TEHRAN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1980-12-19
+IRN,Iran,1980,5.2,magnitude,iran_n_central_tehran_eqmagnitude,"IRAN:  N CENTRAL, TEHRAN — eqMagnitude",NOAA NCEI Significant Earthquake Database,1980-12-22
+IRN,Iran,1980,3,persons,iran_n_central_tehran_deaths,"IRAN:  N CENTRAL, TEHRAN — deaths",NOAA NCEI Significant Earthquake Database,1980-12-22
+IRN,Iran,1980,139,persons,iran_n_central_tehran_injuries,"IRAN:  N CENTRAL, TEHRAN — injuries",NOAA NCEI Significant Earthquake Database,1980-12-22
+IRN,Iran,1980,1,million USD,iran_n_central_tehran_damagemillionsdollars,"IRAN:  N CENTRAL, TEHRAN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1980-12-22
+IRN,Iran,1981,6.6,magnitude,iran_se_golbaft_eqmagnitude,IRAN:  SE:  GOLBAFT — eqMagnitude,NOAA NCEI Significant Earthquake Database,1981-6-11
+IRN,Iran,1981,1400,persons,iran_se_golbaft_deaths,IRAN:  SE:  GOLBAFT — deaths,NOAA NCEI Significant Earthquake Database,1981-6-11
+IRN,Iran,1981,3000,persons,iran_se_golbaft_injuries,IRAN:  SE:  GOLBAFT — injuries,NOAA NCEI Significant Earthquake Database,1981-6-11
+IRN,Iran,1981,5,million USD,iran_se_golbaft_damagemillionsdollars,IRAN:  SE:  GOLBAFT — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1981-6-11
+IRN,Iran,1981,7,magnitude,iran_se_kerman_eqmagnitude,"IRAN:  SE, KERMAN — eqMagnitude",NOAA NCEI Significant Earthquake Database,1981-7-28
+IRN,Iran,1981,3000,persons,iran_se_kerman_deaths,"IRAN:  SE, KERMAN — deaths",NOAA NCEI Significant Earthquake Database,1981-7-28
+IRN,Iran,1981,1000,persons,iran_se_kerman_injuries,"IRAN:  SE, KERMAN — injuries",NOAA NCEI Significant Earthquake Database,1981-7-28
+IRN,Iran,1981,1000,million USD,iran_se_kerman_damagemillionsdollars,"IRAN:  SE, KERMAN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1981-7-28
+IRN,Iran,1983,4.9,magnitude,iran_tehran_damavond_amoi_eqmagnitude,"IRAN:  TEHRAN, DAMAVOND, AMOI — eqMagnitude",NOAA NCEI Significant Earthquake Database,1983-3-25
+IRN,Iran,1983,30,persons,iran_tehran_damavond_amoi_deaths,"IRAN:  TEHRAN, DAMAVOND, AMOI — deaths",NOAA NCEI Significant Earthquake Database,1983-3-25
+IRN,Iran,1983,61,persons,iran_tehran_damavond_amoi_injuries,"IRAN:  TEHRAN, DAMAVOND, AMOI — injuries",NOAA NCEI Significant Earthquake Database,1983-3-25
+IRN,Iran,1983,5,million USD,iran_tehran_damavond_amoi_damagemillionsdollars,"IRAN:  TEHRAN, DAMAVOND, AMOI — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1983-3-25
+IRN,Iran,1983,5,magnitude,iran_nw_zanjin_eqmagnitude,"IRAN:  NW, ZANJIN — eqMagnitude",NOAA NCEI Significant Earthquake Database,1983-7-22
+IRN,Iran,1983,4,persons,iran_nw_zanjin_deaths,"IRAN:  NW, ZANJIN — deaths",NOAA NCEI Significant Earthquake Database,1983-7-22
+IRN,Iran,1983,41,persons,iran_nw_zanjin_injuries,"IRAN:  NW, ZANJIN — injuries",NOAA NCEI Significant Earthquake Database,1983-7-22
+IRN,Iran,1983,75,houses,iran_nw_zanjin_housesdestroyed,"IRAN:  NW, ZANJIN — housesDestroyed",NOAA NCEI Significant Earthquake Database,1983-7-22
+IRN,Iran,1983,5,million USD,iran_nw_zanjin_damagemillionsdollars,"IRAN:  NW, ZANJIN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1983-7-22
+IRN,Iran,1989,5.8,magnitude,iran_do_gobadan_fars_yasuj_eqmagnitude,"IRAN:  DO GOBADAN, FARS, YASUJ — eqMagnitude",NOAA NCEI Significant Earthquake Database,1989-5-27
+IRN,Iran,1989,114,persons,iran_do_gobadan_fars_yasuj_deaths,"IRAN:  DO GOBADAN, FARS, YASUJ — deaths",NOAA NCEI Significant Earthquake Database,1989-5-27
+IRN,Iran,1989,5,million USD,iran_do_gobadan_fars_yasuj_damagemillionsdollars,"IRAN:  DO GOBADAN, FARS, YASUJ — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1989-5-27
+IRN,Iran,1990,7.3,magnitude,iran_rasht_qazvin_zanjan_rudbar_manjil_eqmagnitude,"IRAN:  RASHT, QAZVIN, ZANJAN,  RUDBAR, MANJIL — eqMagnitude",NOAA NCEI Significant Earthquake Database,1990-6-20
+IRN,Iran,1990,40000,persons,iran_rasht_qazvin_zanjan_rudbar_manjil_deaths,"IRAN:  RASHT, QAZVIN, ZANJAN,  RUDBAR, MANJIL — deaths",NOAA NCEI Significant Earthquake Database,1990-6-20
+IRN,Iran,1990,105000,persons,iran_rasht_qazvin_zanjan_rudbar_manjil_injuries,"IRAN:  RASHT, QAZVIN, ZANJAN,  RUDBAR, MANJIL — injuries",NOAA NCEI Significant Earthquake Database,1990-6-20
+IRN,Iran,1990,100000,houses,iran_rasht_qazvin_zanjan_rudbar_manjil_housesdestroyed,"IRAN:  RASHT, QAZVIN, ZANJAN,  RUDBAR, MANJIL — housesDestroyed",NOAA NCEI Significant Earthquake Database,1990-6-20
+IRN,Iran,1990,7200,million USD,iran_rasht_qazvin_zanjan_rudbar_manjil_damagemillionsdollars,"IRAN:  RASHT, QAZVIN, ZANJAN,  RUDBAR, MANJIL — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1990-6-20
+IRN,Iran,1990,6.5,magnitude,iran_s_darab_eqmagnitude,"IRAN:  S, DARAB — eqMagnitude",NOAA NCEI Significant Earthquake Database,1990-11-6
+IRN,Iran,1990,22,persons,iran_s_darab_deaths,"IRAN:  S, DARAB — deaths",NOAA NCEI Significant Earthquake Database,1990-11-6
+IRN,Iran,1990,90,persons,iran_s_darab_injuries,"IRAN:  S, DARAB — injuries",NOAA NCEI Significant Earthquake Database,1990-11-6
+IRN,Iran,1990,1445,houses,iran_s_darab_housesdestroyed,"IRAN:  S, DARAB — housesDestroyed",NOAA NCEI Significant Earthquake Database,1990-11-6
+IRN,Iran,1990,232.3,million USD,iran_s_darab_damagemillionsdollars,"IRAN:  S, DARAB — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1990-11-6
+IRN,Iran,1994,6.1,magnitude,iran_sistan_eqmagnitude,IRAN:  SISTAN — eqMagnitude,NOAA NCEI Significant Earthquake Database,1994-2-23
+IRN,Iran,1994,6,persons,iran_sistan_deaths,IRAN:  SISTAN — deaths,NOAA NCEI Significant Earthquake Database,1994-2-23
+IRN,Iran,1994,300,houses,iran_sistan_housesdestroyed,IRAN:  SISTAN — housesDestroyed,NOAA NCEI Significant Earthquake Database,1994-2-23
+IRN,Iran,1994,1.4,million USD,iran_sistan_damagemillionsdollars,IRAN:  SISTAN — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1994-2-23
+IRN,Iran,1997,6.5,magnitude,iran_bojnurd_shirvan_esfarayen_eqmagnitude,"IRAN:  BOJNURD, SHIRVAN, ESFARAYEN — eqMagnitude",NOAA NCEI Significant Earthquake Database,1997-2-4
+IRN,Iran,1997,88,persons,iran_bojnurd_shirvan_esfarayen_deaths,"IRAN:  BOJNURD, SHIRVAN, ESFARAYEN — deaths",NOAA NCEI Significant Earthquake Database,1997-2-4
+IRN,Iran,1997,1948,persons,iran_bojnurd_shirvan_esfarayen_injuries,"IRAN:  BOJNURD, SHIRVAN, ESFARAYEN — injuries",NOAA NCEI Significant Earthquake Database,1997-2-4
+IRN,Iran,1997,5500,houses,iran_bojnurd_shirvan_esfarayen_housesdestroyed,"IRAN:  BOJNURD, SHIRVAN, ESFARAYEN — housesDestroyed",NOAA NCEI Significant Earthquake Database,1997-2-4
+IRN,Iran,1997,30,million USD,iran_bojnurd_shirvan_esfarayen_damagemillionsdollars,"IRAN:  BOJNURD, SHIRVAN, ESFARAYEN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1997-2-4
+IRN,Iran,1997,6.1,magnitude,iran_ardabil_eqmagnitude,IRAN:  ARDABIL — eqMagnitude,NOAA NCEI Significant Earthquake Database,1997-2-28
+IRN,Iran,1997,1100,persons,iran_ardabil_deaths,IRAN:  ARDABIL — deaths,NOAA NCEI Significant Earthquake Database,1997-2-28
+IRN,Iran,1997,2600,persons,iran_ardabil_injuries,IRAN:  ARDABIL — injuries,NOAA NCEI Significant Earthquake Database,1997-2-28
+IRN,Iran,1997,12000,houses,iran_ardabil_housesdestroyed,IRAN:  ARDABIL — housesDestroyed,NOAA NCEI Significant Earthquake Database,1997-2-28
+IRN,Iran,1997,76,million USD,iran_ardabil_damagemillionsdollars,IRAN:  ARDABIL — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,1997-2-28
+IRN,Iran,1997,7.2,magnitude,iran_birjand_ghaen_afghanistan_eqmagnitude,"IRAN: BIRJAND, GHAEN;  AFGHANISTAN — eqMagnitude",NOAA NCEI Significant Earthquake Database,1997-5-10
+IRN,Iran,1997,1728,persons,iran_birjand_ghaen_afghanistan_deaths,"IRAN: BIRJAND, GHAEN;  AFGHANISTAN — deaths",NOAA NCEI Significant Earthquake Database,1997-5-10
+IRN,Iran,1997,2300,persons,iran_birjand_ghaen_afghanistan_injuries,"IRAN: BIRJAND, GHAEN;  AFGHANISTAN — injuries",NOAA NCEI Significant Earthquake Database,1997-5-10
+IRN,Iran,1997,10533,houses,iran_birjand_ghaen_afghanistan_housesdestroyed,"IRAN: BIRJAND, GHAEN;  AFGHANISTAN — housesDestroyed",NOAA NCEI Significant Earthquake Database,1997-5-10
+IRN,Iran,1997,100,million USD,iran_birjand_ghaen_afghanistan_damagemillionsdollars,"IRAN: BIRJAND, GHAEN;  AFGHANISTAN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,1997-5-10
+IRN,Iran,2002,6.5,magnitude,iran_ab_garm_abhar_avaj_shirin_su_eqmagnitude,IRAN:  AB GARM-ABHAR-AVAJ-SHIRIN SU — eqMagnitude,NOAA NCEI Significant Earthquake Database,2002-6-22
+IRN,Iran,2002,261,persons,iran_ab_garm_abhar_avaj_shirin_su_deaths,IRAN:  AB GARM-ABHAR-AVAJ-SHIRIN SU — deaths,NOAA NCEI Significant Earthquake Database,2002-6-22
+IRN,Iran,2002,1300,persons,iran_ab_garm_abhar_avaj_shirin_su_injuries,IRAN:  AB GARM-ABHAR-AVAJ-SHIRIN SU — injuries,NOAA NCEI Significant Earthquake Database,2002-6-22
+IRN,Iran,2002,300,million USD,iran_ab_garm_abhar_avaj_shirin_su_damagemillionsdollars,IRAN:  AB GARM-ABHAR-AVAJ-SHIRIN SU — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2002-6-22
+IRN,Iran,2003,5.8,magnitude,iran_southern_gajjiabad_eqmagnitude,IRAN:  SOUTHERN: GAJJIABAD — eqMagnitude,NOAA NCEI Significant Earthquake Database,2003-7-10
+IRN,Iran,2003,1,persons,iran_southern_gajjiabad_deaths,IRAN:  SOUTHERN: GAJJIABAD — deaths,NOAA NCEI Significant Earthquake Database,2003-7-10
+IRN,Iran,2003,25,persons,iran_southern_gajjiabad_injuries,IRAN:  SOUTHERN: GAJJIABAD — injuries,NOAA NCEI Significant Earthquake Database,2003-7-10
+IRN,Iran,2003,3500,houses,iran_southern_gajjiabad_housesdestroyed,IRAN:  SOUTHERN: GAJJIABAD — housesDestroyed,NOAA NCEI Significant Earthquake Database,2003-7-10
+IRN,Iran,2003,21.6,million USD,iran_southern_gajjiabad_damagemillionsdollars,IRAN:  SOUTHERN: GAJJIABAD — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2003-7-10
+IRN,Iran,2003,6.6,magnitude,iran_southeastern_bam_baravat_eqmagnitude,"IRAN:  SOUTHEASTERN:  BAM, BARAVAT — eqMagnitude",NOAA NCEI Significant Earthquake Database,2003-12-26
+IRN,Iran,2003,31000,persons,iran_southeastern_bam_baravat_deaths,"IRAN:  SOUTHEASTERN:  BAM, BARAVAT — deaths",NOAA NCEI Significant Earthquake Database,2003-12-26
+IRN,Iran,2003,30000,persons,iran_southeastern_bam_baravat_injuries,"IRAN:  SOUTHEASTERN:  BAM, BARAVAT — injuries",NOAA NCEI Significant Earthquake Database,2003-12-26
+IRN,Iran,2003,500,million USD,iran_southeastern_bam_baravat_damagemillionsdollars,"IRAN:  SOUTHEASTERN:  BAM, BARAVAT — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,2003-12-26
+IRN,Iran,2004,6.3,magnitude,iran_mazandaran_qazvin_tehran_eqmagnitude,"IRAN:  MAZANDARAN, QAZVIN, TEHRAN — eqMagnitude",NOAA NCEI Significant Earthquake Database,2004-5-28
+IRN,Iran,2004,35,persons,iran_mazandaran_qazvin_tehran_deaths,"IRAN:  MAZANDARAN, QAZVIN, TEHRAN — deaths",NOAA NCEI Significant Earthquake Database,2004-5-28
+IRN,Iran,2004,400,persons,iran_mazandaran_qazvin_tehran_injuries,"IRAN:  MAZANDARAN, QAZVIN, TEHRAN — injuries",NOAA NCEI Significant Earthquake Database,2004-5-28
+IRN,Iran,2004,3880,houses,iran_mazandaran_qazvin_tehran_housesdestroyed,"IRAN:  MAZANDARAN, QAZVIN, TEHRAN — housesDestroyed",NOAA NCEI Significant Earthquake Database,2004-5-28
+IRN,Iran,2004,165,million USD,iran_mazandaran_qazvin_tehran_damagemillionsdollars,"IRAN:  MAZANDARAN, QAZVIN, TEHRAN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,2004-5-28
+IRN,Iran,2012,6.5,magnitude,iran_ahar_haris_varzagan_eqmagnitude,"IRAN:  AHAR, HARIS, VARZAGAN — eqMagnitude",NOAA NCEI Significant Earthquake Database,2012-8-11
+IRN,Iran,2012,306,persons,iran_ahar_haris_varzagan_deaths,"IRAN:  AHAR, HARIS, VARZAGAN — deaths",NOAA NCEI Significant Earthquake Database,2012-8-11
+IRN,Iran,2012,3000,persons,iran_ahar_haris_varzagan_injuries,"IRAN:  AHAR, HARIS, VARZAGAN — injuries",NOAA NCEI Significant Earthquake Database,2012-8-11
+IRN,Iran,2012,599,million USD,iran_ahar_haris_varzagan_damagemillionsdollars,"IRAN:  AHAR, HARIS, VARZAGAN — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,2012-8-11
+IRN,Iran,2013,6.4,magnitude,iran_bushehr_province_shanbe_kaki_sena_eqmagnitude,"IRAN:  BUSHEHR PROVINCE:  SHANBE, KAKI, SENA — eqMagnitude",NOAA NCEI Significant Earthquake Database,2013-4-9
+IRN,Iran,2013,37,persons,iran_bushehr_province_shanbe_kaki_sena_deaths,"IRAN:  BUSHEHR PROVINCE:  SHANBE, KAKI, SENA — deaths",NOAA NCEI Significant Earthquake Database,2013-4-9
+IRN,Iran,2013,850,persons,iran_bushehr_province_shanbe_kaki_sena_injuries,"IRAN:  BUSHEHR PROVINCE:  SHANBE, KAKI, SENA — injuries",NOAA NCEI Significant Earthquake Database,2013-4-9
+IRN,Iran,2013,297,million USD,iran_bushehr_province_shanbe_kaki_sena_damagemillionsdollars,"IRAN:  BUSHEHR PROVINCE:  SHANBE, KAKI, SENA — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,2013-4-9
+IRN,Iran,2014,5.2,magnitude,iran_bastak_eqmagnitude,IRAN:  BASTAK — eqMagnitude,NOAA NCEI Significant Earthquake Database,2014-1-2
+IRN,Iran,2014,1,persons,iran_bastak_deaths,IRAN:  BASTAK — deaths,NOAA NCEI Significant Earthquake Database,2014-1-2
+IRN,Iran,2014,30,persons,iran_bastak_injuries,IRAN:  BASTAK — injuries,NOAA NCEI Significant Earthquake Database,2014-1-2
+IRN,Iran,2014,2,million USD,iran_bastak_damagemillionsdollars,IRAN:  BASTAK — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2014-1-2
+IRN,Iran,2014,6.2,magnitude,iran_ilam_province_abdanan_eqmagnitude,IRAN:  ILAM PROVINCE:  ABDANAN — eqMagnitude,NOAA NCEI Significant Earthquake Database,2014-8-18
+IRN,Iran,2014,330,persons,iran_ilam_province_abdanan_injuries,IRAN:  ILAM PROVINCE:  ABDANAN — injuries,NOAA NCEI Significant Earthquake Database,2014-8-18
+IRN,Iran,2014,2700,houses,iran_ilam_province_abdanan_housesdestroyed,IRAN:  ILAM PROVINCE:  ABDANAN — housesDestroyed,NOAA NCEI Significant Earthquake Database,2014-8-18
+IRN,Iran,2014,43,million USD,iran_ilam_province_abdanan_damagemillionsdollars,IRAN:  ILAM PROVINCE:  ABDANAN — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2014-8-18
+IRN,Iran,2017,5.6,magnitude,iran_khorasan_eqmagnitude,IRAN: KHORASAN — eqMagnitude,NOAA NCEI Significant Earthquake Database,2017-5-13
+IRN,Iran,2017,3,persons,iran_khorasan_deaths,IRAN: KHORASAN — deaths,NOAA NCEI Significant Earthquake Database,2017-5-13
+IRN,Iran,2017,417,persons,iran_khorasan_injuries,IRAN: KHORASAN — injuries,NOAA NCEI Significant Earthquake Database,2017-5-13
+IRN,Iran,2017,2,million USD,iran_khorasan_damagemillionsdollars,IRAN: KHORASAN — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2017-5-13
+IRN,Iran,2017,7.3,magnitude,iran_kermanshah_iraq_kurdistan_eqmagnitude,IRAN: KERMANSHAH; IRAQ: KURDISTAN — eqMagnitude,NOAA NCEI Significant Earthquake Database,2017-11-12
+IRN,Iran,2017,630,persons,iran_kermanshah_iraq_kurdistan_deaths,IRAN: KERMANSHAH; IRAQ: KURDISTAN — deaths,NOAA NCEI Significant Earthquake Database,2017-11-12
+IRN,Iran,2017,12900,persons,iran_kermanshah_iraq_kurdistan_injuries,IRAN: KERMANSHAH; IRAQ: KURDISTAN — injuries,NOAA NCEI Significant Earthquake Database,2017-11-12
+IRN,Iran,2017,15500,houses,iran_kermanshah_iraq_kurdistan_housesdestroyed,IRAN: KERMANSHAH; IRAQ: KURDISTAN — housesDestroyed,NOAA NCEI Significant Earthquake Database,2017-11-12
+IRN,Iran,2017,750,million USD,iran_kermanshah_iraq_kurdistan_damagemillionsdollars,IRAN: KERMANSHAH; IRAQ: KURDISTAN — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2017-11-12
+IRN,Iran,2021,5.4,magnitude,iran_esfahan_kohgiluyeh_boyer_ahmad_eqmagnitude,"IRAN: ESFAHAN, KOHGILUYEH, BOYER-AHMAD — eqMagnitude",NOAA NCEI Significant Earthquake Database,2021-2-17
+IRN,Iran,2021,2,persons,iran_esfahan_kohgiluyeh_boyer_ahmad_deaths,"IRAN: ESFAHAN, KOHGILUYEH, BOYER-AHMAD — deaths",NOAA NCEI Significant Earthquake Database,2021-2-17
+IRN,Iran,2021,63,persons,iran_esfahan_kohgiluyeh_boyer_ahmad_injuries,"IRAN: ESFAHAN, KOHGILUYEH, BOYER-AHMAD — injuries",NOAA NCEI Significant Earthquake Database,2021-2-17
+IRN,Iran,2021,10,million USD,iran_esfahan_kohgiluyeh_boyer_ahmad_damagemillionsdollars,"IRAN: ESFAHAN, KOHGILUYEH, BOYER-AHMAD — damageMillionsDollars",NOAA NCEI Significant Earthquake Database,2021-2-17
+IRN,Iran,2021,6.3,magnitude,iran_hormozgan_province_eqmagnitude,IRAN:  HORMOZGAN PROVINCE — eqMagnitude,NOAA NCEI Significant Earthquake Database,2021-11-14
+IRN,Iran,2021,2,persons,iran_hormozgan_province_deaths,IRAN:  HORMOZGAN PROVINCE — deaths,NOAA NCEI Significant Earthquake Database,2021-11-14
+IRN,Iran,2021,165,million USD,iran_hormozgan_province_damagemillionsdollars,IRAN:  HORMOZGAN PROVINCE — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2021-11-14
+IRN,Iran,2022,6,magnitude,iran_hormozgan_province_eqmagnitude,IRAN:  HORMOZGAN PROVINCE — eqMagnitude,NOAA NCEI Significant Earthquake Database,2022-7-1
+IRN,Iran,2022,5,persons,iran_hormozgan_province_deaths,IRAN:  HORMOZGAN PROVINCE — deaths,NOAA NCEI Significant Earthquake Database,2022-7-1
+IRN,Iran,2022,84,persons,iran_hormozgan_province_injuries,IRAN:  HORMOZGAN PROVINCE — injuries,NOAA NCEI Significant Earthquake Database,2022-7-1
+IRN,Iran,2022,142,million USD,iran_hormozgan_province_damagemillionsdollars,IRAN:  HORMOZGAN PROVINCE — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2022-7-1
+IRN,Iran,2023,5.7,magnitude,iran_azarbaijan_eqmagnitude,IRAN:  AZARBAIJAN — eqMagnitude,NOAA NCEI Significant Earthquake Database,2023-1-18
+IRN,Iran,2023,252,persons,iran_azarbaijan_injuries,IRAN:  AZARBAIJAN — injuries,NOAA NCEI Significant Earthquake Database,2023-1-18
+IRN,Iran,2023,370,houses,iran_azarbaijan_housesdestroyed,IRAN:  AZARBAIJAN — housesDestroyed,NOAA NCEI Significant Earthquake Database,2023-1-18
+IRN,Iran,2023,50,million USD,iran_azarbaijan_damagemillionsdollars,IRAN:  AZARBAIJAN — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2023-1-18
+IRN,Iran,2023,5.9,magnitude,iran_khvoy_khoy_eqmagnitude,IRAN:  KHVOY (KHOY) — eqMagnitude,NOAA NCEI Significant Earthquake Database,2023-1-28
+IRN,Iran,2023,3,persons,iran_khvoy_khoy_deaths,IRAN:  KHVOY (KHOY) — deaths,NOAA NCEI Significant Earthquake Database,2023-1-28
+IRN,Iran,2023,1017,persons,iran_khvoy_khoy_injuries,IRAN:  KHVOY (KHOY) — injuries,NOAA NCEI Significant Earthquake Database,2023-1-28
+IRN,Iran,2023,370,houses,iran_khvoy_khoy_housesdestroyed,IRAN:  KHVOY (KHOY) — housesDestroyed,NOAA NCEI Significant Earthquake Database,2023-1-28
+IRN,Iran,2023,255,million USD,iran_khvoy_khoy_damagemillionsdollars,IRAN:  KHVOY (KHOY) — damageMillionsDollars,NOAA NCEI Significant Earthquake Database,2023-1-28

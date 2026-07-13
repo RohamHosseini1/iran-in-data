@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__AG.LND.EL5M.RU",
+  "title": "Rural land area where elevation is below 5 meters (sq. km)",
+  "category": "Agriculture & Rural Development",
+  "sources": "wdi",
+  "n_rows": 102,
+  "year_range": [
+    "1990",
+    "2015"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/AG.LND.EL5M.RU.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

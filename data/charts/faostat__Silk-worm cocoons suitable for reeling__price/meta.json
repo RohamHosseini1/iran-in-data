@@ -1,0 +1,33 @@
+{
+  "chart_id": "faostat__Silk-worm cocoons suitable for reeling__price",
+  "title": "Silk-worm cocoons suitable for reeling — Producer Price",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 721,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ESP",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

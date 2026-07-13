@@ -1,0 +1,23 @@
+{
+  "chart_id": "wdi__SM.POP.OPIP",
+  "title": "Other people in need of international protection by country or territory of asylum",
+  "category": "Migration",
+  "sources": "wdi",
+  "n_rows": 9,
+  "year_range": [
+    "2018",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SM.POP.OPIP.EA",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

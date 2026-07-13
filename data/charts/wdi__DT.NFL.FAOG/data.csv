@@ -1,0 +1,52 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+ARG,Argentina,2013,26011.9996964931,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+ARG,Argentina,2018,95169.9987053871,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+ARG,Argentina,2019,83159.9980592728,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+ARG,Argentina,2020,29209.9993675947,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+ARG,Argentina,2021,150340.005755425,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+ARG,Argentina,2022,95214.0018343925,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+ARG,Argentina,2023,19664.0007197857,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+IRN,Iran,2013,2006.99991546571,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+IRN,Iran,2018,270566.999912262,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+IRN,Iran,2019,412039.011716843,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+IRN,Iran,2020,280445.992946625,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+IRN,Iran,2021,444499.999284744,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+IRN,Iran,2022,58676.0006844997,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+IRN,Iran,2023,485101.014375687,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+TUR,Turkey,2013,531978.011131287,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+TUR,Turkey,2018,657660.007476807,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+TUR,Turkey,2019,495730.012655258,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+TUR,Turkey,2020,106688.00026178401,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+TUR,Turkey,2021,315030.008554459,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+TUR,Turkey,2022,237653.00214290599,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+TUR,Turkey,2023,539606.988430023,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+VEN,Venezuela,2013,58703.001588583,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+VEN,Venezuela,2019,39455.000311136195,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+VEN,Venezuela,2020,79961.0018730164,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+VEN,Venezuela,2021,393460.005521774,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+VEN,Venezuela,2022,284817.010164261,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+VEN,Venezuela,2023,28126.9997358322,,DT.NFL.FAOG.CD,"Net official flows from UN agencies, FAO (current US$)",wdi,false
+ARG,Argentina,2013,28694.0946,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2018,84741.3578,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2019,86495.2034,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2020,50841.271,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2021,247036.7667,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2022,134971.4763,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2023,29140.4734,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2013,2586.301,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2018,509674.4934,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2019,799019.9987,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2020,692866.5083,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2021,954096.4785,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2022,104849.299,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2023,962595.0259,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2013,436397.5718,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2018,837770.3767,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2019,644285.9065,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2020,152548.0753,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2021,475615.8102,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2022,389354.2726,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2023,824216.9404,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2013,14071.3222,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2019,68265.1553,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2020,309522.7196,constant 2015 US$ (computed),DT.NFL.FAOG.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, FAO (current US$) (computed real, 2015 US$)",wdi,true

@@ -1,0 +1,25 @@
+{
+  "chart_id": "wdi__DT.ODA.ODAT.XP",
+  "title": "Net ODA received (% of central government expense)",
+  "category": "External Debt",
+  "sources": "wdi",
+  "n_rows": 133,
+  "year_range": [
+    "1972",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "KOR",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/DT.ODA.ODAT.XP.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

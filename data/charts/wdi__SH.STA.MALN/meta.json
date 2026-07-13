@@ -1,0 +1,33 @@
+{
+  "chart_id": "wdi__SH.STA.MALN",
+  "title": "Prevalence of underweight, weight for age (% of children under 5)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 80,
+  "year_range": [
+    "1984",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "GBR",
+    "GRC",
+    "IRN",
+    "KOR",
+    "NLD",
+    "PRT",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.MALN.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

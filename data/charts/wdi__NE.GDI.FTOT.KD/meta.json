@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__NE.GDI.FTOT.KD",
+  "title": "Gross fixed capital formation (annual % growth)",
+  "category": "Macro / Expenditure & Trade Aggregates",
+  "sources": "wdi",
+  "n_rows": 938,
+  "year_range": [
+    "1961",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NE.GDI.FTOT.KD.ZG",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

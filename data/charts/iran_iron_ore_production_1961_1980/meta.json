@@ -1,0 +1,15 @@
+{
+  "chart_id": "iran_iron_ore_production_1961_1980",
+  "title": "Iron Ore Production (Gross Weight)",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Iron ore')",
+  "n_rows": 16,
+  "year_range": [
+    "1961",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": []
+}

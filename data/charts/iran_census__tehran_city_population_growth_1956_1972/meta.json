@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_census__tehran_city_population_growth_1956_1972",
+  "title": "Tehran City Population, Household Size & National Primacy Share (1956-1972)",
+  "category": "Demographics & Population",
+  "sources": "world-bank-archives-iran",
+  "n_rows": 11,
+  "year_range": [
+    "1966",
+    "1970"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank (IBRD), citing Statistical Centre of Iran / Ministry of Interior censuses, Plan Organization, Plan and Budget Organization, Bank Markazi Iran",
+      "source_url": "https://search.worldbank.org/api/v3/wds",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:5tok:census-demographic-citations-1956-1982"
+    }
+  ]
+}

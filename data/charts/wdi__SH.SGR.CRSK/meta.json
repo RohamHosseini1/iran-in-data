@@ -1,0 +1,36 @@
+{
+  "chart_id": "wdi__SH.SGR.CRSK",
+  "title": "Risk of catastrophic expenditure for surgical care (% of people at risk)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 294,
+  "year_range": [
+    "2003",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SWE",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.SGR.CRSK.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

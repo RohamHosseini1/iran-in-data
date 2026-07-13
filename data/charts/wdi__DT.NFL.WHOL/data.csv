@@ -1,0 +1,78 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+ARG,Argentina,2017,557479.023933411,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+ARG,Argentina,2018,454879.999160767,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+ARG,Argentina,2019,647601.0084152219,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+ARG,Argentina,2020,407992.988824844,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+ARG,Argentina,2021,524500.012397766,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+ARG,Argentina,2022,537702.977657318,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+ARG,Argentina,2023,1332587.9573821998,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2011,1490000.0095367401,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2012,687071.025371552,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2013,1207103.01399231,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2014,853492.975234985,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2015,1822955.96599579,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2016,1138530.96961975,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2017,1634719.9678421,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2018,799269.97423172,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2019,2364968.06144714,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2020,718852.996826172,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2021,1865700.00648499,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2022,974012.017250061,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+IRN,Iran,2023,1829808.95042419,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2011,980000.019073486,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2012,60304.9993515015,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2013,171430.00662326798,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2014,444047.98746109,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2015,1013017.0583725,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2016,1030136.9428634599,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2017,825829.029083252,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2018,1294283.0324173,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2019,981585.97946167,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2020,328446.000814438,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2021,1387599.94506836,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2022,482212.007045746,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+TUR,Turkey,2023,995078.027248383,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+VEN,Venezuela,2017,1115592.9565429701,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+VEN,Venezuela,2018,961564.004421234,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+VEN,Venezuela,2019,799212.992191315,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+VEN,Venezuela,2020,919734.001159668,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+VEN,Venezuela,2021,1380699.99217987,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+VEN,Venezuela,2022,390491.992235184,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+VEN,Venezuela,2023,1071015.95401764,,DT.NFL.WHOL.CD,"Net official flows from UN agencies, WHO (current US$)",wdi,false
+ARG,Argentina,2017,403915.9681,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2018,405034.6672,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2019,673573.6202,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2020,710129.495,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2021,861851.6845,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2022,762225.7578,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2023,1974788.5724,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2011,1440477.7505,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2012,834617.4461,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2013,1555521.5906,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2014,905110.9196,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2015,1822955.966,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2016,1115893.7179,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2017,1626729.1157,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2018,1505606.8157,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2019,4586111.3237,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2020,1775989.5967,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2021,4004629.4915,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2022,1740481.2196,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2023,3630924.1617,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2011,827901.1482,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2012,50166.6377,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2013,140629.1934,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2014,384691.6555,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2015,1013017.0584,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2016,1061286.0635,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2017,924665.5761,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2018,1648742.4678,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2019,1275738.8022,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2020,469629.2472,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2021,2094925.7346,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2022,790022.8633,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2023,1519921.3218,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2017,7300737.6628,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2018,1673542.3678,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2019,1382800.6232,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2020,3560217.6394,constant 2015 US$ (computed),DT.NFL.WHOL.COMPUTED_REAL_2015USD,"Net official flows from UN agencies, WHO (current US$) (computed real, 2015 US$)",wdi,true

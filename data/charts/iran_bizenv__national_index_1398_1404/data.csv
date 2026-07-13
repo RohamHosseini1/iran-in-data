@@ -1,0 +1,10 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,original_period_label,notes
+IRN,Iran,2019,6.08,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1398,frequency=annual
+IRN,Iran,2020,5.95,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1399,frequency=annual
+IRN,Iran,2021,5.89,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1400,frequency=annual
+IRN,Iran,2022,6.03,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1401,frequency=annual
+IRN,Iran,2023,6.05,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1402,frequency=annual
+IRN,Iran,2024,6.01,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1403,frequency=annual
+IRN,Iran,,6.01,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1403_winter,frequency=quarterly
+IRN,Iran,,6.13,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1404_fall,frequency=quarterly
+IRN,Iran,,6.2,index,national_business_environment_index,National Business Environment Index,iccima-iran:business-environment-index,1404_winter,frequency=quarterly

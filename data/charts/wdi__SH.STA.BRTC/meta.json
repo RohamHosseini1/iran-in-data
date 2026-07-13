@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SH.STA.BRTC",
+  "title": "Births attended by skilled health staff (% of total)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 271,
+  "year_range": [
+    "1980",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.BRTC.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

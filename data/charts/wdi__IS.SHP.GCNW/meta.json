@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__IS.SHP.GCNW",
+  "title": "Liner shipping connectivity index (maximum value in 2004 = 100)",
+  "category": "Infrastructure (Transport)",
+  "sources": "wdi",
+  "n_rows": 272,
+  "year_range": [
+    "2006",
+    "2021"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/IS.SHP.GCNW.XQ",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

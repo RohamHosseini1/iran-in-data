@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_energy__natural_gas_consumption_1370_1385",
+  "title": "Natural Gas Consumption: Flared, Delivered to NIGC, Injection",
+  "category": "Energy",
+  "sources": "iran-data-portal",
+  "n_rows": 24,
+  "year_range": [
+    "1991",
+    "2006"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:2tok:wb1971-gas-production-consumption-1965-1969"
+    }
+  ]
+}

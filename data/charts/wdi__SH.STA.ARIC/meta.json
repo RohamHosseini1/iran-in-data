@@ -1,0 +1,25 @@
+{
+  "chart_id": "wdi__SH.STA.ARIC",
+  "title": "ARI treatment (% of children under 5 taken to a health provider)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 6,
+  "year_range": [
+    "2000",
+    "2020"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.ARIC.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

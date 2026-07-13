@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__aioc_profits_taxes_royalties_1910_51",
+  "title": "AIOC Net Profit, UK Tax Payments & Iran Royalty Payments, 1910-1951",
+  "category": "External Debt",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 63,
+  "year_range": [
+    "1933",
+    "1951"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "US Bureau of Mines Information Circular 8203 (1963), Table 2 (p.17)",
+      "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:usbm1963-aioc-profits-royalties-1910-1951"
+    }
+  ]
+}

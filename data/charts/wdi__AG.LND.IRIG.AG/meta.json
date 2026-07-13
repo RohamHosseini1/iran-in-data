@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__AG.LND.IRIG.AG",
+  "title": "Agricultural irrigated land (% of total agricultural land)",
+  "category": "Agriculture & Rural Development",
+  "sources": "wdi",
+  "n_rows": 173,
+  "year_range": [
+    "1990",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/AG.LND.IRIG.AG.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

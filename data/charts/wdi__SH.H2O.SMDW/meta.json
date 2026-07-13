@@ -1,0 +1,34 @@
+{
+  "chart_id": "wdi__SH.H2O.SMDW",
+  "title": "People using safely managed drinking water services (% of population)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 318,
+  "year_range": [
+    "2000",
+    "2024"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SWE",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

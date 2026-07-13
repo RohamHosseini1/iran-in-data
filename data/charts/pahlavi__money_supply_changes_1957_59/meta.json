@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__money_supply_changes_1957_59",
+  "title": "Money Supply & Claims Composition, Semi-Annual Changes (1957-1959)",
+  "category": "Financial Sector (Monetary)",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 100,
+  "year_range": [
+    "1957",
+    "1959"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:5tok:wb1960-changes-in-money-supply-1957-1959"
+    }
+  ]
+}

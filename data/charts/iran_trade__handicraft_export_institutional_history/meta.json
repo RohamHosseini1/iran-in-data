@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_trade__handicraft_export_institutional_history",
+  "title": "Non-Carpet Handicraft Exports & Institutional History (1930s-2025)",
+  "category": "Trade Institutions & Policy History",
+  "sources": "tehran-times",
+  "n_rows": 9,
+  "year_range": [
+    "1398",
+    "1403"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Tehran Times (state media, labeled per project bookkeeping rule 4) + UNESCO Creative Cities Network (official, independently verified) + Encyclopaedia Iranica",
+      "source_url": "https://www.tehrantimes.com/news/517207/Iran-s-handicraft-exports-hit-223-million-last-year ; https://www.unesco.org/en/creative-cities/isfahan ; https://www.iranicaonline.org/articles/crafts/",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:handicraft-export-value-and-institutional-history"
+    }
+  ]
+}

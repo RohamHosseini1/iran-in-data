@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SE.TER.CUAT.ST.FE",
+  "title": "Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 394,
+  "year_range": [
+    "1970",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.TER.CUAT.ST.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SL.EMP.1524.SP",
+  "title": "Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",
+  "category": "Labor & Employment",
+  "sources": "wdi",
+  "n_rows": 595,
+  "year_range": [
+    "1991",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SL.EMP.1524.SP.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

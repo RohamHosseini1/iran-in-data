@@ -1,0 +1,23 @@
+{
+  "chart_id": "pahlavi__fiscal_system_narrative_indicators_1921_79",
+  "title": "Fiscal-Structure Narrative Indicators: Tax Mix, Oil-Revenue Share, Expenditure Shares (1920-1977)",
+  "category": "Government Finance",
+  "sources": "pahlavi-era-primary-extraction",
+  "n_rows": 46,
+  "year_range": [
+    "1920",
+    "1977"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Encyclopaedia Iranica Foundation (article), citing Bharier (1971), Karshenas (1990), Moghadam, Kaldor, Motamen as original sources",
+      "source_url": "https://www.iranicaonline.org/articles/fiscal-system-v-pahlavi-period/",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:6tok:iranica-fiscal-system-narrative-series-1921-1979"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SH.STA.AIRP.FE",
+  "title": "Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 17,
+  "year_range": [
+    "2019",
+    "2019"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.AIRP.FE.P5",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

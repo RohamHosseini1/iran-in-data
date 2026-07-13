@@ -1,0 +1,41 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+ARG,Argentina,1990,1254700000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+ARG,Argentina,2023,875000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+ARG,Argentina,2024,110000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+IRN,Iran,1996,23000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+IRN,Iran,2005,350000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+IRN,Iran,2008,370000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1991,4000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1992,7500000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1993,45500000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1994,228800000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1995,189100000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1996,210900000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1997,2046500000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1998,36800000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,1999,74000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+RUS,Russia,2000,283100000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+TUR,Turkey,1994,74000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+TUR,Turkey,2005,6550000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+VEN,Venezuela,1991,2010000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+VEN,Venezuela,1997,12000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+VEN,Venezuela,1998,10000000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+VEN,Venezuela,2001,100300000,,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),wdi,false
+ARG,Argentina,1990,2191405851.949,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2023,1296679886.1163,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2024,98362259.15,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,1996,63485739.537,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2005,543141587.822,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2008,361738829.5777,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+RUS,Russia,1993,214872169.5887,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+RUS,Russia,1996,287051784.0183,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+RUS,Russia,1997,2741890166.5035,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+RUS,Russia,1998,64781701.2834,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+RUS,Russia,1999,177910937.8191,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+RUS,Russia,2000,643752440.6264,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,1994,170672478.7979,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2005,7176536229.2999,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,1991,396887267.1442,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,1997,1432611.849,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,1998,984151.4679,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2001,8077972.3267,constant 2015 US$ (computed),IE.PPI.ICTI.COMPUTED_REAL_2015USD,"Investment in ICT with private participation (current US$) (computed real, 2015 US$)",wdi,true

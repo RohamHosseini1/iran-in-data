@@ -1,0 +1,37 @@
+{
+  "chart_id": "faostat__Ducks__production",
+  "title": "Ducks — Production, Area & Yield",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 738,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

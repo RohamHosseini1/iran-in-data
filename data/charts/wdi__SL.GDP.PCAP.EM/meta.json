@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__SL.GDP.PCAP.EM",
+  "title": "GDP per person employed (constant 2021 PPP $)",
+  "category": "Labor & Employment",
+  "sources": "wdi",
+  "n_rows": 544,
+  "year_range": [
+    "1991",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SL.GDP.PCAP.EM.KD",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

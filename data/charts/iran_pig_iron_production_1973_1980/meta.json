@@ -1,0 +1,15 @@
+{
+  "chart_id": "iran_pig_iron_production_1973_1980",
+  "title": "Pig Iron Production",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Pig iron)",
+  "n_rows": 8,
+  "year_range": [
+    "1973",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": []
+}

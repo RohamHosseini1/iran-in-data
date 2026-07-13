@@ -1,0 +1,49 @@
+country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,computed
+ARG,Argentina,2008,310000.002384186,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+ARG,Argentina,2009,19999.9995529652,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+ARG,Argentina,2010,59999.9986588955,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+IRN,Iran,2008,310000.002384186,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+IRN,Iran,2009,129999.995231628,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+IRN,Iran,2012,9999.99977648258,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2008,1080000.04291534,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2009,200000.00298023198,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2010,9999.99977648258,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2011,219999.998807907,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2012,150000.005960464,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2013,100000.00149011599,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2014,78708.0004811287,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2015,50514.0013992786,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2016,1661612.98751831,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2017,2593292.95158386,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2018,1365975.9759903,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2019,941987.991333008,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2020,945892.989635468,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2021,513139.009475708,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2022,492828.011512756,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+TUR,Turkey,2023,1246688.00830841,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+VEN,Venezuela,2008,9999.99977648258,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+VEN,Venezuela,2019,55971.998721361204,,DC.DAC.SVNL.CD,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",wdi,false
+ARG,Argentina,2008,334836.3081,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2009,21775.7286,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+ARG,Argentina,2010,55463.1563,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2008,303078.4812,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2009,121196.2866,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+IRN,Iran,2012,12147.4694,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2008,870739.0718,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2009,180730.0395,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2010,8070.483,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2011,185855.3552,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2012,124782.2907,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2013,82033.0106,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2014,68187.0245,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2015,50514.0014,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2016,1711856.5826,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2017,2903662.4249,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2018,1740069.6333,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2019,1224274.4466,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2020,1352487.2021,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2021,774710.4057,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2022,807415.3922,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+TUR,Turkey,2023,1904240.3044,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2008,595.2469,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true
+VEN,Venezuela,2019,96842.9136,constant 2015 US$ (computed),DC.DAC.SVNL.COMPUTED_REAL_2015USD,"Net bilateral aid flows from DAC donors, Slovenia (current US$) (computed real, 2015 US$)",wdi,true

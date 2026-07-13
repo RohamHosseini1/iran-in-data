@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__SI.SPR",
+  "title": "Prosperity gap (average shortfall from a prosperity standard of $28/day)",
+  "category": "Poverty & Inequality",
+  "sources": "wdi",
+  "n_rows": 541,
+  "year_range": [
+    "1963",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SI.SPR.PGAP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

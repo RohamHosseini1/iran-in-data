@@ -1,0 +1,23 @@
+{
+  "chart_id": "gfdd__gfdd_di_05",
+  "title": "Liquid Liabilities to GDP (World Bank GFDD)",
+  "category": "Financial Sector (Monetary)",
+  "sources": "worldbank-gfdd-via-fred",
+  "n_rows": 57,
+  "year_range": [
+    "1960",
+    "2016"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank (Global Financial Development Database), mirrored by Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/release?rid=381 (Global Financial Development release, Iran series)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:iran-banking-sector-depth-1960-2016"
+    }
+  ]
+}

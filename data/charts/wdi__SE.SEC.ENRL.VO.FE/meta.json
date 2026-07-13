@@ -1,0 +1,37 @@
+{
+  "chart_id": "wdi__SE.SEC.ENRL.VO.FE",
+  "title": "Secondary education, vocational pupils (% female)",
+  "category": "Education",
+  "sources": "wdi",
+  "n_rows": 578,
+  "year_range": [
+    "1970",
+    "2018"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SE.SEC.ENRL.VO.FE.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "chart_id": "iran_sci1399__cpi_by_coicop_group_1390_1399",
+  "title": "Consumer Price Index by COICOP Group incl. Durable/Semi-durable/Non-durable Split (1395=100, SH1390-1399)",
+  "category": "Prices & Inflation",
+  "sources": "sci-amar",
+  "n_rows": 488,
+  "year_range": [
+    "2011",
+    "2020"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
+      "source_url": "https://www.amar.org.ir/english/Iran-Statistical-Yearbook/Statistical-Yearbook-2020-2021",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:sci-cpi-yearbook"
+    }
+  ]
+}

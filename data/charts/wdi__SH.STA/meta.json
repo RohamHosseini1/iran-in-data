@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__SH.STA",
+  "title": "Diarrhea treatment (% of children under 5 who received ORS packet)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 685,
+  "year_range": [
+    "1985",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.MMRT",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

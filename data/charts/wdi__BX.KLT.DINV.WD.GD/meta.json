@@ -1,0 +1,38 @@
+{
+  "chart_id": "wdi__BX.KLT.DINV.WD.GD",
+  "title": "Foreign direct investment, net inflows (% of GDP)",
+  "category": "Balance of Payments (Receipts)",
+  "sources": "wdi",
+  "n_rows": 912,
+  "year_range": [
+    "1970",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}

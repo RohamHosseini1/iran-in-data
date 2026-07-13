@@ -1,0 +1,34 @@
+{
+  "chart_id": "wdi__SH.STA.OWGH",
+  "title": "Prevalence of overweight, weight for height (% of children under 5)",
+  "category": "Health",
+  "sources": "wdi",
+  "n_rows": 88,
+  "year_range": [
+    "1984",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "GBR",
+    "GRC",
+    "IRN",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SH.STA.OWGH.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
+}
