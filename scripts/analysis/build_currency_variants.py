@@ -181,6 +181,116 @@ def process_wdi():
 
 
 # ============================================================================================
+# Part A2: WDI charts with a current-LCU (.CN) variant but WDI never published a matching
+# current-USD (.CD) variant at all (mostly government-finance/fiscal aggregates, e.g.
+# GC.REV.XGRT -- "Revenue, excluding grants" -- 25 such charts, added 2026-07-13, task #18).
+# Part A above starts from WDI's own .CD row and computes a REAL variant from it; here there is
+# no USD row to start from at all, so both a nominal-USD AND a real-USD variant are computed
+# directly from the LCU value, reusing the same nominal_usd_from_lcu/real_usd_from_lcu helpers
+# Part B already uses for Iran's rial-denominated archival series.
+# ============================================================================================
+
+def process_wdi_lcu_only():
+    with open("data/processed/CHART_REGISTRY.csv", newline="", encoding="utf-8") as f:
+        registry = list(csv.DictReader(f))
+
+    targets = []
+    for r in registry:
+        if not r["chart_id"].startswith("wdi__"):
+            continue
+        codes = r["underlying_codes"].split("|")
+        has_cd = any(c.endswith(".CD") for c in codes)
+        has_cn = any(c.endswith(".CN") for c in codes)
+        if has_cn and not has_cd:
+            targets.append(r["chart_id"])
+
+    print(f"WDI charts with LCU-only (no native .CD variant): {len(targets)}")
+    updated = 0
+    countries_touched = set()
+    for cid in targets:
+        folder = cid.replace("/", "_")
+        data_path = f"data/charts/{folder}/data.csv"
+        meta_path = f"data/charts/{folder}/meta.json"
+        if not os.path.exists(data_path):
+            continue
+        with open(data_path, newline="", encoding="utf-8") as f:
+            rows = list(csv.DictReader(f))
+            fieldnames = list(rows[0].keys()) if rows else []
+        if "computed" not in fieldnames:
+            fieldnames = fieldnames + ["computed"]
+        # idempotency: drop any previously-computed rows before recomputing (same pattern as Part A)
+        rows = [r for r in rows
+                if not (r.get("variant_code", "").endswith(".COMPUTED_NOMINAL_USD")
+                        or r.get("variant_code", "").endswith(".COMPUTED_REAL_2015USD"))]
+
+        new_rows = []
+        for row in rows:
+            iso3 = row.get("country_iso3")
+            if iso3 not in COUNTRY_LOOKUPS:
+                continue
+            if not row.get("variant_code", "").endswith(".CN"):
+                continue
+            try:
+                year = int(row["year"])
+                val = float(row["value"])
+            except (ValueError, TypeError):
+                continue
+            fx, cpi = COUNTRY_LOOKUPS[iso3]
+            nominal = nominal_usd_from_lcu(val, year, fx)
+            real = real_usd_from_lcu(val, year, fx, cpi)
+            base_code = row["variant_code"][:-3]  # strip ".CN"
+            if nominal is not None:
+                nrow = dict(row)
+                nrow["value"] = str(round(nominal, 4))
+                nrow["variant_code"] = base_code + ".COMPUTED_NOMINAL_USD"
+                nrow["variant_label"] = (row.get("variant_label", "") + " (computed nominal, US$)").strip()
+                nrow["unit"] = "current US$ (computed)"
+                nrow["computed"] = "true"
+                new_rows.append(nrow)
+            if real is not None:
+                rrow = dict(row)
+                rrow["value"] = str(round(real, 4))
+                rrow["variant_code"] = base_code + ".COMPUTED_REAL_2015USD"
+                rrow["variant_label"] = (row.get("variant_label", "") + " (computed real, 2015 US$)").strip()
+                rrow["unit"] = "constant 2015 US$ (computed)"
+                rrow["computed"] = "true"
+                new_rows.append(rrow)
+            if nominal is not None or real is not None:
+                countries_touched.add(iso3)
+
+        if not new_rows:
+            continue
+        for row in rows:
+            row.setdefault("computed", "false")
+        rows.extend(new_rows)
+        with open(data_path, "w", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=fieldnames)
+            w.writeheader()
+            w.writerows(rows)
+
+        if os.path.exists(meta_path):
+            with open(meta_path, encoding="utf-8") as f:
+                meta = json.load(f)
+            meta["currency_display"] = {
+                "has_currency_toggle": True,
+                "default_variant_suffix": ".COMPUTED_REAL_2015USD",
+                "nominal_variant_suffix": ".COMPUTED_NOMINAL_USD",
+                "note": "WDI never published a current-USD variant of this indicator (LCU-only). "
+                        "Both nominal and real (2015-base) USD variants are computed by this "
+                        "project from the LCU value using each country's own FX rate + CPI. "
+                        "Iran: parallel/black-market rate for 1979-present. Venezuela/Argentina: "
+                        "parallel/black-market rate for their own documented divergence eras. All "
+                        "other countries: WDI official PA.NUS.FCRF. See docs/bookkeeping.md and "
+                        "data/processed/fx_cpi_lookup_<iso3>.json.",
+            }
+            with open(meta_path, "w", encoding="utf-8") as f:
+                json.dump(meta, f, indent=2, ensure_ascii=False)
+        updated += 1
+    print(f"LCU-only WDI charts updated with computed nominal+real USD variants: {updated}")
+    print(f"Countries with at least one computed row written: {sorted(countries_touched)}")
+
+
+# ============================================================================================
 # Part B: archival Iran-rial series (Iran-only -- rial-denominated data is inherently Iran-
 # specific in this project). Two sub-patterns: (1) folders sharing a generic value/unit/year
 # column pattern, handled by process_archival(); (2) bespoke schemas, handled by
@@ -619,6 +729,7 @@ def process_insurance_series():
 
 if __name__ == "__main__":
     process_wdi()
+    process_wdi_lcu_only()
     gen_files, gen_rows = process_archival()
     custom_files, custom_rows = process_custom_jobs()
     ins_files, ins_rows = process_insurance_series()

@@ -160,7 +160,9 @@ def build_entry(row, dirs):
     return {
         "chart_id": chart_id,
         "title": title,
+        "title_fa": row.get("title_fa") or None,
         "category": category,
+        "category_fa": row.get("category_fa") or None,
         "description": description,
         "year_range": year_range,
         "countries": countries,
@@ -169,6 +171,7 @@ def build_entry(row, dirs):
         "data_path": data_path,
         "row_count": row_count,
         "status": row.get("status") or None,
+        "merged_into": row.get("merged_into") or None,
         "materialized": meta is not None,
     }
 

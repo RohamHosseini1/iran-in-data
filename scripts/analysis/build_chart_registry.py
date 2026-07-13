@@ -51,7 +51,11 @@ def wdi_root(code):
 
 def wdi_category(root_code):
     prefix = root_code.split('.')[0].split('_')[0]
-    return WDI_PREFIX_CATEGORY.get(prefix, f'Other ({prefix})')
+    # WDI_PREFIX_CATEGORY keys are uppercase; a handful of real topic codes (e.g. the
+    # social-protection "per_..." indicators) are lowercase in the underlying indicator
+    # ID, which silently fell through to the "Other (per)" fallback pre-2026-07-13 even
+    # though a proper mapping already existed for 'PER'. Normalize before lookup.
+    return WDI_PREFIX_CATEGORY.get(prefix.upper(), f'Other ({prefix})')
 
 def shortest_label(members):
     # prefer the variant with the shortest label as the canonical chart title

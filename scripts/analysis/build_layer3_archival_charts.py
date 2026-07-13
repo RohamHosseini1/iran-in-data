@@ -3096,6 +3096,54 @@ def group24_institutional_modernization_specialty():
 group24_institutional_modernization_specialty()
 log(f"After group 24: built={STATS['built']} skipped={STATS['skipped']} rows={STATS['rows_total']}")
 
+# ============================================================================
+# METADATA SYNC: every group*() function above is gated on `if cid not in missing: continue`,
+# so a chart_id that already has a data/charts/ folder never gets write_chart() called for it
+# again even if CHART_REGISTRY.csv's title/category/primary_source/citations_json later changed
+# for that row -- despite this module's own docstring claiming "safely re-run (idempotent
+# overwrite per chart_id)". Found 2026-07-13 when a title-cleanup pass edited 51 registry rows
+# and re-running this script reported built=0, silently leaving the old titles in meta.json.
+# Re-deriving data.csv for an existing chart_id would mean re-invoking that one chart's specific
+# group function, which isn't safe to do generically here -- so this pass only re-syncs the four
+# registry-derived meta.json fields (title, category, sources, citations), never data.csv or the
+# rows-derived fields (n_rows/year_range/countries), for every already-built chart_id.
+# ============================================================================
+
+
+def sync_existing_metadata():
+    synced = 0
+    for cid, reg in REG.items():
+        if cid in missing or cid in CASE_COLLISION_RESOLVED:
+            continue
+        folder = os.path.join(OUT_DIR, cid.replace("/", "_"))
+        meta_path = os.path.join(folder, "meta.json")
+        if not os.path.isfile(meta_path):
+            continue
+        with open(meta_path, encoding="utf-8") as f:
+            meta = json.load(f)
+        citations = []
+        if reg.get("citations_json"):
+            try:
+                citations = json.loads(reg["citations_json"])
+            except json.JSONDecodeError:
+                citations = []
+        new_fields = {
+            "title": reg["title"],
+            "category": reg["category"],
+            "sources": reg["primary_source"],
+            "citations": citations,
+        }
+        if any(meta.get(k) != v for k, v in new_fields.items()):
+            meta.update(new_fields)
+            with open(meta_path, "w", encoding="utf-8") as f:
+                json.dump(meta, f, indent=2, ensure_ascii=False)
+                f.write("\n")
+            synced += 1
+    log(f"Metadata sync: refreshed title/category/sources/citations for {synced} already-built chart_ids")
+
+
+sync_existing_metadata()
+
 log("=" * 70)
 log(f"FINAL: built={STATS['built']} skipped={STATS['skipped']} total_rows={STATS['rows_total']}")
 if SKIPPED:

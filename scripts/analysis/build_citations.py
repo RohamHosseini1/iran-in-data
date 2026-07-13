@@ -223,6 +223,34 @@ def fuzzy_resolve_archival(chart_id, underlying_codes, primary_source, category=
     return []
 
 
+def _is_hand_curated(raw_citations_json):
+    """True only for archival rows whose EXISTING citation was hand-verified (by the
+    2026-07-13 citation-accuracy-audit or a later manual restoration) rather than
+    produced by fuzzy_resolve_archival() -- i.e. every entry either lacks a
+    match_confidence key or has one that doesn't start with "fuzzy:". Only ever
+    consulted for the archival/fuzzy-matched branch below -- the deterministic
+    wdi/faostat/weo/owid/wid/maddison branches always recompute fresh (safe: same
+    input codes always produce the same canonical citation, so re-running is a
+    no-op unless the citation function itself improves, in which case regenerating
+    IS the correct behavior).
+    Re-running main() must never silently clobber a hand-curated archival citation:
+    that exact bug happened once already (a later staging-merge re-ran this script
+    from a pre-audit snapshot and wiped 8 of the 16 audit-fixed rows back to
+    worse/wrong fuzzy matches -- see logs/downloads/citation-accuracy-audit.log's
+    2026-07-13 restoration entry). Rows entirely produced by fuzzy_resolve_archival()
+    (every entry tagged "fuzzy:...") are NOT hand-curated and remain safe/intended to
+    regenerate, since that's how matcher improvements propagate."""
+    if not raw_citations_json:
+        return False
+    try:
+        cites = json.loads(raw_citations_json)
+    except json.JSONDecodeError:
+        return False
+    if not cites:
+        return False
+    return not all(str(c.get("match_confidence", "")).startswith("fuzzy:") for c in cites)
+
+
 def main():
     with open(REGISTRY, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
@@ -231,9 +259,10 @@ def main():
     if "citations_json" not in fieldnames:
         fieldnames.append("citations_json")
 
-    resolved, unresolved = 0, []
+    resolved, unresolved, preserved = 0, [], 0
     for r in rows:
         cid, ps, uc = r["chart_id"], r["primary_source"], r["underlying_codes"]
+
         cites = []
         if cid.startswith("wdi__"):
             cites = wdi_citation(uc)
@@ -247,6 +276,10 @@ def main():
             cites = wid_citation()
         elif ps == "maddison" or "maddison" in cid.lower():
             cites = maddison_citation()
+        elif _is_hand_curated(r.get("citations_json", "")):
+            preserved += 1
+            resolved += 1
+            continue
         else:
             cites = fuzzy_resolve_archival(cid, uc, ps, r.get("category", ""))
 
@@ -255,6 +288,8 @@ def main():
             resolved += 1
         else:
             unresolved.append(cid)
+
+    print(f"Hand-curated archival citations preserved untouched: {preserved}")
 
     with open(REGISTRY, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)

@@ -161,21 +161,33 @@ data we already have — don't invent a different one):**
    - Pre-1979: WDI `PA.NUS.FCRF` (1960-1978) + IMF IFS `exchange_rate_official` (1937-1949).
      **1950-1959 remains a known gap** — do not fabricate; leave blank.
    - 1979-present: parallel-market rate **wherever the official and market rates genuinely diverged**
-     — which is most of this era, but not literally 100% of it (see the 2003-2010 exception below).
-     **1979-1998 remains a real, unresolved gap** (actively being researched — real compiled sources
-     exist, per the user's correction on 2026-07-13 that this era is well documented if you look hard
-     enough; don't declare it unsolvable prematurely). **1999-2002**: free-market rate, secondary-
-     compiled from Wikipedia's Iranian-rial article cross-checked against contemporaneous reporting
-     (`data/raw/iran-fx-secondary-compiled/wikipedia-iranprimer-cross-check/`) — pending a primary-
-     source trace. **2011-2026**: daily TGJU parallel-market data, verified correctly denominated in
-     Rial (not Toman — TGJU's own page states "واحد پولی: ریال" and the live rate cross-checked
-     against a fresh web search matched our file's most recent entries almost exactly).
-   - **2003-2010 exception**: the March 2002 unification reform genuinely merged the official and
-     market rates for this specific window — confirmed by multiple sources describing it as a single
-     "unified, market-driven" rate with no separate black-market rate reported. Using WDI's official
-     `PA.NUS.FCRF` for exactly these 8 years reflects what people actually paid, not a shortcut around
-     the black-market rule. Real divergence resumes ~2010-2011 as sanctions escalate (our own 2011
-     TGJU data already sits above the pre-2010 trend, consistent with this).
+     — which is most of this era, but not literally 100% of it (see the 2002-2010 exception below).
+     **1979-2003 (monthly) is CLOSED**: Bahmani-Oskooee (2005, Iranian Economic Review Vol.10 No.14,
+     Table 4) is a single peer-reviewed academic source giving a complete monthly black-market
+     rial/USD series January 1947-December 2003, sourced to the World Currency Yearbook (through
+     mid-1989) and directly to the Central Bank of Iran itself (mid-1989 onward) —
+     `data/raw/iran-parallel-fx-1979-2010-research/`. **2004-2010 (annual) is CLOSED AND
+     PRIMARY-SOURCED**, updated 2026-07-13: originally filled via a Wikipedia transcription of CBI's
+     own "Annual Review 2013/14" (one hop removed); a follow-up round found CBI's own daily
+     "Exchange Rates Statistics" page (cbi.ir/ExRates) via 40 Wayback Machine snapshots (Dec
+     2005-Oct 2010) plus 6 IMF Article IV Consultation/Statistical Appendix reports, and
+     cross-validated both against this project's own WDI/IMF-IFS official-rate series for the
+     genuinely-unified window below. Result: 2005/2006/2009/2010 confirmed as originally recorded;
+     **2004, 2007, and 2008 were corrected** (2004: 8,885→8,615; 2007: 9,408→9,280; 2008:
+     9,143→9,421) — the 2008 error in particular had produced a nonsensical *negative* black-market
+     premium (parallel rate below official) in `fx__official_vs_parallel_gap_irn`, the tell that
+     first flagged it. See `data/raw/iran-cbi-imf-fx-verification-2004-2010/manifest.json` for the
+     full year-by-year evidence. **2011-2026**: daily TGJU parallel-market data, verified correctly
+     denominated in Rial (not Toman — TGJU's own page states "واحد پولی: ریال" and the live rate
+     cross-checked against a fresh web search matched our file's most recent entries almost exactly).
+   - **2002-2010 exception**: the March 2002 unification reform genuinely merged the official and
+     market rates for this window — confirmed by multiple sources describing it as a single
+     "unified, market-driven" rate with no separate black-market rate reported, and by the
+     2026-07-13 verification round finding the official and CBI-primary parallel rates agree within
+     0.1-0.5% every year 2004-2010. Using WDI's official `PA.NUS.FCRF` for this window reflects what
+     people actually paid, not a shortcut around the black-market rule. Real divergence resumes
+     ~2010-2011 as sanctions escalate (our own 2011 TGJU data already sits above the pre-2010 trend,
+     consistent with this).
    - **Rial vs. Toman**: Iran's official currency is the Rial; colloquially and in much day-to-day
      market quoting (street exchanges, some financial sites) prices are given in **Toman = 10 Rials**.
      Verify which unit a source actually uses before trusting a number — check the source's own

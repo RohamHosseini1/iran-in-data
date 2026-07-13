@@ -11,6 +11,22 @@ import json
 import os
 
 OUT_DIR = "data/charts/fx__official_vs_parallel_gap_irn"
+REGISTRY = "data/processed/CHART_REGISTRY.csv"
+CHART_ID = "fx__official_vs_parallel_gap_irn"
+
+
+def load_registry_row():
+    """title/category/sources/citations come from CHART_REGISTRY.csv, never hardcoded here --
+    a hardcoded copy in this script silently regressed the title (back to its pre-cleanup
+    long form) and citations (dropped the IMF-IFS-historical entry, restored 2026-07-13 after
+    a citation-accuracy-audit fix had been separately overwritten) the last time this ran,
+    since main() always rewrote meta.json from these literals regardless of what the
+    registry -- the single source of truth for these fields -- actually said."""
+    with open(REGISTRY, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            if row["chart_id"] == CHART_ID:
+                return row
+    raise SystemExit(f"{CHART_ID} not found in {REGISTRY}")
 
 
 def load_official_all_years():
@@ -93,13 +109,16 @@ def main():
         w.writerows(rows)
 
     years_with_both = sorted(set(official) & set(parallel))
+    reg = load_registry_row()
+    try:
+        citations = json.loads(reg["citations_json"]) if reg.get("citations_json") else []
+    except json.JSONDecodeError:
+        citations = []
     meta = {
-        "chart_id": "fx__official_vs_parallel_gap_irn",
-        "title": "Iran — Official vs. Parallel (Black-Market) USD Exchange Rate, and the Gap Between Them",
-        "category": "Exchange Rates",
-        "sources": "wdi (PA.NUS.FCRF) + IMF IFS historical (1937-1949) for official; Bahmani-Oskooee "
-                   "(2005) monthly series (1979-2003) + secondary-compiled annual anchors (2004-2010) "
-                   "+ TGJU daily data (2011-2026) for parallel",
+        "chart_id": CHART_ID,
+        "title": reg["title"],
+        "category": reg["category"],
+        "sources": reg["primary_source"],
         "n_rows": len(rows),
         "year_range": [str(all_years[0]), str(all_years[-1])],
         "countries": ["IRN"],
@@ -109,14 +128,7 @@ def main():
                  "watch for the gap opening sharply at the 1979 revolution, narrowing to ~0 during "
                  "the genuinely unified 2002-2010 window, then reopening from ~2010-2011 onward with "
                  "sanctions escalation. This chart exists specifically to make that story visible.",
-        "citations": [
-            {"source_org": "World Bank, World Development Indicators",
-             "source_url": "https://data.worldbank.org/indicator/PA.NUS.FCRF", "access_date": "2026-07-13"},
-            {"source_org": "Bahmani-Oskooee, M. (2005), Iranian Economic Review Vol.10 No.14",
-             "source_url": "https://ier.ut.ac.ir/article_30891.html", "access_date": "2026-07-13"},
-            {"source_org": "TGJU.org", "source_url": "https://www.tgju.org/profile/price_dollar_rl",
-             "access_date": "2026-07-13"},
-        ],
+        "citations": citations,
     }
     with open(os.path.join(OUT_DIR, "meta.json"), "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
