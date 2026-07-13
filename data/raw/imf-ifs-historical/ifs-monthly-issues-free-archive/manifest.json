@@ -1,0 +1,159 @@
+{
+  "dataset_id": "imf-ifs-historical-monthly-issues-free-archive",
+  "title": "IMF International Financial Statistics (IFS) — selected historical monthly issues, freely downloadable from IMF eLibrary's 'Archived Series'",
+  "source_org": "International Monetary Fund, Statistics Department",
+  "source_url": "https://www.elibrary.imf.org/subject/041",
+  "download_url": "https://www.elibrary.imf.org/downloadpdf/display/book/<doi>/<doi>.pdf (per-issue DOI, see files below)",
+  "retrieved_at_utc": "2026-07-13T03:40:00Z",
+  "retrieved_by": "agent:imf-ifs-systematic-pull (initial 4 files by agent:pahlavi-banking-hunt)",
+  "files": [
+    {
+      "name": "ifs_1948-07.pdf",
+      "original_name": "9781513531069-9781513531069.pdf",
+      "sha256": "51e1be480f88a204fd72bb4e4c82e709df42b72e060bd34a7bc957a4e44b4db6",
+      "bytes": 13267237,
+      "doi": "10.5089/9781513531069.041",
+      "issue": "International Financial Statistics, July 1948",
+      "pages": 166
+    },
+    {
+      "name": "ifs_1949-12.pdf",
+      "original_name": "9781513531656-9781513531656.pdf",
+      "sha256": "949ccc03041c5c994691fb71518dc5f10dd5c578ad72d8872b5a9f7e74fd633c",
+      "bytes": 16466556,
+      "doi": "10.5089/9781513531656.041",
+      "issue": "International Financial Statistics, December 1949",
+      "pages": 185
+    },
+    {
+      "name": "ifs_1950-12.pdf",
+      "original_name": "9781513532080-9781513532080.pdf",
+      "sha256": "d58b5143530dec95a785390390e5b9b259c845b8437025d42e516224d4e48fc0",
+      "bytes": 16144554,
+      "doi": "10.5089/9781513532080.041",
+      "issue": "International Financial Statistics, December 1950",
+      "pages": 182
+    },
+    {
+      "name": "ifs_1956-12.pdf",
+      "original_name": "9781513532561-9781513532561.pdf",
+      "sha256": "652c5d1d22ad3b5eb8d45b92e64e7f7adca606745548bb578c9ca37bc984beeb",
+      "bytes": 28747466,
+      "doi": "10.5089/9781513532561.041",
+      "issue": "International Financial Statistics, December 1956",
+      "pages": 245
+    },
+    {
+      "name": "ifs_1958-12.pdf",
+      "original_name": "9781513533513-9781513533513.pdf",
+      "sha256": "0be0fb93156a1f67f0d78bfc06601c928ec5cae933fccc32b245423c27de8d0f",
+      "bytes": 35753584,
+      "doi": "10.5089/9781513533513.041",
+      "issue": "International Financial Statistics, December 1958",
+      "pages": 296
+    },
+    {
+      "name": "ifs_1960-12.pdf",
+      "original_name": "9781513534695-9781513534695.pdf",
+      "sha256": "5d1ed02e89533559f29002216f994fe862bbbad5638f52e93a7e7b2ccddca87e",
+      "bytes": 39925345,
+      "doi": "10.5089/9781513534695.041",
+      "issue": "International Financial Statistics, December 1960",
+      "pages": 325
+    },
+    {
+      "name": "ifs_1962-04.pdf",
+      "original_name": "9781513534763-9781513534763.pdf",
+      "sha256": "75e74556815325476aaf04270ce20d2640bb38754a7ea0b335941549abcc7c66",
+      "bytes": 26453115,
+      "doi": "10.5089/9781513534763.041",
+      "issue": "International Financial Statistics, April 1962",
+      "pages": 292
+    },
+    {
+      "name": "ifs_1964-12.pdf",
+      "original_name": "9781513535760-9781513535760.pdf",
+      "sha256": "11a88bda0e1d20c95c38377285dae64c3673bebeef6b0ed7bfb677a61d866b78",
+      "bytes": 32445504,
+      "doi": "10.5089/9781513535760.041",
+      "issue": "International Financial Statistics, December 1964",
+      "pages": 328
+    },
+    {
+      "name": "ifs_1965-11.pdf",
+      "original_name": "9781513536019-9781513536019.pdf",
+      "sha256": "40ec6aa55af805b2b3feb2786a3eabade4d22209815af274fd9b04630ffee013",
+      "bytes": 33236110,
+      "doi": "10.5089/9781513536019.041",
+      "issue": "International Financial Statistics, November 1965",
+      "pages": 344
+    },
+    {
+      "name": "ifs_1966-12.pdf",
+      "original_name": "9781513534671-9781513534671.pdf",
+      "sha256": "08ba8b21799795edba5c9ba1f52b406ebc413e10a2df7e630267da43a17a02d0",
+      "bytes": 77375250,
+      "doi": "10.5089/9781513534671.041",
+      "issue": "International Financial Statistics, December 1966",
+      "pages": 349
+    },
+    {
+      "name": "ifs_1968-12.pdf",
+      "original_name": "9781513534664-9781513534664.pdf",
+      "sha256": "91779d1c5f8ec949b131132cac32b72f8472461456372a7f91b33a1cd1264d49",
+      "bytes": 39761460,
+      "doi": "10.5089/9781513534664.041",
+      "issue": "International Financial Statistics, December 1968",
+      "pages": 365
+    },
+    {
+      "name": "ifs_1969-12.pdf",
+      "original_name": "9781513533858-9781513533858.pdf",
+      "sha256": "f01886fffb2075647f90fc091e39f6d7384946f10958d0ed046cc7ed5d0b49df",
+      "bytes": 246142922,
+      "doi": "10.5089/9781513533858.041",
+      "issue": "International Financial Statistics, December 1969",
+      "pages": 365,
+      "notes": "Internal PDF metadata Title field shows a mismatched filename (9781513533896.pdf) and Producer=ABBYY FineReader 12 (OCR'd scan, unlike the iText-generated typeset PDFs used for other issues) - confirmed via full-text search this file genuinely contains 'DECEMBER 1969 Volume XXII Number 12'. Much larger file size (246MB) than neighboring issues, consistent with being an image-based OCR scan rather than a born-digital typeset PDF."
+    },
+    {
+      "name": "ifs_1970-12.pdf",
+      "original_name": "9781513533087-9781513533087.pdf",
+      "sha256": "bd1d9cd0d684ae84ae26a68e1ab2486e1b93c2b1b218500f30e8a39a915540d1",
+      "bytes": 54031342,
+      "doi": "10.5089/9781513533087.041",
+      "issue": "International Financial Statistics, December 1970",
+      "pages": 380
+    },
+    {
+      "name": "ifs_1972-12.pdf",
+      "original_name": "9781513532431-9781513532431.pdf",
+      "sha256": "92f8fa4902b500f3db0b0c8df74cf7e07a1b59f7bcca51e986349ba21f6f30ed",
+      "bytes": 58868101,
+      "doi": "10.5089/9781513532431.041",
+      "issue": "International Financial Statistics, December 1972",
+      "pages": 412
+    },
+    {
+      "name": "ifs_1974-03.pdf",
+      "original_name": "9781513532349-9781513532349.pdf",
+      "sha256": "5bafec808187439f812029247a69254db9c1dba5228edf6f55c894273cf3d24b",
+      "bytes": 26113711,
+      "doi": "10.5089/9781513532349.041",
+      "issue": "International Financial Statistics, March 1974",
+      "pages": 51,
+      "notes": "NOT a regular monthly issue - confirmed via full-text read this is a short 'New and Revised Data' supplement covering only Cyprus, Kuwait, Peru, Rwanda, Saudi Arabia, plus a general Par Values table. Iran does NOT appear in it; not usable for Iran extraction."
+    }
+  ],
+  "countries": ["IRN", "all IMF members (multi-country statistical serial)"],
+  "time_coverage": "1948-1972, one representative issue per available year (target years 1949-1979; confirmed real gaps in the free archive at 1951-1955, 1957, 1959, 1961, 1963, 1967, 1971 is WRONG - see notes; actual confirmed-empty years: 1951,1952,1953,1954,1955,1957,1959,1961,1963,1967,1971,1973,1975,1976,1977,1978,1979)",
+  "frequency": "monthly (issue-level); one hand-picked issue per available year, prioritizing December",
+  "topics": ["banking", "money supply", "government finance", "prices", "trade", "exchange rates", "IMF quotas/SDR", "national accounts", "GDP", "population"],
+  "units": "described per table inside each PDF (mostly national currency millions/billions or index numbers, IMF's own standardized presentation)",
+  "license_terms": "IMF eLibrary © International Monetary Fund; this 'Archived Series' subject collection (subject/041) is offered with a public 'Download PDF' button with no login/paywall encountered — verified via curl (no auth cookies required, HTTP 200, correct Content-Type: application/pdf). Users should still consult IMF's own copyright/usage policy (https://www.elibrary.imf.org copyright page) before redistribution.",
+  "notes": "Systematic pull session (agent:imf-ifs-systematic-pull) added 11 issues to the original 4-file sample: 1949-12, 1950-12, 1956-12, 1958-12, 1960-12, 1964-12, 1965-11, 1968-12, 1969-12, 1970-12, 1972-12. Discovered the per-year query pattern https://www.elibrary.imf.org/subject/041?fromDate=YYYY&toDate=YYYY (returns a 'noresults=true' marker in the response HTML when a year genuinely has no archived issue, distinguishing real gaps from parsing errors). Queried every year 1949-1979 individually. Years WITH free-archive issues: 1948,1949,1950,1956,1958,1960,1962,1964,1965,1966,1968,1969,1970,1972,1974(supplement only, no Iran). Years CONFIRMED EMPTY (no issues at all in the free archive): 1951,1952,1953,1954,1955,1957,1959,1961,1963,1967,1971,1973,1975,1976,1977,1978,1979 — i.e. free coverage stops dead after 1972 until (unverified) some later resumption point; within 1949-1972 it alternates in multi-year clusters. Iran's country-page format/layout changed repeatedly across this span (pre-1956: big cross-country tables; 1956-1962: 'Iran' + 'Iran (Continued)' two-page annual spread with numbered lines 1-90; 1964 onward: 'International Liquidity/Central Bank/Monetary Survey' labeled two-to-three-page spreads with quarterly+monthly detail, line codes renumbered almost every issue but cross-validated via chart legends and value continuity across overlapping years — see extraction log for full methodology and two caught-and-corrected transcription errors).",
+  "failures": [
+    "IMF eLibrary subject/041 date-filter fromDate=YYYY&toDate=YYYY -> confirmed 'noresults=true' (no issue) for: 1951,1952,1953,1954,1955,1957,1959,1961,1963,1967,1971,1973,1975,1976,1977,1978,1979",
+    "ifs_1974-03.pdf downloaded but contains no Iran data (special supplement issue, not a regular monthly)"
+  ]
+}

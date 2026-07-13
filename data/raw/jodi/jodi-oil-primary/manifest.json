@@ -1,0 +1,174 @@
+{
+  "dataset_id": "jodi-oil-primary",
+  "title": "JODI Oil World Database \u2014 Primary products, annual CSVs (2002-2026)",
+  "source_org": "Joint Organisations Data Initiative (JODI)",
+  "source_url": "https://www.jodidata.org/oil/database/data-downloads.aspx",
+  "download_url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "2002.csv",
+      "original_name": null,
+      "sha256": "2446b2e037ef8f346d4c64173b6b428cc37b19bc97a9b5473b4a243ab481aeef",
+      "bytes": 11469196
+    },
+    {
+      "name": "2003.csv",
+      "original_name": null,
+      "sha256": "571e55d0e85cb6c64ba8443c6a323c1e4ec56922870649e4415c4aaace3c33f7",
+      "bytes": 11477501
+    },
+    {
+      "name": "2004.csv",
+      "original_name": null,
+      "sha256": "2ff526b6f6e2f787a728acfcfcbde8c4c7dddec6e24472dbf327fbd35260c43c",
+      "bytes": 11482379
+    },
+    {
+      "name": "2005.csv",
+      "original_name": null,
+      "sha256": "2f96d2e3ba28c651440e4271b1480832e17a6ef619b5214a1d4bb446a30a5a1e",
+      "bytes": 11481524
+    },
+    {
+      "name": "2006.csv",
+      "original_name": null,
+      "sha256": "2842cf400968f7afa0d4f9489a40455bb36ff7b41c2d52c835b528b5623f635a",
+      "bytes": 11481952
+    },
+    {
+      "name": "2007.csv",
+      "original_name": null,
+      "sha256": "0e20c4fdb76392cb98f02d2fbd2ed54d65a90657bdf35b0659c7d0de4d32dfb6",
+      "bytes": 11486636
+    },
+    {
+      "name": "2008.csv",
+      "original_name": null,
+      "sha256": "c6241e59fde359e2393337aea77138d1a450a433741fbb250afcd463e6f2d7d0",
+      "bytes": 11488010
+    },
+    {
+      "name": "2009.csv",
+      "original_name": null,
+      "sha256": "4ae8bfbb1c347f74cbc4f3e1b887aee7139279ff9ba748eb1d61fbdce32e75f3",
+      "bytes": 11781967
+    },
+    {
+      "name": "2010.csv",
+      "original_name": null,
+      "sha256": "f09983525ec95ec3662b5d4f0962add76b76cab2b66d9bb5edfb535c24a1ed18",
+      "bytes": 11785174
+    },
+    {
+      "name": "2011.csv",
+      "original_name": null,
+      "sha256": "96fc9977215392ebb91a460bed880e35ed5e235652b6a96f9988db5991510c10",
+      "bytes": 11790353
+    },
+    {
+      "name": "2012.csv",
+      "original_name": null,
+      "sha256": "bfe7e984a6e450d1607302c1dfd1e9047d3106fe400a760e953daa5a3ae6b538",
+      "bytes": 11801512
+    },
+    {
+      "name": "2013.csv",
+      "original_name": null,
+      "sha256": "ddc05a9c8bd100e4f6c687f1a34e71b2007737e3f1c156a2b4f236193d4464aa",
+      "bytes": 11822409
+    },
+    {
+      "name": "2014.csv",
+      "original_name": null,
+      "sha256": "7a169e850af63a816b549a676bb0f7feb940d95a5fb3cf2cbaf8cd0213f53652",
+      "bytes": 11854032
+    },
+    {
+      "name": "2015.csv",
+      "original_name": null,
+      "sha256": "08d761f322d81a10c431321515683ebb9bdd4254dd6273c2c8218cb65e6cab4f",
+      "bytes": 11856506
+    },
+    {
+      "name": "2016.csv",
+      "original_name": null,
+      "sha256": "e2689657ff553737c3a58bf6806595e10fbecdb17536a25069fd14ee446ce973",
+      "bytes": 11778582
+    },
+    {
+      "name": "2017.csv",
+      "original_name": null,
+      "sha256": "e1ec1e41bce3b3ca8b7fa8f3cefbf03828e10d1900c1d5eae7542a786e13209d",
+      "bytes": 11659316
+    },
+    {
+      "name": "2018.csv",
+      "original_name": null,
+      "sha256": "eb9bdb984c4264aa58bc4ec69fa8f1b2b2c1a412f90d52511bb0d76542e895fe",
+      "bytes": 11656143
+    },
+    {
+      "name": "2019.csv",
+      "original_name": null,
+      "sha256": "1013d3351fc73d9df268451e7c3698bb6fc856637880e567c3973704247b1a23",
+      "bytes": 11641900
+    },
+    {
+      "name": "2020.csv",
+      "original_name": null,
+      "sha256": "fa12a096d21bde2e89da503b77e41ab8f7e7a56a2f00b586331994c5438562ff",
+      "bytes": 11656353
+    },
+    {
+      "name": "2021.csv",
+      "original_name": null,
+      "sha256": "5af388bfe0e5f0c443651875c4e6186482cdcbda487172b2898c303d21f36248",
+      "bytes": 11649796
+    },
+    {
+      "name": "2022.csv",
+      "original_name": null,
+      "sha256": "e0263b8a33248b154d6d3362de10a6bd7fe2a1f633e62359651c1ac474b86e68",
+      "bytes": 11649999
+    },
+    {
+      "name": "2023.csv",
+      "original_name": null,
+      "sha256": "34f170c90f39ec05850a8beee7aa196b83231fa5360662d02737deec0e75d26e",
+      "bytes": 11637677
+    },
+    {
+      "name": "2024.csv",
+      "original_name": null,
+      "sha256": "99ffe47ceee11220b16a98c2a66987881b760f1d88f1fe9caa8e62bb9282b6ff",
+      "bytes": 11603543
+    },
+    {
+      "name": "2025.csv",
+      "original_name": null,
+      "sha256": "ebffe7a8cfc9bd425d5d1549a141e560ce9896a8f1502b5859aabe191ccf0382",
+      "bytes": 11598202
+    },
+    {
+      "name": "primaryyear2026.csv",
+      "original_name": null,
+      "sha256": "3116ba36688f9b1e8a8fe85abd95510f4ad0cd9d2ae3d11fc34bc691be15750b",
+      "bytes": 3124534
+    }
+  ],
+  "countries": [
+    "ALL"
+  ],
+  "time_coverage": "2002-2026",
+  "frequency": "monthly (published as annual CSV files)",
+  "topics": [
+    "energy",
+    "oil"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "JODI open data policy",
+  "notes": "One CSV per calendar year, primary products/flows. Includes Iran, Saudi Arabia, Venezuela."
+}

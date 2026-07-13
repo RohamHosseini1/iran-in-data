@@ -1,0 +1,30 @@
+{
+  "dataset_id": "imf-ifs-historical-iran-annual-series-extracted",
+  "title": "Iran annual economic series hand-extracted from IMF IFS historical monthly issues (1937-1971)",
+  "source_org": "International Monetary Fund, Statistics Department (transcribed by agent from PDF tables)",
+  "source_url": "https://www.elibrary.imf.org/subject/041",
+  "download_url": "N/A — derived by manual/visual transcription from data/raw/imf-ifs-historical/ifs-monthly-issues-free-archive/*.pdf (pdftotext -layout extraction, cross-checked against pdftoppm-rendered page images)",
+  "retrieved_at_utc": "2026-07-13T03:40:00Z",
+  "retrieved_by": "agent:imf-ifs-systematic-pull",
+  "files": [
+    {
+      "name": "data.csv",
+      "original_name": null,
+      "sha256": "0ae9166028921c1dac696327d953bb8108cc1a72d8dd788202cf4a14ec8f9f06",
+      "bytes": 42898,
+      "rows": 674,
+      "columns": ["year", "month", "metric", "value", "unit", "source_issue"]
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1937-1971 (annual data; no gap years within this range — every calendar year 1937-1971 has at least one metric); primary project target window is 1949-1979 but issues' trailing annual tables incidentally reach back to 1937 in the earliest sources",
+  "frequency": "annual",
+  "topics": ["exchange rates", "gold and foreign exchange reserves", "money supply (M1)", "quasi-money", "domestic credit", "claims on government", "claims on private sector", "reserve money", "discount rate", "wholesale/export/import price indices (three different rebasings: 1937=100, 1953=100, 1958=100, 1963=100)", "exports", "imports", "national accounts (GDP, GNP, National Income, consumption, investment)", "population", "petroleum production index"],
+  "units": "varies by metric — see 'unit' column in data.csv (Rials per USD, Millions USD, Billions Rials, index numbers with stated base year, Per Cent, Millions population)",
+  "license_terms": "Derived from IMF eLibrary 'Archived Series' PDFs (see parent dataset manifest for terms). Transcription itself has no separate license; treat as a research derivative of IMF copyrighted tables.",
+  "notes": "SORT-AS-YOU-GO extraction: after each PDF download, Iran's country-data page(s) were located (heuristic: page containing both 'Iran' and a distinctive section keyword like 'DOMESTIC CREDIT' or 'INTERNATIONAL LIQUIDITY', found by splitting pdftotext -layout output on form-feed characters), rendered to PNG via pdftoppm at 300-600dpi, and cross-checked visually against the pdftotext -layout extraction before transcribing. Row/line-code meanings were NOT static across issues — IFS renumbered Iran's line codes almost every issue between 1956 and 1972 — so each issue's chart legend (e.g. 'CLAIMS ON GOVERNMENT (21)', 'MONEY (34)') was used to confirm row identity, cross-validated against arithmetic checksums (e.g. a Total row = sum of its components) and value-continuity on overlapping years with already-extracted data. Two transcription errors were caught via this cross-validation and corrected in-place (see logs/downloads/imf-ifs-systematic-pull.log for full detail): (1) an import/export exchange-rate mislabeling from ifs_1956-12 that was actually two sub-quotations of the EXPORT rate, corrected after ifs_1958-12's chart explicitly labeled 'PRINCIPAL EXPORT RATE (1a)' / 'PRINCIPAL IMPORT RATE (2a)'; (2) a one-year column shift in bank_melli_fx_reserves for 1959-1961 (sourced from ifs_1962-04), caught via ifs_1964-12's independently overlapping row10c values. Some issues' 'newest' annual column had genuine print/ink degradation in the original scan (esp. ifs_1950-12) making several digits ambiguous — these were SKIPPED per the no-fabrication rule rather than guessed; noted in the download log. Metric names are deliberately granular/source-specific (e.g. 'bank_melli_gold_reserves' vs later 'monetary_survey_foreign_assets' vs 'central_bank_claims_on_government' vs 'monetary_survey_claims_on_government') to avoid conflating series with different institutional scope or methodology across IFS's several reclassifications during this period (Bank Melli-only -> Monetary Survey consolidated -> Central Bank + Deposit Money Banks + Specialized Banks split). Price indices exist in FOUR different rebasings across the sample period (1937=100, 1953=100, 1958=100, 1963=100) and are kept as separate metrics rather than force-rescaled. A 1971 reserves jump in the raw data (bank_melli_gold_fx_total 208->612, fx reserves 76->469) reflects an explicit IMF footnote about a gold/FX valuation-methodology change (post-Smithsonian Agreement), not a real economic jump — flagged in the log, value kept as printed. National Accounts (GDP/GNP/National Income/consumption/investment/population) first appears in ifs_1968-12 and was captured 1961-1971 in later issues as it became available; ifs_1974-03 (the pre-existing 4th sample PDF) turned out to be a special 'New and Revised Data' supplement covering only Cyprus/Kuwait/Peru/Rwanda/Saudi Arabia and contains no Iran data at all.",
+  "failures": [
+    "ifs_1974-03.pdf: no Iran data present (special supplement, not a regular issue)",
+    "ifs_1950-12.pdf newest ('1949') annual column: several digits illegible due to print degradation in the original scan; only 3 unambiguous values extracted, rest skipped"
+  ]
+}

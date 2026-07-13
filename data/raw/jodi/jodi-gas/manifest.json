@@ -1,0 +1,30 @@
+{
+  "dataset_id": "jodi-gas-world",
+  "title": "JODI Gas World Database (new format)",
+  "source_org": "Joint Organisations Data Initiative (JODI)",
+  "source_url": "https://www.jodidata.org/gas/",
+  "download_url": "https://www.jodidata.org/_resources/files/downloads/gas-data/GAS_world_NewFormat.zip",
+  "retrieved_by": "agent:bookkeeping-backfill",
+  "retrieved_at_utc": "2026-07-12T17:54:54Z",
+  "failures": [],
+  "files": [
+    {
+      "name": "GAS_world_NewFormat.zip",
+      "original_name": null,
+      "sha256": "34e045a25735ab747c6474360c8713babc9d15068d66ea412c6041e90d8053d7",
+      "bytes": 1652693
+    }
+  ],
+  "countries": [
+    "ALL"
+  ],
+  "time_coverage": "2007-present",
+  "frequency": "monthly",
+  "topics": [
+    "energy",
+    "gas"
+  ],
+  "units": "described in file / codebook",
+  "license_terms": "JODI open data policy",
+  "notes": "Not yet unzipped."
+}
