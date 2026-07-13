@@ -1,0 +1,14 @@
+data/raw/faostat/ti-trade-indices/Trade_Indices_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
+data/raw/faostat/fbsh-food-balances-historic/FoodBalanceSheetsHistoric_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
+data/raw/faostat/fbs-food-balances/FoodBalanceSheets_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
+data/raw/faostat/qcl-production/Production_Crops_Livestock_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
+data/processed/agriculture_fbsh_food_balances_historic.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/faostat/pp-producer-prices/Prices_E_All_Data_(Normalized).csv filter=lfs diff=lfs merge=lfs -text
+data/raw/worldbank-wdi/wdi-bulk-csv/WDICSV.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/faostat/tcl-trade-crops-livestock/filtered_iran_and_comparators.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/agriculture_fbs_food_balances.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/macro_wdi.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/agriculture_qcl_production.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/worldbank-wdi/wdi-bulk-csv/WDIfootnote.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/agriculture_pp_producer_prices.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/usa-fred-bea-bls/bls-cpi-bulk/cu.data.0.Current filter=lfs diff=lfs merge=lfs -text

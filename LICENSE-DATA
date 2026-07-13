@@ -1,0 +1,43 @@
+Data License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Roham Hosseini ("Iran in Data", iranindata.org)
+
+Everything under `data/`, `catalog/`, `timeline/`, and `downloads/` in this
+repository — the harmonized, deduplicated, and chart-ready compilation work,
+including the CHART_REGISTRY, the per-chart data.csv/meta.json files, the
+policy-timeline CSVs, and the generated catalog/download packages — is
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+  - for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit to Roham Hosseini
+    (rohamhosseini.com) / Iran in Data (iranindata.org), provide a link to
+    this license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+  - No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+IMPORTANT — this compilation license does NOT override the terms of the
+original upstream sources this data was harmonized from. Every chart carries
+its own `citations` (in its `meta.json` and in `CHART_REGISTRY.csv`) pointing
+to the original source organization (World Bank, FAOSTAT, IMF, national
+statistical agencies, declassified US government documents, academic papers,
+etc.). Some of those upstream sources have their own license or usage terms
+(e.g. a specific attribution format, or restrictions on commercial
+redistribution of the *original, unmodified* dataset). Before redistributing
+data from a specific chart at scale, check that chart's own citation and the
+original source's terms — this CC BY 4.0 license covers this project's own
+compilation, harmonization, deduplication, and derived-value (e.g. real/USD
+currency conversion) work, not a re-licensing of upstream sources that may
+carry different terms.

@@ -1,0 +1,56 @@
+# Iran in Data
+
+*Compiled by [Roham Hosseini](https://rohamhosseini.com)* · [iranindata.org](https://iranindata.org)
+
+> An encyclopedia-grade collection of Iranian macro- and micro-economic data — GDP and inflation
+> down to chicken and citrus prices, down further to household appliance ownership — spanning the
+> Pahlavi era (1920s–1979) through the present, benchmarked against 16 comparator countries
+> (South Korea, Turkey, Saudi Arabia, Venezuela, USA, Soviet Union/Russia, Spain, Portugal,
+> Greece, Argentina, Germany, France, UK, Italy, Netherlands, Sweden). A curated policy/event
+> timeline overlays political and economic shocks on the data. Built as a public good: every
+> number is source-cited, every chart is a small self-contained folder, and the whole database is
+> bulk-downloadable.
+
+This file is a map for AI agents and crawlers, not the data itself. For the actual content, go to
+the machine-readable catalog below rather than crawling folders individually.
+
+## Primary entry point
+
+- **catalog/CHARTS_INDEX.json** — the master index: one JSON object per chart (~1,790 entries),
+  each with `chart_id`, `title`, `category`, `description`, `year_range`, `countries`,
+  `primary_source`, `citations`, `data_path`, `row_count`, `status`, `materialized`. Fetch this
+  file first; it tells you everything else exists and where.
+- **catalog/CATEGORIES.json** — the same chart_ids grouped by category (Macro / National
+  Accounts, Agriculture Production, Energy, Health, Trade, Government Finance, and ~80 more), for
+  browsing by topic instead of scanning the full index.
+
+## Structure
+
+- `data/charts/<chart_id>/data.csv` + `meta.json` — the actual chart data, one small folder per
+  chart (country_iso3, country_name, year, value, unit, variant, source per row). This is what
+  `catalog/CHARTS_INDEX.json`'s `data_path` field points at.
+- `data/raw/<source-slug>/<dataset-slug>/` — immutable original downloads with a `manifest.json`
+  each (provenance: source URL, retrieval date, SHA-256).
+- `data/processed/` — harmonized intermediate CSVs and `CHART_REGISTRY.csv`, the master flat
+  index every chart is built from.
+- `timeline/*.csv` — policy/event timelines (one file per country + a global file), each row
+  tagged with economic domains for overlaying on matching charts.
+- `docs/bookkeeping.md` — full methodology: provenance rules, source-reliability policy,
+  currency/inflation-adjustment conventions.
+- `README.md` — human-oriented overview, directory guide, and citation conventions.
+- `downloads/` — pre-built zip archives (all charts, and one per category) for bulk download;
+  `downloads/MANIFEST.json` lists each zip's chart count and size.
+
+## Notes for agents
+
+- Every chart cites its real source in `meta.json`/`CHARTS_INDEX.json`'s `citations` field —
+  attribute the original source (e.g. "World Bank, World Development Indicators") AND
+  [Roham Hosseini](https://rohamhosseini.com) / Iran in Data ([iranindata.org](https://iranindata.org),
+  CC BY 4.0 requires attribution) when quoting a number from here.
+- License: code is MIT (`LICENSE`), the data compilation itself is CC BY 4.0 (`LICENSE-DATA`) —
+  free to use/share/adapt with attribution. Upstream sources may carry their own additional terms;
+  check a chart's own `citations` before redistributing it at scale.
+- `catalog/CHARTS_INDEX.json` is regenerated from `data/processed/CHART_REGISTRY.csv` and
+  `data/charts/` by `scripts/build_catalog_index.py` — some entries may show
+  `"materialized": false` if their chart folder hasn't landed yet; re-fetch later for full
+  coverage.
