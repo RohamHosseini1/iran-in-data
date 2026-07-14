@@ -4,8 +4,6 @@ import * as React from "react";
 import { init, type ECharts, type EChartsOption } from "echarts";
 import { useTheme } from "next-themes";
 
-import { nextZoomWindow } from "@/lib/charts/zoom";
-
 interface InteractiveChartProps {
   /** Serializable option; chrome colors are patched in client-side. */
   option: EChartsOption;
@@ -28,18 +26,10 @@ interface InteractiveChartProps {
  * (and for crawlers), then swaps in a live SVG-renderer chart. Re-themes on
  * light/dark switch and resizes with its container.
  *
- * ZOOM is ours, not ECharts'. Its inside-dataZoom applies a coarse step per wheel
- * tick, so a trackpad flick would leap from a decade to a single year; a snap-to-year
- * timer then yanked the window again after the gesture settled. Both are gone. Here a
- * wheel gesture nudges a TARGET window and a rAF loop eases the live window toward it,
- * anchored under the cursor and hard-clamped to the data extent, so zoom is continuous
- * and cannot travel past the first or last observation.
+ * Zoom is ECharts' own inside-dataZoom, so wheel, trackpad, pinch and drag all work.
+ * The window is bounded by the data extent, so it cannot pan past the first or last
+ * observation.
  */
-
-/** Per-frame approach to the target window. Lower = smoother, laggier. */
-const ZOOM_EASE = 0.22;
-/** Below this the window is close enough to stop the rAF loop. */
-const ZOOM_EPSILON = 1e-4;
 export function InteractiveChart({
   option,
   ssrSvg,
@@ -64,8 +54,6 @@ export function InteractiveChart({
   onEventHoverRef.current = onEventHover;
   const onLawHoverRef = React.useRef(onLawHover);
   onLawHoverRef.current = onLawHover;
-  /** Set by the init effect; clears the wheel-zoom animation state. */
-  const resetZoomRef = React.useRef<(() => void) | null>(null);
 
   React.useEffect(() => {
     const host = hostRef.current;
@@ -74,95 +62,12 @@ export function InteractiveChart({
     chartRef.current = chart;
     setLive(true);
 
-    const currentWindow = (): [number, number] | null => {
-      const opt = chart.getOption() as {
-        dataZoom?: { startValue?: number; endValue?: number }[];
-      };
-      const dz = opt.dataZoom?.[0];
-      if (dz?.startValue != null && dz?.endValue != null) {
-        return [dz.startValue, dz.endValue];
-      }
-      return zoomExtentRef.current ?? null;
-    };
-
-    // ---- smooth, clamped wheel zoom -------------------------------------------
-    // The bounds ARE the data extent, so zooming out stops exactly at the first and
-    // last observation and never reveals empty gutter.
-    const minSpan = () => (timeAxisRef.current ? 7 * 864e5 : 3);
-
-    let target: [number, number] | null = null;
-    // The window WE are animating. It must be our own state, never read back from the
-    // chart: ECharts clamps what it applies, so an easing loop that re-reads the chart
-    // can chase a target it will never reach and spin rAF forever, re-rendering every
-    // frame until the renderer wedges. (It did.)
-    let cur: [number, number] | null = null;
-    let raf: number | null = null;
-
-    const step = () => {
-      raf = null;
-      if (!target || !cur) return;
-      const next: [number, number] = [
-        cur[0] + (target[0] - cur[0]) * ZOOM_EASE,
-        cur[1] + (target[1] - cur[1]) * ZOOM_EASE,
-      ];
-      const span = Math.max(target[1] - target[0], 1);
-      const done =
-        Math.abs(next[0] - target[0]) / span < ZOOM_EPSILON &&
-        Math.abs(next[1] - target[1]) / span < ZOOM_EPSILON;
-      cur = done ? target : next;
-      chart.dispatchAction({
-        type: "dataZoom",
-        startValue: cur[0],
-        endValue: cur[1],
-      });
-      if (done) target = null;
-      else raf = requestAnimationFrame(step);
-    };
-
-    const onWheel = (ev: WheelEvent) => {
-      const bounds = zoomExtentRef.current;
-      if (!bounds) return;
-      ev.preventDefault();
-
-      // Re-sync from the chart only when idle: mid-gesture the chart lags our target.
-      const win = target ?? cur ?? currentWindow();
-      if (!win) return;
-
-      // Trackpad pinch arrives as ctrl+wheel; it is already a deliberate zoom
-      // gesture, so it gets a firmer factor than an incidental scroll.
-      const delta = ev.deltaY * (ev.ctrlKey ? 2.2 : 1);
-
-      // Anchor at the cursor so the point under the pointer stays put.
-      const px = chart.convertFromPixel({ xAxisIndex: 0 }, [
-        ev.offsetX,
-        ev.offsetY,
-      ]) as unknown as number[] | number;
-      const cursor = Array.isArray(px) ? px[0] : px;
-      const anchor =
-        typeof cursor === "number" && Number.isFinite(cursor)
-          ? cursor
-          : (win[0] + win[1]) / 2;
-
-      if (!cur) cur = [win[0], win[1]];
-      target = nextZoomWindow({
-        win: [win[0], win[1]],
-        bounds,
-        delta,
-        anchor,
-        minSpan: minSpan(),
-      });
-      if (raf == null) raf = requestAnimationFrame(step);
-    };
-    host.addEventListener("wheel", onWheel, { passive: false });
-
-    // A new measure / country set means a new window: drop the animation state so a
-    // stale one cannot leak across and fight the fresh zoomExtent.
-    resetZoomRef.current = () => {
-      if (raf != null) cancelAnimationFrame(raf);
-      raf = null;
-      target = null;
-      cur = null;
-    };
+    // Zoom is ECharts' own inside-dataZoom (wheel, trackpad, pinch, drag). A custom
+    // wheel handler that eased the window itself was tried and reverted: it is NOT
+    // worth reimplementing a gesture the library already handles across every input
+    // device. The jumping the owner reported came from the snap-to-year timer that
+    // used to live here, which fired a dataZoom jump 260ms after every gesture
+    // settled. That is gone. Sensitivity is tempered in line-option.ts instead.
 
     // Marker hover → detail card beside the chart. Events (amber) and laws (grey)
     // are separate markLine series, so route by seriesName.
@@ -186,8 +91,6 @@ export function InteractiveChart({
     const observer = new ResizeObserver(() => chart.resize());
     observer.observe(host);
     return () => {
-      if (raf != null) cancelAnimationFrame(raf);
-      host.removeEventListener("wheel", onWheel);
       observer.disconnect();
       chart.dispose();
       chartRef.current = null;
@@ -198,7 +101,6 @@ export function InteractiveChart({
   React.useEffect(() => {
     const chart = chartRef.current;
     if (!chart) return;
-    resetZoomRef.current?.();
     chart.setOption(option, { notMerge: true });
     if (zoomExtent) {
       chart.dispatchAction({

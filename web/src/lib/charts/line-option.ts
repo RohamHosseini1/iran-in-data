@@ -530,10 +530,13 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
     xAxis: timeMode
       ? {
           type: "time" as const,
-          // Hard-bound to the data: a time axis otherwise pads out to a round tick,
-          // showing empty gutter before the first and after the last observation.
-          min: "dataMin" as const,
-          max: "dataMax" as const,
+          // Bound to the data so the axis never pads out to a round tick and shows
+          // empty gutter. These MUST be functions, not "dataMin"/"dataMax": a literal
+          // min/max PINS the axis, so dataZoom would filter the series while the axis
+          // stayed frozen -- the line jumped about and got clipped, and zoom appeared
+          // to do nothing. As functions they track the extent of what is on screen.
+          min: (v: { min: number }) => v.min,
+          max: (v: { max: number }) => v.max,
           axisLine: { lineStyle: { color: chrome.border } },
           axisTick: { show: false },
           splitLine: { show: false },
@@ -547,8 +550,10 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
         }
       : {
           type: "value" as const,
-          min: "dataMin" as const,
-          max: "dataMax" as const,
+          // Functions, not "dataMin"/"dataMax" -- see the time-axis note above. A
+          // literal min/max pins the axis and silently breaks zoom.
+          min: (v: { min: number }) => v.min,
+          max: (v: { max: number }) => v.max,
           axisLine: { lineStyle: { color: chrome.border } },
           axisTick: { show: false },
           splitLine: { show: false },
@@ -589,11 +594,12 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
     dataZoom: [
       {
         type: "inside",
+        // throttle 0: apply every wheel/trackpad event as it arrives. The old value
+        // (180ms) coalesced a smooth trackpad gesture into a few big lurches, which is
+        // what made the chart feel like it jumped decades at a time.
         throttle: 0,
         minValueSpan: timeMode ? 7 * 864e5 : 3,
-        // Wheel zoom is handled in interactive-chart.tsx: ECharts' own step is coarse
-        // and lurches from decades to a single year. Drag-to-pan stays ECharts'.
-        zoomOnMouseWheel: false,
+        zoomOnMouseWheel: true,
         moveOnMouseWheel: false,
         moveOnMouseMove: true,
       },
