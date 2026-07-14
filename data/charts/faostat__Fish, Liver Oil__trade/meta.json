@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fish, Liver Oil__trade",
-  "title": "Fish, Liver Oil",
+  "title": "Fish, Liver Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 918,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن جگر ماهی"
+  "title_fa": "صادرات و واردات روغن جگر ماهی"
 }

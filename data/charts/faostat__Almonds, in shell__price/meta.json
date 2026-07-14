@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Almonds, in shell__price",
-  "title": "Almonds, in shell",
+  "title": "Almonds, in shell, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1182,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "بادام با پوست"
+  "title_fa": "قیمت تولیدکننده بادام با پوست"
 }

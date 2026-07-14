@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Dates__production",
-  "title": "Dates",
+  "title": "Dates, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 981,
@@ -25,5 +25,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "خرما"
+  "title_fa": "تولید خرما"
 }

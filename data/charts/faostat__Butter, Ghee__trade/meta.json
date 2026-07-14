@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Butter, Ghee__trade",
-  "title": "Butter, Ghee",
+  "title": "Butter, Ghee, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 950,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "کره، روغن حیوانی"
+  "title_fa": "صادرات و واردات کره، روغن حیوانی"
 }

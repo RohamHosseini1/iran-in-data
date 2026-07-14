@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Millet and products__trade",
-  "title": "Millet and products",
+  "title": "Millet and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 918,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "ارزن و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات ارزن و فرآورده‌های آن"
 }

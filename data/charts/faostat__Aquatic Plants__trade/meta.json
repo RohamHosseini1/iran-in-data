@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Aquatic Plants__trade",
-  "title": "Aquatic Plants",
+  "title": "Aquatic Plants, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 938,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "گیاهان آبزی"
+  "title_fa": "صادرات و واردات گیاهان آبزی"
 }

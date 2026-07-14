@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Coconuts - Incl Copra__trade",
-  "title": "Coconuts - Incl Copra",
+  "title": "Coconuts - Incl Copra, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 934,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "نارگیل (شامل کوپرا)"
+  "title_fa": "صادرات و واردات نارگیل (شامل کوپرا)"
 }

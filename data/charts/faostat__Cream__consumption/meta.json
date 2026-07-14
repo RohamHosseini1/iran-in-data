@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cream__consumption",
-  "title": "Cream",
+  "title": "Cream, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1192,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "خامه"
+  "title_fa": "مصرف سرانه خامه"
 }

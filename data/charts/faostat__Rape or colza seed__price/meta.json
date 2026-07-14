@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Rape or colza seed__price",
-  "title": "Rape or colza seed",
+  "title": "Rape or colza seed, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1082,
+  "n_rows": 968,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "دانه کلزا"
+  "title_fa": "قیمت تولیدکننده دانه کلزا"
 }

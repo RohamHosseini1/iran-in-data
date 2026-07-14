@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Lemons and limes__price",
-  "title": "Lemons and limes",
+  "title": "Lemons and limes, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1566,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "لیمو ترش و لیمو شیرین"
+  "title_fa": "قیمت تولیدکننده لیمو ترش و لیمو شیرین"
 }

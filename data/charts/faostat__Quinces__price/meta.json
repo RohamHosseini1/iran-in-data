@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Quinces__price",
-  "title": "Quinces",
+  "title": "Quinces, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 714,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "به"
+  "title_fa": "قیمت تولیدکننده به"
 }

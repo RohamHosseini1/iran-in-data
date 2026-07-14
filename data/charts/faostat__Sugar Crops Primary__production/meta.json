@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sugar Crops Primary__production",
-  "title": "Sugar Crops Primary",
+  "title": "Sugar Crops Primary, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 1635,
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "محصولات قندی، اولیه"
+  "title_fa": "تولید محصولات قندی، اولیه"
 }

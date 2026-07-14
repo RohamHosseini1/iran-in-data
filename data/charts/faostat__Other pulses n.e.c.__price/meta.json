@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Other pulses n.e.c.__price",
-  "title": "Other pulses n.e.c.",
+  "title": "Other pulses n.e.c., Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 711,
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر حبوبات"
+  "title_fa": "قیمت تولیدکننده سایر حبوبات"
 }

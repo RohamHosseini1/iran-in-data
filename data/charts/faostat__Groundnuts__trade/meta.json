@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Groundnuts__trade",
-  "title": "Groundnuts",
+  "title": "Groundnuts, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 448,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "بادام‌زمینی"
+  "title_fa": "صادرات و واردات بادام‌زمینی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cephalopods__consumption",
-  "title": "Cephalopods",
+  "title": "Cephalopods, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1305,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سرپایان"
+  "title_fa": "مصرف سرانه سرپایان"
 }

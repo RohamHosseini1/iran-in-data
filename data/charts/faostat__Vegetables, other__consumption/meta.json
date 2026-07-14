@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Vegetables, other__consumption",
-  "title": "Vegetables, other",
+  "title": "Vegetables, other, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر سبزیجات"
+  "title_fa": "مصرف سرانه سایر سبزیجات"
 }

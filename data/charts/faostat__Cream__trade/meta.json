@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cream__trade",
-  "title": "Cream",
+  "title": "Cream, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 827,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "خامه"
+  "title_fa": "صادرات و واردات خامه"
 }

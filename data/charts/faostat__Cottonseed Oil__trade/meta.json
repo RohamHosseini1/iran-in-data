@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cottonseed Oil__trade",
-  "title": "Cottonseed Oil",
+  "title": "Cottonseed Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 910,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن دانه پنبه"
+  "title_fa": "صادرات و واردات روغن دانه پنبه"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pistachios, in shell__price",
-  "title": "Pistachios, in shell",
+  "title": "Pistachios, in shell, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 711,
@@ -29,5 +29,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "پسته با پوست"
+  "title_fa": "قیمت تولیدکننده پسته با پوست"
 }

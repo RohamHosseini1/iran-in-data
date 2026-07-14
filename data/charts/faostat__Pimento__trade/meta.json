@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pimento__trade",
-  "title": "Pimento",
+  "title": "Pimento, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 948,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "فلفل دلمه‌ای"
+  "title_fa": "صادرات و واردات فلفل دلمه‌ای"
 }

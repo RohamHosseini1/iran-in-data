@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Bees__production",
-  "title": "Bees",
+  "title": "Bees, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 543,
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "زنبور عسل"
+  "title_fa": "تولید زنبور عسل"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Tea leaves__price",
-  "title": "Tea leaves",
+  "title": "Tea leaves, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 634,
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "برگ چای"
+  "title_fa": "قیمت تولیدکننده برگ چای"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cereals, primary__price",
-  "title": "Cereals, primary",
+  "title": "Cereals, primary, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 349,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "غلات، اولیه"
+  "title_fa": "قیمت تولیدکننده غلات، اولیه"
 }

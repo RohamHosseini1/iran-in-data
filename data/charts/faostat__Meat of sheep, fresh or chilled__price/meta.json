@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Meat of sheep, fresh or chilled__price",
-  "title": "Meat of sheep, fresh or chilled",
+  "title": "Meat of sheep, fresh or chilled, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 638,
+  "n_rows": 314,
   "year_range": [
     "1991",
     "2025"
@@ -17,8 +17,7 @@
     "RUS",
     "SAU",
     "TUR",
-    "USA",
-    "VEN"
+    "USA"
   ],
   "citations": [
     {
@@ -35,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گوشت گوسفند، تازه یا سردکرده"
+  "title_fa": "قیمت تولیدکننده گوشت گوسفند، تازه یا سردکرده"
 }

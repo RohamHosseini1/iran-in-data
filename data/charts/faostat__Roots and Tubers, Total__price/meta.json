@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Roots and Tubers, Total__price",
-  "title": "Roots and Tubers, Total",
+  "title": "Roots and Tubers, Total, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 341,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "ریشه‌ها و غده‌ها (کل)"
+  "title_fa": "قیمت تولیدکننده ریشه‌ها و غده‌ها (کل)"
 }

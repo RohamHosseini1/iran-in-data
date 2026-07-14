@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Apples__price",
-  "title": "Apples",
+  "title": "Apples, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1688,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سیب"
+  "title_fa": "قیمت تولیدکننده سیب"
 }

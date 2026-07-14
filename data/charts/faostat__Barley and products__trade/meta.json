@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Barley and products__trade",
-  "title": "Barley and products",
+  "title": "Barley and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 943,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "جو و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات جو و فرآورده‌های آن"
 }

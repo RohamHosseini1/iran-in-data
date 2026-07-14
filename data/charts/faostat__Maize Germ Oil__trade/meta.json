@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Maize Germ Oil__trade",
-  "title": "Maize Germ Oil",
+  "title": "Maize Germ Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 930,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن جوانه ذرت"
+  "title_fa": "صادرات و واردات روغن جوانه ذرت"
 }

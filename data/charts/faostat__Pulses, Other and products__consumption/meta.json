@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pulses, Other and products__consumption",
-  "title": "Pulses, Other and products",
+  "title": "Pulses, Other and products, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر حبوبات و فرآورده‌های آن"
+  "title_fa": "مصرف سرانه سایر حبوبات و فرآورده‌های آن"
 }

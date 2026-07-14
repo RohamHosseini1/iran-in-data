@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Plums and sloes__price",
-  "title": "Plums and sloes",
+  "title": "Plums and sloes, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1177,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "آلو و گوجه وحشی"
+  "title_fa": "قیمت تولیدکننده آلو و گوجه وحشی"
 }

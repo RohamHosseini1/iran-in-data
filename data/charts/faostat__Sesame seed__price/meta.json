@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sesame seed__price",
-  "title": "Sesame seed",
+  "title": "Sesame seed, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 757,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "کنجد"
+  "title_fa": "قیمت تولیدکننده کنجد"
 }

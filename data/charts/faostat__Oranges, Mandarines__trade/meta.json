@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Oranges, Mandarines__trade",
-  "title": "Oranges, Mandarines",
+  "title": "Oranges, Mandarines, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 958,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "پرتقال و نارنگی"
+  "title_fa": "صادرات و واردات پرتقال و نارنگی"
 }

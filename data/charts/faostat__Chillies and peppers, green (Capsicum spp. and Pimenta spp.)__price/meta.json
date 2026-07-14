@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__price",
-  "title": "Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",
+  "title": "Chillies and peppers, green (Capsicum spp. and Pimenta spp.), Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1335,
+  "n_rows": 260,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -16,8 +16,7 @@
     "ITA",
     "KOR",
     "TUR",
-    "USA",
-    "VEN"
+    "USA"
   ],
   "citations": [
     {
@@ -34,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "فلفل تند و فلفل، سبز"
+  "title_fa": "قیمت تولیدکننده فلفل تند و فلفل، سبز"
 }

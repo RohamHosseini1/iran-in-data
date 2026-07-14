@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Molluscs, Other__consumption",
-  "title": "Molluscs, Other",
+  "title": "Molluscs, Other, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1291,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر نرم‌تنان"
+  "title_fa": "مصرف سرانه سایر نرم‌تنان"
 }

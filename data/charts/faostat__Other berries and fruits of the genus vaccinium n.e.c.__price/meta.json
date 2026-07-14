@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Other berries and fruits of the genus vaccinium n.e.c.__price",
-  "title": "Other berries and fruits of the genus vaccinium n.e.c.",
+  "title": "Other berries and fruits of the genus vaccinium n.e.c., Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 572,
+  "n_rows": 286,
   "year_range": [
     "1966",
     "2025"
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر انواع توت و میوه جنس ویاکسینیوم"
+  "title_fa": "قیمت تولیدکننده سایر انواع توت و میوه جنس ویاکسینیوم"
 }

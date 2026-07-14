@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cassava and products__trade",
-  "title": "Cassava and products",
+  "title": "Cassava and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 851,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "کاساوا و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات کاساوا و فرآورده‌های آن"
 }

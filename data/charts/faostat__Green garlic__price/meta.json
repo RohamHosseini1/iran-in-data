@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Green garlic__price",
-  "title": "Green garlic",
+  "title": "Green garlic, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1522,
+  "n_rows": 1357,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سیر سبز"
+  "title_fa": "قیمت تولیدکننده سیر سبز"
 }

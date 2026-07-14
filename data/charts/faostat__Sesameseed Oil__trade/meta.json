@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sesameseed Oil__trade",
-  "title": "Sesameseed Oil",
+  "title": "Sesameseed Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 933,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن کنجد"
+  "title_fa": "صادرات و واردات روغن کنجد"
 }

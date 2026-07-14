@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Offals__trade",
-  "title": "Offals",
+  "title": "Offals, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 942,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "احشا"
+  "title_fa": "صادرات و واردات احشا"
 }

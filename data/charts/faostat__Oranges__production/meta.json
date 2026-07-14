@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Oranges__production",
-  "title": "Oranges",
+  "title": "Oranges, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 1513,
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "پرتقال"
+  "title_fa": "تولید پرتقال"
 }

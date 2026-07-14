@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Marine Fish, Other__trade",
-  "title": "Marine Fish, Other",
+  "title": "Marine Fish, Other, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 905,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "سایر ماهیان دریایی"
+  "title_fa": "صادرات و واردات سایر ماهیان دریایی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Milk - Excluding Butter__consumption",
-  "title": "Milk - Excluding Butter",
+  "title": "Milk - Excluding Butter, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 2612,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "شیر (به استثنای کره)"
+  "title_fa": "مصرف سرانه شیر (به استثنای کره)"
 }

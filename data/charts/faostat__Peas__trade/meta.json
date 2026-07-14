@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Peas__trade",
-  "title": "Peas",
+  "title": "Peas, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 936,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "نخود فرنگی"
+  "title_fa": "صادرات و واردات نخود فرنگی"
 }

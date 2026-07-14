@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Apples and products__trade",
-  "title": "Apples and products",
+  "title": "Apples and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 957,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "سیب و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات سیب و فرآورده‌های آن"
 }

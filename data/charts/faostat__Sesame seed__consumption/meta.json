@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Sesame seed__consumption",
-  "title": "Sesame seed",
+  "title": "Sesame seed, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 908,
+  "n_rows": 228,
   "year_range": [
-    "1961",
+    "2010",
     "2023"
   ],
   "countries": [
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "کنجد"
+  "title_fa": "مصرف سرانه کنجد"
 }

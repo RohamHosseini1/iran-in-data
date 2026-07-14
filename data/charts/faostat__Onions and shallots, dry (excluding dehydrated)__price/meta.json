@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Onions and shallots, dry (excluding dehydrated)__price",
-  "title": "Onions and shallots, dry (excluding dehydrated)",
+  "title": "Onions and shallots, dry (excluding dehydrated), Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 2076,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "پیاز و موسیر خشک"
+  "title_fa": "قیمت تولیدکننده پیاز و موسیر خشک"
 }

@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Palm Oil__consumption",
-  "title": "Palm Oil",
+  "title": "Palm Oil, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 965,
+  "n_rows": 125,
   "year_range": [
-    "1961",
+    "2010",
     "2023"
   ],
   "countries": [
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "روغن پالم"
+  "title_fa": "مصرف سرانه روغن پالم"
 }

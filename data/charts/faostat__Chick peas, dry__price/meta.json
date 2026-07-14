@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Chick peas, dry__price",
-  "title": "Chick peas, dry",
+  "title": "Chick peas, dry, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1286,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "نخود خشک"
+  "title_fa": "قیمت تولیدکننده نخود خشک"
 }

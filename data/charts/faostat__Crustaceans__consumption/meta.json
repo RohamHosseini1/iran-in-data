@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Crustaceans__consumption",
-  "title": "Crustaceans",
+  "title": "Crustaceans, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سخت‌پوستان"
+  "title_fa": "مصرف سرانه سخت‌پوستان"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Dates__consumption",
-  "title": "Dates",
+  "title": "Dates, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "خرما"
+  "title_fa": "مصرف سرانه خرما"
 }

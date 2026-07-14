@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Meat, Total__production",
-  "title": "Meat, Total",
+  "title": "Meat, Total, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 673,
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "گوشت (کل)"
+  "title_fa": "تولید گوشت (کل)"
 }

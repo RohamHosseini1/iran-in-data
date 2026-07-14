@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sugar (Raw Equivalent)__consumption",
-  "title": "Sugar (Raw Equivalent)",
+  "title": "Sugar (Raw Equivalent), Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "شکر (معادل خام)"
+  "title_fa": "مصرف سرانه شکر (معادل خام)"
 }

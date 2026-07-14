@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Coffee and products__trade",
-  "title": "Coffee and products",
+  "title": "Coffee and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 952,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "قهوه و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات قهوه و فرآورده‌های آن"
 }

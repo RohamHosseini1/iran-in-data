@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Bananas__trade",
-  "title": "Bananas",
+  "title": "Bananas, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 918,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "موز"
+  "title_fa": "صادرات و واردات موز"
 }

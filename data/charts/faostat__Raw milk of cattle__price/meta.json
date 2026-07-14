@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Raw milk of cattle__price",
-  "title": "Raw milk of cattle",
+  "title": "Raw milk of cattle, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 2248,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "شیر خام گاو"
+  "title_fa": "قیمت تولیدکننده شیر خام گاو"
 }

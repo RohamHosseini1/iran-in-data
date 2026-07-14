@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sunflower seed__trade",
-  "title": "Sunflower seed",
+  "title": "Sunflower seed, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 938,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "دانه آفتابگردان"
+  "title_fa": "صادرات و واردات دانه آفتابگردان"
 }

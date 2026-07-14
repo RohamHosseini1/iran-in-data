@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Meat of buffalo, fresh or chilled__price",
-  "title": "Meat of buffalo, fresh or chilled",
+  "title": "Meat of buffalo, fresh or chilled, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 177,
+  "n_rows": 105,
   "year_range": [
     "1991",
     "2025"
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گوشت گاومیش، تازه یا سردکرده"
+  "title_fa": "قیمت تولیدکننده گوشت گاومیش، تازه یا سردکرده"
 }

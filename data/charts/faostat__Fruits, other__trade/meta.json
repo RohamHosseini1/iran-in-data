@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fruits, other__trade",
-  "title": "Fruits, other",
+  "title": "Fruits, other, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 958,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "سایر میوه‌ها"
+  "title_fa": "صادرات و واردات سایر میوه‌ها"
 }

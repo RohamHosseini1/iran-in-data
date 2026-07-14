@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Meat of geese, fresh or chilled__price",
-  "title": "Meat of geese, fresh or chilled",
+  "title": "Meat of geese, fresh or chilled, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 170,
+  "n_rows": 140,
   "year_range": [
     "1991",
     "2025"
@@ -29,5 +29,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گوشت غاز، تازه یا سردکرده"
+  "title_fa": "قیمت تولیدکننده گوشت غاز، تازه یا سردکرده"
 }

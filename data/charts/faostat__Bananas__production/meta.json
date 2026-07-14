@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Bananas__production",
-  "title": "Bananas",
+  "title": "Bananas, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 1370,
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "موز"
+  "title_fa": "تولید موز"
 }

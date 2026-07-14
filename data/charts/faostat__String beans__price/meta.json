@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__String beans__price",
-  "title": "String beans",
+  "title": "String beans, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 569,
+  "n_rows": 480,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "لوبیا سبز"
+  "title_fa": "قیمت تولیدکننده لوبیا سبز"
 }

@@ -1,18 +1,17 @@
 {
   "chart_id": "faostat__Cereals, Other__trade",
-  "title": "Cereals, Other",
+  "title": "Cereals, other, Imports & Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 470,
+  "n_rows": 417,
   "year_range": [
-    "1961",
+    "2010",
     "2023"
   ],
   "countries": [
     "ARG",
     "ESP",
     "IRN",
-    "IRQ",
     "ITA",
     "KOR",
     "RUS",
@@ -36,5 +35,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "سایر غلات"
+  "title_fa": "غلات، سایر، صادرات و واردات"
 }

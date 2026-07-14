@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Aquatic Animals, Others__consumption",
-  "title": "Aquatic Animals, Others",
+  "title": "Aquatic Animals, Others, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1292,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر جانوران آبزی"
+  "title_fa": "مصرف سرانه سایر جانوران آبزی"
 }

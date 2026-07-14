@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cucumbers and gherkins__price",
-  "title": "Cucumbers and gherkins",
+  "title": "Cucumbers and gherkins, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1923,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "خیار و خیارترشی"
+  "title_fa": "قیمت تولیدکننده خیار و خیارترشی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fish, Seafood__trade",
-  "title": "Fish, Seafood",
+  "title": "Fish, Seafood, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 961,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "ماهی و غذاهای دریایی"
+  "title_fa": "صادرات و واردات ماهی و غذاهای دریایی"
 }

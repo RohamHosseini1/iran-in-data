@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pulses, Total__price",
-  "title": "Pulses, Total",
+  "title": "Pulses, Total, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 329,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "حبوبات (کل)"
+  "title_fa": "قیمت تولیدکننده حبوبات (کل)"
 }

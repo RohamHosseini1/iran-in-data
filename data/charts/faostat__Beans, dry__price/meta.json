@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Beans, dry__price",
-  "title": "Beans, dry",
+  "title": "Beans, dry, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1739,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "لوبیا خشک"
+  "title_fa": "قیمت تولیدکننده لوبیا خشک"
 }

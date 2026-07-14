@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Hen eggs in shell, fresh__production__yield_carcass_weight",
-  "title": "Hen eggs in shell, fresh, yield/carcass weight (g/An)",
+  "title": "Hen eggs in shell, fresh, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 924,
+  "n_rows": 668,
   "year_range": [
     "1961",
     "2024"
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "وزن لاشه تخم‌مرغ با پوست، تازه (گرم بر رأس)"
+  "title_fa": "تولید وزن لاشه تخم‌مرغ با پوست، تازه (گرم بر رأس)"
 }

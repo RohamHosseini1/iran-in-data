@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Other fruits, n.e.c.__price",
-  "title": "Other fruits, n.e.c.",
+  "title": "Other fruits, n.e.c., Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 423,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر میوه‌ها"
+  "title_fa": "قیمت تولیدکننده سایر میوه‌ها"
 }

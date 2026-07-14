@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Eggplants (aubergines)__price",
-  "title": "Eggplants (aubergines)",
+  "title": "Eggplants (aubergines), Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1468,
+  "n_rows": 1318,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "بادمجان"
+  "title_fa": "قیمت تولیدکننده بادمجان"
 }

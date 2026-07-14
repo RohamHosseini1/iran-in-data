@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Palm Oil__trade",
-  "title": "Palm Oil",
+  "title": "Palm Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 932,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن پالم"
+  "title_fa": "صادرات و واردات روغن پالم"
 }

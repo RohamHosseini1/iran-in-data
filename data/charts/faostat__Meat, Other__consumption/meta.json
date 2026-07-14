@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Meat, Other__consumption",
-  "title": "Meat, Other",
+  "title": "Meat, Other, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر گوشت‌ها"
+  "title_fa": "مصرف سرانه سایر گوشت‌ها"
 }

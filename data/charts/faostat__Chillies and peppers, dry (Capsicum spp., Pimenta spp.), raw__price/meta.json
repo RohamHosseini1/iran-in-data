@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__price",
-  "title": "Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",
+  "title": "Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 372,
+  "n_rows": 254,
   "year_range": [
     "1966",
     "2025"
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "فلفل تند و فلفل، خشک"
+  "title_fa": "قیمت تولیدکننده فلفل تند و فلفل، خشک"
 }

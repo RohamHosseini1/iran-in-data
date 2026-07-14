@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Miscellaneous__trade",
-  "title": "Miscellaneous",
+  "title": "Miscellaneous, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1415,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "متفرقه"
+  "title_fa": "صادرات و واردات متفرقه"
 }

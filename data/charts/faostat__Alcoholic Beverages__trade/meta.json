@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Alcoholic Beverages__trade",
-  "title": "Alcoholic Beverages",
+  "title": "Alcoholic Beverages, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 955,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "نوشیدنی‌های الکلی"
+  "title_fa": "صادرات و واردات نوشیدنی‌های الکلی"
 }

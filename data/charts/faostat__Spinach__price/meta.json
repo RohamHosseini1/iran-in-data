@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Spinach__price",
-  "title": "Spinach",
+  "title": "Spinach, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1236,
+  "n_rows": 1111,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "اسفناج"
+  "title_fa": "قیمت تولیدکننده اسفناج"
 }

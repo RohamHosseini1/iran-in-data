@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Maize (corn)__price",
-  "title": "Maize (corn)",
+  "title": "Maize (corn), Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 2264,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "ذرت"
+  "title_fa": "قیمت تولیدکننده ذرت"
 }

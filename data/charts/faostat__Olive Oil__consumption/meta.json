@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Olive Oil__consumption",
-  "title": "Olive Oil",
+  "title": "Olive Oil, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "روغن زیتون"
+  "title_fa": "مصرف سرانه روغن زیتون"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Infant food__consumption",
-  "title": "Infant food",
+  "title": "Infant food, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 798,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "غذای کودک"
+  "title_fa": "مصرف سرانه غذای کودک"
 }

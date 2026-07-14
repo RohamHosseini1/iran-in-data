@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Animal fats__trade",
-  "title": "Animal fats",
+  "title": "Animal fats, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 956,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "چربی‌های حیوانی"
+  "title_fa": "صادرات و واردات چربی‌های حیوانی"
 }

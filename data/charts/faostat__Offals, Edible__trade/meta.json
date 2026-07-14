@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Offals, Edible__trade",
-  "title": "Offals, Edible",
+  "title": "Offals, Edible, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 942,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "احشای خوراکی"
+  "title_fa": "صادرات و واردات احشای خوراکی"
 }

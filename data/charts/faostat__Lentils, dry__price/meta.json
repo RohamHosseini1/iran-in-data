@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Lentils, dry__price",
-  "title": "Lentils, dry",
+  "title": "Lentils, dry, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1380,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "عدس خشک"
+  "title_fa": "قیمت تولیدکننده عدس خشک"
 }

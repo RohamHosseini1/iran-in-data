@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pulses__trade",
-  "title": "Pulses",
+  "title": "Pulses, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 957,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "حبوبات"
+  "title_fa": "صادرات و واردات حبوبات"
 }

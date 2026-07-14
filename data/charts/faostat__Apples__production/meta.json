@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Apples__production",
-  "title": "Apples",
+  "title": "Apples, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 1549,
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "سیب"
+  "title_fa": "تولید سیب"
 }

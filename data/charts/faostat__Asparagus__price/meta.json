@@ -1,15 +1,14 @@
 {
   "chart_id": "faostat__Asparagus__price",
-  "title": "Asparagus",
+  "title": "Asparagus, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 699,
+  "n_rows": 175,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
-    "ARG",
     "ESP",
     "IRN",
     "ITA",
@@ -31,5 +30,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "مارچوبه"
+  "title_fa": "قیمت تولیدکننده مارچوبه"
 }

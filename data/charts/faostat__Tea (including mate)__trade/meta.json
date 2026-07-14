@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Tea (including mate)__trade",
-  "title": "Tea (including mate)",
+  "title": "Tea (including mate), Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 952,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "چای، شامل ماته"
+  "title_fa": "صادرات و واردات چای، شامل ماته"
 }

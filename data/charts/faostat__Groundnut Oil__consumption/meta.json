@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Groundnut Oil__consumption",
-  "title": "Groundnut Oil",
+  "title": "Groundnut Oil, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "روغن بادام‌زمینی"
+  "title_fa": "مصرف سرانه روغن بادام‌زمینی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Mutton & Goat Meat__consumption",
-  "title": "Mutton & Goat Meat",
+  "title": "Mutton & Goat Meat, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "گوشت گوسفند و بز"
+  "title_fa": "مصرف سرانه گوشت گوسفند و بز"
 }

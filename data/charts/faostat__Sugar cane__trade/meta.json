@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sugar cane__trade",
-  "title": "Sugar cane",
+  "title": "Sugar cane, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 853,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "نیشکر"
+  "title_fa": "صادرات و واردات نیشکر"
 }

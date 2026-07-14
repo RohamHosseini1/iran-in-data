@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Barley__production",
-  "title": "Barley",
+  "title": "Barley, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 1827,
@@ -29,5 +29,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "جو"
+  "title_fa": "تولید جو"
 }

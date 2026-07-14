@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Vegetables, other__trade",
-  "title": "Vegetables, other",
+  "title": "Vegetables, other, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 959,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "سایر سبزیجات"
+  "title_fa": "صادرات و واردات سایر سبزیجات"
 }

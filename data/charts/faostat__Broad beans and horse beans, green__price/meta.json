@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Broad beans and horse beans, green__price",
-  "title": "Broad beans and horse beans, green",
+  "title": "Broad beans and horse beans, green, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 867,
+  "n_rows": 792,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "باقلا سبز"
+  "title_fa": "قیمت تولیدکننده باقلا سبز"
 }

@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Safflower seed__price",
-  "title": "Safflower seed",
+  "title": "Safflower seed, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 622,
+  "n_rows": 209,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "دانه گلرنگ"
+  "title_fa": "قیمت تولیدکننده دانه گلرنگ"
 }

@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Pumpkins, squash and gourds__price",
-  "title": "Pumpkins, squash and gourds",
+  "title": "Pumpkins, squash and gourds, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1410,
+  "n_rows": 470,
   "year_range": [
     "1966",
     "2025"
@@ -18,8 +18,7 @@
     "RUS",
     "SAU",
     "TUR",
-    "USA",
-    "VEN"
+    "USA"
   ],
   "citations": [
     {
@@ -36,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "کدو، کدوحلوایی و کدوهای دیگر"
+  "title_fa": "قیمت تولیدکننده کدو، کدوحلوایی و کدوهای دیگر"
 }

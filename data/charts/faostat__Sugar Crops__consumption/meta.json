@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Sugar Crops__consumption",
-  "title": "Sugar Crops",
+  "title": "Sugar Crops, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 638,
+  "n_rows": 170,
   "year_range": [
-    "1961",
+    "2010",
     "2023"
   ],
   "countries": [
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "محصولات قندی"
+  "title_fa": "مصرف سرانه محصولات قندی"
 }

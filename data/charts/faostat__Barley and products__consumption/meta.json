@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Barley and products__consumption",
-  "title": "Barley and products",
+  "title": "Barley and products, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1264,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "جو و فرآورده‌های آن"
+  "title_fa": "مصرف سرانه جو و فرآورده‌های آن"
 }

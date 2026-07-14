@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fruit excl Melons, Total__price",
-  "title": "Fruit excl Melons, Total",
+  "title": "Fruit excl Melons, Total, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 341,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "میوه به‌جز خربزه (کل)"
+  "title_fa": "قیمت تولیدکننده میوه به‌جز خربزه (کل)"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Apricots__price",
-  "title": "Apricots",
+  "title": "Apricots, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1042,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "زردآلو"
+  "title_fa": "قیمت تولیدکننده زردآلو"
 }

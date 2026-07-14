@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Carrots and turnips__price",
-  "title": "Carrots and turnips",
+  "title": "Carrots and turnips, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 2072,
+  "n_rows": 1909,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "هویج و شلغم"
+  "title_fa": "قیمت تولیدکننده هویج و شلغم"
 }

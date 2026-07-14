@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Kiwi fruit__price",
-  "title": "Kiwi fruit",
+  "title": "Kiwi fruit, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 580,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "کیوی"
+  "title_fa": "قیمت تولیدکننده کیوی"
 }

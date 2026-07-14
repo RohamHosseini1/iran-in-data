@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Artichokes__price",
-  "title": "Artichokes",
+  "title": "Artichokes, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 958,
+  "n_rows": 210,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "کنگر فرنگی"
+  "title_fa": "قیمت تولیدکننده کنگر فرنگی"
 }

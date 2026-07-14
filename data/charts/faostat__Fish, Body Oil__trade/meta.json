@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fish, Body Oil__trade",
-  "title": "Fish, Body Oil",
+  "title": "Fish, Body Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 930,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن بدن ماهی"
+  "title_fa": "صادرات و واردات روغن بدن ماهی"
 }

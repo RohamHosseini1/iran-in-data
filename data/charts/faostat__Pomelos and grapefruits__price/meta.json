@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pomelos and grapefruits__price",
-  "title": "Pomelos and grapefruits",
+  "title": "Pomelos and grapefruits, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 977,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "پوملو و گریپ‌فروت"
+  "title_fa": "قیمت تولیدکننده پوملو و گریپ‌فروت"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Apples and products__consumption",
-  "title": "Apples and products",
+  "title": "Apples and products, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سیب و فرآورده‌های آن"
+  "title_fa": "مصرف سرانه سیب و فرآورده‌های آن"
 }

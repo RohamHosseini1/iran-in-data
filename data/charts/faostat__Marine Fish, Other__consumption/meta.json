@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Marine Fish, Other__consumption",
-  "title": "Marine Fish, Other",
+  "title": "Marine Fish, Other, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر ماهیان دریایی"
+  "title_fa": "مصرف سرانه سایر ماهیان دریایی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Olive Oil__trade",
-  "title": "Olive Oil",
+  "title": "Olive Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 944,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن زیتون"
+  "title_fa": "صادرات و واردات روغن زیتون"
 }

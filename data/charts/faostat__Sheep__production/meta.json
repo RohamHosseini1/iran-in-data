@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sheep__production",
-  "title": "Sheep",
+  "title": "Sheep, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 673,
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "گوسفند"
+  "title_fa": "تولید گوسفند"
 }

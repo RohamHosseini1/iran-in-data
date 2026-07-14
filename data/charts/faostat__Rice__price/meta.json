@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Rice__price",
-  "title": "Rice",
+  "title": "Rice, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 2218,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "برنج"
+  "title_fa": "قیمت تولیدکننده برنج"
 }

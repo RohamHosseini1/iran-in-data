@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Peaches and nectarines__price",
-  "title": "Peaches and nectarines",
+  "title": "Peaches and nectarines, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1395,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "هلو و شلیل"
+  "title_fa": "قیمت تولیدکننده هلو و شلیل"
 }

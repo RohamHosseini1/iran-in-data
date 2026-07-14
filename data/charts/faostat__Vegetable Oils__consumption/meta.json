@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Vegetable Oils__consumption",
-  "title": "Vegetable Oils",
+  "title": "Vegetable Oils, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "روغن‌های نباتی"
+  "title_fa": "مصرف سرانه روغن‌های نباتی"
 }

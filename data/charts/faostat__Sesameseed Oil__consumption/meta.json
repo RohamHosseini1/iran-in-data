@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sesameseed Oil__consumption",
-  "title": "Sesameseed Oil",
+  "title": "Sesameseed Oil, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1172,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "روغن کنجد"
+  "title_fa": "مصرف سرانه روغن کنجد"
 }

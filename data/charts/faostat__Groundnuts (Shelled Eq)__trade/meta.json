@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Groundnuts (Shelled Eq)__trade",
-  "title": "Groundnuts (Shelled Eq)",
+  "title": "Groundnuts (Shelled Eq), Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 499,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "بادام‌زمینی (معادل بدون پوست)"
+  "title_fa": "صادرات و واردات بادام‌زمینی (معادل بدون پوست)"
 }

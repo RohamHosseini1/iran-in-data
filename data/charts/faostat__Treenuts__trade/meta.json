@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Treenuts__trade",
-  "title": "Treenuts",
+  "title": "Treenuts, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 954,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "آجیل درختی"
+  "title_fa": "صادرات و واردات آجیل درختی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Bananas__consumption",
-  "title": "Bananas",
+  "title": "Bananas, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "موز"
+  "title_fa": "مصرف سرانه موز"
 }

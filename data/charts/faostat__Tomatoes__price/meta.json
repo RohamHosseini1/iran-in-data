@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Tomatoes__price",
-  "title": "Tomatoes",
+  "title": "Tomatoes, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 2220,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گوجه‌فرنگی"
+  "title_fa": "قیمت تولیدکننده گوجه‌فرنگی"
 }

@@ -1,35 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-VEN,Venezuela,2010,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2011,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2012,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2013,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2014,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2016,2.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2017,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2020,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2021,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2022,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2023,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-VEN,Venezuela,2010,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-VEN,Venezuela,2011,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-VEN,Venezuela,2012,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-VEN,Venezuela,2013,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-VEN,Venezuela,2022,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-VEN,Venezuela,2023,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-VEN,Venezuela,2010,369.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2011,272.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2012,74.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2013,53.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2014,388.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2015,384.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2016,503.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2017,523.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2018,453.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2019,484.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2020,601.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2021,437.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2022,490.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-VEN,Venezuela,2023,538.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
 ARG,Argentina,1961,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity (FAO historic series),faostat-fbsh
 ARG,Argentina,1962,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity (FAO historic series),faostat-fbsh
 ARG,Argentina,1963,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity (FAO historic series),faostat-fbsh
@@ -454,9 +423,3 @@ VEN,Venezuela,2010,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply
 VEN,Venezuela,2011,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity (FAO historic series),faostat-fbsh
 VEN,Venezuela,2012,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity (FAO historic series),faostat-fbsh
 VEN,Venezuela,2013,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity (FAO historic series),faostat-fbsh
-IRQ,Iraq,2014,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-IRQ,Iraq,2022,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-IRQ,Iraq,2023,0.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-IRQ,Iraq,2014,0.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-IRQ,Iraq,2022,0.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs
-IRQ,Iraq,2023,0.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity (FAO current series),faostat-fbs

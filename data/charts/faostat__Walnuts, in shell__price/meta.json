@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Walnuts, in shell__price",
-  "title": "Walnuts, in shell",
+  "title": "Walnuts, in shell, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1174,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گردو با پوست"
+  "title_fa": "قیمت تولیدکننده گردو با پوست"
 }

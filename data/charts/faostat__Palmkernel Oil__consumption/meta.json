@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Palmkernel Oil__consumption",
-  "title": "Palmkernel Oil",
+  "title": "Palmkernel Oil, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 977,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "روغن هسته پالم"
+  "title_fa": "مصرف سرانه روغن هسته پالم"
 }

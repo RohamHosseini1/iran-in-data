@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Linseed__price",
-  "title": "Linseed",
+  "title": "Linseed, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 691,
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "دانه کتان"
+  "title_fa": "قیمت تولیدکننده دانه کتان"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Milk - Excluding Butter__trade",
-  "title": "Milk - Excluding Butter",
+  "title": "Milk - Excluding Butter, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1916,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "شیر (به استثنای کره)"
+  "title_fa": "صادرات و واردات شیر (به استثنای کره)"
 }

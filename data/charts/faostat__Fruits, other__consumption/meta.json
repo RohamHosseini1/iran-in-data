@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fruits, other__consumption",
-  "title": "Fruits, other",
+  "title": "Fruits, other, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر میوه‌ها"
+  "title_fa": "مصرف سرانه سایر میوه‌ها"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Bovine Meat__trade",
-  "title": "Bovine Meat",
+  "title": "Bovine Meat, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 950,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "گوشت گاوی"
+  "title_fa": "صادرات و واردات گوشت گاوی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Butter, Ghee__consumption",
-  "title": "Butter, Ghee",
+  "title": "Butter, Ghee, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "کره، روغن حیوانی"
+  "title_fa": "مصرف سرانه کره، روغن حیوانی"
 }

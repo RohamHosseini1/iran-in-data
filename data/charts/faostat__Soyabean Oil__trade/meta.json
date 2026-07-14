@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Soyabean Oil__trade",
-  "title": "Soyabean Oil",
+  "title": "Soyabean Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 935,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن سویا"
+  "title_fa": "صادرات و واردات روغن سویا"
 }

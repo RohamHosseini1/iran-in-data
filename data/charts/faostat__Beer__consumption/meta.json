@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Beer__consumption",
-  "title": "Beer",
+  "title": "Beer, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1290,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "آبجو"
+  "title_fa": "مصرف سرانه آبجو"
 }

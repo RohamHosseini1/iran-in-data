@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Meat, Total__price",
-  "title": "Meat, Total",
+  "title": "Meat, Total, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 314,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گوشت (کل)"
+  "title_fa": "قیمت تولیدکننده گوشت (کل)"
 }

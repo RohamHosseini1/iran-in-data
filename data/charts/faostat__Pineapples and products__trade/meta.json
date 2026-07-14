@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pineapples and products__trade",
-  "title": "Pineapples and products",
+  "title": "Pineapples and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 881,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "آناناس و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات آناناس و فرآورده‌های آن"
 }

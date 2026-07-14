@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pepper__trade",
-  "title": "Pepper",
+  "title": "Pepper, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 944,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "فلفل سیاه"
+  "title_fa": "صادرات و واردات فلفل سیاه"
 }

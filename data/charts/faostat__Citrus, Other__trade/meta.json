@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Citrus, Other__trade",
-  "title": "Citrus, Other",
+  "title": "Citrus, Other, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 883,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "سایر مرکبات"
+  "title_fa": "صادرات و واردات سایر مرکبات"
 }

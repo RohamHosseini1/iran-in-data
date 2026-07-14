@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Grapes__price",
-  "title": "Grapes",
+  "title": "Grapes, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1815,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "انگور"
+  "title_fa": "قیمت تولیدکننده انگور"
 }

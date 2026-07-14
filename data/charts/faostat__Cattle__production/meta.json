@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cattle__production",
-  "title": "Cattle",
+  "title": "Cattle, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 673,
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "گاو"
+  "title_fa": "تولید گاو"
 }

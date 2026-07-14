@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Groundnuts, excluding shelled__price",
-  "title": "Groundnuts, excluding shelled",
+  "title": "Groundnuts, excluding shelled, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1246,
+  "n_rows": 469,
   "year_range": [
     "1966",
     "2025"
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "بادام‌زمینی (با پوست)"
+  "title_fa": "قیمت تولیدکننده بادام‌زمینی (با پوست)"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Bananas__price",
-  "title": "Bananas",
+  "title": "Bananas, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1098,
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "موز"
+  "title_fa": "قیمت تولیدکننده موز"
 }

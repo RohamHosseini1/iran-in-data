@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Oranges__price",
-  "title": "Oranges",
+  "title": "Oranges, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1713,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "پرتقال"
+  "title_fa": "قیمت تولیدکننده پرتقال"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Vegetables Primary__price",
-  "title": "Vegetables Primary",
+  "title": "Vegetables Primary, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 341,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سبزیجات، اولیه"
+  "title_fa": "قیمت تولیدکننده سبزیجات، اولیه"
 }

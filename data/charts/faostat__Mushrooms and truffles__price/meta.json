@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Mushrooms and truffles__price",
-  "title": "Mushrooms and truffles",
+  "title": "Mushrooms and truffles, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1065,
+  "n_rows": 244,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "قارچ و ترافل"
+  "title_fa": "قیمت تولیدکننده قارچ و ترافل"
 }

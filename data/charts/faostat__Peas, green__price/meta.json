@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Peas, green__price",
-  "title": "Peas, green",
+  "title": "Peas, green, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 950,
+  "n_rows": 244,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "نخود فرنگی سبز"
+  "title_fa": "قیمت تولیدکننده نخود فرنگی سبز"
 }

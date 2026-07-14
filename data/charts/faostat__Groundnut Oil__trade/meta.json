@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Groundnut Oil__trade",
-  "title": "Groundnut Oil",
+  "title": "Groundnut Oil, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 916,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "روغن بادام‌زمینی"
+  "title_fa": "صادرات و واردات روغن بادام‌زمینی"
 }

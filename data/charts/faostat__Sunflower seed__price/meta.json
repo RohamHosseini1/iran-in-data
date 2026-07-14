@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sunflower seed__price",
-  "title": "Sunflower seed",
+  "title": "Sunflower seed, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1668,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "دانه آفتابگردان"
+  "title_fa": "قیمت تولیدکننده دانه آفتابگردان"
 }

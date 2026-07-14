@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fats, Animals, Raw__consumption",
-  "title": "Fats, Animals, Raw",
+  "title": "Fats, Animals, Raw, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "چربی‌های حیوانی، خام"
+  "title_fa": "مصرف سرانه چربی‌های حیوانی، خام"
 }

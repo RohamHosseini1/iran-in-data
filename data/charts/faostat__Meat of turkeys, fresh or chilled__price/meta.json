@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Meat of turkeys, fresh or chilled__price",
-  "title": "Meat of turkeys, fresh or chilled",
+  "title": "Meat of turkeys, fresh or chilled, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 264,
+  "n_rows": 210,
   "year_range": [
     "1991",
     "2025"
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گوشت بوقلمون، تازه یا سردکرده"
+  "title_fa": "قیمت تولیدکننده گوشت بوقلمون، تازه یا سردکرده"
 }

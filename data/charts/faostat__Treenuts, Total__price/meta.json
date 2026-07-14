@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Treenuts, Total__price",
-  "title": "Treenuts, Total",
+  "title": "Treenuts, Total, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 279,
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "آجیل درختی (کل)"
+  "title_fa": "قیمت تولیدکننده آجیل درختی (کل)"
 }

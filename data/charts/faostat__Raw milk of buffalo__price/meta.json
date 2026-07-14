@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Raw milk of buffalo__price",
-  "title": "Raw milk of buffalo",
+  "title": "Raw milk of buffalo, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 524,
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "شیر خام گاومیش"
+  "title_fa": "قیمت تولیدکننده شیر خام گاومیش"
 }

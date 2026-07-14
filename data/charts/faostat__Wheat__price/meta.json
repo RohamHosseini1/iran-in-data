@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Wheat__price",
-  "title": "Wheat",
+  "title": "Wheat, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 2244,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گندم"
+  "title_fa": "قیمت تولیدکننده گندم"
 }

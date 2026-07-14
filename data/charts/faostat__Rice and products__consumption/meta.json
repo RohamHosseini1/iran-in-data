@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Rice and products__consumption",
-  "title": "Rice and products",
+  "title": "Rice and products, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 308,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "برنج و فرآورده‌های آن"
+  "title_fa": "مصرف سرانه برنج و فرآورده‌های آن"
 }

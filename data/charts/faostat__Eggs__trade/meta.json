@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Eggs__trade",
-  "title": "Eggs",
+  "title": "Eggs, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1892,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "تخم‌مرغ"
+  "title_fa": "صادرات و واردات تخم‌مرغ"
 }

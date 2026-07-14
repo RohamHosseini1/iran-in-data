@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sour cherries__price",
-  "title": "Sour cherries",
+  "title": "Sour cherries, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 750,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "آلبالو"
+  "title_fa": "قیمت تولیدکننده آلبالو"
 }

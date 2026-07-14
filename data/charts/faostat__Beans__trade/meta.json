@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Beans__trade",
-  "title": "Beans",
+  "title": "Beans, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 950,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "لوبیا"
+  "title_fa": "صادرات و واردات لوبیا"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Maize and products__trade",
-  "title": "Maize and products",
+  "title": "Maize and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 955,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "ذرت و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات ذرت و فرآورده‌های آن"
 }

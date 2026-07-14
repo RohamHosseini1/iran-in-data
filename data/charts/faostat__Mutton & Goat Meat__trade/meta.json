@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Mutton & Goat Meat__trade",
-  "title": "Mutton & Goat Meat",
+  "title": "Mutton & Goat Meat, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 918,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "گوشت گوسفند و بز"
+  "title_fa": "صادرات و واردات گوشت گوسفند و بز"
 }

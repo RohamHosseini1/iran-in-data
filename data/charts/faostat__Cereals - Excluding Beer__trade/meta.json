@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cereals - Excluding Beer__trade",
-  "title": "Cereals - Excluding Beer",
+  "title": "Cereals - Excluding Beer, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 959,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "غلات (به استثنای آبجو)"
+  "title_fa": "صادرات و واردات غلات (به استثنای آبجو)"
 }

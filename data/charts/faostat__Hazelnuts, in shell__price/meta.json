@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Hazelnuts, in shell__price",
-  "title": "Hazelnuts, in shell",
+  "title": "Hazelnuts, in shell, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1148,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "فندق با پوست"
+  "title_fa": "قیمت تولیدکننده فندق با پوست"
 }

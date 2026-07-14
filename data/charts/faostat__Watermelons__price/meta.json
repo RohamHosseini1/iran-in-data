@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Watermelons__price",
-  "title": "Watermelons",
+  "title": "Watermelons, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1622,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "هندوانه"
+  "title_fa": "قیمت تولیدکننده هندوانه"
 }

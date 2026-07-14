@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Groundnuts (Shelled Eq)__consumption",
-  "title": "Groundnuts (Shelled Eq)",
+  "title": "Groundnuts (Shelled Eq), Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 892,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "بادام‌زمینی (معادل بدون پوست)"
+  "title_fa": "مصرف سرانه بادام‌زمینی (معادل بدون پوست)"
 }

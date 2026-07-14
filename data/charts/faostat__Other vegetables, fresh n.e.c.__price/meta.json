@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Other vegetables, fresh n.e.c.__price",
-  "title": "Other vegetables, fresh n.e.c.",
+  "title": "Other vegetables, fresh n.e.c., Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 849,
+  "n_rows": 467,
   "year_range": [
     "1966",
     "2025"
@@ -15,7 +15,6 @@
     "ITA",
     "KOR",
     "RUS",
-    "SAU",
     "TUR",
     "USA",
     "VEN"
@@ -35,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر سبزیجات تازه"
+  "title_fa": "قیمت تولیدکننده سایر سبزیجات تازه"
 }

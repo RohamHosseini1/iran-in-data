@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Natural honey__price",
-  "title": "Natural honey",
+  "title": "Natural honey, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1459,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "عسل طبیعی"
+  "title_fa": "قیمت تولیدکننده عسل طبیعی"
 }

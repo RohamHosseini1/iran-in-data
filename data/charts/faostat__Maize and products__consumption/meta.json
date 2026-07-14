@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Maize and products__consumption",
-  "title": "Maize and products",
+  "title": "Maize and products, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "ذرت و فرآورده‌های آن"
+  "title_fa": "مصرف سرانه ذرت و فرآورده‌های آن"
 }

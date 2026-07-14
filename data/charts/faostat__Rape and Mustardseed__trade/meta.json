@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Rape and Mustardseed__trade",
-  "title": "Rape and Mustardseed",
+  "title": "Rape and Mustardseed, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 875,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "دانه کلزا و خردل"
+  "title_fa": "صادرات و واردات دانه کلزا و خردل"
 }

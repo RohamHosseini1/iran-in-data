@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Other stimulant, spice and aromatic crops, n.e.c.__price",
-  "title": "Other stimulant, spice and aromatic crops, n.e.c.",
+  "title": "Other stimulant, spice and aromatic crops, n.e.c., Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 227,
+  "n_rows": 176,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -29,5 +29,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر محصولات محرک، ادویه‌ای و معطر"
+  "title_fa": "قیمت تولیدکننده سایر محصولات محرک، ادویه‌ای و معطر"
 }

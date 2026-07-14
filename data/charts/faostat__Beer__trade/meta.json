@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Beer__trade",
-  "title": "Beer",
+  "title": "Beer, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 922,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "آبجو"
+  "title_fa": "صادرات و واردات آبجو"
 }

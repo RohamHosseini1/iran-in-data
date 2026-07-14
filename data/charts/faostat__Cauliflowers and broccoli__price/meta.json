@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Cauliflowers and broccoli__price",
-  "title": "Cauliflowers and broccoli",
+  "title": "Cauliflowers and broccoli, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1252,
+  "n_rows": 271,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -16,8 +16,7 @@
     "KOR",
     "RUS",
     "TUR",
-    "USA",
-    "VEN"
+    "USA"
   ],
   "citations": [
     {
@@ -34,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گل‌کلم و کلم بروکلی"
+  "title_fa": "قیمت تولیدکننده گل‌کلم و کلم بروکلی"
 }

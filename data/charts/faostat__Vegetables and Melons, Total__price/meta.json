@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Vegetables and Melons, Total__price",
-  "title": "Vegetables and Melons, Total",
+  "title": "Vegetables and Melons, Total, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 341,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سبزیجات و خربزه (کل)"
+  "title_fa": "قیمت تولیدکننده سبزیجات و خربزه (کل)"
 }

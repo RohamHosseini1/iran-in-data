@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Oats__consumption",
-  "title": "Oats",
+  "title": "Oats, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1196,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "جو دوسر"
+  "title_fa": "مصرف سرانه جو دوسر"
 }

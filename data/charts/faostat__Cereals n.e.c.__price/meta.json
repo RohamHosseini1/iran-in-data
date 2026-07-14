@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Cereals n.e.c.__price",
-  "title": "Cereals n.e.c.",
+  "title": "Cereals n.e.c., Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 252,
+  "n_rows": 174,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر غلات"
+  "title_fa": "قیمت تولیدکننده سایر غلات"
 }

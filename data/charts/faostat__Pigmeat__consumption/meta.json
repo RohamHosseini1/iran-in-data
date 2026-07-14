@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pigmeat__consumption",
-  "title": "Pigmeat",
+  "title": "Pigmeat, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1176,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "گوشت خوک"
+  "title_fa": "مصرف سرانه گوشت خوک"
 }

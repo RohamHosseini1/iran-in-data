@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Sugar cane__consumption",
-  "title": "Sugar cane",
+  "title": "Sugar cane, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 502,
+  "n_rows": 140,
   "year_range": [
-    "1961",
+    "2010",
     "2023"
   ],
   "countries": [
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "نیشکر"
+  "title_fa": "مصرف سرانه نیشکر"
 }

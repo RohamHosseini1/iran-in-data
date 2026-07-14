@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Grapes and products (excl wine)__trade",
-  "title": "Grapes and products (excl wine)",
+  "title": "Grapes and products (excl wine), Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 952,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "انگور و فرآورده‌های آن (به‌جز شراب)"
+  "title_fa": "صادرات و واردات انگور و فرآورده‌های آن (به‌جز شراب)"
 }

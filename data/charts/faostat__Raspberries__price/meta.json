@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Raspberries__price",
-  "title": "Raspberries",
+  "title": "Raspberries, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 499,
+  "n_rows": 438,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "تمشک"
+  "title_fa": "قیمت تولیدکننده تمشک"
 }

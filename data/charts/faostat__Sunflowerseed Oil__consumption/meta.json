@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Sunflowerseed Oil__consumption",
-  "title": "Sunflowerseed Oil",
+  "title": "Sunflowerseed Oil, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "روغن آفتابگردان"
+  "title_fa": "مصرف سرانه روغن آفتابگردان"
 }

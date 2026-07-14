@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Olives__price",
-  "title": "Olives",
+  "title": "Olives, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1070,
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "زیتون"
+  "title_fa": "قیمت تولیدکننده زیتون"
 }

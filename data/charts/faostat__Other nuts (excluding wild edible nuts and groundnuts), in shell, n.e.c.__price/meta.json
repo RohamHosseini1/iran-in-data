@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__price",
-  "title": "Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",
+  "title": "Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c., Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 475,
+  "n_rows": 394,
   "year_range": [
     "1966",
     "2025"
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر آجیل‌ها با پوست"
+  "title_fa": "قیمت تولیدکننده سایر آجیل‌ها با پوست"
 }

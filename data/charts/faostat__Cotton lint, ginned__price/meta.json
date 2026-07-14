@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cotton lint, ginned__price",
-  "title": "Cotton lint, ginned",
+  "title": "Cotton lint, ginned, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 642,
@@ -32,5 +32,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "الیاف پنبه، حلاجی‌شده"
+  "title_fa": "قیمت تولیدکننده الیاف پنبه، حلاجی‌شده"
 }

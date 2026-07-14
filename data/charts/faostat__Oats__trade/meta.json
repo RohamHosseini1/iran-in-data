@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Oats__trade",
-  "title": "Oats",
+  "title": "Oats, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 943,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "جو دوسر"
+  "title_fa": "صادرات و واردات جو دوسر"
 }

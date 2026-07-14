@@ -16,6 +16,77 @@ const RULES: {
   /** Append the base year ("(2015 prices)") when the raw label names one. */
   appendBaseYear?: boolean;
 }[] = [
+  // --- FAOSTAT measure names. The raw dataset labels are source jargon (LCU, SLC,
+  // kcal/capita/day, "2014-2016 = 100"), which the owner flagged as unreadable.
+  // The DATA keeps the source's own wording; only the DISPLAY is plain language.
+  {
+    pattern: /^Producer Price Index/i,
+    en: "Producer price index (2014 to 2016 average = 100)",
+    fa: "شاخص قیمت تولیدکننده (میانگین 2014 تا 2016 برابر 100)",
+  },
+  {
+    pattern: /Producer Price \(LCU\/tonne\).*archive/i,
+    en: "Producer price, local currency per tonne (FAO pre-1991 archive)",
+    fa: "قیمت تولیدکننده، ریال بر تن (بایگانی پیش از 1991)",
+  },
+  {
+    pattern: /Producer Price \(LCU\/tonne\)/i,
+    en: "Producer price, local currency per tonne",
+    fa: "قیمت تولیدکننده، ریال بر تن",
+  },
+  {
+    pattern: /Producer Price \(SLC\/tonne\)/i,
+    en: "Producer price, standardised local currency per tonne",
+    fa: "قیمت تولیدکننده، پول ملی استاندارد بر تن",
+  },
+  {
+    pattern: /Producer Price \(USD\/tonne\)/i,
+    en: "Producer price, US dollars per tonne",
+    fa: "قیمت تولیدکننده، دلار آمریکا بر تن",
+  },
+  {
+    pattern: /Food supply \(kcal\/capita\/day\).*historic/i,
+    en: "Food supply, calories per person per day (FAO historic series)",
+    fa: "عرضه غذا، کالری به ازای هر نفر در روز (سری تاریخی فائو)",
+  },
+  {
+    pattern: /Food supply \(kcal\/capita\/day\)/i,
+    en: "Food supply, calories per person per day",
+    fa: "عرضه غذا، کالری به ازای هر نفر در روز",
+  },
+  {
+    pattern: /Food supply quantity \(kg\/capita\/yr\).*historic/i,
+    en: "Food supply, kg per person per year (FAO historic series)",
+    fa: "عرضه غذا، کیلوگرم به ازای هر نفر در سال (سری تاریخی فائو)",
+  },
+  {
+    pattern: /Food supply quantity \(kg\/capita\/yr\)/i,
+    en: "Food supply, kg per person per year",
+    fa: "عرضه غذا، کیلوگرم به ازای هر نفر در سال",
+  },
+  {
+    pattern: /Domestic supply quantity.*historic/i,
+    en: "Domestic supply (FAO historic series)",
+    fa: "عرضه داخلی (سری تاریخی فائو)",
+  },
+  { pattern: /Domestic supply quantity/i, en: "Domestic supply", fa: "عرضه داخلی" },
+  {
+    pattern: /^Producing Animals\/Slaughtered/i,
+    en: "Animals slaughtered",
+    fa: "دام‌های کشتارشده",
+  },
+  {
+    pattern: /^Yield\/Carcass Weight/i,
+    en: "Carcass weight per animal",
+    fa: "وزن لاشه به ازای هر دام",
+  },
+  { pattern: /^Area harvested/i, en: "Area harvested", fa: "سطح زیر کشت" },
+  { pattern: /^Export quantity/i, en: "Exports", fa: "صادرات" },
+  { pattern: /^Import quantity/i, en: "Imports", fa: "واردات" },
+  { pattern: /^Milk Animals/i, en: "Milk animals", fa: "دام‌های شیرده" },
+  { pattern: /^Stocks$/i, en: "Livestock stocks", fa: "موجودی دام" },
+  { pattern: /^Yield$/i, en: "Yield", fa: "عملکرد" },
+  { pattern: /^Production$/i, en: "Production", fa: "تولید" },
   {
     // Methodology (build_currency_variants.py): deflated by the country's
     // OWN price index, then expressed in base-year dollars — never US CPI.

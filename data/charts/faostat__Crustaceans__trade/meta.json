@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Crustaceans__trade",
-  "title": "Crustaceans",
+  "title": "Crustaceans, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 948,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "سخت‌پوستان"
+  "title_fa": "صادرات و واردات سخت‌پوستان"
 }

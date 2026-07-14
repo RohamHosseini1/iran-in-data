@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Grand Total__consumption",
-  "title": "Grand Total",
+  "title": "Grand Total, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 653,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "جمع کل"
+  "title_fa": "مصرف سرانه جمع کل"
 }

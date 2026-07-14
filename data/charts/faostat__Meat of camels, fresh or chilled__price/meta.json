@@ -1,9 +1,9 @@
 {
   "chart_id": "faostat__Meat of camels, fresh or chilled__price",
-  "title": "Meat of camels, fresh or chilled",
+  "title": "Meat of camels, fresh or chilled, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 222,
+  "n_rows": 132,
   "year_range": [
     "1991",
     "2025"
@@ -29,5 +29,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "گوشت شتر، تازه یا سردکرده"
+  "title_fa": "قیمت تولیدکننده گوشت شتر، تازه یا سردکرده"
 }

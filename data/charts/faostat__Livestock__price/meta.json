@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Livestock__price",
-  "title": "Livestock",
+  "title": "Livestock, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 347,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "دام"
+  "title_fa": "قیمت تولیدکننده دام"
 }

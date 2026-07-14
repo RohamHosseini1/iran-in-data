@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Freshwater Fish__consumption",
-  "title": "Freshwater Fish",
+  "title": "Freshwater Fish, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "ماهیان آب شیرین"
+  "title_fa": "مصرف سرانه ماهیان آب شیرین"
 }

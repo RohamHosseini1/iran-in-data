@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Millet__price",
-  "title": "Millet",
+  "title": "Millet, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1300,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "ارزن"
+  "title_fa": "قیمت تولیدکننده ارزن"
 }

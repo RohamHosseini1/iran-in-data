@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Strawberries__price",
-  "title": "Strawberries",
+  "title": "Strawberries, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1433,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "توت‌فرنگی"
+  "title_fa": "قیمت تولیدکننده توت‌فرنگی"
 }

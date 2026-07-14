@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fats, Animals, Raw__trade",
-  "title": "Fats, Animals, Raw",
+  "title": "Fats, Animals, Raw, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 945,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "چربی‌های حیوانی، خام"
+  "title_fa": "صادرات و واردات چربی‌های حیوانی، خام"
 }

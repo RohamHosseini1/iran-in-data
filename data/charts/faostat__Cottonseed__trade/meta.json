@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cottonseed__trade",
-  "title": "Cottonseed",
+  "title": "Cottonseed, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 903,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "تخم پنبه"
+  "title_fa": "صادرات و واردات تخم پنبه"
 }

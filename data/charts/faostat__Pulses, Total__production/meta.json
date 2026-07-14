@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pulses, Total__production",
-  "title": "Pulses, Total",
+  "title": "Pulses, Total, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 2019,
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "حبوبات (کل)"
+  "title_fa": "تولید حبوبات (کل)"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Animal fats__consumption",
-  "title": "Animal fats",
+  "title": "Animal fats, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "چربی‌های حیوانی"
+  "title_fa": "مصرف سرانه چربی‌های حیوانی"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Tea (including mate)__consumption",
-  "title": "Tea (including mate)",
+  "title": "Tea (including mate), Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "چای، شامل ماته"
+  "title_fa": "مصرف سرانه چای، شامل ماته"
 }

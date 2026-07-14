@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Eggs__consumption",
-  "title": "Eggs",
+  "title": "Eggs, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 2612,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "تخم‌مرغ"
+  "title_fa": "مصرف سرانه تخم‌مرغ"
 }

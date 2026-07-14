@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Nuts and products__trade",
-  "title": "Nuts and products",
+  "title": "Nuts and products, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 954,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "آجیل و فرآورده‌های آن"
+  "title_fa": "صادرات و واردات آجیل و فرآورده‌های آن"
 }

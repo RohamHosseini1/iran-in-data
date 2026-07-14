@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Oilcrops, Other__consumption",
-  "title": "Oilcrops, Other",
+  "title": "Oilcrops, Other, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1126,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "سایر دانه‌های روغنی"
+  "title_fa": "مصرف سرانه سایر دانه‌های روغنی"
 }

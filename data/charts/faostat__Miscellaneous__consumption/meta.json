@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Miscellaneous__consumption",
-  "title": "Miscellaneous",
+  "title": "Miscellaneous, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1737,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "متفرقه"
+  "title_fa": "مصرف سرانه متفرقه"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Infant food__trade",
-  "title": "Infant food",
+  "title": "Infant food, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 945,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "غذای کودک"
+  "title_fa": "صادرات و واردات غذای کودک"
 }

@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Rye and products__consumption",
-  "title": "Rye and products",
+  "title": "Rye and products, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1135,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "چاودار و فرآورده‌های آن"
+  "title_fa": "مصرف سرانه چاودار و فرآورده‌های آن"
 }

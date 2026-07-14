@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Soya beans__price",
-  "title": "Soya beans",
+  "title": "Soya beans, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1666,
@@ -34,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سویا"
+  "title_fa": "قیمت تولیدکننده سویا"
 }

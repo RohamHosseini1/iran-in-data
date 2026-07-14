@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Lettuce and chicory__price",
-  "title": "Lettuce and chicory",
+  "title": "Lettuce and chicory, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1456,
+  "n_rows": 1318,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -33,5 +33,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "کاهو و کاسنی"
+  "title_fa": "قیمت تولیدکننده کاهو و کاسنی"
 }

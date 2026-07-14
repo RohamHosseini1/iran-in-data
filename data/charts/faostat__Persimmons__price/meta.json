@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Persimmons__price",
-  "title": "Persimmons",
+  "title": "Persimmons, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 324,
@@ -29,5 +29,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "خرمالو"
+  "title_fa": "قیمت تولیدکننده خرمالو"
 }

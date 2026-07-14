@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Tangerines, mandarins, clementines__price",
-  "title": "Tangerines, mandarins, clementines",
+  "title": "Tangerines, mandarins, clementines, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 1309,
@@ -35,5 +35,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "نارنگی و کلمانتین"
+  "title_fa": "قیمت تولیدکننده نارنگی و کلمانتین"
 }

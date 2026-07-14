@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Ducks__production",
-  "title": "Ducks",
+  "title": "Ducks, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 420,
@@ -28,5 +28,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "اردک"
+  "title_fa": "تولید اردک"
 }

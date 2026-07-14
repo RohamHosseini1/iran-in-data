@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Groundnuts__consumption",
-  "title": "Groundnuts",
+  "title": "Groundnuts, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 300,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "بادام‌زمینی"
+  "title_fa": "مصرف سرانه بادام‌زمینی"
 }

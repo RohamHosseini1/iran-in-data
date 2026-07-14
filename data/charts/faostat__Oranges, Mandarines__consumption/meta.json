@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Oranges, Mandarines__consumption",
-  "title": "Oranges, Mandarines",
+  "title": "Oranges, Mandarines, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "پرتقال و نارنگی"
+  "title_fa": "مصرف سرانه پرتقال و نارنگی"
 }

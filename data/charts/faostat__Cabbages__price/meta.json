@@ -1,11 +1,11 @@
 {
   "chart_id": "faostat__Cabbages__price",
-  "title": "Cabbages",
+  "title": "Cabbages, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1717,
+  "n_rows": 300,
   "year_range": [
-    "1966",
+    "1991",
     "2025"
   ],
   "countries": [
@@ -17,8 +17,7 @@
     "RUS",
     "SAU",
     "TUR",
-    "USA",
-    "VEN"
+    "USA"
   ],
   "citations": [
     {
@@ -35,5 +34,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "کلم"
+  "title_fa": "قیمت تولیدکننده کلم"
 }

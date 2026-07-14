@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Coffee and products__consumption",
-  "title": "Coffee and products",
+  "title": "Coffee and products, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "قهوه و فرآورده‌های آن"
+  "title_fa": "مصرف سرانه قهوه و فرآورده‌های آن"
 }

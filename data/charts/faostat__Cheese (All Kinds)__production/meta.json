@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Cheese (All Kinds)__production",
-  "title": "Cheese (All Kinds)",
+  "title": "Cheese (All Kinds), Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 555,
@@ -29,5 +29,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "پنیر (همه انواع)"
+  "title_fa": "تولید پنیر (همه انواع)"
 }

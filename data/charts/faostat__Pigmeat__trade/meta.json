@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Pigmeat__trade",
-  "title": "Pigmeat",
+  "title": "Pigmeat, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 917,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "گوشت خوک"
+  "title_fa": "صادرات و واردات گوشت خوک"
 }

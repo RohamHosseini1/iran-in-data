@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Potatoes__price",
-  "title": "Potatoes",
+  "title": "Potatoes, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 2302,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سیب‌زمینی"
+  "title_fa": "قیمت تولیدکننده سیب‌زمینی"
 }

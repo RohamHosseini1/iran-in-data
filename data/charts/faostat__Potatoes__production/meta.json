@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Potatoes__production",
-  "title": "Potatoes",
+  "title": "Potatoes, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 2018,
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "سیب‌زمینی"
+  "title_fa": "تولید سیب‌زمینی"
 }

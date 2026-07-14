@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Horses__production",
-  "title": "Horses",
+  "title": "Horses, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 660,
@@ -30,5 +30,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "اسب"
+  "title_fa": "تولید اسب"
 }

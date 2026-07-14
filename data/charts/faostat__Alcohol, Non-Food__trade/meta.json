@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Alcohol, Non-Food__trade",
-  "title": "Alcohol, Non-Food",
+  "title": "Alcohol, Non-Food, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 874,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "الکل غیرخوراکی"
+  "title_fa": "صادرات و واردات الکل غیرخوراکی"
 }

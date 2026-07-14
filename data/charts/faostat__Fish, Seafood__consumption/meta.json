@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Fish, Seafood__consumption",
-  "title": "Fish, Seafood",
+  "title": "Fish, Seafood, Food Consumption",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 1306,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "مصرف مواد غذایی",
-  "title_fa": "ماهی و غذاهای دریایی"
+  "title_fa": "مصرف سرانه ماهی و غذاهای دریایی"
 }

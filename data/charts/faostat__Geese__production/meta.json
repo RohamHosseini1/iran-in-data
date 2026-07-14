@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Geese__production",
-  "title": "Geese",
+  "title": "Geese, Production",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
   "n_rows": 371,
@@ -27,5 +27,5 @@
     }
   ],
   "category_fa": "تولید کشاورزی",
-  "title_fa": "غاز"
+  "title_fa": "تولید غاز"
 }

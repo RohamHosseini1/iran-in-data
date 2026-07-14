@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Freshwater Fish__trade",
-  "title": "Freshwater Fish",
+  "title": "Freshwater Fish, Imports and Exports",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
   "n_rows": 950,
@@ -36,5 +36,5 @@
     }
   ],
   "category_fa": "تجارت کشاورزی",
-  "title_fa": "ماهیان آب شیرین"
+  "title_fa": "صادرات و واردات ماهیان آب شیرین"
 }

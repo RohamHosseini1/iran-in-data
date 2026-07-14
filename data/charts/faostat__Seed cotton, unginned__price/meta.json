@@ -1,6 +1,6 @@
 {
   "chart_id": "faostat__Seed cotton, unginned__price",
-  "title": "Seed cotton, unginned",
+  "title": "Seed cotton, unginned, Producer Price",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
   "n_rows": 701,
@@ -31,5 +31,5 @@
     }
   ],
   "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "پنبه دانه‌دار، حلاجی‌نشده"
+  "title_fa": "قیمت تولیدکننده پنبه دانه‌دار، حلاجی‌نشده"
 }
