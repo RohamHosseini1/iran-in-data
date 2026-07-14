@@ -1,0 +1,20 @@
+{
+  "dataset_id": "cbi-reference-rates-exrates-2026-07-14",
+  "title": "Central Bank of Iran -- Official/NIMA-Weighted Exchange Rates Page (Daily Snapshot)",
+  "source_org": "Central Bank of the Islamic Republic of Iran (cbi.ir)",
+  "source_url": "https://www.cbi.ir/exrates/rates_fa.aspx",
+  "download_url": "https://www.cbi.ir/exrates/rates_fa.aspx",
+  "retrieved_at_utc": "2026-07-14T12:13:00Z",
+  "retrieved_by": "agent:iran-market-apis",
+  "files": [
+    {"name": "exrates_2026-07-14.html", "original_name": "rates_fa.aspx", "sha256": "d1070129aecc5ba7fff10c599481237e4e117d390d046fc1fd4c99c4803913b1", "bytes": 149592}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2026-07-14 (1405/04/23), single-day snapshot; page is a live/current-day rates table, not a historical archive",
+  "frequency": "daily (page updates daily; this is one day's snapshot)",
+  "topics": ["exchange-rates", "official-rate", "nima-weighted-rate"],
+  "units": "Rial per foreign-currency unit (Iran's own official currency, no toman conversion needed)",
+  "license_terms": "Public government data, no API key required, not geo-blocked from this agent's fetch (contrary to the brief's expectation) -- fetched directly via both WebFetch and curl with no errors.",
+  "notes": "USD/IRR = 1,359,712 rial as of 1405/04/23, described on the page as the NIMA/weighted rate ('نرخ موزون بر مبنای حجم معاملات در سامانه معاملات ارز' -- weighted rate based on transaction volume in the electronic FX trading system), i.e. this is CBI's own current OFFICIAL-side reference rate, not the parallel/black-market rate. Compared to the existing fx__official_vs_parallel_gap_irn chart's OFFICIAL variant, whose last point is 42,000 rial/USD for 2019-2023 (WDI PA.NUS.FCRF, frozen at the old subsidized/preferential rate and clearly stale -- WDI has not tracked Iran's official rate's actual multi-tier drift since roughly 2018). CBI's own live rate shows the official/NIMA rate has itself moved to ~1.36M rial/USD, a dramatic and informative update to the OFFICIAL series that WDI's stale figure completely misses. This is a single fresh anchor point, not a historical series -- did not attempt to reconstruct 2024-2026 official-rate history from Wayback Machine snapshots of this same page (out of scope per brief's 'secondary priority, do not spend long here'; flagged as a good target for a future dedicated CBI-history pull).",
+  "failures": []
+}

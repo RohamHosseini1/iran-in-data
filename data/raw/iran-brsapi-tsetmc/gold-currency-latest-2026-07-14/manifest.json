@@ -1,0 +1,20 @@
+{
+  "dataset_id": "iran-brsapi-tsetmc-gold-currency-latest-2026-07-14",
+  "title": "BrsAPI Gold/Currency/Cryptocurrency Latest Snapshot",
+  "source_org": "BrsAPI (brsapi.ir)",
+  "source_url": "https://brsapi.ir/free-api-gold-currency-webservice/",
+  "download_url": "https://Api.BrsApi.ir/Market/Gold_Currency.php?key=REDACTED",
+  "retrieved_at_utc": "2026-07-14T11:15:00Z",
+  "retrieved_by": "agent:iran-market-apis",
+  "files": [
+    {"name": "gold_currency_2026-07-14.json", "original_name": null, "sha256": "dc115ef3f23fe1c0bcc98604ddee3bb3a9b9c011edee426c437e711e43ef61a1", "bytes": 14690}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2026-07-14 (1405/04/23) single latest snapshot -- 9 gold/coin items, 28 currency items, 19 cryptocurrency items",
+  "frequency": "point-in-time (free-tier Gold_Currency.php has no history; the Pro/history-capable endpoint Gold_Currency_Pro.php returned HTTP 402 payment_required when tested with history=2 -- confirmed free tier is latest-only)",
+  "topics": ["exchange-rates", "gold-coin-prices", "cryptocurrency", "free-market-fx"],
+  "units": "Toman, explicitly labeled per-item via the 'unit' field (تومان = toman for IRR-denominated items, دلار = dollar for USD-denominated items like XAUUSD gold ounce). Multiply toman-denominated values by 10 for rial. No hidden thousand-multiplier here (unlike navasan's /latest/ bahar/sekkeh fields) -- IR_COIN_BAHAR price=175,020,000 is already plain toman.",
+  "license_terms": "Free tier, up to 1,500 requests/day, no explicit redistribution terms found; used here for corroboration/citation only.",
+  "notes": "Key read from secrets/iran_api_keys.env (BRSAPI_KEY), never written to any repo file. IR_COIN_BAHAR=175,020,000 toman (=1,750,200,000 rial) and IR_COIN_EMAMI=179,505,000 toman (=1,795,050,000 rial), both from 2026-07-14 14:39 Tehran time, corroborate this project's TGJU-sourced gold-coin charts (2026-07-11 closes: Bahar 1,721,800,000 rial, Emami 1,760,100,000 rial) and independently agree with navasan's same-day x10,000-scaled snapshot values within a few hundred toman. USD=183,990 toman (1,839,900 rial) and USDT_IRT=184,174 toman corroborate the parallel-market FX chart. Also includes 18K/24K/melted gold gram prices and XAUUSD (global gold ounce, USD) not currently charted anywhere in this project -- see the companion commodity-latest dataset for the fuller global-commodity breakdown proposed as new charts.",
+  "failures": []
+}

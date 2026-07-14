@@ -3,7 +3,7 @@
   "title": "U.S. Dollar Exchange Rate",
   "category": "Exchange Rates",
   "sources": "wdi (PA.NUS.FCRF) + IMF IFS historical (1937-1949) for official; Bahmani-Oskooee (2005) monthly series (1979-2003) + secondary-compiled annual anchors (2004-2010) + TGJU daily data (2011-2026) for parallel",
-  "n_rows": 4369,
+  "n_rows": 6893,
   "year_range": [
     "1937",
     "2026"
@@ -41,6 +41,12 @@
       "access_date": "2026-07-13",
       "time_range": "2011-2026 (parallel rate)",
       "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+    },
+    {
+      "source_org": "Navasan (nosan.tech) currency & gold API",
+      "source_url": "http://api.navasan.tech/ohlcSearch/ (API key redacted)",
+      "access_date": "2026-07-14",
+      "time_range": "2019-2026"
     }
   ],
   "category_fa": "نرخ ارز",

@@ -3,7 +3,7 @@
   "title": "Emami Gold Coin Price, Rial, Daily (2010-04-04 to 2026-07-11)",
   "category": "Precious Metals Prices",
   "sources": "tgju",
-  "n_rows": 24681,
+  "n_rows": 27243,
   "year_range": [
     "2010",
     "2026"
@@ -18,6 +18,12 @@
       "access_date": "2026-07-13",
       "time_range": "",
       "match_confidence": "fuzzy:3tok:iran-parallel-fx-1979-2010-research"
+    },
+    {
+      "source_org": "Navasan (nosan.tech) currency & gold API",
+      "source_url": "http://api.navasan.tech/ohlcSearch/ (API key redacted)",
+      "access_date": "2026-07-14",
+      "time_range": "2019-2026"
     }
   ],
   "category_fa": "قیمت فلزات گران‌بها",

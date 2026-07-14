@@ -1,0 +1,22 @@
+{
+  "dataset_id": "navasan-currency-ohlc-backfill-2019-2026",
+  "title": "Navasan.tech Full Daily OHLC Backfill -- Free-Market USD, Bahar Azadi Coin, Emami Coin (full available history)",
+  "source_org": "Navasan (navasan.tech)",
+  "source_url": "https://www.navasan.tech/",
+  "download_url": "http://api.navasan.tech/ohlcSearch/?api_key=REDACTED&item=usd_sell|bahar|sekkeh&start=1380-01-01&end=1405-04-23",
+  "retrieved_at_utc": "2026-07-14T12:40:00Z",
+  "retrieved_by": "agent:iran-market-apis",
+  "files": [
+    {"name": "ohlc_usd_sell_full_1397-11-27_1405-04-23.json", "original_name": null, "sha256": "94c3adf25784bbfd3f73586ba0ab8fab1847b7467c8f39366733ae5fb0d876ce", "bytes": 422540},
+    {"name": "ohlc_bahar_full_1398-03-19_1405-04-23.json", "original_name": null, "sha256": "2003b9cb72b3b6234baff13d29025c043563dc1bfd6a3fa119e5df6644f0b922", "bytes": 457970},
+    {"name": "ohlc_sekkeh_full_1398-03-19_1405-04-23.json", "original_name": null, "sha256": "0b97beb66f3af24ac88709fa592e09fe3ef78157eaaba1d75434ddbd907ea6e9", "bytes": 458195}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "usd_sell: 1397-11-27 to 1405-04-23 Jalali = 2019-02-15 to 2026-07-14 Gregorian, 2,524 daily OHLC rows. bahar and sekkeh: 1398-03-19 to 1405-04-23 Jalali = 2019-06-09 to 2026-07-14 Gregorian, 2,562 daily rows each. These are the FULL extent of navasan's coverage -- requesting start=1380-01-01 (2001) returned rows beginning only at the dates above, i.e. the API served everything it has in one call and its archive genuinely starts in 2019. Not a truncation or a paging limit: the response was well under any size cap and the same start date reappeared on the wide request as on narrower probes.",
+  "frequency": "daily (OHLC: open, high, low, close)",
+  "topics": ["exchange-rates", "gold-coin-prices", "free-market-fx", "historical-backfill"],
+  "units": "PLAIN TOMAN -- multiply by 10 for rial. VERIFIED EMPIRICALLY, NOT ASSUMED: the x10 scale was cross-checked against this project's own independent TGJU-sourced daily series across the full overlap (2,006 overlapping days for USD, 1,961 for Bahar Azadi, 1,964 for Emami). Median navasan/TGJU ratio after x10: USD 1.0002, Bahar Azadi 0.9955, Emami 0.9999; 97.7%/90.8%/96.1% of days agree within +/-5%. A 10x unit error would have shown as a ratio of 0.1 or 10 -- it did not. NOTE this is a DIFFERENT scale from navasan's /latest/ endpoint, whose bahar/sekkeh fields are in THOUSANDS of toman (x10,000 for rial) despite the identical field names. See data/processed/iran_api_market_series/README.md.",
+  "license_terms": "Commercial API, free tier ~120 requests/month; used here for corroboration/citation, not redistribution of the raw feed.",
+  "notes": "Retrieved in 3 calls (one per item, each covering the full history at once) after discovering ohlcSearch accepts a very wide date range in a single request. ohlcSearch requires JALALI dates -- Gregorian start/end silently returns an empty array rather than an error. This backfill gives the project a genuinely INDEPENDENT second daily source for all three charts over 2019-2026, where previously only TGJU covered that window; the ~0.5%-or-better median agreement between two unrelated providers across seven years is strong mutual validation of both. brsapi's free tier cannot do this (Gold_Currency_Pro.php?history= returns HTTP 402 payment_required), so navasan's ohlcSearch is the project's only free route to an independent historical market series.",
+  "failures": []
+}

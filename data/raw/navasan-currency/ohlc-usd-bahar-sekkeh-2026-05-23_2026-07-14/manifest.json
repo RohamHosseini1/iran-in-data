@@ -1,0 +1,24 @@
+{
+  "dataset_id": "navasan-currency-ohlc-usd-bahar-sekkeh-2026-05-23_2026-07-14",
+  "title": "Navasan.tech Daily OHLC Backfill -- USD (usd_sell), Bahar Azadi coin, Emami coin",
+  "source_org": "Navasan (navasan.tech)",
+  "source_url": "https://www.navasan.tech/",
+  "download_url": "http://api.navasan.tech/ohlcSearch/?api_key=REDACTED&item=usd_sell|bahar|sekkeh&start=1405-03-01&end=1405-04-23",
+  "retrieved_at_utc": "2026-07-14T11:41:00Z",
+  "retrieved_by": "agent:iran-market-apis",
+  "files": [
+    {"name": "ohlc_usd_sell_2026-07-14.json", "original_name": null, "sha256": "b0b6e19c0d72bcecdaa04e6a34d0bb2e585da309b38ed82eadb3d3c46ef58d73", "bytes": 8381},
+    {"name": "ohlc_bahar_2026-07-14.json", "original_name": null, "sha256": "adeed30fb02b4d54f505ed22a734fdcc6c1a2ced27dbecf1be2d03bffff7e072", "bytes": 9884},
+    {"name": "ohlc_sekkeh_2026-07-14.json", "original_name": null, "sha256": "321c44568021a9fec4e481298edb4779ef787e6513dc9ac3f3079be066377bd5", "bytes": 9884}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1405-03-01 to 1405-04-23 (Persian/Jalali) = approx. 2026-05-22 to 2026-07-14 Gregorian; 49 daily OHLC rows for usd_sell, 54 for bahar and sekkeh",
+  "frequency": "daily",
+  "topics": ["exchange-rates", "gold-coin-prices", "free-market-fx", "historical-backfill"],
+  "units": "IMPORTANT -- units differ from the /latest/ endpoint for the SAME field names. In ohlcSearch, 'bahar' and 'sekkeh' are already in PLAIN TOMAN (multiply by 10 for rial), NOT thousands-of-toman like in /latest/. Confirmed: ohlc close for bahar on 1405-04-23 = 175,000,000 toman = 1,750,000,000 rial, matching the /latest/ snapshot's x10,000-scaled value (1,750,000,000) from the same day -- i.e. ohlcSearch's raw number already equals /latest/'s raw number x1000. Do not apply the same multiplier convention across both endpoints without checking. usd_sell values are plain toman as expected (x10 for rial).",
+  "license_terms": "Commercial API, free tier ~120 requests/month; data used here for corroboration/citation only, not redistribution of the raw feed.",
+  "notes": "Requested via item=usd_sell/bahar/sekkeh with Persian-calendar start/end params (Gregorian YYYY-MM-DD returned an empty [] result for the same item/range -- ohlcSearch requires Jalali dates, unlike the docs' generic 'start date, end date' wording). 3 calls, well within the ~120/month free-tier budget (usage endpoint showed monthly_usage=2 even after these calls, i.e. ohlcSearch calls may not count against the same counter as /latest/, or the counter lags -- did not rely on this, stopped well under budget regardless). This backfill cross-validates against this project's existing TGJU-sourced daily series in fx__official_vs_parallel_gap_irn (parallel USD) and the two gold-coin charts for the overlapping window (through 2026-07-11); it also extends 3 days past the existing charts' last point (2026-07-11) through 2026-07-14.",
+  "failures": [
+    {"attempt": "ohlcSearch?item=harat_naghdi_sell&start=2026-06-01&end=2026-07-14 (Gregorian dates)", "result": "HTTP 200 but empty array []", "reason": "ohlcSearch appears to require Jalali/Persian calendar dates, not Gregorian; retried successfully with item=usd_sell and Persian dates"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "dataset_id": "navasan-currency-latest-snapshot-2026-07-14",
+  "title": "Navasan.tech Latest FX/Gold-Coin Rates Snapshot",
+  "source_org": "Navasan (navasan.tech)",
+  "source_url": "https://www.navasan.tech/",
+  "download_url": "http://api.navasan.tech/latest/?api_key=REDACTED",
+  "retrieved_at_utc": "2026-07-14T11:09:38Z",
+  "retrieved_by": "agent:iran-market-apis",
+  "files": [
+    {"name": "navasan_latest_2026-07-14.json", "original_name": null, "sha256": "1c9a25c721b1682d6d772e32585fb7c1cc6191a76c4d7751dbafaa784718bb44", "bytes": 43338}
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "2026-07-14 (single latest snapshot, ~300 instruments)",
+  "frequency": "point-in-time (free tier has no push/streaming; re-run manually for future snapshots)",
+  "topics": ["exchange-rates", "gold-coin-prices", "free-market-fx"],
+  "units": "MIXED -- see notes. FX fields (e.g. harat_naghdi_sell/buy, usd_usdt) and per-gram gold fields (e.g. 18ayar) are in plain TOMAN (multiply by 10 for rial). Gold-COIN fields (bahar, sekkeh, nim, rob) are in THOUSANDS of toman (multiply by 10,000 for rial) -- confirmed empirically: raw 'bahar'=175000 and 'sekkeh'=179500 only match this project's own TGJU-sourced Bahar Azadi/Emami coin closes (~1.72-1.76 billion rial as of 2026-07-11) when multiplied by 10,000, not by 10. Cross-validated against brsapi's IR_COIN_BAHAR=175,020,000 toman and IR_COIN_EMAMI=179,505,000 toman from the same afternoon (2026-07-14 14:39 Tehran time), which agree with the x10,000-scaled navasan values to within a few hundred toman.",
+  "license_terms": "Commercial API, free tier ~120 requests/month; data used here for corroboration/citation only, not redistribution of the raw feed.",
+  "notes": "Key read from secrets/iran_api_keys.env (NAVASAN_KEY), never written to any repo file. Field harat_naghdi_sell=183240 toman (=1,832,400 rial) as of 1405-04-23 14:37 Tehran time corroborates this project's existing TGJU-sourced parallel-market USD series (fx__official_vs_parallel_gap_irn), whose last point was 1,782,000 rial on 2026-07-11 -- a plausible ~2.8% move over 3 days. bahar (Bahar Azadi coin, x10,000-scaled) = 1,750,000,000 rial vs chart's 2026-07-11 close of 1,721,800,000 rial (+1.6%, plausible). sekkeh (Emami coin, x10,000-scaled) = 1,795,000,000 rial vs chart's 2026-07-11 close of 1,760,100,000 rial (+2.0%, plausible).",
+  "failures": []
+}

@@ -3,7 +3,7 @@
   "title": "Bahar Azadi Gold Coin Price, Rial, Daily (2013-07-22 to 2026-07-11)",
   "category": "Precious Metals Prices",
   "sources": "tgju",
-  "n_rows": 19797,
+  "n_rows": 22359,
   "year_range": [
     "2013",
     "2026"
@@ -17,6 +17,12 @@
       "source_url": "https://www.tgju.org/profile/sekeb",
       "access_date": "2026-07-13",
       "time_range": "2013-2026"
+    },
+    {
+      "source_org": "Navasan (nosan.tech) currency & gold API",
+      "source_url": "http://api.navasan.tech/ohlcSearch/ (API key redacted)",
+      "access_date": "2026-07-14",
+      "time_range": "2019-2026"
     }
   ],
   "category_fa": "قیمت فلزات گران‌بها",

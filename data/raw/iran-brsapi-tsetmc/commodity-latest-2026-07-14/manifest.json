@@ -1,0 +1,20 @@
+{
+  "dataset_id": "iran-brsapi-tsetmc-commodity-latest-2026-07-14",
+  "title": "BrsAPI Global Commodities Latest Snapshot (Precious Metals, Base Metals, Energy)",
+  "source_org": "BrsAPI (brsapi.ir)",
+  "source_url": "https://brsapi.ir/free-api-commodity-webservice/",
+  "download_url": "https://Api.BrsApi.ir/Market/Commodity.php?key=REDACTED",
+  "retrieved_at_utc": "2026-07-14T11:41:00Z",
+  "retrieved_by": "agent:iran-market-apis",
+  "files": [
+    {"name": "commodity_2026-07-14.json", "original_name": null, "sha256": "c2c7ec3e0d3b0c84ad890b2c8786419f9b2caf9dd781519b8b595075f4b6e92e", "bytes": 2488}
+  ],
+  "countries": ["global (USD-denominated world spot prices, not Iran-specific)"],
+  "time_coverage": "2026-07-14 (1405/04/23) single latest snapshot -- metal_precious (4 items: gold, silver, platinum, palladium ounce spot), metal_base (5 items: copper, aluminum, zinc, lead, nickel), energy (5 items: Brent, WTI, natural gas, RBOB gasoline, gasoil)",
+  "frequency": "point-in-time (same free-tier latest-only limitation as Gold_Currency.php; no history without a paid plan)",
+  "topics": ["commodities", "gold", "silver", "crude-oil", "base-metals", "energy"],
+  "units": "USD per unit (troy ounce for precious metals; USD/ton implied for base metals per LME convention; USD/barrel for Brent+WTI; USD/mmbtu for natural gas; USD/gallon for RBOB gasoline; USD/ton for gasoil) -- exact units labeled generically 'دلار' (dollar) in the raw feed, standard commodity-market unit conventions assumed per symbol (XAUUSD etc. are standard ISO commodity tickers).",
+  "license_terms": "Free tier, up to 1,500 requests/day; used here for corroboration/citation only.",
+  "notes": "None of these global commodity price series (Brent/WTI crude, base metals, precious-metal ounce spot prices) exist anywhere in CHART_REGISTRY.csv today -- the project's only oil series is iran_opec__heavy_crude_spot_price_2020_2024 (Iran's own heavy-crude grade, a different, Iran-specific measure). Proposed as genuinely-new chart candidates (status=new) in the staging file, but flagged as thin: this free tier gives only a single live point-in-time value, not a queryable history (confirmed via the Gold_Currency_Pro.php history test, HTTP 402). A new chart from one data point is not really a chart yet -- these are logged as seed data for a possible future recurring daily pull, not materialized as full charts by this agent.",
+  "failures": []
+}

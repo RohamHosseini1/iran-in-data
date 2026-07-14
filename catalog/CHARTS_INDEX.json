@@ -37862,10 +37862,16 @@
         "access_date": "2026-07-13",
         "time_range": "2011-2026 (parallel rate)",
         "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+      },
+      {
+        "source_org": "Navasan (nosan.tech) currency & gold API",
+        "source_url": "http://api.navasan.tech/ohlcSearch/ (API key redacted)",
+        "access_date": "2026-07-14",
+        "time_range": "2019-2026"
       }
     ],
     "data_path": "data/charts/fx__official_vs_parallel_gap_irn/data.csv",
-    "row_count": 4369,
+    "row_count": 6893,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39859,10 +39865,16 @@
         "source_url": "https://www.tgju.org/profile/sekeb",
         "access_date": "2026-07-13",
         "time_range": "2013-2026"
+      },
+      {
+        "source_org": "Navasan (nosan.tech) currency & gold API",
+        "source_url": "http://api.navasan.tech/ohlcSearch/ (API key redacted)",
+        "access_date": "2026-07-14",
+        "time_range": "2019-2026"
       }
     ],
     "data_path": "data/charts/iran_fx__gold_coin_bahar_azadi_price_daily_2013_2026/data.csv",
-    "row_count": 19797,
+    "row_count": 22359,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39889,10 +39901,16 @@
         "access_date": "2026-07-13",
         "time_range": "",
         "match_confidence": "fuzzy:3tok:iran-parallel-fx-1979-2010-research"
+      },
+      {
+        "source_org": "Navasan (nosan.tech) currency & gold API",
+        "source_url": "http://api.navasan.tech/ohlcSearch/ (API key redacted)",
+        "access_date": "2026-07-14",
+        "time_range": "2019-2026"
       }
     ],
     "data_path": "data/charts/iran_fx__gold_coin_emami_price_daily_2010_2026/data.csv",
-    "row_count": 24681,
+    "row_count": 27243,
     "status": "new",
     "merged_into": null,
     "materialized": true
