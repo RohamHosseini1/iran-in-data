@@ -187,9 +187,13 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
 
     if (timeMode) {
       const sub = subValues![iso];
-      const data: [number, number | null][] = [];
+      // Null points still extend the time axis, so they are dropped (see the annual
+      // branch below). connectNulls bridges interior gaps.
+      const data: [number, number][] = [];
       for (let i = 0; i < subYear!.times.length; i++) {
-        data.push([subYear!.times[i], sub[i]]);
+        const v = sub[i];
+        if (v == null) continue;
+        data.push([subYear!.times[i], v]);
       }
       series.push({
         name,
@@ -239,11 +243,17 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
 
     const arr = variantValues[iso];
 
-    const actualData: [number, number | null][] = [];
-    const projectionData: [number, number | null][] = [];
+    // A [year, null] point still contributes its YEAR to the x-axis extent, so
+    // padding the series out to every year in the payload made the axis start at 1960
+    // even when the first real observation is 1985: the chart opened on a stretch of
+    // empty gutter. Only emit points that actually have a value; connectNulls already
+    // bridges interior gaps.
+    const actualData: [number, number][] = [];
+    const projectionData: [number, number][] = [];
     for (let i = 0; i < payload.years.length; i++) {
       const y = payload.years[i];
       const v = arr[i];
+      if (v == null) continue;
       if (!hasProjection || y <= nowYear!) {
         actualData.push([y, v]);
         // Anchor the projection segment at the last actual point.
@@ -257,12 +267,16 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
       series.push({
         name,
         type: "bar" as const,
-        data: payload.years.map((y, i) => {
+        data: payload.years.flatMap((y, i) => {
+          const v = arr[i];
+          if (v == null) return [];
           const future = hasProjection && y > nowYear!;
-          return {
-            value: [y, arr[i]] as [number, number | null],
-            itemStyle: future ? { opacity: opacity * 0.45 } : undefined,
-          };
+          return [
+            {
+              value: [y, v] as [number, number],
+              itemStyle: future ? { opacity: opacity * 0.45 } : undefined,
+            },
+          ];
         }),
         z: isIran ? 10 : 2,
         barMaxWidth: 14,
@@ -594,12 +608,14 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
     dataZoom: [
       {
         type: "inside",
-        // throttle 0: apply every wheel/trackpad event as it arrives. The old value
-        // (180ms) coalesced a smooth trackpad gesture into a few big lurches, which is
-        // what made the chart feel like it jumped decades at a time.
         throttle: 0,
         minValueSpan: timeMode ? 7 * 864e5 : 3,
-        zoomOnMouseWheel: true,
+        // ECharts scales its zoom step by the RAW wheel delta and offers no
+        // sensitivity knob. A trackpad fires a burst of large deltas, so it compounds
+        // straight to full zoom in one flick. Wheel zoom is therefore handled in
+        // interactive-chart.tsx, which caps how far any single event can move the
+        // window. Drag-to-pan and pinch stay ECharts'.
+        zoomOnMouseWheel: false,
         moveOnMouseWheel: false,
         moveOnMouseMove: true,
       },

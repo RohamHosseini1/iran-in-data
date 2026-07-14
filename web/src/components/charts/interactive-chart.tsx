@@ -26,10 +26,22 @@ interface InteractiveChartProps {
  * (and for crawlers), then swaps in a live SVG-renderer chart. Re-themes on
  * light/dark switch and resizes with its container.
  *
- * Zoom is ECharts' own inside-dataZoom, so wheel, trackpad, pinch and drag all work.
- * The window is bounded by the data extent, so it cannot pan past the first or last
- * observation.
+ * Wheel zoom is ours (see below); pinch and drag-to-pan stay ECharts'. The window is
+ * bounded by the data extent, so it cannot travel past the first or last observation.
  */
+
+/**
+ * Wheel delta -> zoom. Deliberately gentle: a mouse notch (delta 100) should be a
+ * nudge of a few percent, not a leap.
+ */
+const ZOOM_SENSITIVITY = 0.0009;
+/**
+ * Hard ceiling on how far ONE wheel event may scale the window. This is what stops a
+ * trackpad flick from slamming to a single year or to full extent: a fast gesture
+ * sends more events, so it zooms further, but never faster per event.
+ */
+const MAX_STEP = 1.05;
+
 export function InteractiveChart({
   option,
   ssrSvg,
@@ -62,12 +74,71 @@ export function InteractiveChart({
     chartRef.current = chart;
     setLive(true);
 
-    // Zoom is ECharts' own inside-dataZoom (wheel, trackpad, pinch, drag). A custom
-    // wheel handler that eased the window itself was tried and reverted: it is NOT
-    // worth reimplementing a gesture the library already handles across every input
-    // device. The jumping the owner reported came from the snap-to-year timer that
-    // used to live here, which fired a dataZoom jump 260ms after every gesture
-    // settled. That is gone. Sensitivity is tempered in line-option.ts instead.
+    // ---- wheel zoom ------------------------------------------------------------
+    // ECharts scales its own zoom step by the RAW wheel delta and exposes no
+    // sensitivity option, so a trackpad's burst of large deltas compounds to full
+    // zoom in a single flick. We take the wheel instead. There is no animation loop
+    // here on purpose: each event maps to one bounded, synchronous window update.
+    const minSpan = () => (timeAxisRef.current ? 7 * 864e5 : 3);
+
+    const currentWindow = (): [number, number] | null => {
+      const opt = chart.getOption() as {
+        dataZoom?: { startValue?: number; endValue?: number }[];
+      };
+      const dz = opt.dataZoom?.[0];
+      if (dz?.startValue != null && dz?.endValue != null) {
+        return [dz.startValue, dz.endValue];
+      }
+      return zoomExtentRef.current ?? null;
+    };
+
+    const onWheel = (ev: WheelEvent) => {
+      const bounds = zoomExtentRef.current;
+      const win = currentWindow();
+      if (!bounds || !win) return;
+      ev.preventDefault();
+
+      // Normalise: a mouse wheel reports ~100 per notch, a trackpad a stream of small
+      // deltas, and deltaMode 1 counts LINES not pixels.
+      let delta = ev.deltaY;
+      if (ev.deltaMode === 1) delta *= 16;
+      else if (ev.deltaMode === 2) delta *= 400;
+
+      // The cap is the whole point: no single wheel event may move the window by more
+      // than MAX_STEP, so a fast flick zooms FURTHER, never FASTER-per-event, and can
+      // never slam to the innermost or outermost stop.
+      const raw = Math.exp(delta * ZOOM_SENSITIVITY);
+      const factor = Math.min(Math.max(raw, 1 / MAX_STEP), MAX_STEP);
+
+      // Anchor under the cursor so the point you are pointing at stays put.
+      const px = chart.convertFromPixel({ xAxisIndex: 0 }, [
+        ev.offsetX,
+        ev.offsetY,
+      ]) as unknown as number[] | number;
+      const cursor = Array.isArray(px) ? px[0] : px;
+      const anchor =
+        typeof cursor === "number" && Number.isFinite(cursor)
+          ? Math.min(Math.max(cursor, win[0]), win[1])
+          : (win[0] + win[1]) / 2;
+
+      const full = bounds[1] - bounds[0];
+      const rawSpan = (win[1] - win[0]) * factor;
+      const span = Math.min(Math.max(rawSpan, minSpan()), full);
+      const frac = (anchor - win[0]) / (win[1] - win[0] || 1);
+
+      let start = anchor - frac * span;
+      let end = start + span;
+      if (start < bounds[0]) {
+        start = bounds[0];
+        end = start + span;
+      }
+      if (end > bounds[1]) {
+        end = bounds[1];
+        start = end - span;
+      }
+      chart.dispatchAction({ type: "dataZoom", startValue: start, endValue: end });
+    };
+    host.addEventListener("wheel", onWheel, { passive: false });
 
     // Marker hover → detail card beside the chart. Events (amber) and laws (grey)
     // are separate markLine series, so route by seriesName.
@@ -91,6 +162,7 @@ export function InteractiveChart({
     const observer = new ResizeObserver(() => chart.resize());
     observer.observe(host);
     return () => {
+      host.removeEventListener("wheel", onWheel);
       observer.disconnect();
       chart.dispose();
       chartRef.current = null;
