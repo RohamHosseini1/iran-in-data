@@ -1,0 +1,1419 @@
+[
+ {
+  "ref": "722:0",
+  "law_year": "2015",
+  "law_title_en": "Cabinet Resolution Setting Combined Customs Duty and Commercial Profit Rates for Certain Tariff Lines",
+  "law_title_fa": "تصويب نامه درخصوص تعيين مجموع حقوق گمركي و سود بازرگاني كالاهاي مشمول رديف هاي تعرفه جداول پيوست آيين نامه اجرايي قانون ",
+  "targets_named_charts": [
+   "Customs and other import duties",
+   "Merchandise imports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "1394 (2015) cabinet decree resetting the combined customs duty and commercial profit rate on 40 specific tariff lines (steel products, auto parts, motorcycles, chemicals), directly changing the statutory import cost for those goods.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "723:0",
+  "law_year": "2009",
+  "law_title_en": "Bylaw on the Collection of Past-Due, Doubtful, and Non-Performing Rial and Foreign-Currency Claims of Credit Institutions",
+  "law_title_fa": "آيين نامه وصول مطالبات سررسيد گذشته، معوق و مشكوك الوصول موسسات اعتباري  ريالي و ارزي",
+  "targets_named_charts": [
+   "Domestic credit to private sector by banks (% of GDP)",
+   "Private Credit by Deposit Money Banks to GDP (World Bank GFDD)",
+   "Bank Loan-to-Deposit Ratio by Province"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2009 Central Bank regulation on how credit institutions must collect and classify overdue, past-due and doubtful (non-performing) rial and foreign-currency loans, directly governing bank balance-sheet quality and the flow of new credit to the private sector.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "724:0",
+  "law_year": "2006",
+  "law_title_en": "Bylaw Supporting Housing Provision for Low-Income Groups in Small Towns",
+  "law_title_fa": "آيين نامه حمايت از تأمين مسكن گروههاي كم درآمد در شهرهاي كوچك",
+  "targets_named_charts": [
+   "Housing Units by Number of Resident Households, Census Years (1966-2006)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2006 cabinet regulation providing subsidized bank facilities and land access to help low-income households in small towns obtain housing, a direct instrument aimed at expanding the national housing stock for this segment.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "725:0",
+  "law_year": "2000",
+  "law_title_en": "Executive Bylaw of the Act on Government Discretionary Punishments for Goods and Currency Smuggling",
+  "law_title_fa": "آيين نامه اجرايي قانون نحوه اعمال تعزيرات حكومتي راجع به قاچاق كالا و ارز",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2000 executive regulation implementing the law on government sanctions for smuggling of goods and currency, setting up the enforcement mechanism against the black-market movement of foreign exchange, a direct channel affecting the gap between official and parallel exchange rates.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "725:1",
+  "law_year": "2000",
+  "law_title_en": "Executive Bylaw of the Act on Government Discretionary Punishments for Goods and Currency Smuggling",
+  "law_title_fa": "آيين نامه اجرايي قانون نحوه اعمال تعزيرات حكومتي راجع به قاچاق كالا و ارز",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Imports)",
+   "Trade (Exports)"
+  ],
+  "current_justification_en": "The same anti-smuggling enforcement regime also targets illicit, undeclared trade in goods, so it bears indirectly on the accuracy and level of Iran's recorded merchandise trade statistics.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "726:0",
+  "law_year": "2005",
+  "law_title_en": "Executive Bylaw of Clause (th) of Note 11 of the National Budget Act for 1384 (2005)",
+  "law_title_fa": "آيين نامه اجرايي بند  ث  تبصره  11  قانون بودجه سال 1384 كل كشور",
+  "targets_named_charts": [
+   "Natural Gas Consumption: Flared, Delivered to NIGC, Injection",
+   "Oil Product Domestic Consumption"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2005 executive regulation obliging the National Iranian Oil Company to build 400 compressed natural gas (CNG) refueling stations nationwide by year end, a direct instrument of Iran's fuel-switching program to shift vehicles from gasoline to natural gas.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "727:0",
+  "law_year": "2019",
+  "law_title_en": "Executive Bylaw of Clause (a) of Note 18 of the Single-Article National Budget Act for Year 1398",
+  "law_title_fa": "آيين نامه اجرايي بند  الف  تبصره  18  ماده واحده قانون بودجه سال 1398 كل كشور",
+  "targets_named_charts": [
+   "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+   "Unemployment, total (% of total labor force) (national estimate)",
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2019 executive regulation for the FY1398 budget's employment-support facility, channeling tens of trillions of rials from the National Development Fund and partner banks into subsidized loans aimed at job creation and preservation across multiple sectors.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "728:0",
+  "law_year": "2017",
+  "law_title_en": "Ruling No. 487 of the General Assembly of the Administrative Court of Justice Annulling the Resolution of the Market Regulation Task Force Secretariat of 15 March 2015 (25/12/1393)",
+  "law_title_fa": "رأي شماره 487 هيأت عمومي ديوان عدالت اداري با موضوع ابطال مصوبه چهل و يكمين جلسه مورخ 25/ 12/ 1393 دبيرخانه كارگروه تنظي",
+  "targets_named_charts": [
+   "Subsidies and other transfers"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2017 Administrative Court ruling voiding a Market Regulation Working Group directive that had frozen petrochemical fertilizer prices, upholding instead the Targeted Subsidies Law's rule that petrochemical products bought by or for the government be priced at the exchange-traded (bourse) rate with any subsidy paid separately.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "733:0",
+  "law_year": "2015",
+  "law_title_en": "Ruling No. 784 of the General Board of the Administrative Court of Justice [...] the Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "رأي شماره 784 هيأت عمومي ديوان عدالت ادا ... نامه اجرايي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Customs and other import duties",
+   "GIEWS Cereal Import Requirement Forecasts by Grain Type (2010/11-2026/27)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2015 Administrative Court ruling voiding a clause of the Import/Export Regulations Article-1 Commission's 2011 decree, arising from a dispute over the licensing and duties applied to a shipment of imported feed wheat, feed corn and food wheat.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "734:0",
+  "law_year": "2006",
+  "law_title_en": "Ruling No. 91 of the General Board of the Administrative Court of Justice [...] the Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "رأي شماره 91 هيأت عمومي ديوان عدالت ادار ... نامه اجرائي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "2006 Administrative Court ruling voiding a clause of the Import/Export Regulations executive bylaw that had required Iran Customs to value used imported machinery at the price of equivalent new equipment, a rule affecting the customs duty owed on such imports nationwide.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "736:0",
+  "law_year": "1991",
+  "law_title_en": "Act on the Charter of Shahid Beheshti Agro-Industrial Company (Private Joint Stock)",
+  "law_title_fa": "قانون اساسنامه شركت سهامي كشت و صنعت شهيد بهشتي  سهامي خاص",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture Production"
+  ],
+  "current_justification_en": "1991 law establishing the corporate charter of Shahid Beheshti Agro-Industry Company (a state-owned joint-stock farming and processing enterprise), part of the network of state agro-industrial firms contributing to national agricultural output.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "737:0",
+  "law_year": "1992",
+  "law_title_en": "Act Ratifying the Agreement on the System of Trade Preferences Among Islamic Countries, as Subsequently Amended and Supplemented",
+  "law_title_fa": "قانون تصویب موافقتنامه نظام ترجیحات تجاری میان کشورهای اسلامی با اصلاحات و الحاقات بعدی",
+  "targets_named_charts": [
+   "Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)",
+   "Merchandise exports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "1992 law ratifying Iran's accession to the Trade Preferential System among Islamic Countries (TPS-OIC), the framework agreement establishing reciprocal tariff preferences for trade among OIC member states, most of which lie in the Middle East and North Africa.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "739:0",
+  "law_year": "1980",
+  "law_title_en": "Budget Act for the Year 1359 (1980/81)",
+  "law_title_fa": "قانون بودجه سال 1359",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The FY1359 (1980/81) annual budget law, the first full state budget passed by the Islamic Consultative Council after the revolution's consolidation and enacted in the same year the Iran-Iraq War began, fixing the tax, oil-revenue and spending plan that set the fiscal footprint of Iran's opening war-economy year.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "739:1",
+  "law_year": "1980",
+  "law_title_en": "Budget Act for the Year 1359 (1980/81)",
+  "law_title_fa": "قانون بودجه سال 1359",
+  "targets_named_charts": [
+   "Expense",
+   "Expense (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Sets the state's total tax, oil-revenue and expenditure plan for the fiscal year the Iran-Iraq War began, including the initial surge in war-related and defense spending that reshaped government expenditure for years afterward.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "739:2",
+  "law_year": "1980",
+  "law_title_en": "Budget Act for the Year 1359 (1980/81)",
+  "law_title_fa": "قانون بودجه سال 1359",
+  "targets_named_charts": [
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Deficit financing embedded in the FY1359 budget, amid wartime spending and a collapsing oil-export base, contributed to the monetary expansion that fed into Iran's rising inflation through the early 1980s.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "740:0",
+  "law_year": "2020",
+  "law_title_en": "Ruling No. 535 of the General Board of the Administrative Court of Justice [...] Resolution No. 24 of the Golestan Province Wheat, Flour and Bread Working Group",
+  "law_title_fa": "راي شماره 535 هيات عمومي ديوان عدالت ادا ...  24 كارگروه گندم، آرد و نان استان گلستان",
+  "targets_named_charts": [
+   "Government-Guaranteed Wheat Procurement Price, Common & Durum (2013-2026)",
+   "Wheat, Producer Price"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2020 Administrative Justice Court ruling on Golestan province's wheat/flour/bread coordination workgroup, part of the provincial-administrative machinery that operationalizes Iran's regulated wheat-to-bread supply chain that the guaranteed purchase price series tracks nationally.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "741:0",
+  "law_year": "1995",
+  "law_title_en": "Ruling No. 20 of the General Board of the Administrative Court of Justice [...] Land for Use in Agricultural Projects",
+  "law_title_fa": "رأي شماره 20 هيئت عمومي ديوان عدالت ادار ... ين بمنظور بهره برداري در طرحهاي كشاو رزي",
+  "targets_named_charts": [
+   "Agricultural land",
+   "Arable land (hectares)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1995 ruling on allocating land for agricultural exploitation projects, part of the routine administrative apparatus governing how agricultural land is assigned for cultivation, feeding into the stock of agricultural/arable land over time.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "742:0",
+  "law_year": "1998",
+  "law_title_en": "Ruling No. 185 of the General Board of the Administrative Court of Justice on the Annulment of Article (6) of Circular No. 027/53/5614, Dated 28/2/1373 (1994), of the Land Affairs Organization, Concerning the Appropriation of Fallow Land Located Within Privately Owned Boundaries",
+  "law_title_fa": "رأی شماره ۱۸۵ هیئت عمومی دیوان عدالت اداری درخصوص ابطال ماده (۶) بخشنامه شماره ۰۲۷ / ۵۳ / ۵۶۱۴ مورخ ۲۸ / ۲ / ۱۳۷۳ سازمان",
+  "targets_named_charts": [
+   "Agricultural land"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1998 ruling annulling a circular that authorized seizure of fallow land within privately owned boundaries, reinforcing private land-asset rights and thereby the administrative rules that shape the recorded agricultural land stock.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "743:0",
+  "law_year": "2011",
+  "law_title_en": "Ruling No. 1398 of the General Board of the Administrative Court of Justice [...] the Production and Supply of Housing, Approved 1390/4/27 (2011) by the Council of Ministers",
+  "law_title_fa": "رأي ﺷﻤﺎره 1398 ﻫﯿﺄت ﻋﻤﻮﻣﯽ دﯾﻮان ﻋﺪاﻟﺖ اد ... د و عرضه مسكن مصوب 1390 4 27 هيأت وزيران",
+  "targets_named_charts": [
+   "Housing Units by Number of Resident Households, Census Years (1966-2006)"
+  ],
+  "targets_categories": [
+   "Housing"
+  ],
+  "current_justification_en": "A 2011 ruling on the cabinet's 2011 housing production and supply bylaw, a national housing-market policy instrument directly aimed at regulating the production and supply of housing units.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "744:0",
+  "law_year": "2017",
+  "law_title_en": "Ruling No. 49 of the General Board of the Administrative Court of Justice [...] Competition [Council] Setting the Fixed-Line Telephone Subscription Rate",
+  "law_title_fa": "رأي شماره 49 هيأت عمومي ديوان عدالت ادار ... قابت مبني بر تعيين نرخ آبونمان تلفن ثابت",
+  "targets_named_charts": [
+   "Fixed telephone subscriptions (per 100 people)",
+   "Fixed telephone subscriptions"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2017 ruling on the fixed-line telephone subscription tariff (آبونمان), a regulated-price case bearing on the cost of maintaining a fixed telephone line, the same service measured by the fixed telephone subscriptions series.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "745:0",
+  "law_year": "1991",
+  "law_title_en": "Non-Conflict of the Increase in Telephone Call Rates with [...] Article 125 and Clause (c) of Note 67 of the 1363 (1984/85) Budget Act",
+  "law_title_fa": "عدم مغايرت افزايش نرخ مكالمه تلفن با قان ... وب 125 و بند ج تبصره 67 قانون بودجه 1363",
+  "targets_named_charts": [
+   "Fixed telephone subscriptions (per 100 people)",
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1991 ruling upholding a telephone call-rate increase enacted through a budget-law provision (Note 67(c), 1984 Budget Act), an example of tariff increases being legislated through the annual budget law.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "746:0",
+  "law_year": "2019",
+  "law_title_en": "Ruling No. 2620 of the General Board of the Court of Administrative Justice, on the Central Bank Circular of 1397/5/20 (Dated 1397/5/27)",
+  "law_title_fa": "رأي شماره 2620 هيأت عمومي ديوان عدالت اد ... 1397 5 20 بانك مركزي جمهوري اسلامي ايران",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate",
+   "Imports of goods and services (% of GDP)",
+   "Imports of goods and services (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2019 ruling on a Central Bank circular governing which exchange rate (subsidized 42,000-rial rate vs. NIMA secondary-market rate) importers must use to settle the remaining balance on documentary-credit-financed imports, a direct channel through which the multi-tier FX regime raised effective import costs during the post-2018 sanctions currency crisis.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "747:0",
+  "law_year": "2019",
+  "law_title_en": "Ruling No. 2895 of the General Board of the Administrative Justice Court on the Application of Article 91 of the Administrative Justice Court Act (1392) to Ruling No. 432 (1396/05/10) and the Non-Annulment of Tax Affairs Organization Circular No. 9253 (1390/07/09)",
+  "law_title_fa": "رأي شماره 2895 هيأت عمومي ديوان عدالت اد ... امه 9253- 1390 07 09 سازمان امور مالياتي",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2019 ruling on foreign-exchange rate differentials applied to financial facilities/loans, an instance of the multi-tier exchange-rate system's cost effects on credit that the official-vs-parallel FX gap series records.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "748:0",
+  "law_year": "2019",
+  "law_title_en": "Ruling No. 67 of the General Board of the Administrative Court of Justice Annulling the Tax Administration's Circular on Withholding Tax on Interest and Fees Paid to Foreign Investors and Banks for Loans and Financial Facilities",
+  "law_title_fa": "رأي شماره 67 هيأت عمومي ديوان عدالت ادار ... ارجي بابت تسهيلات مالي و وام هاي اعطايي",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2019 ruling on foreign-currency charges applied to extended credit facilities/loans, another instance of multi-tier FX-rate costs being passed through to borrowers, the phenomenon the official-vs-parallel FX gap series tracks.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "750:0",
+  "law_year": "2009",
+  "law_title_en": "Ruling No. 807 of the General Board of the Administrative Court of Justice Concerning the Exemption from Payment of the Insurance Share of Employers with a Maximum of Five Workers, as Subsequently Amended and Supplemented",
+  "law_title_fa": "رأی شماره ۸۰۷ هیأت عمومی دیوان عدالت اداری در خصوص معافیت از پرداخت سهم بیمه کارفرمایانی که حداکثر پنج نفر کارگر دارند ب",
+  "targets_named_charts": [
+   "Employers, total (% of total employment) (modeled ILO estimate)",
+   "Social Security Organization Pensioners & Amounts Paid, by Category (1991-2006)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2009 ruling on exempting employers with five or fewer workers from paying their share of social-insurance premiums, a targeted reduction in the labor cost of formalizing small-firm employment that bears on employer/self-employment shares and on Social Security Organization contribution flows.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "751:0",
+  "law_year": "2002",
+  "law_title_en": "Ruling No. 333 of the General Board of the Administrative Court of Justice [...] Dated 21/12/1378 (2000), by the Chairman of the Supreme Tax Council",
+  "law_title_fa": "رأي شماره 333 هيئت عمومي ديوان عدالت ادا ... ورخ 21  12  1378 رئيس شوراي عالي مالياتي",
+  "targets_named_charts": [
+   "Tax revenue"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2002 ruling on a Supreme Tax Council determination, a narrow tax-administration procedural matter that falls within the general domain of the tax-revenue series but does not itself alter tax policy or rates.",
+  "old_correlation": 1,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "752:0",
+  "law_year": "2022",
+  "law_title_en": "Ruling No. 902 of the General Board of the Administrative Justice Court Annulling the Absolute Application of the Ruling in Directive No. 200/93/524 of 22/6/1393 (September 13, 2014) of the Head of the National Tax Administration, to the Extent It Subjects Taxpayers Holding Foreign Currency Assets to Currency Revaluation and Income Tax Even When They Purchase but Do Not Sell or Use the Foreign Currency",
+  "law_title_fa": "رأي شماره 902 هيأت عمومي ديوان عدالت اداري با موضوع ابطال اطلاق حكم مندرج در دستورالعمل شماره 200/93/524 - 1393/6/22 رئي",
+  "targets_named_charts": [
+   "Taxes on income, profits and capital gains",
+   "Taxes on income, profits and capital gains (% of revenue)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2022 ruling holding certain deposited amounts subject to income tax, a direct expansion of the taxable income base that bears on taxes on income, profits and capital gains.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "753:0",
+  "law_year": "2012",
+  "law_title_en": "Ruling No. 335 of the General Board of the Administrative Court of Justice [...] the National Tax Affairs Organization to the Date of Issuance of the Circular",
+  "law_title_fa": "رأي شماره 335 هيأت عمومي ديوان عدالت ادا ... ن امور مالياتي كشور به زمان صدور بخشنامه",
+  "targets_named_charts": [
+   "Tax revenue"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2012 ruling annulling a tax-administration circular retroactive to its issuance date, a narrow procedural correction within the general tax-administration domain.",
+  "old_correlation": 1,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "754:0",
+  "law_year": "2014",
+  "law_title_en": "Annulment of Circular No. 11304/6247/201, Dated 15/11/1382 (2004), of the Tax Affairs Organization",
+  "law_title_fa": "ابطال بخشنامه شماره 11304  6247  201ـ 15  11  1382 سازمان امور مالياتي",
+  "targets_named_charts": [
+   "Tax revenue"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2014 ruling annulling another tax-administration circular, a narrow procedural matter within the general tax-administration domain.",
+  "old_correlation": 1,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "755:0",
+  "law_year": "2017",
+  "law_title_en": "Ruling No. 48 of the General Board of the Administrative Court of Justice [...] Tax Exemption for Ready-to-Consume Sugar",
+  "law_title_fa": "رأي شماره 48 هيأت  عمومي ديوان عدالت  اد ... ص معافيت مالياتي به قند و شكر آماده مصرف",
+  "targets_named_charts": [
+   "Taxes on goods and services"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2017 ruling granting tax exemption to prepared sugar/qand, a direct tax-revenue instrument removing a good-and-service tax that would otherwise be collected on this commodity.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "755:1",
+  "law_year": "2017",
+  "law_title_en": "Ruling No. 48 of the General Board of the Administrative Court of Justice [...] Tax Exemption for Ready-to-Consume Sugar",
+  "law_title_fa": "رأي شماره 48 هيأت  عمومي ديوان عدالت  اد ... ص معافيت مالياتي به قند و شكر آماده مصرف",
+  "targets_named_charts": [
+   "Sugar & Sweeteners, Food Consumption",
+   "Sugar (Raw Equivalent), Food Consumption"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "By lowering the effective consumer price of prepared sugar, this 2017 tax exemption ruling plausibly supports sugar/sweetener consumption levels, though only as one of many price and income drivers.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "756:0",
+  "law_year": "2025",
+  "law_title_en": "اصلاح ماده  5  آيين نامه اجرايي ماده  10  قانون هدفمندكردن يارانه ها",
+  "law_title_fa": "اصلاح ماده  5  آيين نامه اجرايي ماده  10  قانون هدفمندكردن يارانه ها",
+  "targets_named_charts": [
+   "Subsidies and other transfers",
+   "Government-Guaranteed Wheat Procurement Price, Common & Durum (2013-2026)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2025 amendment to the implementing bylaw of Article 10 of the Subsidy Targeting (yaraneh) Law, the core legal instrument governing Iran's cash and in-kind subsidy system; subsidy-reform law is the explicit instrument behind government subsidies-and-transfers spending and behind regulated staple-good procurement pricing.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "756:1",
+  "law_year": "2025",
+  "law_title_en": "اصلاح ماده  5  آيين نامه اجرايي ماده  10  قانون هدفمندكردن يارانه ها",
+  "law_title_fa": "اصلاح ماده  5  آيين نامه اجرايي ماده  10  قانون هدفمندكردن يارانه ها",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita",
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Subsidy reform is a national-scale fiscal and price-policy instrument: cash-subsidy disbursements affect household consumption and thus GDP, while the associated administered-price changes are a recurring driver of headline inflation; any serious account of Iran's growth and inflation trajectory since 2010 must reference the subsidy-targeting law.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "757:0",
+  "law_year": "1997",
+  "law_title_en": "Act on Providing New Credit Facilities for Compensating Drought-Hit Farmers and Herders and Accelerating the Vali-e Asr Kangan Refinery Capacity-Expansion Project",
+  "law_title_fa": "قانون تامين تسهيلات اعتباري جديد جهت جبران خسارت كشاورزان و دامداران خسارت ديده ناشي از خشكسالي و‌تسريع در عمليات اجرايي",
+  "targets_named_charts": [
+   "Oil Product Production by Refinery",
+   "Oil Production (physical volume)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1997 law providing new credit facilities to expand the capacity of the Vali-e Asr Kangan refinery, a direct government investment instrument targeting refined oil-product output.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "757:1",
+  "law_year": "1997",
+  "law_title_en": "Act on Providing New Credit Facilities for Compensating Drought-Hit Farmers and Herders and Accelerating the Vali-e Asr Kangan Refinery Capacity-Expansion Project",
+  "law_title_fa": "قانون تامين تسهيلات اعتباري جديد جهت جبران خسارت كشاورزان و دامداران خسارت ديده ناشي از خشكسالي و‌تسريع در عمليات اجرايي",
+  "targets_named_charts": [
+   "Oil rents (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "By expanding domestic refining capacity, this credit-facility law contributes to the broader oil sector's contribution to GDP, tracked by the oil-rents-to-GDP series.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "758:0",
+  "law_year": "1988",
+  "law_title_en": "Act Prohibiting the Buying and Selling of Basic Goods Ration Coupons",
+  "law_title_fa": "قانون منع خريد و فروش كوپنهاي كالاهاي اساسي",
+  "targets_named_charts": [
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)",
+   "Subsidies and other transfers"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1988 wartime law banning the buying/selling of essential-goods rationing coupons, a direct regulatory instrument protecting the Iran-Iraq War-era rationing and subsidized-price system from black-market erosion, bearing on both consumer price behavior and the fiscal cost of subsidized-goods distribution.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "759:0",
+  "law_year": "1975",
+  "law_title_en": "Act on Converting Installment Receipts of Smallholders Subject to [...] Tenant Farmers and Related Annexes into Bonds",
+  "law_title_fa": "قانون تبديل قبوض اقساطي خرده مالكان مشمو ... بزارعين مستاجر و ملحقات آن به اوراق قرضه",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1975 law converting tenant farmers' land-reform installment payment slips into bonds, a technical financial instrument implementing the Pahlavi state's land-reform program (a pillar of the White Revolution); as with other central instruments of that national modernization program, any serious account of Iran's growth path through the 1970s should mention the land-reform financing apparatus, even",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "759:1",
+  "law_year": "1975",
+  "law_title_en": "Act on Converting Installment Receipts of Smallholders Subject to [...] Tenant Farmers and Related Annexes into Bonds",
+  "law_title_fa": "قانون تبديل قبوض اقساطي خرده مالكان مشمو ... بزارعين مستاجر و ملحقات آن به اوراق قرضه",
+  "targets_named_charts": [
+   "Agricultural land",
+   "Arable land (hectares)",
+   "Crop production index (2014-2016 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This bond-conversion law resolved a key financing bottleneck of the land-reform program by making tenant farmers' outstanding land payments tradeable, directly supporting the completion of land transfers that shaped agricultural land distribution and cultivation.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "759:2",
+  "law_year": "1975",
+  "law_title_en": "Act on Converting Installment Receipts of Smallholders Subject to [...] Tenant Farmers and Related Annexes into Bonds",
+  "law_title_fa": "قانون تبديل قبوض اقساطي خرده مالكان مشمو ... بزارعين مستاجر و ملحقات آن به اوراق قرضه",
+  "targets_named_charts": [
+   "Net incurrence of liabilities, total"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Converting outstanding installment obligations into government-backed bonds represents an early instance of restructuring a public liability into tradeable debt, the kind of instrument the net-incurrence-of-liabilities series conceptually tracks.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "760:0",
+  "law_year": "1992",
+  "law_title_en": "Act Extending the Deadline for Farmers to Repay Debts under Land Reform Laws",
+  "law_title_fa": "قانون تمديد مهلت تأديه بدهي كشاورزان بابت قوانين مربوط به اصلاحات ارضي",
+  "targets_named_charts": [
+   "Agriculture, forestry, and fishing, value added (% of GDP)",
+   "Agriculture, forestry, and fishing, value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Extends the repayment deadline for farmers' land-reform purchase debts, easing a credit constraint on smallholders and so bearing, at the margin, on aggregate agricultural value added.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "761:0",
+  "law_year": "1969",
+  "law_title_en": "Act Authorizing Rural Cooperatives to Sign Sale Documents and Related Receipts [...] on Behalf of Non-Complying Farmers",
+  "law_title_fa": "قانون اجازه امضاء اسناد فروش و قبوض مربو ...  تعاون روستائي بقائم مقامي زارعين مستنكف",
+  "targets_named_charts": [
+   "Agriculture, forestry, and fishing, value added (% of GDP)",
+   "Agriculture, forestry, and fishing, value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A procedural mechanism of the Pahlavi-era land reform, letting rural cooperatives complete land-sale paperwork on behalf of defaulting tenant farmers, keeping the reform's land-transfer process moving and so indirectly supporting agricultural output.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "762:0",
+  "law_year": "1958",
+  "law_title_en": "Act on Increasing Agricultural Credit",
+  "law_title_fa": "قانون راجع به افزايش اعتبارات كشاورزي",
+  "targets_named_charts": [
+   "Agriculture, forestry, and fishing, value added (% of GDP)",
+   "Agriculture, forestry, and fishing, value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Directly raises the state's agricultural-credit appropriations, a fiscal instrument that eases financing constraints for farmers and can lift agricultural investment and output.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "763:0",
+  "law_year": "1997",
+  "law_title_en": "Participation Bonds (Musharakah Sukuk) Issuance Act",
+  "law_title_fa": "قانون نحوه انتشار اوراق مشاركت",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Capital Markets"
+  ],
+  "current_justification_en": "Creates Iran's participation-bond (musharakah) instrument, letting government, municipalities, and firms raise project finance from the public and trade the paper on the stock exchange, a foundational domestic debt-capital-markets instrument.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "764:0",
+  "law_year": "1964",
+  "law_title_en": "Act on Loading Fees for Export Goods",
+  "law_title_fa": "قانون مربوط به حق باربري كالاي صادراتي",
+  "targets_named_charts": [
+   "Merchandise exports",
+   "Export volume index (2015 = 100)",
+   "Export unit value index (2015 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Imposes a handling duty on export cargo, a direct trade-cost instrument that raises the effective cost of shipping goods abroad and so bears on export volumes and values.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "766:0",
+  "law_year": "1988",
+  "law_title_en": "Executive Bylaw for the First Phase of Transferring State-Owned Shares in Manufacturing Enterprises to Their Workers and to Civil Servants",
+  "law_title_fa": "آئيننامه اجرائي مرحله اول واگذاري سهام م ... ه كاركنان واحدهاي توليدي و كارمندان دولت",
+  "targets_named_charts": [
+   "Industry (including construction), value added (% of GDP)",
+   "Manufacturing, value added (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "First-phase bylaw for transferring shares of state-owned industrial enterprises to workers and government employees, an early precursor to Iran's later privatization program that reshapes ownership and incentives in the industrial sector.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "767:0",
+  "law_year": "1994",
+  "law_title_en": "Executive Bylaw of the Organization for Inspection and Supervision of Prices and Distribution of Goods and Services",
+  "law_title_fa": "آيين نامه اجرايي سازمان بازرسي و نظارت بر قيمت و توزيع كالا و خدمات",
+  "targets_named_charts": [
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)",
+   "Wholesale price index (2010 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Establishes the administrative bylaw for Iran's price-inspection and distribution-oversight organization, a direct instrument for enforcing price controls on goods and services and so a real channel into consumer and wholesale price measures.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "768:0",
+  "law_year": "1989",
+  "law_title_en": "Amendment to the Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "اصلاح آيين نامه اجرايي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Merchandise exports",
+   "Merchandise imports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Amends the implementing bylaw of Iran's foundational export/import regulations law, adjusting the rules governing trade licensing and so bearing directly on merchandise export and import flows.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "769:0",
+  "law_year": "2021",
+  "law_title_en": "Amendment to the Directive and Executive Procedure of the Bylaw on the Collection of Duties in Free Trade-Industrial Zones",
+  "law_title_fa": "اصلاح دستورالعمل و روش اجرايي آيين نامه اخذ عوارض در مناطق آزاد تجاري - صنعتي",
+  "targets_named_charts": [
+   "Customs and other import duties",
+   "Merchandise exports",
+   "Merchandise imports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Amends the procedure for collecting customs duties in Iran's free trade and industrial zones, a direct tariff-administration instrument that affects the cost of goods moving through these zones and so customs revenue and zone trade flows.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "771:0",
+  "law_year": "1977",
+  "law_title_en": "Amendment to the Year-2535 (Imperial Calendar, 1976/77) Budget of the Ministry of Commerce Consumer Protection Fund",
+  "law_title_fa": "اصلاح بودجه سال 2535 وزارت بازرگاني  - صندوق حمايت مصرف كننده",
+  "targets_named_charts": [
+   "Subsidies and other transfers"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A budget-line amendment adding funds to the Ministry of Commerce's Consumer Protection Fund, a narrow subsidy/price-support appropriation that flows into the government's subsidies-and-transfers spending.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "773:0",
+  "law_year": "1967",
+  "law_title_en": "Act on the Collection of Landing and Parking Charges for Aircraft and Other Airport Services Similar to the Tariffs of International Airports",
+  "law_title_fa": "قانون اخذ عوارض فرود امدن و توقف هواپيماها و ساير خدمات فرودگاهي مشابه تعرفه فرودگاههاي بين المللي",
+  "targets_named_charts": [
+   "Air transport, passengers carried"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Sets airport landing and parking fee tariffs at international-airport rates, a narrow price-setting instrument in air-transport infrastructure with a plausible, if minor, channel to air-transport activity.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "774:0",
+  "law_year": "1988",
+  "law_title_en": "Act on the Punishment of Violators of Goods and Passenger Transport Rate Tariffs",
+  "law_title_fa": "قانون مجازات متخلفين از تعرفه نرخ حمل كالا و مسافر",
+  "targets_named_charts": [
+   "Railways, passengers carried (million passenger-km)",
+   "Railways, goods transported (million ton-km)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Penalizes violators of regulated freight and passenger transport tariffs, enforcing a fixed pricing schedule in the transport sector with a plausible, minor channel to reported freight and passenger transport volumes.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "775:0",
+  "law_year": "2012",
+  "law_title_en": "Executive Bylaw of Article 15 of the Comprehensive Livestock Husbandry System Act",
+  "law_title_fa": "آيين نامه اجرايي ماده  15  قانون نظام جامع دامپروري كشور",
+  "targets_named_charts": [
+   "Livestock production index (2014-2016 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Implementing bylaw for a provision of Iran's comprehensive livestock husbandry law, a direct regulatory instrument for the livestock sector with a real channel to livestock production.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "776:0",
+  "law_year": "1995",
+  "law_title_en": "Decree Concerning the Commercial Profit Rates Listed in the Tables Referenced in Decree No. 11896/t235-72, Dated 8/9",
+  "law_title_fa": "تصويبنامه در خصوص سود بازرگاني مندرج در جداول موضوع تصويبنامه شماره 11896 ت235-72 8 9",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Taxes on international trade"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Sets or amends the commercial-profit (tariff surcharge) schedule applied to specific imported goods, a direct tariff instrument that raises the landed cost of imports and feeds into customs/trade tax revenue.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "777:0",
+  "law_year": "2003",
+  "law_title_en": "Resolution of the Ministers Serving on the Commission of Article One of the Bylaw [...] Export and Import Regulations Concerning the Reduction of Commercial Profit Rates",
+  "law_title_fa": "مصوبه وزراي عضو كميسيون ماده يك آيين نام ... ادرات و واردات راجع به كاهش سود بازرگاني",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports",
+   "Taxes on international trade",
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A cabinet-commission decision cutting commercial-profit (tariff) rates across import/export goods broadly, a trade-liberalizing instrument that lowers the cost of trade and so a real channel into merchandise trade flows and trade-tax revenue.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "778:0",
+  "law_year": "1995",
+  "law_title_en": "Decree on the Addition of Clause 8 to the Directive [...] Bylaw on the Collection of Duties in Free Trade-Industrial Zones",
+  "law_title_fa": "تصويبنامه راجع به اضافه شدن بند 8 به دست ... مه اخذ عوارض در مناطق آزاد تجاري - صنعتي",
+  "targets_named_charts": [
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Adds a specific duty/levy item to the customs charge schedule for free trade-industrial zones, a narrow tariff-administration change with a real but small channel into customs duty revenue.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "779:0",
+  "law_year": "1993",
+  "law_title_en": "Deletion of a Phrase from, and Addition of a Note to, Article 23 of the Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "حذف عبارتي و الحاق تبصره اي به ماده 23 آئين نامه اجرايي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Amends a clause and appended note of the implementing bylaw for Iran's export/import regulations law, a minor rule change within the trade-licensing regime that touches merchandise trade flows.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "780:0",
+  "law_year": "2008",
+  "law_title_en": "Addition of Text as a Note to Item 4(b) [...] Rules Governing the Granting of Foreign Currency Facilities and Agency Contracts",
+  "law_title_fa": "الحاق متني به عنوان تبصره به جزء   4   ب ... وابط اعطاي تسهيلات ارزي و قرارداد عامليت",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A narrow 2008 addendum to the rules on granting foreign-currency credit facilities and bank agency contracts tweaks how FX-denominated loans are administered, part of the broader regulatory plumbing around the FX market.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "780:1",
+  "law_year": "2008",
+  "law_title_en": "Addition of Text as a Note to Item 4(b) [...] Rules Governing the Granting of Foreign Currency Facilities and Agency Contracts",
+  "law_title_fa": "الحاق متني به عنوان تبصره به جزء   4   ب ... وابط اعطاي تسهيلات ارزي و قرارداد عامليت",
+  "targets_named_charts": [
+   "Monetary Sector credit to private sector",
+   "Private Credit by Deposit Money Banks to GDP (World Bank GFDD)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "By adjusting agency-contract terms for FX credit facilities, the rule marginally affects the mechanics of bank credit extension, one small input into aggregate private-sector credit.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "781:0",
+  "law_year": "2004",
+  "law_title_en": "Rulings No. 101 and 102 of the General Board of the Administrative Court of Justice [...] Telecommunication Company of Iran Regarding the Increase in Telephone Rates",
+  "law_title_fa": "رأي شماره 101 و 102 هيئت عمومي ديوان عدا ... خابرات ايران در رابطه با افزايش نرخ تلفن",
+  "targets_named_charts": [
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2004 Administrative Court ruling on the telecom company's telephone-tariff increase concerns a regulated administered price, one of many components feeding into the consumer price index.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "782:0",
+  "law_year": "2021",
+  "law_title_en": "Ruling No. 1532 of the General Board of the Administrative Justice Court: The Latter Part of Clause 46-4 of the Ministry of Energy's Supplementary Electricity Tariff Bylaw Is Annulled",
+  "law_title_fa": "رأي شماره 1532 هيأت عمومي ديوان عدالت اداري با موضوع : قسمت اخير بند 46 -4 از آيين نامه تكميلي تعرفه هاي برق وزارت نيرو ",
+  "targets_named_charts": [
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)",
+   "Electric power consumption (kWh per capita)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2021 Administrative Court ruling annuls supplementary electricity-tariff rules issued by the Ministry of Energy, directly blocking a planned increase in a major administered price that feeds both the CPI energy component and household electricity consumption decisions.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "783:0",
+  "law_year": "2005",
+  "law_title_en": "Ruling No. 18 of the General Board of the Administrative Court of Justice [...] Inspection and Supervision of the Price and Distribution of Goods and Services",
+  "law_title_fa": "رأي شماره 18 هيأت عمومي ديوان عدالت ادار ... رسي و نظارت بر قيمت و توزيع كالا و خدمات",
+  "targets_named_charts": [
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)",
+   "Wholesale price index (2010 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2005 ruling concerning the body responsible for price-control oversight and distribution of goods and services bears on the institutional machinery through which Iran's price-control regime operates, a real channel into the consumer and wholesale price indices.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "784:0",
+  "law_year": "2019",
+  "law_title_en": "Rulings No. 2463, 2462 and 2461 of the General Board of the Administrative Court of Justice [...] the Amended Direct Taxation Act, Approved 1395 (2016/17)",
+  "law_title_fa": "رأي شماره 2463 - 2462 - 2461 هيأت عمومي  ...  اصلاحي قانون مالياتهاي مستقيم مصوب 1395",
+  "targets_named_charts": [
+   "Tax revenue",
+   "Tax revenue (% of GDP)",
+   "Taxes on income, profits and capital gains"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2019 Administrative Court ruling reviews an amended clause of the Direct Taxes Act, directly affecting tax liabilities and hence the level and composition of collected tax revenue, including income and profit taxes.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "785:0",
+  "law_year": "2021",
+  "law_title_en": "Ruling No. 1636 of the General Board of the Administrative Court of Justice [...] Circular No. ...77, Dated 28/12/1397 (2019), of the National Tax Affairs Organization",
+  "law_title_fa": "راي شماره 1636 هيات عمومي ديوان عدالت اد ... 77 ـ 1397 12 28 سازمان امور مالياتي كشور",
+  "targets_named_charts": [
+   "Tax revenue",
+   "Tax revenue (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2021 ruling on a tax-authority directive affecting tax administration and assessment procedures touches the machinery through which tax revenue is collected.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "786:0",
+  "law_year": "2021",
+  "law_title_en": "Ruling No. 2325 of the General Board of the Administrative Court of Justice [...] the Presidential [Office], on the Determination of the Minimum Wage for Workers",
+  "law_title_fa": "رأي شماره 2325 هيأت عمومي ديوان عدالت اد ...  جمهور  با موضوع تعيين حداقل مزد كارگران",
+  "targets_named_charts": [
+   "Inflation, consumer prices (annual %)",
+   "Consumer price index (2010 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2021 Administrative Court ruling on the presidential decree setting workers' minimum wage concerns Iran's annual minimum-wage-setting process, which is explicitly indexed to inflation and in turn feeds back into wage-price dynamics.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "786:1",
+  "law_year": "2021",
+  "law_title_en": "Ruling No. 2325 of the General Board of the Administrative Court of Justice [...] the Presidential [Office], on the Determination of the Minimum Wage for Workers",
+  "law_title_fa": "رأي شماره 2325 هيأت عمومي ديوان عدالت اد ...  جمهور  با موضوع تعيين حداقل مزد كارگران",
+  "targets_named_charts": [
+   "Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",
+   "Iran Provincial Poverty Rates by Macro-Region (2011 vs. 2020)",
+   "Household Expenditure, Poverty and Inequality"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the binding wage floor for the large formal wage-and-salary workforce, the minimum-wage decree and its judicial oversight bear directly on real wages, household welfare, and measured poverty and inequality among wage earners.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "787:0",
+  "law_year": "2018",
+  "law_title_en": "Rulings No. 1264 and 1317 of the General Board of the Administrative Court of Justice [...] the Transfer of the Telecommunication Company to the Non-Governmental Sector",
+  "law_title_fa": "رأي شماره هاي 1264 و 1317 هيأت عمومي ديو ...  با واگذاري شركت مخابرات به بخش غيردولتي",
+  "targets_named_charts": [
+   "Market capitalization of listed domestic companies",
+   "Market capitalization of listed domestic companies (% of GDP)",
+   "Stocks traded, total value"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2018 ruling on the transfer of the state telecom company to the private sector concerns one of the largest and most prominent Article 44 privatizations in Iran's stock market, materially affecting listed market capitalization and trading activity on the Tehran exchange.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "787:1",
+  "law_year": "2018",
+  "law_title_en": "Rulings No. 1264 and 1317 of the General Board of the Administrative Court of Justice [...] the Transfer of the Telecommunication Company to the Non-Governmental Sector",
+  "law_title_fa": "رأي شماره هاي 1264 و 1317 هيأت عمومي ديو ...  با واگذاري شركت مخابرات به بخش غيردولتي",
+  "targets_named_charts": [
+   "Fixed telephone subscriptions (per 100 people)",
+   "Fixed telephone subscriptions"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Privatization of the national telecom operator is a landmark structural change in the sector whose service, the fixed telephone network, is directly tracked by these subscription series.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "788:0",
+  "law_year": "2009",
+  "law_title_en": "Ruling No. 747 of the General Board of the Administrative Court of Justice [...] the General Export and Import Regulations of the Ministry of Commerce",
+  "law_title_fa": "رأي شماره 747 هيأت عمومي ديوان عدالت ادا ... كل مقررات صادرات و واردات وزارت بازرگاني",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports",
+   "Customs and other import duties",
+   "Tariff rate, applied, simple mean, all products"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2009 ruling annuls a Ministry of Commerce directive issued under the Import/Export Regulations bylaw, a real, named channel affecting the licensing and tariff conditions under which merchandise trade and customs revenue are recorded.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "789:0",
+  "law_year": "2013",
+  "law_title_en": "Fees for Transactions in Units of Exchange-Traded Investment Funds on the Bourse and Over-the-Counter (Fara-Bourse) Market",
+  "law_title_fa": "كارمزد معاملات واحدهاي سرمايه گذاري صندوقهاي سرمايه گذاري قابل معامله در بورس   فرابورس",
+  "targets_named_charts": [
+   "Stocks traded, total value",
+   "Stocks traded, total value (% of GDP)",
+   "Stocks traded, turnover ratio of domestic shares"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2013 rule setting trading commissions for exchange-traded fund units on the Tehran Stock Exchange and Iran Fara Bourse is a micro-level cost parameter of stock market transactions, feeding into trading-turnover series.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "790:0",
+  "law_year": "2010",
+  "law_title_en": "Amendment to Articles 1 and 4 of the Bylaw on the Manner of Spending Credits for the Energy-Saving Lamp Development Project",
+  "law_title_fa": "اصلاح مواد   1   و   4   آيين نامه نحوه هزينه اعتبارات طرح توسعه لامپ كم مصرف",
+  "targets_named_charts": [
+   "Electric power consumption (kWh per capita)",
+   "Energy use (kg of oil equivalent per capita)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2010 amendment to the spending rules for a compact-fluorescent-lamp energy-efficiency program concerns a small-scale government initiative aimed at reducing residential electricity consumption.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "791:0",
+  "law_year": "2005",
+  "law_title_en": "Decree Communication No. 10138/T32181H ... on the Transmission and Distribution of Electric Power in Iran (Tavanir)",
+  "law_title_fa": "تصويبنامه شماره ابلاغ 10138 ت 32181هـ مو ... نتقال وتوزيع نيروي برق ايران    توانير",
+  "targets_named_charts": [
+   "Electric power transmission and distribution losses (% of output)",
+   "Access to electricity (% of population)",
+   "Access to electricity, rural (% of rural population)",
+   "Access to electricity, urban (% of urban population)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2005 cabinet decree concerning Tavanir, Iran's power transmission and distribution company, directly governs the institution responsible for grid losses and electrification coverage tracked in these series.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "792:0",
+  "law_year": "2011",
+  "law_title_en": "Executive Directive on the Bylaw for Foreign Investment in Stock Exchanges and Over-the-Counter Markets",
+  "law_title_fa": "دستورالعمل اجرايي آيين نامۀ سرمايه گذاري خارجي در بورس ها و بازارهاي خارج از بورس",
+  "targets_named_charts": [
+   "Market capitalization of listed domestic companies",
+   "Market capitalization of listed domestic companies (% of GDP)",
+   "Stocks traded, total value"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2011 implementing instruction for foreign investment in Iran's stock exchanges and OTC markets directly governs the channel through which foreign capital can enter the Tehran Stock Exchange, bearing on market capitalization and trading value.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "792:1",
+  "law_year": "2011",
+  "law_title_en": "Executive Directive on the Bylaw for Foreign Investment in Stock Exchanges and Over-the-Counter Markets",
+  "law_title_fa": "دستورالعمل اجرايي آيين نامۀ سرمايه گذاري خارجي در بورس ها و بازارهاي خارج از بورس",
+  "targets_named_charts": [
+   "Foreign direct investment, net inflows",
+   "Foreign direct investment, net inflows (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Foreign purchases of listed shares are portfolio investment rather than FDI, but the two capital-inflow channels are adjacent and sometimes conflated in policy discussion.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "793:0",
+  "law_year": "2010",
+  "law_title_en": "Executive Bylaw of Article 5 of the Public Transport Development and Fuel Consumption Management Act (2007)",
+  "law_title_fa": "آيين نامه اجرايي ماده  5  قانون توسعه حمل و نقل عمومي و مديريت مصرف سوخت - مصوب  1386",
+  "targets_named_charts": [
+   "Oil Product Domestic Consumption"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2010 bylaw implementing Article 5 of the Public Transport Development and Fuel Consumption Management Law is a direct fuel-demand-management instrument, issued at the start of Iran's major subsidy-reform era, and bears squarely on domestic oil-product consumption.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "794:0",
+  "law_year": "2012",
+  "law_title_en": "Addition of Clause (D) to Article 11 Bis of the Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "الحاق بند  د  به ماده  11  مكرر آيين نامه اجرايي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Tariff rate, applied, simple mean, all products"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2012 addition of clause (d) to Article 11-bis of the Import/Export Regulations bylaw is a narrow technical amendment to import licensing procedure.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "795:0",
+  "law_year": "2002",
+  "law_title_en": "اصلاح آيين نامه اجرايي قانون مقررات صادرات و واردات",
+  "law_title_fa": "اصلاح آيين نامه اجرايي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports",
+   "Tariff rate, applied, simple mean, all products",
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2002 amendment to the executive bylaw of the Import/Export Regulations Law revises the operating rules of Iran's trade-licensing and tariff regime, a real channel into merchandise trade flows and customs revenue.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "796:0",
+  "law_year": "1992",
+  "law_title_en": "Amendment to the Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "اصلاح آئين نامه اجرائي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports",
+   "Tariff rate, applied, simple mean, all products"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1992 amendment to the executive bylaw of the Import/Export Regulations Law falls in the early post-Iran-Iraq War reconstruction period, when trade-policy liberalization was a real driver of the rebound in merchandise trade.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "797:0",
+  "law_year": "",
+  "law_title_en": "Decree on the Executive Bylaw of the Export and Import Regulations Act, as Amended",
+  "law_title_fa": "تصویب‌نامه در خصوص آیین‌نامه اجرایی قانون مقررات صادرات و واردات با اصلاحات و الحاقات بعدی",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports",
+   "Tariff rate, applied, simple mean, all products"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "An approval decree concerning the executive bylaw of the Import/Export Regulations Law updates the operating rules of Iran's trade-licensing and tariff system.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "798:0",
+  "law_year": "",
+  "law_title_en": "Decree Adding Note (3) to Amended Clause 8 of the Directive and Implementing Procedure for the Bylaw on Levying Duties in Free Trade-Industrial Zones, as Amended",
+  "law_title_fa": "تصویبنامه راجع به اضافه شدن تبصره (۳) به بند ۸ اصلاحی دستورالعمل و روش اجرایی آیین‌نامه اخذ عوارض در مناطق آزاد تجاری – ",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A decree adding a note on tariff and duty collection procedures in free trade and industrial zones is a narrow customs-administration amendment specific to Iran's special economic zones.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "799:0",
+  "law_year": "2005",
+  "law_title_en": "Decree Adding the Decree on the List of Ratified Enforced Resolutions to Article 46 of the Executive Bylaw of the Export and Import Regulations Act, as Amended",
+  "law_title_fa": "تصویب ‎نامه راجع به الحاق تصویب‎ نامه موضوع فهرست مصوبات تنفیذی به ماده (۴۶) آیین‎ نامه اجرایی قانون مقررات صادرات و وار",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Tariff rate, applied, simple mean, all products"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 2005 decree adding an exemption item to the ratified list under the Import/Export Regulations bylaw is a narrow addition to the list of duty-exempt or specially-treated import items.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "800:0",
+  "law_year": "2010",
+  "law_title_en": "Bylaw on Foreign Investment in Exchanges and Over-the-Counter Markets",
+  "law_title_fa": "آيين نامه سرمايه گذاري خارجي در بورس ها و بازارهاي خارج از بورس",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Capital Markets"
+  ],
+  "current_justification_en": "This 2010 bylaw implementing Article 4(3) of the Securities Market Law formally opened Iran's stock exchanges and OTC markets to foreign investors, a capital-account liberalization instrument that governs the whole capital-markets domain (market capitalization, trading turnover, listed-company counts).",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "801:0",
+  "law_year": "2008",
+  "law_title_en": "Rules for the Establishment of Land and Building Funds",
+  "law_title_fa": "ضوابط تأسيس صندوق هاي زمين و ساختمان",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Housing"
+  ],
+  "current_justification_en": "These 2008 rules created a regulated real-estate investment fund vehicle (land and building funds) intended to channel capital into housing construction, a housing-finance instrument relevant to the housing domain.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "803:0",
+  "law_year": "2012",
+  "law_title_en": "Ruling of the General Board of the Administrative Justice Court Concerning ... Part of the Regulations on Facilitating and Modernizing the Country's Industries",
+  "law_title_fa": "رأي هيأت عمومي ديوان عدالت اداري، در مور ... بخشي از مقررات تسهيل و نوسازي صنايع كشور",
+  "targets_named_charts": [
+   "Manufacturing, value added (% of GDP)",
+   "Manufacturing, value added (annual % growth)",
+   "Industry (including construction), value added (% of GDP)",
+   "Industry (including construction), value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2012 ruling annuls part of the executive regulations for facilitating and renovating (تسهیل و نوسازی) Iran's industrial units, narrowing a state industrial-modernization support scheme and thereby touching the manufacturing/industry value-added domain.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "804:0",
+  "law_year": "2011",
+  "law_title_en": "Prohibition on Paying Interest Subsidies on Bank Facilities Prior to the Granting of the Facilities to Applicants Relocating from Tehran and Major Cities",
+  "law_title_fa": "عدم جواز پرداخت كمك سود متعلق به تسهيلات بانكي قبل از اعطاي تسهيلات به متقاضيان انتقال از تهران و كلان شهرها",
+  "targets_named_charts": [
+   "Industrial Production Value Share by Province",
+   "Industrial Workshop Count Share by Province"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2011 ruling strikes down interest-subsidy payments tied to credit facilities for firms relocating out of Tehran and other metropolises, removing an incentive instrument aimed at decentralizing industrial location, a real channel to the provincial distribution of industrial production and workshops.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "805:0",
+  "law_year": "1992",
+  "law_title_en": "Commencement of the Tax Exemption Period under Article 132 ... from the Date Production and Mining Units Begin Operation",
+  "law_title_fa": "آغاز دوران معافيت مالياتي موضوع ماده 132 ... خ بهره برداري واحدهاي توليدي و معدني است",
+  "targets_named_charts": [
+   "Taxes on income, profits and capital gains",
+   "Taxes on income, profits and capital gains (% of revenue)",
+   "Tax revenue",
+   "Tax revenue (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1992 ruling fixes the start date of the Article 132 income-tax exemption for productive and mining units from the date production actually begins, directly shaping the effective tax burden on manufacturing and mining investment and hence income-tax revenue.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "807:0",
+  "law_year": "2009",
+  "law_title_en": "Approval of Bylaws for the Implementation of the Act Amending Certain Provisions of the Fourth Development Plan Act and the Implementation of the General Policies of Article (44) of the Constitution",
+  "law_title_fa": "تصويب آيين نامه هايي در اجراي قانون اصلاح موادي از قانون برنامه چهارم توسعه و اجراي سياستهاي كلي اصل (44) قانون اساسي",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita",
+   "GDP per capita growth (annual %)",
+   "Gross capital formation (% of GDP)",
+   "Gross capital formation (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "These 2009 bylaws operationalized the general policies of Article 44 of the Constitution, Iran's headline privatization/divestiture program transferring large blocks of state-owned enterprises to private and quasi-public ownership. A national-scale structural reform of this order must be visible on GDP, GDP-per-capita, and investment charts even though its precise contribution cannot be isolated.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "807:1",
+  "law_year": "2009",
+  "law_title_en": "Approval of Bylaws for the Implementation of the Act Amending Certain Provisions of the Fourth Development Plan Act and the Implementation of the General Policies of Article (44) of the Constitution",
+  "law_title_fa": "تصويب آيين نامه هايي در اجراي قانون اصلاح موادي از قانون برنامه چهارم توسعه و اجراي سياستهاي كلي اصل (44) قانون اساسي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Capital Markets"
+  ],
+  "current_justification_en": "Article-44 privatization was implemented substantially by listing former state-owned enterprises on the Tehran Stock Exchange, directly driving growth in listed-company counts, market capitalization, and trading turnover through the 2000s-2010s.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "807:2",
+  "law_year": "2009",
+  "law_title_en": "Approval of Bylaws for the Implementation of the Act Amending Certain Provisions of the Fourth Development Plan Act and the Implementation of the General Policies of Article (44) of the Constitution",
+  "law_title_fa": "تصويب آيين نامه هايي در اجراي قانون اصلاح موادي از قانون برنامه چهارم توسعه و اجراي سياستهاي كلي اصل (44) قانون اساسي",
+  "targets_named_charts": [
+   "Industry (including construction), value added (% of GDP)",
+   "Industry (including construction), value added (annual % growth)",
+   "Manufacturing, value added (% of GDP)",
+   "Manufacturing, value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A large share of divested state assets were industrial and manufacturing enterprises (steel, petrochemicals, mining, autos), so the program bears on the industry and manufacturing value-added series even though restructuring effects are gradual.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "808:0",
+  "law_year": "2005",
+  "law_title_en": "Amendment of Article 5 of the Bylaw under Clause (h) of Article 14 of the Third Development Plan Act on the Installment Share-Sale System",
+  "law_title_fa": "اصلاح ماده  5  آيين  نامه بند   هـ  ماده ... هنگي موضوع برقراري نظام اقساطي فروش سهام",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Capital Markets"
+  ],
+  "current_justification_en": "This 2005 amendment refined the installment-payment mechanism (نظام اقساطی) for buyers of divested state shares, a concrete operational lever of the Article-44 privatization program that affected the pace at which state assets were absorbed by the stock market.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "809:0",
+  "law_year": "1997",
+  "law_title_en": "Amendment of Article 19 of the Executive Bylaw of the Act on the Manner of Transferring State-Owned Shares to War Veterans and Workers, with Subsequent Amendments",
+  "law_title_fa": "اصلاح ماده ۱۹ آیین‌نامه اجرایی قانون نحوه واگذاری سهام دولتی و متعلق به دولت به ایثارگران و کارگران با اصلاحات و الحاقات",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Capital Markets"
+  ],
+  "current_justification_en": "This 1997 amendment adjusted the bylaw governing preferential transfer of state-owned shares to war veterans (ایثارگران) and workers, a narrower distributive channel of privatization that added to the pool of listed shares in private hands.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "810:0",
+  "law_year": "1984",
+  "law_title_en": "Bylaw on the Conformity of Mines",
+  "law_title_fa": "آيين نامه تطبيق معادن",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Mining & Minerals Production"
+  ],
+  "current_justification_en": "This 1984 bylaw required existing mine concessions/licenses to be brought into conformity with post-revolutionary mining law, a licensing instrument governing which operators could legally continue production, relevant to the domain of Iran's metal and mineral output series.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "811:0",
+  "law_year": "2015",
+  "law_title_en": "Executive Bylaw of Note 2 of Article 3 of the Act Amending the Mining Act",
+  "law_title_fa": "آيين نامه اجرايي تبصره  2  ماده  3  قانون اصلاح قانون معادن",
+  "targets_named_charts": [
+   "Value of Mine Production Share by Province"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2015 bylaw implements a note to Article 3 of the amended Mining Law, governing licensing/exploitation terms for mines, a real regulatory channel shaping the value of mine production captured in the provincial mining-value series (2018-2023).",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "812:0",
+  "law_year": "1988",
+  "law_title_en": "Addition of a Remark to a Tariff Line Item ... in the Executive Bylaw of the Export and Import Regulations",
+  "law_title_fa": "اضافه گرديدن عبارتي بعنوان ملاحظات رديف  ...  آئين نامه اجرايي مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports",
+   "Merchandise trade (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1988 amendment added a tariff-schedule remark to the executive bylaw of the Export-Import Regulations Law, a small technical adjustment to the customs classification regime that governs merchandise trade flows.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "813:0",
+  "law_year": "1990",
+  "law_title_en": "Textual Amendment to Clause (a) of the Remarks for Tariff Lines 27104 and 27/06 of the Customs Tariff Table Annexed to the 1368 (1989-1990) Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "اصلاح عبارتي متن بند (الف) ملاحظات رديفهاي 27104 و 27/06 جدول تعرفه گمركي ضميمه آئين نامه اجرايي قانون مقررات صادرات و و",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Merchandise exports",
+   "Merchandise trade (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1990 amendment revised clause (a) of the remarks under a tariff line in the 1989/90 (1368) Export-Import Regulations bylaw, a technical customs-classification change made just as Iran began post-war trade liberalization.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "814:0",
+  "law_year": "2014",
+  "law_title_en": "Rulings No. 1420 to 1422 of the General Board of the Administrative Justice Court ... on the Executive Bylaw of the Export and Import Regulations Act",
+  "law_title_fa": "رأي شماره هاي 1420 الي 1422 هيأت عمومي د ... نامه اجرايي قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Tariff rate, applied, simple mean, all products",
+   "Tariff rate, applied, weighted mean, all products",
+   "Merchandise imports",
+   "Merchandise exports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2014 ruling annuls part of the executive bylaw of the Export-Import Regulations Law, altering specific customs/tariff provisions during the height of sanctions-era trade restructuring.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "816:0",
+  "law_year": "2012",
+  "law_title_en": "Determination of Fees under Article 24 of the Act on Regulating Part of the Government's Financial Provisions",
+  "law_title_fa": "تعيين تعرفه هاي موضوع ماده  24  قانون تنظيم بخشي از مقررات مالي دولت",
+  "targets_named_charts": [
+   "Grants and other revenue",
+   "Revenue, excluding grants",
+   "Revenue, excluding grants (% of GDP)",
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2012 decree sets specific government-service tariffs/fees under Article 24 of the Law on Regulating Part of the Government's Financial Regulations, a real non-tax revenue instrument that feeds directly into total government revenue and annual budget totals.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "817:0",
+  "law_year": "2015",
+  "law_title_en": "Executive Bylaw of Clause (b) of Article 2 of the Act on the Removal of Obstacles to Competitive Production and the Improvement of the Country's Financial System, Ratified 1394 (2015)",
+  "law_title_fa": "آيين نامه اجرايي بند  ب  ماده  2  قانون  ... ير و ارتقاي نظام مالي كشور - مصوب 1394 -",
+  "targets_named_charts": [
+   "Annual Budget Law Totals",
+   "Total Country Budget: Resources & Uses Breakdown (SH1385-1400)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2015 bylaw implements clause (b) of Article 2 of the law on improving and upgrading Iran's financial management system, a generic public financial-management reform touching how budget resources and uses are recorded and executed.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "818:0",
+  "law_year": "2022",
+  "law_title_en": "Ruling No. 3045 of the General Board of the Administrative Justice Court Annulling Part of the Wording in Clause 18-1 of the Directive on Transmitting Information Required for the Transfer and Acceptance of Islamic Treasury Bonds by Local and Provincial Centralized Executive Agencies, Issued by the Ministry of Economic Affairs and Finance, as Amended",
+  "law_title_fa": "رای شماره ۳۰۴۵ هیات عمومی دیوان عدالت اداری با موضوع ابطال قسمتی از عبارت مندرج در بند ۱۸ - ۱ دستورالعمل نحوه ارسال اطلا",
+  "targets_named_charts": [
+   "Government Net Debt (assets netted)",
+   "Net incurrence of liabilities, total",
+   "Net incurrence of liabilities, total (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2022 ruling annuls part of a Finance Ministry directive on how Islamic treasury bonds (اسناد خزانه اسلامی, a sovereign debt instrument used to settle government arrears) are transferred and accepted by local executive bodies, a real channel touching government debt/liability management.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "819:0",
+  "law_year": "1968",
+  "law_title_en": "Unified Judicial Opinion No. 112 of the Supreme Court ... Concerning Relations Between Landowner and Farmer in Agricultural Matters",
+  "law_title_fa": "رأي و حدت  رو يه شماره 112 ديوان عالي كش ... ين مالك و زارع در امور مربوط به كشاو رزي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "This 1968 Supreme Court unified-procedure ruling clarified the legal relationship between landowners (مالک) and peasant cultivators (زارع) in the years directly following the White Revolution's land-reform program (1962 onward), a national-scale restructuring of farm ownership and cultivation rights that any account of Iran's agricultural land structure must mention.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "819:1",
+  "law_year": "1968",
+  "law_title_en": "Unified Judicial Opinion No. 112 of the Supreme Court ... Concerning Relations Between Landowner and Farmer in Agricultural Matters",
+  "law_title_fa": "رأي و حدت  رو يه شماره 112 ديوان عالي كش ... ين مالك و زارع در امور مربوط به كشاو رزي",
+  "targets_named_charts": [
+   "Agriculture, forestry, and fishing, value added (% of GDP)",
+   "Agriculture, forestry, and fishing, value added (annual % growth)",
+   "Agriculture, forestry, and fishing, value added per worker"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The land-reform-era clarification of landlord-tenant obligations affected cultivation incentives and labor relations on farms, a real if indirect channel to agricultural value added.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ }
+]

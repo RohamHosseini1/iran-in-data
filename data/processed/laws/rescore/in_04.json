@@ -1,0 +1,1393 @@
+[
+ {
+  "ref": "246:1",
+  "law_year": "1995",
+  "law_title_en": "Act Amending the General Budget for the Year 1374 (1995/96)",
+  "law_title_fa": "قانون اصلاح بودجه سال 1374 كل كشور",
+  "targets_named_charts": [
+   "GDP"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As a revision to the annual national budget, government spending shifts embedded in this amendment feed into the government-consumption component of GDP.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "247:0",
+  "law_year": "1933",
+  "law_title_en": "Act Authorizing the Establishment of the Agricultural and Industrial Joint-Stock Bank",
+  "law_title_fa": "قانون اجازه تاسيس بانك فلاحتي و صنعتي سهامي",
+  "targets_named_charts": [
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1933 law created Iran's first dedicated state credit institution for agriculture and industry, a foundational step in building the domestic banking system this chart measures, decades before the series' data coverage begins.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "247:1",
+  "law_year": "1933",
+  "law_title_en": "Act Authorizing the Establishment of the Agricultural and Industrial Joint-Stock Bank",
+  "law_title_fa": "قانون اجازه تاسيس بانك فلاحتي و صنعتي سهامي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "The bank was explicitly created to extend credit to agriculture, part of the early institutional apparatus supporting the sector.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "250:0",
+  "law_year": "2004",
+  "law_title_en": "Ruling No. 34 of the General Board of the Administrative Court of Justice ... Regarding the Transfer of Ownership of Shares of Aseman Airlines",
+  "law_title_fa": "رأي شماره 34 هيئت عمومي ديوان عدالت ادار ... صوص واگذاري مالكيت سهام شركت هوائي آسمان",
+  "targets_named_charts": [
+   "Listed domestic companies, total",
+   "Market capitalization of listed domestic companies"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This ruling concerns transfer of ownership of Aseman Airlines shares, a single privatization transaction that is part of the broader flow of state-owned enterprise shares onto capital markets.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "251:0",
+  "law_year": "2015",
+  "law_title_en": "Executive Bylaw of Article 52 of the Act on Removing Obstacles to Competitive Production and Improving the Country's Financial System",
+  "law_title_fa": "آيين نامه اجرايي ماده  52  قانون رفع موانع توليد رقابت پذير و ارتقاي نظام مالي كشور",
+  "targets_named_charts": [
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This bylaw implements Article 52 of the law removing obstacles to competitive production, directing bank credit and financial-system support toward production, a real channel to private-sector credit.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "251:1",
+  "law_year": "2015",
+  "law_title_en": "Executive Bylaw of Article 52 of the Act on Removing Obstacles to Competitive Production and Improving the Country's Financial System",
+  "law_title_fa": "آيين نامه اجرايي ماده  52  قانون رفع موانع توليد رقابت پذير و ارتقاي نظام مالي كشور",
+  "targets_named_charts": [
+   "Industry (including construction), value added (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "By easing financing for production enterprises, this measure is one of several inputs to industrial value added.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "252:0",
+  "law_year": "1997",
+  "law_title_en": "Bylaw on Granting Credit to Technical and Engineering Services Export Projects",
+  "law_title_fa": "آيين نامه نحوه اعطاي اعتبارات به طرحهاي صادرات خدمات فني و مهندسي",
+  "targets_named_charts": [
+   "Commercial service exports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This bylaw grants credit facilities specifically to technical and engineering services export projects, a named channel supporting commercial service exports.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "253:0",
+  "law_year": "2013",
+  "law_title_en": "Directive on the Issuance of Build-to-Order (Istisna) Securities",
+  "law_title_fa": "دستورالعمل انتشار اوراق سفارش ساخت",
+  "targets_named_charts": [
+   "Government Net Debt (assets netted)",
+   "Net incurrence of liabilities, total"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This directive authorizes issuance of 'construction order' bonds, a domestic public-debt instrument used to finance government construction projects, feeding directly into government liabilities and net debt.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "254:0",
+  "law_year": "1985",
+  "law_title_en": "Executive Bylaw on the Manner of Selling Low-Cost Housing under Note 37 of the Budget Law for the Year 1364 (1985/86)",
+  "law_title_fa": "آيين نامه اجرايي نحوه فروش خانه هاي ارزان قيمت موضوع تبصره 37 قانون بودجه سال 1364",
+  "targets_named_charts": [
+   "Housing Units by Number of Resident Households, Census Years (1966-2006)",
+   "Housing Tenure Type, National (2006-2016)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This bylaw implements sale of low-price housing units under the FY1364 budget law, a state housing-supply program that fits within Iran's broader housing-stock and tenure trends.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "255:0",
+  "law_year": "1989",
+  "law_title_en": "Executive Bylaw on Employment Credit Facilities under Clause 5 of Note 3 of the General Budget Law for the Year 1368 (1989/90)",
+  "law_title_fa": "آئين نامه اجرائي تسهيلات اعتباري اشتغال مهاجرين جنگ تحميلي موضوع بند 5 تبصره 3 قانون بودجه سال 1368كل كشور",
+  "targets_named_charts": [
+   "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+   "Unemployment, total (% of total labor force) (national estimate)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This bylaw implements employment credit facilities under the FY1368 budget law, a targeted post-war job-creation instrument with a direct, named channel to the unemployment rate.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "256:0",
+  "law_year": "2005",
+  "law_title_en": "Executive Bylaw on Expanding Ownership and Increasing the Wealth of Iranian Households",
+  "law_title_fa": "آيين نامه اجرايي توسعه مالكيت و افزايش ثروت خانوارهاي ايراني",
+  "targets_named_charts": [
+   "Net Wealth Share, Top 1%",
+   "Net Wealth Share, Top 10%"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This bylaw operationalizes Iran's 'Justice Shares' program, distributing state-owned enterprise shares to tens of millions of low-income households via intermediary holding companies, a deliberate national wealth-redistribution instrument.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "256:1",
+  "law_year": "2005",
+  "law_title_en": "Executive Bylaw on Expanding Ownership and Increasing the Wealth of Iranian Households",
+  "law_title_fa": "آيين نامه اجرايي توسعه مالكيت و افزايش ثروت خانوارهاي ايراني",
+  "targets_named_charts": [
+   "Gini index"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The program targeted lowest-income deciles explicitly, an intended channel to Iran's income-inequality (Gini) trend.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "256:2",
+  "law_year": "2005",
+  "law_title_en": "Executive Bylaw on Expanding Ownership and Increasing the Wealth of Iranian Households",
+  "law_title_fa": "آيين نامه اجرايي توسعه مالكيت و افزايش ثروت خانوارهاي ايراني",
+  "targets_named_charts": [
+   "Listed domestic companies, total",
+   "Market capitalization of listed domestic companies"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Justice Shares moved large blocks of state-owned enterprise equity into intermediary holding companies tradable on the exchange, a real contributor to listed-company counts and market capitalization through the 2000s-2010s.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "257:0",
+  "law_year": "2001",
+  "law_title_en": "Act Amending the Act on Preventing the Effects of Drought and Compensating Damages",
+  "law_title_fa": "قانون اصلاح قانون پيشگيري از عوارض ناشي از خشكسالي و جبران خسارات",
+  "targets_named_charts": [
+   "Crop production index (2014-2016 = 100)",
+   "Cereal yield"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This law funds compensation and preventive measures (loans, grants, water and livestock support) for drought damage, a real, named channel to Iran's crop production and cereal yield trends given the country's chronic drought exposure.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "258:0",
+  "law_year": "1980",
+  "law_title_en": "Bill Amending the Act on the Collection of Tax from Passenger Cars and Gramophone Records",
+  "law_title_fa": "لايحه قانوني اصلاح قانون اخذ ماليات از اتومبيلهاي سواري و صفحات گرامافون",
+  "targets_named_charts": [
+   "Taxes on goods and services"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1980 amendment revises the excise tax on passenger cars and gramophone records, a narrow but direct instrument feeding into taxes on goods and services.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "258:1",
+  "law_year": "1980",
+  "law_title_en": "Bill Amending the Act on the Collection of Tax from Passenger Cars and Gramophone Records",
+  "law_title_fa": "لايحه قانوني اصلاح قانون اخذ ماليات از اتومبيلهاي سواري و صفحات گرامافون",
+  "targets_named_charts": [
+   "National Motor Vehicle Production (incl. Paykan/Iran Khodro Milestones)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A higher tax on passenger cars could dampen domestic demand and, by extension, marginally affect national vehicle production.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "259:0",
+  "law_year": "1968",
+  "law_title_en": "Act on the Duties of the Ministry of Agriculture",
+  "law_title_fa": "قانون وظايف وزارت كشاورزي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "This 1968 law defines the Ministry of Agriculture's duties, establishing the institutional apparatus through which Iran's land, irrigation, and crop-support policy has operated for decades, an important but diffuse structural input across agricultural indicators.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "260:0",
+  "law_year": "1979",
+  "law_title_en": "Legislative Bill Authorizing the Sale and Establishment of Agricultural and Livestock Facilities and Equipment",
+  "law_title_fa": "لايحه قانوني اجازه فروش و اجازه تأسيسات و تجهيزات كشاورزي و دامپروري",
+  "targets_named_charts": [
+   "Agriculture, forestry, and fishing, value added (annual % growth)",
+   "Livestock production index (2014-2016 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1979 decree authorized the Ministry of Agriculture to sell or lease state-held agricultural and livestock production facilities and equipment to private buyers, part of the immediate post-revolutionary reorganization of state agricultural assets.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "261:0",
+  "law_year": "2003",
+  "law_title_en": "Executive Bylaw of Clause (Kh) of Note 19 of the National Budget Act for 1382 (2003)",
+  "law_title_fa": "آيين نامه اجرايي بند  خ  تبصره  19  قانون بودجه سال 1382 كل كشور",
+  "targets_named_charts": [
+   "Wheat and products, Imports and Exports",
+   "GIEWS Cereal Import Requirement Forecasts by Grain Type (2010/11-2026/27)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2003 implementing bylaw for a clause of the FY1382 budget law set procedures for importing wheat for milling and re-exporting flour, a narrow trade-facilitation scheme layered onto Iran's wheat-import and milling industry.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "262:0",
+  "law_year": "2001",
+  "law_title_en": "Act on the Trade Agreement between the Government of the Islamic Republic of Iran and the Government of the Republic of Tunisia",
+  "law_title_fa": "قانون موافقتنامه بازرگاني بين دولت جمهوري اسلامي ايران و دولت جمهوري تونس",
+  "targets_named_charts": [
+   "Merchandise exports",
+   "Merchandise imports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2001 bilateral trade agreement with Tunisia set preferential terms for trade between the two countries, one of many bilateral instruments contributing marginally to Iran's overall merchandise trade.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "263:0",
+  "law_year": "1986",
+  "law_title_en": "Act on the Exemption of Water and Electricity Industry Goods and Equipment from Customs Duties, Tariffs, and Commercial Profit Tax",
+  "law_title_fa": "قانون معافيت كالاها و تجهيزات صنعت آب و برق از پرداخت حقوق و عوارض گمركي و سود بازرگاني",
+  "targets_named_charts": [
+   "Investment in energy with private participation",
+   "Public private partnerships investment in energy",
+   "Electric power consumption (kWh per capita)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1986 law exempted imported equipment for the water and power industry from customs duties and commercial-profit charges, directly lowering the cost of capital equipment for electricity and water infrastructure during the war-economy period.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "264:0",
+  "law_year": "1930",
+  "law_title_en": "National Budget Law for the Year 1309 (1930/31)",
+  "law_title_fa": "قانون بودجه سال 1309 كل مملكتي",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita",
+   "Expense",
+   "Revenue, excluding grants",
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "Iran's FY1309 (1930/31) budget law is among the earliest modern annual state budgets, formalizing government revenue and expenditure planning under Reza Shah's centralizing reforms; any serious account of the origins of Iran's headline government-finance and output series must reckon with this founding instrument.",
+  "old_correlation": 4,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "265:0",
+  "law_year": "1963",
+  "law_title_en": "Forest Nationalization Act",
+  "law_title_fa": "لايحه قانوني ملي كردن جنگلها",
+  "targets_named_charts": [
+   "Forest area",
+   "Forest rents (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1963 decree nationalized Iran's forests, removing them from private ownership and exploitation and placing them under state control as part of the White Revolution's natural-resource reforms; it is the direct legal act governing the country's forest area and forest-rents series.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "265:1",
+  "law_year": "1963",
+  "law_title_en": "Forest Nationalization Act",
+  "law_title_fa": "لايحه قانوني ملي كردن جنگلها",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "Agriculture, forestry, and fishing, value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As one of the core measures of the White Revolution's natural-resource and land reforms, forest nationalization forms part of the broad early-1960s restructuring of rural property rights that reshaped Iran's agricultural sector and growth path.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "266:0",
+  "law_year": "1973",
+  "law_title_en": "Proposed Regulations Determining the Status of Abandoned Farm Plots, Unproductive Estates and Fallow Lands Acquired by the State under the Land Reform Laws",
+  "law_title_fa": "پيشنهاد مقررات مربوط به تعيين تكليف نسقه ... رات اصلاحات ارضي به تملك دولت درآمده است",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "Agriculture, forestry, and fishing, value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1973 regulation settled the status of tenant farming plots (\"nasaq\") that had passed into state ownership under the land-reform program, finalizing a key piece of the Pahlavi state's central rural-modernization drive; any serious account of Iran's growth path and agricultural sector through the 1970s must reckon with the land-reform program this measure completes.",
+  "old_correlation": 5,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "266:1",
+  "law_year": "1973",
+  "law_title_en": "Proposed Regulations Determining the Status of Abandoned Farm Plots, Unproductive Estates and Fallow Lands Acquired by the State under the Land Reform Laws",
+  "law_title_fa": "پيشنهاد مقررات مربوط به تعيين تكليف نسقه ... رات اصلاحات ارضي به تملك دولت درآمده است",
+  "targets_named_charts": [
+   "Agricultural land",
+   "Wheat, Production"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "By finalizing ownership of former tenant plots, the regulation directly affected the allocation and cultivation of agricultural land, including staple grain production such as wheat.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "267:0",
+  "law_year": "1969",
+  "law_title_en": "Act of the Agreement between Iran and the Federal Republic of Germany for the Avoidance of Double Taxation on Income and Wealth",
+  "law_title_fa": "قانون قرارداد بين ايران و جمهوري فدرال آلمان بمنظور اجتناب از اخذ ماليات مضاعف از درآمد و ثروت",
+  "targets_named_charts": [
+   "Taxes on income, profits and capital gains",
+   "Tax revenue"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1969 treaty with West Germany prevented double taxation of cross-border income and wealth, a narrow instrument affecting tax treatment of trade and investment income between the two countries.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "268:0",
+  "law_year": "2005",
+  "law_title_en": "Act Determining the Ceiling for the Issuance of Participation Bonds by the Central Bank of the Islamic Republic of Iran",
+  "law_title_fa": "قانون تعيين سقف انتشار اوراق مشاركت توسط بانك مركزي جمهوري اسلامي ايران",
+  "targets_named_charts": [
+   "Broad money",
+   "Money Supply and Monetary Base"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2005 law set a ceiling on the volume of participation bonds the Central Bank of Iran could issue, a direct monetary-policy instrument constraining one channel of liquidity management.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "269:0",
+  "law_year": "1968",
+  "law_title_en": "Legislative Bill Amending Certain Articles of the Act on the Establishment of Agricultural Joint-Stock Companies",
+  "law_title_fa": "لايحه قانوني اصلاح موادي از قانون تشكيل شركتهاي سهامي زراعي",
+  "targets_named_charts": [
+   "Agriculture, forestry, and fishing, value added (annual % growth)",
+   "Agricultural land"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1968 amendment revised the corporate structure of joint-stock agricultural companies (\"sherkat-ha-ye sahami-ye zera'i\"), a vehicle used in the second stage of the Shah's land-reform program to organize former smallholders into collective farming units.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "270:0",
+  "law_year": "1988",
+  "law_title_en": "Act Amending the Rangeland Development Fund Act of 1349 (1970)",
+  "law_title_fa": "قانون اصلاح قانون صندوق عمران مراتع مصوب 1349",
+  "targets_named_charts": [
+   "Livestock production index (2014-2016 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1988 amendment revised the Rangeland Development Fund, a support instrument for pastoral and livestock activity on Iran's rangelands.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "271:0",
+  "law_year": "2004",
+  "law_title_en": "Act on the Agreement on Economic Cooperation and ... between the Government of the Islamic Republic of Iran and the Government of the Republic of Kazakhstan",
+  "law_title_fa": "قانون موافقتنامه همكاري هاي اقتصادي و با ... هوري اسلامي ايران و دولت جمهوري قزاقستان",
+  "targets_named_charts": [
+   "Merchandise exports",
+   "Merchandise imports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2004 economic and trade cooperation agreement with Kazakhstan set a framework for bilateral trade, one of many such agreements contributing marginally to Iran's overall merchandise trade.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "272:0",
+  "law_year": "1979",
+  "law_title_en": "Legal Bill Authorizing the Sale and Lease of Agricultural and Livestock Facilities and Equipment",
+  "law_title_fa": "لايحه قانوني اجازه فروش و اجاره تأسيسات و تجهيزات كشاورزي و دامپروري",
+  "targets_named_charts": [
+   "Agriculture, forestry, and fishing, value added (annual % growth)",
+   "Livestock production index (2014-2016 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1979 decree, a companion text to the near-identical sale/lease authorization of the same date, allowed the Ministry of Agriculture to sell or lease state-held agricultural and livestock production facilities and equipment to private buyers as part of the post-revolutionary reorganization of state agricultural assets.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "273:0",
+  "law_year": "2004",
+  "law_title_en": "Act on the Agreement on Cooperation and Mutual Assistance ... between the Government of the Islamic Republic of Iran and the Government of the Republic of Turkey",
+  "law_title_fa": "قانون موافقتنامه همكاري و كمكهاي متقابل  ... مهوري  اسلامي ايران و دولت جمهوري  تركيه",
+  "targets_named_charts": [
+   "Merchandise exports",
+   "Merchandise imports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2004 mutual cooperation and assistance agreement with Turkey covered trade matters between the two neighboring countries, contributing marginally alongside other instruments to Iran's overall merchandise trade.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "274:0",
+  "law_year": "2015",
+  "law_title_en": "Executive Bylaw for Added Note 3 to Article ... of the Act on Removing Obstacles to Competitive Production and Improving the Country's Financial System",
+  "law_title_fa": "آيين نامه اجرايي تبصره  3  الحاقي ماده   ... توليد رقابت پذير و ارتقاي نظام مالي كشور",
+  "targets_named_charts": [
+   "Industry (including construction), value added (annual % growth)",
+   "Manufacturing, value added (annual % growth)",
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2015 implementing bylaw operationalized a clause of the Law for the Removal of Obstacles to Competitive Production and Improvement of the Country's Financial System, a real industrial-finance instrument aimed at easing credit access for manufacturers during the post-sanctions-relief period.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "275:0",
+  "law_year": "2001",
+  "law_title_en": "Executive Bylaw on the Issuance of 500 Billion Rials in Participation Bonds under Note (40) of the National Budget Act for the Year 1380 (2001-2002)",
+  "law_title_fa": "آيين نامه اجرايي انتشار پانصد ميليارد ر ...  تبصره  40  قانون بودجه سال 1380 كل كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals",
+   "Government Debt to the Central Bank"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2001 bylaw authorized issuance of 500 billion rials in government bonds under a clause of the FY1380 budget law, a direct government-financing instrument used to fund that year's budget.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "276:0",
+  "law_year": "2015",
+  "law_title_en": "Executive Bylaw of Article 18 of the Act on Removing Obstacles to Competitive Production and Improving the Country's Financial System",
+  "law_title_fa": "آيين نامه اجرايي ماده  18  قانون رفع موانع توليد رقابت پذير و ارتقاي نظام مالي كشور",
+  "targets_named_charts": [
+   "Industry (including construction), value added (annual % growth)",
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2015 implementing bylaw for Article 18 of the production-competitiveness and financial-system law established a credit and finance mechanism aimed at supporting industrial firms, part of the same legislative package as its companion bylaws.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "277:0",
+  "law_year": "2016",
+  "law_title_en": "Executive Bylaw of Article (46) of the Act on Removing Obstacles to Competitive Production and Improving the Country's Financial System, approved 1394 (2015-2016)",
+  "law_title_fa": "آيين نامه اجرايي ماده  46  قانون رفع موا ... ير و ارتقاي نظام مالي كشور   مصوب 1394 -",
+  "targets_named_charts": [
+   "Industry (including construction), value added (annual % growth)",
+   "New businesses registered"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2016 implementing bylaw for Article 46 of the production-competitiveness law established an industrial-support mechanism, part of the same 2015 legislative package addressing obstacles to competitive production.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "278:0",
+  "law_year": "2011",
+  "law_title_en": "Amendment to Decision No. 44520/T28610, Concerning the Executive Bylaw of Article 7 of the Targeted Subsidies Act",
+  "law_title_fa": "اصلاح تصميم نامه شماره 44520/28610 مورخ 1389/2/11 در خصوص آيين نامه اجرايي ماده (7) قانون هدفمند كردن يارانه ها",
+  "targets_named_charts": [
+   "Inflation, consumer prices (annual %)",
+   "Consumer price index (2010 = 100)",
+   "Subsidies and other transfers"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2011 amendment revised the implementing decision for Article 7 of the Targeted Subsidies Reform Law, directly governing how cash transfers replacing energy and bread price subsidies were calculated and paid to households; the subsidy reform it belongs to is the direct, documented driver of the sharp CPI jump and the surge in government transfer spending of 2010-2011.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "278:1",
+  "law_year": "2011",
+  "law_title_en": "Amendment to Decision No. 44520/T28610, Concerning the Executive Bylaw of Article 7 of the Targeted Subsidies Act",
+  "law_title_fa": "اصلاح تصميم نامه شماره 44520/28610 مورخ 1389/2/11 در خصوص آيين نامه اجرايي ماده (7) قانون هدفمند كردن يارانه ها",
+  "targets_named_charts": [
+   "Household Expenditure, Poverty and Inequality"
+  ],
+  "targets_categories": [
+   "Social Protection"
+  ],
+  "current_justification_en": "The cash-transfer mechanism this amendment governs is Iran's largest cash social-transfer program, directly shaping household income, consumption, and measured poverty and inequality.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "279:0",
+  "law_year": "2025",
+  "law_title_en": "Bylaw on the Establishment of Real Estate Investment Funds",
+  "law_title_fa": "آيين نامه ايجاد صندوق هاي سرمايه گذاري املاك و مستغلات",
+  "targets_named_charts": [
+   "Market capitalization of listed domestic companies",
+   "Market capitalization of listed domestic companies (% of GDP)",
+   "Stocks traded, total value"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2025 bylaw established real-estate investment funds, a REIT-like capital-markets vehicle intended to channel investment into housing and property through listed financial instruments rather than direct ownership.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "281:0",
+  "law_year": "1967",
+  "law_title_en": "Housing Savings Encouragement Act",
+  "law_title_fa": "قانون تشويق پس انداز مسكن",
+  "targets_named_charts": [
+   "Private-Sector Bank Deposits by Type (Sight/Saving/Time), FY1963/64-1969/70"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The 1967 Law on Encouraging Housing Savings created a subsidized savings-deposit scheme (preferential interest and mortgage priority) specifically to channel household savings into bank deposits ahead of home purchase, directly targeting private-sector savings and time-deposit behavior in the pre-revolution banking system.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "281:1",
+  "law_year": "1967",
+  "law_title_en": "Housing Savings Encouragement Act",
+  "law_title_fa": "قانون تشويق پس انداز مسكن",
+  "targets_named_charts": [
+   "Housing Units by Number of Resident Households, Census Years (1966-2006)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As a housing-finance policy from the same era, the law provides context for the housing-stock trajectory captured in Iran's mid-century census counts of housing units.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "284:0",
+  "law_year": "1971",
+  "law_title_en": "Act Adding a Note to the Act Authorizing the Granting of 600 Million Rials in Credit to the Industrial and Mining Development Bank of Iran",
+  "law_title_fa": "قانون اضافه كردن يك تبصره بقانون اجازه اعطاي مبلغ ششصد ميليون ريال اعتبار ببانك توسعه صنعتي و معدني ايران",
+  "targets_named_charts": [
+   "External debt stocks, public and publicly guaranteed (PPG)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Raised the ceiling (to 15 billion rials) on government guarantees for foreign credit lines to the Industrial and Mining Development Bank of Iran, part of the development-plan-era system of state-guaranteed foreign borrowing for industrial financing.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "285:0",
+  "law_year": "1967",
+  "law_title_en": "Act on the Establishment of the Ministry of Land Reform and Rural Cooperation",
+  "law_title_fa": "قانون  تشكيل  وزارت  اصلاحات  ارضي  و تعاون  روستايي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "Established the Ministry of Land Reform and Rural Cooperation, the executive arm of the White Revolution's land-redistribution and rural-cooperative program, which reshaped Iran's agrarian land-tenure structure, cropland use and cooperative farming institutions from the late 1960s through the 1970s.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "285:1",
+  "law_year": "1967",
+  "law_title_en": "Act on the Establishment of the Ministry of Land Reform and Rural Cooperation",
+  "law_title_fa": "قانون  تشكيل  وزارت  اصلاحات  ارضي  و تعاون  روستايي",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita",
+   "GDP per capita growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The land-reform ministry was the administrative vehicle for the central pillar of the Pahlavi state's modernization program, reshaping Iran's mid-century growth path; any serious account of Iran's GDP trajectory through the 1960s-70s must mention the land reform.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "285:2",
+  "law_year": "1967",
+  "law_title_en": "Act on the Establishment of the Ministry of Land Reform and Rural Cooperation",
+  "law_title_fa": "قانون  تشكيل  وزارت  اصلاحات  ارضي  و تعاون  روستايي",
+  "targets_named_charts": [
+   "Gini index",
+   "Pre-Tax Income Share, Top 10%",
+   "Net Wealth Share, Top 10%"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Land redistribution from large landowners to peasant cultivators was intended to reduce rural land concentration and, through it, income and wealth inequality.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "285:3",
+  "law_year": "1967",
+  "law_title_en": "Act on the Establishment of the Ministry of Land Reform and Rural Cooperation",
+  "law_title_fa": "قانون  تشكيل  وزارت  اصلاحات  ارضي  و تعاون  روستايي",
+  "targets_named_charts": [
+   "Employment in agriculture (% of total employment) (modeled ILO estimate)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Land reform restructured rural labor relations away from tenancy and sharecropping toward smallholder and cooperative farming, altering the trajectory of agriculture's share of employment as industrialization proceeded.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "286:0",
+  "law_year": "1980",
+  "law_title_en": "Bill on the Exemption of Imported Goods Needed by Licensed Industrial Production Units, Used Exclusively in the Production Line, from Customs Duties and Commercial Profit Tax in the Year 1359 (1980)",
+  "law_title_fa": "لايحه قانوني راجع به معافيت كالاهاي وارداتي مورد نياز واحدهاي توليدي صنعتي مجاز كه منحصراً در خط توليد بكار برده ميشود ا",
+  "targets_named_charts": [
+   "Customs and other import duties",
+   "Merchandise imports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1980 Revolutionary Council decree exempted imported inputs used exclusively in domestic industrial production lines from customs duties and the commercial-profit surcharge, an early import-substitution support measure for domestic industry during the war-economy period.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "287:0",
+  "law_year": "1969",
+  "law_title_en": "Act on the Abolition of Gate Tolls (Dorvazeh-i Duties), as Amended",
+  "law_title_fa": "قانون لغو عوارض دروازه‌ای با اصلاحات و الحاقات بعدی",
+  "targets_named_charts": [
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Abolished municipal checkpoint tolls on goods entering or leaving cities and replaced that municipal revenue with a 6% surcharge added to customs duties and commercial profit on all imports, a structural change in how import taxation funded local government.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "288:0",
+  "law_year": "1986",
+  "law_title_en": "Act on the Repayment of Bonds for the Expansion of Ownership of Production Units",
+  "law_title_fa": "قانون بازپرداخت  اوراق  قرضه گسترش مالكيت واحدهاي توليدي",
+  "targets_named_charts": [
+   "Market capitalization of listed domestic companies",
+   "Listed domestic companies, total"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Financed repayment of 1970s 'ownership-expansion' bonds through the sale of state-held production-unit shares under Article 44 of the constitution, directly tying share-sale proceeds to stock-market activity.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "289:0",
+  "law_year": "1979",
+  "law_title_en": "لايحه قانوني مربوط به اجازه اعطاي وام بانك توسعه كشاورزي به شركتهاي دولتي",
+  "law_title_fa": "لايحه قانوني مربوط به اجازه اعطاي وام بانك توسعه كشاورزي به شركتهاي دولتي",
+  "targets_named_charts": [
+   "Domestic credit to private sector by banks (% of GDP)",
+   "Private Credit by Deposit Money Banks to GDP (World Bank GFDD)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Allowed the Agricultural Development Bank of Iran to continue equity-participation loans in 23 companies that had become state-owned following the post-revolution nationalization of private banks, preventing an abrupt halt to agricultural-sector financing during the transition.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "290:0",
+  "law_year": "2002",
+  "law_title_en": "Act Amending the Act on Preventing the Effects of Drought and Compensating for Damages, Approved in 1380 (2001/02)",
+  "law_title_fa": "قانون اصلاح قانون پيشگيري از عوارض ناشي از خشكسالي و جبران خسارات مصوب 1380",
+  "targets_named_charts": [
+   "Crop production index (2014-2016 = 100)",
+   "Cereal yield"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Extended bank-loan repayment terms and provided fresh guaranteed credit for drought-affected farmers in crop, orchard, livestock and aquaculture operations following Iran's severe 1999-2001 drought, aiming to keep affected farms solvent and in production.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "290:1",
+  "law_year": "2002",
+  "law_title_en": "Act Amending the Act on Preventing the Effects of Drought and Compensating for Damages, Approved in 1380 (2001/02)",
+  "law_title_fa": "قانون اصلاح قانون پيشگيري از عوارض ناشي از خشكسالي و جبران خسارات مصوب 1380",
+  "targets_named_charts": [
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Directed the central bank to supply additional credit lines to the Agricultural Bank and other lenders to cover the extended/rescheduled farm loans, a targeted expansion of agricultural-sector bank credit.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "291:0",
+  "law_year": "1989",
+  "law_title_en": "Act Amending the Guaranteed Purchase of Essential Agricultural Products Act of 1989",
+  "law_title_fa": "قانون اصلاح قانون تضمين خريد محصولات اساسي كشاورزي مصوب 1368 6 21",
+  "targets_named_charts": [
+   "Government-Guaranteed Wheat Procurement Price, Common & Durum (2013-2026)",
+   "Wheat, Producer Price"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Amended Iran's guaranteed-purchase-price law for essential agricultural commodities, the legal basis under which the government sets and pays farmers a fixed annual procurement price for wheat and other staple crops, a direct and continuing price-support instrument.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "291:1",
+  "law_year": "1989",
+  "law_title_en": "Act Amending the Guaranteed Purchase of Essential Agricultural Products Act of 1989",
+  "law_title_fa": "قانون اصلاح قانون تضمين خريد محصولات اساسي كشاورزي مصوب 1368 6 21",
+  "targets_named_charts": [
+   "Barley, Producer Price",
+   "Cereals, primary, Producer Price"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The same guaranteed-purchase-price framework also covers barley and other cereal staples, giving the amendment a broader reach across essential cereal prices beyond wheat.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "292:0",
+  "law_year": "2021",
+  "law_title_en": "Executive Bylaw on the Collection of Duties in Free Trade-Industrial Zones of the Islamic Republic of Iran",
+  "law_title_fa": "آيين نامه اجرايي اخذ عوارض در مناطق آزاد تجاري - صنعتي جمهوري اسلامي ايران",
+  "targets_named_charts": [
+   "Merchandise imports",
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Sets the internal fee and duty schedule (traffic, entry/exit, port, airport and goods duties, activity-license fees) charged within Iran's free trade-industrial zones, shaping the cost and revenue base of goods and vehicles moving through these special trade enclaves.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "293:0",
+  "law_year": "2016",
+  "law_title_en": "Executive Bylaw for Amended Article 26 of the Direct Taxation Act, Approved in 1394 (2015/16)",
+  "law_title_fa": "آيين نامه اجرايي ماده  26  اصلاحي قانون ماليات هاي مستقيم - مصوب 1394",
+  "targets_named_charts": [
+   "Taxes on income, profits and capital gains"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Sets the administrative procedure (valuation of estate assets, deductible debts, filing deadlines) for assessing and collecting Iran's inheritance tax under Article 26 of the Direct Taxes Law.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "294:0",
+  "law_year": "2015",
+  "law_title_en": "Executive Bylaw for Amended Note 2 to Article ... of the Act on Removing Obstacles to Competitive Production and Improving the Country's Financial System",
+  "law_title_fa": "آيين نامه اجرايي تبصره  2  اصلاحي ماده   ... توليد رقابت پذير و ارتقاي نظام مالي كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Business & Investment Climate"
+  ],
+  "current_justification_en": "Sets land-pricing rules for transferring plots in state industrial and agricultural towns to tourism-service projects, implementing part of the 2015 Law on Removing Obstacles to Competitive Production and Improving the Financial System, a broader business-climate reform package.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "295:0",
+  "law_year": "2015",
+  "law_title_en": "Amendment to Articles 8 and 9 of the Executive Bylaw on the Manner of Transferring Preferred Shares",
+  "law_title_fa": "اصلاح مواد (8) و (9) «آيين نامه اجرائي توزيع سهام عدالت» و الحاق يك بند به عنوان ماده (6) مكرر به آيين نامه اجرايي نحوه ",
+  "targets_named_charts": [
+   "Listed domestic companies, total",
+   "Market capitalization of listed domestic companies"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Fixes a gap in the Article 44 privatization program's preferred-share allocation rules, letting employees who were eligible but missed the original distribution receive up to 5% of a divested firm's unclaimed preferred shares.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "296:0",
+  "law_year": "1995",
+  "law_title_en": "Executive Bylaw of the Act on the Issuance of Title Deeds for Land Resulting from Land Reform in Villages and Towns Covered by the Law",
+  "law_title_fa": "آيين نامه اجرايي قانون صدور اسناد مالكيت ... ل اصلاحات ارضي در روستاها و شهرهاي مشمول",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "Operationalizes the 1993 law on issuing formal ownership deeds for land-reform-affected parcels in villages and towns, converting land-reform-era possession into registered legal title decades after the original 1960s-70s reform.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "297:0",
+  "law_year": "2006",
+  "law_title_en": "Executive Bylaw for Clause 16 of Note 2 of the National Budget Act for the Year 1385 (2006/07)",
+  "law_title_fa": "آيين نامه اجرايي بند 16  تبصره 2  قانون بودجه سال 1385 كل كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Implemented the 2006 (1385) budget law's earmarked subsidized-interest loan pool for food-processing plants (up to 10 billion rials per firm) under the government's 'quick-return enterprise' job-creation credit scheme.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "298:0",
+  "law_year": "2017",
+  "law_title_en": "Executive Bylaw for Clause (a) of Note 19 of the National Budget Act for the Year 1396 (2017/18)",
+  "law_title_fa": "آيين نامه اجرايي بند  الف  تبصره  19  قانون بودجه سال 1396 كل كشور",
+  "targets_named_charts": [
+   "Gross fixed capital formation (% of GDP)",
+   "Net investment in nonfinancial assets"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Set up a public-private partnership financing mechanism, combining a 25% government capital-budget contribution with preferential bank credit, to complete unfinished state capital (infrastructure) projects under the 2017 (1396) budget law.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "299:0",
+  "law_year": "2009",
+  "law_title_en": "Executive Directive on the Rules for Repayment of Facilities Granted from the Foreign Exchange Reserve Account",
+  "law_title_fa": "دستورالعمل اجرايي ضوابط بازپرداخت تسهيلات اعطايي ازمحل حساب ذخيره ارزي",
+  "targets_named_charts": [
+   "Private Credit by Deposit Money Banks to GDP (World Bank GFDD)",
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Restructured repayment terms (interest rate, rescheduling, penalty relief) for private-sector loans originally disbursed through commercial banks from Iran's Oil Stabilization/Foreign-Exchange Reserve Account during the Third and Fourth Development Plans, easing financing conditions for textile, cement and other industrial borrowers.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "300:0",
+  "law_year": "2009",
+  "law_title_en": "Disciplinary Directive for Issuers Listed on the Tehran Stock Exchange",
+  "law_title_fa": "دستورالعمل انضباطي ناشران پذيرفته شده در بورس اوراق بهادار تهران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Capital Markets"
+  ],
+  "current_justification_en": "Disciplinary rules for Tehran Stock Exchange-listed issuers strengthen the market-integrity and disclosure norms that underpin listed companies' valuations and trading activity.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "301:0",
+  "law_year": "1949",
+  "law_title_en": "National Budget Act for the Year 1328 (1949/50)",
+  "law_title_fa": "قانون بودجه سال 1328 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "As Iran's national annual budget law for FY1328 (1949/50), this act is the direct legal instrument fixing central government expenditure, revenue, and allocations for the year, the primary channel shaping every measure in the Government Finance domain.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "301:1",
+  "law_year": "1949",
+  "law_title_en": "National Budget Act for the Year 1328 (1949/50)",
+  "law_title_fa": "قانون بودجه سال 1328 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "GDP per capita",
+   "General government final consumption expenditure (% of GDP)",
+   "General government final consumption expenditure (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As Iran's annual state budget law, this FY1328 act set central government spending and revenue for the year, a foundational fiscal input to national output and to government consumption's share of GDP; any serious account of GDP in this period should note the budget regime.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "302:0",
+  "law_year": "1979",
+  "law_title_en": "Legal Bill on the Ownership and Utilization of Lands in the Dez Dam Catchment Area and the Annulment of Agro-Industrial Cultivation Contracts",
+  "law_title_fa": "لايحه قانوني مالكيت و بهره برداري از ارا ... آبخورسد دز و الغاء قراردادهاي كشت و صنعت",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "This 1979 revolutionary decree nationalized land and abolished existing agribusiness contracts across the Dez dam irrigation command area in Khuzestan, restructuring ownership and cultivation of a significant irrigated cash-crop zone.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "303:0",
+  "law_year": "1958",
+  "law_title_en": "Act on the Construction and Operation of the Lar and Latian Dams and Facilities",
+  "law_title_fa": "قانون راجع به ساختمان و بهره برداري سد و تأسيسات لار و لتيان",
+  "targets_named_charts": [
+   "Electricity production from hydroelectric sources (% of total)"
+  ],
+  "targets_categories": [
+   "Infrastructure (Energy)"
+  ],
+  "current_justification_en": "This 1958 law authorized the construction and operation of the Lar and Latian dams, key hydroelectric and water-supply infrastructure for the Tehran region, contributing to Iran's hydroelectric generation capacity.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "304:0",
+  "law_year": "1965",
+  "law_title_en": "Act on the Persian Gulf Oil Company (Pegupco) Contract",
+  "law_title_fa": "قانون قرارداد شركت نفت خليج فارس",
+  "targets_named_charts": [
+   "Oil Production (physical volume)",
+   "Oil rents (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1965 law ratified a joint-venture contract between NIOC and the Pan American (Persian Gulf) oil company for exploration and production in a new area, part of the wave of non-consortium contracts that expanded Iran's oil output and rents in the 1960s.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "304:1",
+  "law_year": "1965",
+  "law_title_en": "Act on the Persian Gulf Oil Company (Pegupco) Contract",
+  "law_title_fa": "قانون قرارداد شركت نفت خليج فارس",
+  "targets_named_charts": [
+   "GDP",
+   "GDP per capita"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Oil-sector contracts like this one were part of the expansion of Iran's petroleum production and export base that drove the bulk of GDP growth during the Pahlavi-era oil boom of the 1960s-70s, and any serious account of GDP in this period should mention the oil-contract regime.",
+  "old_correlation": 4,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "305:0",
+  "law_year": "1971",
+  "law_title_en": "Central Insurance of Iran and Insurance Operations Act",
+  "law_title_fa": "قانون تأسيس بيمه مركزي ايران و بيمه گري",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Financial Sector / Insurance"
+  ],
+  "current_justification_en": "This 1971 law established Central Insurance of Iran (Bimeh Markazi) as regulator and reinsurer, creating the institutional and regulatory foundation for Iran's entire modern insurance industry, its premium, claims, and ownership structure.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "306:0",
+  "law_year": "1969",
+  "law_title_en": "Act on the Establishment of the Agricultural Cooperative Bank of Iran",
+  "law_title_fa": "قانون تشكيل بانك تعاون كشاورزي ايران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "This 1969 law formed the Agricultural Cooperative Bank of Iran, a dedicated credit institution channeling loans to farmers and rural cooperatives, a real named credit channel into the agricultural sector.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "307:0",
+  "law_year": "1966",
+  "law_title_en": "Supplementary Budget Act for the Year 1345 (1966/67)",
+  "law_title_fa": "قانون متمم بودجه سال 1345 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This 1966 supplementary budget law added mid-year appropriations to the FY1345 state budget, directly increasing that year's government-expenditure and revenue figures, the same category of instrument shown in this database's budget and supplementary-budget charts.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "308:0",
+  "law_year": "2009",
+  "law_title_en": "Bylaw on the Manner of Supplying Electricity and Fuel to Industries",
+  "law_title_fa": "آيين نامه نحوه تأمين برق و سوخت صنايع",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Energy",
+   "Industry / Value Added by Sector"
+  ],
+  "current_justification_en": "This 2009 bylaw set the arrangements for supplying electricity and fuel to industrial plants, a real operational channel affecting industrial output and the reliability of the energy access that underpins the manufacturing sector.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "309:0",
+  "law_year": "2019",
+  "law_title_en": "Bylaw on the Credit Rating System",
+  "law_title_fa": "آيين نامه نظام سنجش اعتبار",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Financial Sector (Private Credit)",
+   "Financial Sector (Banking Access)"
+  ],
+  "current_justification_en": "This 2019 bylaw established Iran's national credit-scoring system, a real channel shaping banks' willingness to extend credit and households' access to formal financial accounts.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "310:0",
+  "law_year": "2008",
+  "law_title_en": "Directive on the Process of Identifying and Finalizing the Confirmation of Beneficiaries of the Justice Shares Transfer Plan for Journalists",
+  "law_title_fa": "دستورالعمل فرآيند شناسايي و تاييد نهايي مشمولان طرح واگذاري سهام عدالت به روزنامه نگاران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Inequality & Wealth"
+  ],
+  "current_justification_en": "This bylaw implements a narrow slice of Iran's Justice Shares (privatization) program, verifying journalists' eligibility for allocated state-enterprise shares, part of a wider policy intended to broaden public ownership of formerly state-owned assets.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "311:0",
+  "law_year": "2009",
+  "law_title_en": "Policy and Supervisory Regulations for the Banking Network for the Year 1388 (2009)",
+  "law_title_fa": "ضوابط سياستي- نظارتي شبكه بانكي كشور درسال 1388",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Financial Sector (Monetary)",
+   "Financial Sector (Interest Rates)"
+  ],
+  "current_justification_en": "These annual policy and supervisory directives for Iran's banking network set lending priorities, reserve requirements, and interest-rate guidance for 2009, a real channel into monetary aggregates and credit conditions that year.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "312:0",
+  "law_year": "2011",
+  "law_title_en": "Financial, Transactional, Administrative, and Employment Bylaw of the National Development Fund",
+  "law_title_fa": "آيين نامه مالي، معاملاتي، اداري و استخدامي صندوق توسعه ملي",
+  "targets_named_charts": [
+   "Net acquisition of financial assets (% of GDP)"
+  ],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This 2011 bylaw governs the financial, procurement, and administrative operations of Iran's National Development Fund, the sovereign wealth vehicle channeling a share of oil revenue into savings and development investment, a real channel into government net financial-asset accumulation.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "313:0",
+  "law_year": "1988",
+  "law_title_en": "Executive Bylaw of the Export and Import Regulations Act (1988)",
+  "law_title_fa": "آيين نامه اجرايي قانون مقررات صادرات و و ... جرايي قانون مقررات صادرات و واردات 1369",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Exports)",
+   "Trade (Imports)",
+   "Macro / Expenditure & Trade Aggregates"
+  ],
+  "current_justification_en": "This 1988 implementing bylaw operationalized Iran's Export and Import Regulations Act, setting the licensing, permitted/prohibited goods lists, and procedural rules that governed the entire foreign-trade regime through the late Iran-Iraq War and postwar reconstruction period.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "314:0",
+  "law_year": "",
+  "law_title_en": "Directive on Import Duties for Foreign Mobile Phones, Replacing Circular No. 1901562/1403 of 2024/03/18",
+  "law_title_fa": "دستورالعمل حقوق ورودي گوشي‌ تلفن همراه خارجي جايگزين بخشنامه شماره1901562‏/1403 مورخ 28‏/12‏/1402",
+  "targets_named_charts": [
+   "Tariff rate, applied, simple mean, all products",
+   "Mobile cellular subscriptions",
+   "Mobile cellular subscriptions (per 100 people)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This directive sets the customs duty rate on imported mobile phones, a real, named channel into Iran's average tariff level and into the price and availability of handsets that drive mobile-subscription growth.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "315:0",
+  "law_year": "2017",
+  "law_title_en": "Executive Bylaw of the Act to Prevent the Fragmentation of Agricultural Land and Create Technically and Economically Suitable Parcels",
+  "law_title_fa": "آيين نامه اجرايي قانون جلوگيري از خردشدن اراضي كشاورزي و ايجاد قطعات مناسب فني، اقتصادي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "This 2017 bylaw implements the law preventing fragmentation of agricultural land into uneconomic parcels, a real regulatory channel shaping farm size, land consolidation, and by extension arable-land productivity.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "316:0",
+  "law_year": "2007",
+  "law_title_en": "Bylaw on the Imam Reza Employment, Marriage and Housing (Mehr) Fund",
+  "law_title_fa": "آيين نامه صندوق اشتغال، ازدواج و مسكن مهر امام رضا  ع",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Housing",
+   "Social Protection"
+  ],
+  "current_justification_en": "This 2007 bylaw established the Imam Reza Employment, Marriage and Housing (Mehr) Fund, a state welfare vehicle providing subsidized loans for young people's housing and marriage costs, a real channel into housing-unit formation and social-protection program coverage.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "317:0",
+  "law_year": "2016",
+  "law_title_en": "Executive Bylaw of Article 61 of the Energy Consumption Pattern Reform Act",
+  "law_title_fa": "آيين نامه اجرايي ماده  61  قانون اصلاح الگوي مصرف انرژي",
+  "targets_named_charts": [
+   "Energy intensity level of primary energy (MJ/$2021 PPP GDP)",
+   "Energy use (kg of oil equivalent per capita)",
+   "Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",
+   "GDP per unit of energy use (PPP $ per kg of oil equivalent)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2016 bylaw implements Article 61 of Iran's Energy Consumption Pattern Reform Law, the country's principal legal instrument targeting energy intensity and efficiency, directly aimed at reducing energy use per unit of GDP and per capita.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "318:0",
+  "law_year": "2003",
+  "law_title_en": "Bylaw on Granting Special Export Credits for Afghanistan",
+  "law_title_fa": "آيين نامه  اعطاي  اعتبارات  صادراتي  ويژه  افغانستان",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Exports)"
+  ],
+  "current_justification_en": "This 2003 bylaw created a special export-credit facility to finance Iranian exports to Afghanistan, a narrow, named channel supporting one bilateral trade corridor within Iran's overall export totals.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "319:0",
+  "law_year": "2006",
+  "law_title_en": "Addition of Article 6 to the Executive Bylaw on the Method of ... Discounts and the Manner of Price Payment by Buyers",
+  "law_title_fa": "الحاق ماده  6  به آيين نامه اجرايي شيوه  ... فيفها و چگونگي پرداخت قيمت توسط خريداران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Capital Markets"
+  ],
+  "current_justification_en": "This 2006 amendment adds Article 6 to the bylaw governing how shares of companies transferred under Iran's Justice Shares privatization program are priced and paid for by beneficiaries, a narrow technical valuation rule within the broader privatization programme.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "321:0",
+  "law_year": "1981",
+  "law_title_en": "Budget Bill for 1981-82 (1360)",
+  "law_title_fa": "لايحه بودجه سال 1360",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This is the enacted national budget bill for FY1360 (1981/82), the primary annual legal instrument fixing the government's total revenue and expenditure ceilings for that fiscal year, directly determining every government-finance series it governs.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "321:1",
+  "law_year": "1981",
+  "law_title_en": "Budget Bill for 1981-82 (1360)",
+  "law_title_fa": "لايحه بودجه سال 1360",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita",
+   "General government final consumption expenditure (% of GDP)",
+   "General government final consumption expenditure (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the state's central fiscal instrument during the first full year of the Iran-Iraq war, this budget shaped the scale of government consumption and the wartime growth path that any serious account of Iran's GDP in this period must reference.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "321:2",
+  "law_year": "1981",
+  "law_title_en": "Budget Bill for 1981-82 (1360)",
+  "law_title_fa": "لايحه بودجه سال 1360",
+  "targets_named_charts": [
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Wartime budget deficits financed partly through central-bank credit were a recognized channel of monetary expansion and inflationary pressure during the early 1980s.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "322:0",
+  "law_year": "1995",
+  "law_title_en": "National Budget Act for 1374",
+  "law_title_fa": "قانون بودجه سال 1374 كل كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The enacted national budget law for FY1374 (1995/96), directly fixing that year's government revenue and expenditure totals during the Second Five-Year Development Plan and post-war reconstruction period.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "322:1",
+  "law_year": "1995",
+  "law_title_en": "National Budget Act for 1374",
+  "law_title_fa": "قانون بودجه سال 1374 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita",
+   "General government final consumption expenditure (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the primary fiscal instrument of the post-war reconstruction era, this budget law shaped government consumption and the reconstruction-driven growth path that a serious account of GDP in the mid-1990s must reference.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "322:2",
+  "law_year": "1995",
+  "law_title_en": "National Budget Act for 1374",
+  "law_title_fa": "قانون بودجه سال 1374 كل كشور",
+  "targets_named_charts": [
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Budget deficits and government spending in the mid-1990s reconstruction period are a recognized contributing channel to the high inflation Iran experienced in FY1374-75.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "323:0",
+  "law_year": "1969",
+  "law_title_en": "Act Authorizing Limited Cultivation of Poppy and Export of Opium",
+  "law_title_fa": "قانون اجازه كشت محدود خشخاش و صدور ترياك",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture Production"
+  ],
+  "current_justification_en": "This law authorized limited, licensed poppy cultivation and opium export for medical/industrial purposes, a narrow but real legal channel into Iran's licensed-crop agricultural output and trade.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "324:0",
+  "law_year": "1971",
+  "law_title_en": "Act Authorizing the Conversion and Transfer of Public Endowment (Vaqf) Villages and Farms to Tenant Farmers",
+  "law_title_fa": "قانون اجازه تبديل باحسن و واگذاري دهات و مزارع موقوفه عام بزارعين صاحب نسق",
+  "targets_named_charts": [
+   "Agricultural land",
+   "Arable land (hectares)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This law transferred waqf-owned farm villages to their tenant cultivators, extending the Pahlavi land-reform program to religiously endowed agricultural land and altering land tenure and cultivation patterns.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "324:1",
+  "law_year": "1971",
+  "law_title_en": "Act Authorizing the Conversion and Transfer of Public Endowment (Vaqf) Villages and Farms to Tenant Farmers",
+  "law_title_fa": "قانون اجازه تبديل باحسن و واگذاري دهات و مزارع موقوفه عام بزارعين صاحب نسق",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As a further installment of the Pahlavi state's land-reform program (part of the White Revolution), this law is part of the national modernization drive that reshaped Iran's rural economy and growth path through the 1970s and belongs on any serious account of GDP in this period.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "325:0",
+  "law_year": "1932",
+  "law_title_en": "Act Amending the Tobacco Monopoly Act",
+  "law_title_fa": "قانون اصلاح قانون انحصار دخانيات",
+  "targets_named_charts": [
+   "Tobacco Monopoly: Regie Concession, Dokhaniyat Conversion & Workforce (1890-1995)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1932 law directly amends the state tobacco monopoly (Regie/Dokhaniyat) statute that this chart tracks across its entire span, making it a direct legal input to the monopoly's structure and workforce over this period.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "325:1",
+  "law_year": "1932",
+  "law_title_en": "Act Amending the Tobacco Monopoly Act",
+  "law_title_fa": "قانون اصلاح قانون انحصار دخانيات",
+  "targets_named_charts": [
+   "Tax revenue"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "State tobacco monopoly revenue historically functioned as a quasi-fiscal revenue source for the Iranian treasury, giving this monopoly statute an indirect link to aggregate tax/state revenue.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "326:0",
+  "law_year": "2006",
+  "law_title_en": "Supplementary Act to the National Budget Act for the Year 1384",
+  "law_title_fa": "قانون متمم قانون بودجه سال 1384كل كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals",
+   "Total Country Budget: Resources & Uses Breakdown (SH1385-1400)"
+  ],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This law amends and supplements the FY1384 (2006/07) national budget, directly adjusting that year's government revenue and expenditure totals mid-year.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "327:0",
+  "law_year": "1966",
+  "law_title_en": "Act on the Establishment of the Export Development Center of Iran",
+  "law_title_fa": "قانون تشكيل مركز توسعه صادرات ايران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Exports)"
+  ],
+  "current_justification_en": "This law established Iran's Export Development Center, the state institution tasked with promoting and supporting non-oil merchandise exports, a real named channel into the country's export performance.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "328:0",
+  "law_year": "1933",
+  "law_title_en": "Supplementary National Budget Act for the Year 1312 (1933/34)",
+  "law_title_fa": "قانون متمم بودجه سال 312  1312 مملكتي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This law supplements the national budget for FY1312 (1933/34), directly adjusting that year's government revenue and expenditure totals during the early Reza Shah state-building period.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "329:0",
+  "law_year": "1934",
+  "law_title_en": "National Budget Act for the Year One Thousand Three Hundred and Thirteen (1313 / 1934/35)",
+  "law_title_fa": "قانون بودجه كل سال هزار و سيصد و سيزده مملكتي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The enacted national budget law for FY1313 (1934/35), the primary annual instrument fixing government revenue and expenditure during Reza Shah's early industrialization and state-building program.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ }
+]

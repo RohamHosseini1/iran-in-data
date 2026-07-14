@@ -57,10 +57,10 @@ export interface ChartEventDetail {
   /**
    * TWO scores, deliberately separate. Collapsing them into one "confidence" is what
    * scored the White Revolution 1/5 against Iran's GDP: its causal channel is diffuse
-   * (low attribution) but it is central to the story (high relevance).
+   * (low expectedCausation) but it is central to the story (high correlation).
    */
-  relevance: number;
-  attribution: number;
+  correlation: number;
+  expectedCausation: number;
   direction: string;
   relationship: string;
   lag: string;
@@ -99,9 +99,9 @@ export interface ChartLawDetail {
   summaryEn: string;
   summaryFa: string;
   /** Should a reader of this chart see this law at all? (drives display order) */
-  relevance: number;
+  correlation: number;
   /** Can we actually say it moved this line? (drives the causal claim) */
-  attribution: number;
+  expectedCausation: number;
   relationship: string;
   direction: string;
   lag: string;

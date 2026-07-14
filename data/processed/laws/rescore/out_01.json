@@ -1,0 +1,602 @@
+[
+ {
+  "ref": "0:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single 200-billion-rial bond tranche is negligible against the aggregate stock of government liabilities and net borrowing."
+ },
+ {
+  "ref": "1:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "These are execution rules for disbursing an already-set budget, not an instrument that changes the budget totals themselves."
+ },
+ {
+  "ref": "2:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Extends credit to a subset of industrial firms, a real but partial channel among many credit and industrial-policy instruments of the period."
+ },
+ {
+  "ref": "3:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Governs how ownership of industrial estates is transferred, a real but administrative channel shaping where industrial activity locates rather than its overall level."
+ },
+ {
+  "ref": "4:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A professional licensing regime for mining engineers is regulatory scaffolding with no expected effect on mine output or mineral rents."
+ },
+ {
+  "ref": "5:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Reorganizes ownership of a single dairy company, too narrow to move sector-wide agricultural value added or employment."
+ },
+ {
+  "ref": "6:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A drought-compensation mechanism cushions farmers against shocks, a real but partial force alongside weather and other farm-support programs."
+ },
+ {
+  "ref": "7:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A procedural directive on how to apply existing incentives, not itself a new spending instrument, so no material expected effect."
+ },
+ {
+  "ref": "8:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Creates a small, ongoing exit-fee revenue stream that is literally one of many minor levies making up the other-taxes bucket, but too small individually to move it."
+ },
+ {
+  "ref": "8:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Raising the cost of leaving the country only marginally discourages outbound travel spending."
+ },
+ {
+  "ref": "9:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Funds the chambers of commerce as institutions, an indirect support structure with no direct lever on business registration counts."
+ },
+ {
+  "ref": "10:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Organizes export clusters, a real but small coordination program relative to aggregate non-oil exports."
+ },
+ {
+  "ref": "11:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A procedural bylaw on budget accounting mechanics, administrative rather than a driver of any government-finance aggregate."
+ },
+ {
+  "ref": "12:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The direct implementing mechanism for Article 44 privatization onto the exchange, expected to visibly expand listed companies, market capitalization and traded value."
+ },
+ {
+  "ref": "12:1",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Article 44 privatization reshaped ownership of a large share of industry, a real macro force but one among several shaping GDP and industrial value added in this period."
+ },
+ {
+  "ref": "13:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A specific mechanism for moving preferred state shares to retail investors, a real but partial channel among several privatization routes onto the exchange."
+ },
+ {
+  "ref": "14:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "An early privatization channel placing state shares into private hands and onto the exchange, one force among several feeding listings and market cap."
+ },
+ {
+  "ref": "14:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A share grant to veterans and workers is a diffuse household-wealth transfer with no expected visible effect on aggregate labor-market measures."
+ },
+ {
+  "ref": "15:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Nationwide consolidation of farmland into cooperatives and farm corporations directly restructured production units, a major instrument with an expected visible effect on crop output, yields and agricultural land measures."
+ },
+ {
+  "ref": "15:1",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "Part of the broader White Revolution land-reform program; against economy-wide GDP and total employment it is one of many forces, not one we would expect to isolate in the line."
+ },
+ {
+  "ref": "16:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "One of several late-1960s foreign concession agreements, a real but partial contributor to oil output and revenue alongside other contracts."
+ },
+ {
+  "ref": "17:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "The first post-nationalization joint-venture template, but still one contract among several shaping oil production and revenue allocation."
+ },
+ {
+  "ref": "18:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Implements the mechanics of an existing share-transfer law, a real but administrative step in a larger privatization channel."
+ },
+ {
+  "ref": "19:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Export credit insurance reduces one risk factor for exporters, a real but partial instrument among many export-support tools."
+ },
+ {
+  "ref": "20:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A direct simplification of the tariff-band structure with a real expected effect on the applied tariff-rate series, though banding changes need not shift average levels much."
+ },
+ {
+  "ref": "21:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Creates rules for a new bond instrument, a narrow addition to market activity too small to move aggregate market capitalization or traded value."
+ },
+ {
+  "ref": "22:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "Sets the core operational trading rules underpinning every exchange transaction, necessary infrastructure but not itself a driver of growth in listings, market cap or turnover."
+ },
+ {
+  "ref": "23:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow 30-billion-rial interest-free credit line is negligible against the aggregate stock of private-sector bank credit."
+ },
+ {
+  "ref": "24:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A duty cut on one narrow product line, prefabricated buildings, within a much broader tariff schedule."
+ },
+ {
+  "ref": "24:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A minor input-cost reduction for one building material, too small to visibly move housing-unit counts."
+ },
+ {
+  "ref": "25:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "A direct legal amendment to that year's national budget law, the exact instrument this chart's totals record."
+ },
+ {
+  "ref": "26:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "A direct legal amendment to that year's national budget law, the exact instrument this chart's totals record."
+ },
+ {
+  "ref": "27:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A routine annual budget law is a small force against the overall economy, even in the context of Reza Shah-era fiscal centralization."
+ },
+ {
+  "ref": "28:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A routine annual budget law is a small force against the overall economy, even in the context of Reza Shah-era fiscal centralization."
+ },
+ {
+  "ref": "29:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A routine supplementary addition to one year's budget within the ordinary annual fiscal cycle."
+ },
+ {
+  "ref": "30:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Sets the post-nationalization governing framework for the insurance sector, a real structural backdrop for subsequent sector statistics though itself administrative rather than market-moving."
+ },
+ {
+  "ref": "31:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Extends existing duty and profit-tax exemptions for a defined set of permit holders, a real but narrow effect on tariff levels and customs revenue."
+ },
+ {
+  "ref": "32:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Creates a dedicated pension scheme for one narrow artisan trade, a real but small addition to the pool of Social Security pensioners."
+ },
+ {
+  "ref": "33:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A product-tracking enforcement tool that should push some trade into formal, taxed channels, a real but partial and hard-to-size effect."
+ },
+ {
+  "ref": "34:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A court ruling on whether petrochemicals are a monopoly good directly shapes pricing and output allocation for this specific sector, a real if partial effect."
+ },
+ {
+  "ref": "35:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "A technical rule for calculating free-float shares changes how existing metrics are computed, not the underlying levels of listings or market capitalization."
+ },
+ {
+  "ref": "36:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "As the annual budget law it directly sets that year's expense-to-GDP figure, though its effect on total GDP itself is smaller and more diffuse."
+ },
+ {
+  "ref": "37:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A routine wartime amendment to one year's budget, procedural within the ordinary fiscal cycle."
+ },
+ {
+  "ref": "38:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "The explicit legal authorization for the government to set import tariffs, the direct mechanism that defines the tariff-rate and customs-duty series for decades."
+ },
+ {
+  "ref": "38:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Tariff-setting authority affects import costs and thus trade volumes only indirectly, one force among many shaping the trade-to-GDP ratio."
+ },
+ {
+  "ref": "39:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Opened a real institutional channel for private power generation, a partial force alongside the dominant state utility in expanding capacity and access."
+ },
+ {
+  "ref": "40:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "One bilateral investment treaty among Iran's many, individually negligible against aggregate FDI inflows."
+ },
+ {
+  "ref": "41:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "An exchange-rate insurance product for exporters is a marginal risk-management tool among many export-support instruments."
+ },
+ {
+  "ref": "42:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Sets that year's executive rules for bank credit extension, a direct annual lever on private-sector credit volume, though one year within a longer rolling series."
+ },
+ {
+  "ref": "43:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow export-incentive payment program, small relative to aggregate export values."
+ },
+ {
+  "ref": "44:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A pricing mechanism used within the privatization drive, a real but narrow channel among several feeding new listings onto the exchange."
+ },
+ {
+  "ref": "44:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Workforce buyouts tied to privatization are a real but diffuse contributor to aggregate unemployment among many other labor-market forces."
+ },
+ {
+  "ref": "45:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "The operational arm of the Article 44 privatization mandate, a real macro force on GDP but one among several restructuring forces of the period."
+ },
+ {
+  "ref": "45:1",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The direct legal mechanism moving state enterprise and bank and insurance shares onto the exchange, expected to visibly expand listings, market capitalization and traded value."
+ },
+ {
+  "ref": "45:2",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Privatized enterprises span several industrial sectors, a real but diffuse bearing on sectoral value-added trends."
+ },
+ {
+  "ref": "46:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Targets currency smuggling directly, a real lever on the gap between official and parallel exchange rates, though one force among many driving that rate."
+ },
+ {
+  "ref": "46:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Anti-smuggling enforcement only marginally shifts how much trade passes through official versus informal channels."
+ },
+ {
+  "ref": "47:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Special economic zone incentives are a real but diffuse program relative to aggregate national exports and FDI."
+ },
+ {
+  "ref": "48:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A direct regulatory lever on bank asset quality that should support private credit extension, a real but partial force among many drivers of bank lending."
+ },
+ {
+  "ref": "49:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The principal legal framework governing essentially all FDI into Iran, a major instrument with a material expected effect on inflow volumes, though geopolitics and sanctions also drive the series."
+ },
+ {
+  "ref": "50:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A named instrument explicitly aimed at curbing fuel consumption through transit expansion and consumption controls, a real but gradual and partial effect."
+ },
+ {
+  "ref": "51:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Mandatory building-efficiency standards are a real but partial force among the several sectors driving national energy intensity."
+ },
+ {
+  "ref": "52:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "One article's implementing bylaw within a broad, diffuse financing-reform package, with no direct lever on industrial output growth."
+ },
+ {
+  "ref": "53:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Governs collection of a defined set of non-oil government fees, a real but narrow revenue stream within total tax and budget revenue."
+ },
+ {
+  "ref": "54:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow customs-administration regime for temporary imports and exports, procedural within the broader trade system."
+ },
+ {
+  "ref": "55:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "One article's implementing bylaw within a broad, diffuse financing-reform package, with no direct lever on industrial output growth or aggregate private credit."
+ },
+ {
+  "ref": "56:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Implements the legal umbrella for Iran's energy-subsidy and pricing reforms, a direct-purpose lever on energy intensity and fuel consumption, though execution-dependent and gradual."
+ },
+ {
+  "ref": "57:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "One article's implementing bylaw within a broad, diffuse financing-reform package, with no direct lever on industrial output growth or aggregate private credit."
+ },
+ {
+  "ref": "58:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A direct revision of duty rates for certain imported items, a real but narrow effect on the broader tariff and import series."
+ },
+ {
+  "ref": "59:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A vehicle-scrappage regime creates real replacement demand, a partial but named channel into new motor vehicle production."
+ },
+ {
+  "ref": "59:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Retiring older vehicles is a secondary, diffuse channel into national fuel consumption."
+ },
+ {
+  "ref": "60:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A dedicated tariff regime for the vehicle sector, a real and sector-defining effect on vehicle-related duty rates and the protection of domestic auto assembly."
+ },
+ {
+  "ref": "61:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "Directly nationalized the insurance and credit institutions, the structural event that reorganized ownership of the entire sector."
+ },
+ {
+  "ref": "61:1",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A headline sectoral nationalization within the broader revolutionary restructuring, a real macro force on GDP and investment but one among several such changes."
+ },
+ {
+  "ref": "62:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "The implementing act of oil nationalization, the foundational event that determined who controlled and received the country's oil output and revenue."
+ },
+ {
+  "ref": "62:1",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "Oil nationalization triggered a boycott-driven collapse and later consortium-era recovery, a structural break in the GDP series of its era."
+ },
+ {
+  "ref": "63:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "The annual budget law directly sets that year's expense and revenue figures, though its effect on total GDP is smaller and more diffuse."
+ },
+ {
+  "ref": "64:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Directly sets that year's budget totals, expense and revenue, the definitional instrument for three of the four target series, diluted only by its smaller effect on GDP."
+ },
+ {
+  "ref": "65:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Channels a specific oil-boom windfall into development spending, a real but partial contributor to gross capital formation and oil-revenue allocation."
+ },
+ {
+  "ref": "65:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Reallocates a specific oil-revenue windfall across the state budget, a real but narrow piece of a much larger government-finance picture."
+ },
+ {
+  "ref": "66:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Expands lending powers of one specific bank, a real but partial channel into aggregate private-sector credit and industrial value added."
+ },
+ {
+  "ref": "67:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "An administrative fix for winding up a subset of failed farm cooperatives, too narrow to move sector-wide agricultural output."
+ },
+ {
+  "ref": "67:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Governs the organizational form of a narrow segment of farming, too small to move aggregate agricultural value added."
+ },
+ {
+  "ref": "68:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow land-tenure legal fix for structures on former crown lands, procedural rather than a driver of agricultural development."
+ },
+ {
+  "ref": "68:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A secondary, narrow bearing on housing tenure through settling ownership of structures on former crown lands."
+ },
+ {
+  "ref": "69:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The foundational law nationalizing forests and rangelands under state management, the direct legal regime these forest-area and depletion series track, with an expected material effect over the following decades."
+ },
+ {
+  "ref": "70:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Iran's major post-revolution land-and-housing statute, empowering the state to acquire and allocate urban land, a major instrument with an expected material effect on housing supply and tenure structure."
+ },
+ {
+  "ref": "70:1",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "A significant housing and land policy, but its effect on aggregate GDP is small and indirect."
+ },
+ {
+  "ref": "71:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A drought-compensation and prevention mechanism cushions farmers against water shocks, a real but partial force among weather and other farm-support programs."
+ },
+ {
+  "ref": "72:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "An early land-privatization and rural-credit instrument reshaping ownership of a defined stock of crown land, a real but bounded effect."
+ },
+ {
+  "ref": "72:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Shifts a bounded stock of state land into private hands, too narrow to visibly move the aggregate agricultural-land series."
+ },
+ {
+  "ref": "73:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Established the unified state electricity authority, the foundational instrument behind decades of generation, transmission and electrification expansion, with an expected material effect on access measures."
+ },
+ {
+  "ref": "73:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "As the unified generation authority it shaped the fuel mix over time, but that mix depends more on resource endowment and investment choices, a partial and indirect effect."
+ },
+ {
+  "ref": "74:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The core statute of the White Revolution land reform, structurally reorganizing farm ownership nationwide, a major instrument with an expected material effect on the agriculture-production domain."
+ },
+ {
+  "ref": "74:1",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Directly targets the ownership structure underlying agricultural value added and productivity, a real effect though its net impact is historically contested and mixed with other forces."
+ },
+ {
+  "ref": "74:2",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "Part of the broader White Revolution modernization program; against economy-wide GDP it is one of many forces, not one we would expect to isolate in the line."
+ },
+ {
+  "ref": "75:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow targeted-credit scheme for livestock-fattening and fishing operations, too small to move national meat or fisheries production."
+ },
+ {
+  "ref": "76:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow footnote-level tweak to tariff-code text, procedural within a much broader tariff regime."
+ },
+ {
+  "ref": "77:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow article-level amendment to an implementing bylaw, procedural within a much broader tariff regime."
+ },
+ {
+  "ref": "78:0",
+  "correlation": 3,
+  "expected_causation": 3,
+  "rationale_en": "A named program funding expansion of these specific small crops, canola, safflower and tea, a real and direct instrument relative to the narrow size of these individual production series."
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "ref": "722:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Resets duty rates for only 40 specific tariff lines, a real but narrow price change with no expected visible effect on aggregate customs revenue or import volumes."
+ },
+ {
+  "ref": "723:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Governs NPL collection procedure for banks, a real credit-quality lever but administrative in nature, so only a partial expected effect on aggregate private-credit measures."
+ },
+ {
+  "ref": "724:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Targeted subsidized housing facilities for low-income households in small towns is a real but modest-scale program relative to the nationwide housing stock it is scored against."
+ },
+ {
+  "ref": "725:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "An enforcement bylaw against smuggling penalties is administrative and would not be expected to move the level of the exchange rate."
+ },
+ {
+  "ref": "725:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Anti-smuggling enforcement bears only indirectly on the accuracy of recorded trade statistics, with no expected effect on measured trade volumes."
+ },
+ {
+  "ref": "726:0",
+  "correlation": 3,
+  "expected_causation": 3,
+  "rationale_en": "A national CNG-station buildout is a real fuel-switching instrument with a genuine but partial expected effect on the gasoline-versus-gas consumption split."
+ },
+ {
+  "ref": "727:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A single fiscal-year subsidized-loan employment facility is a real but marginal instrument against national unemployment and aggregate private credit."
+ },
+ {
+  "ref": "728:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow court ruling on fertilizer pricing methodology has no expected visible effect on aggregate subsidy and transfer spending."
+ },
+ {
+  "ref": "733:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A ruling on a single disputed grain shipment's customs classification has no expected effect on aggregate customs duties or cereal trade."
+ },
+ {
+  "ref": "734:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Voids a valuation rule for used machinery only, too narrow a segment to expect any visible effect on aggregate customs duties."
+ },
+ {
+  "ref": "736:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Establishing the corporate charter of a single state farm company is administrative and negligible against national agricultural output."
+ },
+ {
+  "ref": "737:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "TPS-OIC tariff preferences are a real trade-policy instrument, but the agreement's slow, partial implementation across members limits its expected effect on Iran's exports."
+ },
+ {
+  "ref": "739:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "A single year's annual budget, even a wartime one, is one force among many against the scale of national GDP, matching the rubric's budget-versus-GDP anchor."
+ },
+ {
+  "ref": "739:1",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "The annual budget law is the direct legal instrument that fixes government expenditure, so it structurally defines this series."
+ },
+ {
+  "ref": "739:2",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Deficit financing in the budget fed into monetary expansion, a real but partial and indirect channel to inflation alongside wartime and oil-revenue shocks."
+ },
+ {
+  "ref": "740:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single province's wheat working-group ruling is narrow administrative machinery with no expected effect on the national guaranteed wheat price."
+ },
+ {
+  "ref": "741:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A ruling on allocation procedure for one land-use case is routine administrative machinery, not a driver of the aggregate agricultural land stock."
+ },
+ {
+  "ref": "742:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Annulling one circular on fallow-land seizure is a narrow procedural correction with no expected effect on the recorded agricultural land stock."
+ },
+ {
+  "ref": "743:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A court review of the national housing-supply bylaw touches a real housing-policy instrument, but a single ruling on one clause has only a partial expected effect."
+ },
+ {
+  "ref": "744:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A tariff ruling on the exact regulated service being measured is a real price channel, but subscription counts are dominated by secular mobile substitution, limiting expected effect."
+ },
+ {
+  "ref": "745:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A ruling on one 1984 call-rate increase provision is a narrow historical validation with no expected effect on subscription counts or budget totals."
+ },
+ {
+  "ref": "746:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Clarifies which multi-tier FX rate applies to one import-financing channel, a real but narrow procedural piece of the broader sanctions-era FX system."
+ },
+ {
+  "ref": "747:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "The justification itself is a weak, tangential stretch from a tax-circular ruling to the exchange rate, with no plausible channel."
+ },
+ {
+  "ref": "748:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow withholding-tax ruling on foreign lender interest has no expected direct effect on the exchange rate level."
+ },
+ {
+  "ref": "750:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A targeted insurance-premium exemption for micro-employers is a real but narrow labor-cost instrument, partial against aggregate employment-share and pension-flow series."
+ },
+ {
+  "ref": "751:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "A narrow tax-administration procedural determination that the justification itself says does not alter policy or rates."
+ },
+ {
+  "ref": "752:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Expands the taxable base for FX-asset holders in a specific circumstance, a real but narrow clarification, partial against aggregate income-tax revenue."
+ },
+ {
+  "ref": "753:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "A narrow procedural annulment of one tax circular's retroactive application, with no policy or rate effect."
+ },
+ {
+  "ref": "754:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "Another narrow tax-circular annulment, purely a procedural matter within tax administration."
+ },
+ {
+  "ref": "755:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A tax exemption on one commodity is a real, direct tax-revenue instrument, but too narrow to expect a visible effect on aggregate goods-and-services tax revenue."
+ },
+ {
+  "ref": "755:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A price effect on one commodity is one of many small drivers of food consumption, with no expected visible effect on the sugar consumption series."
+ },
+ {
+  "ref": "756:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Amends one article of the subsidy-targeting bylaw governing cash transfers and procurement pricing, a real but parametric adjustment within the existing subsidy system rather than a fresh structural reform."
+ },
+ {
+  "ref": "756:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single-article amendment to a subsidy bylaw is too narrow a parametric change to expect any visible effect on national GDP or CPI, unlike the founding subsidy-reform law."
+ },
+ {
+  "ref": "757:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Credit facilities to expand one refinery's capacity are a real but plant-specific investment, partial against national refined-product output."
+ },
+ {
+  "ref": "757:1",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "Refining capacity at one plant has no plausible channel to oil rents, which are driven by resource extraction, not downstream refining."
+ },
+ {
+  "ref": "758:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Protecting the wartime rationing system from black-market erosion is a real but protective/enforcement measure, one force among several shaping prices and subsidy costs."
+ },
+ {
+  "ref": "759:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A technical bond-conversion mechanism for land-reform receivables is a financing detail with no plausible direct channel to national GDP."
+ },
+ {
+  "ref": "759:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Resolving a financing bottleneck in land-reform payments is a real but partial and indirect contributor to completing the land-transfer process."
+ },
+ {
+  "ref": "759:2",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Converting one program's receivables into bonds is a minor, early-stage instrument, negligible against the aggregate national liabilities series."
+ },
+ {
+  "ref": "760:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A deadline extension for farm-debt repayment is a marginal relief measure, not expected to move aggregate agricultural value added."
+ },
+ {
+  "ref": "761:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A procedural paperwork mechanism for completing land-reform sales has no plausible direct effect on agricultural value added."
+ },
+ {
+  "ref": "762:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Raising state agricultural-credit appropriations is a real financing instrument, but modest in scale and one of several forces on agricultural value added."
+ },
+ {
+  "ref": "763:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Creates Iran's participation-bond (sukuk) instrument, a genuinely foundational new capital-markets asset class, though its aggregate market impact built gradually rather than as a single structural break."
+ },
+ {
+  "ref": "764:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A cargo-handling fee on exports is a narrow, marginal trade cost with no expected visible effect on export volumes or values."
+ },
+ {
+  "ref": "766:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A first-phase, pilot-scale share transfer to workers is a real but early and partial precursor to full privatization, not itself a structural change to industrial value added."
+ },
+ {
+  "ref": "767:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Establishes the institutional enforcement body for price controls, a real but indirect channel since the bylaw itself does not set prices."
+ },
+ {
+  "ref": "768:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A general revision of trade-licensing rules just after the Iran-Iraq War is a real trade-policy channel, but one of many such bylaw amendments over time."
+ },
+ {
+  "ref": "769:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A procedural fix to duty collection specific to free trade zones is too narrow to move national customs or trade aggregates."
+ },
+ {
+  "ref": "771:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A budget-line top-up for one consumer-protection fund is a narrow appropriation, negligible against aggregate subsidy and transfer spending."
+ },
+ {
+  "ref": "773:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "Setting airport landing fees is a price-schedule matter with no plausible channel to the number of air passengers carried."
+ },
+ {
+  "ref": "774:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Penalizing violators of an existing transport tariff is an enforcement measure, not expected to move recorded freight or passenger volumes."
+ },
+ {
+  "ref": "775:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A sector-specific livestock regulation is a real but partial instrument among several shaping livestock production."
+ },
+ {
+  "ref": "776:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A tariff-rate reset for a specific goods list is a real but narrow instrument, partial against aggregate import and trade-tax series."
+ },
+ {
+  "ref": "777:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A broad, across-the-board cut in commercial-profit rates is a real trade-liberalizing instrument with a meaningful but partial expected effect alongside other liberalization steps."
+ },
+ {
+  "ref": "778:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Adding a single duty item for free trade zones is a narrow administrative change with negligible effect on aggregate customs revenue."
+ },
+ {
+  "ref": "779:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A minor textual amendment to one bylaw article has no expected visible effect on merchandise trade flows."
+ },
+ {
+  "ref": "780:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "A narrow addendum to FX facility agency-contract terms has no plausible channel to the exchange rate level."
+ },
+ {
+  "ref": "780:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A minor adjustment to FX-loan agency-contract mechanics is one small input into aggregate private credit, with no expected visible effect."
+ },
+ {
+  "ref": "781:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single administered telephone tariff is one of many small CPI-basket components, with no expected visible effect on the index."
+ },
+ {
+  "ref": "782:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Blocking one planned electricity-tariff increase is a real administered-price channel, but one component among many in the CPI and a price-inelastic driver of consumption."
+ },
+ {
+  "ref": "783:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A ruling on the price-control oversight body's authority is a real but indirect institutional channel into consumer and wholesale prices."
+ },
+ {
+  "ref": "784:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Reviewing an amended clause of the Direct Taxes Act is a real tax-liability channel, but a single-clause ruling has only a partial expected effect on aggregate tax revenue."
+ },
+ {
+  "ref": "785:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A ruling on tax-assessment administrative procedure is a narrow machinery matter, not a change to tax policy or rates."
+ },
+ {
+  "ref": "786:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A ruling on one year's minimum-wage decree touches wage-price dynamics, but as a single-year procedural review its expected effect on CPI is partial."
+ },
+ {
+  "ref": "786:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "The minimum wage is a real binding floor for wage earners, but a court ruling on one year's decree has only a partial expected effect on poverty and wage-share measures."
+ },
+ {
+  "ref": "787:0",
+  "correlation": 4,
+  "expected_causation": 4,
+  "rationale_en": "The telecom company was one of the largest single Article 44 privatizations, and its listing was large enough to expect a material, visible effect on market capitalization."
+ },
+ {
+  "ref": "787:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A change in ownership of the telecom operator has no expected effect on the number of fixed-line subscriptions, an operational metric it does not touch."
+ },
+ {
+  "ref": "788:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Annulling one Ministry of Commerce trade directive is a narrow, single-instrument correction, negligible against aggregate trade and customs series."
+ },
+ {
+  "ref": "789:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Setting ETF trading commissions is a micro-level fee parameter, negligible against aggregate stock trading value."
+ },
+ {
+  "ref": "790:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A small compact-fluorescent-lamp subsidy program amendment is negligible against national per-capita electricity and energy consumption."
+ },
+ {
+  "ref": "791:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A decree concerning the national grid operator is a real institutional link, but without specifics on capacity investment its expected effect is partial."
+ },
+ {
+  "ref": "792:0",
+  "correlation": 3,
+  "expected_causation": 3,
+  "rationale_en": "Opening the stock and OTC markets to foreign investors is a real structural liberalization, though actual foreign participation stayed limited under sanctions, capping its expected effect."
+ },
+ {
+  "ref": "792:1",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "The justification itself notes portfolio investment is not FDI, so this stock-market rule has no genuine channel to FDI inflows."
+ },
+ {
+  "ref": "793:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A fuel-switching bylaw for public transport is a real demand-management instrument, but one component among several fuel-consumption policies of the era."
+ },
+ {
+  "ref": "794:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow technical addition to one bylaw clause governing import licensing procedure, with no expected visible effect on import levels or tariffs."
+ },
+ {
+  "ref": "795:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A broader revision of trade-licensing and tariff operating rules is a real channel, but its implementation-level nature gives it only a partial expected effect."
+ },
+ {
+  "ref": "796:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Part of the broader post-war trade-liberalization wave, a real but partial contributor among several such bylaw amendments."
+ },
+ {
+  "ref": "797:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A generic, undetailed decree updating trade-bylaw operating rules, with no specific substance suggesting a visible effect on trade flows."
+ },
+ {
+  "ref": "798:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow customs-administration note specific to free trade zones, negligible against national merchandise trade aggregates."
+ },
+ {
+  "ref": "799:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Adding one exemption item to a duty-exempt list is a narrow, negligible change against aggregate import tariffs."
+ },
+ {
+  "ref": "800:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Formally opening exchanges and OTC markets to foreign capital is a structural liberalization of the whole capital-markets domain, though actual sanctions-constrained participation limits its realized reach."
+ },
+ {
+  "ref": "801:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Creating a regulated housing-investment fund vehicle is a real housing-finance channel, but a niche instrument modest relative to the overall housing stock."
+ },
+ {
+  "ref": "803:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A court ruling narrowing part of an industrial-modernization support scheme is a narrow, partial annulment with no expected visible effect on industrial value added."
+ },
+ {
+  "ref": "804:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Removing a relocation interest-subsidy is a real, targeted channel to the specific provincial industrial-distribution series it is scored against, but one incentive among several decentralization tools."
+ },
+ {
+  "ref": "805:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Fixing the start date of an existing tax exemption is a real but narrow timing clarification, not the exemption policy itself, so only a partial effect on tax revenue."
+ },
+ {
+  "ref": "807:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Article 44 privatization bylaws reassigned ownership of a large share of the state economy, a major structural instrument we would expect to leave a visible mark on national output and investment."
+ },
+ {
+  "ref": "807:1",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Article 44 was implemented largely through listing former state enterprises on the exchange, a major direct driver of market capitalization and trading growth through the 2000s-2010s."
+ },
+ {
+  "ref": "807:2",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A large share of divested assets were industrial firms, a real but gradual restructuring channel, partial against aggregate industry and manufacturing value added."
+ },
+ {
+  "ref": "808:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Refining the installment-payment mechanism for privatization-share buyers is a real operational lever affecting the pace of divestiture, but a narrow parametric piece of the broader program."
+ },
+ {
+  "ref": "809:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow, distributive share-transfer channel to war veterans and workers, negligible against the aggregate capital-markets domain."
+ },
+ {
+  "ref": "810:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A licensing-conformity requirement for existing mine concessions is administrative housekeeping with no expected visible effect on mineral output."
+ },
+ {
+  "ref": "811:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Governs licensing/exploitation terms for mines, a real regulatory channel to mine production value, but one narrow provision among the sector's rules."
+ },
+ {
+  "ref": "812:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A small technical remark added to one tariff line is negligible against aggregate merchandise trade."
+ },
+ {
+  "ref": "813:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A textual amendment affecting two specific tariff lines is a narrow customs-classification change, negligible against aggregate trade."
+ },
+ {
+  "ref": "814:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Annulling specific provisions of the trade bylaw during sanctions is narrow, with no expected visible effect on aggregate tariff rates or trade flows."
+ },
+ {
+  "ref": "816:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A government service-fee schedule is a real, direct non-tax revenue instrument, but fee income is typically modest relative to total government revenue."
+ },
+ {
+  "ref": "817:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A generic public financial-management reform bylaw, as the justification itself notes, with no specific instrument that would move budget totals."
+ },
+ {
+  "ref": "818:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow information-transmission procedure for an existing debt instrument, not a change to debt policy itself, negligible against aggregate government liabilities."
+ },
+ {
+  "ref": "819:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A judicial clarification of landlord-tenant relations during the land-reform era is a real but interpretive/legal channel, not itself a land-transfer instrument."
+ },
+ {
+  "ref": "819:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single legal clarification of landlord-tenant obligations is an indirect labor-relations channel, negligible against aggregate agricultural value added."
+ }
+]

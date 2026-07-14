@@ -13,8 +13,8 @@ interface CorrelationRow {
   event_title: string;
   event_source_file: string;
   relationship_type: string;
-  relevance: string;
-  attribution: string;
+  correlation: string;
+  expected_causation: string;
   direction: string;
   lag_en: string;
   lag_fa: string;
@@ -116,8 +116,8 @@ export function getChartEvents(chartId: string): ChartEventDetail[] {
         year: Number(c.event_date.slice(0, 4)),
         date: c.event_date,
         title: c.event_title,
-        relevance: Number(c.relevance) || 0,
-        attribution: Number(c.attribution) || 0,
+        correlation: Number(c.correlation) || 0,
+        expectedCausation: Number(c.expected_causation) || 0,
         direction: c.direction,
         relationship: c.relationship_type,
         lag: c.lag_en,

@@ -73,12 +73,12 @@ const STRINGS = {
     caveat: "Caveat",
     why: "Why this link",
     source: "Source",
-    relevance: "Relevance",
-    attribution: "Attribution",
+    correlation: "Correlation",
+    expectedCausation: "Expected causation",
     law: "Law",
     lawLog: "Related_Laws",
     lawsNote:
-      "Laws related to this measure. A law need not have caused a movement to be listed. Relevance = should you see it here at all. Attribution = how confidently we can say it moved the line.",
+      "Laws related to this measure. Correlation = how closely this law tracks this measure's story. Expected causation = how strongly we would expect it to have moved the line. Neither is a claim of proof.",
     moreLaws: "more related laws",
   },
   fa: {
@@ -102,12 +102,12 @@ const STRINGS = {
     caveat: "ملاحظه",
     why: "چرایی این پیوند",
     source: "منبع",
-    relevance: "میزان ارتباط",
-    attribution: "اطمینان از تأثیر",
+    correlation: "همبستگی",
+    expectedCausation: "علیت مورد انتظار",
     law: "قانون",
     lawLog: "قوانین مرتبط",
     lawsNote:
-      "قوانین مرتبط با این سنجه. لازم نیست یک قانون علت تغییری باشد تا فهرست شود. میزان ارتباط یعنی آیا باید آن را اینجا ببینید، و انتساب علّی یعنی با چه اطمینانی می‌توان تغییر نمودار را به آن نسبت داد.",
+      "قوانین مرتبط با این سنجه. همبستگی یعنی این قانون تا چه اندازه با روند این سنجه همراه است، و علیت مورد انتظار یعنی تا چه اندازه انتظار داریم که این قانون نمودار را جابه‌جا کرده باشد. هیچ‌کدام ادعای اثبات نیست.",
     moreLaws: "قانون مرتبط دیگر",
   },
 };
@@ -242,35 +242,30 @@ export function ChartExplorer({
     : "";
 
   // Laws are already sorted strongest-first. A broad law (a VAT act) attaches to many
-  // charts, so only the strongest few become markers; every one is listed below the
-  // chart, so nothing is hidden from the reader.
   /**
-   * Which annotations get DRAWN on the chart.
+   * Which annotations get DRAWN on the chart. Not a count cap (capping "top N"
+   * silently dropped whole eras) but a QUALITY threshold, so nothing is hidden for
+   * being late in the list, only for being weak. Everything below the gate is still
+   * listed in full beneath the chart, so nothing is lost, only un-drawn.
    *
-   * Not a count cap: capping "top N" silently dropped whole eras. This is a QUALITY
-   * threshold, so nothing is hidden for being late in the list, only for being weak:
-   *   draw it if it is top-relevance (5), or if we can actually attribute movement
-   *   to it (attribution >= 3). Never draw anything below relevance 2.
-   * GDP goes from 145 law markers to 16. Everything else is still listed in full
-   * below the chart, so nothing is lost, only un-cluttered.
-   */
-  /**
-   * LAWS are drawn on relevance alone, above 2. A law is almost never *attributable*
-   * (only 3% score attribution >= 4), so an attribution term in the law gate deleted
-   * the whole grey layer from a third of the charts. Relevance is the right question
-   * for "should a reader of this chart see this at all", which is what a marker is.
+   * LAWS must clear BOTH bars: relevant to this measure (> 2) AND genuinely
+   * attributable to movement in it (>= 3). A marker is a claim on the line itself, so
+   * correlation alone does not earn one. This is a deliberate, owner-chosen trade: it
+   * cuts the drawn layer from 11,744 markers to 3,609 and leaves 380 of the 905
+   * law-bearing charts with no marker at all. Their laws remain in the list below.
    */
   const isLawMarkerWorthy = React.useCallback(
-    (a: { relevance: number }) => a.relevance > 2,
+    (a: { correlation: number; expectedCausation: number }) =>
+      a.correlation > 2 && a.expectedCausation >= 3,
     []
   );
   /**
-   * EVENTS are fewer and stronger, so they keep the two-score gate: draw it if it is
-   * top-relevance (5) or we can actually attribute movement to it (attribution >= 3).
+   * EVENTS keep their own gate: draw it if it is top-correlation (5) or we can actually
+   * attribute movement to it (expectedCausation >= 3).
    */
   const isEventMarkerWorthy = React.useCallback(
-    (a: { relevance: number; attribution: number }) =>
-      a.relevance >= 2 && (a.relevance >= 5 || a.attribution >= 3),
+    (a: { correlation: number; expectedCausation: number }) =>
+      a.correlation >= 2 && (a.correlation >= 5 || a.expectedCausation >= 3),
     []
   );
   const markerLaws = React.useMemo(
@@ -506,7 +501,7 @@ export function ChartExplorer({
                 <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                   {fa ? toPersianDigits(hoveredLaw.year) : hoveredLaw.year}
                 </span>
-                <ConfidenceBadge relevance={hoveredLaw.relevance} attribution={hoveredLaw.attribution} muted t={t} />
+                <ConfidenceBadge correlation={hoveredLaw.correlation} expectedCausation={hoveredLaw.expectedCausation} muted t={t} />
               </div>
               <p className="mt-1.5 text-sm font-medium leading-snug">
                 {fa ? hoveredLaw.titleFa : hoveredLaw.titleEn || hoveredLaw.titleFa}
@@ -551,7 +546,7 @@ export function ChartExplorer({
                 <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                   {fa ? toPersianDigits(hovered.year) : hovered.year}
                 </span>
-                <ConfidenceBadge relevance={hovered.relevance} attribution={hovered.attribution} t={t} />
+                <ConfidenceBadge correlation={hovered.correlation} expectedCausation={hovered.expectedCausation} t={t} />
               </div>
               <p className="mt-1.5 text-sm font-medium leading-snug">
                 {(fa && hovered.titleFa) || hovered.title}
@@ -614,8 +609,8 @@ export function ChartExplorer({
                       {(fa && e.titleFa) || e.title}
                     </span>
                     <ConfidenceBadge
-                      relevance={e.relevance}
-                      attribution={e.attribution}
+                      correlation={e.correlation}
+                      expectedCausation={e.expectedCausation}
                       t={t}
                     />
                   </summary>
@@ -678,7 +673,7 @@ export function ChartExplorer({
                     <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                       {fa ? toPersianDigits(l.year) : l.year}
                     </span>
-                    <ConfidenceBadge relevance={l.relevance} attribution={l.attribution} muted t={t} />
+                    <ConfidenceBadge correlation={l.correlation} expectedCausation={l.expectedCausation} muted t={t} />
                     <span className="flex-1 text-sm leading-snug">
                       {fa ? l.titleFa : l.titleEn || l.titleFa}
                     </span>
@@ -749,13 +744,13 @@ function ScoreBars({
  * RELEVANCE). Both are shown, always, so a strong-but-uncausal link reads honestly.
  */
 function ConfidenceBadge({
-  relevance,
-  attribution,
+  correlation,
+  expectedCausation,
   muted = false,
   t,
 }: {
-  relevance: number;
-  attribution: number;
+  correlation: number;
+  expectedCausation: number;
   muted?: boolean;
   t: (typeof STRINGS)["en"];
 }) {
@@ -764,16 +759,16 @@ function ConfidenceBadge({
     <span className="flex flex-wrap items-center gap-x-3 gap-y-1">
       <span className="flex items-center gap-1.5">
         <span className="data-label text-[9px] text-muted-foreground">
-          {t.relevance}
+          {t.correlation}
         </span>
-        <ScoreBars score={relevance} color={on} />
+        <ScoreBars score={correlation} color={on} />
       </span>
       <span className="flex items-center gap-1.5">
         <span className="data-label text-[9px] text-muted-foreground">
-          {t.attribution}
+          {t.expectedCausation}
         </span>
         <ScoreBars
-          score={attribution}
+          score={expectedCausation}
           color="color-mix(in oklch, currentColor 45%, transparent)"
         />
       </span>

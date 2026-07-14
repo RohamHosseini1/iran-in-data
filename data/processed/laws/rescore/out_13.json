@@ -1,0 +1,560 @@
+[
+ {
+  "ref": "1017:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow price rule for one government housing-sale program has no expected reach into the economy-wide CPI COICOP housing aggregate."
+ },
+ {
+  "ref": "1018:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "This is a traffic/driving rule for free zones, not a trade or customs instrument, so it has no expected channel to import growth."
+ },
+ {
+  "ref": "1019:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single-article amendment to a free-zone facilities-use bylaw is too narrow and zone-specific to expect a visible effect on national import growth."
+ },
+ {
+  "ref": "1021:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Ending the foreign consortium's control and restructuring oil operations under NIOC is a major instrument directly over production, export composition and revenue capture, so a visible effect on these oil-sector series is expected."
+ },
+ {
+  "ref": "1021:1",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "The 1973 oil restructuring changed who captured oil revenue rather than national output directly, so against aggregate GDP it is one force among agriculture, industry and services, not a dominant driver."
+ },
+ {
+  "ref": "1023:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A 1950 amendment to specific provisions of the FX allocation bylaw is a real lever within the controlled-exchange regime but too narrow in scope to expect a large, visible move in the rate on its own."
+ },
+ {
+  "ref": "1024:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single-article tweak to the export bylaw's executive regulation is a narrow licensing-regime adjustment with no expected effect on aggregate merchandise exports."
+ },
+ {
+  "ref": "1025:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "Authorizing NIOC's statute is a governance instrument for the oil operator rather than a production or pricing lever, so its expected effect on production and rents is indirect."
+ },
+ {
+  "ref": "1026:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Authorizing five oil agreements with the consortium is a substantive production/revenue-sharing instrument of the mid-1960s, a real but partial driver alongside the era's other oil contracts."
+ },
+ {
+  "ref": "1027:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single Supreme Court ruling penalizing gold export is a narrow enforcement measure within the capital-control regime, with no expected direct effect on the exchange rate."
+ },
+ {
+  "ref": "1028:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow amendment to electronic-money service rules is infrastructure plumbing, not a driver large enough to move the account-ownership share."
+ },
+ {
+  "ref": "1030:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Extending the power company's internal operating bylaws is an administrative/governance matter for the utility, not a lever on grid reach or transmission losses."
+ },
+ {
+  "ref": "1031:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "This 1944 act only blocked the government from signing new foreign oil concessions; it prevented an action rather than restructuring production or revenue, so no visible effect on oil output or rents is expected."
+ },
+ {
+  "ref": "1032:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The Article 24 land-reform decree directly redistributed farmland nationwide, a headline instrument of the White Revolution expected to produce a visible structural shift in farm-size, cropping and land-use series."
+ },
+ {
+  "ref": "1032:1",
+  "correlation": 5,
+  "expected_causation": 2,
+  "rationale_en": "Land reform is central to the White Revolution narrative that any account of 1960s-70s GDP must mention, but redistributing farmland is one force among many (oil, industry, services) driving aggregate GDP, so the expected direct effect is limited."
+ },
+ {
+  "ref": "1033:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Closing out land-reform case files in 1975 is administrative housekeeping at the tail of the reform, with no expected effect on agricultural output or land-area statistics."
+ },
+ {
+  "ref": "1034:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Raising the interest rate on one specific agricultural loan program is a narrow rural-credit tweak, too small to expect any visible effect on real interest rates or farm value added."
+ },
+ {
+  "ref": "1036:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A 2025 customs circular differentiating vehicle import duties is a real, current tariff instrument, but it covers one product category and is one of many tariff line items, so its expected effect on the aggregate tariff mean and import totals is marginal."
+ },
+ {
+  "ref": "1037:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A 1975 ratification of a duty cut on one narrow product line (radio/TV parts) is too small to expect any visible move in the aggregate tariff rate or import volumes."
+ },
+ {
+  "ref": "1038:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Repealing part of one clause in an export-assistance law is a narrow legal tidy-up with no expected effect on aggregate merchandise exports."
+ },
+ {
+  "ref": "1039:0",
+  "correlation": 5,
+  "expected_causation": 3,
+  "rationale_en": "A full tax and duty exemption aimed squarely at the spinning and weaving sector is a direct fiscal incentive for exactly the industry this chart tracks, a real but partial driver of output alongside demand, inputs and capacity."
+ },
+ {
+  "ref": "1040:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is routine coordination scaffolding between capital-market institutions, not a rule that would be expected to move market activity."
+ },
+ {
+  "ref": "1041:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Amending procedural articles of a smuggling-penalty bylaw is enforcement housekeeping, not a policy lever expected to move import or exchange-rate series."
+ },
+ {
+  "ref": "1042:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Market-making rules for one narrow fund type (land and building funds) are technical liquidity plumbing with no expected effect on broader capital-market activity."
+ },
+ {
+  "ref": "1043:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Amending the bylaw for non-governmental export development funds touches a real financing channel for exporters, but it is one of many small support instruments, so only a marginal expected effect."
+ },
+ {
+  "ref": "1044:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Setting professional-qualification standards for financial-institution managers is governance infrastructure, not something expected to move capital-market activity."
+ },
+ {
+  "ref": "1045:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Licensing listing advisors is a narrow professional-licensing rule with no expected effect on broader capital-market indicators."
+ },
+ {
+  "ref": "1046:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Amending one article on the corporate independence of provincial electricity distributors is an internal governance tweak, not an energy-sector output or reliability lever."
+ },
+ {
+  "ref": "1047:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Registering self-regulatory associations of market participants is institutional scaffolding, not an instrument expected to move capital-market activity."
+ },
+ {
+  "ref": "1048:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Setting insider-information reporting duties is a market-integrity rule with no expected effect on aggregate capital-market indicators."
+ },
+ {
+  "ref": "1049:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Establishing model contracts for portfolio management is a technical operating rule for one licensed service, not a driver of capital-market aggregates."
+ },
+ {
+  "ref": "1050:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow allocation rule for unexported pre-sold petrochemical output is a technical feedstock-supply mechanism within one sub-sector, too small to move the broad industry value-added category."
+ },
+ {
+  "ref": "1051:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "Creating free-trade zones in a handful of border towns is part of the trade-incentive story but represents a tiny share of the national economy, so no visible effect on aggregate GDP is expected."
+ },
+ {
+  "ref": "1051:1",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "Establishing these free-trade zones is squarely a trade-and-investment-climate instrument for the designated regions, a real but partial channel given these zones are a small share of national trade and investment."
+ },
+ {
+  "ref": "1052:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "This 1955 act opened the legal door to offshore concessions (e.g. Iran Pan American) that fed oil revenue, but offshore production had barely begun within the 1955-1962 window these charts cover, so its expected effect on measured revenue allocation in that period is limited."
+ },
+ {
+  "ref": "1052:1",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "Opening offshore exploration is a foundational legal precursor to Iran's oil-rent growth model, but as a single legal opening with production ramping up only later, its expected near-term effect on GDP and oil rents is modest."
+ },
+ {
+  "ref": "1053:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Ratifying one bilateral gas sale contract is a real revenue channel but only one of several concurrent export contracts (alongside the dominant USSR pipeline), so a partial, not dominant, expected effect on gas rents."
+ },
+ {
+  "ref": "1054:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Approving US financing for major electricity-generation projects directly funded capacity build-out reflected in the following years' generation data, a real but partial contributor alongside the broader development-plan financing program."
+ },
+ {
+  "ref": "1055:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "Extending criminal penalties for disrupting food distribution reinforces enforcement of existing price/rationing controls on these commodities, a real but indirect lever since it does not itself set prices."
+ },
+ {
+  "ref": "1056:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Establishing agricultural and livestock development organizations is a real state investment in productivity, but its effect on the livestock index runs indirectly through organizational capacity-building rather than directly on output."
+ },
+ {
+  "ref": "1057:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Adding one clause to the domestic-livestock-support law is a narrow legislative tweak with no expected effect on livestock output or prices."
+ },
+ {
+  "ref": "1058:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "An interpretive clarification of one mining-law article is routine legal maintenance with no expected effect on mining output by province."
+ },
+ {
+  "ref": "1059:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Redirecting existing telecom development fees into state capital increases is a real financing channel for network build-out, but it is one of several drivers (including private-sector entry) of 2000s telecom and internet expansion."
+ },
+ {
+  "ref": "1062:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "The annual fixed-capital-investment appropriation for state development projects is a direct component of that year's gross fixed capital formation, though private and oil-sector investment also contribute, making it a real but partial driver."
+ },
+ {
+  "ref": "1063:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "As with the following year's appropriation, this annual development-investment credit is a direct, if partial, component of gross fixed capital formation during the oil-boom investment surge."
+ },
+ {
+  "ref": "1064:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This appropriation was meant to fund the year's development investment, but the law's own justification notes the revolution disrupted actual project execution, weakening its expected realized effect on capital formation."
+ },
+ {
+  "ref": "1065:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This amendment only inserts wording into one budget-law note and, per its own justification, carries no separately quantifiable fiscal effect, so no expected impact on budget totals."
+ },
+ {
+  "ref": "1066:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "Converting state factories into joint-stock companies changed their legal/governance form, not ownership, financing or production incentives, so no visible effect on industrial output or GDP is expected."
+ },
+ {
+  "ref": "1067:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Withdrawing a share of highway toll revenue is a real but narrow fiscal instrument on a stream this database does not separately track, so no expected effect on the broader revenue series."
+ },
+ {
+  "ref": "1068:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Setting a toll rate for one highway is a narrow fee instrument on an untracked revenue stream, with no expected effect on aggregate government revenue."
+ },
+ {
+  "ref": "1069:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Ratifying one bilateral gas contract (with Czechoslovakia) is a real but partial channel into gas rents, one of several concurrent export deals of the era."
+ },
+ {
+  "ref": "1070:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "This 2025 bylaw postdates the only petrochemical production chart's 1996-2006 data window entirely, so there is no possible channel from this instrument to that series."
+ },
+ {
+  "ref": "1071:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This amendment sets an income-tax exemption for regional utility companies, not tariffs or generation targets, so no expected effect on per-capita electricity consumption."
+ },
+ {
+  "ref": "1072:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Like the later 1991 amendment, this sets tax treatment for utility companies rather than tariffs or output, with no expected effect on per-capita electricity consumption."
+ },
+ {
+  "ref": "1073:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A wartime annual budget is a notable part of that year's economic story, but one year's budget law remains one force among oil revenue, war disruption and private activity in determining aggregate GDP."
+ },
+ {
+  "ref": "1073:1",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "The annual budget law is the direct legal instrument fixing that year's government expenditure, revenue and tax collection, so it is expected to structurally define these government-finance series for FY1360."
+ },
+ {
+  "ref": "1073:2",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Wartime deficit financing through Central Bank borrowing was a real inflationary channel, but the budget law itself is one step removed from prices, with money-supply and war-supply shocks also driving 1980s inflation."
+ },
+ {
+  "ref": "1073:3",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Wartime budgets curtailed civilian development spending, a real but partial component of that year's gross capital formation alongside private and oil-sector investment."
+ },
+ {
+  "ref": "1073:4",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "The budget law's revenue and spending choices reflect wartime trade disruption rather than driving it, so no direct expected effect on export or import shares of GDP."
+ },
+ {
+  "ref": "1074:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "This directive is the actual legal gate determining which companies may list on the Tehran Stock Exchange, a real driver of listed-company counts, though market capitalization and trading value are also driven by pricing and macro conditions."
+ },
+ {
+  "ref": "1075:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This specifies use of one loan tranche from the Central Bank; like any single small tranche against an aggregate government-debt stock, its expected effect on the series is negligible."
+ },
+ {
+  "ref": "1076:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "This law sets installment-payment terms for compensating landlords after land had already been transferred; it does not itself change land area or use, so no expected effect on the agricultural-land series."
+ },
+ {
+  "ref": "1077:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Resolving overdue farmer debt cases is a narrow administrative/financial cleanup with no expected effect on aggregate crop production."
+ },
+ {
+  "ref": "1078:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "This law extends housing-loan coverage to one narrow beneficiary population (veterans and martyrs' families); it is a genuine social-protection instrument but too small a slice of the population to expect a visible move in national coverage rates."
+ },
+ {
+  "ref": "1079:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Forgiving late-payment penalties for one region's tenant farmers is a narrow debt-relief measure with no expected effect on national agricultural land statistics."
+ },
+ {
+  "ref": "1080:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "An import-substitution circular for one narrow product category (catalysts) is too small a share of merchandise imports to expect a visible aggregate effect."
+ },
+ {
+  "ref": "1081:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Adding one supplementary clause to an existing export-incentive decree is too narrow a change to expect a visible effect on aggregate export volumes."
+ },
+ {
+  "ref": "1083:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Wartime rent ceilings in 35 cities directly controlled a major household expenditure item, a real but partial lever on the broader consumer price level alongside food and other controlled prices."
+ },
+ {
+  "ref": "1084:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This Supreme Court ruling governs appellate procedure for rent-adjustment disputes, not the rent-setting mechanism itself, so no expected direct effect on CPI."
+ },
+ {
+  "ref": "1085:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This ruling defines enforcement scope for an anti-profiteering campaign on foodstuffs, a real but partial support mechanism for price controls rather than a price-setting instrument itself."
+ },
+ {
+  "ref": "1086:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Upholding the existing tiered electricity-billing structure is a real consumption-pricing lever, though it reaffirms rather than creates policy, so only a partial expected effect on per-capita consumption."
+ },
+ {
+  "ref": "1087:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Upholding a new telephone tariff schedule during a capacity-constrained build-out period is a real but partial lever, since waiting-list capacity limits were likely the dominant constraint on subscription growth."
+ },
+ {
+  "ref": "1090:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Raising the civil-service job-grade classification directly increases base government salaries, the core driver of the compensation-of-employees series this chart measures."
+ },
+ {
+  "ref": "1093:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Forgiving late-payment penalties on sugar-beet farmer loans is a narrow post-revolution debt-relief measure, too small to expect a visible effect on aggregate sugar-beet production."
+ },
+ {
+  "ref": "1094:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "A modest one-off credit for grain-storage silos supports the procurement infrastructure but is too small a single tranche to expect a visible effect on wheat price or production."
+ },
+ {
+  "ref": "1095:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Multi-year credit for one oil pipeline project is a real capacity investment, but one project among the era's broader oil-infrastructure program, so only a partial expected effect on production or rents."
+ },
+ {
+  "ref": "1096:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "An interpretive clarification of one mining-law article is routine legal maintenance with no expected effect on mining production values."
+ },
+ {
+  "ref": "1097:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Setting criteria to classify large versus small mines shapes licensing and royalty incentives across the whole mining sector, a real but indirect lever on production value by province."
+ },
+ {
+  "ref": "1098:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This update to the mining bylaw's licensing framework is a real regulatory lever for the sector, though its effect on provincial production value remains indirect."
+ },
+ {
+  "ref": "1099:0",
+  "correlation": 5,
+  "expected_causation": 3,
+  "rationale_en": "This bylaw is part of the legal machinery for transferring state-owned shares onto the exchange, a direct channel into listed-company counts and market capitalization, though pricing and broader IPO activity also drive these series."
+ },
+ {
+  "ref": "1099:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "As an implementing regulation for one article of the Article 44 financial-instruments law, this is a secondary mechanism within the broader privatization program, a real but partial force on GDP and investment."
+ },
+ {
+  "ref": "1100:0",
+  "correlation": 5,
+  "expected_causation": 3,
+  "rationale_en": "Like the companion Article 13 bylaw, this Article 14 bylaw is direct machinery for moving state shares onto the exchange, a real driver of listed-company and market-capitalization series alongside pricing and IPO activity."
+ },
+ {
+  "ref": "1100:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This implementing bylaw for the Article 44 program is a secondary mechanism within a broader structural reform, a real but partial force on GDP and FDI inflows."
+ },
+ {
+  "ref": "1101:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Renewing the full annual executive bylaw for import-export regulation is the core instrument setting that year's licensing and tariff regime, a real driver of trade flows alongside oil prices and reconstruction demand."
+ },
+ {
+  "ref": "1102:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "This amendment updates the core trade-regulation bylaw and directly sets applied tariff schedules, a real driver of tariff rates and trade flows for that year."
+ },
+ {
+  "ref": "1103:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "This amendment to the same core export-import bylaw directly updates tariff and licensing terms, a real driver of trade flows and tariff rates."
+ },
+ {
+  "ref": "1104:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Rewriting the tariff schedule tables attached to the bylaw is a direct, line-item lever on the applied tariff-rate series, though it is one of several periodic table updates rather than a full regime overhaul."
+ },
+ {
+  "ref": "1105:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Revising specific duty figures in two articles is a real but narrower line-item tariff change than a full schedule rewrite, so a more marginal expected effect on the aggregate tariff rate."
+ },
+ {
+  "ref": "1106:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "Ratifying accession to an ILO convention on employment policy is an aspirational institutional commitment, not an operational labor-market instrument, so no expected effect on the unemployment rate."
+ },
+ {
+  "ref": "1107:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This bylaw on state-land transfer touches land-use administration only modestly, with no expected visible effect on agricultural-land statistics."
+ },
+ {
+  "ref": "1108:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This annual bylaw explicitly sets prices and subsidy levels for essential goods nationwide, a direct administered-price and subsidy-transfer instrument expected to have a material, visible effect on subsidies and price indices, though smaller in scale than the later landmark subsidy reform."
+ },
+ {
+  "ref": "1109:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A circular concerning one narrow product category (domestically produced catalysts) is too small a share of trade or manufacturing to expect a visible aggregate effect."
+ },
+ {
+  "ref": "1110:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a duplicate filing of the same narrow catalysts circular as 1109:0, so the same negligible expected effect applies."
+ }
+]

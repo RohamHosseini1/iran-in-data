@@ -51,8 +51,8 @@ function buildLawIndex(): Map<string, ChartLawDetail[]> {
       titleEn: t?.en || r.law_title_en || "",
       summaryEn: t?.summaryEn || r.law_summary_en || "",
       summaryFa: t?.summaryFa || r.law_summary_fa || "",
-      relevance: Number(r.relevance) || 0,
-      attribution: Number(r.attribution) || 0,
+      correlation: Number(r.correlation) || 0,
+      expectedCausation: Number(r.expected_causation) || 0,
       relationship: r.relationship_type ?? "",
       direction: r.direction ?? "",
       lag: r.lag_en ?? "",
@@ -75,7 +75,7 @@ function buildLawIndex(): Map<string, ChartLawDetail[]> {
     list.sort(
       (a, b) =>
         a.year - b.year ||
-        b.relevance - a.relevance ||
+        b.correlation - a.correlation ||
         a.titleEn.localeCompare(b.titleEn)
     );
   }

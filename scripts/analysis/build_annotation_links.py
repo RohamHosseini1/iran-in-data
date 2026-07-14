@@ -9,10 +9,13 @@ Replaces the earlier single-"confidence" mapping, which had three fatal defects:
      Revolution scored 1/5 against GDP -- absurd.
 
 Now every link carries TWO scores:
-  relevance   -- should a reader of THIS chart see this at all?   (drives display)
-  attribution -- can we say it MOVED this line?                   (drives the causal claim)
-The White Revolution on GDP is relevance 5 / attribution 2: you must see it, but we
-cannot credit the line's movement to it.
+  correlation        -- does this instrument belong to THIS measure's story?  (drives display)
+  expected_causation -- would we EXPECT it to have moved this line?           (drives the claim)
+The vocabulary matters and was got wrong once already. "Attribution" invites the
+question "can we PROVE this moved the line", whose honest answer is almost always no,
+so every structural law collapsed to 1-2 and the layer became meaningless. The right
+question is EXPECTED CAUSATION: would we expect this instrument to have moved this
+measure? Oil nationalisation against GDP answers that with a 5.
 
 Every free-text field is bilingual (justification/caveats/lag), which is what fixes
 English text leaking onto the Persian site.
@@ -35,11 +38,11 @@ EV_OUT = os.path.join(PROC, "policy_chart_correlations_mapped.csv")
 
 LAW_FIELDS = ["link_id", "chart_id", "law_id", "law_date", "law_title_fa",
               "law_title_en", "law_summary_en", "law_summary_fa",
-              "relationship_type", "relevance", "attribution", "direction",
+              "relationship_type", "correlation", "expected_causation", "direction",
               "lag_en", "lag_fa", "justification_en", "justification_fa",
               "caveats_en", "caveats_fa", "scope", "source_path"]
 EV_FIELDS = ["correlation_id", "chart_id", "chart_title", "event_date", "event_title",
-             "event_source_file", "relationship_type", "relevance", "attribution",
+             "event_source_file", "relationship_type", "correlation", "expected_causation",
              "direction", "lag_en", "lag_fa", "justification_en", "justification_fa",
              "caveats_en", "caveats_fa", "scope"]
 
@@ -91,9 +94,9 @@ ALLOWED_EVENT_SOURCES = {"timeline/iran.csv", "timeline/global.csv"}
 # category-scoped global event was being stapled to every chart in a category, so
 # Iran's apple-production chart carried "China WTO accession", "Asian Financial Crisis"
 # and "Russian default and LTCM crisis" -- foreign events, on a fruit chart, at
-# relevance 2. Iran's OWN events keep their full list (they are Iran's story either
-# way); a foreign event reaching a chart only by category must clear relevance 3.
-GLOBAL_CATEGORY_MIN_RELEVANCE = 3
+# correlation 2. Iran's OWN events keep their full list (they are Iran's story either
+# way); a foreign event reaching a chart only by category must clear correlation 3.
+GLOBAL_CATEGORY_MIN_CORRELATION = 3
 
 
 def load_charts():
@@ -169,8 +172,8 @@ def main():
                     "law_summary_en": t.get("law_summary_en", ""),
                     "law_summary_fa": t.get("law_summary_fa", ""),
                     "relationship_type": link.get("relationship_type", ""),
-                    "relevance": link.get("relevance", ""),
-                    "attribution": link.get("attribution", ""),
+                    "correlation": link.get("correlation", ""),
+                    "expected_causation": link.get("expected_causation", ""),
                     "direction": link.get("direction", ""),
                     "lag_en": link.get("lag_en", ""), "lag_fa": link.get("lag_fa", ""),
                     "justification_en": link.get("justification_en", ""),
@@ -210,13 +213,13 @@ def main():
         is_global = e.get("event_source_file") == "timeline/global.csv"
         for link in (e.get("links") or []):
             try:
-                rel = int(link.get("relevance") or 0)
+                rel = int(link.get("correlation") or 0)
             except (TypeError, ValueError):
                 rel = 0
             for cid, escope in targets(link, title, by_cat, bad):
                 # a foreign event that only reached this chart via its category has to
-                # clear the relevance floor -- see GLOBAL_CATEGORY_MIN_RELEVANCE
-                if is_global and escope == "category" and rel < GLOBAL_CATEGORY_MIN_RELEVANCE:
+                # clear the correlation floor -- see GLOBAL_CATEGORY_MIN_CORRELATION
+                if is_global and escope == "category" and rel < GLOBAL_CATEGORY_MIN_CORRELATION:
                     skipped_weak_global += 1
                     continue
                 key = (cid, e["event_date"][:4], ekey(e["event_title"]))
@@ -231,8 +234,8 @@ def main():
                     "event_date": e["event_date"], "event_title": e["event_title"],
                     "event_source_file": e["event_source_file"],
                     "relationship_type": link.get("relationship_type", ""),
-                    "relevance": link.get("relevance", ""),
-                    "attribution": link.get("attribution", ""),
+                    "correlation": link.get("correlation", ""),
+                    "expected_causation": link.get("expected_causation", ""),
                     "direction": link.get("direction", ""),
                     "lag_en": link.get("lag_en", ""), "lag_fa": link.get("lag_fa", ""),
                     "justification_en": link.get("justification_en", ""),
@@ -245,8 +248,8 @@ def main():
         w.writeheader()
         w.writerows(erows)
 
-    # retire the old single-confidence event files: their schema has no relevance/
-    # attribution and no Persian, so leaving them in the glob would resurrect the bug
+    # retire the old single-confidence event files: their schema has no correlation/
+    # expected_causation and no Persian, so leaving them in the glob would resurrect the bug
     import glob
     for old in glob.glob(os.path.join(PROC, "policy_chart_correlations_*.csv")):
         if os.path.basename(old) != os.path.basename(EV_OUT):

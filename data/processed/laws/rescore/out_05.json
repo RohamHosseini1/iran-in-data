@@ -1,0 +1,602 @@
+[
+ {
+  "ref": "330:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A single earmarked reconstruction-tax amendment is one of many minor tax instruments, too small on its own to move aggregate tax revenue."
+ },
+ {
+  "ref": "331:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A mid-year top-up budget directly adjusts that year's fiscal totals but is a secondary instrument to the primary annual budget law."
+ },
+ {
+  "ref": "332:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single state-guaranteed loan to one airline is too narrow and small to be expected to move a national air-passenger traffic series."
+ },
+ {
+  "ref": "333:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A mid-year top-up budget directly adjusts that year's fiscal totals but is a secondary instrument to the primary annual budget law."
+ },
+ {
+  "ref": "334:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This is the foundational law restructuring Iran's entire social-security architecture, a major structural instrument for this domain."
+ },
+ {
+  "ref": "334:1",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "The chart's 1991-2006 window mostly predates this 2004 law's enactment and implementation, so there is no plausible channel to the data shown."
+ },
+ {
+  "ref": "335:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The primary annual budget law directly sets that year's government revenue and expenditure, a major fiscal instrument for this domain."
+ },
+ {
+  "ref": "335:1",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "One year's routine budget is a small force against Iran's overall GDP trajectory."
+ },
+ {
+  "ref": "336:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This is Iran's principal legal instrument explicitly targeting tobacco use and advertising, a major channel directly aimed at this exact measure."
+ },
+ {
+  "ref": "336:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "It is part of the regulatory backdrop, but the post-2012 market structure this chart tracks was shaped mainly by privatization, not this control law."
+ },
+ {
+  "ref": "337:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Authorizing utilization of two power plants is a real but incremental addition to national generation capacity, one of many such additions over the decades."
+ },
+ {
+  "ref": "338:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "The primary wartime annual budget law directly set that year's government revenue and expenditure, a major fiscal instrument for this domain."
+ },
+ {
+  "ref": "338:1",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "One year's wartime budget is a small force against Iran's overall GDP trajectory, even amid heavy military spending."
+ },
+ {
+  "ref": "338:2",
+  "correlation": 3,
+  "expected_causation": 3,
+  "rationale_en": "Wartime deficit spending financed through central-bank credit is a recognized but partial channel into inflation, one force among several alongside the war economy and price controls."
+ },
+ {
+  "ref": "339:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A narrow payroll-cost exemption for micro-firms is one of many small labor-market instruments, unlikely to visibly move aggregate labor-market series."
+ },
+ {
+  "ref": "339:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "The premium exemption's effect on SSO funding is diffuse and too small to be expected to move pensioner payment totals."
+ },
+ {
+  "ref": "340:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "The proposed surcharge was rejected and never took effect, so it had no expected effect on trade-tax or import series."
+ },
+ {
+  "ref": "341:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a procedural rule governing land-purchase mechanics, not land supply or housing construction, so no expected effect on these aggregate stock series."
+ },
+ {
+  "ref": "342:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single $4 million loan to one joint-venture oil company is negligible against Iran's national crude-oil output."
+ },
+ {
+  "ref": "343:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Annulling one implementing provision of the subsidy law is a narrow judicial correction to the machinery, not a scale change to aggregate subsidy transfers."
+ },
+ {
+  "ref": "347:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This compensates farmers after drought rather than altering growing conditions, so its expected effect on wheat output is marginal compared to weather itself."
+ },
+ {
+  "ref": "347:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a narrow, drought-triggered compensation scheme, not a structural pillar of the social-protection system."
+ },
+ {
+  "ref": "348:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "This law sets rent levels and ceilings; it has no expected channel to the number of housing units this chart actually counts."
+ },
+ {
+  "ref": "348:1",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "The 1974 law postdates this 1965-1971 expenditure data entirely, so it cannot have affected the figures shown."
+ },
+ {
+  "ref": "349:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "A targeted anti-closure support law is a real but partial force in industrial development, one instrument among the era's broader industrialization policies."
+ },
+ {
+  "ref": "350:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "This law regulates employment terms on farms rather than driving the level of agricultural employment, which is set mainly by broader structural shifts."
+ },
+ {
+  "ref": "351:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a narrow collateral and mortgage rule for land-reform plots, with no direct channel to land area, irrigation extent, or agricultural value added."
+ },
+ {
+  "ref": "352:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "Extending a deadline for an existing delegated-authority provision is a procedural continuity measure, not itself a change to duty rates or trade flows."
+ },
+ {
+  "ref": "353:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a procedural fiscal-year alignment measure for banks in transition, not an instrument that changes government indebtedness to the central bank."
+ },
+ {
+  "ref": "354:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This is the core post-revolution legal framework governing how all mines nationwide are exploited, a major instrument for the whole mining sector."
+ },
+ {
+  "ref": "354:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "The law governs how mines are operated, but mineral rents as a share of GDP depend mainly on global prices and royalty capture, making this at most a partial, indirect channel."
+ },
+ {
+  "ref": "355:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This authorizes incremental tariff adjustments under specific trade agreements, one of many such periodic changes rather than a wholesale tariff reform."
+ },
+ {
+  "ref": "356:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "Nationalization seized Iran's dominant industry and triggered an embargo-driven collapse in output, a structural break in the national accounts."
+ },
+ {
+  "ref": "356:1",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "Nationalization and the ensuing Consortium Agreement directly established Iran's negotiated revenue share, the legal basis these revenue-distribution charts measure."
+ },
+ {
+  "ref": "356:2",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "Nationalization triggered the 1951-54 embargo-driven collapse in oil output and the subsequent long expansion, a structural break in the production series."
+ },
+ {
+  "ref": "356:3",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "As the legal act that reshaped control over Iran's dominant export good, nationalization had a major expected effect on goods-export and fuel-export-share trajectories."
+ },
+ {
+  "ref": "357:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This capital-injection measure supported a banking system already reorganized by nationalization, one contributing factor among several to these financial-depth ratios, not the structural driver itself."
+ },
+ {
+  "ref": "358:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Adopting the internationally harmonized tariff-classification system directly resets how duties are calculated on imports, a real but partial force among the determinants of trade-tax revenue."
+ },
+ {
+  "ref": "359:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "One year's wartime budget-credit top-up is a small force against Iran's overall GDP trajectory."
+ },
+ {
+  "ref": "359:1",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This law directly finances war costs during the Iran-Iraq war, a major and direct channel into that period's military-expenditure series."
+ },
+ {
+  "ref": "359:2",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "As a law restoring war-cost budget credits, it makes a real but partial addition to one year's total government expense within a long series."
+ },
+ {
+  "ref": "360:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A tariff bylaw for one narrow machinery category is too small to move an all-products average tariff rate or the manufacturing value-added mix."
+ },
+ {
+  "ref": "361:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "These are execution and disbursement rules for an already-enacted budget, not the law that sets the totals, so their expected effect on the totals themselves is limited."
+ },
+ {
+  "ref": "362:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "This support scheme for centralized weaving complexes is a real but narrow instrument against the handwoven-carpet sector's broader decline from global competition and sanctions."
+ },
+ {
+  "ref": "363:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single fiscal year's subsidized-credit employment scheme is too narrow to move national employment headcounts by sector or gender."
+ },
+ {
+  "ref": "364:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A single fiscal year's subsidized-credit employment scheme is too narrow to move national employment headcounts by sector or gender."
+ },
+ {
+  "ref": "365:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "This sets disclosure and reporting requirements, a procedural transparency measure, not an instrument that changes the size of the insurance market itself."
+ },
+ {
+  "ref": "366:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This financing mechanism for renovating worn-out urban areas is one housing program among several, a real but partial force on national housing stock and tenure."
+ },
+ {
+  "ref": "367:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This amends two specific clauses of the trade-regulation bylaw, a narrow procedural update to licensing detail rather than a broad change to trade policy."
+ },
+ {
+  "ref": "368:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Bringing the large informal credit market under oversight has a real but partial and gradual effect on measured monetary aggregates, mixing genuine and definitional channels."
+ },
+ {
+  "ref": "368:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "As a national-scale but partial regulatory measure, its effect is diffuse across these broad categories rather than a dominant driver of any one."
+ },
+ {
+  "ref": "369:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This is a core mechanism of the Article 44 privatization program that listed large state-owned firms on the Tehran Stock Exchange, a major and well-documented channel into market capitalization and trading volume."
+ },
+ {
+  "ref": "369:1",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "As part of the Article 44 privatization program's implementing machinery, this amendment shares in that reform's broad economic reach, though as a narrower bylaw amendment its own marginal effect on GDP and investment is more partial."
+ },
+ {
+  "ref": "370:0",
+  "correlation": 5,
+  "expected_causation": 3,
+  "rationale_en": "This bylaw implements the energy-pattern reform whose explicit target is exactly what these charts measure, though as an implementing regulation its actual enforcement determines how large the effect really is, a real but partial channel."
+ },
+ {
+  "ref": "371:0",
+  "correlation": 3,
+  "expected_causation": 1,
+  "rationale_en": "This governs execution mechanics for public accounting, a procedural implementation detail rather than an instrument that changes actual government revenue or expenditure."
+ },
+ {
+  "ref": "372:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This circular only decides which existing exchange rate is used for customs valuation; it does not itself set or move the exchange rate."
+ },
+ {
+  "ref": "372:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Changing the customs valuation basis affects reported dutiable import values at the margin, a real but narrow effect on the aggregate merchandise import figures."
+ },
+ {
+  "ref": "373:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "A ruling on a single construction input's price-setting authority is far too narrow to be expected to move a general price index."
+ },
+ {
+  "ref": "374:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This concerns a narrow fee dispute for importers, a procedural correction rather than a change to trade volumes or tariff policy."
+ },
+ {
+  "ref": "375:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This ruling concerns income-tax treatment of book-recorded share values, not the actual trading volume or market capitalization these charts track."
+ },
+ {
+  "ref": "375:1",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Annulling this one circular removed a specific, narrow revenue channel, a real but marginal effect on the aggregate income and capital-gains tax revenue series."
+ },
+ {
+  "ref": "376:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "This concerns one working group's administrative minutes, a negligible and non-specific connection to a general price index."
+ },
+ {
+  "ref": "377:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Fee levels on branch openings are one marginal cost factor among many broader drivers of bank branch expansion strategy."
+ },
+ {
+  "ref": "378:0",
+  "correlation": 1,
+  "expected_causation": 1,
+  "rationale_en": "A duty ruling on one narrow product category is negligible against Iran's aggregate import figures."
+ },
+ {
+  "ref": "379:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Strengthening the institution that develops industrial parks is a real but indirect contributor to provincial industrial distribution, one factor among many shaping where industry locates."
+ },
+ {
+  "ref": "380:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A customs exemption on machinery imports is a cost-reduction incentive, one of many small forces shaping agricultural productivity rather than a dominant driver."
+ },
+ {
+  "ref": "381:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "This annual budget is a real fiscal instrument whose reach varies sharply by measure, from directly setting that year's Expense to being only a small force against overall GDP."
+ },
+ {
+  "ref": "382:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This act directly amends the annual budget law's totals, a major instrument that materially resets exactly what this chart plots for that year."
+ },
+ {
+  "ref": "382:1",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "As a budget and development-plan amendment, this is one force among several shaping GDP and investment in that year, a small piece of the overall economy."
+ },
+ {
+  "ref": "383:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This narrow amendment redirects certain earmarked revenues to specified uses, a small piece of aggregate tax and revenue totals rather than a structural change."
+ },
+ {
+  "ref": "384:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A cut to cargo-handling fees is a minor administrative cost reduction, not something expected to move aggregate merchandise import volumes."
+ },
+ {
+  "ref": "385:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "This directly amends the tax regime under which the state tobacco monopoly this chart tracks operated, a real though partial change limited to two articles."
+ },
+ {
+  "ref": "386:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "This annual budget is a real fiscal instrument whose reach varies sharply by measure, from directly setting that year's Expense to being only a small force against overall GDP."
+ },
+ {
+  "ref": "387:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A customs-duty exemption for exporters is a real incentive but one force among several, including exchange rates and global demand, shaping non-oil export growth."
+ },
+ {
+  "ref": "388:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "Amending one clause of an existing revenue-collection law is a real but small piece of aggregate government revenue, not a structural change."
+ },
+ {
+  "ref": "389:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "This amends the official FX-allocation ceiling under the development-plan budget, a real but partial channel amid Iran's broader multi-rate exchange system dynamics."
+ },
+ {
+  "ref": "390:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This is the foundational law establishing Iran's universal-health-insurance framework, a major instrument directly targeted at exactly what these public and out-of-pocket health-financing measures track."
+ },
+ {
+  "ref": "391:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a narrow administrative implementing bylaw for one fee category, too small to be expected to move these broader revenue aggregates."
+ },
+ {
+  "ref": "392:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This is the core implementing regulation for the modern Tehran Stock Exchange's listing rules and trading infrastructure, a major instrument directly shaping these market-structure measures."
+ },
+ {
+  "ref": "393:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A subsidized-credit scheme for select energy-efficiency projects is one of several forces shaping the economy-wide energy-intensity trend, not the dominant driver."
+ },
+ {
+  "ref": "394:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "This is the direct legal mechanism by which large state-owned enterprises were transferred, largely through listing on the Tehran Stock Exchange, a major channel into these market-structure measures."
+ },
+ {
+  "ref": "394:1",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "As part of the Article 44 privatization program, this bylaw is a real force among several, including sanctions and oil prices, shaping GDP and investment in this period."
+ },
+ {
+  "ref": "396:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a routine amendment to trade-licensing administrative machinery, procedural rather than a substantive change to trade volumes."
+ },
+ {
+  "ref": "397:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This updates licensing and trade-classification detail rather than headline trade policy, a procedural correction rather than a substantive change to trade volumes."
+ },
+ {
+  "ref": "398:0",
+  "correlation": 5,
+  "expected_causation": 4,
+  "rationale_en": "Mehr was the state's flagship mass-housing program of the 2010s, building millions of subsidized units, a major instrument reshaping national housing tenure structure."
+ },
+ {
+  "ref": "398:1",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Directed central-bank lending to fund Mehr housing is a well-documented but partial contributor to monetary base growth, one of a few large drivers in this period."
+ },
+ {
+  "ref": "398:2",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This is cited as one contributing driver of the 2012-2013 inflation spike, but sanctions and the rial's collapse were the dominant forces that year."
+ },
+ {
+  "ref": "399:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "A narrow update to livestock sanitary-control rules is a quarantine and certification detail, not something expected to move aggregate meat trade volumes."
+ },
+ {
+  "ref": "400:0",
+  "correlation": 2,
+  "expected_causation": 1,
+  "rationale_en": "This is a routine administrative customs-clearance notice for one company, procedural and too narrow to be expected to move national vehicle production."
+ },
+ {
+  "ref": "401:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "These are two major named dam projects that directly expanded irrigated farmland and hydroelectric capacity, a real though partial contribution among many such projects over the decades."
+ },
+ {
+  "ref": "402:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "A mid-year supplementary budget makes a real but small addition to one year's spending within a multi-decade Expense series."
+ },
+ {
+  "ref": "403:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "This act created the company that built and still operates the mine and smelter responsible for nearly all of Iran's copper output, effectively defining the series."
+ },
+ {
+  "ref": "404:0",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "The installment-sale mechanism is a real channel for selling state shares to the public via the stock exchange, one of several privatization vehicles feeding these market measures."
+ },
+ {
+  "ref": "405:0",
+  "correlation": 4,
+  "expected_causation": 2,
+  "rationale_en": "This bylaw regulates permitted forest exploitation, but Iran's long-run forest-area trend is driven mainly by broader land-use and enforcement dynamics, making its own effect marginal."
+ },
+ {
+  "ref": "406:0",
+  "correlation": 3,
+  "expected_causation": 2,
+  "rationale_en": "This premium-rate-setting regulation is a real but routine regulatory lever within the insurance sector, one of many such rules rather than a scale-changing reform."
+ },
+ {
+  "ref": "409:0",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "This bylaw converted Iran's implicit energy and bread subsidies into explicit cash transfers, directly redefining what the recorded subsidies-and-transfers series captures."
+ },
+ {
+  "ref": "409:1",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "The subsidy reform abruptly reset administered energy, fuel and bread prices nationwide, a well-documented direct trigger of Iran's 2010-2012 inflation acceleration."
+ },
+ {
+  "ref": "409:2",
+  "correlation": 5,
+  "expected_causation": 5,
+  "rationale_en": "The bylaw created the near-universal monthly cash-transfer program that is the direct source of Iran's exceptionally high social-safety-net coverage figures."
+ },
+ {
+  "ref": "409:3",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "As one of the largest national-scale fiscal and price reforms in this period, the subsidy program is a real but partial force on GDP growth alongside sanctions and oil-price swings."
+ },
+ {
+  "ref": "409:4",
+  "correlation": 4,
+  "expected_causation": 3,
+  "rationale_en": "Cutting energy subsidies to curb waste was an explicit stated goal of the reform, a real but partial channel given documented gradual follow-through on energy-intensity reduction in practice."
+ }
+]

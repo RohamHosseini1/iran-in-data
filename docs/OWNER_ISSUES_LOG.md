@@ -111,6 +111,25 @@ Status key: **DONE** · **PARTIAL** · **OPEN** · **REVERTED** (owner later cha
 | 48 | **Persian law titles were mangled.** The title was taken from the FILENAME, and the scraper had elided filenames to fit the 255-BYTE filesystem limit (Persian is 2 bytes/char), so 359 of 1,111 significant laws carried `head ... tail` with the middle missing. Recovered 165 by joining on the scraper's own ndjson dumps, verified head+tail so nothing is guessed. | PARTIAL |
 | 49 | **194 law titles remain elided and CANNOT be recovered here.** The source (qavanin.ir) geoblocks non-Iranian IPs (403 via ArvanCloud), and those laws have no whole-law record in the local ndjson dumps. Needs a fetch from an Iranian IP. **Nothing was invented to paper over this.** | OPEN (blocked on network access) |
 | 50 | **The same event appeared twice on one chart** ("US withdraws from the JCPOA" and "US withdraws from JCPOA", one from each timeline). | DONE (deduped on a loose title key; Iran's telling wins) |
+## Round 11 — the vocabulary was the bug
+
+| # | Issue | Status |
+|---|---|---|
+| 51 | **Laws with attribution 1-2 were being drawn.** Owner asked why. | DONE (they no longer are; see #52) |
+| 52 | **"If GDP drops to 1 marker out of ~6000 laws, your measure and scale and understanding of those laws is wrong."** Correct. The scale, not the gate, was broken: the 1951 Oil Nationalization scored 2 against GDP, the 1979 Bank Nationalization 2, the Interest-Free Banking Act 1, while a routine 1996 budget law scored 4 and was the highest-scored law on the chart. | DONE |
+| 53 | **Rename the fields.** `relevance` -> **correlation**, `attribution` -> **expected causation**. This was the fix, not cosmetics: "attribution" asks *can we PROVE this moved the line*, whose honest answer is almost always no, so every scorer retreated to 1-2 and the scale stopped carrying information. "Expected causation" asks *would we EXPECT this to have moved this measure*, which is answerable, and Oil Nationalization x GDP answers it with a 5. | DONE |
+| 54 | Re-score every law link under the new frame, with a written rubric and worked anchors so scorers calibrate identically. | DONE (1,293/1,293 re-scored) |
+
+Result: expected_causation 4-or-5 links went from 56 to 172 at source, 895 links now score 5.
+GDP goes from **1** drawn law marker to **42**, led by Oil Nationalization (5/5), Bank
+Nationalization (5/4), the Fourth and Fifth Development Plans, the Direct Taxation Act,
+Article 44 and the Targeted Subsidies bylaws. Across the site: 4,779 markers on 760
+charts, median 5 per chart. The gate is now `correlation > 2 AND expected_causation >= 3`.
+
+The rubric is at `docs/ANNOTATION_SCORING_RUBRIC.md` and is the reference for any future
+scoring pass. Its central rule: **the same law scores differently against different
+measures.** An annual budget law is a 2 against GDP and a 5 against Government
+Expenditure. Oil Nationalization is a 5 against GDP and a 1 against wheat production.
 
 ---
 
@@ -126,4 +145,6 @@ Status key: **DONE** · **PARTIAL** · **OPEN** · **REVERTED** (owner later cha
 8. Comparators get **economic data only** — never the laws/policy layer.
 9. When one defect is reported, **fix the class, not the instance** (#37).
 10. **Iran-first annotations**: only Iran's own events and genuine global shocks annotate charts. A comparator's purely domestic event never does (#38).
-11. **Markers are quality-gated, not count-capped**: draw an annotation only if relevance is top (5) or it is genuinely attributable (attribution >= 3), never below relevance 2. Everything else is still listed in full below the chart (#39, #40).
+11. **Markers are quality-gated, not count-capped**: everything below the gate is still listed in full below the chart, so nothing is hidden, only un-drawn (#39, #40).
+12. The two scores are **correlation** (does this belong to this measure's story?) and **expected causation** (would we EXPECT it to have moved this line?). Never ask "can we prove it moved the line" -- that question has no honest answer here and it collapses the scale (#53).
+13. **A score is always relative to the SPECIFIC measure.** The same law is a 2 against GDP and a 5 against Government Expenditure. Scoring a law in the abstract is what breaks the scale (#54).

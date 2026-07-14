@@ -1,0 +1,1407 @@
+[
+ {
+  "ref": "579:1",
+  "law_year": "1973",
+  "law_title_en": "National Budget Act for 1352 (1973/74)",
+  "law_title_fa": "بودجه سال 1352 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "GDP per capita",
+   "General government final consumption expenditure (annual % growth)",
+   "General government final consumption expenditure (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Annual budget laws are the principal instrument through which the state injects or withdraws demand into the economy each year; the FY1352 (1973) law is one link in the chain of such laws that, over time, is a first-order determinant of Iran's growth path and of general government consumption expenditure. This is the pre-amendment FY1352 budget, enacted just before the October 1973 oil-price shock",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "580:0",
+  "law_year": "2025",
+  "law_title_en": "National Budget Act for Year 1404 (Part One): Ceiling of General Government Resources and Resource/Expenditure Assumptions",
+  "law_title_fa": "قانون بودجه سال 1404 كل كشور (بخش اول)",
+  "targets_named_charts": [
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "Iran's annual budget law is the primary fiscal instrument fixing government spending, revenue and borrowing for the year; the Government Finance category and the Annual Budget Law Totals series exist specifically to track the outcomes of instruments like this one.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "580:1",
+  "law_year": "2025",
+  "law_title_en": "National Budget Act for Year 1404 (Part One): Ceiling of General Government Resources and Resource/Expenditure Assumptions",
+  "law_title_fa": "قانون بودجه سال 1404 كل كشور (بخش اول)",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "Inflation, consumer prices (annual %)",
+   "Gross capital formation (annual % growth)",
+   "General government final consumption expenditure (% of GDP)",
+   "Exports of goods and services (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As Iran's current annual fiscal-policy instrument, the FY1404 budget shapes government consumption, public investment, the size of the fiscal deficit (often financed by money creation) and trade flows tied to state enterprises, so it feeds into GDP, inflation, investment and trade; any serious account of Iran's 2025 macro trajectory must reference it.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "580:2",
+  "law_year": "2025",
+  "law_title_en": "National Budget Act for Year 1404 (Part One): Ceiling of General Government Resources and Resource/Expenditure Assumptions",
+  "law_title_fa": "قانون بودجه سال 1404 كل كشور (بخش اول)",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Iranian budget laws typically set or reference an official exchange rate for government transactions and oil-revenue conversion, one of the administrative anchors behind the gap between the official and parallel-market dollar rates.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "581:0",
+  "law_year": "2017",
+  "law_title_en": "b) Annulment of Tax Affairs Organization Circular No. 200/95/25 Dated 1395/4/22, as Subsequently Amended",
+  "law_title_fa": "ب) ابطال بخشنامه شماره ۲۰۰ / ۹۵ / ۲۵ ۱۳۹۵ / ۴ / ۲۲ سازمان امور مالیاتی کشور با اصلاحات و الحاقات بعدی",
+  "targets_named_charts": [
+   "Taxes on exports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The annulled circulars had imposed taxes and duties on non-oil exports in violation of the statutory export tax exemption (Article 141 of the Direct Taxes Act) and the Export-Import Regulations Act; the ruling directly restored the tax-exempt treatment of export earnings, the exact measure this series tracks.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "581:1",
+  "law_year": "2017",
+  "law_title_en": "b) Annulment of Tax Affairs Organization Circular No. 200/95/25 Dated 1395/4/22, as Subsequently Amended",
+  "law_title_fa": "ب) ابطال بخشنامه شماره ۲۰۰ / ۹۵ / ۲۵ ۱۳۹۵ / ۴ / ۲۲ سازمان امور مالیاتی کشور با اصلاحات و الحاقات بعدی",
+  "targets_named_charts": [
+   "Taxes on international trade",
+   "Merchandise exports"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Removing an unlawful export levy also touches the broader international-trade-tax base and, at the margin, the cost competitiveness of merchandise exports.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "583:0",
+  "law_year": "1979",
+  "law_title_en": "Budget Bill for the Year 1358 (1979/80)",
+  "law_title_fa": "لايحه بودجه سال 1358",
+  "targets_named_charts": [
+   "Mid-Year Supplementary Budget Additions (FY1357, 1358, 1369)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1358 (1979/80) budget bill falls within the exact window (FY1357, 1358, 1369) captured by the Mid-Year Supplementary Budget Additions series, the only chart in the index tracking budget legislation of this specific post-revolutionary period.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "583:1",
+  "law_year": "1979",
+  "law_title_en": "Budget Bill for the Year 1358 (1979/80)",
+  "law_title_fa": "لايحه بودجه سال 1358",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "As a national annual budget instrument passed amid the 1979 revolutionary transition, this bill set government spending and revenue priorities during a period of major institutional upheaval in Iran's public finances.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "584:0",
+  "law_year": "1989",
+  "law_title_en": "Guaranteed Purchase of Essential Agricultural Products Act",
+  "law_title_fa": "قانون تضمين خريد محصولات اساسي كشاورزي",
+  "targets_named_charts": [
+   "Government-Guaranteed Wheat Procurement Price, Common & Durum (2013-2026)",
+   "Wheat, Producer Price"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This law establishes the state's guaranteed-purchase-price mechanism for basic agricultural products; wheat is its flagship crop, and the government's announced procurement price is the direct policy input behind the guaranteed wheat price series and a major floor for market wheat prices.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "584:1",
+  "law_year": "1989",
+  "law_title_en": "Guaranteed Purchase of Essential Agricultural Products Act",
+  "law_title_fa": "قانون تضمين خريد محصولات اساسي كشاورزي",
+  "targets_named_charts": [
+   "Barley, Producer Price",
+   "Rice, Producer Price"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Barley and rice are among the other basic crops that have at times fallen under guaranteed-purchase-price coverage, giving this law an indirect but real channel to their price series.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "584:2",
+  "law_year": "1989",
+  "law_title_en": "Guaranteed Purchase of Essential Agricultural Products Act",
+  "law_title_fa": "قانون تضمين خريد محصولات اساسي كشاورزي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture Prices"
+  ],
+  "current_justification_en": "The framework law's stated scope covers 'basic agricultural products' broadly, giving it a diffuse relevance across the wider agricultural price domain beyond the specific crops directly covered in practice.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "585:0",
+  "law_year": "1993",
+  "law_title_en": "Act on the Administration of the Free Trade-Industrial Zones of the Islamic Republic of Iran",
+  "law_title_fa": "قانون چگونگي اداره مناطق آزاد تجاري - صنعتي جمهوري اسلامي ايران",
+  "targets_named_charts": [
+   "Foreign direct investment, net inflows",
+   "Foreign Investment Value by Province",
+   "New business density (new registrations per 1,000 people ages 15-64)",
+   "New businesses registered"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This law created Iran's free trade-industrial zones (Kish, Qeshm, Chabahar etc.) with tax holidays, simplified customs and looser foreign-ownership rules specifically to attract foreign investment and new business formation, the exact channels these series track.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "585:1",
+  "law_year": "1993",
+  "law_title_en": "Act on the Administration of the Free Trade-Industrial Zones of the Islamic Republic of Iran",
+  "law_title_fa": "قانون چگونگي اداره مناطق آزاد تجاري - صنعتي جمهوري اسلامي ايران",
+  "targets_named_charts": [
+   "Exports of goods and services (annual % growth)",
+   "IMIDRO Subsidiary Exports by Product Group"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Free zones function as export-processing platforms, so the law also has a real, named channel to national and sector export volumes.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "586:0",
+  "law_year": "1943",
+  "law_title_en": "General Budget Act for the Year 1322 (1943/44)",
+  "law_title_fa": "قانون بودجه كل سال 1322 كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "A historic annual national budget law from the World War II occupation period; included for domain coverage of Iran's government-finance legislative history, though it predates by decades any chart series currently in the index.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "587:0",
+  "law_year": "2005",
+  "law_title_en": "National Budget Act for 1384",
+  "law_title_fa": "قانون بودجه سال 1384 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The FY1384 annual budget law set government spending and revenue for a year of high oil revenues under the early Ahmadinejad administration, directly shaping the government-finance aggregates this category tracks.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "588:0",
+  "law_year": "2006",
+  "law_title_en": "Executive Bylaw on Organizing Tea Production, Processing and Trade",
+  "law_title_fa": "آيين نامه اجرايي ساماندهي توليد،فرآوري وبازرگاني چاي",
+  "targets_named_charts": [
+   "Tea leaves, Producer Price",
+   "Tea leaves, Production",
+   "Tea (including mate), Imports and Exports",
+   "Tea (including mate), Food Consumption"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This executive bylaw organizes tea cultivation, processing and marketing under state coordination (production quotas, purchase arrangements with domestic factories, import controls), a direct sectoral instrument shaping tea output, pricing and trade.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "590:0",
+  "law_year": "1955",
+  "law_title_en": "Export and Production Promotion Act",
+  "law_title_fa": "قانون تشويق صادرات و توليد",
+  "targets_named_charts": [
+   "Exports of goods and services (annual % growth)",
+   "Merchandise exports"
+  ],
+  "targets_categories": [
+   "Trade (Exports)"
+  ],
+  "current_justification_en": "This early Pahlavi-era law established Iran's first systematic export and production incentive framework (subsidies, tax relief and customs facilitation for exporters), a foundational instrument for the country's non-oil export trajectory tracked in these series.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "590:1",
+  "law_year": "1955",
+  "law_title_en": "Export and Production Promotion Act",
+  "law_title_fa": "قانون تشويق صادرات و توليد",
+  "targets_named_charts": [
+   "Industry (including construction), value added (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The law's production-promotion side (protecting and subsidizing domestic manufacturers) also bears on industrial value added.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "591:0",
+  "law_year": "2007",
+  "law_title_en": "Act on the ECO Trade Agreement (ECOTA)",
+  "law_title_fa": "قانون موافقتنامه تجاري اكو   اكوتا",
+  "targets_named_charts": [
+   "Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)",
+   "Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This law ratifies Iran's accession to the ECO Trade Agreement (ECOTA), a regional preferential-tariff arrangement with fellow Middle East/Central Asia members, a real named channel affecting Iran's merchandise trade with the Middle East & North Africa region.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "592:0",
+  "law_year": "1987",
+  "law_title_en": "Export and Import Regulations Act (1987)",
+  "law_title_fa": "قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Merchandise exports",
+   "Merchandise imports"
+  ],
+  "targets_categories": [
+   "Trade (Exports)",
+   "Trade (Imports)"
+  ],
+  "current_justification_en": "This is Iran's core statutory framework governing all export and import regulation (licensing, prohibited/permitted goods lists, customs procedures); it is the direct legal instrument underlying the country's entire merchandise trade series.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "593:0",
+  "law_year": "1935",
+  "law_title_en": "Supplementary National Budget Act for the Year 1314 (1935/36)",
+  "law_title_fa": "قانون متمم بودجه سال 1314 مملكتي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "A historic supplementary budget act from the early Reza Shah modernization period; included for legislative-history completeness in the government-finance domain, though it predates all chart series in the index.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "594:0",
+  "law_year": "1960",
+  "law_title_en": "General Budget Act for the Year 1339 (1960/61)",
+  "law_title_fa": "قانون بودجه سال 1339 كل كشور",
+  "targets_named_charts": [
+   "Oil Revenue by Allocation (Budget/NIOC/Plan Org/B.P.C.), 1955/56-1962/63"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The FY1339 (1960/61) annual budget falls within the exact window (1955/56-1962/63) of this chart, which tracks how oil revenue was allocated between the budget, NIOC, the Plan Organization and BPC, one of the clearest real channels linking oil income to that year's national budget.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "594:1",
+  "law_year": "1960",
+  "law_title_en": "General Budget Act for the Year 1339 (1960/61)",
+  "law_title_fa": "قانون بودجه سال 1339 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "As the national annual budget for FY1339, this law set overall government spending and revenue priorities during the Second Development Plan period.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "595:0",
+  "law_year": "1986",
+  "law_title_en": "Export and Import Regulations Act of 1986 (1365)",
+  "law_title_fa": "قانون مقررات صادرات و واردات سال 1365",
+  "targets_named_charts": [
+   "Merchandise exports",
+   "Merchandise imports"
+  ],
+  "targets_categories": [
+   "Trade (Exports)",
+   "Trade (Imports)"
+  ],
+  "current_justification_en": "The 1365 (1986) Export-Import Regulations Act, enacted during the Iran-Iraq war economy, was the core statutory framework governing licensing, permitted/prohibited goods and customs procedure for all trade, amended a year later by the 1366 version; it is the direct legal basis underlying the country's merchandise trade series in this period.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "596:0",
+  "law_year": "2000",
+  "law_title_en": "National Budget Act for the Year 1379",
+  "law_title_fa": "قانون بودجه سال 1379 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The FY1379 annual budget law set government spending and revenue for a year of post-war reconstruction-era fiscal policy under the Khatami administration, directly shaping the government-finance aggregates this category tracks.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "597:0",
+  "law_year": "1985",
+  "law_title_en": "Foreign Exchange Budget Act for 1985-86 (1364)",
+  "law_title_fa": "قانون بودجه ارزي سال 1364 كل كشور",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This is a dedicated foreign-exchange budget law from the Iran-Iraq war economy, allocating scarce hard currency across multiple official exchange rates for different categories of imports; it is a direct instrument shaping the gap between official and parallel-market dollar rates in this period.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "597:1",
+  "law_year": "1985",
+  "law_title_en": "Foreign Exchange Budget Act for 1985-86 (1364)",
+  "law_title_fa": "قانون بودجه ارزي سال 1364 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "As a specialized annual budget instrument, this law is also part of Iran's government-finance legislative record for FY1364.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "598:0",
+  "law_year": "2017",
+  "law_title_en": "Permanent Provisions of the Development Plans Act",
+  "law_title_fa": "قانون احكام دائمي برنامه هاي توسعه كشور",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "Inflation, consumer prices (annual %)",
+   "Gross capital formation (annual % growth)",
+   "General government final consumption expenditure (% of GDP)",
+   "Exports of goods and services (annual % growth)"
+  ],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This law converts many recurring provisions from Iran's successive five-year development plans into permanent statute (covering budgeting discipline, privatization targets, tax and subsidy rules, and investment incentives), making it a national-scale, standing framework that any serious account of Iran's growth, inflation, investment, government spending and trade trajectory since 2017 must mentio",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "599:0",
+  "law_year": "2016",
+  "law_title_en": "Executive Bylaw of Article 14 of the Housing Production and Supply Organization and Support Act",
+  "law_title_fa": "آيين نامه اجرايي ماده  14  قانون ساماندهي و حمايت از توليد و عرضه مسكن",
+  "targets_named_charts": [
+   "Housing Units by Number of Resident Households, Census Years (1966-2006)",
+   "Housing Tenure Type, National (2006-2016)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This bylaw implements Article 14 of the Housing Production & Supply Organization Law, establishing mortgage bonds and real-estate investment funds to finance housing construction; it sits in the same broad housing-supply domain as these charts, the only housing-stock series in the index.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "604:0",
+  "law_year": "1989",
+  "law_title_en": "National Budget Act for 1989-90 (1368)",
+  "law_title_fa": "قانون  بودجه  سال  1368 كل  كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The FY1368 (1989/90) state budget law is the enacted legal instrument fixing that year's government revenue and expenditure ceilings, the first full budget of the post-war reconstruction period as Iran wound down the war economy and prepared the First Five-Year Development Plan.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "604:1",
+  "law_year": "1989",
+  "law_title_en": "National Budget Act for 1989-90 (1368)",
+  "law_title_fa": "قانون  بودجه  سال  1368 كل  كشور",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As a national-scale fiscal instrument, the annual budget law shapes aggregate government demand and public investment and so belongs in any serious account of Iran's GDP path for that year, alongside the far larger influence of oil export revenue.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "605:0",
+  "law_year": "1971",
+  "law_title_en": "Act on the Establishment of the South Iran Fisheries Joint-Stock Company",
+  "law_title_fa": "قانون تاسيس شركت سهامي شيلات جنوب ايران",
+  "targets_named_charts": [
+   "Official Caviar Production & Export (2013-2024)",
+   "Sturgeon Aquaculture Production, Whole-Fish Live Weight (2010-2018)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1971 law establishes the Southern Iran Fisheries Joint-Stock Company, the state predecessor institution to Shilat (the Iranian Fisheries Organization) whose caviar and sturgeon-aquaculture output the caviar production chart directly tracks decades later.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "605:1",
+  "law_year": "1971",
+  "law_title_en": "Act on the Establishment of the South Iran Fisheries Joint-Stock Company",
+  "law_title_fa": "قانون تاسيس شركت سهامي شيلات جنوب ايران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Fisheries & Aquaculture"
+  ],
+  "current_justification_en": "As the founding statute of a state fisheries enterprise for southern Iran (Persian Gulf and Sea of Oman waters), the law is background institutional context for Iran's fisheries and aquaculture sector broadly.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "606:0",
+  "law_year": "1968",
+  "law_title_en": "Act Amending Certain Provisions of, and Adding Articles to, the Act Establishing the Agricultural Development Fund of Iran",
+  "law_title_fa": "قانون اصلاح پاره اي از مواد و الحاق مواد جديد بقانون تاسيس صندوق توسعه كشاورزي ايران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture Production"
+  ],
+  "current_justification_en": "This 1968 law amends the founding statute of Iran's Agricultural Development Fund, the state credit vehicle for financing farm machinery, irrigation and inputs during the White Revolution land-reform era, a real channel into subsequent crop and livestock output.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "606:1",
+  "law_year": "1968",
+  "law_title_en": "Act Amending Certain Provisions of, and Adding Articles to, the Act Establishing the Agricultural Development Fund of Iran",
+  "law_title_fa": "قانون اصلاح پاره اي از مواد و الحاق مواد جديد بقانون تاسيس صندوق توسعه كشاورزي ايران",
+  "targets_named_charts": [
+   "Domestic credit to private sector by banks (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As a state agricultural-credit institution, the Fund is tangential background to Iran's broader domestic-credit-to-private-sector series.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "607:0",
+  "law_year": "1979",
+  "law_title_en": "Act on the Protection and Development of Iranian Industries",
+  "law_title_fa": "قانون حفاظت و توسعه صنايع ايران",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 1979 law was the legal vehicle for the revolutionary state's takeover of large private industrial firms (owners deemed to have fled or been complicit with the old regime), a headline post-revolution industrial-policy shock that any serious account of Iran's GDP path through the early 1980s must mention.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "607:1",
+  "law_year": "1979",
+  "law_title_en": "Act on the Protection and Development of Iranian Industries",
+  "law_title_fa": "قانون حفاظت و توسعه صنايع ايران",
+  "targets_named_charts": [
+   "Industry (including construction), value added (% of GDP)",
+   "Industry (including construction), value added (annual % growth)",
+   "Manufacturing, value added (% of GDP)",
+   "Manufacturing, value added (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The law directly targeted the ownership and management of Iran's largest industrial and manufacturing firms, placing them under state or revolutionary-foundation control; this is the direct legal channel behind the structural shift in industry and manufacturing value added that followed the revolution.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "607:2",
+  "law_year": "1979",
+  "law_title_en": "Act on the Protection and Development of Iranian Industries",
+  "law_title_fa": "قانون حفاظت و توسعه صنايع ايران",
+  "targets_named_charts": [
+   "Gross fixed capital formation (% of GDP)",
+   "Gross fixed capital formation (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "By transferring major industrial assets to state and foundation control, the law reshaped the investment climate and the composition of subsequent fixed capital formation in Iran.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "608:0",
+  "law_year": "1973",
+  "law_title_en": "Export Guarantee Fund of Iran Act",
+  "law_title_fa": "قانون  صندوق  ضمانت  صادرات  ايران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Exports)"
+  ],
+  "current_justification_en": "This 1973 law establishes the Export Guarantee Fund of Iran, a state export-credit-insurance vehicle created to de-risk non-oil exporters against commercial and political payment risk, a real named channel toward non-oil export performance.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "608:1",
+  "law_year": "1973",
+  "law_title_en": "Export Guarantee Fund of Iran Act",
+  "law_title_fa": "قانون  صندوق  ضمانت  صادرات  ايران",
+  "targets_named_charts": [
+   "Exports of goods and services (% of GDP)",
+   "Exports of goods and services (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As an export-credit institution, the fund is background context for Iran's overall exports-of-goods-and-services series.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "609:0",
+  "law_year": "1993",
+  "law_title_en": "National Budget Act for 1372",
+  "law_title_fa": "قانون بودجه سال 1372 كل كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The FY1372 (1993/94) state budget law is a direct enacted data point underlying this chart of annual budget law totals, which covers exactly this year's span (1992-2022).",
+  "old_correlation": 5,
+  "old_expected_causation": 5
+ },
+ {
+  "ref": "609:1",
+  "law_year": "1993",
+  "law_title_en": "National Budget Act for 1372",
+  "law_title_fa": "قانون بودجه سال 1372 كل كشور",
+  "targets_named_charts": [
+   "U.S. Dollar Exchange Rate"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The 1372 budget law was passed alongside the government's March 1993 unification of the official exchange rate (a single rate replacing the multi-tier system), a policy that briefly narrowed and then, after the rate proved unsustainable later that year, widened again the official-versus-parallel exchange-rate gap this chart tracks.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "609:2",
+  "law_year": "1993",
+  "law_title_en": "National Budget Act for 1372",
+  "law_title_fa": "قانون بودجه سال 1372 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the annual fiscal instrument during the First Five-Year Development Plan's reconstruction push, this budget law bears on Iran's GDP trajectory in 1372, alongside oil prices and the unfolding external-debt/FX crisis as larger drivers.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "610:0",
+  "law_year": "1983",
+  "law_title_en": "National Budget Act for 1362",
+  "law_title_fa": "قانون بودجه سال 1362 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The FY1362 (1983/84) state budget law is the enacted instrument fixing that year's revenue and expenditure ceilings at the height of the Iran-Iraq war, when war spending, multiple exchange rates and oil-revenue volatility dominated fiscal policy.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "610:1",
+  "law_year": "1983",
+  "law_title_en": "National Budget Act for 1362",
+  "law_title_fa": "قانون بودجه سال 1362 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the national fiscal act of a war-economy year, this budget law bears on both GDP and inflation in 1362, since deficit financing through central-bank borrowing was a recognized channel of Iran's chronic wartime inflation.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "611:0",
+  "law_year": "1981",
+  "law_title_en": "Act Amending Certain Provisions of the Budget Act for 1359",
+  "law_title_fa": "قانون اصلاح بعضي از مقررات قانون بودجه سال 1359",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This law amends provisions of the FY1359 (1980/81) state budget, Iran's first full budget year of the Iran-Iraq war (which began September 1980) and a year of nationalization-driven restructuring of public finances after the revolution.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "611:1",
+  "law_year": "1981",
+  "law_title_en": "Act Amending Certain Provisions of the Budget Act for 1359",
+  "law_title_fa": "قانون اصلاح بعضي از مقررات قانون بودجه سال 1359",
+  "targets_named_charts": [
+   "GDP"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As part of the fiscal-policy apparatus of the revolution's first war year, this amendment belongs in the broader story of Iran's 1359-era GDP collapse, alongside the far larger effects of war onset, capital flight and the freezing of Iranian assets abroad.",
+  "old_correlation": 4,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "612:0",
+  "law_year": "1984",
+  "law_title_en": "National Budget Act for 1363",
+  "law_title_fa": "قانون بودجه سال 1363 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The FY1363 (1984/85) state budget law is the enacted instrument fixing government revenue and expenditure for a year in which the Iran-Iraq war's 'Tanker War' phase disrupted oil-export revenue and drove heavy defense outlays.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "612:1",
+  "law_year": "1984",
+  "law_title_en": "National Budget Act for 1363",
+  "law_title_fa": "قانون بودجه سال 1363 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the national fiscal act of a Tanker-War-era year, the budget law bears on both GDP and inflation in 1363, though war disruption to oil exports is the larger driver of both series.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "613:0",
+  "law_year": "1988",
+  "law_title_en": "National Budget Act for 1367",
+  "law_title_fa": "قانون بودجه سال 1367 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "The FY1367 (1988/89) state budget law is the enacted instrument for the final and most intense year of the Iran-Iraq war (the 'War of the Cities' missile exchanges and the July 1988 ceasefire), a year of peak war financing.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "613:1",
+  "law_year": "1988",
+  "law_title_en": "National Budget Act for 1367",
+  "law_title_fa": "قانون بودجه سال 1367 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the fiscal act of the war's final and costliest year, the budget law belongs alongside war destruction and oil-revenue swings in any account of 1367's GDP and inflation outcomes.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "614:0",
+  "law_year": "1973",
+  "law_title_en": "Planning and Budget Act",
+  "law_title_fa": "قانون برنامه و بودجه كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance",
+   "Macro / National Accounts"
+  ],
+  "current_justification_en": "This 1973 law establishes the Plan and Budget Organization (later the Management and Planning Organization), the institutional foundation of Iran's national development-planning and annual-budgeting apparatus from the Fifth Pahlavi plan through the Islamic Republic's Five-Year Development Plans. Any serious account of Iran's government-finance and GDP data over the following half-century should me",
+  "old_correlation": 5,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "614:1",
+  "law_year": "1973",
+  "law_title_en": "Planning and Budget Act",
+  "law_title_fa": "قانون برنامه و بودجه كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals",
+   "Total Country Budget: Resources & Uses Breakdown (SH1385-1400)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The organization this law created is the direct institutional author of Iran's annual budget bills and the source administrative apparatus behind both of these budget-totals charts.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "614:2",
+  "law_year": "1973",
+  "law_title_en": "Planning and Budget Act",
+  "law_title_fa": "قانون برنامه و بودجه كشور",
+  "targets_named_charts": [
+   "Gross fixed capital formation (% of GDP)",
+   "Gross fixed capital formation (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the body responsible for drafting and coordinating Iran's development plans, the organization created by this law has shaped the scale and sectoral allocation of public fixed investment for decades.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "615:0",
+  "law_year": "1986",
+  "law_title_en": "National Budget Bill for the Year 1365",
+  "law_title_fa": "لايحه بودجه سال 1365 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This is the FY1365 (1986/87) state budget bill, submitted in the year global oil prices collapsed (from roughly $27 to $13 a barrel), a shock that gutted Iran's oil-dependent revenue base just as the 'War of the Cities' missile exchanges intensified war spending.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "615:1",
+  "law_year": "1986",
+  "law_title_en": "National Budget Bill for the Year 1365",
+  "law_title_fa": "لايحه بودجه سال 1365 كل كشور",
+  "targets_named_charts": [
+   "GDP",
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The 1365 budget, drafted amid the 1986 oil-price collapse and peak war spending, belongs alongside those two much larger shocks in explaining that year's GDP contraction and inflation surge.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "616:0",
+  "law_year": "2016",
+  "law_title_en": "Amendment to the Directive and Implementing Procedure of the Bylaw on the Collection of Duties in Free Trade-Industrial Zones",
+  "law_title_fa": "اصلاح دستورالعمل و روش اجرايي آيين نامه اخذ عوارض در مناطق آزاد تجاري - صنعتي",
+  "targets_named_charts": [
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2016 cabinet bylaw amends the procedural fee schedule (annual duties on covered/uncovered activity space, aviation, telecoms, oil and gas, foreign nationals, banking, passports, municipal services) charged within Iran's free trade-industrial zones, a narrow administrative adjustment tangential to national customs-and-import-duty revenue.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "617:0",
+  "law_year": "2000",
+  "law_title_en": "Increase in Revenue Items as Set Out in the Table, under Article 79 of the Third Development Plan Act",
+  "law_title_fa": "افزايش  عناوين  درآمدهاي  به  شرح  جدول  ...  ماده  79 قانون  برنامه  سوم  توسعه كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "This year-2000 cabinet decree, issued under Article 79 of the Third Development Plan, adds new line items (telephone subscription fees, vessel-transfer tax, building rents, judiciary service revenue and others) to the list of provincial government revenues, a real if narrow addition to Iran's public revenue base.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "618:0",
+  "law_year": "2012",
+  "law_title_en": "Directive on Note 2 of Article 134 of the Fifth Five-Year Development Plan Act",
+  "law_title_fa": "دستورالعمل تبصره  2   ماده  134   قانون برنامه پنجم توسعه جمهوري اسلامي ايران",
+  "targets_named_charts": [
+   "Energy use (kg of oil equivalent per capita)",
+   "Energy intensity level of primary energy (MJ/$2021 PPP GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2012 cabinet directive implements Article 134, Note 2 of the Fifth Development Plan by defining and licensing Energy Service Companies (ESCOs) that design, execute and finance energy-efficiency projects, a real channel toward Iran's energy intensity and per-capita energy-use trends.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "619:0",
+  "law_year": "2018",
+  "law_title_en": "Executive Bylaw of the Note to Article 14 of the Clean Air Act",
+  "law_title_fa": "آيين نامه اجرايي تبصره ماده  14  قانون هواي پاك",
+  "targets_named_charts": [
+   "PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This 2018 implementing bylaw of a note to Article 14 of Iran's Clean Air Law sets fuel-quality and vehicle-emission standards intended to cut urban air pollution, a direct policy channel toward Iran's PM2.5 exposure trend.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "619:1",
+  "law_year": "2018",
+  "law_title_en": "Executive Bylaw of the Note to Article 14 of the Clean Air Act",
+  "law_title_fa": "آيين نامه اجرايي تبصره ماده  14  قانون هواي پاك",
+  "targets_named_charts": [
+   "Access to clean fuels and technologies for cooking (% of population)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As a fuel-standards bylaw under the Clean Air Law, this regulation is loosely connected background to Iran's broader clean-fuel-access trend.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "620:0",
+  "law_year": "1990",
+  "law_title_en": "Act on the Addition of a Note to Clause 1 of the Export and Import Regulations Act of the Year 1368 (1989/90)",
+  "law_title_fa": "الحاق  يك  تبصره  به  ذيل  بند يك  مندرج ... نون  مقررات  صادرات  و واردات  سال  1368",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Imports)",
+   "Trade (Exports)"
+  ],
+  "current_justification_en": "Adds a clause to the implementing bylaw of the Export/Import Regulations Law, part of the routine machinery that sets which goods may be traded and under what licensing conditions.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "621:0",
+  "law_year": "2002",
+  "law_title_en": "Ruling No. 358 of the General Board of the Administrative Court of Justice, on Article 38 of the Land Reform Bylaw, Approved 1343 (1964/65)",
+  "law_title_fa": "رأي شماره 358 هيئت عمومي ديوان عدالت ادا ...  38 آئين نامه اصلاحات ارضي - مصوب 1343 -",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "A 2002 Administrative Court ruling interpreting Article 38 of the 1343 (1964) Land Reform implementing bylaw, part of the legal apparatus that redistributed agricultural land ownership.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "621:1",
+  "law_year": "2002",
+  "law_title_en": "Ruling No. 358 of the General Board of the Administrative Court of Justice, on Article 38 of the Land Reform Bylaw, Approved 1343 (1964/65)",
+  "law_title_fa": "رأي شماره 358 هيئت عمومي ديوان عدالت ادا ...  38 آئين نامه اصلاحات ارضي - مصوب 1343 -",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The Land Reform program that this ruling's underlying bylaw belongs to was one of the Pahlavi state's central national modernization instruments, reshaping rural production and Iran's mid-century growth path; any serious account of Iran's GDP trajectory in this era must mention it.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "622:0",
+  "law_year": "1998",
+  "law_title_en": "Ruling No. 180 of the General Board of the Administrative Court of Justice Regarding Unemployment Insurance Entitlement for Workers Terminated Against Their Will",
+  "law_title_fa": "رأی شماره ۱۸۰ هیئت عمومی دیوان عدالت اداری درخصوص تعلق حق بیمه بیکاری به کارگران بازخرید شده برخلاف اراده خود",
+  "targets_named_charts": [
+   "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+   "Unemployment, total (% of total labor force) (national estimate)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "A 1998 Administrative Court ruling on unemployment-insurance entitlement for laid-off workers touches the social insurance system surrounding measured unemployment.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "622:1",
+  "law_year": "1998",
+  "law_title_en": "Ruling No. 180 of the General Board of the Administrative Court of Justice Regarding Unemployment Insurance Entitlement for Workers Terminated Against Their Will",
+  "law_title_fa": "رأی شماره ۱۸۰ هیئت عمومی دیوان عدالت اداری درخصوص تعلق حق بیمه بیکاری به کارگران بازخرید شده برخلاف اراده خود",
+  "targets_named_charts": [
+   "Social Security Organization Pensioners & Amounts Paid, by Category (1991-2006)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Directly concerns unemployment-insurance payout scope administered through the Social Security Organization, part of the system this chart of pensioners and amounts paid tracks.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "623:0",
+  "law_year": "1967",
+  "law_title_en": "Act on the Issuance of Agricultural Bank Bonds",
+  "law_title_fa": "قانون انتشار اوراق قرضه بانك كشاورزي",
+  "targets_named_charts": [
+   "Net incurrence of liabilities, total",
+   "Net incurrence of liabilities, total (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Authorizes the Agricultural Bank to issue bonds, a government-linked credit instrument that adds to public liabilities.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "623:1",
+  "law_year": "1967",
+  "law_title_en": "Act on the Issuance of Agricultural Bank Bonds",
+  "law_title_fa": "قانون انتشار اوراق قرضه بانك كشاورزي",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Agriculture & Rural Development"
+  ],
+  "current_justification_en": "Expands financing capacity of the Agricultural Bank, a channel for rural credit supply.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "624:0",
+  "law_year": "2001",
+  "law_title_en": "Executive Bylaw on the Issuance of One Thousand Five Hundred [Billion Rial Participation Bonds] under Note 40 of the General Budget Act for the Year 1380 (2001/02)",
+  "law_title_fa": "آيين نامه اجرايي انتشار يكهزار و پانصد  ...  تبصره  40  قانون بودجه سال 1380 كل كشور",
+  "targets_named_charts": [
+   "Government Debt to the Central Bank",
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Implementing bylaw for a 1,500 billion rial government bond issuance authorized under a clause of the FY1380 (2001) budget law, a direct financing mechanism for that year's public borrowing.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "625:0",
+  "law_year": "2010",
+  "law_title_en": "Executive Bylaw of Article 8 of the Targeted Subsidies Act",
+  "law_title_fa": "آيين نامه اجرايي ماده   8    قانون هدفمند كردن يارانه ها",
+  "targets_named_charts": [
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)",
+   "Wholesale price index (2010 = 100)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Implementing bylaw for Article 8 of the 2010 Targeted Subsidies Law, which governs the mechanics of disbursing cash transfers funded by the abrupt removal of energy and bread price subsidies; this reform is documented to have driven a sharp, dateable jump in Iranian inflation from late 2010.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "625:1",
+  "law_year": "2010",
+  "law_title_en": "Executive Bylaw of Article 8 of the Targeted Subsidies Act",
+  "law_title_fa": "آيين نامه اجرايي ماده   8    قانون هدفمند كردن يارانه ها",
+  "targets_named_charts": [
+   "Oil Product Domestic Consumption",
+   "Fossil fuel energy consumption (% of total)",
+   "Energy use (kg of oil equivalent per capita)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The subsidy-reform program this bylaw implements directly targeted domestic energy consumption by raising fuel prices toward international levels.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "625:2",
+  "law_year": "2010",
+  "law_title_en": "Executive Bylaw of Article 8 of the Targeted Subsidies Act",
+  "law_title_fa": "آيين نامه اجرايي ماده   8    قانون هدفمند كردن يارانه ها",
+  "targets_named_charts": [
+   "Households and NPISHs Final consumption expenditure (annual % growth)",
+   "Households and NPISHs final consumption expenditure (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Cash-transfer disbursement to households funded by subsidy removal directly altered household disposable income and consumption patterns.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "626:0",
+  "law_year": "2021",
+  "law_title_en": "Value Added Tax Act",
+  "law_title_fa": "قانون ماليات بر ارزش افزوده",
+  "targets_named_charts": [
+   "Tax revenue",
+   "Tax revenue (% of GDP)",
+   "Taxes on goods and services",
+   "Taxes on goods and services (% of revenue)",
+   "Taxes on goods and services (% value added of industry and services)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Iran's Value Added Tax Law is the explicit legal instrument creating and governing the VAT, a core component of taxes on goods and services and overall tax revenue.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "626:1",
+  "law_year": "2021",
+  "law_title_en": "Value Added Tax Act",
+  "law_title_fa": "قانون ماليات بر ارزش افزوده",
+  "targets_named_charts": [
+   "Consumer price index (2010 = 100)",
+   "Inflation, consumer prices (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Introduction and rate changes of a broad-based consumption tax have a documented one-off pass-through effect on consumer prices.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "627:0",
+  "law_year": "2025",
+  "law_title_en": "Customs Circular Communicating the Provisions of the 2025-26 (1404) National Budget Act",
+  "law_title_fa": "بخشنامه گمرك در خصوص ابلاغ احكام قانون بودجه سال 1404 كل كشور",
+  "targets_named_charts": [
+   "Customs and other import duties"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Customs circular formally communicating the customs-duty provisions of the FY1404 (2025) budget law to customs offices, a direct administrative channel for import-duty revenue collection.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "628:0",
+  "law_year": "2003",
+  "law_title_en": "Act to Amend Certain Provisions of the Third Development Plan Act on Establishing and Collecting Duties and Other Charges from Goods Producers, Service Providers and Imported Goods (the Duties Consolidation Act)",
+  "law_title_fa": "قانون‌ اصلاح‌ موادي‌ از قانون‌ برنامه‌ سوم‌ توسعه‌ اقتصادي‌، اجتماعي‌ و فرهنگي‌ جمهوري‌ اسلامي‌ ايران‌ و چگونگي‌ برقراري",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Imports)"
+  ],
+  "current_justification_en": "Amends Third Development Plan provisions specifically governing providers of imported goods and services, a named regulatory channel to import composition and terms.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "629:0",
+  "law_year": "1988",
+  "law_title_en": "Direct Taxation Act",
+  "law_title_fa": "قانون مالياتهاي مستقيم",
+  "targets_named_charts": [
+   "Tax revenue",
+   "Tax revenue (% of GDP)",
+   "Taxes on income, profits and capital gains",
+   "Taxes on income, profits and capital gains (% of revenue)",
+   "Taxes on goods and services"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Iran's Direct Taxation Law is the foundational statute governing income, profit, and property taxes since 1988, the core legal basis for direct-tax revenue.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "629:1",
+  "law_year": "1988",
+  "law_title_en": "Direct Taxation Act",
+  "law_title_fa": "قانون مالياتهاي مستقيم",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the foundational national tax code, it structures the government's fiscal capacity and incentive environment for investment and formal economic activity across the whole economy, the kind of national-scale instrument any serious account of Iran's GDP path must mention.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "630:0",
+  "law_year": "2003",
+  "law_title_en": "Act on Facilitating Industrial Modernization and Amending Article 113 of the Third Development Plan Act",
+  "law_title_fa": "قانون تنظيم بخشي از مقررات تسهيل نوسازي  ... ي ، اجتماعي و فرهنگي جمهوري اسلامي ايران",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Industry / Value Added by Sector"
+  ],
+  "current_justification_en": "Enacted under the Third Development Plan (1382/2003), this omnibus law facilitates financing for industrial renovation and modernization, touching customs, banking, mining, and state-land transfer rules relevant to industrial firms.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "630:1",
+  "law_year": "2003",
+  "law_title_en": "Act on Facilitating Industrial Modernization and Amending Article 113 of the Third Development Plan Act",
+  "law_title_fa": "قانون تنظيم بخشي از مقررات تسهيل نوسازي  ... ي ، اجتماعي و فرهنگي جمهوري اسلامي ايران",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Part of the Third Five-Year Development Plan's implementing legislation, the kind of national development-planning instrument that shapes Iran's broader growth path.",
+  "old_correlation": 3,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "631:0",
+  "law_year": "1993",
+  "law_title_en": "Export and Import Regulations Act",
+  "law_title_fa": "قانون مقررات صادرات و واردات",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Imports)",
+   "Trade (Exports)",
+   "Trade (Goods)",
+   "Trade & Investment"
+  ],
+  "current_justification_en": "The Export/Import Regulations Law is Iran's foundational national statute setting the legal framework for all foreign trade, the explicit instrument governing which goods may be traded, licensing, and trade policy administration.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "631:1",
+  "law_year": "1993",
+  "law_title_en": "Export and Import Regulations Act",
+  "law_title_fa": "قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Exports of goods and services (annual % growth)",
+   "Imports of goods and services (annual % growth)",
+   "Trade (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the national trade-regime statute, it is a national-scale instrument that any serious account of Iran's headline trade-to-GDP aggregates must mention.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "632:0",
+  "law_year": "2007",
+  "law_title_en": "National Budget Act for 2007-08 (1386)",
+  "law_title_fa": "قانون بودجه سال 1386 كل كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This is the FY1386 (2007) annual national budget law, the direct legal instrument setting that year's government spending and revenue totals shown in this exact chart.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "632:1",
+  "law_year": "2007",
+  "law_title_en": "National Budget Act for 2007-08 (1386)",
+  "law_title_fa": "قانون بودجه سال 1386 كل كشور",
+  "targets_named_charts": [
+   "General government final consumption expenditure (% of GDP)",
+   "General government final consumption expenditure (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Sets that year's government spending envelope, a direct input to general government final consumption expenditure.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "633:0",
+  "law_year": "1993",
+  "law_title_en": "قانون مقررات صادرات و واردات",
+  "law_title_fa": "قانون مقررات صادرات و واردات",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Trade (Imports)",
+   "Trade (Exports)",
+   "Trade (Goods)",
+   "Trade & Investment"
+  ],
+  "current_justification_en": "Duplicate copy of the Export/Import Regulations Law (sibling law_id 781e8c3880d3); the foundational national statute governing all foreign trade.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "633:1",
+  "law_year": "1993",
+  "law_title_en": "قانون مقررات صادرات و واردات",
+  "law_title_fa": "قانون مقررات صادرات و واردات",
+  "targets_named_charts": [
+   "Exports of goods and services (annual % growth)",
+   "Imports of goods and services (annual % growth)",
+   "Trade (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the national trade-regime statute, it is a national-scale instrument that any serious account of Iran's headline trade-to-GDP aggregates must mention.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "634:0",
+  "law_year": "1988",
+  "law_title_en": "قانون مالياتهاي مستقيم",
+  "law_title_fa": "قانون مالياتهاي مستقيم",
+  "targets_named_charts": [
+   "Tax revenue",
+   "Tax revenue (% of GDP)",
+   "Taxes on income, profits and capital gains",
+   "Taxes on income, profits and capital gains (% of revenue)",
+   "Taxes on goods and services"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Duplicate copy of the Direct Taxation Law (sibling law_id 0bbd4860ceaa), the foundational statute governing income, profit, and property taxes since 1988.",
+  "old_correlation": 5,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "634:1",
+  "law_year": "1988",
+  "law_title_en": "قانون مالياتهاي مستقيم",
+  "law_title_fa": "قانون مالياتهاي مستقيم",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "As the foundational national tax code, it structures fiscal capacity and investment incentives economy-wide, the kind of national-scale instrument any serious account of Iran's GDP path must mention.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "635:0",
+  "law_year": "2009",
+  "law_title_en": "Executive Bylaw on the Classification of Enterprises, Certification of Financial Statements, and Marketing of Enterprises Subject to Divestiture",
+  "law_title_fa": "آیین‌نامه اجرایی نحوه طبقه‌بندی بنگاه‌ها، تایید صورتهای مالی و بازاریابی بنگاه‌های مشمول واگذاری با اصلاحات و الحاقات بع",
+  "targets_named_charts": [
+   "Market capitalization of listed domestic companies",
+   "Market capitalization of listed domestic companies (% of GDP)",
+   "Listed domestic companies, total",
+   "Stocks traded, total value",
+   "Stocks traded, total value (% of GDP)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Implementing bylaw for classifying, valuing, and marketing state enterprises under the Article 44 privatization program; privatized SOEs were the direct source of a large share of new listings and trading volume on the Tehran Stock Exchange in this period.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "635:1",
+  "law_year": "2009",
+  "law_title_en": "Executive Bylaw on the Classification of Enterprises, Certification of Financial Statements, and Marketing of Enterprises Subject to Divestiture",
+  "law_title_fa": "آیین‌نامه اجرایی نحوه طبقه‌بندی بنگاه‌ها، تایید صورتهای مالی و بازاریابی بنگاه‌های مشمول واگذاری با اصلاحات و الحاقات بع",
+  "targets_named_charts": [
+   "GDP",
+   "GDP growth (annual %)",
+   "GDP per capita"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Part of the Article 44 privatization program, one of the national-scale structural reforms (alongside five-year plans, land reform, and nationalisation) that any serious account of Iran's GDP trajectory must mention.",
+  "old_correlation": 4,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "635:2",
+  "law_year": "2009",
+  "law_title_en": "Executive Bylaw on the Classification of Enterprises, Certification of Financial Statements, and Marketing of Enterprises Subject to Divestiture",
+  "law_title_fa": "آیین‌نامه اجرایی نحوه طبقه‌بندی بنگاه‌ها، تایید صورتهای مالی و بازاریابی بنگاه‌های مشمول واگذاری با اصلاحات و الحاقات بع",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Industry / Value Added by Sector"
+  ],
+  "current_justification_en": "Governs the restructuring and sale of state-owned industrial and mining enterprises, affecting sectoral value-added composition.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "636:0",
+  "law_year": "2015",
+  "law_title_en": "Act Adding Certain Articles to the Act on Regulating Part of the Government's Financial Regulations (2)",
+  "law_title_fa": "قانون الحاق برخي مواد به قانون تنظيم بخشي از مقررات مالي دولت (2)",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "Omnibus 2015 amendment adding provisions to the State Financial Regulations Law (2), covering public procurement, state-company oversight, and revenue-expenditure procedures, a general fiscal-management instrument.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "636:1",
+  "law_year": "2015",
+  "law_title_en": "Act Adding Certain Articles to the Act on Regulating Part of the Government's Financial Regulations (2)",
+  "law_title_fa": "قانون الحاق برخي مواد به قانون تنظيم بخشي از مقررات مالي دولت (2)",
+  "targets_named_charts": [
+   "General government final consumption expenditure (% of GDP)",
+   "General government final consumption expenditure (annual % growth)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Adjusts rules for state-company financial oversight and budget execution, indirectly touching the scale and classification of government spending.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "637:0",
+  "law_year": "2007",
+  "law_title_en": "Public Transportation Development and Fuel Consumption Management Act",
+  "law_title_fa": "قانون توسعه حمل و نقل عمومي و مديريت مصرف سوخت",
+  "targets_named_charts": [
+   "Oil Product Domestic Consumption",
+   "Fossil fuel energy consumption (% of total)",
+   "Energy use (kg of oil equivalent per capita)"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "The 2007 Public Transport Development and Fuel Consumption Management Law explicitly targets domestic fuel/gasoline consumption by mandating public-transit investment and enabling rationing, the direct precursor to Iran's gasoline rationing scheme launched the same year.",
+  "old_correlation": 4,
+  "old_expected_causation": 3
+ },
+ {
+  "ref": "637:1",
+  "law_year": "2007",
+  "law_title_en": "Public Transportation Development and Fuel Consumption Management Act",
+  "law_title_fa": "قانون توسعه حمل و نقل عمومي و مديريت مصرف سوخت",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Infrastructure (Transport)"
+  ],
+  "current_justification_en": "Mandates investment in public transit infrastructure as a substitute for private-vehicle fuel consumption.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "638:0",
+  "law_year": "1971",
+  "law_title_en": "Rangeland Development Fund Act / Fodder Procurement, Production and Distribution Joint-Stock Company Act",
+  "law_title_fa": "قانون صندوق عمران مراتع شركت سهامي تهيه و توليد و توزيع علوفه",
+  "targets_named_charts": [
+   "Livestock production index (2014-2016 = 100)",
+   "Agricultural land"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "Establishes a fund/company for rangeland improvement and fodder production, a narrow input-supply channel for livestock feed and grazing land quality.",
+  "old_correlation": 2,
+  "old_expected_causation": 1
+ },
+ {
+  "ref": "639:0",
+  "law_year": "2004",
+  "law_title_en": "National Budget Act for 1383",
+  "law_title_fa": "قانون بودجه سال 1383 كل كشور",
+  "targets_named_charts": [
+   "Annual Budget Law Totals"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This is the FY1383 (2004) annual national budget law, the direct legal instrument setting that year's government spending and revenue totals shown in this exact chart.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ },
+ {
+  "ref": "639:1",
+  "law_year": "2004",
+  "law_title_en": "National Budget Act for 1383",
+  "law_title_fa": "قانون بودجه سال 1383 كل كشور",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "Sets that year's overall fiscal envelope, touching revenue, expenditure, and financing components tracked across this category.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "640:0",
+  "law_year": "1940",
+  "law_title_en": "Supplementary General Budget Act for the Year 1319 (1940/41), with Subsequent Amendments and Additions",
+  "law_title_fa": "قانون متمم بودجه کل سال ۱۳۱۹ کشور با اصلاحات و الحاقات بعدی",
+  "targets_named_charts": [],
+  "targets_categories": [
+   "Government Finance"
+  ],
+  "current_justification_en": "A supplementary budget law amending the 1319 (1940) state budget; part of the Reza Shah-era fiscal apparatus that any account of pre-war Iranian public finance rests on, though it modifies spending line-items rather than macro aggregates directly.",
+  "old_correlation": 3,
+  "old_expected_causation": 2
+ },
+ {
+  "ref": "641:0",
+  "law_year": "1960",
+  "law_title_en": "Act Authorizing a $42 Million Loan from the International Bank for Reconstruction and Development for Construction of the Dez Dam",
+  "law_title_fa": "قانون اجازه تحصيل چهل و دو ميليون دلار و ... ن المللي ترميم و توسعه جهت ساختمان سد دز",
+  "targets_named_charts": [
+   "IBRD loans and IDA credits"
+  ],
+  "targets_categories": [],
+  "current_justification_en": "This law directly authorizes Iran to draw a $42 million loan from the International Bank for Reconstruction and Development (World Bank) specifically to build the Dez Dam; it is the exact legal instrument creating this category of external borrowing.",
+  "old_correlation": 5,
+  "old_expected_causation": 4
+ }
+]
