@@ -3485,7 +3485,7 @@
     "title_fa": "سرانه مصرف نوشیدنی‌های تخمیری",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Beverages, Fermented",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -3520,7 +3520,7 @@
     ],
     "data_path": "data/charts/faostat__Beverages, Fermented__consumption/data.csv",
     "row_count": 1176,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -3530,7 +3530,7 @@
     "title_fa": "صادرات و واردات نوشیدنی‌های تخمیری",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Beverages, Fermented",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -3565,7 +3565,7 @@
     ],
     "data_path": "data/charts/faostat__Beverages, Fermented__trade/data.csv",
     "row_count": 850,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -7459,7 +7459,7 @@
     "title_fa": "صادرات و واردات میخک",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Cloves",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -7494,7 +7494,7 @@
     ],
     "data_path": "data/charts/faostat__Cloves__trade/data.csv",
     "row_count": 926,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -25774,7 +25774,7 @@
     "title_fa": "سرانه مصرف موز پلانتین (موز پخت)",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Plantains",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -25809,7 +25809,7 @@
     ],
     "data_path": "data/charts/faostat__Plantains__consumption/data.csv",
     "row_count": 894,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -25819,7 +25819,7 @@
     "title_fa": "صادرات و واردات موز پلانتین (موز پخت)",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Plantains",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -25854,7 +25854,7 @@
     ],
     "data_path": "data/charts/faostat__Plantains__trade/data.csv",
     "row_count": 698,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -29659,7 +29659,7 @@
     "title_fa": "سرانه مصرف روغن سبوس برنج",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Ricebran Oil",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -29687,7 +29687,7 @@
     ],
     "data_path": "data/charts/faostat__Ricebran Oil__consumption/data.csv",
     "row_count": 273,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -34414,7 +34414,7 @@
     "title_fa": "صادرات و واردات سیب‌زمینی شیرین",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Sweet potatoes",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -34449,7 +34449,7 @@
     ],
     "data_path": "data/charts/faostat__Sweet potatoes__trade/data.csv",
     "row_count": 850,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -37263,7 +37263,7 @@
     "title_fa": "سرانه مصرف شراب",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Wine",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -37298,7 +37298,7 @@
     ],
     "data_path": "data/charts/faostat__Wine__consumption/data.csv",
     "row_count": 1290,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
