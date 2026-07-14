@@ -38557,7 +38557,7 @@
     ],
     "data_path": "data/charts/iran_census1996__activity_status_by_residence_sex/data.csv",
     "row_count": 70,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -38586,7 +38586,7 @@
     ],
     "data_path": "data/charts/iran_census1996__admin_units_by_province/data.csv",
     "row_count": 128,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -38615,7 +38615,7 @@
     ],
     "data_path": "data/charts/iran_census1996__literacy_by_age_group/data.csv",
     "row_count": 42,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -38644,7 +38644,7 @@
     ],
     "data_path": "data/charts/iran_census1996__population_by_age_group/data.csv",
     "row_count": 44,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -38702,7 +38702,7 @@
     ],
     "data_path": "data/charts/iran_census1996__school_enrollment_by_age_group/data.csv",
     "row_count": 28,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -39634,7 +39634,7 @@
     ],
     "data_path": "data/charts/iran_disasters__significant_earthquakes_1956_2023/data.csv",
     "row_count": 154,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -40258,7 +40258,7 @@
     ],
     "data_path": "data/charts/iran_institutions__opec_quota_policy_history_1960_2025/data.csv",
     "row_count": 18,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -40868,7 +40868,7 @@
     ],
     "data_path": "data/charts/iran_new_mineral_reserves_valuation_2014_2021/data.csv",
     "row_count": 40,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41511,7 +41511,7 @@
     ],
     "data_path": "data/charts/iran_sar_cheshmeh_copper_project_narrative_1965_2022/data.csv",
     "row_count": 51,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42191,7 +42191,7 @@
     ],
     "data_path": "data/charts/iranplanbudgetorg__five_year_plan_gdp_growth_targets/data.csv",
     "row_count": 17,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42217,7 +42217,7 @@
     ],
     "data_path": "data/charts/iranplanbudgetorg__five_year_plan_investment_ceilings/data.csv",
     "row_count": 17,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42243,7 +42243,7 @@
     ],
     "data_path": "data/charts/iranplanbudgetorg__five_year_plan_sectoral_growth_targets/data.csv",
     "row_count": 29,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -43758,7 +43758,7 @@
     ],
     "data_path": "data/charts/pahlavi__power_generating_capacity_1970_71/data.csv",
     "row_count": 165,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -43878,7 +43878,7 @@
     ],
     "data_path": "data/charts/pahlavi_hh__expenditure_distribution_by_bracket_1971/data.csv",
     "row_count": 66,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },

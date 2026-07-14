@@ -18,6 +18,13 @@ Read-only w.r.t. the corpus.
 """
 import csv, os, re, sys, hashlib
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
+
+# The corpus lives under ~/Documents, which is cloud-synced: files are dataless
+# placeholders and each read costs a ~0.6s round-trip (17.7k files => ~3h serially).
+# Reads are LATENCY-bound, not CPU-bound, so a fat thread pool collapses that to
+# minutes. Do not "optimize" this back to a serial loop.
+READ_WORKERS = 64
 
 CORPUS = "/Users/rohamhosseini/Documents/scraper simple/laws_clean"
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -102,10 +109,16 @@ def jalali_to_gregorian(jy, jm, jd):
     return gy, gm, gd
 
 
-def parse(path, folder):
+def read_one(args):
+    path, folder = args
     try:
-        raw = open(path, encoding="utf-8", errors="replace").read()
+        return path, folder, open(path, encoding="utf-8", errors="replace").read()
     except Exception:
+        return path, folder, None
+
+
+def parse(path, folder, raw):
+    if raw is None:
         return None
     lines = [l.strip() for l in raw.splitlines() if l.strip()]
     if not lines:
@@ -144,15 +157,25 @@ def parse(path, folder):
 
 def main():
     os.makedirs(OUTDIR, exist_ok=True)
-    rows = []
+    jobs = []
     for folder in sorted(os.listdir(CORPUS)):
         d = os.path.join(CORPUS, folder)
         if not os.path.isdir(d):
             continue
         for fn in os.listdir(d):
-            if not fn.endswith(".txt"):
-                continue
-            r = parse(os.path.join(d, fn), folder)
+            if fn.endswith(".txt"):
+                jobs.append((os.path.join(d, fn), folder))
+
+    print(f"reading {len(jobs)} files with {READ_WORKERS} threads "
+          f"(cloud-synced corpus: reads are latency-bound)...", flush=True)
+    rows = []
+    done = 0
+    with ThreadPoolExecutor(max_workers=READ_WORKERS) as ex:
+        for path, folder, raw in ex.map(read_one, jobs):
+            done += 1
+            if done % 2000 == 0:
+                print(f"  read {done}/{len(jobs)}", flush=True)
+            r = parse(path, folder, raw)
             if r:
                 rows.append(r)
 
