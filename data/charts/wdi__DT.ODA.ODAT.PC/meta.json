@@ -1,29 +1,29 @@
 {
- "chart_id": "wdi__DT.ODA.ODAT.PC",
- "title": "Net ODA received per capita (current US$)",
- "category": "External Debt",
- "sources": "wdi",
- "n_rows": 344,
- "year_range": [
-  "1960",
-  "2023"
- ],
- "countries": [
-  "ARG",
-  "IRN",
-  "KOR",
-  "SAU",
-  "TUR",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/DT.ODA.ODAT.PC.ZS",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "بدهی خارجی",
- "title_fa": "سرانه کمک توسعه رسمی خالص دریافتی (دلار جاری آمریکا)"
+  "chart_id": "wdi__DT.ODA.ODAT.PC",
+  "title": "Net ODA received per capita",
+  "category": "External Debt",
+  "sources": "wdi",
+  "n_rows": 344,
+  "year_range": [
+    "1960",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "KOR",
+    "SAU",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/DT.ODA.ODAT.PC.ZS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "بدهی خارجی",
+  "title_fa": "سرانه کمک توسعه رسمی خالص دریافتی (دلار جاری آمریکا)"
 }

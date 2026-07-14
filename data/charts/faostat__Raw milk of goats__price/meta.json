@@ -1,42 +1,42 @@
 {
- "chart_id": "faostat__Raw milk of goats__price",
- "title": "Raw milk of goats, Producer Price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 1873,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "DEU",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "TUR",
-  "USA"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده شیر خام بز"
+  "chart_id": "faostat__Raw milk of goats__price",
+  "title": "Raw milk of goats",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 1873,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "FRA",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده شیر خام بز"
 }

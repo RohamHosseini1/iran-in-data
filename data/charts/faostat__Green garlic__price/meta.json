@@ -1,42 +1,42 @@
 {
- "chart_id": "faostat__Green garlic__price",
- "title": "Green garlic, producer price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 1894,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده سیر سبز"
+  "chart_id": "faostat__Green garlic__price",
+  "title": "Green garlic",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 1894,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "FRA",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده سیر سبز"
 }

@@ -1,40 +1,40 @@
 {
- "chart_id": "wdi__NE.CON.PRVT.KD",
- "title": "Households and NPISHs Final consumption expenditure (annual % growth)",
- "category": "Macro / Expenditure & Trade Aggregates",
- "sources": "wdi",
- "n_rows": 888,
- "year_range": [
-  "1961",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/NE.CON.PRVT.KD.ZG",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "کلان / تجمیع‌های هزینه و تجارت",
- "title_fa": "رشد مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها (درصد سالانه)"
+  "chart_id": "wdi__NE.CON.PRVT.KD",
+  "title": "Households and NPISHs Final consumption expenditure",
+  "category": "Macro / Expenditure & Trade Aggregates",
+  "sources": "wdi",
+  "n_rows": 888,
+  "year_range": [
+    "1961",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NE.CON.PRVT.KD.ZG",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "کلان / تجمیع‌های هزینه و تجارت",
+  "title_fa": "رشد مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها (درصد سالانه)"
 }

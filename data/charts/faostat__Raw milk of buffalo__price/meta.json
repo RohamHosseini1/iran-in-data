@@ -1,33 +1,33 @@
 {
- "chart_id": "faostat__Raw milk of buffalo__price",
- "title": "Raw milk of buffalo, Producer Price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 586,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "GRC",
-  "IRN",
-  "ITA",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده شیر خام گاومیش"
+  "chart_id": "faostat__Raw milk of buffalo__price",
+  "title": "Raw milk of buffalo",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 586,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "GRC",
+    "IRN",
+    "ITA",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده شیر خام گاومیش"
 }

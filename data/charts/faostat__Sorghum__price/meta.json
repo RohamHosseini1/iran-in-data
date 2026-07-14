@@ -1,41 +1,41 @@
 {
- "chart_id": "faostat__Sorghum__price",
- "title": "Sorghum, Producer Price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 1334,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "PRT",
-  "RUS",
-  "SAU",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده ذرت خوشه‌ای (سورگوم)"
+  "chart_id": "faostat__Sorghum__price",
+  "title": "Sorghum",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 1334,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "FRA",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده ذرت خوشه‌ای (سورگوم)"
 }

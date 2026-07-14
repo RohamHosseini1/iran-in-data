@@ -1,38 +1,38 @@
 {
- "chart_id": "faostat__Game meat, fresh, chilled or frozen__price",
- "title": "Game meat, fresh, chilled or frozen, producer price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 517,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "GBR",
-  "IRN",
-  "NLD",
-  "PRT",
-  "SWE",
-  "USA"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده گوشت شکار، تازه، سردکرده یا منجمد"
+  "chart_id": "faostat__Game meat, fresh, chilled or frozen__price",
+  "title": "Game meat, fresh, chilled or frozen",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 517,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "GBR",
+    "IRN",
+    "NLD",
+    "PRT",
+    "SWE",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده گوشت شکار، تازه، سردکرده یا منجمد"
 }

@@ -1,42 +1,42 @@
 {
- "chart_id": "faostat__Infant food__consumption",
- "title": "Infant food, per-capita food consumption",
- "category": "Food Consumption",
- "sources": "faostat-fbs+fbsh",
- "n_rows": 3670,
- "year_range": [
-  "1961",
-  "2023"
- ],
- "countries": [
-  "DEU",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/FBS",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "مصرف مواد غذایی",
- "title_fa": "سرانه مصرف غذای کودک"
+  "chart_id": "faostat__Infant food__consumption",
+  "title": "Infant food",
+  "category": "Food Consumption",
+  "sources": "faostat-fbs+fbsh",
+  "n_rows": 3670,
+  "year_range": [
+    "1961",
+    "2023"
+  ],
+  "countries": [
+    "DEU",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "مصرف مواد غذایی",
+  "title_fa": "سرانه مصرف غذای کودک"
 }

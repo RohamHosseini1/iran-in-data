@@ -1,46 +1,46 @@
 {
- "chart_id": "faostat__Rice and products__trade",
- "title": "Rice and products, imports and exports (1000 tonnes)",
- "category": "Agriculture Trade",
- "sources": "faostat-fbs+fbsh",
- "n_rows": 709,
- "year_range": [
-  "2010",
-  "2023"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/FBS",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تجارت کشاورزی",
- "title_fa": "صادرات و واردات برنج و فرآورده‌های آن"
+  "chart_id": "faostat__Rice and products__trade",
+  "title": "Rice and products",
+  "category": "Agriculture Trade",
+  "sources": "faostat-fbs+fbsh",
+  "n_rows": 709,
+  "year_range": [
+    "2010",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تجارت کشاورزی",
+  "title_fa": "صادرات و واردات برنج و فرآورده‌های آن"
 }

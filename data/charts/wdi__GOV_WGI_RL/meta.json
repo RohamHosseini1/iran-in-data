@@ -1,40 +1,40 @@
 {
- "chart_id": "wdi__GOV_WGI_RL",
- "title": "Rule of Law - Governance score (0-100)",
- "category": "Governance (WGI)",
- "sources": "wdi",
- "n_rows": 884,
- "year_range": [
-  "1996",
-  "2024"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/GOV_WGI_RL_SC",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "حکمرانی (شاخص‌های حکمرانی جهانی)",
- "title_fa": "امتیاز حکمرانی (حاکمیت قانون، 0 تا 100)"
+  "chart_id": "wdi__GOV_WGI_RL",
+  "title": "Rule of Law - Governance score",
+  "category": "Governance (WGI)",
+  "sources": "wdi",
+  "n_rows": 884,
+  "year_range": [
+    "1996",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/GOV_WGI_RL_SC",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "حکمرانی (شاخص‌های حکمرانی جهانی)",
+  "title_fa": "امتیاز حکمرانی (حاکمیت قانون، 0 تا 100)"
 }

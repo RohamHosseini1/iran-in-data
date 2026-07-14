@@ -1,40 +1,40 @@
 {
- "chart_id": "faostat__Other fruits, n.e.c.__price",
- "title": "Other fruits, n.e.c., producer price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 614,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "DEU",
-  "ESP",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "PRT",
-  "RUS",
-  "SAU",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده سایر میوه‌ها، طبقه‌بندی‌نشده"
+  "chart_id": "faostat__Other fruits, n.e.c.__price",
+  "title": "Other fruits, n.e.c.",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 614,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "DEU",
+    "ESP",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "PRT",
+    "RUS",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده سایر میوه‌ها، طبقه‌بندی‌نشده"
 }

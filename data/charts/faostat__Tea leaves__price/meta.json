@@ -1,35 +1,35 @@
 {
- "chart_id": "faostat__Tea leaves__price",
- "title": "Tea leaves, Producer Price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 694,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "IRN",
-  "KOR",
-  "PRT",
-  "RUS",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده برگ چای"
+  "chart_id": "faostat__Tea leaves__price",
+  "title": "Tea leaves",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 694,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "KOR",
+    "PRT",
+    "RUS",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده برگ چای"
 }

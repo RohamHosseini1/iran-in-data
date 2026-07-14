@@ -1,40 +1,40 @@
 {
- "chart_id": "wdi__NY.TTF.GNFS",
- "title": "Terms of trade adjustment (constant LCU)",
- "category": "Macro / National Accounts",
- "sources": "wdi",
- "n_rows": 917,
- "year_range": [
-  "1960",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/NY.TTF.GNFS.KN",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "کلان / حساب‌های ملی",
- "title_fa": "تعدیل مبادله تجاری (ریال ثابت)"
+  "chart_id": "wdi__NY.TTF.GNFS",
+  "title": "Terms of trade adjustment",
+  "category": "Macro / National Accounts",
+  "sources": "wdi",
+  "n_rows": 917,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NY.TTF.GNFS.KN",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "کلان / حساب‌های ملی",
+  "title_fa": "تعدیل مبادله تجاری (ریال ثابت)"
 }

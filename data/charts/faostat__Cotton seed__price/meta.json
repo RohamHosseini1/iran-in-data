@@ -1,37 +1,37 @@
 {
- "chart_id": "faostat__Cotton seed__price",
- "title": "Cotton seed, producer price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 704,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "ESP",
-  "GRC",
-  "IRN",
-  "RUS",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده پنبه‌دانه"
+  "chart_id": "faostat__Cotton seed__price",
+  "title": "Cotton seed",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 704,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "GRC",
+    "IRN",
+    "RUS",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده پنبه‌دانه"
 }

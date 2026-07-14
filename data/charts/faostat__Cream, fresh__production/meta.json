@@ -1,39 +1,39 @@
 {
- "chart_id": "faostat__Cream, fresh__production",
- "title": "Cream, fresh, production (tonnes)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 883,
- "year_range": [
-  "1961",
-  "2023"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "تولید خامه، تازه (تن)"
+  "chart_id": "faostat__Cream, fresh__production",
+  "title": "Cream, fresh",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 883,
+  "year_range": [
+    "1961",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "تولید خامه، تازه (تن)"
 }

@@ -1,40 +1,40 @@
 {
- "chart_id": "wdi__PA.NUS",
- "title": "DEC alternative conversion factor (LCU per US$)",
- "category": "Purchasing Power Parity",
- "sources": "wdi",
- "n_rows": 2759,
- "year_range": [
-  "1960",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/PA.NUS.FCRF",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "برابری قدرت خرید",
- "title_fa": "ضریب تبدیل جایگزین DEC (ریال به ازای هر دلار آمریکا)"
+  "chart_id": "wdi__PA.NUS",
+  "title": "DEC alternative conversion factor",
+  "category": "Purchasing Power Parity",
+  "sources": "wdi",
+  "n_rows": 2759,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "DEU",
+    "ESP",
+    "FRA",
+    "GBR",
+    "GRC",
+    "IRN",
+    "ITA",
+    "KOR",
+    "NLD",
+    "PRT",
+    "RUS",
+    "SAU",
+    "SWE",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/PA.NUS.FCRF",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "برابری قدرت خرید",
+  "title_fa": "ضریب تبدیل جایگزین DEC (ریال به ازای هر دلار آمریکا)"
 }
