@@ -1,0 +1,22 @@
+# Progress log: restructure_rows_0400_0799
+
+- [2026-07-14T00:30:52Z] rows 400-419 done, 3 proposals
+- [2026-07-14T00:30:52Z] rows 420-439 done, 3 proposals
+- [2026-07-14T00:30:52Z] rows 440-459 done, 4 proposals
+- [2026-07-14T00:30:52Z] rows 460-479 done, 2 proposals
+- [2026-07-14T00:30:52Z] rows 480-499 done, 3 proposals
+- [2026-07-14T00:30:52Z] rows 500-519 done, 4 proposals
+- [2026-07-14T00:30:52Z] rows 520-539 done, 1 proposals
+- [2026-07-14T00:30:52Z] rows 540-559 done, 0 proposals
+- [2026-07-14T00:30:52Z] rows 560-579 done, 2 proposals
+- [2026-07-14T00:30:52Z] rows 580-599 done, 4 proposals
+- [2026-07-14T00:30:52Z] rows 600-619 done, 3 proposals
+- [2026-07-14T00:30:52Z] rows 620-639 done, 1 proposals
+- [2026-07-14T00:30:52Z] rows 640-659 done, 4 proposals
+- [2026-07-14T00:30:52Z] rows 660-679 done, 5 proposals
+- [2026-07-14T00:30:52Z] rows 680-699 done, 3 proposals
+- [2026-07-14T00:30:52Z] rows 700-719 done, 3 proposals
+- [2026-07-14T00:30:52Z] rows 720-739 done, 2 proposals
+- [2026-07-14T00:30:52Z] rows 740-759 done, 3 proposals
+- [2026-07-14T00:30:52Z] rows 760-779 done, 2 proposals
+- [2026-07-14T00:30:52Z] rows 780-799 done, 5 proposals

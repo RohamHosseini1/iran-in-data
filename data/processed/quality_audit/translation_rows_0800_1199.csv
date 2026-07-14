@@ -1,0 +1,401 @@
+chart_id,fa_verdict,proposed_title_fa,proposed_category_fa,reason
+wdi__SH.XPD.CHEX.GD,keep,,,
+wdi__GC.REV.XGRT.GD,keep,,,
+wdi__GC.XPN.TRFT,keep,,,
+wdi__FS.AST.CGOV.GD,keep,,,
+wdi__SE.PRM.PRS5.FE,keep,,,
+wdi__SP.POP.1564.TO,keep,,,
+wdi__DT.NFL.DPNG,keep,,,
+wdi__SP.POP.4044.FE,keep,,,
+wdi__SL.TLF.ADVN.FE,keep,,,
+wdi__TX.VAL.FOOD.ZS,keep,,,
+wdi__DT.ODA.ODAT.GN,keep,,,
+wdi__SP.POP.0014.FE,keep,,,
+wdi__DT.NFL.WHOL,keep,,,
+wdi__per_sa_allsa.adq_pop_tot,keep,,,
+wdi__MS.MIL.TOTL.TF,keep,,,
+wdi__EG.ELC.ACCS,keep,,,
+wdi__TX.VAL.MRCH.CD,keep,,,
+wdi__DT.DOD.PVLX.GN,keep,,,
+wdi__SH.STA.POIS.P5,keep,,,
+wdi__ER.H2O.FWAG,keep,,,
+wdi__GC.TAX.YPKG,keep,,,
+wdi__SH.STA.MALN.FE,keep,,,
+wdi__SH.MED.NUMW,keep,,,
+wdi__SE.TER.ENRL.TC,keep,,,
+wdi__SL.TLF.TOTL.FE,keep,,,
+wdi__SL.EMP.VULN.MA,keep,,,
+wdi__AG.LND.TOTL.RU,keep,,,
+wdi__TM.VAL.MRCH.CD,keep,,,
+wdi__SL.EMP.WORK,keep,,,
+wdi__TX.VAL.MRCH.WL,keep,,,
+wdi__IE.PPN.TRAN,needs_review,,,"category mismatch: content is transport investment but category is ""Infrastructure (Energy)"" (زیرساخت (انرژی)); registry already has an ""Infrastructure (Transport)"" (زیرساخت (حمل‌ونقل)) category used elsewhere (e.g. wdi__IS.RRS.TOTL) that this looks like it should use instead"
+wdi__EG.ELC.NUCL,keep,,,
+wdi__EN.GHG.N2O.BU.MT.CE,keep,,,
+wdi__MS.MIL.TOTL,keep,,,
+wdi__NY.ADJ.DCO2,keep,,,
+wdi__SH.STA.STNT.ME.MA,keep,,,
+wdi__DT.NFL.MIBR,keep,,,
+wdi__SM.POP.TOTL,keep,,,
+wdi__DT.TDS.DPPG.XP,keep,,,
+wdi__TM.VAL.INSF.ZS,keep,,,
+wdi__SE.SEC.ENRL.VO.FE,keep,,,
+wdi__SH.ANM.CHLD,keep,,,
+wdi__SE.XPD.SECO,keep,,,
+wdi__TX.VAL.MRCH.RS,keep,,,
+wdi__IS.RRS.TOTL,keep,,,
+wdi__SL.TLF.ACTI.MA,keep,,,
+wdi__SI.DST.04TH,keep,,,
+wdi__NY.GNS.ICTR.GN,keep,,,
+wdi__LP.LPI.CUST,keep,,,
+wdi__TM.VAL.MRCH.R1,keep,,,
+wdi__IS.RRS.PASG,keep,,,
+wdi__SP.POP.3539.MA,keep,,,
+wdi__DC.DAC.DNKL,keep,,,
+wdi__TM.UVI.MRCH.XD,keep,,,
+wdi__EN.GHG.CH4.MT.CE,keep,,,
+wdi__DT.NFL.UNFP,keep,,,
+wdi__DT.DOD.PVLX,keep,,,
+wdi__SH.XPD.GHED.PC,keep,,,
+wdi__EG.ELC.RNEW,keep,,,
+wdi__SL.TLF.ADVN,keep,,,
+wdi__NY.EXP.CAPM,keep,,,
+wdi__GC.AST.TOTL.GD,keep,,,
+wdi__SP.DYN.IMRT,keep,,,
+wdi__EN.POP.EL5M.UR,keep,,,
+wdi__DC.DAC.CANL,keep,,,
+wdi__SE.SEC.CUAT.PO.MA,keep,,,
+wdi__EN.GHG.CO2.LU.DF.MT.CE,retitle,شار خالص دی‌اکسید کربن (CO2) از LULUCF، جنگل‌زدایی (مگاتن معادل CO2),,"dash suffix: "" - "" replaced with «،» per rule 2 (no em/en dashes)"
+wdi__EN.GHG.CO2.LU.OS.MT.CE,retitle,شار خالص دی‌اکسید کربن (CO2) از LULUCF، خاک آلی (مگاتن معادل CO2),,"dash suffix: "" - "" replaced with «،» per rule 2 (no em/en dashes)"
+wdi__PA.NUS.GDP,keep,,,
+wdi__SE.SEC.PRIV,keep,,,
+wdi__SL.TLF.INTM.FE,keep,,,
+wdi__SH.DYN.NCOM.MA,keep,,,
+wdi__TM.VAL.SERV.CD,keep,,,
+wdi__SP.POP.6064.MA,keep,,,
+wdi__SH.DTH.INJR,keep,,,
+wdi__SE.PRM.CUAT,keep,,,
+wdi__BN.TRF.CURR,keep,,,
+wdi__SE.TER.CUAT.MS.FE,keep,,,
+wdi__TM.TAX.MRCH.WM.AR,keep,,,
+wdi__NV.MNF.CHEM.ZS,keep,,,
+wdi__TM.TAX.MANF.WM.AR,keep,,,
+wdi__ER.GDP.FWTL.M3,keep,,,
+wdi__SP.DYN.TO65.MA,keep,,,
+wdi__DC.DAC.ITAL,keep,,,
+wdi__DT.NFL.UNAI,keep,,,
+wdi__SL.EMP.TOTL.SP,keep,,,
+wdi__TM.VAL.OTHR.ZS,keep,,,
+wdi__SP.POP.0509.FE,keep,,,
+wdi__GC.NFN.TOTL.GD,keep,,,
+wdi__SL.TLF.CACT.FM,keep,,,
+wdi__NY.ADJ.DNGY,keep,,,
+wdi__SE.PRM.ENRL.FE,keep,,,
+wdi__NY.TTF.GNFS,keep,,,
+wdi__TM.VAL.MRCH.RS,keep,,,
+wdi__GC.XPN.TOTL.GD,keep,,,
+wdi__EN.URB.LCTY.UR,keep,,,
+wdi__IE.PPI.TRAN,needs_review,,,"category mismatch: content is transport investment but category is ""Infrastructure (Energy)"" (زیرساخت (انرژی)); same issue as wdi__IE.PPN.TRAN"
+wdi__DC.DAC.GRCL,keep,,,
+wdi__SE.PRM.OENR.FE,keep,,,
+wdi__SL.TLF.PART.MA,keep,,,
+wdi__BX.GSR.TRVL,keep,,,
+wdi__DT.NFL.UNCR,keep,,,
+wdi__TM.VAL.TRVL.ZS,keep,,,
+wdi__TX.VAL.MMTL.ZS,keep,,,
+wdi__SE.PRM.OENR,keep,,,
+wdi__SL.TLF.ACTI.FE,keep,,,
+wdi__SP.RUR,keep,,,
+wdi__NV.MNF.OTHR.ZS,keep,,,
+wdi__DC.DAC.USAL,keep,,,
+wdi__DT.DOD.MWBG,retitle,وام‌های بانک بین‌المللی ترمیم و توسعه (IBRD) و اعتبارات انجمن توسعه بین‌الملل (IDA) (DOD، دلار جاری آمریکا),,terminology: institutional acronyms IBRD/IDA left bare; glossed with established Persian names for consistency with sibling rows wdi__DT.NFL.MIBR / wdi__DT.DOD.MIBR which already gloss IBRD as «بانک بین‌المللی ترمیم و توسعه (IBRD)»; IDA gloss «انجمن توسعه بین‌الملل» per fa.wikipedia.org
+wdi__SH.STA.MMRT,keep,,,
+wdi__SE.SEC.TCAQ.LO.FE,keep,,,
+wdi__NY.GDP.MKTP.CN,keep,,,
+wdi__GC.TAX.INTT,keep,,,
+wdi__BX.PEF.TOTL.CD,keep,,,
+wdi__DT.NFL.WFPG,keep,,,
+wdi__SL.EMP.TOTL.SP.MA.NE,keep,,,
+wdi__SH.ALC.PCAP.MA,keep,,,
+wdi__SE.PRM.UNER.FE,keep,,,
+wdi__SH.ANM.NPRG,keep,,,
+wdi__SP.DYN.CONU,keep,,,
+wdi__SE.PRM.NINT.MA,keep,,,
+wdi__SL.UEM.INTM.FE,keep,,,
+wdi__SH.STA.AIRP.MA,keep,,,
+wdi__SE.SEC.CUAT.LO.MA,keep,,,
+wdi__SH.XPD.CHEX.PP,keep,,,
+wdi__SP.DYN.TFRT,keep,,,
+wdi__SI.DST.10TH,keep,,,
+wdi__ER.LND.PTLD,keep,,,
+wdi__SE.SEC.ENRL.FE,keep,,,
+wdi__TX.VAL.FUEL.ZS,keep,,,
+wdi__SE.ENR.PRSC.FM,keep,,,
+wdi__SP.POP.65UP,keep,,,
+wdi__SE.PRM.ENRL.TC,keep,,,
+wdi__SM.POP.OPIP,keep,,,
+wdi__EN.GHG.CO2.AG.MT.CE,keep,,,
+wdi__SN.ITK.MSFI,keep,,,
+wdi__DT.NFL.UNIDO,keep,,,
+wdi__SE.TER,keep,,,
+wdi__SL.FAM.WORK.MA,keep,,,
+wdi__NY.GDP.DEFL.KD,keep,,,
+wdi__SE.TER.CUAT.ST.MA,keep,,,
+wdi__SH.STA.WASH,keep,,,
+wdi__SE.SEC.TCAQ.LO,keep,,,
+wdi__FX.OWN.TOTL.MA,needs_review,,,"category mismatch: account-ownership/financial-inclusion indicator filed under ""Exchange Rates"" (نرخ ارز); same issue as wdi__FX.OWN.TOTL.SO and wdi__FX.OWN.TOTL.60 flagged in rows 400-799 slice"
+wdi__SL.TLF.CACT.FE,keep,,,
+wdi__SL.EMP.MPYR,keep,,,
+wdi__SP.DYN.CONM,keep,,,
+wdi__SH.H2O.BASW.RU,keep,,,
+wdi__TX.VAL.OTHR.ZS,keep,,,
+wdi__SE.PRM.ENRR,keep,,,
+wdi__EN.GHG.CH4.ZG,keep,,,
+wdi__NY.ADJ.DFOR,keep,,,
+wdi__IT.NET.USER.FE,keep,,,
+wdi__SH.H2O.SMDW,keep,,,
+wdi__SE.SEC.TCAQ.UP.FE,keep,,,
+wdi__SI.DST.03RD,keep,,,
+wdi__NY.ADJ.AEDU.GN,keep,,,
+wdi__SH.STA.ODFC.UR,keep,,,
+wdi__SL.EMP.TOTL.SP.NE,keep,,,
+wdi__DC.DAC.FINL,keep,,,
+wdi__SP.POP.0014,keep,,,
+wdi__NE.CON.PRVT.CN,keep,,,
+wdi__SH.SVR.WAST.MA,keep,,,
+wdi__TX.VAL.MRCH.HI,keep,,,
+wdi__SE.XPD.SECO.PC,keep,,,
+wdi__BN.RES.INCL,keep,,,
+wdi__SE.SEC.CUAT.UP.FE,keep,,,
+wdi__GC.TAX.OTHR,keep,,,
+wdi__NY.GDP.DEFL.KD.ZG,keep,,,
+wdi__SL.IND.EMPL.MA,keep,,,
+wdi__SL.EMP.SELF,keep,,,
+wdi__SL.EMP.1524.SP.FE,keep,,,
+wdi__SH.STA.STNT.ME.FE,keep,,,
+wdi__IT.MLT.MAIN,keep,,,
+wdi__SH.STA.WAST,keep,,,
+wdi__LP.LPI.ITRN,keep,,,
+wdi__SH.STA.ARIC,keep,,,
+wdi__BX.GRT.EXTA.CD,keep,,,
+wdi__SE.PRM.CUAT.MA,keep,,,
+wdi__IE.PPN.ENGY,keep,,,
+wdi__SH.STA.OWGH.ME.FE,keep,,,
+wdi__TM.VAL.AGRI.ZS,keep,,,
+wdi__CM.MKT.TRAD,keep,,,
+wdi__NY.GDP.DEFL,keep,,,
+wdi__DC.DAC.DEUL,keep,,,
+wdi__DT.NFL.IAEA,keep,,,
+wdi__TM.TAX.MANF.SM.FN,keep,,,
+wdi__SI.SPR.PC40,keep,,,
+wdi__BX.TRF.CURR,keep,,,
+wdi__SE.SEC.TCHR.FE,keep,,,
+wdi__SE.TER.CUAT.ST,keep,,,
+wdi__SL.UEM.NEET.MA,keep,,,
+wdi__SE.SEC.TCAQ.MA,keep,,,
+wdi__TX.VAL.SERV.CD,keep,,,
+wdi__DT.TDS.DPPF.XP,keep,,,
+wdi__SE.ADT.1524.LT.MA,keep,,,
+wdi__EN.POP,keep,,,
+wdi__IT.NET.USER.MA,keep,,,
+wdi__SP.POP.80UP.MA,keep,,,
+wdi__DC.DAC.CHEL,keep,,,
+wdi__SE.PRM.GINT,keep,,,
+wdi__SP.UWT,keep,,,
+wdi__SH.XPD.PVTD.PC,keep,,,
+wdi__NY.ADJ.DRES.GN,keep,,,
+wdi__SE.TER.CUAT.MS.MA,keep,,,
+wdi__IT.NET.BBND,keep,,,
+wdi__DC.DAC.BELL,keep,,,
+wdi__EN.GHG.CO2.IP.MT.CE,keep,,,
+wdi__BM.GSR.MRCH,keep,,,
+wdi__ST.INT.TRNR,keep,,,
+wdi__SL.TLF.ADVN.MA,keep,,,
+"faostat__Almonds, in shell__production",retitle,تولید، سطح زیر کشت و عملکرد بادام با پوست,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production",retitle,تولید، سطح زیر کشت و عملکرد انیسون، بادیان ختایی، گشنیز، زیره سبز، زیره سیاه، رازیانه و دانه ارس، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Apples__production,retitle,تولید، سطح زیر کشت و عملکرد سیب,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Apricots__production,retitle,تولید، سطح زیر کشت و عملکرد زردآلو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Artichokes__production,retitle,تولید، سطح زیر کشت و عملکرد کنگر فرنگی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Asparagus__production,retitle,تولید، سطح زیر کشت و عملکرد مارچوبه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Asses__production,retitle,تولید، سطح زیر کشت و عملکرد الاغ,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Bananas__production,retitle,تولید، سطح زیر کشت و عملکرد موز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Barley__production,retitle,تولید، سطح زیر کشت و عملکرد جو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Beans, dry__production",retitle,تولید، سطح زیر کشت و عملکرد لوبیا، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Beef and Buffalo Meat, primary__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت گاو و گاومیش، اولیه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Beer of barley, malted__production",retitle,تولید، سطح زیر کشت و عملکرد آبجو جو مالت‌شده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Bees__production,retitle,تولید، سطح زیر کشت و عملکرد زنبور عسل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Broad beans and horse beans, dry__production",retitle,تولید، سطح زیر کشت و عملکرد باقلا، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Broad beans and horse beans, green__production",retitle,تولید، سطح زیر کشت و عملکرد باقلا، سبز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Buffalo__production,retitle,تولید، سطح زیر کشت و عملکرد گاومیش,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Buffalo fat, unrendered__production",retitle,تولید، سطح زیر کشت و عملکرد چربی گاومیش، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Butter and Ghee__production,retitle,تولید، سطح زیر کشت و عملکرد کره و روغن حیوانی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Butter and ghee of sheep milk__production,retitle,تولید، سطح زیر کشت و عملکرد کره و روغن حیوانی از شیر گوسفند,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Butter of cow milk__production,retitle,تولید، سطح زیر کشت و عملکرد کره از شیر گاو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Buttermilk, dry__production",retitle,تولید، سطح زیر کشت و عملکرد دوغ کره، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cabbages__production,retitle,تولید، سطح زیر کشت و عملکرد کلم,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Camels__production,retitle,تولید، سطح زیر کشت و عملکرد شتر,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cantaloupes and other melons__production,retitle,تولید، سطح زیر کشت و عملکرد طالبی و سایر خربزه‌ها,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Carrots and turnips__production,retitle,تولید، سطح زیر کشت و عملکرد هویج و شلغم,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Castor oil seeds__production,retitle,تولید، سطح زیر کشت و عملکرد دانه کرچک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cattle__production,retitle,تولید، سطح زیر کشت و عملکرد گاو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cattle and Buffaloes__production,retitle,تولید، سطح زیر کشت و عملکرد گاو و گاومیش,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Cattle fat, unrendered__production",retitle,تولید، سطح زیر کشت و عملکرد چربی گاو، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cauliflowers and broccoli__production,retitle,تولید، سطح زیر کشت و عملکرد گل‌کلم و بروکلی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Cereals, primary__production",retitle,تولید، سطح زیر کشت و عملکرد غلات، اولیه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cheese (All Kinds)__production,retitle,تولید، سطح زیر کشت و عملکرد پنیر (همه انواع),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Cheese from milk of goats, fresh or processed__production",retitle,تولید، سطح زیر کشت و عملکرد پنیر از شیر بز، تازه یا فرآوری‌شده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Cheese from milk of sheep, fresh or processed__production",retitle,تولید، سطح زیر کشت و عملکرد پنیر از شیر گوسفند، تازه یا فرآوری‌شده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cheese from skimmed cow milk__production,retitle,تولید، سطح زیر کشت و عملکرد پنیر از شیر پس‌چرخ گاو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cheese from whole cow milk__production,retitle,تولید، سطح زیر کشت و عملکرد پنیر از شیر کامل گاو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cherries__production,retitle,تولید، سطح زیر کشت و عملکرد گیلاس,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Chick peas, dry__production",retitle,تولید، سطح زیر کشت و عملکرد نخود، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Chickens__production,retitle,تولید، سطح زیر کشت و عملکرد مرغ,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production",retitle,تولید، سطح زیر کشت و عملکرد فلفل تند و فلفل، خشک (گونه‌های Capsicum و Pimenta)، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production",retitle,تولید، سطح زیر کشت و عملکرد فلفل تند و فلفل، سبز (گونه‌های Capsicum و Pimenta),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Citrus Fruit, Total__production",retitle,تولید، سطح زیر کشت و عملکرد مرکبات، جمع کل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Cotton lint, ginned__production",retitle,تولید، سطح زیر کشت و عملکرد الیاف پنبه حلاجی‌شده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cotton seed__production,retitle,تولید، سطح زیر کشت و عملکرد پنبه‌دانه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cottonseed oil__production,retitle,تولید، سطح زیر کشت و عملکرد روغن پنبه‌دانه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Cream, fresh__production",retitle,تولید، سطح زیر کشت و عملکرد خامه، تازه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Cucumbers and gherkins__production,retitle,تولید، سطح زیر کشت و عملکرد خیار و خیارترشی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Dates__production,retitle,تولید، سطح زیر کشت و عملکرد خرما,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Ducks__production,retitle,تولید، سطح زیر کشت و عملکرد اردک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Edible offal of buffalo, fresh, chilled or frozen__production",retitle,تولید، سطح زیر کشت و عملکرد احشای خوراکی گاومیش، تازه، سردکرده یا منجمد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Edible offal of cattle, fresh, chilled or frozen__production",retitle,تولید، سطح زیر کشت و عملکرد احشای خوراکی گاو، تازه، سردکرده یا منجمد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Edible offal of goat, fresh, chilled or frozen__production",retitle,تولید، سطح زیر کشت و عملکرد احشای خوراکی بز، تازه، سردکرده یا منجمد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Edible offal of pigs, fresh, chilled or frozen__production",retitle,تولید، سطح زیر کشت و عملکرد احشای خوراکی خوک، تازه، سردکرده یا منجمد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Edible offal of sheep, fresh, chilled or frozen__production",retitle,تولید، سطح زیر کشت و عملکرد احشای خوراکی گوسفند، تازه، سردکرده یا منجمد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production",retitle,تولید، سطح زیر کشت و عملکرد احشای خوراکی شتر و سایر شتریان، تازه، سردکرده یا منجمد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Eggplants (aubergines)__production,retitle,تولید، سطح زیر کشت و عملکرد بادمجان,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Eggs Primary__production,retitle,تولید، سطح زیر کشت و عملکرد تخم‌مرغ، اولیه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Evaporated & Condensed Milk__production,retitle,تولید، سطح زیر کشت و عملکرد شیر تبخیرشده و غلیظ‌شده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Fat of camels__production,retitle,تولید، سطح زیر کشت و عملکرد چربی شتر,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Fat of pigs__production,retitle,تولید، سطح زیر کشت و عملکرد چربی خوک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Fibre Crops, Fibre Equivalent__production",retitle,تولید، سطح زیر کشت و عملکرد محصولات الیافی (معادل الیاف),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Figs__production,retitle,تولید، سطح زیر کشت و عملکرد انجیر,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Fruit Primary__production,retitle,تولید، سطح زیر کشت و عملکرد میوه، اولیه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Game meat, fresh, chilled or frozen__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت شکار، تازه، سردکرده یا منجمد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Geese__production,retitle,تولید، سطح زیر کشت و عملکرد غاز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Goat fat, unrendered__production",retitle,تولید، سطح زیر کشت و عملکرد چربی بز، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Goats__production,retitle,تولید، سطح زیر کشت و عملکرد بز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Grapes__production,retitle,تولید، سطح زیر کشت و عملکرد انگور,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Green garlic__production,retitle,تولید، سطح زیر کشت و عملکرد سیر سبز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg__production",retitle,تولید، سطح زیر کشت و عملکرد چای سبز (تخمیرنشده)، چای سیاه (تخمیرشده) و چای نیمه‌تخمیری، در بسته‌بندی‌های حداکثر 3 کیلوگرم,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Groundnuts, excluding shelled__production",retitle,تولید، سطح زیر کشت و عملکرد بادام‌زمینی، با پوست,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Hazelnuts, in shell__production",retitle,تولید، سطح زیر کشت و عملکرد فندق با پوست,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Hempseed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه شاهدانه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Hen eggs in shell, fresh__production",retitle,تولید، سطح زیر کشت و عملکرد تخم‌مرغ با پوست، تازه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Horses__production,retitle,تولید، سطح زیر کشت و عملکرد اسب,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Jute, raw or retted__production",retitle,تولید، سطح زیر کشت و عملکرد کنف، خام یا خیس‌خورده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Kiwi fruit__production,retitle,تولید، سطح زیر کشت و عملکرد کیوی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Leeks and other alliaceous vegetables__production,retitle,تولید، سطح زیر کشت و عملکرد تره‌فرنگی و سایر سبزیجات پیازی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Lemons and limes__production,retitle,تولید، سطح زیر کشت و عملکرد لیموترش و لایم,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Lentils, dry__production",retitle,تولید، سطح زیر کشت و عملکرد عدس، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Lettuce and chicory__production,retitle,تولید، سطح زیر کشت و عملکرد کاهو و کاسنی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Linseed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه کتان (بزرک),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Maize (corn)__production,retitle,تولید، سطح زیر کشت و عملکرد ذرت,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Mangoes, guavas and mangosteens__production",retitle,تولید، سطح زیر کشت و عملکرد انبه، گواوا و منگوستین,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Margarine and shortening__production,retitle,تولید، سطح زیر کشت و عملکرد مارگارین و روغن جامد (شورتنینگ),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of buffalo, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت گاومیش، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of camels, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت شتر، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of cattle with the bone, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت گاو با استخوان، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of chickens, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت مرغ، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of ducks, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت اردک، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of geese, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت غاز، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of goat, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت بز، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of pig with the bone, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت خوک با استخوان، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of sheep, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت گوسفند، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat of turkeys, fresh or chilled__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت بوقلمون، تازه یا سردکرده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat, Poultry__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت ماکیان,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Meat, Total__production",retitle,تولید، سطح زیر کشت و عملکرد گوشت، جمع کل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Melonseed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه خربزه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Milk, Total__production",retitle,تولید، سطح زیر کشت و عملکرد شیر، جمع کل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Millet__production,retitle,تولید، سطح زیر کشت و عملکرد ارزن,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Molasses__production,retitle,تولید، سطح زیر کشت و عملکرد ملاس,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Mules and hinnies__production,retitle,تولید، سطح زیر کشت و عملکرد قاطر و استر,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Mushrooms and truffles__production,retitle,تولید، سطح زیر کشت و عملکرد قارچ و ترافل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Mustard seed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه خردل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Natural honey__production,retitle,تولید، سطح زیر کشت و عملکرد عسل طبیعی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Oil of linseed__production,retitle,تولید، سطح زیر کشت و عملکرد روغن بزرک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Oil of sesame seed__production,retitle,تولید، سطح زیر کشت و عملکرد روغن کنجد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Oilcrops, Cake Equivalent__production",retitle,تولید، سطح زیر کشت و عملکرد دانه‌های روغنی (معادل کنجاله),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Oilcrops, Oil Equivalent__production",retitle,تولید، سطح زیر کشت و عملکرد دانه‌های روغنی (معادل روغن),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Olive oil__production,retitle,تولید، سطح زیر کشت و عملکرد روغن زیتون,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Olives__production,retitle,تولید، سطح زیر کشت و عملکرد زیتون,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Onions and shallots, dry (excluding dehydrated)__production",retitle,تولید، سطح زیر کشت و عملکرد پیاز و موسیر، خشک (به‌جز دهیدراته),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Oranges__production,retitle,تولید، سطح زیر کشت و عملکرد پرتقال,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other beans, green__production",retitle,تولید، سطح زیر کشت و عملکرد سایر لوبیاها، سبز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Other berries and fruits of the genus vaccinium n.e.c.__production,retitle,تولید، سطح زیر کشت و عملکرد سایر توت‌ها و میوه‌های جنس Vaccinium، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other citrus fruit, n.e.c.__production",retitle,تولید، سطح زیر کشت و عملکرد سایر مرکبات، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other fruits, n.e.c.__production",retitle,تولید، سطح زیر کشت و عملکرد سایر میوه‌ها، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production",retitle,تولید، سطح زیر کشت و عملکرد سایر آجیل‌ها (به‌جز آجیل‌های خوراکی وحشی و بادام‌زمینی)، با پوست، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other oil seeds, n.e.c.__production",retitle,تولید، سطح زیر کشت و عملکرد سایر دانه‌های روغنی، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Other pulses n.e.c.__production,retitle,تولید، سطح زیر کشت و عملکرد سایر حبوبات، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other stimulant, spice and aromatic crops, n.e.c.__production",retitle,تولید، سطح زیر کشت و عملکرد سایر محصولات محرک، ادویه‌ای و معطر، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Other stone fruits__production,retitle,تولید، سطح زیر کشت و عملکرد سایر میوه‌های هسته‌دار,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other tropical fruits, n.e.c.__production",retitle,تولید، سطح زیر کشت و عملکرد سایر میوه‌های گرمسیری، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Other vegetables, fresh n.e.c.__production",retitle,تولید، سطح زیر کشت و عملکرد سایر سبزیجات تازه، طبقه‌بندی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Papayas__production,retitle,تولید، سطح زیر کشت و عملکرد پاپایا,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Peaches and nectarines__production,retitle,تولید، سطح زیر کشت و عملکرد هلو و شلیل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Pears__production,retitle,تولید، سطح زیر کشت و عملکرد گلابی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Peas, dry__production",retitle,تولید، سطح زیر کشت و عملکرد نخود فرنگی، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Peas, green__production",retitle,تولید، سطح زیر کشت و عملکرد نخود فرنگی، سبز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Persimmons__production,retitle,تولید، سطح زیر کشت و عملکرد خرمالو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Pistachios, in shell__production",retitle,تولید، سطح زیر کشت و عملکرد پسته با پوست,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Plums and sloes__production,retitle,تولید، سطح زیر کشت و عملکرد آلو و گوجه وحشی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Pomelos and grapefruits__production,retitle,تولید، سطح زیر کشت و عملکرد پوملو و گریپ‌فروت,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Potatoes__production,retitle,تولید، سطح زیر کشت و عملکرد سیب‌زمینی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Poultry Birds__production,retitle,تولید، سطح زیر کشت و عملکرد پرندگان اهلی (ماکیان),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Pulses, Total__production",retitle,تولید، سطح زیر کشت و عملکرد حبوبات، جمع کل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Pumpkins, squash and gourds__production",retitle,تولید، سطح زیر کشت و عملکرد کدو تنبل، کدو مسمایی و کدوهای دیگر,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Quinces__production,retitle,تولید، سطح زیر کشت و عملکرد به,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Rape or colza seed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه کلزا,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Rapeseed or canola oil, crude__production",retitle,تولید، سطح زیر کشت و عملکرد روغن کلزا (کانولا)، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw cane or beet sugar (centrifugal only)__production,retitle,تولید، سطح زیر کشت و عملکرد شکر خام نیشکر یا چغندرقند (فرآوری‌شده با سانتریفیوژ),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw hides and skins of buffaloes__production,retitle,تولید، سطح زیر کشت و عملکرد پوست خام گاومیش,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw hides and skins of cattle__production,retitle,تولید، سطح زیر کشت و عملکرد پوست خام گاو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw hides and skins of goats or kids__production,retitle,تولید، سطح زیر کشت و عملکرد پوست خام بز و بزغاله,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw hides and skins of sheep or lambs__production,retitle,تولید، سطح زیر کشت و عملکرد پوست خام گوسفند و بره,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw milk of buffalo__production,retitle,تولید، سطح زیر کشت و عملکرد شیر خام گاومیش,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw milk of cattle__production,retitle,تولید، سطح زیر کشت و عملکرد شیر خام گاو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw milk of goats__production,retitle,تولید، سطح زیر کشت و عملکرد شیر خام بز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw milk of sheep__production,retitle,تولید، سطح زیر کشت و عملکرد شیر خام گوسفند,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Raw silk (not thrown)__production,retitle,تولید، سطح زیر کشت و عملکرد ابریشم خام (نتابیده),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Rice__production,retitle,تولید، سطح زیر کشت و عملکرد برنج,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Roots and Tubers, Total__production",retitle,تولید، سطح زیر کشت و عملکرد ریشه‌ها و غده‌ها، جمع کل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Rye__production,retitle,تولید، سطح زیر کشت و عملکرد چاودار,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Safflower seed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه گلرنگ,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Seed cotton, unginned__production",retitle,تولید، سطح زیر کشت و عملکرد پنبه‌وش، حلاجی‌نشده,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sesame seed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه کنجد,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sheep__production,retitle,تولید، سطح زیر کشت و عملکرد گوسفند,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sheep and Goat Meat__production,retitle,تولید، سطح زیر کشت و عملکرد گوشت گوسفند و بز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sheep and Goats__production,retitle,تولید، سطح زیر کشت و عملکرد گوسفند و بز,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Sheep fat, unrendered__production",retitle,تولید، سطح زیر کشت و عملکرد چربی گوسفند، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Shorn wool, greasy, including fleece-washed shorn wool__production",retitle,تولید، سطح زیر کشت و عملکرد پشم چیده‌شده، چرب (شامل پشم شسته‌شده روی بدن),,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Silk-worm cocoons suitable for reeling__production,retitle,تولید، سطح زیر کشت و عملکرد پیله کرم ابریشم مناسب برای نخ‌ریسی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Skim Milk & Buttermilk, Dry__production",retitle,تولید، سطح زیر کشت و عملکرد شیر پس‌چرخ و دوغ کره، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Skim milk and whey powder__production,retitle,تولید، سطح زیر کشت و عملکرد شیر پس‌چرخ و پودر آب‌پنیر,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Skim milk of cows__production,retitle,تولید، سطح زیر کشت و عملکرد شیر پس‌چرخ گاو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sour cherries__production,retitle,تولید، سطح زیر کشت و عملکرد آلبالو,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Soya bean oil__production,retitle,تولید، سطح زیر کشت و عملکرد روغن سویا,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Soya beans__production,retitle,تولید، سطح زیر کشت و عملکرد سویا,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Spinach__production,retitle,تولید، سطح زیر کشت و عملکرد اسفناج,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Strawberries__production,retitle,تولید، سطح زیر کشت و عملکرد توت‌فرنگی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sugar Crops Primary__production,retitle,تولید، سطح زیر کشت و عملکرد محصولات قندی، اولیه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sugar beet__production,retitle,تولید، سطح زیر کشت و عملکرد چغندرقند,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sugar cane__production,retitle,تولید، سطح زیر کشت و عملکرد نیشکر,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Sunflower seed__production,retitle,تولید، سطح زیر کشت و عملکرد دانه آفتابگردان,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Sunflower-seed oil, crude__production",retitle,تولید، سطح زیر کشت و عملکرد روغن آفتابگردان، خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Swine / pigs__production,retitle,تولید، سطح زیر کشت و عملکرد خوک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Tallow__production,retitle,تولید، سطح زیر کشت و عملکرد پیه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Tangerines, mandarins, clementines__production",retitle,تولید، سطح زیر کشت و عملکرد نارنگی و کلمانتین,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Tea leaves__production,retitle,تولید، سطح زیر کشت و عملکرد برگ چای,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Tomatoes__production,retitle,تولید، سطح زیر کشت و عملکرد گوجه‌فرنگی,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Treenuts, Total__production",retitle,تولید، سطح زیر کشت و عملکرد آجیل درختی، جمع کل,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Turkeys__production,retitle,تولید، سطح زیر کشت و عملکرد بوقلمون,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Unmanufactured tobacco__production,retitle,تولید، سطح زیر کشت و عملکرد توتون خام,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Vegetables Primary__production,retitle,تولید، سطح زیر کشت و عملکرد سبزیجات، اولیه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Walnuts, in shell__production",retitle,تولید، سطح زیر کشت و عملکرد گردو با پوست,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Watermelons__production,retitle,تولید، سطح زیر کشت و عملکرد هندوانه,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+faostat__Wheat__production,retitle,تولید، سطح زیر کشت و عملکرد گندم,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
+"faostat__Whey, dry__production",retitle,تولید، سطح زیر کشت و عملکرد آب‌پنیر، خشک,,"dash suffix + word order: subject-first ""X — measure"" construction violates rule 2 (no dash suffixes) and rule 1 (measure concept must lead, subject last); reordered to ""measure subject"""
