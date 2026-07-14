@@ -1,3 +1,1869 @@
 {
-  "labels": {}
+ "labels": {
+  "Production": {
+   "fa": "تولید"
+  },
+  "Producer Price Index (2014-2016 = 100)": {
+   "fa": "شاخص قیمت تولیدکننده (2014-2016 = 100)"
+  },
+  "Domestic supply quantity": {
+   "fa": "مقدار عرضه داخلی"
+  },
+  "Import quantity": {
+   "fa": "مقدار واردات"
+  },
+  "Export quantity": {
+   "fa": "مقدار صادرات"
+  },
+  "Food supply (kcal/capita/day)": {
+   "fa": "عرضه غذا (کیلوکالری، سرانه در روز)"
+  },
+  "Protein supply quantity (g/capita/day)": {
+   "fa": "مقدار عرضه پروتئین (گرم، سرانه در روز)"
+  },
+  "Fat supply quantity (g/capita/day)": {
+   "fa": "مقدار عرضه چربی (گرم، سرانه در روز)"
+  },
+  "Producer Price (LCU/tonne)": {
+   "fa": "قیمت تولیدکننده (واحد پول محلی بر تن)"
+  },
+  "Producer Price (SLC/tonne)": {
+   "fa": "قیمت تولیدکننده (واحد پول محلی ثابت بر تن)",
+   "en": "Producer Price (standard local currency per tonne)"
+  },
+  "Producer Price (USD/tonne)": {
+   "fa": "قیمت تولیدکننده (دلار بر تن)"
+  },
+  "Food": {
+   "fa": "مواد غذایی"
+  },
+  "Food supply quantity (kg/capita/yr)": {
+   "fa": "مقدار عرضه مواد غذایی (کیلوگرم، سرانه در سال)"
+  },
+  "Yield": {
+   "fa": "عملکرد"
+  },
+  "Area harvested": {
+   "fa": "سطح زیر کشت"
+  },
+  "Producing Animals/Slaughtered": {
+   "fa": "دام‌های تولیدی یا کشتارشده",
+   "en": "Producing Animals / Slaughtered"
+  },
+  "Yield/Carcass Weight": {
+   "fa": "عملکرد یا وزن لاشه",
+   "en": "Yield / Carcass Weight"
+  },
+  "Stocks": {
+   "fa": "موجودی دام"
+  },
+  "Milk Animals": {
+   "fa": "دام‌های شیرده"
+  },
+  "Total": {
+   "fa": "مجموع"
+  },
+  "Cement, hydraulic": {
+   "fa": "سیمان هیدرولیکی"
+  },
+  "Population": {
+   "fa": "جمعیت"
+  },
+  "Barite": {
+   "fa": "باریت"
+  },
+  "Gypsum, mine": {
+   "fa": "سنگ گچ، معدن"
+  },
+  "Petroleum, Crude": {
+   "fa": "نفت خام"
+  },
+  "Aluminum, Bauxite": {
+   "fa": "آلومینیوم، بوکسیت"
+  },
+  "Gold, mine, Au content": {
+   "fa": "طلا، معدن، محتوای طلا"
+  },
+  "Iron and steel, Direct-reduced iron": {
+   "fa": "آهن و فولاد، آهن اسفنجی"
+  },
+  "Clay, Kaolin": {
+   "fa": "رس، کائولن"
+  },
+  "Diatomite": {
+   "fa": "دیاتومیت"
+  },
+  "Iron and steel, Pig iron": {
+   "fa": "آهن و فولاد، چدن خام"
+  },
+  "Clay, Bentonite": {
+   "fa": "رس، بنتونیت"
+  },
+  "Feldspar": {
+   "fa": "فلدسپات"
+  },
+  "Vermiculite": {
+   "fa": "ورمیکولیت"
+  },
+  "Phosphate rock, Gross weight": {
+   "fa": "سنگ فسفات، وزن ناخالص"
+  },
+  "Phosphate rock, P2O5 content": {
+   "fa": "سنگ فسفات، محتوای P2O5"
+  },
+  "Silver, mine, Ag content": {
+   "fa": "نقره، معدن، محتوای نقره"
+  },
+  "Natural gas": {
+   "fa": "گاز طبیعی"
+  },
+  "Petroleum, Refinery": {
+   "fa": "نفت، پالایش"
+  },
+  "Land area": {
+   "fa": "مساحت خشکی"
+  },
+  "p90p100": {
+   "fa": "سهم 10 درصد ثروتمندترین (صدک 90 تا 100)",
+   "en": "Top 10% share (percentile 90-100)"
+  },
+  "p99p100": {
+   "fa": "سهم 1 درصد ثروتمندترین (صدک 99 تا 100)",
+   "en": "Top 1% share (percentile 99-100)"
+  },
+  "Laying": {
+   "fa": "دام‌های تخم‌گذار",
+   "en": "Laying (egg-producing animals)"
+  },
+  "Oil": {
+   "fa": "روغن"
+  },
+  "Investimento": {
+   "fa": "سرمایه‌گذاری",
+   "en": "Investment"
+  },
+  "Agriculture": {
+   "fa": "کشاورزی"
+  },
+  "Industry": {
+   "fa": "صنعت"
+  },
+  "Construction": {
+   "fa": "ساخت‌وساز"
+  },
+  "Gross national product": {
+   "fa": "تولید ناخالص ملی"
+  },
+  "earned_premium_million_irr": {
+   "fa": "حق بیمه عایدشده (میلیون ریال)",
+   "en": "Earned premium (million IRR)"
+  },
+  "incurred_loss_million_irr": {
+   "fa": "خسارت واقع‌شده (میلیون ریال)",
+   "en": "Incurred loss (million IRR)"
+  },
+  "number_of_branches": {
+   "fa": "تعداد شعبه‌ها",
+   "en": "Number of branches"
+  },
+  "number_of_brokers": {
+   "fa": "تعداد کارگزاران بیمه",
+   "en": "Number of brokers"
+  },
+  "number_of_agents": {
+   "fa": "تعداد نمایندگان بیمه",
+   "en": "Number of agents"
+  },
+  "number_of_loss_adjusters": {
+   "fa": "تعداد کارشناسان خسارت",
+   "en": "Number of loss adjusters"
+  },
+  "number_of_life_insurance_agents": {
+   "fa": "تعداد نمایندگان بیمه عمر",
+   "en": "Number of life-insurance agents"
+  },
+  "Money and Quasi Money": {
+   "fa": "پول و شبه‌پول"
+  },
+  "Money and Quasi Money (computed, nominal US$)": {
+   "fa": "پول و شبه‌پول (دلار اسمی، محاسبه‌شده)"
+  },
+  "Money and Quasi Money (computed, real 2015 US$)": {
+   "fa": "پول و شبه‌پول (دلار واقعی 2015، محاسبه‌شده)"
+  },
+  "Foreign Assets (net)": {
+   "fa": "دارایی‌های خارجی (خالص)"
+  },
+  "Foreign Assets (net) (computed, nominal US$)": {
+   "fa": "دارایی‌های خارجی، خالص (دلار اسمی، محاسبه‌شده)"
+  },
+  "Foreign Assets (net) (computed, real 2015 US$)": {
+   "fa": "دارایی‌های خارجی، خالص (دلار واقعی 2015، محاسبه‌شده)"
+  },
+  "Domestic Assets (net)": {
+   "fa": "دارایی‌های داخلی (خالص)"
+  },
+  "Domestic Assets (net) (computed, nominal US$)": {
+   "fa": "دارایی‌های داخلی، خالص (دلار اسمی، محاسبه‌شده)"
+  },
+  "Domestic Assets (net) (computed, real 2015 US$)": {
+   "fa": "دارایی‌های داخلی، خالص (دلار واقعی 2015، محاسبه‌شده)"
+  },
+  "Aluminum, Alumina": {
+   "fa": "آلومینیوم، آلومینا"
+  },
+  "Ferroalloys, Ferromanganese": {
+   "fa": "فروآلیاژها، فرومنگنز"
+  },
+  "Ferroalloys, Silicomanganese": {
+   "fa": "فروآلیاژها، سیلیکومنگنز"
+  },
+  "Zinc, mine, concentrate, Zn content": {
+   "fa": "روی، معدن، کنسانتره، محتوای روی"
+  },
+  "Clay, Unspecified": {
+   "fa": "رس، نامشخص"
+  },
+  "Nitrogen, ammonia, N content": {
+   "fa": "نیتروژن، آمونیاک، محتوای نیتروژن"
+  },
+  "Salt, all types": {
+   "fa": "نمک، همه انواع"
+  },
+  "Coal, Bituminous": {
+   "fa": "زغال‌سنگ، بیتومینه"
+  },
+  "Coal, Lignite": {
+   "fa": "زغال‌سنگ، لینیت",
+   "en": "Coal, Lignite (brown coal)"
+  },
+  "Boron": {
+   "fa": "بور"
+  },
+  "Fluorspar": {
+   "fa": "فلوئوریت"
+  },
+  "Mica": {
+   "fa": "میکا"
+  },
+  "Perlite": {
+   "fa": "پرلیت"
+  },
+  "Iron ore, mine, Fe content": {
+   "fa": "سنگ‌آهن، معدن، محتوای آهن"
+  },
+  "Iron ore, mine, Gross weight": {
+   "fa": "سنگ‌آهن، معدن، وزن ناخالص"
+  },
+  "Coke, metallurgical": {
+   "fa": "کک متالورژی"
+  },
+  "Copper, Refinery, Secondary": {
+   "fa": "مس، پالایش، ثانویه"
+  },
+  "Ferroalloys, Ferrochromium": {
+   "fa": "فروآلیاژها، فروکروم"
+  },
+  "Ferroalloys, Ferrosilicon": {
+   "fa": "فروآلیاژها، فروسیلیس"
+  },
+  "Molybdenum, mine, concentrate, Mo content": {
+   "fa": "مولیبدن، معدن، کنسانتره، محتوای مولیبدن"
+  },
+  "Gypsum": {
+   "fa": "سنگ گچ"
+  },
+  "Sand and gravel, industrial, unspecified": {
+   "fa": "شن و ماسه، صنعتی، نامشخص"
+  },
+  "Petroleum, Refinery, Gasoline": {
+   "fa": "نفت، پالایش، بنزین"
+  },
+  "Petroleum, Refinery, Kerosene": {
+   "fa": "نفت، پالایش، نفت سفید"
+  },
+  "Petroleum, Refinery, Residual fuel oil": {
+   "fa": "نفت، پالایش، نفت کوره"
+  },
+  "Petroleum, Refinery, Total": {
+   "fa": "نفت، پالایش، مجموع"
+  },
+  "Iron and steel, Raw steel": {
+   "fa": "آهن و فولاد، فولاد خام"
+  },
+  "Zinc, Mine, Zn content": {
+   "fa": "روی، معدن، محتوای روی"
+  },
+  "Salt": {
+   "fa": "نمک"
+  },
+  "Aluminum, Metal, primary": {
+   "fa": "آلومینیوم، فلز اولیه"
+  },
+  "Selenium, Se content": {
+   "fa": "سلنیوم، محتوای سلنیوم"
+  },
+  "Stone, sand, and gravel, construction, Stone, Dimension, Granite": {
+   "fa": "سنگ، شن و ماسه، ساختمانی، سنگ تزیینی، گرانیت"
+  },
+  "urban — households_surveyed": {
+   "fa": "خانوارهای بررسی‌شده، شهری",
+   "en": "households surveyed, urban"
+  },
+  "rural — households_surveyed": {
+   "fa": "خانوارهای بررسی‌شده، روستایی",
+   "en": "households surveyed, rural"
+  },
+  "Zeolites": {
+   "fa": "زئولیت‌ها"
+  },
+  "Stone, sand and gravel, construction, Sand and gravel, Gravel": {
+   "fa": "سنگ، شن و ماسه، ساختمانی، شن و ماسه، شن"
+  },
+  "Talc": {
+   "fa": "تالک"
+  },
+  "Zinc, mine, concentrate, Gross weight": {
+   "fa": "روی، معدن، کنسانتره، وزن ناخالص"
+  },
+  "Stone, sand and gravel, construction, Sand and gravel, Sand": {
+   "fa": "سنگ، شن و ماسه، ساختمانی، شن و ماسه، ماسه"
+  },
+  "Gross domestic product (at market prices) — current prices": {
+   "fa": "تولید ناخالص داخلی به قیمت بازار، قیمت‌های جاری",
+   "en": "Gross domestic product (at market prices), current prices"
+  },
+  "Net income from abroad — current prices": {
+   "fa": "درآمد خالص از خارج، قیمت‌های جاری",
+   "en": "Net income from abroad, current prices"
+  },
+  "Gross national product = Gross national income — current prices": {
+   "fa": "تولید ناخالص ملی (درآمد ناخالص ملی)، قیمت‌های جاری",
+   "en": "Gross national product = Gross national income, current prices"
+  },
+  "Less: consumption of fixed capital — current prices": {
+   "fa": "استهلاک سرمایه ثابت، قیمت‌های جاری",
+   "en": "Less: consumption of fixed capital, current prices"
+  },
+  "National income — current prices": {
+   "fa": "درآمد ملی، قیمت‌های جاری",
+   "en": "National income, current prices"
+  },
+  "Gross domestic product (at market prices) — constant 1390 prices": {
+   "fa": "تولید ناخالص داخلی به قیمت بازار، قیمت‌های ثابت 1390",
+   "en": "Gross domestic product (at market prices), constant 1390 prices"
+  },
+  "From changes in the terms of trade — constant 1390 prices": {
+   "fa": "ناشی از تغییرات رابطه مبادله، قیمت‌های ثابت 1390",
+   "en": "From changes in the terms of trade, constant 1390 prices"
+  },
+  "Net income from abroad — constant 1390 prices": {
+   "fa": "درآمد خالص از خارج، قیمت‌های ثابت 1390",
+   "en": "Net income from abroad, constant 1390 prices"
+  },
+  "Gross national product = Gross national income — constant 1390 prices": {
+   "fa": "تولید ناخالص ملی (درآمد ناخالص ملی)، قیمت‌های ثابت 1390",
+   "en": "Gross national product = Gross national income, constant 1390 prices"
+  },
+  "Less: consumption of fixed capital — constant 1390 prices": {
+   "fa": "استهلاک سرمایه ثابت، قیمت‌های ثابت 1390",
+   "en": "Less: consumption of fixed capital, constant 1390 prices"
+  },
+  "National income — constant 1390 prices": {
+   "fa": "درآمد ملی، قیمت‌های ثابت 1390",
+   "en": "National income, constant 1390 prices"
+  },
+  "Silver, Refinery, Primary": {
+   "fa": "نقره، پالایش، اولیه"
+  },
+  "Magnesium, primary, metal": {
+   "fa": "منیزیم، فلز اولیه"
+  },
+  "GDP growth": {
+   "fa": "رشد تولید ناخالص داخلی"
+  },
+  "Coast/area ratio": {
+   "fa": "نسبت طول ساحل به مساحت"
+  },
+  "Ship building": {
+   "fa": "کشتی‌سازی"
+  },
+  "Number of seafarers": {
+   "fa": "تعداد دریانوردان"
+  },
+  "Feldspar, mine": {
+   "fa": "فلدسپات، معدن"
+  },
+  "Petroleum, Refinery products": {
+   "fa": "نفت، فرآورده‌های پالایش"
+  },
+  "GDP": {
+   "fa": "تولید ناخالص داخلی"
+  },
+  "Current account balance": {
+   "fa": "تراز حساب جاری"
+  },
+  "Value of petroleum exports": {
+   "fa": "ارزش صادرات نفت"
+  },
+  "Natural gas reserves": {
+   "fa": "ذخایر گاز طبیعی"
+  },
+  "Natural gas marketed production": {
+   "fa": "تولید عرضه‌شده به بازار گاز طبیعی"
+  },
+  "Natural gas exports": {
+   "fa": "صادرات گاز طبیعی"
+  },
+  "Total — Gross Value": {
+   "fa": "ارزش ناخالص کل",
+   "en": "Total, Gross Value"
+  },
+  "Total — Gross Value (computed, nominal US$)": {
+   "fa": "ارزش ناخالص کل (دلار اسمی، محاسبه‌شده)",
+   "en": "Total, Gross Value (computed, nominal US$)"
+  },
+  "Total — Gross Value (computed, real 2015 US$)": {
+   "fa": "ارزش ناخالص کل (دلار واقعی 2015، محاسبه‌شده)",
+   "en": "Total, Gross Value (computed, real 2015 US$)"
+  },
+  "Completed family size per married woman, Tehran": {
+   "fa": "اندازه کامل خانواده به ازای هر زن متأهل، تهران"
+  },
+  "Net reproduction rate, Tehran": {
+   "fa": "نرخ خالص باروری، تهران"
+  },
+  "reservas_internacionales": {
+   "fa": "ذخایر بین‌المللی",
+   "en": "International reserves"
+  },
+  "tasa_interes_badlar_bancos_privados": {
+   "fa": "نرخ بهره بادلار، بانک‌های خصوصی",
+   "en": "BADLAR interest rate, private banks"
+  },
+  "tipo_cambio_mayorista_referencia": {
+   "fa": "نرخ ارز عمده‌فروشی مرجع",
+   "en": "Wholesale reference exchange rate"
+  },
+  "Emami gold coin price — open": {
+   "fa": "قیمت سکه امامی، بازگشایی",
+   "en": "Emami gold coin price, open"
+  },
+  "Emami gold coin price — low": {
+   "fa": "قیمت سکه امامی، کمترین",
+   "en": "Emami gold coin price, low"
+  },
+  "Emami gold coin price — high": {
+   "fa": "قیمت سکه امامی، بیشترین",
+   "en": "Emami gold coin price, high"
+  },
+  "Emami gold coin price — close": {
+   "fa": "قیمت سکه امامی، پایانی",
+   "en": "Emami gold coin price, close"
+  },
+  "p0p100": {
+   "fa": "کل جمعیت (صدک 0 تا 100)",
+   "en": "Whole population (percentile 0-100)"
+  },
+  "tipo_cambio_minorista": {
+   "fa": "نرخ ارز خرده‌فروشی",
+   "en": "Retail exchange rate"
+  },
+  "USD/IRR parallel-market rate — open": {
+   "fa": "نرخ بازار آزاد دلار/ریال، بازگشایی",
+   "en": "USD/IRR parallel-market rate, open"
+  },
+  "USD/IRR parallel-market rate — low": {
+   "fa": "نرخ بازار آزاد دلار/ریال، کمترین",
+   "en": "USD/IRR parallel-market rate, low"
+  },
+  "USD/IRR parallel-market rate — high": {
+   "fa": "نرخ بازار آزاد دلار/ریال، بیشترین",
+   "en": "USD/IRR parallel-market rate, high"
+  },
+  "USD/IRR parallel-market rate — close": {
+   "fa": "نرخ بازار آزاد دلار/ریال، پایانی",
+   "en": "USD/IRR parallel-market rate, close"
+  },
+  "Emami gold coin price — change_abs": {
+   "fa": "قیمت سکه امامی، تغییر مطلق",
+   "en": "Emami gold coin price, absolute change"
+  },
+  "Emami gold coin price — change_pct": {
+   "fa": "قیمت سکه امامی، درصد تغییر",
+   "en": "Emami gold coin price, percent change"
+  },
+  "USD/IRR parallel-market rate — change_abs": {
+   "fa": "نرخ بازار آزاد دلار/ریال، تغییر مطلق",
+   "en": "USD/IRR parallel-market rate, absolute change"
+  },
+  "USD/IRR parallel-market rate — change_pct": {
+   "fa": "نرخ بازار آزاد دلار/ریال، درصد تغییر",
+   "en": "USD/IRR parallel-market rate, percent change"
+  },
+  "Bahar Azadi gold coin price — open": {
+   "fa": "قیمت سکه بهار آزادی، بازگشایی",
+   "en": "Bahar Azadi gold coin price, open"
+  },
+  "Bahar Azadi gold coin price — low": {
+   "fa": "قیمت سکه بهار آزادی، کمترین",
+   "en": "Bahar Azadi gold coin price, low"
+  },
+  "Bahar Azadi gold coin price — high": {
+   "fa": "قیمت سکه بهار آزادی، بیشترین",
+   "en": "Bahar Azadi gold coin price, high"
+  },
+  "Bahar Azadi gold coin price — close": {
+   "fa": "قیمت سکه بهار آزادی، پایانی",
+   "en": "Bahar Azadi gold coin price, close"
+  },
+  "Bahar Azadi gold coin price — change_abs": {
+   "fa": "قیمت سکه بهار آزادی، تغییر مطلق",
+   "en": "Bahar Azadi gold coin price, absolute change"
+  },
+  "Bahar Azadi gold coin price — change_pct": {
+   "fa": "قیمت سکه بهار آزادی، درصد تغییر",
+   "en": "Bahar Azadi gold coin price, percent change"
+  },
+  "tasa_interes_politica_monetaria": {
+   "fa": "نرخ بهره سیاست پولی",
+   "en": "Monetary policy interest rate"
+  },
+  "Population ages 80 and above, male (% of male population)": {
+   "fa": "جمعیت مردان 80 سال به بالا (درصد از جمعیت مردان)"
+  },
+  "Population ages 15-64, total": {
+   "fa": "جمعیت 15 تا 64 ساله"
+  },
+  "Population ages 65 and above, female (% of female population)": {
+   "fa": "جمعیت زنان 65 سال به بالا (درصد از جمعیت زنان)"
+  },
+  "Population ages 65 and above, female": {
+   "fa": "جمعیت زنان 65 سال به بالا"
+  },
+  "Population, female (% of total population)": {
+   "fa": "جمعیت زنان (درصد از کل جمعیت)"
+  },
+  "Population, female": {
+   "fa": "جمعیت زنان"
+  },
+  "Rural population (% of total population)": {
+   "fa": "جمعیت روستایی (درصد از کل جمعیت)"
+  },
+  "Population ages 15-64, female": {
+   "fa": "جمعیت زنان 15 تا 64 ساله"
+  },
+  "Population ages 15-64, female (% of female population)": {
+   "fa": "جمعیت زنان 15 تا 64 ساله (درصد از جمعیت زنان)"
+  },
+  "Rural population": {
+   "fa": "جمعیت روستایی"
+  },
+  "Population in urban agglomerations of more than 1 million (% of total population)": {
+   "fa": "جمعیت کلان‌شهرهای بالای یک میلیون نفر (درصد از کل جمعیت)"
+  },
+  "Population ages 15-64, male": {
+   "fa": "جمعیت مردان 15 تا 64 ساله"
+  },
+  "Population ages 15-64, male (% of male population)": {
+   "fa": "جمعیت مردان 15 تا 64 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 65 and above, male": {
+   "fa": "جمعیت مردان 65 سال به بالا"
+  },
+  "Population ages 65 and above, male (% of male population)": {
+   "fa": "جمعیت مردان 65 سال به بالا (درصد از جمعیت مردان)"
+  },
+  "Net migration": {
+   "fa": "مهاجرت خالص"
+  },
+  "Population ages 0-14 (% of total population)": {
+   "fa": "جمعیت 0 تا 14 ساله (درصد از کل جمعیت)"
+  },
+  "Population, male": {
+   "fa": "جمعیت مردان"
+  },
+  "Population, male (% of total population)": {
+   "fa": "جمعیت مردان (درصد از کل جمعیت)"
+  },
+  "Population ages 80 and above, female (% of female population)": {
+   "fa": "جمعیت زنان 80 سال به بالا (درصد از جمعیت زنان)"
+  },
+  "Population in the largest city (% of urban population)": {
+   "fa": "جمعیت بزرگ‌ترین شهر (درصد از جمعیت شهری)"
+  },
+  "Age dependency ratio (% of working-age population)": {
+   "fa": "نسبت وابستگی سنی (درصد از جمعیت در سن کار)"
+  },
+  "Population, total": {
+   "fa": "جمعیت کل"
+  },
+  "Population ages 65-69, male (% of male population)": {
+   "fa": "جمعیت مردان 65 تا 69 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 45-49, male (% of male population)": {
+   "fa": "جمعیت مردان 45 تا 49 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 25-29, male (% of male population)": {
+   "fa": "جمعیت مردان 25 تا 29 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 15-64 (% of total population)": {
+   "fa": "جمعیت 15 تا 64 ساله (درصد از کل جمعیت)"
+  },
+  "Population ages 05-09, male (% of male population)": {
+   "fa": "جمعیت مردان 5 تا 9 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 65 and above (% of total population)": {
+   "fa": "جمعیت 65 سال به بالا (درصد از کل جمعیت)"
+  },
+  "Population ages 0-14, total": {
+   "fa": "جمعیت 0 تا 14 ساله"
+  },
+  "Population ages 0-14, male (% of male population)": {
+   "fa": "جمعیت مردان 0 تا 14 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 0-14, male": {
+   "fa": "جمعیت مردان 0 تا 14 ساله"
+  },
+  "Population ages 00-04, male (% of male population)": {
+   "fa": "جمعیت مردان 0 تا 4 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 20-24, male (% of male population)": {
+   "fa": "جمعیت مردان 20 تا 24 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 40-44, male (% of male population)": {
+   "fa": "جمعیت مردان 40 تا 44 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 60-64, male (% of male population)": {
+   "fa": "جمعیت مردان 60 تا 64 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 15-19, female (% of female population)": {
+   "fa": "جمعیت زنان 15 تا 19 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 35-39, female (% of female population)": {
+   "fa": "جمعیت زنان 35 تا 39 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 55-59, female (% of female population)": {
+   "fa": "جمعیت زنان 55 تا 59 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 75-79, female (% of female population)": {
+   "fa": "جمعیت زنان 75 تا 79 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 70-74, female (% of female population)": {
+   "fa": "جمعیت زنان 70 تا 74 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 50-54, female (% of female population)": {
+   "fa": "جمعیت زنان 50 تا 54 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 30-34, female (% of female population)": {
+   "fa": "جمعیت زنان 30 تا 34 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 10-14, female (% of female population)": {
+   "fa": "جمعیت زنان 10 تا 14 ساله (درصد از جمعیت زنان)"
+  },
+  "Age dependency ratio, young (% of working-age population)": {
+   "fa": "نسبت وابستگی سنی جوانان (درصد از جمعیت در سن کار)"
+  },
+  "Age dependency ratio, old (% of working-age population)": {
+   "fa": "نسبت وابستگی سنی سالمندان (درصد از جمعیت در سن کار)"
+  },
+  "Population ages 10-14, male (% of male population)": {
+   "fa": "جمعیت مردان 10 تا 14 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 30-34, male (% of male population)": {
+   "fa": "جمعیت مردان 30 تا 34 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 50-54, male (% of male population)": {
+   "fa": "جمعیت مردان 50 تا 54 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 70-74, male (% of male population)": {
+   "fa": "جمعیت مردان 70 تا 74 ساله (درصد از جمعیت مردان)"
+  },
+  "Urban population (% of total population)": {
+   "fa": "جمعیت شهری (درصد از کل جمعیت)"
+  },
+  "Population ages 75-79, male (% of male population)": {
+   "fa": "جمعیت مردان 75 تا 79 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 55-59, male (% of male population)": {
+   "fa": "جمعیت مردان 55 تا 59 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 35-39, male (% of male population)": {
+   "fa": "جمعیت مردان 35 تا 39 ساله (درصد از جمعیت مردان)"
+  },
+  "Population ages 15-19, male (% of male population)": {
+   "fa": "جمعیت مردان 15 تا 19 ساله (درصد از جمعیت مردان)"
+  },
+  "Population in urban agglomerations of more than 1 million": {
+   "fa": "جمعیت کلان‌شهرهای بالای یک میلیون نفر"
+  },
+  "Population in largest city": {
+   "fa": "جمعیت بزرگ‌ترین شهر"
+  },
+  "Population ages 0-14, female": {
+   "fa": "جمعیت زنان 0 تا 14 ساله"
+  },
+  "Population ages 0-14, female (% of female population)": {
+   "fa": "جمعیت زنان 0 تا 14 ساله (درصد از جمعیت زنان)"
+  },
+  "Urban population": {
+   "fa": "جمعیت شهری"
+  },
+  "Population ages 60-64, female (% of female population)": {
+   "fa": "جمعیت زنان 60 تا 64 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 40-44, female (% of female population)": {
+   "fa": "جمعیت زنان 40 تا 44 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 20-24, female (% of female population)": {
+   "fa": "جمعیت زنان 20 تا 24 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 65 and above, total": {
+   "fa": "جمعیت 65 سال به بالا"
+  },
+  "Population ages 00-04, female (% of female population)": {
+   "fa": "جمعیت زنان 0 تا 4 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 05-09, female (% of female population)": {
+   "fa": "جمعیت زنان 5 تا 9 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 25-29, female (% of female population)": {
+   "fa": "جمعیت زنان 25 تا 29 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 45-49, female (% of female population)": {
+   "fa": "جمعیت زنان 45 تا 49 ساله (درصد از جمعیت زنان)"
+  },
+  "Population ages 65-69, female (% of female population)": {
+   "fa": "جمعیت زنان 65 تا 69 ساله (درصد از جمعیت زنان)"
+  },
+  "Fertility rate, total (births per woman)": {
+   "fa": "نرخ باروری کل (تولد به ازای هر زن)"
+  },
+  "Rural population growth (annual %)": {
+   "fa": "رشد جمعیت روستایی (درصد سالانه)"
+  },
+  "Birth rate, crude (per 1,000 people)": {
+   "fa": "نرخ خام تولد (به ازای هر 1,000 نفر)"
+  },
+  "Population growth (annual %)": {
+   "fa": "رشد جمعیت (درصد سالانه)"
+  },
+  "Adolescent fertility rate (births per 1,000 women ages 15-19)": {
+   "fa": "نرخ باروری نوجوانان (تولد به ازای هر 1,000 زن 15 تا 19 ساله)"
+  },
+  "Life expectancy at birth, total (years)": {
+   "fa": "امید به زندگی در بدو تولد، کل (سال)"
+  },
+  "Survival to age 65, male (% of cohort)": {
+   "fa": "بقا تا سن 65 سالگی، مردان (درصد از هم‌گروهی)"
+  },
+  "Life expectancy at birth, male (years)": {
+   "fa": "امید به زندگی در بدو تولد، مردان (سال)"
+  },
+  "Sex ratio at birth (male births per female births)": {
+   "fa": "نسبت جنسی در بدو تولد (تولد پسر به ازای هر تولد دختر)"
+  },
+  "Survival to age 65, female (% of cohort)": {
+   "fa": "بقا تا سن 65 سالگی، زنان (درصد از هم‌گروهی)"
+  },
+  "Life expectancy at birth, female (years)": {
+   "fa": "امید به زندگی در بدو تولد، زنان (سال)"
+  },
+  "Urban population growth (annual %)": {
+   "fa": "رشد جمعیت شهری (درصد سالانه)"
+  },
+  "Death rate, crude (per 1,000 people)": {
+   "fa": "نرخ خام مرگ‌ومیر (به ازای هر 1,000 نفر)"
+  },
+  "DEC alternative conversion factor (LCU per US$)": {
+   "fa": "ضریب تبدیل جایگزین DEC (واحد پول محلی بر دلار)",
+   "en": "DEC alternative conversion factor (local currency unit per US$)"
+  },
+  "GDP deflator (base year varies by country)": {
+   "fa": "تعدیل‌کننده تولید ناخالص داخلی (سال پایه بسته به کشور متفاوت است)"
+  },
+  "Merchandise trade (% of GDP)": {
+   "fa": "تجارت کالا (درصد از تولید ناخالص داخلی)"
+  },
+  "GDP growth (annual %)": {
+   "fa": "رشد تولید ناخالص داخلی (درصد سالانه)"
+  },
+  "Inflation, GDP deflator (annual %)": {
+   "fa": "تورم بر پایه تعدیل‌کننده تولید ناخالص داخلی (درصد سالانه)"
+  },
+  "GDP per capita growth (annual %)": {
+   "fa": "رشد تولید ناخالص داخلی سرانه (درصد سالانه)"
+  },
+  "Capture fisheries production (metric tons)": {
+   "fa": "تولید صید طبیعی آبزیان (تن)"
+  },
+  "Military expenditure (current USD)": {
+   "fa": "هزینه‌های نظامی (دلار جاری آمریکا)"
+  },
+  "Total fisheries production (metric tons)": {
+   "fa": "تولید کل شیلات (تن)"
+  },
+  "Aquaculture production (metric tons)": {
+   "fa": "تولید آبزی‌پروری (تن)"
+  },
+  "Fixed telephone subscriptions": {
+   "fa": "مشترکان تلفن ثابت"
+  },
+  "Fixed telephone subscriptions (per 100 people)": {
+   "fa": "مشترکان تلفن ثابت (به ازای هر 100 نفر)"
+  },
+  "Surface area (sq. km)": {
+   "fa": "مساحت کل (کیلومتر مربع)"
+  },
+  "Agricultural land (sq. km)": {
+   "fa": "اراضی کشاورزی (کیلومتر مربع)"
+  },
+  "Official exchange rate (LCU per US$, period average)": {
+   "fa": "نرخ رسمی ارز (واحد پول محلی بر دلار، میانگین دوره)"
+  },
+  "Mortality rate, under-5 (per 1,000 live births)": {
+   "fa": "نرخ مرگ‌ومیر زیر 5 سال (به ازای هر 1,000 تولد زنده)"
+  },
+  "Mortality rate, under-5, female (per 1,000 live births)": {
+   "fa": "نرخ مرگ‌ومیر زیر 5 سال زنان (به ازای هر 1,000 تولد زنده)"
+  },
+  "Mortality rate, under-5, male (per 1,000 live births)": {
+   "fa": "نرخ مرگ‌ومیر زیر 5 سال مردان (به ازای هر 1,000 تولد زنده)"
+  },
+  "Mortality rate, infant, male (per 1,000 live births)": {
+   "fa": "نرخ مرگ‌ومیر شیرخواران مردان (به ازای هر 1,000 تولد زنده)"
+  },
+  "Mortality rate, infant, female (per 1,000 live births)": {
+   "fa": "نرخ مرگ‌ومیر شیرخواران زنان (به ازای هر 1,000 تولد زنده)"
+  },
+  "Military expenditure (% of GDP)": {
+   "fa": "هزینه‌های نظامی (درصد از تولید ناخالص داخلی)"
+  },
+  "Mortality rate, infant (per 1,000 live births)": {
+   "fa": "نرخ مرگ‌ومیر شیرخواران (به ازای هر 1,000 تولد زنده)"
+  },
+  "Mortality rate, adult, male (per 1,000 male adults)": {
+   "fa": "نرخ مرگ‌ومیر بزرگسالان مردان (به ازای هر 1,000 مرد بزرگسال)"
+  },
+  "Mortality rate, adult, female (per 1,000 female adults)": {
+   "fa": "نرخ مرگ‌ومیر بزرگسالان زنان (به ازای هر 1,000 زن بزرگسال)"
+  },
+  "Number of infant deaths": {
+   "fa": "تعداد مرگ‌ومیر شیرخواران"
+  },
+  "Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط خارج از منطقه (درصد از کل واردات کالا)"
+  },
+  "Merchandise imports from high-income economies (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای با درآمد بالا (درصد از کل واردات کالا)"
+  },
+  "Merchandise imports by the reporting economy, residual (% of total merchandise imports)": {
+   "fa": "واردات کالا توسط کشور گزارش‌دهنده، باقیمانده (درصد از کل واردات کالا)"
+  },
+  "Cereal yield (kg per hectare)": {
+   "fa": "عملکرد غلات (کیلوگرم بر هکتار)"
+  },
+  "Cereal production (metric tons)": {
+   "fa": "تولید غلات (تن)"
+  },
+  "Land under cereal production (hectares)": {
+   "fa": "اراضی زیر کشت غلات (هکتار)"
+  },
+  "Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط آمریکای لاتین و کارائیب (درصد از کل واردات کالا)"
+  },
+  "Arms imports (SIPRI trend indicator values)": {
+   "fa": "واردات تسلیحات (شاخص روند سیپری)"
+  },
+  "Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط جنوب آسیا (درصد از کل واردات کالا)"
+  },
+  "Number of under-five deaths": {
+   "fa": "تعداد مرگ‌ومیر کودکان زیر 5 سال"
+  },
+  "Agricultural land (% of land area)": {
+   "fa": "اراضی کشاورزی (درصد از مساحت خشکی)"
+  },
+  "Land area (sq. km)": {
+   "fa": "مساحت خشکی (کیلومتر مربع)"
+  },
+  "Arable land (hectares)": {
+   "fa": "اراضی زراعی (هکتار)"
+  },
+  "Arable land (% of land area)": {
+   "fa": "اراضی زراعی (درصد از مساحت خشکی)"
+  },
+  "Fertilizer consumption (kilograms per hectare of arable land)": {
+   "fa": "مصرف کود (کیلوگرم بر هکتار اراضی زراعی)"
+  },
+  "Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط شرق آسیا و اقیانوسیه (درصد از کل واردات کالا)"
+  },
+  "Population density (people per sq. km of land area)": {
+   "fa": "تراکم جمعیت (نفر بر کیلومتر مربع مساحت خشکی)"
+  },
+  "Permanent cropland (% of land area)": {
+   "fa": "اراضی زیر کشت دائمی (درصد از مساحت خشکی)"
+  },
+  "Arable land (hectares per person)": {
+   "fa": "اراضی زراعی (هکتار به ازای هر نفر)"
+  },
+  "Military expenditure (current USD) (computed real, 2015 US$)": {
+   "fa": "هزینه‌های نظامی (دلار واقعی 2015، محاسبه‌شده)"
+  },
+  "Merchandise exports to high-income economies (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای با درآمد بالا (درصد از کل صادرات کالا)"
+  },
+  "Merchandise exports by the reporting economy, residual (% of total merchandise exports)": {
+   "fa": "صادرات کالا توسط کشور گزارش‌دهنده، باقیمانده (درصد از کل صادرات کالا)"
+  },
+  "Merchandise imports from economies in the Arab World (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای جهان عرب (درصد از کل واردات کالا)"
+  },
+  "Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط آفریقای زیرصحرا (درصد از کل واردات کالا)"
+  },
+  "Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط خاورمیانه و شمال آفریقا (درصد از کل واردات کالا)"
+  },
+  "Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط خارج از منطقه (درصد از کل صادرات کالا)"
+  },
+  "Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط آمریکای لاتین و کارائیب (درصد از کل صادرات کالا)"
+  },
+  "Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط شرق آسیا و اقیانوسیه (درصد از کل صادرات کالا)"
+  },
+  "Food production index (2014-2016 = 100)": {
+   "fa": "شاخص تولید مواد غذایی (2014-2016 = 100)"
+  },
+  "Crop production index (2014-2016 = 100)": {
+   "fa": "شاخص تولید محصولات زراعی (2014-2016 = 100)"
+  },
+  "Renewable internal freshwater resources per capita (cubic meters)": {
+   "fa": "منابع آب شیرین تجدیدپذیر داخلی سرانه (متر مکعب)"
+  },
+  "Renewable internal freshwater resources, total (billion cubic meters)": {
+   "fa": "منابع آب شیرین تجدیدپذیر داخلی، مجموع (میلیارد متر مکعب)"
+  },
+  "Livestock production index (2014-2016 = 100)": {
+   "fa": "شاخص تولید دام (2014-2016 = 100)"
+  },
+  "Average precipitation in depth (mm per year)": {
+   "fa": "میانگین بارش سالانه (میلی‌متر در سال)"
+  },
+  "Merchandise exports to economies in the Arab World (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای جهان عرب (درصد از کل صادرات کالا)"
+  },
+  "Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط خاورمیانه و شمال آفریقا (درصد از کل صادرات کالا)"
+  },
+  "Gross domestic savings (% of GDP)": {
+   "fa": "پس‌انداز ناخالص داخلی (درصد از تولید ناخالص داخلی)"
+  },
+  "Gross capital formation (% of GDP)": {
+   "fa": "تشکیل سرمایه ناخالص (درصد از تولید ناخالص داخلی)"
+  },
+  "Gross national expenditure (% of GDP)": {
+   "fa": "مخارج ناخالص ملی (درصد از تولید ناخالص داخلی)"
+  },
+  "Final consumption expenditure (% of GDP)": {
+   "fa": "مخارج نهایی مصرف (درصد از تولید ناخالص داخلی)"
+  },
+  "Exports of goods and services (% of GDP)": {
+   "fa": "صادرات کالا و خدمات (درصد از تولید ناخالص داخلی)"
+  },
+  "Trade (% of GDP)": {
+   "fa": "تجارت (درصد از تولید ناخالص داخلی)"
+  },
+  "External balance on goods and services (% of GDP)": {
+   "fa": "تراز خارجی کالا و خدمات (درصد از تولید ناخالص داخلی)"
+  },
+  "Imports of goods and services (% of GDP)": {
+   "fa": "واردات کالا و خدمات (درصد از تولید ناخالص داخلی)"
+  },
+  "Fertilizer consumption (% of fertilizer production)": {
+   "fa": "مصرف کود (درصد از تولید کود)"
+  },
+  "Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط جنوب آسیا (درصد از کل صادرات کالا)"
+  },
+  "Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط آفریقای زیرصحرا (درصد از کل صادرات کالا)"
+  },
+  "Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط اروپا و آسیای مرکزی (درصد از کل واردات کالا)"
+  },
+  "Gross fixed capital formation (% of GDP)": {
+   "fa": "تشکیل سرمایه ثابت ناخالص (درصد از تولید ناخالص داخلی)"
+  },
+  "Households and NPISHs final consumption expenditure (% of GDP)": {
+   "fa": "مخارج نهایی مصرف خانوارها و مؤسسات غیرانتفاعی خدمت‌رسان به خانوار (درصد از تولید ناخالص داخلی)"
+  },
+  "General government final consumption expenditure (% of GDP)": {
+   "fa": "مخارج نهایی مصرف دولت (درصد از تولید ناخالص داخلی)"
+  },
+  "Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط اروپا و آسیای مرکزی (درصد از کل صادرات کالا)"
+  },
+  "Refugees under the mandate of the UNHCR by country or territory of asylum": {
+   "fa": "پناهندگان تحت پوشش کمیساریای عالی پناهندگان سازمان ملل، بر اساس کشور یا قلمرو پناهندگی"
+  },
+  "Ores and metals imports (% of merchandise imports)": {
+   "fa": "واردات سنگ‌معدن و فلزات (درصد از واردات کالا)"
+  },
+  "Food imports (% of merchandise imports)": {
+   "fa": "واردات مواد غذایی (درصد از واردات کالا)"
+  },
+  "Fuel imports (% of merchandise imports)": {
+   "fa": "واردات سوخت (درصد از واردات کالا)"
+  },
+  "Manufactures imports (% of merchandise imports)": {
+   "fa": "واردات کالاهای ساخته‌شده (درصد از واردات کالا)"
+  },
+  "Agricultural raw materials imports (% of merchandise imports)": {
+   "fa": "واردات مواد خام کشاورزی (درصد از واردات کالا)"
+  },
+  "Food exports (% of merchandise exports)": {
+   "fa": "صادرات مواد غذایی (درصد از صادرات کالا)"
+  },
+  "Ores and metals exports (% of merchandise exports)": {
+   "fa": "صادرات سنگ‌معدن و فلزات (درصد از صادرات کالا)"
+  },
+  "Manufactures exports (% of merchandise exports)": {
+   "fa": "صادرات کالاهای ساخته‌شده (درصد از صادرات کالا)"
+  },
+  "Agricultural raw materials exports (% of merchandise exports)": {
+   "fa": "صادرات مواد خام کشاورزی (درصد از صادرات کالا)"
+  },
+  "Fuel exports (% of merchandise exports)": {
+   "fa": "صادرات سوخت (درصد از صادرات کالا)"
+  },
+  "Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)": {
+   "fa": "واردات کالا از اقتصادهای کم‌درآمد و متوسط داخل منطقه (درصد از کل واردات کالا)"
+  },
+  "Inflation, consumer prices (annual %)": {
+   "fa": "تورم قیمت مصرف‌کننده (درصد سالانه)"
+  },
+  "Consumer price index (2010 = 100)": {
+   "fa": "شاخص قیمت مصرف‌کننده (2010 = 100)"
+  },
+  "Mortality rate, neonatal (per 1,000 live births)": {
+   "fa": "نرخ مرگ‌ومیر نوزادان (به ازای هر 1,000 تولد زنده)"
+  },
+  "Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)": {
+   "fa": "صادرات کالا به اقتصادهای کم‌درآمد و متوسط داخل منطقه (درصد از کل صادرات کالا)"
+  },
+  "Primary education, duration (years)": {
+   "fa": "طول دوره آموزش ابتدایی (سال)"
+  },
+  "Primary school starting age (years)": {
+   "fa": "سن شروع تحصیل ابتدایی (سال)"
+  },
+  "Secondary education, duration (years)": {
+   "fa": "طول دوره آموزش متوسطه (سال)"
+  },
+  "Lower secondary school starting age (years)": {
+   "fa": "سن شروع تحصیل متوسطه اول (سال)"
+  },
+  "Number of neonatal deaths": {
+   "fa": "تعداد مرگ‌ومیر نوزادان"
+  },
+  "Gross fixed capital formation (annual % growth)": {
+   "fa": "تشکیل سرمایه ثابت ناخالص (رشد سالانه، درصد)"
+  },
+  "Total greenhouse gas emissions excluding LULUCF (Mt CO2e)": {
+   "fa": "انتشار گازهای گلخانه‌ای، مجموع، بدون احتساب کاربری زمین و جنگل‌داری (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از احتراق صنعتی (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2) از احتراق صنعتی (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)": {
+   "fa": "انتشار سرانه دی‌اکسید کربن (CO2)، بدون احتساب کاربری زمین و جنگل‌داری (تن معادل CO2 به ازای هر نفر)"
+  },
+  "Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از فرایندهای صنعتی (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Transport (Energy) (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از حمل‌ونقل (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2) از حمل‌ونقل (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Agriculture (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از کشاورزی (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2) از کشاورزی (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2) از صنعت برق (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از صنعت برق (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Waste (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از پسماند (میلیون تن معادل CO2)"
+  },
+  "Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از نشر گریزان (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e)": {
+   "fa": "انتشار متان (CH4)، مجموع، بدون احتساب کاربری زمین و جنگل‌داری (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2) از ساختمان (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Building (Energy) (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از ساختمان (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از ساختمان (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2)، مجموع، بدون احتساب کاربری زمین و جنگل‌داری (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2) از نشر گریزان (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از نشر گریزان (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Nitrous oxide (N2O) emissions from Waste (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از پسماند (میلیون تن معادل CO2)"
+  },
+  "Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از صنعت برق (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita)": {
+   "fa": "انتشار سرانه گازهای گلخانه‌ای، بدون احتساب کاربری زمین و جنگل‌داری (تن معادل CO2 به ازای هر نفر)"
+  },
+  "Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از کشاورزی (میلیون تن معادل CO2)"
+  },
+  "Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از حمل‌ونقل (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Methane (CH4) emissions from Industrial Processes (Mt CO2e)": {
+   "fa": "انتشار متان (CH4) از فرایندهای صنعتی (میلیون تن معادل CO2)"
+  },
+  "Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e)": {
+   "fa": "انتشار دی‌اکسید کربن (CO2) از فرایندهای صنعتی (میلیون تن معادل CO2)"
+  },
+  "Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O)، مجموع، بدون احتساب کاربری زمین و جنگل‌داری (میلیون تن معادل CO2)"
+  },
+  "Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e)": {
+   "fa": "انتشار اکسید نیتروژن (N2O) از احتراق صنعتی (انرژی) (میلیون تن معادل CO2)"
+  },
+  "Final consumption expenditure (annual % growth)": {
+   "fa": "مخارج نهایی مصرف (رشد سالانه، درصد)"
+  },
+  "Imports of goods and services (annual % growth)": {
+   "fa": "واردات کالا و خدمات (رشد سالانه، درصد)"
+  },
+  "Exports of goods and services (annual % growth)": {
+   "fa": "صادرات کالا و خدمات (رشد سالانه، درصد)"
+  },
+  "Foreign direct investment, net inflows (% of GDP)": {
+   "fa": "سرمایه‌گذاری مستقیم خارجی، ورودی خالص (درصد از تولید ناخالص داخلی)"
+  },
+  "Gross national expenditure deflator (base year varies by country)": {
+   "fa": "تعدیل‌کننده مخارج ناخالص ملی (سال پایه بسته به کشور متفاوت است)"
+  },
+  "General government final consumption expenditure (annual % growth)": {
+   "fa": "مخارج نهایی مصرف دولت (رشد سالانه، درصد)"
+  },
+  "Air transport, passengers carried": {
+   "fa": "حمل‌ونقل هوایی، مسافران جابه‌جاشده"
+  },
+  "Air transport, registered carrier departures worldwide": {
+   "fa": "حمل‌ونقل هوایی، پروازهای خروجی ثبت‌شده در جهان"
+  },
+  "Gross capital formation (annual % growth)": {
+   "fa": "تشکیل سرمایه ناخالص (رشد سالانه، درصد)"
+  },
+  "Air transport, freight (million ton-km)": {
+   "fa": "حمل‌ونقل هوایی، بار (میلیون تن-کیلومتر)"
+  },
+  "Households and NPISHs Final consumption expenditure (annual % growth)": {
+   "fa": "مخارج نهایی مصرف خانوارها و مؤسسات غیرانتفاعی خدمت‌رسان به خانوار (رشد سالانه، درصد)"
+  },
+  "Adjusted savings: education expenditure (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: هزینه آموزش (درصد از درآمد ناخالص ملی)"
+  },
+  "Foreign direct investment, net outflows (% of GDP)": {
+   "fa": "سرمایه‌گذاری مستقیم خارجی، خروجی خالص (درصد از تولید ناخالص داخلی)"
+  },
+  "Mobile cellular subscriptions": {
+   "fa": "مشترکان تلفن همراه"
+  },
+  "Mobile cellular subscriptions (per 100 people)": {
+   "fa": "مشترکان تلفن همراه (به ازای هر 100 نفر)"
+  },
+  "Textiles and clothing (% of value added in manufacturing)": {
+   "fa": "نساجی و پوشاک (درصد از ارزش افزوده صنایع تولیدی)"
+  },
+  "Other manufacturing (% of value added in manufacturing)": {
+   "fa": "سایر صنایع تولیدی (درصد از ارزش افزوده صنایع تولیدی)"
+  },
+  "Gross domestic product (GDP), Constant prices, Per capita, purchasing power parity (PPP) international dollar, ICP benchmark 2021": {
+   "fa": "تولید ناخالص داخلی سرانه به قیمت‌های ثابت، برابری قدرت خرید (دلار بین‌المللی، مبنای برنامه مقایسه بین‌المللی 2021)"
+  },
+  "Chemicals (% of value added in manufacturing)": {
+   "fa": "مواد شیمیایی (درصد از ارزش افزوده صنایع تولیدی)"
+  },
+  "Gross domestic product (GDP), Purchasing power parity (PPP) international dollar, percent of world GDP, Percent, ICP benchmarks 2017-2021": {
+   "fa": "سهم تولید ناخالص داخلی به برابری قدرت خرید از تولید ناخالص داخلی جهان (درصد، مبنای برنامه مقایسه بین‌المللی 2017-2021)"
+  },
+  "Machinery and transport equipment (% of value added in manufacturing)": {
+   "fa": "ماشین‌آلات و تجهیزات حمل‌ونقل (درصد از ارزش افزوده صنایع تولیدی)"
+  },
+  "Food, beverages and tobacco (% of value added in manufacturing)": {
+   "fa": "خوراکی، نوشیدنی و دخانیات (درصد از ارزش افزوده صنایع تولیدی)"
+  },
+  "Exports of goods, Volume, Free on board (FOB), Percent change": {
+   "fa": "درصد تغییر حجم صادرات کالا (فوب)"
+  },
+  "Imports of goods, Volume, Cost insurance freight (CIF), Percent change": {
+   "fa": "درصد تغییر حجم واردات کالا (سیف)"
+  },
+  "Mineral rents (% of GDP)": {
+   "fa": "رانت کانی‌ها (درصد از تولید ناخالص داخلی)"
+  },
+  "Forest rents (% of GDP)": {
+   "fa": "رانت جنگل (درصد از تولید ناخالص داخلی)"
+  },
+  "Total natural resources rents (% of GDP)": {
+   "fa": "رانت کل منابع طبیعی (درصد از تولید ناخالص داخلی)"
+  },
+  "Imports of goods and services, Volume, Cost insurance freight (CIF), Percent change": {
+   "fa": "درصد تغییر حجم واردات کالا و خدمات (سیف)"
+  },
+  "Exports of goods and services, Volume, Free on board (FOB), Percent change": {
+   "fa": "درصد تغییر حجم صادرات کالا و خدمات (فوب)"
+  },
+  "Oil rents (% of GDP)": {
+   "fa": "رانت نفت (درصد از تولید ناخالص داخلی)"
+  },
+  "Coal rents (% of GDP)": {
+   "fa": "رانت زغال‌سنگ (درصد از تولید ناخالص داخلی)"
+  },
+  "Natural gas rents (% of GDP)": {
+   "fa": "رانت گاز طبیعی (درصد از تولید ناخالص داخلی)"
+  },
+  "Computer, communications and other services (% of commercial service imports)": {
+   "fa": "خدمات رایانه‌ای، ارتباطی و سایر خدمات (درصد از واردات خدمات بازرگانی)"
+  },
+  "Current account balance (% of GDP)": {
+   "fa": "تراز حساب جاری (درصد از تولید ناخالص داخلی)"
+  },
+  "Trade in services (% of GDP)": {
+   "fa": "تجارت خدمات (درصد از تولید ناخالص داخلی)"
+  },
+  "Gross domestic product (GDP), Current prices, Fiscal year, Domestic currency": {
+   "fa": "تولید ناخالص داخلی به قیمت‌های جاری، سال مالی (واحد پول محلی)"
+  },
+  "Households and NPISHs Final consumption expenditure per capita growth (annual %)": {
+   "fa": "رشد سرانه مخارج نهایی مصرف خانوارها و مؤسسات غیرانتفاعی خدمت‌رسان به خانوار (درصد سالانه)"
+  },
+  "Gross savings (% of GNI)": {
+   "fa": "پس‌انداز ناخالص (درصد از درآمد ناخالص ملی)"
+  },
+  "Gross savings (% of GDP)": {
+   "fa": "پس‌انداز ناخالص (درصد از تولید ناخالص داخلی)"
+  },
+  "Transport services (% of commercial service imports)": {
+   "fa": "خدمات حمل‌ونقل (درصد از واردات خدمات بازرگانی)"
+  },
+  "Transport services (% of service imports, BoP)": {
+   "fa": "خدمات حمل‌ونقل (درصد از واردات خدمات، تراز پرداخت‌ها)"
+  },
+  "Communications, computer, etc. (% of service exports, BoP)": {
+   "fa": "خدمات ارتباطی، رایانه‌ای و مانند آن (درصد از صادرات خدمات، تراز پرداخت‌ها)"
+  },
+  "Communications, computer, etc. (% of service imports, BoP)": {
+   "fa": "خدمات ارتباطی، رایانه‌ای و مانند آن (درصد از واردات خدمات، تراز پرداخت‌ها)"
+  },
+  "Total reserves in months of imports": {
+   "fa": "ذخایر کل بر حسب ماه‌های واردات"
+  },
+  "Adjusted savings: mineral depletion (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: استهلاک منابع معدنی (درصد از درآمد ناخالص ملی)"
+  },
+  "Adjusted savings: energy depletion (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: استهلاک منابع انرژی (درصد از درآمد ناخالص ملی)"
+  },
+  "Adjusted savings: consumption of fixed capital (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: استهلاک سرمایه ثابت (درصد از درآمد ناخالص ملی)"
+  },
+  "Travel services (% of commercial service exports)": {
+   "fa": "خدمات مسافرت (درصد از صادرات خدمات بازرگانی)"
+  },
+  "Travel services (% of commercial service imports)": {
+   "fa": "خدمات مسافرت (درصد از واردات خدمات بازرگانی)"
+  },
+  "Computer, communications and other services (% of commercial service exports)": {
+   "fa": "خدمات رایانه‌ای، ارتباطی و سایر خدمات (درصد از صادرات خدمات بازرگانی)"
+  },
+  "Travel services (% of service exports, BoP)": {
+   "fa": "خدمات مسافرت (درصد از صادرات خدمات، تراز پرداخت‌ها)"
+  },
+  "Travel services (% of service imports, BoP)": {
+   "fa": "خدمات مسافرت (درصد از واردات خدمات، تراز پرداخت‌ها)"
+  },
+  "Adjusted savings: net forest depletion (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: استهلاک خالص جنگل (درصد از درآمد ناخالص ملی)"
+  },
+  "Adjusted savings: natural resources depletion (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: استهلاک منابع طبیعی (درصد از درآمد ناخالص ملی)"
+  },
+  "Transport services (% of service exports, BoP)": {
+   "fa": "خدمات حمل‌ونقل (درصد از صادرات خدمات، تراز پرداخت‌ها)"
+  },
+  "Transport services (% of commercial service exports)": {
+   "fa": "خدمات حمل‌ونقل (درصد از صادرات خدمات بازرگانی)"
+  },
+  "GNI growth (annual %)": {
+   "fa": "رشد درآمد ناخالص ملی (درصد سالانه)"
+  },
+  "Unemployment, total (% of total labor force) (national estimate)": {
+   "fa": "نرخ بیکاری (درصد از کل نیروی کار) (برآورد ملی)"
+  },
+  "Agriculture, forestry, and fishing, value added (% of GDP)": {
+   "fa": "ارزش افزوده کشاورزی، جنگل‌داری و شیلات (درصد از تولید ناخالص داخلی)"
+  },
+  "Industry (including construction), value added (% of GDP)": {
+   "fa": "ارزش افزوده صنعت (شامل ساخت‌وساز) (درصد از تولید ناخالص داخلی)"
+  },
+  "Services, value added (% of GDP)": {
+   "fa": "ارزش افزوده خدمات (درصد از تولید ناخالص داخلی)"
+  },
+  "Primary education, pupils": {
+   "fa": "دانش‌آموزان دوره ابتدایی"
+  },
+  "Insurance and financial services (% of service imports, BoP)": {
+   "fa": "خدمات بیمه و مالی (درصد از واردات خدمات، تراز پرداخت‌ها)"
+  },
+  "Insurance and financial services (% of commercial service imports)": {
+   "fa": "خدمات بیمه و مالی (درصد از واردات خدمات بازرگانی)"
+  },
+  "Manufacturing, value added (% of GDP)": {
+   "fa": "ارزش افزوده صنایع تولیدی (درصد از تولید ناخالص داخلی)"
+  },
+  "Arms exports (SIPRI trend indicator values)": {
+   "fa": "صادرات تسلیحات (شاخص روند سیپری)"
+  },
+  "Unemployment, male (% of male labor force) (national estimate)": {
+   "fa": "نرخ بیکاری مردان (درصد از نیروی کار مردان) (برآورد ملی)"
+  },
+  "Unemployment, female (% of female labor force) (national estimate)": {
+   "fa": "نرخ بیکاری زنان (درصد از نیروی کار زنان) (برآورد ملی)"
+  },
+  "Adjusted savings: gross savings (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: پس‌انداز ناخالص (درصد از درآمد ناخالص ملی)"
+  },
+  "Adjusted savings: net national savings (% of GNI)": {
+   "fa": "پس‌انداز تعدیل‌شده: پس‌انداز خالص ملی (درصد از درآمد ناخالص ملی)"
+  },
+  "Domestic credit to private sector by banks (% of GDP)": {
+   "fa": "تسهیلات اعطایی بانک‌ها به بخش خصوصی (درصد از تولید ناخالص داخلی)"
+  },
+  "Agriculture, forestry, and fishing, value added (annual % growth)": {
+   "fa": "ارزش افزوده کشاورزی، جنگل‌داری و شیلات (رشد سالانه، درصد)"
+  },
+  "Insurance and financial services (% of service exports, BoP)": {
+   "fa": "خدمات بیمه و مالی (درصد از صادرات خدمات، تراز پرداخت‌ها)"
+  },
+  "Insurance and financial services (% of commercial service exports)": {
+   "fa": "خدمات بیمه و مالی (درصد از صادرات خدمات بازرگانی)"
+  },
+  "Monetary Sector credit to private sector (% GDP)": {
+   "fa": "تسهیلات بخش پولی به بخش خصوصی (درصد از تولید ناخالص داخلی)"
+  },
+  "Personal remittances, received (% of GDP)": {
+   "fa": "حواله‌های شخصی دریافتی (درصد از تولید ناخالص داخلی)"
+  },
+  "Secondary education, pupils": {
+   "fa": "دانش‌آموزان دوره متوسطه"
+  },
+  "Claims on central government, etc. (% GDP)": {
+   "fa": "مطالبات از دولت مرکزی و سایر موارد (درصد از تولید ناخالص داخلی)"
+  },
+  "Industry (including construction), value added (annual % growth)": {
+   "fa": "ارزش افزوده صنعت (شامل ساخت‌وساز) (رشد سالانه، درصد)"
+  },
+  "Services, value added (annual % growth)": {
+   "fa": "ارزش افزوده خدمات (رشد سالانه، درصد)"
+  },
+  "Manufacturing, value added (annual % growth)": {
+   "fa": "ارزش افزوده صنایع تولیدی (رشد سالانه، درصد)"
+  },
+  "Immunization, DPT (% of children ages 12-23 months)": {
+   "fa": "ایمن‌سازی دیفتری، کزاز و سیاه‌سرفه (درصد کودکان 12 تا 23 ماهه)"
+  },
+  "Immunization, measles (% of children ages 12-23 months)": {
+   "fa": "ایمن‌سازی سرخک (درصد کودکان 12 تا 23 ماهه)"
+  },
+  "Ratio of female to male labor force participation rate (%) (national estimate)": {
+   "fa": "نسبت نرخ مشارکت نیروی کار زنان به مردان (درصد) (برآورد ملی)"
+  },
+  "Labor force participation rate, male (% of male population ages 15+) (national estimate)": {
+   "fa": "نرخ مشارکت نیروی کار مردان (درصد از جمعیت مردان 15 سال به بالا) (برآورد ملی)"
+  },
+  "Labor force participation rate, female (% of female population ages 15+) (national estimate)": {
+   "fa": "نرخ مشارکت نیروی کار زنان (درصد از جمعیت زنان 15 سال به بالا) (برآورد ملی)"
+  },
+  "Labor force participation rate, total (% of total population ages 15+) (national estimate)": {
+   "fa": "نرخ مشارکت نیروی کار (درصد از کل جمعیت 15 سال به بالا) (برآورد ملی)"
+  },
+  "Taxes on income, profits and capital gains (% of total taxes)": {
+   "fa": "مالیات بر درآمد، سود و عواید سرمایه (درصد از کل مالیات)"
+  },
+  "Tax revenue (% of GDP)": {
+   "fa": "درآمد مالیاتی (درصد از تولید ناخالص داخلی)"
+  },
+  "Revenue, excluding grants (% of GDP)": {
+   "fa": "درآمد به‌جز کمک‌های بلاعوض (درصد از تولید ناخالص داخلی)"
+  },
+  "Taxes on income, profits and capital gains (% of revenue)": {
+   "fa": "مالیات بر درآمد، سود و عواید سرمایه (درصد از درآمد)"
+  },
+  "Taxes on goods and services (% of revenue)": {
+   "fa": "مالیات بر کالا و خدمات (درصد از درآمد)"
+  },
+  "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources": {
+   "fa": "سطح تنش آبی (نسبت برداشت آب شیرین به منابع آب شیرین موجود)"
+  },
+  "Annual freshwater withdrawals, total (billion cubic meters)": {
+   "fa": "برداشت سالانه آب شیرین، مجموع (میلیارد متر مکعب)"
+  },
+  "Annual freshwater withdrawals, total (% of internal resources)": {
+   "fa": "برداشت سالانه آب شیرین، مجموع (درصد از منابع داخلی)"
+  },
+  "Labor force participation rate for ages 15-24, female (%) (national estimate)": {
+   "fa": "نرخ مشارکت نیروی کار زنان 15 تا 24 ساله (درصد) (برآورد ملی)"
+  },
+  "Labor force participation rate for ages 15-24, total (%) (national estimate)": {
+   "fa": "نرخ مشارکت نیروی کار 15 تا 24 ساله (درصد) (برآورد ملی)"
+  },
+  "Labor force participation rate for ages 15-24, male (%) (national estimate)": {
+   "fa": "نرخ مشارکت نیروی کار مردان 15 تا 24 ساله (درصد) (برآورد ملی)"
+  },
+  "School enrollment, primary (gross), gender parity index (GPI)": {
+   "fa": "شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش ابتدایی"
+  },
+  "Net lending (+) / net borrowing (-) (% of GDP)": {
+   "fa": "وام‌دهی خالص (+) یا استقراض خالص (-) (درصد از تولید ناخالص داخلی)"
+  },
+  "Net investment in nonfinancial assets (% of GDP)": {
+   "fa": "سرمایه‌گذاری خالص در دارایی‌های غیرمالی (درصد از تولید ناخالص داخلی)"
+  },
+  "Primary net lending (+) / net borrowing (-), General government, Percent of GDP": {
+   "fa": "وام‌دهی خالص اولیه (+) یا استقراض خالص (-) دولت عمومی (درصد از تولید ناخالص داخلی)"
+  },
+  "Interest payments (% of revenue)": {
+   "fa": "پرداخت بهره (درصد از درآمد)"
+  },
+  "GNI per capita growth (annual %)": {
+   "fa": "رشد درآمد ناخالص ملی سرانه (درصد سالانه)"
+  },
+  "Domestic credit to private sector (% of GDP)": {
+   "fa": "تسهیلات اعطایی به بخش خصوصی (درصد از تولید ناخالص داخلی)"
+  },
+  "Expense (% of GDP)": {
+   "fa": "هزینه‌ها (درصد از تولید ناخالص داخلی)"
+  },
+  "Adjusted net national income (annual % growth)": {
+   "fa": "درآمد خالص ملی تعدیل‌شده (رشد سالانه، درصد)"
+  },
+  "Adjusted net national income per capita (annual % growth)": {
+   "fa": "درآمد خالص ملی سرانه تعدیل‌شده (رشد سالانه، درصد)"
+  },
+  "Listed domestic companies, total": {
+   "fa": "شرکت‌های داخلی پذیرفته‌شده در بورس، مجموع"
+  },
+  "Interest payments (% of expense)": {
+   "fa": "پرداخت بهره (درصد از هزینه‌ها)"
+  },
+  "Goods and services expense (% of expense)": {
+   "fa": "هزینه کالا و خدمات (درصد از کل هزینه‌ها)"
+  },
+  "Compensation of employees (% of expense)": {
+   "fa": "جبران خدمات کارکنان (درصد از کل هزینه‌ها)"
+  },
+  "Other taxes (% of revenue)": {
+   "fa": "سایر مالیات‌ها (درصد از درآمد)"
+  },
+  "Social contributions (% of revenue)": {
+   "fa": "حق بیمه‌های اجتماعی (درصد از درآمد)"
+  },
+  "Grants and other revenue (% of revenue)": {
+   "fa": "کمک‌های بلاعوض و سایر درآمدها (درصد از درآمد)"
+  },
+  "Employment to population ratio, 15+, total (%) (national estimate)": {
+   "fa": "نسبت اشتغال به جمعیت 15 سال به بالا (درصد) (برآورد ملی)"
+  },
+  "Employment to population ratio, 15+, male (%) (national estimate)": {
+   "fa": "نسبت اشتغال به جمعیت مردان 15 سال به بالا (درصد) (برآورد ملی)"
+  },
+  "Employment to population ratio, 15+, female (%) (national estimate)": {
+   "fa": "نسبت اشتغال به جمعیت زنان 15 سال به بالا (درصد) (برآورد ملی)"
+  },
+  "Primary net lending (+) / net borrowing (-), General government, Domestic currency": {
+   "fa": "وام‌دهی خالص اولیه (+) یا استقراض خالص (-) دولت عمومی (واحد پول محلی)"
+  },
+  "School enrollment, secondary (gross), gender parity index (GPI)": {
+   "fa": "شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش متوسطه"
+  },
+  "Secondary education, general pupils": {
+   "fa": "دانش‌آموزان نظری دوره متوسطه"
+  },
+  "Physicians (per 1,000 people)": {
+   "fa": "پزشکان (به ازای هر 1,000 نفر)"
+  },
+  "Maternal mortality ratio (modeled estimate, per 100,000 live births)": {
+   "fa": "نسبت مرگ‌ومیر مادران (برآورد مدل‌سازی‌شده، به ازای هر 100,000 تولد زنده)"
+  },
+  "Refugees under the mandate of the UNHCR by country or territory of origin": {
+   "fa": "پناهندگان تحت پوشش کمیساریای عالی پناهندگان سازمان ملل، بر اساس کشور یا قلمرو مبدأ"
+  },
+  "Lifetime risk of maternal death (%)": {
+   "fa": "خطر مادام‌العمر مرگ مادران (درصد)"
+  },
+  "Number of maternal deaths": {
+   "fa": "تعداد مرگ‌ومیر مادران"
+  },
+  "Lifetime risk of maternal death (1 in: rate varies by country)": {
+   "fa": "خطر مادام‌العمر مرگ مادران (یک در؛ نرخ بسته به کشور متفاوت است)"
+  },
+  "School enrollment, primary and secondary (gross), gender parity index (GPI)": {
+   "fa": "شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش ابتدایی و متوسطه"
+  },
+  "Real effective exchange rate index (2010 = 100)": {
+   "fa": "شاخص نرخ ارز مؤثر واقعی (2010 = 100)"
+  },
+  "Primary education, pupils (% female)": {
+   "fa": "دانش‌آموزان دوره ابتدایی (درصد دختران)"
+  },
+  "School enrollment, preprimary (% gross)": {
+   "fa": "نرخ ناخالص ثبت‌نام در پیش‌دبستانی"
+  },
+  "Patent applications, nonresidents": {
+   "fa": "درخواست‌های ثبت اختراع، غیرمقیمان"
+  },
+  "Patent applications, residents": {
+   "fa": "درخواست‌های ثبت اختراع، مقیمان"
+  },
+  "Hospital beds (per 1,000 people)": {
+   "fa": "تخت‌های بیمارستانی (به ازای هر 1,000 نفر)"
+  },
+  "School enrollment, primary, private (% of total primary)": {
+   "fa": "ثبت‌نام در مدارس ابتدایی خصوصی (درصد از کل ثبت‌نام ابتدایی)"
+  },
+  "Stocks traded, total value (% of GDP)": {
+   "fa": "ارزش کل سهام معامله‌شده (درصد از تولید ناخالص داخلی)"
+  },
+  "Secondary education, general pupils (% female)": {
+   "fa": "دانش‌آموزان نظری دوره متوسطه (درصد دختران)"
+  },
+  "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)": {
+   "fa": "برداشت سالانه آب شیرین برای کشاورزی (درصد از کل برداشت آب شیرین)"
+  },
+  "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)": {
+   "fa": "برداشت سالانه آب شیرین برای خانگی (درصد از کل برداشت آب شیرین)"
+  },
+  "Employment to population ratio, ages 15-24, female (%) (national estimate)": {
+   "fa": "نسبت اشتغال به جمعیت زنان 15 تا 24 ساله (درصد) (برآورد ملی)"
+  },
+  "Employment to population ratio, ages 15-24, total (%) (national estimate)": {
+   "fa": "نسبت اشتغال به جمعیت 15 تا 24 ساله (درصد) (برآورد ملی)"
+  },
+  "Employment to population ratio, ages 15-24, male (%) (national estimate)": {
+   "fa": "نسبت اشتغال به جمعیت مردان 15 تا 24 ساله (درصد) (برآورد ملی)"
+  },
+  "Unemployment, youth total (% of total labor force ages 15-24) (national estimate)": {
+   "fa": "نرخ بیکاری جوانان (درصد از نیروی کار کل 15 تا 24 ساله) (برآورد ملی)"
+  },
+  "Unemployment, youth female (% of female labor force ages 15-24) (national estimate)": {
+   "fa": "نرخ بیکاری زنان جوان (درصد از نیروی کار زنان 15 تا 24 ساله) (برآورد ملی)"
+  },
+  "Unemployment, youth male (% of male labor force ages 15-24) (national estimate)": {
+   "fa": "نرخ بیکاری مردان جوان (درصد از نیروی کار مردان 15 تا 24 ساله) (برآورد ملی)"
+  },
+  "Primary education, teachers": {
+   "fa": "معلمان دوره ابتدایی"
+  },
+  "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)": {
+   "fa": "برداشت سالانه آب شیرین برای صنعت (درصد از کل برداشت آب شیرین)"
+  },
+  "Secondary education, pupils (% female)": {
+   "fa": "دانش‌آموزان دوره متوسطه (درصد دختران)"
+  },
+  "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار مردان 15 تا 24 ساله (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force, female (% of total labor force)": {
+   "fa": "نیروی کار زنان (درصد از کل نیروی کار)"
+  },
+  "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)": {
+   "fa": "نسبت نرخ مشارکت نیروی کار زنان به مردان (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار زنان (درصد از جمعیت زنان 15 سال به بالا) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار مردان (درصد از جمعیت مردان 15 سال به بالا) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Inflation, GDP deflator: linked series (annual %)": {
+   "fa": "تورم بر پایه تعدیل‌کننده تولید ناخالص داخلی، سری پیوندی (درصد سالانه)"
+  },
+  "GDP deflator: linked series (base year varies by country)": {
+   "fa": "تعدیل‌کننده تولید ناخالص داخلی، سری پیوندی (سال پایه بسته به کشور متفاوت است)"
+  },
+  "Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار زنان 15 تا 24 ساله (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار (درصد از کل جمعیت 15 تا 64 ساله) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار (درصد از کل جمعیت 15 سال به بالا) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار مردان (درصد از جمعیت مردان 15 تا 64 ساله) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force, total": {
+   "fa": "نیروی کار، کل"
+  },
+  "Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار زنان (درصد از جمعیت زنان 15 تا 64 ساله) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)": {
+   "fa": "نرخ مشارکت نیروی کار 15 تا 24 ساله (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Secondary education, vocational pupils": {
+   "fa": "دانش‌آموزان فنی‌وحرفه‌ای دوره متوسطه"
+  },
+  "Market capitalization of listed domestic companies (% of GDP)": {
+   "fa": "ارزش بازار شرکت‌های داخلی پذیرفته‌شده در بورس (درصد از تولید ناخالص داخلی)"
+  },
+  "GNI per capita, PPP (current international $)": {
+   "fa": "درآمد ناخالص ملی سرانه به برابری قدرت خرید (دلار بین‌المللی جاری)"
+  },
+  "Price level index (GDP)": {
+   "fa": "شاخص سطح قیمت (تولید ناخالص داخلی)"
+  },
+  "GNI, PPP (current international $)": {
+   "fa": "درآمد ناخالص ملی به برابری قدرت خرید (دلار بین‌المللی جاری)"
+  },
+  "PPP conversion factor, GDP (LCU per international $)": {
+   "fa": "ضریب تبدیل برابری قدرت خرید، تولید ناخالص داخلی (واحد پول محلی بر دلار بین‌المللی)"
+  },
+  "Probability of dying among adolescents ages 10-14 years (per 1,000)": {
+   "fa": "احتمال مرگ نوجوانان گروه سنی 10 تا 14 سال (به ازای هر 1,000 نفر)"
+  },
+  "Probability of dying among adolescents ages 15-19 years (per 1,000)": {
+   "fa": "احتمال مرگ نوجوانان گروه سنی 15 تا 19 سال (به ازای هر 1,000 نفر)"
+  },
+  "Probability of dying among children ages 5-9 years (per 1,000)": {
+   "fa": "احتمال مرگ کودکان گروه سنی 5 تا 9 سال (به ازای هر 1,000 نفر)"
+  },
+  "Probability of dying among youth ages 20-24 years (per 1,000)": {
+   "fa": "احتمال مرگ جوانان گروه سنی 20 تا 24 سال (به ازای هر 1,000 نفر)"
+  },
+  "Self-employed, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "خوداشتغالان مردان (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Wage and salaried workers, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "مزدبگیران و حقوق‌بگیران مردان (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Women's share of population ages 15+ living with HIV (%)": {
+   "fa": "سهم زنان از جمعیت 15 سال به بالا مبتلا به اچ‌آی‌وی (درصد)"
+  },
+  "Employment to population ratio, 15+, female (%) (modeled ILO estimate)": {
+   "fa": "نسبت اشتغال به جمعیت زنان 15 سال به بالا (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in agriculture, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "اشتغال زنان در کشاورزی (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in industry, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "اشتغال زنان در صنعت (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employers, total (% of total employment) (modeled ILO estimate)": {
+   "fa": "کارفرمایان (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Vulnerable employment, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "اشتغال آسیب‌پذیر زنان (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Contributing family workers, total (% of total employment) (modeled ILO estimate)": {
+   "fa": "کارکنان خانوادگی بدون مزد (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Vulnerable employment, total (% of total employment) (modeled ILO estimate)": {
+   "fa": "اشتغال آسیب‌پذیر (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)": {
+   "fa": "نرخ بیکاری جوانان (درصد از نیروی کار کل 15 تا 24 ساله) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Vulnerable employment, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "اشتغال آسیب‌پذیر مردان (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in industry, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "اشتغال مردان در صنعت (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in agriculture, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "اشتغال مردان در کشاورزی (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment to population ratio, 15+, male (%) (modeled ILO estimate)": {
+   "fa": "نسبت اشتغال به جمعیت مردان 15 سال به بالا (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Self-employed, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "خوداشتغالان زنان (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Wage and salaried workers, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "مزدبگیران و حقوق‌بگیران زنان (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Number of deaths ages 20-24 years": {
+   "fa": "تعداد مرگ‌ومیر گروه سنی 20 تا 24 سال"
+  },
+  "Number of deaths ages 10-14 years": {
+   "fa": "تعداد مرگ‌ومیر گروه سنی 10 تا 14 سال"
+  },
+  "Number of deaths ages 15-19 years": {
+   "fa": "تعداد مرگ‌ومیر گروه سنی 15 تا 19 سال"
+  },
+  "Number of deaths ages 5-9 years": {
+   "fa": "تعداد مرگ‌ومیر گروه سنی 5 تا 9 سال"
+  },
+  "Employers, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "کارفرمایان زنان (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Unemployment, female (% of female labor force) (modeled ILO estimate)": {
+   "fa": "نرخ بیکاری زنان (درصد از نیروی کار زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Contributing family workers, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "کارکنان خانوادگی بدون مزد مردان (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in services (% of total employment) (modeled ILO estimate)": {
+   "fa": "اشتغال در خدمات (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)": {
+   "fa": "نسبت اشتغال به جمعیت 15 تا 24 ساله (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in services, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "اشتغال زنان در خدمات (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)": {
+   "fa": "نرخ بیکاری زنان جوان (درصد از نیروی کار زنان 15 تا 24 ساله) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)": {
+   "fa": "نسبت اشتغال به جمعیت مردان 15 تا 24 ساله (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in industry (% of total employment) (modeled ILO estimate)": {
+   "fa": "اشتغال در صنعت (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in agriculture (% of total employment) (modeled ILO estimate)": {
+   "fa": "اشتغال در کشاورزی (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment to population ratio, 15+, total (%) (modeled ILO estimate)": {
+   "fa": "نسبت اشتغال به جمعیت 15 سال به بالا (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+   "fa": "نرخ بیکاری (درصد از کل نیروی کار) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)": {
+   "fa": "نسبت اشتغال به جمعیت زنان 15 تا 24 ساله (درصد) (برآورد سازمان بین‌المللی کار)"
+  },
+  "F-gases emissions from Industrial Processes (Mt CO2e)": {
+   "fa": "انتشار گازهای فلوئوردار از فرایندهای صنعتی (میلیون تن معادل CO2)"
+  },
+  "Self-employed, total (% of total employment) (modeled ILO estimate)": {
+   "fa": "خوداشتغالان (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)": {
+   "fa": "نرخ بیکاری مردان جوان (درصد از نیروی کار مردان 15 تا 24 ساله) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Contributing family workers, female (% of female employment) (modeled ILO estimate)": {
+   "fa": "کارکنان خانوادگی بدون مزد زنان (درصد از اشتغال زنان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Wage and salaried workers, total (% of total employment) (modeled ILO estimate)": {
+   "fa": "مزدبگیران و حقوق‌بگیران (درصد از کل اشتغال) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employment in services, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "اشتغال مردان در خدمات (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Employers, male (% of male employment) (modeled ILO estimate)": {
+   "fa": "کارفرمایان مردان (درصد از اشتغال مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "Unemployment, male (% of male labor force) (modeled ILO estimate)": {
+   "fa": "نرخ بیکاری مردان (درصد از نیروی کار مردان) (برآورد سازمان بین‌المللی کار)"
+  },
+  "School enrollment, preprimary, male (% gross)": {
+   "fa": "نرخ ناخالص ثبت‌نام در پیش‌دبستانی پسران"
+  },
+  "School enrollment, preprimary, female (% gross)": {
+   "fa": "نرخ ناخالص ثبت‌نام در پیش‌دبستانی دختران"
+  },
+  "Combustible renewables and waste (% of total energy)": {
+   "fa": "انرژی‌های تجدیدپذیر قابل‌احتراق و پسماند (درصد از کل انرژی)"
+  },
+  "Energy use (kg of oil equivalent per capita)": {
+   "fa": "مصرف انرژی سرانه (کیلوگرم معادل نفت)"
+  },
+  "Electric power transmission and distribution losses (% of output)": {
+   "fa": "تلفات انتقال و توزیع برق (درصد از تولید)"
+  },
+  "Electricity production from oil sources (% of total)": {
+   "fa": "تولید برق از منابع نفت (درصد از کل)"
+  },
+  "Electric power consumption (kWh per capita)": {
+   "fa": "مصرف سرانه برق (کیلووات‌ساعت)"
+  },
+  "Electricity production from natural gas sources (% of total)": {
+   "fa": "تولید برق از منابع گاز طبیعی (درصد از کل)"
+  },
+  "Alternative and nuclear energy (% of total energy use)": {
+   "fa": "انرژی هسته‌ای و جایگزین (درصد از کل مصرف انرژی)"
+  },
+  "Electricity production from hydroelectric sources (% of total)": {
+   "fa": "تولید برق از منابع برق‌آبی (درصد از کل)"
+  },
+  "Fossil fuel energy consumption (% of total)": {
+   "fa": "مصرف انرژی سوخت فسیلی (درصد از کل)"
+  },
+  "Electricity production from coal sources (% of total)": {
+   "fa": "تولید برق از منابع زغال‌سنگ (درصد از کل)"
+  },
+  "Individuals using the Internet (% of population)": {
+   "fa": "افراد استفاده‌کننده از اینترنت (درصد از جمعیت)"
+  },
+  "GDP per capita, PPP (current international $)": {
+   "fa": "تولید ناخالص داخلی سرانه به برابری قدرت خرید (دلار بین‌المللی جاری)"
+  },
+  "GDP, PPP (current international $)": {
+   "fa": "تولید ناخالص داخلی به برابری قدرت خرید (دلار بین‌المللی جاری)"
+  },
+  "Broad money (% of GDP)": {
+   "fa": "نقدینگی (درصد از تولید ناخالص داخلی)"
+  },
+  "GDP per unit of energy use (PPP $ per kg of oil equivalent)": {
+   "fa": "تولید ناخالص داخلی به ازای هر واحد مصرف انرژی (دلار برابری قدرت خرید بر کیلوگرم معادل نفت)"
+  },
+  "Taxes on goods and services (% value added of industry and services)": {
+   "fa": "مالیات بر کالا و خدمات (درصد از ارزش افزوده صنعت و خدمات)"
+  },
+  "Official government rate": {
+   "fa": "نرخ رسمی دولتی"
+  },
+  "Parallel/black-market rate": {
+   "fa": "نرخ بازار آزاد (غیررسمی)"
+  },
+  "Black-market premium (%)": {
+   "fa": "شکاف بازار آزاد با نرخ رسمی (درصد)"
+  }
+ }
 }

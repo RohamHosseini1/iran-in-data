@@ -54,7 +54,9 @@ export function friendlyVariantLabel(rawLabel: string, locale: Locale): string {
     if (locale === "fa" && mapped.fa) return mapped.fa;
     if (mapped.en) return mapped.en;
   }
-  return rawLabel;
+  // House style: em dashes never reach the UI, even from raw dataset labels.
+  const comma = locale === "fa" ? "، " : ", ";
+  return rawLabel.replace(/\s*[—–]\s*/g, comma);
 }
 
 /**
