@@ -3,24 +3,17 @@
   "title": "Peas, green",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 2142,
+  "n_rows": 950,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

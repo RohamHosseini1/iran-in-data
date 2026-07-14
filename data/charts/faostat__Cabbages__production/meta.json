@@ -3,25 +3,19 @@
   "title": "Cabbages",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2865,
+  "n_rows": 1713,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

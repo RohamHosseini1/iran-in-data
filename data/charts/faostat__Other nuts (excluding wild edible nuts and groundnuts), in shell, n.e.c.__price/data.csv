@@ -1,29 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-GRC,Greece,2000,391862.500000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2001,405663.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2002,1245.400000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2003,1250.600000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2004,1364.100000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2005,1433.700000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2006,1567.600000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2007,2043.800000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2008,1937.400000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2009,1993.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2010,1916.200000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2011,2086.500000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2012,2006.400000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2013,1980.800000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2014,2111.300000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2015,2230.800000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2016,2189.700000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2017,2274.500000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2018,1730.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2019,1839.100000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2020,2095.400000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2021,2081.800000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2022,2523.500000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2023,2720.200000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2024,3991.900000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 USA,United States,1991,2293.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 USA,United States,1992,3197.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 USA,United States,1993,1292.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
@@ -51,31 +26,6 @@ USA,United States,2014,4321.000000,LCU,pp:Producer Price (LCU/tonne),Producer Pr
 USA,United States,2015,4850.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 USA,United States,2016,5710.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 USA,United States,2017,5137.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2000,1150.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2001,1190.500000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2002,1245.400000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2003,1250.600000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2004,1364.100000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2005,1433.700000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2006,1567.600000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2007,2043.800000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2008,1937.400000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2009,1993.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2010,1916.200000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2011,2086.500000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2012,2006.400000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2013,1980.800000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2014,2111.300000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2015,2230.800000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2016,2189.700000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2017,2274.500000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2018,1730.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2019,1839.100000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2020,2095.400000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2021,2081.800000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2022,2523.500000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2023,2720.200000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2024,3991.900000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 USA,United States,1991,2293.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 USA,United States,1992,3197.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 USA,United States,1993,1292.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
@@ -103,31 +53,6 @@ USA,United States,2014,4321.000000,SLC,pp:Producer Price (SLC/tonne),Producer Pr
 USA,United States,2015,4850.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 USA,United States,2016,5710.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 USA,United States,2017,5137.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2000,1072.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2001,1065.300000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2002,1172.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2003,1411.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2004,1693.800000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2005,1782.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2006,1966.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2007,2797.300000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2008,2838.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2009,2768.700000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2010,2537.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2011,2900.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2012,2577.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2013,2630.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2014,2801.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2015,2474.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2016,2422.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2017,2569.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2018,2043.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2019,2058.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2020,2393.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2021,2462.200000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2022,2657.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2023,2941.300000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2024,4318.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 USA,United States,1991,2293.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 USA,United States,1992,3197.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 USA,United States,1993,1292.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
@@ -155,32 +80,6 @@ USA,United States,2014,4321.000000,USD,pp:Producer Price (USD/tonne),Producer Pr
 USA,United States,2015,4850.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 USA,United States,2016,5710.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 USA,United States,2017,5137.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2000,52.820000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2001,54.680000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2002,57.200000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2003,57.440000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2004,62.650000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2005,65.850000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2006,72.000000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2007,93.870000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2008,88.980000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2009,91.540000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2010,88.010000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2011,95.830000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2012,92.150000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2013,90.980000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2014,96.970000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2015,102.460000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2016,100.570000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2017,104.470000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2018,79.460000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2019,84.470000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2020,96.240000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2021,95.620000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2022,115.900000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2023,124.940000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2024,183.350000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2025,218.810000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1991,0.930000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1992,1.290000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1993,1.370000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
@@ -251,41 +150,6 @@ ITA,Italy,2022,151.030000,,pp:Producer Price Index (2014-2016 = 100),Producer Pr
 ITA,Italy,2023,141.060000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 ITA,Italy,2024,145.630000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 ITA,Italy,2025,150.200000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1991,45.270000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1992,37.990000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1993,73.420000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1994,67.750000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1995,77.660000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1996,84.690000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1997,74.580000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1998,83.900000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,1999,48.070000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2000,41.100000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2001,49.040000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2002,54.540000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2003,77.870000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2004,89.570000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2005,103.320000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2006,85.680000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2007,67.300000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2008,60.480000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2009,51.690000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2010,51.630000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2011,51.440000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2012,63.560000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2013,87.020000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2014,96.900000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2015,107.690000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2016,95.410000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2017,85.520000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2018,76.080000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2019,64.630000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2020,77.810000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2021,69.220000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2022,124.680000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2023,87.900000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2024,76.290000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-PRT,Portugal,2025,68.840000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 KOR,South Korea,1991,55.390000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 KOR,South Korea,1992,58.720000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 KOR,South Korea,1993,56.830000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
@@ -510,31 +374,6 @@ ITA,Italy,1987,1707100.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (
 ITA,Italy,1988,1820100.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 ITA,Italy,1989,1929500.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 ITA,Italy,1990,2019700.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1966,14670.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1967,14670.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1968,14670.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1969,14670.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1970,14670.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1971,15975.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1972,15975.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1973,16948.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1974,19170.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1975,22230.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1976,22230.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1977,27220.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1978,34160.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1979,34200.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1980,34300.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1981,34500.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1982,28200.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1983,59500.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1984,77900.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1985,80000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1986,89800.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1987,92000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1988,93000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1989,95000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-PRT,Portugal,1990,98000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 KOR,South Korea,1966,121500.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 KOR,South Korea,1967,129200.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 KOR,South Korea,1968,132100.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa

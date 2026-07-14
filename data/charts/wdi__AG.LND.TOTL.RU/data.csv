@@ -2,15 +2,6 @@ country_iso3,country_name,year,value,unit,variant_code,variant_label,source_data
 ARG,Argentina,1990,2738252.0145505,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 ARG,Argentina,2000,2736792.2863097,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 ARG,Argentina,2015,2735389.70194,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-FRA,France,1990,526622.73485525,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-FRA,France,2000,525138.99924832,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-FRA,France,2015,522936.09931449,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-DEU,Germany,1990,318816.63246208,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-DEU,Germany,2000,316844.82211299,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-DEU,Germany,2015,316383.48005233,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-GRC,Greece,1990,129173.69477795,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-GRC,Greece,2000,128880.241048,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-GRC,Greece,2015,128795.91088826,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 IRN,Iran,1990,1607789.9165568,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 IRN,Iran,2000,1604073.3562922,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 IRN,Iran,2015,1601053.3535607,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
@@ -20,12 +11,6 @@ ITA,Italy,2015,277070.57707761,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 KOR,South Korea,1990,91230.13584889,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 KOR,South Korea,2000,88942.27116953,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 KOR,South Korea,2015,86793.37160366,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-NLD,Netherlands,1990,27592.76082529,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-NLD,Netherlands,2000,26810.09789206,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-NLD,Netherlands,2015,26211.90391782,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-PRT,Portugal,1990,87952.039349279,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-PRT,Portugal,2000,87781.536418491,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-PRT,Portugal,2015,87685.726202871,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 RUS,Russia,1990,16225993.7599275,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 RUS,Russia,2000,16224150.8875575,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 RUS,Russia,2015,16224183.4733805,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
@@ -35,18 +20,15 @@ SAU,Saudi Arabia,2015,1908957.38877812,,AG.LND.TOTL.RU.K2,Rural land area (sq. k
 ESP,Spain,1990,492056.32099838,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 ESP,Spain,2000,490639.14194904,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 ESP,Spain,2015,488925.705618281,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-SWE,Sweden,1990,411426.72192891,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-SWE,Sweden,2000,411351.87162959,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-SWE,Sweden,2015,411134.30594835,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 TUR,Turkey,1990,760268.23198292,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 TUR,Turkey,2000,757333.71130111,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 TUR,Turkey,2015,754924.70199715,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-GBR,United Kingdom,1990,220037.23251912,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-GBR,United Kingdom,2000,219748.34409069,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
-GBR,United Kingdom,2015,218902.7593454,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 USA,United States,1990,8943709.99473595,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 USA,United States,2000,8923738.70163917,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 USA,United States,2015,8903098.42729533,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 VEN,Venezuela,1990,900733.1932731,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 VEN,Venezuela,2000,899829.0993071,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
 VEN,Venezuela,2015,899029.2576645,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
+IRQ,Iraq,1990,437354.5392457,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
+IRQ,Iraq,2000,436360.3533348,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi
+IRQ,Iraq,2015,434269.6067549,,AG.LND.TOTL.RU.K2,Rural land area (sq. km),wdi

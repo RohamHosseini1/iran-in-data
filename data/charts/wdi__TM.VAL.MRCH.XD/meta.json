@@ -3,26 +3,20 @@
   "title": "Import value index",
   "category": "Trade (Imports)",
   "sources": "wdi",
-  "n_rows": 340,
+  "n_rows": 220,
   "year_range": [
     "2005",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

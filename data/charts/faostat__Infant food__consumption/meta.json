@@ -3,22 +3,17 @@
   "title": "Infant food",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 3670,
+  "n_rows": 1995,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
-    "DEU",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

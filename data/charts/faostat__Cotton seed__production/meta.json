@@ -3,23 +3,18 @@
   "title": "Cotton seed",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 548,
+  "n_rows": 527,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

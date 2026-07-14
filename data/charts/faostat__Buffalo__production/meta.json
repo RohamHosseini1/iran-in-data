@@ -3,21 +3,17 @@
   "title": "Buffalo",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 333,
+  "n_rows": 303,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "VEN"
   ],

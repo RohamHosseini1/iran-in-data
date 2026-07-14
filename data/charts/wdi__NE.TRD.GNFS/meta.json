@@ -3,26 +3,20 @@
   "title": "Trade (% of GDP)",
   "category": "Macro / Expenditure & Trade Aggregates",
   "sources": "wdi",
-  "n_rows": 1015,
+  "n_rows": 647,
   "year_range": [
     "1960",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

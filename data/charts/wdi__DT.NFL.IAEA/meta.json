@@ -3,7 +3,7 @@
   "title": "Net official flows from UN agencies, IAEA (current US$)",
   "category": "External Debt",
   "sources": "wdi",
-  "n_rows": 62,
+  "n_rows": 139,
   "year_range": [
     "2006",
     "2023"
@@ -11,6 +11,7 @@
   "countries": [
     "ARG",
     "IRN",
+    "IRQ",
     "TUR",
     "VEN"
   ],

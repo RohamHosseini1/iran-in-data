@@ -3,26 +3,19 @@
   "title": "Tariff rate, most favored nation, simple mean, all products",
   "category": "Trade (Imports)",
   "sources": "wdi",
-  "n_rows": 408,
+  "n_rows": 245,
   "year_range": [
     "1988",
     "2022"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

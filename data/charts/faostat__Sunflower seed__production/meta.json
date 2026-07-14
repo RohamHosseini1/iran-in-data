@@ -3,21 +3,17 @@
   "title": "Sunflower seed",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2160,
+  "n_rows": 1613,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
     "TUR",
     "USA",

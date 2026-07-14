@@ -3,15 +3,15 @@
   "title": "Pistachios, in shell",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 914,
+  "n_rows": 812,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ESP",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "TUR",
     "USA"

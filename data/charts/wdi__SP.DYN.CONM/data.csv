@@ -1,20 +1,6 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
 ARG,Argentina,2013,68.9325839536843,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 ARG,Argentina,2020,67.2299319262115,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-FRA,France,1978,47.6,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-FRA,France,1988,66.5999999999999,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-FRA,France,1994,69.3,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-FRA,France,2005,74.8,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-FRA,France,2008,71,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-FRA,France,2010,72.7,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-DEU,Germany,1970,49.375,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-DEU,Germany,1972,60.5800717292999,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-DEU,Germany,1985,67.6,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-DEU,Germany,1992,65.4701703632273,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-DEU,Germany,2005,64.5,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-DEU,Germany,2008,49.1,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-DEU,Germany,2011,80.2,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GRC,Greece,1999,33.6,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 IRN,Iran,1977,25.9,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 IRN,Iran,1989,30.5,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 IRN,Iran,1992,44.6,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
@@ -36,12 +22,6 @@ KOR,South Korea,1979,43.1,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern 
 KOR,South Korea,1982,47.4,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 KOR,South Korea,1991,69.5,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 KOR,South Korea,2021,67.61,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1969,41.6,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1975,69.0999999999999,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1982,73.8206338503034,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1988,72.0781120618272,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1993,75.604081632653,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-PRT,Portugal,1980,37.71,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 RUS,Russia,1993,44.4,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 RUS,Russia,1994,48.6,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 RUS,Russia,1995,47.5,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
@@ -73,18 +53,6 @@ TUR,Turkey,2003,42.5,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern metho
 TUR,Turkey,2008,46,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 TUR,Turkey,2013,47.4,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 TUR,Turkey,2018,48.9,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1986,78,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1993,82,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1998,77,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1999,69,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2000,75,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2001,80,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2003,79,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2004,78,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2005,76,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2006,74,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2009,76,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2012,71.1,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 USA,United States,1965,49.1,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 USA,United States,1970,56.8,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 USA,United States,1973,63.5,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
@@ -97,3 +65,9 @@ USA,United States,2019,66.1,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any moder
 VEN,Venezuela,1977,38,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 VEN,Venezuela,1993,54.5,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
 VEN,Venezuela,1998,61.7,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
+IRQ,Iraq,1974,12.9,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
+IRQ,Iraq,1989,10.4,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2000,25.40303211,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2006,32.84561211,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2011,33.59872871,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2018,36.07492047,,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",wdi

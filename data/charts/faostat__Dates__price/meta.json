@@ -3,7 +3,7 @@
   "title": "Dates",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 818,
+  "n_rows": 916,
   "year_range": [
     "1966",
     "2025"
@@ -11,6 +11,7 @@
   "countries": [
     "ESP",
     "IRN",
+    "IRQ",
     "SAU",
     "TUR",
     "USA"

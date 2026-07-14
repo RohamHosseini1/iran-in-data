@@ -3,26 +3,19 @@
   "title": "Groundnuts (Shelled Eq)",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 4085,
+  "n_rows": 2230,
   "year_range": [
     "1961",
     "2013"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "USA",
     "VEN"
   ],

@@ -27,20 +27,6 @@ ARG,Argentina,2020,9.000000,1000 t,fbs:Import quantity,Import quantity,faostat-f
 ARG,Argentina,2021,9.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 ARG,Argentina,2022,8.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 ARG,Argentina,2023,7.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2010,88.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2011,93.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2012,90.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2013,97.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2014,102.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2015,110.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2016,119.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2017,131.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2018,144.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2019,146.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2020,166.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2021,171.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2022,171.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-NLD,Netherlands,2023,156.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 IRN,Iran,2010,18.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 IRN,Iran,2011,25.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 IRN,Iran,2012,20.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
@@ -55,37 +41,9 @@ IRN,Iran,2020,33.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 IRN,Iran,2021,22.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 IRN,Iran,2022,28.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 IRN,Iran,2023,24.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2010,3.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2011,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2012,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2013,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2014,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2015,5.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2016,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2017,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2018,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2019,7.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2020,7.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2021,7.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2022,8.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-PRT,Portugal,2023,8.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2010,70.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2011,77.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2012,76.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2013,80.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2014,76.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2015,88.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2016,95.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2017,96.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2018,96.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2019,98.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2020,114.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2010,26.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2021,108.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2022,101.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2011,24.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2012,28.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GBR,United Kingdom,2023,91.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2013,31.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2014,29.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2015,28.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
@@ -97,48 +55,20 @@ RUS,Russia,2020,44.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2021,42.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2022,29.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 RUS,Russia,2023,28.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2010,33.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2011,31.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2012,32.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2013,33.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2014,36.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2015,38.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2016,40.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2017,43.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2018,46.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2019,49.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2020,52.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2021,53.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2022,51.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-FRA,France,2023,48.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2010,14.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2011,11.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2012,17.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2013,19.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2010,10.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2014,19.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2011,10.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2015,21.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2012,11.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2016,25.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2013,11.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2017,38.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2014,12.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2018,23.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2015,11.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2019,40.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2016,14.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2020,55.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2017,13.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2021,51.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2018,13.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2022,49.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2019,15.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 TUR,Turkey,2023,51.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2020,15.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2021,16.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2022,16.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-SWE,Sweden,2023,14.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 VEN,Venezuela,2010,5.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 VEN,Venezuela,2011,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 VEN,Venezuela,2012,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
@@ -153,34 +83,6 @@ VEN,Venezuela,2020,1.000000,1000 t,fbs:Import quantity,Import quantity,faostat-f
 VEN,Venezuela,2021,1.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 VEN,Venezuela,2022,2.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 VEN,Venezuela,2023,3.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2010,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2011,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2012,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2013,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2014,4.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2015,5.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2016,5.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2017,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2018,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2019,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2020,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2021,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2022,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-GRC,Greece,2023,6.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2010,95.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2011,96.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2012,96.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2013,102.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2014,105.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2015,106.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2016,118.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2017,131.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2018,132.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2019,136.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2020,147.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2021,156.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2022,146.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
-DEU,Germany,2023,127.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 ITA,Italy,2010,14.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 ITA,Italy,2011,14.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
 ITA,Italy,2012,14.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
@@ -265,20 +167,6 @@ ARG,Argentina,2020,4.000000,1000 t,fbs:Export quantity,Export quantity,faostat-f
 ARG,Argentina,2021,5.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 ARG,Argentina,2022,8.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 ARG,Argentina,2023,5.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2010,65.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2011,66.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2012,78.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2013,80.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2014,83.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2015,88.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2016,92.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2017,112.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2018,116.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2019,115.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2020,123.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2021,130.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2022,143.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-NLD,Netherlands,2023,104.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 IRN,Iran,2010,26.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 IRN,Iran,2011,24.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 IRN,Iran,2012,23.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
@@ -293,37 +181,9 @@ IRN,Iran,2020,34.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 IRN,Iran,2021,48.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 IRN,Iran,2022,28.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 IRN,Iran,2023,30.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2010,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2011,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2012,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2013,3.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2014,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2015,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2016,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2017,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2018,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2019,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2020,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2021,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2022,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-PRT,Portugal,2023,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2010,9.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2011,9.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2012,10.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2013,11.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2014,10.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2015,11.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2016,13.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2017,15.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2018,12.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2019,12.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2020,14.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2010,3.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2021,12.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2022,9.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2011,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2012,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GBR,United Kingdom,2023,8.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2013,7.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2014,10.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2015,33.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
@@ -335,48 +195,20 @@ RUS,Russia,2020,35.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2021,57.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2022,68.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 RUS,Russia,2023,77.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2010,12.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2011,12.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2012,14.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2013,12.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2014,13.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2015,14.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2016,14.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2017,15.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2018,16.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2019,16.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2020,17.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2021,17.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2022,15.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-FRA,France,2023,14.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2010,35.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2011,35.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2012,34.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2013,40.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2010,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2014,43.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2011,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2015,41.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2012,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2016,49.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2013,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2017,46.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2014,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2018,51.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2015,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2019,56.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2016,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2020,71.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2017,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2021,71.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2018,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2022,62.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2019,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 TUR,Turkey,2023,68.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2020,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2021,3.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2022,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-SWE,Sweden,2023,2.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 VEN,Venezuela,2010,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 VEN,Venezuela,2011,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 VEN,Venezuela,2012,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
@@ -391,34 +223,6 @@ VEN,Venezuela,2020,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-f
 VEN,Venezuela,2021,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 VEN,Venezuela,2022,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 VEN,Venezuela,2023,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2010,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2011,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2012,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2013,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2014,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2015,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2016,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2017,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2018,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2019,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2020,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2021,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2022,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-GRC,Greece,2023,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2010,32.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2011,33.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2012,32.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2013,36.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2014,36.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2015,40.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2016,42.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2017,47.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2018,47.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2019,46.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2020,50.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2021,56.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2022,52.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
-DEU,Germany,2023,55.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 ITA,Italy,2010,11.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 ITA,Italy,2011,12.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
 ITA,Italy,2012,13.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
@@ -503,20 +307,6 @@ ARG,Argentina,2020,15.000000,1000 t,fbs:Domestic supply quantity,Domestic supply
 ARG,Argentina,2021,15.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 ARG,Argentina,2022,14.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 ARG,Argentina,2023,13.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2010,24.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2011,27.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2012,12.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2013,18.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2014,18.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2015,19.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2016,19.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2017,19.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2018,20.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2019,26.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2020,34.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2021,38.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2022,24.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-NLD,Netherlands,2023,35.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 IRN,Iran,2010,62.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 IRN,Iran,2011,63.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 IRN,Iran,2012,51.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
@@ -531,37 +321,9 @@ IRN,Iran,2020,61.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quan
 IRN,Iran,2021,70.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 IRN,Iran,2022,68.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 IRN,Iran,2023,76.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2010,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2011,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2012,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2013,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2014,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2015,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2016,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2017,4.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2018,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2019,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2020,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2021,6.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2022,6.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-PRT,Portugal,2023,7.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2010,62.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2011,68.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2012,66.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2013,69.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2014,69.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2015,69.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2016,69.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2017,70.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2018,71.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2019,73.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2020,84.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2010,31.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2021,81.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2022,83.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2011,35.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2012,32.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GBR,United Kingdom,2023,75.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2013,29.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2014,32.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2015,29.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
@@ -573,48 +335,20 @@ RUS,Russia,2020,40.000000,1000 t,fbs:Domestic supply quantity,Domestic supply qu
 RUS,Russia,2021,78.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2022,53.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 RUS,Russia,2023,37.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2010,22.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2011,19.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2012,19.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2013,21.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2014,22.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2015,24.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2016,26.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2017,28.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2018,30.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2019,32.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2020,36.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2021,36.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2022,36.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-FRA,France,2023,34.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2010,127.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2011,194.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2012,207.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2013,205.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2010,8.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2014,173.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2011,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2015,179.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2012,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2016,164.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2013,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2017,176.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2014,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2018,204.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2015,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2019,238.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2016,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2020,362.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2017,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2021,516.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2018,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2022,559.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2019,11.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 TUR,Turkey,2023,569.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2020,11.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2021,12.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2022,13.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-SWE,Sweden,2023,11.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 VEN,Venezuela,2010,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 VEN,Venezuela,2011,4.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 VEN,Venezuela,2012,4.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
@@ -629,34 +363,6 @@ VEN,Venezuela,2020,1.000000,1000 t,fbs:Domestic supply quantity,Domestic supply 
 VEN,Venezuela,2021,1.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 VEN,Venezuela,2022,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 VEN,Venezuela,2023,3.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2010,4.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2011,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2012,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2013,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2014,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2015,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2016,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2017,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2018,6.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2019,4.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2020,4.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2021,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2022,5.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-GRC,Greece,2023,4.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2010,63.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2011,63.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2012,64.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2013,66.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2014,65.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2015,65.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2016,64.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2017,67.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2018,66.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2019,73.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2020,77.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2021,81.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2022,89.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
-DEU,Germany,2023,71.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 ITA,Italy,2010,7.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 ITA,Italy,2011,6.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
 ITA,Italy,2012,7.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
@@ -766,165 +472,6 @@ ARG,Argentina,2010,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply
 ARG,Argentina,2011,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 ARG,Argentina,2012,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 ARG,Argentina,2013,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1961,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1962,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1963,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1964,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1965,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1966,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1967,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1968,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1969,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1970,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1971,11.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1972,12.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1973,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1974,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1975,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1976,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1977,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1978,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1979,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1980,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1981,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1982,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1983,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1984,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1985,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1986,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1987,17.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1988,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1989,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1990,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1991,20.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1992,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1993,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1994,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1995,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1996,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1997,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1998,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,1999,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2000,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2001,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2002,19.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2003,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2004,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2005,19.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2006,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2007,17.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2008,21.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2009,21.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2010,21.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2011,19.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2012,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-FRA,France,2013,21.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1961,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1962,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1963,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1964,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1965,19.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1966,17.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1967,19.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1968,24.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1969,24.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1970,23.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1971,25.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1972,25.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1973,28.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1974,28.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1975,31.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1976,34.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1977,33.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1978,35.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1979,41.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1980,39.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1981,41.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1982,41.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1983,42.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1984,42.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1985,40.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1986,42.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1987,43.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1988,40.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1989,43.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1990,42.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1991,40.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1992,42.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1993,41.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1994,40.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1995,41.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1996,40.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1997,45.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1998,38.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,1999,42.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2000,44.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2001,45.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2002,48.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2003,48.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2004,50.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2005,51.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2006,52.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2007,62.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2008,52.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2009,56.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2010,63.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2011,63.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2012,64.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-DEU,Germany,2013,66.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1961,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1962,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1963,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1964,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1965,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1966,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1967,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1968,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1969,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1970,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1971,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1972,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1973,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1974,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1975,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1976,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1977,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1978,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1979,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1980,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1981,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1982,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1983,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1984,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1985,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1986,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1987,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1988,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1989,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1990,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1991,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1992,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1993,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1994,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1995,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1996,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1997,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1998,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,1999,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2000,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2001,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2002,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2003,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2004,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2005,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2006,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2007,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2008,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2009,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2010,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2011,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2012,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GRC,Greece,2013,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 IRN,Iran,1961,12.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 IRN,Iran,1962,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 IRN,Iran,1963,11.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
@@ -1031,112 +578,6 @@ ITA,Italy,2010,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply qua
 ITA,Italy,2011,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 ITA,Italy,2012,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 ITA,Italy,2013,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1961,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1962,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1963,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1964,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1965,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1966,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1967,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1968,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1969,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1970,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1971,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1972,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1973,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1974,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1975,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1976,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1977,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1978,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1979,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1980,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1981,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1982,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1983,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1984,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1985,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1986,11.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1987,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1988,11.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1989,13.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1990,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1991,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1992,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1993,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1994,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1995,12.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1996,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1997,20.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1998,20.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,1999,20.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2000,23.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2001,12.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2002,22.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2003,21.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2004,21.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2005,20.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2006,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2007,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2008,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2009,12.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2010,24.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2011,27.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2012,12.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-NLD,Netherlands,2013,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1961,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1962,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1963,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1964,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1965,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1966,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1967,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1968,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1969,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1970,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1971,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1972,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1973,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1974,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1975,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1976,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1977,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1978,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1979,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1980,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1981,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1982,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1983,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1984,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1985,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1986,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1987,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1988,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1989,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1990,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1991,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1992,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1993,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1994,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1995,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1996,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1997,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1998,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,1999,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2000,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2001,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2002,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2003,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2004,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2005,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2006,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2007,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2008,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2009,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2010,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2011,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2012,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-PRT,Portugal,2013,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 KOR,South Korea,1961,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 KOR,South Korea,1962,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 KOR,South Korea,1963,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
@@ -1318,112 +759,6 @@ ESP,Spain,2010,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply qu
 ESP,Spain,2011,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 ESP,Spain,2012,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 ESP,Spain,2013,11.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1961,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1962,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1963,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1964,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1965,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1966,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1967,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1968,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1969,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1970,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1971,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1972,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1973,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1974,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1975,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1976,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1977,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1978,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1979,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1980,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1981,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1982,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1983,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1984,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1985,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1986,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1987,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1988,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1989,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1990,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1991,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1992,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1993,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1994,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1995,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1996,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1997,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1998,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,1999,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2000,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2001,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2002,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2003,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2004,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2005,6.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2006,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2007,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2008,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2009,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2010,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2011,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2012,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-SWE,Sweden,2013,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1961,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1962,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1963,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1964,8.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1965,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1966,9.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1967,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1968,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1969,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1970,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1971,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1972,10.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1973,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1974,15.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1975,11.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1976,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1977,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1978,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1979,17.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1980,12.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1981,14.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1982,16.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1983,17.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1984,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1985,19.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1986,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1987,18.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1988,19.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1989,22.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1990,22.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1991,22.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1992,24.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1993,28.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1994,26.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1995,28.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1996,29.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1997,33.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1998,32.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,1999,32.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2000,35.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2001,38.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2002,36.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2003,39.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2004,41.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2005,44.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2006,48.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2007,51.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2008,57.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2009,59.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2010,62.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2011,68.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2012,66.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
-GBR,United Kingdom,2013,69.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 USA,United States,1961,50.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 USA,United States,1962,58.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 USA,United States,1963,50.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
@@ -1530,3 +865,95 @@ VEN,Venezuela,2010,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply
 VEN,Venezuela,2011,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 VEN,Venezuela,2012,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
 VEN,Venezuela,2013,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2010,2.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2011,2.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2012,1.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2013,1.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2014,2.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2015,9.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2016,17.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2017,17.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2018,14.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2019,15.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2020,21.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2021,20.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2022,20.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2023,23.000000,1000 t,fbs:Import quantity,Import quantity,faostat-fbs
+IRQ,Iraq,2010,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2011,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2012,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2013,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2017,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2018,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2019,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2020,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2021,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2022,0.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2023,1.000000,1000 t,fbs:Export quantity,Export quantity,faostat-fbs
+IRQ,Iraq,2010,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2011,3.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2012,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2013,3.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2014,2.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2015,9.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2016,17.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2017,16.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2018,13.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2019,15.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2020,21.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2021,18.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2022,51.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,2023,57.000000,1000 t,fbs:Domestic supply quantity,Domestic supply quantity,faostat-fbs
+IRQ,Iraq,1961,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1962,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1963,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1964,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1965,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1966,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1967,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1968,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1969,5.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1970,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1971,7.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1972,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1973,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1974,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1975,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1976,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1977,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1978,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1979,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1980,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1981,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1982,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1983,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1984,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1985,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1986,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1987,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1988,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1989,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1990,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1991,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1992,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1993,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1994,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1995,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1996,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1997,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1998,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,1999,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2000,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2001,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2002,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2003,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2004,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2005,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2006,0.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2007,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2008,4.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2009,3.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2010,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2011,2.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2012,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh
+IRQ,Iraq,2013,1.000000,1000 t,fbsh:Domestic supply quantity,Domestic supply quantity,faostat-fbsh

@@ -3,7 +3,7 @@
   "title": "Groundnuts, excluding shelled",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1842,
+  "n_rows": 1774,
   "year_range": [
     "1961",
     "2024"
@@ -11,11 +11,10 @@
   "countries": [
     "ARG",
     "ESP",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "PRT",
     "SAU",
     "TUR",
     "USA",

@@ -3,25 +3,19 @@
   "title": "Cauliflowers and broccoli",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2650,
+  "n_rows": 1514,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

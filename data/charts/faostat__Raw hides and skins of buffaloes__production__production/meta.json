@@ -1,30 +1,29 @@
 {
- "chart_id": "faostat__Raw hides and skins of buffaloes__production__production",
- "title": "Raw hides and skins of buffaloes, production (t)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 275,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "DEU",
-  "GRC",
-  "IRN",
-  "ITA",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "تولید پوست خام گاومیش (تن)"
+  "chart_id": "faostat__Raw hides and skins of buffaloes__production__production",
+  "title": "Raw hides and skins of buffaloes, production (t)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 385,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ",
+    "ITA",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "تولید پوست خام گاومیش (تن)"
 }

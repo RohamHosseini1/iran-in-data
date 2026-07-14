@@ -3,20 +3,16 @@
   "title": "Sunflower seed",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 2406,
+  "n_rows": 1668,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
-    "PRT",
     "RUS",
     "TUR",
     "USA",

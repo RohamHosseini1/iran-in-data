@@ -3,24 +3,17 @@
   "title": "Cherries",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2317,
+  "n_rows": 1195,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

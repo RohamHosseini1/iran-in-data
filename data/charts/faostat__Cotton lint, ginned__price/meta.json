@@ -3,7 +3,7 @@
   "title": "Cotton lint, ginned",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 692,
+  "n_rows": 642,
   "year_range": [
     "1966",
     "2025"
@@ -11,8 +11,8 @@
   "countries": [
     "ARG",
     "ESP",
-    "GRC",
     "IRN",
+    "IRQ",
     "TUR",
     "USA",
     "VEN"

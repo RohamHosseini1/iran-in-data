@@ -3,22 +3,18 @@
   "title": "Eggplants (aubergines)",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2210,
+  "n_rows": 1641,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

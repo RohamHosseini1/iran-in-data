@@ -3,26 +3,20 @@
   "title": "Persistence to last grade of primary, total (% of cohort)",
   "category": "Education",
   "sources": "wdi",
-  "n_rows": 367,
+  "n_rows": 250,
   "year_range": [
     "1970",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

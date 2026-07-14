@@ -3,26 +3,20 @@
   "title": "Renewable energy consumption (% of total final energy consumption)",
   "category": "Energy",
   "sources": "wdi",
-  "n_rows": 544,
+  "n_rows": 352,
   "year_range": [
     "1990",
     "2021"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

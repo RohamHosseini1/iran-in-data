@@ -1,33 +1,29 @@
 {
- "chart_id": "faostat__Meat of geese, fresh or chilled__production__yield_carcass_weight",
- "title": "Meat of geese, fresh or chilled, yield/carcass weight (g/An)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 498,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "TUR",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "وزن لاشه گوشت غاز، تازه یا سردکرده (گرم بر رأس)"
+  "chart_id": "faostat__Meat of geese, fresh or chilled__production__yield_carcass_weight",
+  "title": "Meat of geese, fresh or chilled, yield/carcass weight (g/An)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 281,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "IRN",
+    "ITA",
+    "KOR",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "وزن لاشه گوشت غاز، تازه یا سردکرده (گرم بر رأس)"
 }

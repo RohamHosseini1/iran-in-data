@@ -1,61 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-GRC,Greece,1961,634.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1962,740.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1963,868.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1964,790.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1965,1253.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1966,826.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1967,924.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1968,1116.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1969,1031.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1970,1260.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1971,1035.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1972,1257.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1973,1223.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1974,1566.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1975,1430.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1976,1899.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1977,1640.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1978,1487.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1979,2190.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1980,2514.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1981,2253.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1982,2150.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1983,3269.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1984,3600.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1985,4067.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1986,3670.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1987,4348.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1988,4244.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1989,5551.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1990,3439.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1991,4989.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1992,4786.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1993,5573.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1994,5351.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1995,5591.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1996,8865.940000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1997,9135.390000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1998,8065.750000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1999,9023.360000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2000,9536.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2001,9540.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2002,8866.890000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2003,7937.330000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2004,7917.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2005,8847.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2006,8233.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2007,8155.280000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2008,8306.600000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2009,8039.380000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2010,7907.870000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2011,8008.540000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2012,7994.640000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2013,7121.600000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2014,8566.110000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2015,9745.260000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2016,11264.920000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2017,11836.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1961,6000.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1962,7000.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1963,5000.000000,t,qcl:Production,Production,faostat-qcl
@@ -333,3 +276,24 @@ USA,United States,2021,523900.000000,t,qcl:Production,Production,faostat-qcl
 USA,United States,2022,400070.000000,t,qcl:Production,Production,faostat-qcl
 USA,United States,2023,675850.000000,t,qcl:Production,Production,faostat-qcl
 USA,United States,2024,498950.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2018,630.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2019,1058.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2020,788.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2021,758.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2022,997.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2023,226.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2024,566.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2018,2387.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2019,2495.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2020,2281.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2021,2991.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2022,2494.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2023,3177.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2024,2978.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2018,1503.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2019,2641.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2020,1797.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2021,2267.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2022,2486.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2023,719.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2024,1686.940000,t,qcl:Production,Production,faostat-qcl

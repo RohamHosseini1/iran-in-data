@@ -3,20 +3,16 @@
   "title": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 300,
+  "n_rows": 200,
   "year_range": [
     "2000",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "KOR",
-    "NLD",
-    "PRT",
     "SAU",
     "TUR",
     "USA",

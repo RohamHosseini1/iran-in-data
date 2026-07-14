@@ -1,40 +1,33 @@
 {
- "chart_id": "wdi__EN.GHG.CO2.LU.OS.MT.CE",
- "title": "Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e)",
- "category": "Environment",
- "sources": "wdi",
- "n_rows": 394,
- "year_range": [
-  "2000",
-  "2023"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/EN.GHG.CO2.LU.OS.MT.CE.AR5",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "محیط‌زیست",
- "title_fa": "شار خالص دی‌اکسید کربن (CO2) از LULUCF، خاک آلی (مگاتن معادل CO2)"
+  "chart_id": "wdi__EN.GHG.CO2.LU.OS.MT.CE",
+  "title": "Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e)",
+  "category": "Environment",
+  "sources": "wdi",
+  "n_rows": 227,
+  "year_range": [
+    "2000",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/EN.GHG.CO2.LU.OS.MT.CE.AR5",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "محیط‌زیست",
+  "title_fa": "شار خالص دی‌اکسید کربن (CO2) از LULUCF، خاک آلی (مگاتن معادل CO2)"
 }

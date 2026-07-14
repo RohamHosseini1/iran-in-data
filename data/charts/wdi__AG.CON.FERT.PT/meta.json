@@ -3,26 +3,20 @@
   "title": "Fertilizer consumption (% of fertilizer production)",
   "category": "Agriculture & Rural Development",
   "sources": "wdi",
-  "n_rows": 1012,
+  "n_rows": 641,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

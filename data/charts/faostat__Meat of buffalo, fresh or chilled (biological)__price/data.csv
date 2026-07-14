@@ -1,14 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-GRC,Greece,2015,2134.300000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2016,2257.600000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2017,2242.700000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2018,2195.100000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2019,2130.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2020,2155.700000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2021,2342.500000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2022,3461.400000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2023,4110.800000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2024,4207.100000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 IRN,Iran,1991,828800.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 IRN,Iran,1992,1164400.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 IRN,Iran,1993,1659100.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
@@ -138,16 +128,6 @@ TUR,Turkey,2022,55515.700000,LCU,pp:Producer Price (LCU/tonne),Producer Price (L
 TUR,Turkey,2022,56942.400000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 TUR,Turkey,2022,59856.300000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
 TUR,Turkey,2022,64795.100000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-GRC,Greece,2015,2134.300000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2016,2257.600000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2017,2242.700000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2018,2195.100000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2019,2130.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2020,2155.700000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2021,2342.500000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2022,3461.400000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2023,4110.800000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2024,4207.100000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 IRN,Iran,1991,828800.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 IRN,Iran,1992,1164400.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 IRN,Iran,1993,1659100.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
@@ -181,16 +161,6 @@ TUR,Turkey,2019,16809.600000,SLC,pp:Producer Price (SLC/tonne),Producer Price (S
 TUR,Turkey,2020,22124.800000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 TUR,Turkey,2021,26239.600000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 TUR,Turkey,2022,48412.800000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
-GRC,Greece,2015,2367.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2016,2497.300000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2017,2533.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2018,2592.300000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2019,2384.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2020,2462.200000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2021,2770.600000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2022,3645.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2023,4444.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2024,4551.300000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 IRN,Iran,1991,1619.700000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 IRN,Iran,1992,1777.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 IRN,Iran,1993,1864.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
@@ -224,17 +194,6 @@ TUR,Turkey,2019,2962.700000,USD,pp:Producer Price (USD/tonne),Producer Price (US
 TUR,Turkey,2020,3156.800000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 TUR,Turkey,2021,2964.800000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 TUR,Turkey,2022,2925.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,2015,97.190000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2016,102.810000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2017,102.130000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2018,99.960000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2019,97.000000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2020,98.170000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2021,106.680000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2022,157.630000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2023,187.200000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2024,191.580000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2025,206.560000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1991,0.840000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1992,1.190000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1993,1.690000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
@@ -389,3 +348,92 @@ TUR,Turkey,1987,595000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (
 TUR,Turkey,1988,850000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 TUR,Turkey,1989,1200000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 TUR,Turkey,1990,1882000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
+IRQ,Iraq,1999,1500000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2000,1500000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2001,2500000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2002,2500000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2003,3000000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2004,4000000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2005,4000000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2006,6000000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2007,6000000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2008,8000000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2009,8000000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2011,9941000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2012,5695726.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2013,5752684.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2014,5405765.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2015,5255255.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2016,5788669.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2017,5888087.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2018,5564523.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2019,5377450.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2020,5478120.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,2021,7387826.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRQ,Iraq,1999,1500000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2000,1500000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2001,2500000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2002,2500000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2003,3000000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2004,4000000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2005,4000000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2006,6000000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2007,6000000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2008,8000000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2009,8000000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2011,9941000.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2012,5695726.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2013,5752684.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2014,5405765.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2015,5255255.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2016,5788669.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2017,5888087.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2018,5564523.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2019,5377450.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2020,5478120.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2021,7387826.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
+IRQ,Iraq,2003,2414.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2004,2752.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2005,2717.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2006,4067.800000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2007,4782.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2008,6299.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2009,7877.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2011,8496.600000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2012,4884.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2013,4933.700000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2014,4636.200000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2015,4501.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2016,4897.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2017,4973.000000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2018,4704.700000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2019,4549.500000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2020,4595.700000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,2021,5095.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
+IRQ,Iraq,1999,27.360000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2000,27.360000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2001,45.590000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2002,45.590000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2003,54.710000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2004,72.950000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2005,72.950000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2006,109.420000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2007,109.420000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2008,145.900000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2009,145.900000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2010,162.640000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2011,181.300000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2012,103.880000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2013,104.910000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2014,98.590000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2015,95.840000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2016,105.570000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2017,107.380000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2018,101.480000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2019,98.070000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2020,99.910000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2021,134.730000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2022,144.260000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2023,118.130000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2024,106.400000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
+IRQ,Iraq,2025,87.700000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp

@@ -3,26 +3,20 @@
   "title": "Rice and products",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 1190,
+  "n_rows": 770,
   "year_range": [
     "2010",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

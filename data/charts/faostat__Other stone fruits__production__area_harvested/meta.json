@@ -1,31 +1,27 @@
 {
- "chart_id": "faostat__Other stone fruits__production__area_harvested",
- "title": "Other stone fruits, area harvested (ha)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 330,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "DEU",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "PRT",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "سطح زیر کشت سایر میوه‌های هسته‌دار (هکتار)"
+  "chart_id": "faostat__Other stone fruits__production__area_harvested",
+  "title": "Other stone fruits, area harvested (ha)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 175,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "ITA",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "سطح زیر کشت سایر میوه‌های هسته‌دار (هکتار)"
 }

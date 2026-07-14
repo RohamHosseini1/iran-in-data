@@ -3,19 +3,16 @@
   "title": "Kiwi fruit",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 931,
+  "n_rows": 580,
   "year_range": [
     "1991",
     "2025"
   ],
   "countries": [
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "PRT",
     "TUR",
     "USA"
   ],

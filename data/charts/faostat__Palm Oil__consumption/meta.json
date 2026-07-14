@@ -3,25 +3,19 @@
   "title": "Palm Oil",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 4106,
+  "n_rows": 2267,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

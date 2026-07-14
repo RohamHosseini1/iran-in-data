@@ -3,26 +3,19 @@
   "title": "Market capitalization of listed domestic companies",
   "category": "Capital Markets",
   "sources": "wdi",
-  "n_rows": 601,
+  "n_rows": 688,
   "year_range": [
     "1975",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

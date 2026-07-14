@@ -1,36 +1,6 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
 ARG,Argentina,2002,1.0535311941574081,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 ARG,Argentina,2018,1.1998619856810144,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-FRA,France,2005,5.77195274647504,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-FRA,France,2007,5.175973512382687,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-FRA,France,2010,5.474602697199434,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-FRA,France,2013,4.947573652328342,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-FRA,France,2020,6.4253566389628,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-DEU,Germany,2006,1.3843974979346159,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-DEU,Germany,2009,2.2089304749496623,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-DEU,Germany,2013,2.1896149008803976,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-DEU,Germany,2016,2.71204754186926,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-DEU,Germany,2020,3.0521241337752336,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2003,15.887057682985942,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2005,16.61461586508432,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2006,18.64428335241002,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2007,18.67664130014188,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2008,18.62348178137652,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2009,18.227513227513228,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2010,18.320202964347708,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2011,18.658734451054624,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2012,18.907043800631605,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2013,19.194743464280723,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2014,20.238671182067407,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2015,19.90643652201968,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2016,19.6870925684485,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2017,20.43611071391474,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2018,20.658353941181055,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2019,20.2151294889448,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2020,21.54649511734975,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2021,21.34274927736317,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2022,22.25555676386987,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GRC,Greece,2023,22.255556349584747,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 IRN,Iran,2008,17.470279533040593,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 IRN,Iran,2009,16.980178296798627,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 IRN,Iran,2010,16.901378187084493,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
@@ -55,26 +25,6 @@ ITA,Italy,2013,19.08290535583272,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land 
 ITA,Italy,2016,19.926631283172025,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 ITA,Italy,2020,20.625688488197742,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 ITA,Italy,2021,19.72098610187289,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2005,4.799504567270476,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2007,10.551608859172587,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2010,7.317203439619719,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2013,5.509850617016671,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2016,11.074380165289256,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2018,13.998902907295665,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2019,16.34191985909291,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-NLD,Netherlands,2023,21.575152523571823,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2005,11.872726464411896,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2007,15.944079630256875,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2010,12.75255393153575,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2013,12.963713490583881,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2016,13.099090087675428,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2017,13.741615108517664,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2018,14.330758959651346,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2019,14.333058137528967,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2020,14.44036141720328,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2021,14.531657217388252,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2022,14.811260645588407,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-PRT,Portugal,2023,14.744328512956944,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 RUS,Russia,2001,2.0690672827294905,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 RUS,Russia,2002,2.052148386114073,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 RUS,Russia,2003,2.0996222436967407,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
@@ -119,12 +69,6 @@ ESP,Spain,2020,14.767736849021368,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land
 ESP,Spain,2021,14.899014377000997,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 ESP,Spain,2022,14.256450160584205,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 ESP,Spain,2023,15.115416340803423,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-SWE,Sweden,2003,1.7080576597308785,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-SWE,Sweden,2005,1.5259902536548793,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-SWE,Sweden,2007,1.7357172610464928,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-SWE,Sweden,2010,2.0496470052379867,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-SWE,Sweden,2013,1.7094411214460752,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-SWE,Sweden,2016,1.6882274274062206,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 TUR,Turkey,1990,9.577336996244675,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 TUR,Turkey,1991,7.719569720717797,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 TUR,Turkey,1992,7.751102646351243,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
@@ -159,12 +103,6 @@ TUR,Turkey,2020,11.699592182617447,,AG.LND.IRIG.AG.ZS,Agricultural irrigated lan
 TUR,Turkey,2021,11.97983669825934,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 TUR,Turkey,2022,12.126957741357367,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 TUR,Turkey,2023,12.467606509795791,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GBR,United Kingdom,2003,1.338759141306912,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GBR,United Kingdom,2005,1.2290634583628213,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GBR,United Kingdom,2007,0.7831359437864792,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GBR,United Kingdom,2010,0.3855085926614027,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GBR,United Kingdom,2013,0.2836488852303162,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
-GBR,United Kingdom,2018,0.41390509391187813,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 USA,United States,2002,5.419014971045649,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 USA,United States,2007,5.548159946674107,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi
 USA,United States,2008,5.357924188231871,,AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),wdi

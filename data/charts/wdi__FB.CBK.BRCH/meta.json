@@ -3,26 +3,20 @@
   "title": "Commercial bank branches",
   "category": "Financial Sector (Banking Access)",
   "sources": "wdi",
-  "n_rows": 327,
+  "n_rows": 211,
   "year_range": [
     "2004",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

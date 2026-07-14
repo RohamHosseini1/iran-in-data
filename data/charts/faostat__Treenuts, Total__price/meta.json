@@ -3,21 +3,17 @@
   "title": "Treenuts, Total",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 419,
+  "n_rows": 279,
   "year_range": [
     "1991",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "PRT",
     "RUS",
     "TUR",
     "USA"

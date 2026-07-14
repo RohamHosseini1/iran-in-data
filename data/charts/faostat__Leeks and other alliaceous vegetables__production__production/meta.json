@@ -1,35 +1,28 @@
 {
- "chart_id": "faostat__Leeks and other alliaceous vegetables__production__production",
- "title": "Leeks and other alliaceous vegetables, production (t)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 601,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "SWE",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "تولید تره‌فرنگی و سایر سبزیجات پیازی (تن)"
+  "chart_id": "faostat__Leeks and other alliaceous vegetables__production__production",
+  "title": "Leeks and other alliaceous vegetables, production (t)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 247,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "ITA",
+    "KOR",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "تولید تره‌فرنگی و سایر سبزیجات پیازی (تن)"
 }

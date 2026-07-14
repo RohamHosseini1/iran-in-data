@@ -3,26 +3,20 @@
   "title": "Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 374,
+  "n_rows": 242,
   "year_range": [
     "2000",
     "2021"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -3,22 +3,17 @@
   "title": "Spinach",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1940,
+  "n_rows": 1236,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

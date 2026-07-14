@@ -3,13 +3,14 @@
   "title": "Camels",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 225,
+  "n_rows": 289,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "IRN",
+    "IRQ",
     "RUS",
     "SAU",
     "TUR"

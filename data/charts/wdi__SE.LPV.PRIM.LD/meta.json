@@ -3,7 +3,7 @@
   "title": "Pupils below minimum reading proficiency at end of primary, by sex (%). Low GAML threshold",
   "category": "Education",
   "sources": "wdi",
-  "n_rows": 104,
+  "n_rows": 58,
   "year_range": [
     "2001",
     "2021"
@@ -11,16 +11,10 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

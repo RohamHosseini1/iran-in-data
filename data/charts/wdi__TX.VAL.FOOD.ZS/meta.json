@@ -3,26 +3,20 @@
   "title": "Food exports (% of merchandise exports)",
   "category": "Trade (Exports)",
   "sources": "wdi",
-  "n_rows": 972,
+  "n_rows": 551,
   "year_range": [
     "1962",
-    "2025"
+    "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -1,29 +1,29 @@
 {
- "chart_id": "faostat__Pistachios, in shell__production__yield",
- "title": "Pistachios, in shell, yield (kg/ha)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 270,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "ESP",
-  "GRC",
-  "IRN",
-  "ITA",
-  "TUR",
-  "USA"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "عملکرد پسته با پوست (کیلوگرم بر هکتار)"
+  "chart_id": "faostat__Pistachios, in shell__production__yield",
+  "title": "Pistachios, in shell, yield (kg/ha)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 258,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "عملکرد پسته با پوست (کیلوگرم بر هکتار)"
 }

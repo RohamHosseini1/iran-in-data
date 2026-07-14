@@ -1,25 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-FRA,France,2018,2800.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-FRA,France,2019,6210.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-FRA,France,2020,1620.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-FRA,France,2021,5920.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-FRA,France,2022,5790.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-FRA,France,2023,6130.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-FRA,France,2024,6200.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-DEU,Germany,2018,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-DEU,Germany,2019,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-DEU,Germany,2020,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-DEU,Germany,2021,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-DEU,Germany,2022,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-DEU,Germany,2023,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-DEU,Germany,2024,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2018,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2019,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2020,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2021,2890.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2022,2830.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2023,2650.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2024,8070.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 IRN,Iran,1961,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 IRN,Iran,1962,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 IRN,Iran,1963,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
@@ -91,20 +70,6 @@ ITA,Italy,2021,12440.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ITA,Italy,2022,12860.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ITA,Italy,2023,13270.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ITA,Italy,2024,13290.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-NLD,Netherlands,2018,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-NLD,Netherlands,2019,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-NLD,Netherlands,2020,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-NLD,Netherlands,2021,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-NLD,Netherlands,2022,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-NLD,Netherlands,2023,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-NLD,Netherlands,2024,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-PRT,Portugal,2018,1670.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-PRT,Portugal,2019,4110.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-PRT,Portugal,2020,4120.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-PRT,Portugal,2021,4140.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-PRT,Portugal,2022,4130.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-PRT,Portugal,2023,4670.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-PRT,Portugal,2024,4750.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ESP,Spain,1961,60.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ESP,Spain,1962,100.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ESP,Spain,1963,115.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
@@ -169,13 +134,6 @@ ESP,Spain,2021,32720.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ESP,Spain,2022,32250.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ESP,Spain,2023,31460.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 ESP,Spain,2024,31050.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-SWE,Sweden,2018,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-SWE,Sweden,2019,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-SWE,Sweden,2020,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-SWE,Sweden,2021,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-SWE,Sweden,2022,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-SWE,Sweden,2023,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-SWE,Sweden,2024,0.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 VEN,Venezuela,1985,2650.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 VEN,Venezuela,1986,2650.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 VEN,Venezuela,1987,2650.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
@@ -216,17 +174,6 @@ VEN,Venezuela,2021,7799.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 VEN,Venezuela,2022,7791.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 VEN,Venezuela,2023,8248.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 VEN,Venezuela,2024,8578.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-FRA,France,2018,12353.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2019,8228.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2020,27413.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2021,8098.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2022,7911.900000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2023,7238.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2024,6261.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2021,16688.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2022,16296.800000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2023,13305.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2024,10868.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
 IRN,Iran,1982,2500.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
 IRN,Iran,1983,2250.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
 IRN,Iran,1984,2250.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
@@ -275,7 +222,6 @@ ITA,Italy,2021,17663.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ITA,Italy,2022,18115.100000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ITA,Italy,2023,17625.500000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ITA,Italy,2024,18576.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
-PRT,Portugal,2024,2448.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ESP,Spain,1961,35483.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ESP,Spain,1962,21490.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ESP,Spain,1963,16330.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
@@ -380,27 +326,6 @@ VEN,Venezuela,2021,12580.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
 VEN,Venezuela,2022,12503.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
 VEN,Venezuela,2023,12087.900000,kg/ha,qcl:Yield,Yield,faostat-qcl
 VEN,Venezuela,2024,11741.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2018,34590.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2019,51100.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2020,44410.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2021,47940.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2022,45810.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2023,44370.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2024,38820.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2018,0.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2019,0.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2020,0.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2021,0.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2022,0.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2023,0.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2024,0.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2018,0.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2019,0.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2020,0.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2021,48230.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2022,46120.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2023,35260.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2024,87710.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1961,0.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1962,0.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1963,0.000000,t,qcl:Production,Production,faostat-qcl
@@ -472,14 +397,6 @@ ITA,Italy,2021,219730.000000,t,qcl:Production,Production,faostat-qcl
 ITA,Italy,2022,232960.000000,t,qcl:Production,Production,faostat-qcl
 ITA,Italy,2023,233890.000000,t,qcl:Production,Production,faostat-qcl
 ITA,Italy,2024,246880.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2018,0.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2019,0.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2020,0.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2021,0.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2022,0.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2023,0.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2024,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2024,11630.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,1961,2129.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,1962,2149.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,1963,1878.000000,t,qcl:Production,Production,faostat-qcl
@@ -544,13 +461,6 @@ ESP,Spain,2021,522920.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,2022,419750.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,2023,528390.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,2024,415770.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2018,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2019,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2020,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2021,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2022,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2023,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2024,0.000000,t,qcl:Production,Production,faostat-qcl
 VEN,Venezuela,1961,5670.000000,t,qcl:Production,Production,faostat-qcl
 VEN,Venezuela,1962,6166.000000,t,qcl:Production,Production,faostat-qcl
 VEN,Venezuela,1963,6678.000000,t,qcl:Production,Production,faostat-qcl

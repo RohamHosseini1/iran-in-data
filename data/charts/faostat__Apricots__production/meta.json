@@ -3,23 +3,18 @@
   "title": "Apricots",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1947,
+  "n_rows": 1357,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

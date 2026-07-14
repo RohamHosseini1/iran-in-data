@@ -3,17 +3,15 @@
   "title": "Cheese from skimmed cow milk",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 522,
+  "n_rows": 396,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "RUS",
     "TUR",

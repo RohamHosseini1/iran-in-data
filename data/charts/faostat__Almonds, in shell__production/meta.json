@@ -3,7 +3,7 @@
   "title": "Almonds, in shell",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1627,
+  "n_rows": 1263,
   "year_range": [
     "1961",
     "2024"
@@ -11,14 +11,10 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "NLD",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

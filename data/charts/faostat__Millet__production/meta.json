@@ -3,7 +3,7 @@
   "title": "Millet",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1766,
+  "n_rows": 1614,
   "year_range": [
     "1961",
     "2024"
@@ -11,11 +11,9 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "KOR",
-    "PRT",
     "RUS",
     "SAU",
     "TUR",

@@ -3,26 +3,20 @@
   "title": "Fossil fuel energy consumption (% of total)",
   "category": "Energy",
   "sources": "wdi",
-  "n_rows": 589,
+  "n_rows": 366,
   "year_range": [
     "1990",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

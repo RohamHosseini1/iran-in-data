@@ -1,40 +1,34 @@
 {
- "chart_id": "faostat__Hen eggs in shell, fresh__production__production_1000_no",
- "title": "Hen eggs in shell, fresh, production (1000 count)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 1044,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "تولید تخم‌مرغ تازه با پوست (هزار عدد)"
+  "chart_id": "faostat__Hen eggs in shell, fresh__production__production_1000_no",
+  "title": "Hen eggs in shell, fresh, production (1000 count)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 925,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "تولید تخم‌مرغ تازه با پوست (هزار عدد)"
 }

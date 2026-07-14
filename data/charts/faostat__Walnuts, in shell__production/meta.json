@@ -3,22 +3,18 @@
   "title": "Walnuts, in shell",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1920,
+  "n_rows": 1440,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "PRT",
-    "SWE",
     "TUR",
     "USA"
   ],

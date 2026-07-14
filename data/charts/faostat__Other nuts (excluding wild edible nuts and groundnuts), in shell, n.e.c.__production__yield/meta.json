@@ -1,33 +1,31 @@
 {
- "chart_id": "faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production__yield",
- "title": "Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c., yield (kg/ha)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 360,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "PRT",
-  "RUS",
-  "TUR",
-  "USA"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "عملکرد سایر آجیل‌ها (به‌جز آجیل‌های خوراکی وحشی و بادام‌زمینی)، با پوست، طبقه‌بندی‌نشده (کیلوگرم بر هکتار)"
+  "chart_id": "faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production__yield",
+  "title": "Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c., yield (kg/ha)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 464,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "عملکرد سایر آجیل‌ها (به‌جز آجیل‌های خوراکی وحشی و بادام‌زمینی)، با پوست، طبقه‌بندی‌نشده (کیلوگرم بر هکتار)"
 }

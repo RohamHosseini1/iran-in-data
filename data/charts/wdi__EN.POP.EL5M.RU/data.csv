@@ -2,15 +2,6 @@ country_iso3,country_name,year,value,unit,variant_code,variant_label,source_data
 ARG,Argentina,1990,0.13562191782836,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 ARG,Argentina,2000,0.114085116204704,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 ARG,Argentina,2015,0.133082020107503,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-FRA,France,1990,0.835947007248033,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-FRA,France,2000,0.832176659998917,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-FRA,France,2015,0.817451612722433,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-DEU,Germany,1990,0.780776574283657,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-DEU,Germany,2000,0.764712310555387,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-DEU,Germany,2015,0.812293182122025,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-GRC,Greece,1990,2.30891220710152,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-GRC,Greece,2000,2.22032155504929,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-GRC,Greece,2015,2.24092863666269,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 IRN,Iran,1990,0.105042861196354,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 IRN,Iran,2000,0.149026292840359,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 IRN,Iran,2015,0.16941793642199,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
@@ -20,12 +11,6 @@ ITA,Italy,2015,1.13354315167117,,EN.POP.EL5M.RU.ZS,Rural population living in ar
 KOR,South Korea,1990,0.727738746173892,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 KOR,South Korea,2000,0.690436999741279,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 KOR,South Korea,2015,0.565016755944891,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-NLD,Netherlands,1990,10.8852201500206,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-NLD,Netherlands,2000,10.2347298969276,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-NLD,Netherlands,2015,9.87848958404112,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-PRT,Portugal,1990,0.473170376992983,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-PRT,Portugal,2000,0.452930733050554,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-PRT,Portugal,2015,0.483832829351426,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 RUS,Russia,1990,0.253606078519807,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 RUS,Russia,2000,0.253121778492864,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 RUS,Russia,2015,0.266105180258328,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
@@ -35,18 +20,15 @@ SAU,Saudi Arabia,2015,0.684171875209436,,EN.POP.EL5M.RU.ZS,Rural population livi
 ESP,Spain,1990,0.683424573270225,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 ESP,Spain,2000,0.659540111471211,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 ESP,Spain,2015,0.626205018922196,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-SWE,Sweden,1990,1.90118246919991,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-SWE,Sweden,2000,1.85088205512797,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-SWE,Sweden,2015,1.73211897245756,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 TUR,Turkey,1990,0.720470819733148,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 TUR,Turkey,2000,0.648262886517375,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 TUR,Turkey,2015,0.531605846945181,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-GBR,United Kingdom,1990,0.669811628754892,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-GBR,United Kingdom,2000,0.681128419913113,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
-GBR,United Kingdom,2015,0.669001402876402,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 USA,United States,1990,0.621041761229423,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 USA,United States,2000,0.560563084625087,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 USA,United States,2015,0.503530148053764,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 VEN,Venezuela,1990,0.877819157326979,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 VEN,Venezuela,2000,0.836261707501828,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
 VEN,Venezuela,2015,0.819577276449064,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
+IRQ,Iraq,1990,1.0706666711146,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
+IRQ,Iraq,2000,1.08130319965969,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi
+IRQ,Iraq,2015,1.12272395140817,,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),wdi

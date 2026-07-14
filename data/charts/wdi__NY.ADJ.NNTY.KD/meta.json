@@ -1,39 +1,33 @@
 {
- "chart_id": "wdi__NY.ADJ.NNTY.KD",
- "title": "Adjusted net national income (annual % growth)",
- "category": "Macro / National Accounts",
- "sources": "wdi",
- "n_rows": 691,
- "year_range": [
-  "1971",
-  "2021"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/NY.ADJ.NNTY.KD.ZG",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "کلان / حساب‌های ملی",
- "title_fa": "رشد درآمد خالص ملی تعدیل‌شده (درصد سالانه)"
+  "chart_id": "wdi__NY.ADJ.NNTY.KD",
+  "title": "Adjusted net national income (annual % growth)",
+  "category": "Macro / National Accounts",
+  "sources": "wdi",
+  "n_rows": 387,
+  "year_range": [
+    "1971",
+    "2021"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/NY.ADJ.NNTY.KD.ZG",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "کلان / حساب‌های ملی",
+  "title_fa": "رشد درآمد خالص ملی تعدیل‌شده (درصد سالانه)"
 }

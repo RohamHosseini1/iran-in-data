@@ -3,26 +3,20 @@
   "title": "Current health expenditure (% of GDP)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 398,
+  "n_rows": 245,
   "year_range": [
     "2000",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

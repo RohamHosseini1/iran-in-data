@@ -1,39 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-GRC,Greece,1991,57.460000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1992,59.730000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1993,62.600000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1994,66.240000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1995,51.480000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1996,55.780000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1997,56.780000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1998,61.860000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,1999,55.780000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2000,57.120000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2001,60.190000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2002,61.470000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2003,59.940000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2004,66.600000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2005,64.040000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2006,57.760000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2007,80.040000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2008,114.940000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2009,109.760000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2010,105.790000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2011,116.740000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2012,126.090000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2013,114.340000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2014,100.250000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2015,99.930000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2016,99.820000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2017,99.690000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2018,99.730000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2019,98.690000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2020,97.480000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2021,99.620000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2022,100.020000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2023,101.570000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2024,95.350000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-GRC,Greece,2025,93.410000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1991,1.510000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1992,1.550000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 IRN,Iran,1993,1.090000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
@@ -666,31 +631,6 @@ VEN,Venezuela,2011,1254.300000,USD,pp:Producer Price (USD/tonne),Producer Price 
 VEN,Venezuela,2012,1312.600000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 VEN,Venezuela,2013,2686.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 VEN,Venezuela,2014,5688.900000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-GRC,Greece,1966,12110.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1967,12000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1968,12480.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1969,12800.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1970,12640.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1971,14420.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1972,14870.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1973,20200.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1974,24930.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1975,28830.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1976,30930.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1977,35760.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1978,46760.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1979,50550.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1980,57090.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1981,58950.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1982,75060.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1983,157820.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1984,198460.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1985,290100.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1986,340540.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1987,398800.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1988,493900.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1989,550000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-GRC,Greece,1990,605000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 IRN,Iran,1966,13498.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 IRN,Iran,1967,14193.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
 IRN,Iran,1968,14608.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa

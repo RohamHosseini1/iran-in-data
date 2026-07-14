@@ -3,24 +3,18 @@
   "title": "Lettuce and chicory",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2612,
+  "n_rows": 1460,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

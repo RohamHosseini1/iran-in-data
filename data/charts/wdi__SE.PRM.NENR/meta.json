@@ -3,26 +3,20 @@
   "title": "School enrollment, primary, by sex (% net)",
   "category": "Education",
   "sources": "wdi",
-  "n_rows": 632,
+  "n_rows": 310,
   "year_range": [
     "1970",
     "2018"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

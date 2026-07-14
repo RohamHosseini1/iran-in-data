@@ -3,17 +3,17 @@
   "title": "Sugar cane",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 893,
+  "n_rows": 999,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "IRN",
+    "IRQ",
     "KOR",
     "RUS",
-    "SAU",
-    "SWE"
+    "SAU"
   ],
   "citations": [
     {

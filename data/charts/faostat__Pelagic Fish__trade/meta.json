@@ -3,26 +3,20 @@
   "title": "Pelagic Fish",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 1531,
+  "n_rows": 952,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

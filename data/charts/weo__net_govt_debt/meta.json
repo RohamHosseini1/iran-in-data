@@ -3,23 +3,17 @@
   "title": "Government Net Debt (assets netted)",
   "category": "Government Finance",
   "sources": "imf-weo",
-  "n_rows": 1014,
+  "n_rows": 512,
   "year_range": [
-    "1980",
+    "1985",
     "2031"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

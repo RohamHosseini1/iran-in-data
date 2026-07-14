@@ -3,22 +3,16 @@
   "title": "Mushrooms and truffles",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 2478,
+  "n_rows": 1065,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "TUR",
     "USA"

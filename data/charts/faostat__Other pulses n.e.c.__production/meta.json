@@ -3,24 +3,18 @@
   "title": "Other pulses n.e.c.",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2130,
+  "n_rows": 1208,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR"
   ],
   "citations": [

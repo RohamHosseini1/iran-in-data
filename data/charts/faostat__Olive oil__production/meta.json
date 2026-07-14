@@ -3,7 +3,7 @@
   "title": "Olive oil",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 570,
+  "n_rows": 381,
   "year_range": [
     "1961",
     "2023"
@@ -11,11 +11,8 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
-    "PRT",
     "SAU",
     "TUR",
     "USA"

@@ -3,26 +3,20 @@
   "title": "Alcohol, Non-Food",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 1516,
+  "n_rows": 874,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

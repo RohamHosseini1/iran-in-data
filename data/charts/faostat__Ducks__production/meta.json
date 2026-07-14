@@ -3,25 +3,18 @@
   "title": "Ducks",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 738,
+  "n_rows": 420,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

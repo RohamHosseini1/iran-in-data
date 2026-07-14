@@ -3,7 +3,7 @@
   "title": "Figs",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1347,
+  "n_rows": 977,
   "year_range": [
     "1966",
     "2025"
@@ -11,11 +11,9 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "PRT",
     "TUR",
     "USA",
     "VEN"

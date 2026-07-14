@@ -3,24 +3,18 @@
   "title": "Linseed",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2233,
+  "n_rows": 1378,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

@@ -3,26 +3,20 @@
   "title": "Groundnuts (Shelled Eq)",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 817,
+  "n_rows": 499,
   "year_range": [
     "1961",
     "2013"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "USA",
     "VEN"
   ],

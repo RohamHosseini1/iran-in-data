@@ -3,21 +3,18 @@
   "title": "Net intake rate in grade 1 (% of official school-age population)",
   "category": "Education",
   "sources": "wdi",
-  "n_rows": 99,
+  "n_rows": 73,
   "year_range": [
     "1998",
     "2018"
   ],
   "countries": [
     "ESP",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "KOR",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "USA",
     "VEN"
   ],

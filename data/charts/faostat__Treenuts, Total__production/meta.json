@@ -3,25 +3,20 @@
   "title": "Treenuts, Total",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2048,
+  "n_rows": 1554,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

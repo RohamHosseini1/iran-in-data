@@ -3,26 +3,20 @@
   "title": "Barley",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 3677,
+  "n_rows": 1921,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

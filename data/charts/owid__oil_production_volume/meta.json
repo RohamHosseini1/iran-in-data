@@ -3,26 +3,20 @@
   "title": "Oil Production (physical volume)",
   "category": "Energy",
   "sources": "owid",
-  "n_rows": 1808,
+  "n_rows": 1186,
   "year_range": [
     "1900",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

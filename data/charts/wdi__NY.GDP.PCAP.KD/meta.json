@@ -3,26 +3,20 @@
   "title": "GDP per capita growth",
   "category": "Macro / National Accounts",
   "sources": "wdi",
-  "n_rows": 1075,
+  "n_rows": 685,
   "year_range": [
     "1961",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -3,22 +3,16 @@
   "title": "Kiwi fruit",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1487,
+  "n_rows": 930,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
-    "SWE",
     "TUR",
     "USA"
   ],

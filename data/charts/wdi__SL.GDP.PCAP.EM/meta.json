@@ -3,26 +3,20 @@
   "title": "GDP per person employed (constant 2021 PPP $)",
   "category": "Labor & Employment",
   "sources": "wdi",
-  "n_rows": 544,
+  "n_rows": 340,
   "year_range": [
     "1991",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

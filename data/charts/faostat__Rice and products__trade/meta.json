@@ -3,26 +3,20 @@
   "title": "Rice and products",
   "category": "Agriculture Trade",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 709,
+  "n_rows": 454,
   "year_range": [
     "2010",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

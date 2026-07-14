@@ -3,23 +3,16 @@
   "title": "Whey, dry",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 653,
+  "n_rows": 290,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
-    "PRT",
-    "SWE",
     "TUR",
     "USA"
   ],

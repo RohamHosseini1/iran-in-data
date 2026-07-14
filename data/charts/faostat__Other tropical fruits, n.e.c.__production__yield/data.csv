@@ -1,15 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-FRA,France,2018,12353.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2019,8228.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2020,27413.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2021,8098.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2022,7911.900000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2023,7238.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
-FRA,France,2024,6261.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2021,16688.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2022,16296.800000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2023,13305.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
-GRC,Greece,2024,10868.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
 IRN,Iran,1982,2500.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
 IRN,Iran,1983,2250.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
 IRN,Iran,1984,2250.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
@@ -58,7 +47,6 @@ ITA,Italy,2021,17663.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ITA,Italy,2022,18115.100000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ITA,Italy,2023,17625.500000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ITA,Italy,2024,18576.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
-PRT,Portugal,2024,2448.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ESP,Spain,1961,35483.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ESP,Spain,1962,21490.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
 ESP,Spain,1963,16330.400000,kg/ha,qcl:Yield,Yield,faostat-qcl

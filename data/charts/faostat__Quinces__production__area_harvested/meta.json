@@ -1,32 +1,30 @@
 {
- "chart_id": "faostat__Quinces__production__area_harvested",
- "title": "Quinces, area harvested (ha)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 478,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "ARG",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "PRT",
-  "RUS",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "سطح زیر کشت به (هکتار)"
+  "chart_id": "faostat__Quinces__production__area_harvested",
+  "title": "Quinces, area harvested (ha)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 459,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "RUS",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "سطح زیر کشت به (هکتار)"
 }

@@ -1,38 +1,34 @@
 {
- "chart_id": "faostat__Raw hides and skins of goats or kids__production__yield_carcass_weight",
- "title": "Raw hides and skins of goats or kids, yield/carcass weight (kg/An)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 848,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "وزن لاشه پوست خام بز و بزغاله (کیلوگرم بر رأس)"
+  "chart_id": "faostat__Raw hides and skins of goats or kids__production__yield_carcass_weight",
+  "title": "Raw hides and skins of goats or kids, yield/carcass weight (kg/An)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 755,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "وزن لاشه پوست خام بز و بزغاله (کیلوگرم بر رأس)"
 }

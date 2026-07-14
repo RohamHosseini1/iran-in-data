@@ -3,24 +3,19 @@
   "title": "Cottonseed Oil",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 3813,
+  "n_rows": 2820,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

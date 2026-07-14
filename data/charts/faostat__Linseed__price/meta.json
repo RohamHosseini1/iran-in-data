@@ -3,22 +3,17 @@
   "title": "Linseed",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1072,
+  "n_rows": 691,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
     "IRN",
     "ITA",
-    "NLD",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

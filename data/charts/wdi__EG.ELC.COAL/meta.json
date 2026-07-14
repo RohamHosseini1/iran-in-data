@@ -3,26 +3,20 @@
   "title": "Electricity production from coal sources (% of total)",
   "category": "Energy",
   "sources": "wdi",
-  "n_rows": 584,
+  "n_rows": 374,
   "year_range": [
     "1990",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

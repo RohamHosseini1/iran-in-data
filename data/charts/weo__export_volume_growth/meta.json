@@ -3,26 +3,19 @@
   "title": "Export Volume Growth",
   "category": "Trade",
   "sources": "imf-weo",
-  "n_rows": 1713,
+  "n_rows": 989,
   "year_range": [
     "1980",
     "2031"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

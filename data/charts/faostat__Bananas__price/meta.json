@@ -3,7 +3,7 @@
   "title": "Bananas",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1457,
+  "n_rows": 1098,
   "year_range": [
     "1966",
     "2025"
@@ -11,10 +11,8 @@
   "countries": [
     "ARG",
     "ESP",
-    "GRC",
     "IRN",
     "ITA",
-    "PRT",
     "TUR",
     "USA",
     "VEN"

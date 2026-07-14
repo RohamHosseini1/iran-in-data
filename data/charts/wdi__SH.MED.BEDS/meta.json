@@ -3,26 +3,20 @@
   "title": "Hospital beds",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 649,
+  "n_rows": 393,
   "year_range": [
     "1960",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -3,26 +3,20 @@
   "title": "Political Stability - Governance score",
   "category": "Governance (WGI)",
   "sources": "wdi",
-  "n_rows": 884,
+  "n_rows": 572,
   "year_range": [
     "1996",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

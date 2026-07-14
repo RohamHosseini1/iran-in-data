@@ -3,7 +3,7 @@
   "title": "Total debt service (% of exports of goods, services and primary income)",
   "category": "External Debt",
   "sources": "wdi",
-  "n_rows": 176,
+  "n_rows": 186,
   "year_range": [
     "1974",
     "2024"
@@ -11,6 +11,7 @@
   "countries": [
     "ARG",
     "IRN",
+    "IRQ",
     "RUS",
     "TUR"
   ],

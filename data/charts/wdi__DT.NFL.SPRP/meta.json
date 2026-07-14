@@ -3,14 +3,15 @@
   "title": "Net official flows from UN agencies, SPRP (current US$)",
   "category": "External Debt",
   "sources": "wdi",
-  "n_rows": 6,
+  "n_rows": 14,
   "year_range": [
     "2021",
-    "2022"
+    "2023"
   ],
   "countries": [
     "ARG",
     "IRN",
+    "IRQ",
     "TUR",
     "VEN"
   ],

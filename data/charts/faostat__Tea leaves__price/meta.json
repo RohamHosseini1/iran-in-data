@@ -3,7 +3,7 @@
   "title": "Tea leaves",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 694,
+  "n_rows": 634,
   "year_range": [
     "1966",
     "2025"
@@ -12,7 +12,6 @@
     "ARG",
     "IRN",
     "KOR",
-    "PRT",
     "RUS",
     "TUR"
   ],

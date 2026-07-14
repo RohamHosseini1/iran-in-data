@@ -3,26 +3,20 @@
   "title": "Tuberculosis treatment success rate (% of new cases)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 333,
+  "n_rows": 232,
   "year_range": [
     "2000",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -3,26 +3,20 @@
   "title": "GDP deflator: linked series (base year varies by country)",
   "category": "Macro / National Accounts",
   "sources": "wdi",
-  "n_rows": 612,
+  "n_rows": 396,
   "year_range": [
     "1990",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -1,20 +1,6 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
 ARG,Argentina,2013,72.3702102000994,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 ARG,Argentina,2020,70.1027087175867,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-FRA,France,1978,78.7,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-FRA,France,1988,81.2,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-FRA,France,1994,74.6,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-FRA,France,2005,76.5999999999999,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-FRA,France,2008,75,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-FRA,France,2010,78.4,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-DEU,Germany,1970,70.0833333333333,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-DEU,Germany,1972,82.1768283174801,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-DEU,Germany,1985,77.9,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-DEU,Germany,1992,69.955512696882,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-DEU,Germany,2005,68.4,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-DEU,Germany,2008,50.4,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-DEU,Germany,2011,80.3,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GRC,Greece,1999,61.3,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 IRN,Iran,1977,36,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 IRN,Iran,1989,48.9,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 IRN,Iran,1992,64.5999999999999,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
@@ -49,18 +35,6 @@ KOR,South Korea,2012,77.1,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method 
 KOR,South Korea,2015,79.6,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 KOR,South Korea,2018,82.3,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 KOR,South Korea,2021,84.22,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1969,59,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1975,75,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1982,76.8206338503034,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1988,76.2704940656914,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1993,78.4682993197279,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,1998,75,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,2003,75,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,2008,75,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-NLD,Netherlands,2013,73,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-PRT,Portugal,1980,76.25,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-PRT,Portugal,2006,85.1085340055987,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-PRT,Portugal,2014,73.8869860463731,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 RUS,Russia,1993,62.5,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 RUS,Russia,1994,66.8,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 RUS,Russia,1995,63.4,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
@@ -94,18 +68,6 @@ TUR,Turkey,2003,71,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of m
 TUR,Turkey,2008,73,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 TUR,Turkey,2013,73.5,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 TUR,Turkey,2018,69.8,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1986,81,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1993,82,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1998,83,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,1999,76,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2000,80,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2001,87.7,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2003,84,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2004,84,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2005,82,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2006,82,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2009,84,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
-GBR,United Kingdom,2012,76.1,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 USA,United States,1965,66.5,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 USA,United States,1970,67.5999999999999,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 USA,United States,1973,69.5999999999999,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
@@ -125,3 +87,9 @@ VEN,Venezuela,1977,50,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% o
 VEN,Venezuela,1993,58,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 VEN,Venezuela,1998,70.3,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
 VEN,Venezuela,2010,74.99124749,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
+IRQ,Iraq,1974,14.5,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
+IRQ,Iraq,1989,13.7,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2000,43.52311187,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2006,49.84756674,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2011,52.45781096,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi
+IRQ,Iraq,2018,52.78881501,,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",wdi

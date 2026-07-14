@@ -3,7 +3,7 @@
   "title": "Groundnuts, excluding shelled",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1443,
+  "n_rows": 1246,
   "year_range": [
     "1966",
     "2025"
@@ -11,11 +11,9 @@
   "countries": [
     "ARG",
     "ESP",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "PRT",
     "SAU",
     "TUR",
     "USA",

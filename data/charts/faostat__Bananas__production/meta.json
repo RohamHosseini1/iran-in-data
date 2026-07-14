@@ -3,24 +3,18 @@
   "title": "Bananas",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1817,
+  "n_rows": 1370,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

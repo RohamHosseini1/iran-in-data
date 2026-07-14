@@ -3,26 +3,20 @@
   "title": "Arms exports (SIPRI trend indicator values)",
   "category": "Military Expenditure",
   "sources": "wdi",
-  "n_rows": 772,
+  "n_rows": 404,
   "year_range": [
     "1960",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

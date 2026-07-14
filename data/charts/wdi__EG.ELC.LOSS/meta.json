@@ -3,26 +3,20 @@
   "title": "Electric power transmission and distribution losses (% of output)",
   "category": "Energy",
   "sources": "wdi",
-  "n_rows": 591,
+  "n_rows": 380,
   "year_range": [
     "1990",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

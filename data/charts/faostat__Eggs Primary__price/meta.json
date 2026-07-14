@@ -3,26 +3,20 @@
   "title": "Eggs Primary",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 559,
+  "n_rows": 341,
   "year_range": [
     "1991",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

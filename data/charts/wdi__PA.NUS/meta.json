@@ -3,26 +3,20 @@
   "title": "DEC alternative conversion factor",
   "category": "Purchasing Power Parity",
   "sources": "wdi",
-  "n_rows": 2759,
+  "n_rows": 1749,
   "year_range": [
     "1960",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

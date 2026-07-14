@@ -3,25 +3,18 @@
   "title": "Geese",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 625,
+  "n_rows": 371,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "VEN"
   ],

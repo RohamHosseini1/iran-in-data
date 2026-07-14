@@ -3,26 +3,20 @@
   "title": "Air transport, passengers carried",
   "category": "Infrastructure (Transport)",
   "sources": "wdi",
-  "n_rows": 1782,
+  "n_rows": 1112,
   "year_range": [
     "1970",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

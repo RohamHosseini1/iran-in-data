@@ -3,19 +3,18 @@
   "title": "Wholesale price index (2010 = 100)",
   "category": "Prices & Inflation",
   "sources": "wdi",
-  "n_rows": 315,
+  "n_rows": 286,
   "year_range": [
     "1960",
     "2025"
   ],
   "countries": [
-    "DEU",
     "ESP",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
     "SAU",
-    "SWE",
     "TUR",
     "VEN"
   ],

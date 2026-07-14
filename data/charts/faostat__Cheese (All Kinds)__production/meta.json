@@ -3,25 +3,19 @@
   "title": "Cheese (All Kinds)",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 933,
+  "n_rows": 555,
   "year_range": [
     "1961",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

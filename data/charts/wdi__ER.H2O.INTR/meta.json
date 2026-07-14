@@ -1,40 +1,34 @@
 {
- "chart_id": "wdi__ER.H2O.INTR",
- "title": "Renewable internal freshwater resources per capita (cubic meters)",
- "category": "Environment (Land & Resources)",
- "sources": "wdi",
- "n_rows": 2046,
- "year_range": [
-  "1961",
-  "2022"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/ER.H2O.INTR.PC",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "محیط‌زیست (زمین و منابع)",
- "title_fa": "سرانه منابع تجدیدپذیر آب شیرین داخلی (متر مکعب)"
+  "chart_id": "wdi__ER.H2O.INTR",
+  "title": "Renewable internal freshwater resources per capita (cubic meters)",
+  "category": "Environment (Land & Resources)",
+  "sources": "wdi",
+  "n_rows": 1302,
+  "year_range": [
+    "1961",
+    "2022"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/ER.H2O.INTR.PC",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "محیط‌زیست (زمین و منابع)",
+  "title_fa": "سرانه منابع تجدیدپذیر آب شیرین داخلی (متر مکعب)"
 }

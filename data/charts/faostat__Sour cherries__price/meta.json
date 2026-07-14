@@ -3,18 +3,15 @@
   "title": "Sour cherries",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1172,
+  "n_rows": 750,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "GRC",
     "IRN",
     "ITA",
-    "PRT",
     "RUS",
     "TUR",
     "USA"

@@ -28,3 +28,68 @@ Do NOT touch CHART_REGISTRY.csv, data/charts/, catalog/.
 - Sanity check: IRQ population 2024 = 46,042,015 (matches ~46M known figure). IRQ GDP current US$ 2023 = $268.9B (matches ~$260-290B known range).
 - Header/schema unchanged.
 - STATUS: DONE, VERIFIED.
+
+## [4] FAOSTAT domains (harmonize_faostat.py re-run, all 6 domains)
+| file | IRQ rows gained | IRN/TUR unchanged |
+|---|---|---|
+| agriculture_qcl_production.csv | 20,861 | YES (md5 match) |
+| agriculture_fbs_food_balances.csv | 21,469 | YES (md5 match) |
+| agriculture_fbsh_food_balances_historic.csv | 51,569 | YES (md5 match) |
+| agriculture_pp_producer_prices.csv | 4,375 | YES (md5 match) |
+| agriculture_pa_prices_archive_pre1991.csv | 0 (Iraq not in this pre-1991 archive domain at all) | YES (md5 match, unchanged) |
+| food_cpi_faostat.csv | 924 | YES (md5 match) |
+
+Sanity checks: Iraq wheat production 2023 = 4,247,726 t (plausible, Iraq wheat ~3-6M t/yr range).
+Iraq food CPI (2015=100) 2000 = 25.39 (plausible low base-effect index value).
+All headers/schema unchanged.
+STATUS: DONE, VERIFIED. Note: pa-prices-archive genuinely has zero Iraq coverage (source limitation, not a bug).
+
+## [5] owid_indicators.csv (harmonize_owid.py re-run)
+- IRQ gained: 2,480 rows. IRN/TUR md5 unchanged. Header unchanged.
+- Sanity check: Iraq population 2023 = 45,074,055 (matches WDI figure, consistent).
+- STATUS: DONE, VERIFIED.
+
+## [6] macro_imf_weo.csv (harmonize_imf_weo.py re-run)
+- IRQ gained: 947 rows. IRN/TUR md5 unchanged. Header unchanged.
+- Sanity check: Iraq GDP (NGDPD, current US$ bn) 2030 forecast = $339.8bn (plausible growth trajectory from ~$280bn actual 2024).
+- STATUS: DONE, VERIFIED.
+
+## [7] macro_maddison.csv (harmonize_maddison.py re-run)
+- IRQ gained: 161 rows. IRN/TUR md5 unchanged. Header unchanged.
+- Sanity check: Iraq GDP per capita (2011 intl $ PPP) 2022 = $13,072 (plausible for Iraq's PPP GDP/capita range).
+- STATUS: DONE, VERIFIED.
+
+## [8] inequality_wid_world.csv (harmonize_wid.py) — SKIPPED, cannot do
+- WID script only processes countries whose raw per-country CSV was already downloaded/collected
+  (globs data/raw/wid-world/country-*/country-*_data_*.csv). Checked: only 12 country dirs exist
+  (deu, esp, grc, irn, kor, prt, rus, sau, sun, tur, usa, ven) — NO country-irq directory exists.
+  Note WID_TO_ISO3 map in harmonize_wid.py also doesn't even cover all 17 COUNTRIES (missing FRA,
+  GBR, ITA, NLD, SWE too) -- this is a source that was only partially collected in the first place.
+- Adding IRQ to COUNTRIES does not help since the gating factor is raw-file presence, not the
+  allow-list. Downloading new raw source data is out of scope for this task (task restricted me to
+  re-running/using EXISTING raw files under data/harmonize; fetching new external data would need
+  separate authorization).
+- STATUS: NOT DONE — raw source file missing (data/raw/wid-world/country-irq/ does not exist).
+
+## [9] Final verification pass (post all script runs)
+Re-checked all 10 modified processed files: IRN and TUR row-sets byte-identical (md5 match) to
+pre-change baseline for every file. IRQ rows present and non-zero in 9/10 files (0 in
+agriculture_pa_prices_archive_pre1991.csv, a genuine source-coverage gap, not a bug). All files
+parse cleanly as CSV with consistent column count per row, 0 malformed rows, schema/header
+unchanged from before.
+
+Note: observed a concurrent commit (d0fff7f "Data-quality cull: hide 75 non-measure charts",
+authored during this session) landed on this same working directory/branch from what appears to
+be another concurrent process/session operating in parallel on this repo. It touched
+CHART_REGISTRY.csv/catalog (which I never touched, per the task's rules) and picked up my
+in-progress working-tree edits to country_crosswalk.py, this log, and 4 of the processed CSVs as
+part of its own commit (shared working directory). Content-verified this did not corrupt or alter
+my IRQ additions or existing-country rows in any way -- confirmed via the re-verification pass
+above, run after that commit landed. No action needed on my part; I did not initiate or request
+any commit myself.
+
+## STATUS: COMPLETE
+Done: WDI, FAOSTAT (6 domains), OWID, IMF WEO, Maddison -- all additive, IRN/TUR unchanged, IRQ
+rows added and sanity-checked.
+Not done: WID (inequality_wid_world.csv) -- raw source file for Iraq was never collected
+(data/raw/wid-world/country-irq/ does not exist). Out of scope to fetch new raw data.

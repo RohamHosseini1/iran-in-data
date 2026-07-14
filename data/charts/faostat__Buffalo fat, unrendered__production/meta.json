@@ -3,15 +3,14 @@
   "title": "Buffalo fat, unrendered",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 533,
+  "n_rows": 520,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "TUR",
     "USA",

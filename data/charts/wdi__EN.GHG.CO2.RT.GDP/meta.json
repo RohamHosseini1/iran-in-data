@@ -3,26 +3,20 @@
   "title": "Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP)",
   "category": "Environment",
   "sources": "wdi",
-  "n_rows": 916,
+  "n_rows": 586,
   "year_range": [
     "1970",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

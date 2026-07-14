@@ -3,26 +3,20 @@
   "title": "Diabetes prevalence (% of population ages 20 to 79)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 34,
+  "n_rows": 22,
   "year_range": [
     "2011",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

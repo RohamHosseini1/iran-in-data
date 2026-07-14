@@ -3,7 +3,7 @@
   "title": "Artichokes",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1471,
+  "n_rows": 1073,
   "year_range": [
     "1961",
     "2024"
@@ -11,11 +11,8 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
-    "PRT",
     "SAU",
     "TUR",
     "USA"

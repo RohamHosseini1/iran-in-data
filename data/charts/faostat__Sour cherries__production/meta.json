@@ -3,22 +3,16 @@
   "title": "Sour cherries",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1536,
+  "n_rows": 864,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

@@ -3,26 +3,20 @@
   "title": "Unemployment, total (% of total labor force) (national estimate)",
   "category": "Labor & Employment",
   "sources": "wdi",
-  "n_rows": 795,
+  "n_rows": 450,
   "year_range": [
     "1960",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

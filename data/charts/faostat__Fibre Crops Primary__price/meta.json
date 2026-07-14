@@ -3,7 +3,7 @@
   "title": "Fibre Crops Primary",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 372,
+  "n_rows": 241,
   "year_range": [
     "1991",
     "2025"
@@ -11,12 +11,8 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
     "RUS",
     "TUR",
     "USA"

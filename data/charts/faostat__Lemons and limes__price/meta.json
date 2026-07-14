@@ -3,7 +3,7 @@
   "title": "Lemons and limes",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 2012,
+  "n_rows": 1566,
   "year_range": [
     "1966",
     "2025"
@@ -11,11 +11,9 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "PRT",
     "SAU",
     "TUR",
     "USA",

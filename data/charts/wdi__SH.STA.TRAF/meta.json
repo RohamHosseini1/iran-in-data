@@ -3,26 +3,20 @@
   "title": "Mortality caused by road traffic injury",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 340,
+  "n_rows": 220,
   "year_range": [
     "2000",
     "2019"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -3,26 +3,20 @@
   "title": "Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 357,
+  "n_rows": 231,
   "year_range": [
     "2000",
     "2020"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

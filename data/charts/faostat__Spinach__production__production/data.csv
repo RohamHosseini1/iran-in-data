@@ -1,196 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-FRA,France,1961,83760.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1962,83780.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1963,87500.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1964,85270.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1965,95320.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1966,100980.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1967,99550.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1968,98650.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1969,96120.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1970,95570.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1971,93400.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1972,90800.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1973,77400.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1974,82795.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1975,85411.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1976,70270.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1977,84283.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1978,82140.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1979,85177.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1980,82615.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1981,73300.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1982,93500.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1983,86200.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1984,85500.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1985,90100.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1986,83500.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1987,75900.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1988,83000.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1989,93100.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1990,101345.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1991,105957.800000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1992,97737.300000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1993,110919.800000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1994,107611.900000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1995,124561.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1996,106899.400000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1997,111454.500000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1998,114603.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,1999,115804.200000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2000,108946.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2001,106849.100000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2002,114025.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2003,115707.700000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2004,110695.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2005,116872.500000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2006,133646.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2007,127349.200000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2008,123752.400000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2009,110189.100000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2010,80244.800000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2011,110466.600000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2012,99144.100000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2013,118974.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2014,118069.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2015,106798.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2016,115172.200000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2017,120625.900000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2018,126510.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2019,122670.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2020,86260.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2021,121290.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2022,113650.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2023,79400.000000,t,qcl:Production,Production,faostat-qcl
-FRA,France,2024,81560.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1961,72700.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1962,58300.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1963,73200.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1964,72200.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1965,67400.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1966,79981.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1967,66208.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1968,62801.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1969,60100.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1970,66604.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1971,57427.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1972,58871.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1973,53871.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1974,60271.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1975,54154.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1976,49141.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1977,53824.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1978,49757.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1979,51359.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1980,46968.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1981,52620.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1982,47750.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1983,53570.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1984,51501.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1985,50374.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1986,51749.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1987,44511.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1988,47833.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1989,54862.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1990,38225.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1991,33148.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1992,46044.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1993,58242.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1994,44661.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1995,49543.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1996,66665.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1997,60845.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1998,55684.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,1999,59591.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2000,59824.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2001,59453.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2002,55139.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2003,56840.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2004,59166.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2005,68697.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2006,55151.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2007,61398.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2008,62472.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2009,60807.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2010,49470.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2011,61257.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2012,77133.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2013,53386.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2014,62939.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2015,62782.800000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2016,69049.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2017,73774.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2018,66200.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2019,68040.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2020,83470.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2021,87560.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2022,66410.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2023,54240.000000,t,qcl:Production,Production,faostat-qcl
-DEU,Germany,2024,65720.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1961,10302.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1962,8920.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1963,11663.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1964,12442.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1965,12900.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1966,12572.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1967,12470.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1968,16384.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1969,17875.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1970,21741.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1971,22669.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1972,24262.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1973,24450.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1974,26105.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1975,34998.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1976,36620.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1977,17641.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1978,31144.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1979,24411.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1980,30836.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1981,32728.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1982,28388.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1983,33395.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1984,27874.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1985,40517.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1986,39008.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1987,40962.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1988,44800.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1989,45800.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1990,41647.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1991,48600.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1992,43400.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1993,42568.570000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1994,44024.730000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1995,43386.240000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1996,36045.950000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1997,37414.550000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1998,35183.460000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,1999,36979.810000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2000,39647.580000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2001,36303.920000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2002,40405.320000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2003,42255.750000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2004,42008.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2005,47418.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2006,46860.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2007,44064.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2008,43075.970000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2009,44762.970000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2010,43578.510000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2011,44000.490000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2012,44576.610000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2013,45632.570000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2014,44534.650000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2015,45382.730000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2016,63161.900000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2017,81397.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2018,87050.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2019,73570.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2020,66750.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2021,95890.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2022,69250.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2023,51460.000000,t,qcl:Production,Production,faostat-qcl
-GRC,Greece,2024,52930.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1990,10000.000000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1991,43952.700000,t,qcl:Production,Production,faostat-qcl
 IRN,Iran,1992,15847.100000,t,qcl:Production,Production,faostat-qcl
@@ -290,134 +98,6 @@ ITA,Italy,2021,100770.000000,t,qcl:Production,Production,faostat-qcl
 ITA,Italy,2022,96870.000000,t,qcl:Production,Production,faostat-qcl
 ITA,Italy,2023,103460.000000,t,qcl:Production,Production,faostat-qcl
 ITA,Italy,2024,102400.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1961,39062.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1962,43500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1963,43401.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1964,48379.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1965,36988.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1966,41295.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1967,50013.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1968,53278.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1969,56237.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1970,47923.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1971,42883.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1972,50800.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1973,49500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1974,51400.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1975,45270.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1976,50030.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1977,54500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1978,51000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1979,49000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1980,56000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1981,60000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1982,60300.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1983,52900.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1984,59100.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1985,58500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1986,55700.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1987,50500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1988,47500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1989,57600.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1990,60300.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1991,58800.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1992,46000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1993,56000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1994,40100.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1995,51000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1996,50500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1997,54900.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1998,45000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,1999,39000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2000,54000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2001,49000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2002,43000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2003,43000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2004,40000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2005,43000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2006,39000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2007,44000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2008,38500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2009,32000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2010,29500.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2011,34000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2012,29000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2013,29000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2014,35000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2015,46900.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2016,44800.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2017,60000.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2018,66600.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2019,74190.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2020,72370.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2021,74670.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2022,55830.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2023,39400.000000,t,qcl:Production,Production,faostat-qcl
-NLD,Netherlands,2024,38380.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1961,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1962,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1963,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1964,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1965,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1966,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1967,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1968,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1969,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1970,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1971,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1972,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1973,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1974,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1975,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1976,0.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1977,12000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1978,10800.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1979,10800.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1980,11000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1981,11400.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1982,11000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1983,10500.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1984,12200.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1985,12600.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1986,16000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1987,18000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1988,15000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1989,15000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1990,18000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1991,17000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1992,15000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1993,14000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1994,15000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1995,14948.340000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1996,14000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1997,14394.360000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1998,14275.710000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,1999,14173.660000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2000,14311.710000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2001,14311.730000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2002,14311.750000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2003,14089.320000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2004,14240.230000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2005,14329.340000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2006,15000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2007,16000.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2008,14849.120000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2009,16500.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2010,12589.420000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2011,7885.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2012,9374.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2013,8207.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2014,12032.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2015,9925.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2016,5709.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2017,6498.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2018,6950.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2019,7810.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2020,8890.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2021,15760.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2022,6300.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2023,5290.000000,t,qcl:Production,Production,faostat-qcl
-PRT,Portugal,2024,5470.000000,t,qcl:Production,Production,faostat-qcl
 KOR,South Korea,1961,8413.000000,t,qcl:Production,Production,faostat-qcl
 KOR,South Korea,1962,9224.000000,t,qcl:Production,Production,faostat-qcl
 KOR,South Korea,1963,7410.000000,t,qcl:Production,Production,faostat-qcl
@@ -546,54 +226,6 @@ ESP,Spain,2021,94750.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,2022,94510.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,2023,82000.000000,t,qcl:Production,Production,faostat-qcl
 ESP,Spain,2024,89820.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1961,10400.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1962,8600.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1963,10600.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1964,12300.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1965,8100.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1966,9800.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1967,13100.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1968,9600.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1969,9200.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1970,15100.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1971,8610.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1972,10460.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1973,10060.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1974,7120.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1975,5520.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1976,6850.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1977,7800.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1978,3740.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1979,7760.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1980,5550.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1981,6117.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1982,6125.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1983,4855.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1984,5655.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1985,4092.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1986,7152.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1987,5990.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1988,5736.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1989,5076.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1990,4665.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1991,3996.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1992,3899.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1993,3158.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1994,3200.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1995,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1996,3604.180000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,1997,0.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2014,1860.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2015,1860.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2016,1860.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2017,150.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2018,290.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2019,260.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2020,200.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2021,260.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2022,260.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2023,90.000000,t,qcl:Production,Production,faostat-qcl
-SWE,Sweden,2024,170.000000,t,qcl:Production,Production,faostat-qcl
 TUR,Turkey,1961,77000.000000,t,qcl:Production,Production,faostat-qcl
 TUR,Turkey,1962,80000.000000,t,qcl:Production,Production,faostat-qcl
 TUR,Turkey,1963,82000.000000,t,qcl:Production,Production,faostat-qcl
@@ -745,3 +377,195 @@ VEN,Venezuela,2021,5105.000000,t,qcl:Production,Production,faostat-qcl
 VEN,Venezuela,2022,4931.000000,t,qcl:Production,Production,faostat-qcl
 VEN,Venezuela,2023,7271.000000,t,qcl:Production,Production,faostat-qcl
 VEN,Venezuela,2024,8082.650000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1961,700.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1962,800.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1963,816.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1964,970.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1965,1273.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1966,1487.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1967,1708.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1968,1579.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1969,1562.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1970,1309.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1971,1425.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1972,1473.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1973,1628.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1974,1076.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1975,1590.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1976,1344.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1977,1542.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1978,1301.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1979,1000.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1980,725.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1981,425.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1982,425.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1983,500.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1984,575.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1985,600.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1986,525.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1987,630.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1988,925.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1989,1093.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1990,1025.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1991,775.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1992,1100.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1993,1200.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1994,1150.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1995,1200.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1996,1000.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1997,1100.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1998,1150.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1999,1050.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2000,1150.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2001,1061.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2002,1100.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2003,970.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2004,1300.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2005,1500.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2006,1700.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2007,1925.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2008,2100.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2009,1650.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2010,1509.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2011,1321.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2012,1160.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2013,1470.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2014,1159.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2015,616.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2016,517.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2017,668.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2018,348.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2019,388.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2020,538.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2021,495.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2022,500.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2023,306.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2024,457.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,1961,8571.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1962,7500.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1963,7921.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1964,4441.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1965,7233.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1966,6373.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1967,6341.900000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1968,6662.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1969,6387.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1970,6181.800000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1971,5969.800000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1972,6232.900000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1973,5674.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1974,6689.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1975,6167.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1976,7121.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1977,7441.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1978,7221.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1979,6800.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1980,6482.800000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1981,8235.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1982,7294.100000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1983,8400.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1984,8521.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1985,9333.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1986,7619.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1987,7301.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1988,7027.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1989,6221.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1990,7414.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1991,9045.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1992,6818.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1993,6666.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1994,6782.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1995,6666.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1996,6800.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1997,5636.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1998,5217.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1999,4571.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2000,3478.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2001,3699.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2002,3454.500000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2003,3813.900000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2004,3846.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2005,4333.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2006,5411.800000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2007,6493.500000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2008,6952.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2009,8240.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2010,7988.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2011,8461.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2012,9675.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2013,8954.400000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2014,9358.100000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2015,6909.100000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2016,4460.300000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2017,4824.900000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2018,5330.500000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2019,6917.500000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2020,6011.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2021,6602.700000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2022,6396.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2023,7545.800000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2024,7387.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,1961,6000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1962,6000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1963,6464.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1964,4308.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1965,9208.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1966,9477.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1967,10832.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1968,10520.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1969,9977.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1970,8092.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1971,8507.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1972,9181.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1973,9238.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1974,7198.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1975,9806.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1976,9571.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1977,11474.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1978,9395.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1979,6800.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1980,4700.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1981,3500.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1982,3100.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1983,4200.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1984,4900.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1985,5600.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1986,4000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1987,4600.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1988,6500.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1989,6800.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1990,7600.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1991,7010.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1992,7500.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1993,8000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1994,7800.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1995,8000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1996,6800.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1997,6200.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1998,6000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,1999,4800.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2000,4000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2001,3927.110000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2002,3800.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2003,3700.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2004,5000.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2005,6500.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2006,9200.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2007,12500.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2008,14600.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2009,13597.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2010,12055.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2011,11177.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2012,11223.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2013,13163.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2014,10846.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2015,4256.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2016,2306.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2017,3223.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2018,1855.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2019,2684.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2020,3234.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2021,3270.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2022,3198.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2023,2309.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2024,3378.000000,t,qcl:Production,Production,faostat-qcl

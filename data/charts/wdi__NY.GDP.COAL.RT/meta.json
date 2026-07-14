@@ -3,26 +3,20 @@
   "title": "Coal rents (% of GDP)",
   "category": "Macro / National Accounts",
   "sources": "wdi",
-  "n_rows": 850,
+  "n_rows": 533,
   "year_range": [
     "1970",
     "2021"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

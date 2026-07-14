@@ -3,26 +3,20 @@
   "title": "Tuberculosis case detection rate (%, all forms)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 423,
+  "n_rows": 273,
   "year_range": [
     "2000",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

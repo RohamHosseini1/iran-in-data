@@ -3,26 +3,20 @@
   "title": "ICT goods imports",
   "category": "Trade (Imports)",
   "sources": "wdi",
-  "n_rows": 405,
+  "n_rows": 231,
   "year_range": [
     "2000",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

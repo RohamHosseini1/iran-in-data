@@ -3,25 +3,18 @@
   "title": "Number of surgical procedures",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 24,
+  "n_rows": 12,
   "year_range": [
     "2007",
     "2023"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA"
   ],

@@ -3,24 +3,20 @@
   "title": "Primary completion rate, male (% of relevant age group)",
   "category": "Education",
   "sources": "wdi",
-  "n_rows": 291,
+  "n_rows": 230,
   "year_range": [
     "1970",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

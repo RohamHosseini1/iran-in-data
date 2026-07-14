@@ -3,23 +3,18 @@
   "title": "Raw milk of sheep",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1563,
+  "n_rows": 1193,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR"
   ],
   "citations": [

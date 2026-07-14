@@ -3,26 +3,19 @@
   "title": "Import Volume Growth",
   "category": "Trade",
   "sources": "imf-weo",
-  "n_rows": 1712,
+  "n_rows": 988,
   "year_range": [
     "1980",
     "2031"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

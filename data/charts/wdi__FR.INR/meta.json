@@ -3,21 +3,18 @@
   "title": "Real interest rate",
   "category": "Financial Sector (Interest Rates)",
   "sources": "wdi",
-  "n_rows": 1075,
+  "n_rows": 776,
   "year_range": [
     "1960",
     "2025"
   ],
   "countries": [
     "ARG",
-    "FRA",
-    "GBR",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
     "RUS",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

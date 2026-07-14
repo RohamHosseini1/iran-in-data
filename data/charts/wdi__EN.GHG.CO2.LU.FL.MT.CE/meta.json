@@ -3,26 +3,19 @@
   "title": "Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land",
   "category": "Environment",
   "sources": "wdi",
-  "n_rows": 408,
+  "n_rows": 240,
   "year_range": [
     "2000",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

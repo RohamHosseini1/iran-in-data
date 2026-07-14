@@ -1,40 +1,33 @@
 {
- "chart_id": "proposed__population_by_age_group_sex",
- "title": "Population by age group and sex (% of group population)",
- "title_fa": "جمعیت به تفکیک گروه سنی و جنس (درصد)",
- "category": "Demographics",
- "category_fa": "جمعیت‌شناسی و جمعیت",
- "sources": "wdi",
- "n_rows": 15708,
- "year_range": [
-  "1960",
-  "2025"
- ],
- "countries": [
-  "ARG",
-  "DEU",
-  "ESP",
-  "FRA",
-  "GBR",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "World Bank, World Development Indicators",
-   "source_url": "https://data.worldbank.org/indicator/SP.POP.0004.MA.5Y",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ]
+  "chart_id": "proposed__population_by_age_group_sex",
+  "title": "Population by age group and sex (% of group population)",
+  "title_fa": "جمعیت به تفکیک گروه سنی و جنس (درصد)",
+  "category": "Demographics",
+  "category_fa": "جمعیت‌شناسی و جمعیت",
+  "sources": "wdi",
+  "n_rows": 9240,
+  "year_range": [
+    "1960",
+    "2025"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, World Development Indicators",
+      "source_url": "https://data.worldbank.org/indicator/SP.POP.0004.MA.5Y",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ]
 }

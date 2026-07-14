@@ -3,26 +3,19 @@
   "title": "Total greenhouse gas emissions including LULUCF",
   "category": "Environment",
   "sources": "wdi",
-  "n_rows": 408,
+  "n_rows": 240,
   "year_range": [
     "2000",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

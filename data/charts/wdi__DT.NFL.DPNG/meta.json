@@ -3,7 +3,7 @@
   "title": "Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",
   "category": "External Debt",
   "sources": "wdi",
-  "n_rows": 139,
+  "n_rows": 279,
   "year_range": [
     "1970",
     "2024"
@@ -11,6 +11,7 @@
   "countries": [
     "ARG",
     "IRN",
+    "IRQ",
     "RUS",
     "TUR"
   ],

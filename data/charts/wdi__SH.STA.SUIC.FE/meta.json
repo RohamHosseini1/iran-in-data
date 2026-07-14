@@ -3,26 +3,20 @@
   "title": "Suicide mortality rate, female (per 100,000 female population)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 374,
+  "n_rows": 242,
   "year_range": [
     "2000",
     "2021"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

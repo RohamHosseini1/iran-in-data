@@ -1,27 +1,28 @@
 {
- "chart_id": "faostat__Meat of camels, fresh or chilled__production__yield_carcass_weight",
- "title": "Meat of camels, fresh or chilled, yield/carcass weight (kg/An)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 210,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "IRN",
-  "RUS",
-  "SAU",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "وزن لاشه گوشت شتر، تازه یا سردکرده (کیلوگرم بر رأس)"
+  "chart_id": "faostat__Meat of camels, fresh or chilled__production__yield_carcass_weight",
+  "title": "Meat of camels, fresh or chilled, yield/carcass weight (kg/An)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 402,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ",
+    "RUS",
+    "SAU",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "وزن لاشه گوشت شتر، تازه یا سردکرده (کیلوگرم بر رأس)"
 }

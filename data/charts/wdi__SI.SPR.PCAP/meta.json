@@ -3,25 +3,19 @@
   "title": "Annualized average growth rate in per capita real survey mean consumption or income, total population",
   "category": "Poverty & Inequality",
   "sources": "wdi",
-  "n_rows": 15,
+  "n_rows": 9,
   "year_range": [
-    "2021",
+    "2012",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

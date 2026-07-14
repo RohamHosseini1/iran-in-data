@@ -1,28 +1,28 @@
 {
- "chart_id": "faostat__Buffalo fat, unrendered__production__producing_animals_slaughtered",
- "title": "Buffalo fat, unrendered, producing animals/slaughtered (An)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 253,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "GRC",
-  "IRN",
-  "ITA",
-  "TUR",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "دام‌های کشتارشده چربی گاومیش، خام (رأس)"
+  "chart_id": "faostat__Buffalo fat, unrendered__production__producing_animals_slaughtered",
+  "title": "Buffalo fat, unrendered, producing animals/slaughtered (An)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 327,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ",
+    "ITA",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "دام‌های کشتارشده چربی گاومیش، خام (رأس)"
 }

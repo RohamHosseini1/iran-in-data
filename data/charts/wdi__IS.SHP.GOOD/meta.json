@@ -3,26 +3,20 @@
   "title": "Container port traffic (TEU: 20 foot equivalent units)",
   "category": "Infrastructure (Transport)",
   "sources": "wdi",
-  "n_rows": 247,
+  "n_rows": 152,
   "year_range": [
     "2010",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

@@ -1,24 +1,22 @@
 {
- "chart_id": "portugal_comparator__cpi_1948_2020",
- "title": "Portugal, Consumer Price Index, Level & Annual % Change (INE/BdP long series)",
- "category": "Comparator: Prices & Inflation",
- "sources": "ine-portugal:slep2020",
- "n_rows": 4046,
- "year_range": [
-  "1948",
-  "2020"
- ],
- "countries": [
-  "PRT"
- ],
- "citations": [
-  {
-   "source_org": "Instituto Nacional de Estatística (INE), Portugal — joint publication with Banco de Portugal",
-   "source_url": "https://www.ine.pt/xurl/pub/536285836",
-   "access_date": "2026-07-12",
-   "time_range": ""
-  }
- ],
- "category_fa": "مقایسه‌ای: قیمت‌ها و تورم",
- "title_fa": "شاخص قیمت مصرف‌کننده پرتغال، سطح و درصد تغییر سالانه (سری بلندمدت INE/BdP)"
+  "chart_id": "portugal_comparator__cpi_1948_2020",
+  "title": "Portugal, Consumer Price Index, Level & Annual % Change (INE/BdP long series)",
+  "category": "Comparator: Prices & Inflation",
+  "sources": "ine-portugal:slep2020",
+  "n_rows": 0,
+  "year_range": [
+    "1948",
+    "2020"
+  ],
+  "countries": [],
+  "citations": [
+    {
+      "source_org": "Instituto Nacional de Estatística (INE), Portugal — joint publication with Banco de Portugal",
+      "source_url": "https://www.ine.pt/xurl/pub/536285836",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "مقایسه‌ای: قیمت‌ها و تورم",
+  "title_fa": "شاخص قیمت مصرف‌کننده پرتغال، سطح و درصد تغییر سالانه (سری بلندمدت INE/BdP)"
 }

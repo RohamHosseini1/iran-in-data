@@ -3,7 +3,7 @@
   "title": "Artichokes",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1296,
+  "n_rows": 958,
   "year_range": [
     "1966",
     "2025"
@@ -11,8 +11,6 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
     "TUR",

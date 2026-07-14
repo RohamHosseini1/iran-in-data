@@ -3,26 +3,20 @@
   "title": "Cause of death, by injury (% of total)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 102,
+  "n_rows": 66,
   "year_range": [
     "2000",
     "2021"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

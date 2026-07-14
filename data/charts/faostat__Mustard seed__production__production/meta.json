@@ -1,32 +1,28 @@
 {
- "chart_id": "faostat__Mustard seed__production__production",
- "title": "Mustard seed, production (t)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 400,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "DEU",
-  "FRA",
-  "GBR",
-  "IRN",
-  "ITA",
-  "RUS",
-  "SWE",
-  "TUR",
-  "USA"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "تولید دانه خردل (تن)"
+  "chart_id": "faostat__Mustard seed__production__production",
+  "title": "Mustard seed, production (t)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 231,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "IRN",
+    "ITA",
+    "RUS",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "تولید دانه خردل (تن)"
 }

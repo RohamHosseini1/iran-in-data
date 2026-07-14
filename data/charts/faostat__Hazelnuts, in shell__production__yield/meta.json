@@ -1,31 +1,28 @@
 {
- "chart_id": "faostat__Hazelnuts, in shell__production__yield",
- "title": "Hazelnuts, in shell, yield (kg/ha)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 464,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "PRT",
-  "TUR",
-  "USA"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "عملکرد فندق با پوست (کیلوگرم بر هکتار)"
+  "chart_id": "faostat__Hazelnuts, in shell__production__yield",
+  "title": "Hazelnuts, in shell, yield (kg/ha)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 320,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "ITA",
+    "TUR",
+    "USA"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "عملکرد فندق با پوست (کیلوگرم بر هکتار)"
 }

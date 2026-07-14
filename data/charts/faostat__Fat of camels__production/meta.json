@@ -3,13 +3,14 @@
   "title": "Fat of camels",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 423,
+  "n_rows": 551,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "IRN",
+    "IRQ",
     "RUS",
     "SAU",
     "TUR"

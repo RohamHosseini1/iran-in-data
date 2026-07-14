@@ -1,37 +1,4 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-GRC,Greece,1985,3650.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1986,3780.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1987,3840.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1988,3920.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1989,3980.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1990,3840.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1991,3910.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1992,4270.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1993,4503.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1994,4553.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1995,4511.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1996,5619.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1997,5663.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1998,5698.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,1999,5481.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2000,5512.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2001,5436.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2002,5395.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2003,5582.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2004,4670.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2005,4945.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2006,4956.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2007,4889.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2008,4705.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2009,4434.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2010,4365.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2011,4370.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2012,4182.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2013,4015.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2014,4373.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2015,4001.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2016,4369.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
-GRC,Greece,2017,4353.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 IRN,Iran,1961,15000.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 IRN,Iran,1962,15000.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 IRN,Iran,1963,15000.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
@@ -309,3 +276,24 @@ USA,United States,2021,165518.000000,ha,qcl:Area harvested,Area harvested,faosta
 USA,United States,2022,173207.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 USA,United States,2023,186967.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
 USA,United States,2024,197893.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2018,630.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2019,1058.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2020,788.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2021,758.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2022,997.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2023,226.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2024,566.000000,ha,qcl:Area harvested,Area harvested,faostat-qcl
+IRQ,Iraq,2018,2387.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2019,2495.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2020,2281.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2021,2991.600000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2022,2494.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2023,3177.200000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2024,2978.000000,kg/ha,qcl:Yield,Yield,faostat-qcl
+IRQ,Iraq,2018,1503.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2019,2641.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2020,1797.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2021,2267.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2022,2486.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2023,719.000000,t,qcl:Production,Production,faostat-qcl
+IRQ,Iraq,2024,1686.940000,t,qcl:Production,Production,faostat-qcl

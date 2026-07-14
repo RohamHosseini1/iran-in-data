@@ -3,26 +3,19 @@
   "title": "School enrollment, secondary, private (% of total secondary)",
   "category": "Education",
   "sources": "wdi",
-  "n_rows": 360,
+  "n_rows": 200,
   "year_range": [
     "1998",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

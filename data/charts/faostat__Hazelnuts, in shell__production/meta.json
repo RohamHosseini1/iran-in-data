@@ -3,20 +3,15 @@
   "title": "Hazelnuts, in shell",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1489,
+  "n_rows": 960,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
     "ITA",
-    "PRT",
-    "SWE",
     "TUR",
     "USA"
   ],

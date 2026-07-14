@@ -3,23 +3,16 @@
   "title": "Asparagus",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 2005,
+  "n_rows": 1065,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
-    "PRT",
-    "SWE",
     "TUR",
     "USA"
   ],

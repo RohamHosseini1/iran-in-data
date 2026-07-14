@@ -3,26 +3,20 @@
   "title": "PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",
   "category": "Environment",
   "sources": "wdi",
-  "n_rows": 782,
+  "n_rows": 506,
   "year_range": [
     "1990",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

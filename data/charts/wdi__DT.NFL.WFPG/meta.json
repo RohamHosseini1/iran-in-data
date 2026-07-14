@@ -3,7 +3,7 @@
   "title": "Net official flows from UN agencies, WFP (current US$)",
   "category": "External Debt",
   "sources": "wdi",
-  "n_rows": 101,
+  "n_rows": 239,
   "year_range": [
     "1969",
     "2023"
@@ -11,6 +11,7 @@
   "countries": [
     "ARG",
     "IRN",
+    "IRQ",
     "KOR",
     "RUS",
     "TUR",

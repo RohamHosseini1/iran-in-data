@@ -3,26 +3,20 @@
   "title": "Prevalence of anemia among children (% of children ages 6-59 months)",
   "category": "Health",
   "sources": "wdi",
-  "n_rows": 320,
+  "n_rows": 200,
   "year_range": [
     "2000",
     "2019"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "USA",
     "VEN"
   ],

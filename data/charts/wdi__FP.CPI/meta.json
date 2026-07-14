@@ -3,25 +3,19 @@
   "title": "Consumer price index (2010 = 100)",
   "category": "Prices & Inflation",
   "sources": "wdi",
-  "n_rows": 963,
+  "n_rows": 556,
   "year_range": [
     "1960",
     "2025"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

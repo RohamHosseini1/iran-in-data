@@ -3,23 +3,16 @@
   "title": "Raspberries",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1333,
+  "n_rows": 499,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "USA"
   ],
   "citations": [

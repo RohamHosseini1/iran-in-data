@@ -3,20 +3,17 @@
   "title": "Apricots",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1614,
+  "n_rows": 1042,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
-    "PRT",
     "RUS",
     "TUR",
     "USA"

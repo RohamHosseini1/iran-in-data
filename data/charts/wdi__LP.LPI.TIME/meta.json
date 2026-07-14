@@ -3,26 +3,20 @@
   "title": "Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time",
   "category": "Logistics Performance",
   "sources": "wdi",
-  "n_rows": 118,
+  "n_rows": 75,
   "year_range": [
     "2007",
     "2022"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

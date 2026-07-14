@@ -3,19 +3,15 @@
   "title": "Mustard seed",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 1081,
+  "n_rows": 630,
   "year_range": [
     "1961",
     "2024"
   ],
   "countries": [
-    "DEU",
-    "FRA",
-    "GBR",
     "IRN",
     "ITA",
     "RUS",
-    "SWE",
     "TUR",
     "USA"
   ],

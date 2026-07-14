@@ -1,28 +1,28 @@
 {
- "chart_id": "faostat__Raw milk of buffalo__production__yield_carcass_weight",
- "title": "Raw milk of buffalo, yield/carcass weight (kg/An)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 249,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "GRC",
-  "IRN",
-  "ITA",
-  "TUR",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "وزن لاشه شیر خام گاومیش (کیلوگرم بر رأس)"
+  "chart_id": "faostat__Raw milk of buffalo__production__yield_carcass_weight",
+  "title": "Raw milk of buffalo, yield/carcass weight (kg/An)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 384,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ",
+    "ITA",
+    "TUR",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "وزن لاشه شیر خام گاومیش (کیلوگرم بر رأس)"
 }

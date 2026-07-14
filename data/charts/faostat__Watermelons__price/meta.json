@@ -3,7 +3,7 @@
   "title": "Watermelons",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 1967,
+  "n_rows": 1622,
   "year_range": [
     "1966",
     "2025"
@@ -11,12 +11,10 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "PRT",
     "RUS",
     "SAU",
     "TUR",

@@ -3,26 +3,20 @@
   "title": "GDP, PPP",
   "category": "Macro / National Accounts",
   "sources": "wdi",
-  "n_rows": 1142,
+  "n_rows": 721,
   "year_range": [
     "1990",
     "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

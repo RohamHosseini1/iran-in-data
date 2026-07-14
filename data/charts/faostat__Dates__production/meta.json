@@ -3,7 +3,7 @@
   "title": "Dates",
   "category": "Agriculture Production",
   "sources": "faostat-qcl",
-  "n_rows": 837,
+  "n_rows": 981,
   "year_range": [
     "1961",
     "2024"
@@ -11,6 +11,7 @@
   "countries": [
     "ESP",
     "IRN",
+    "IRQ",
     "SAU",
     "TUR",
     "USA"

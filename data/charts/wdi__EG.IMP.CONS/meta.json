@@ -3,26 +3,20 @@
   "title": "Energy imports, net (% of energy use)",
   "category": "Energy",
   "sources": "wdi",
-  "n_rows": 568,
+  "n_rows": 363,
   "year_range": [
     "1990",
     "2023"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

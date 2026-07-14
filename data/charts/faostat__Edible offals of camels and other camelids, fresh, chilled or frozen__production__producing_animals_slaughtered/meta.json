@@ -1,27 +1,28 @@
 {
- "chart_id": "faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production__producing_animals_slaughtered",
- "title": "Edible offals of camels and other camelids, fresh, chilled or frozen, producing animals/slaughtered (An)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 213,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "IRN",
-  "RUS",
-  "SAU",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "دام‌های کشتارشده احشای خوراکی شتر و سایر شتریان، تازه، سردکرده یا منجمد (رأس)"
+  "chart_id": "faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production__producing_animals_slaughtered",
+  "title": "Edible offals of camels and other camelids, fresh, chilled or frozen, producing animals/slaughtered (An)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 341,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ",
+    "RUS",
+    "SAU",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "دام‌های کشتارشده احشای خوراکی شتر و سایر شتریان، تازه، سردکرده یا منجمد (رأس)"
 }

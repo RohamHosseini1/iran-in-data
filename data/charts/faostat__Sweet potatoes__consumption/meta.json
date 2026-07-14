@@ -1,43 +1,39 @@
 {
- "chart_id": "faostat__Sweet potatoes__consumption",
- "title": "Sweet potatoes, per-capita food consumption",
- "category": "Food Consumption",
- "sources": "faostat-fbs+fbsh",
- "n_rows": 4164,
- "year_range": [
-  "1961",
-  "2023"
- ],
- "countries": [
-  "ARG",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "RUS",
-  "SAU",
-  "SWE",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/FBS",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "مصرف مواد غذایی",
- "title_fa": "سرانه مصرف سیب‌زمینی شیرین"
+  "chart_id": "faostat__Sweet potatoes__consumption",
+  "title": "Sweet potatoes, per-capita food consumption",
+  "category": "Food Consumption",
+  "sources": "faostat-fbs+fbsh",
+  "n_rows": 2567,
+  "year_range": [
+    "1961",
+    "2023"
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "مصرف مواد غذایی",
+  "title_fa": "سرانه مصرف سیب‌زمینی شیرین"
 }

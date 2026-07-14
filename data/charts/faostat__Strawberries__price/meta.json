@@ -3,25 +3,18 @@
   "title": "Strawberries",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 3124,
+  "n_rows": 1433,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

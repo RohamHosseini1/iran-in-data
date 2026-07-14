@@ -1,36 +1,31 @@
 {
- "chart_id": "faostat__Spinach__production__yield",
- "title": "Spinach, yield (kg/ha)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 726,
- "year_range": [
-  "1961",
-  "2024"
- ],
- "countries": [
-  "DEU",
-  "ESP",
-  "FRA",
-  "GRC",
-  "IRN",
-  "ITA",
-  "KOR",
-  "NLD",
-  "PRT",
-  "SWE",
-  "TUR",
-  "USA",
-  "VEN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "عملکرد اسفناج (کیلوگرم بر هکتار)"
+  "chart_id": "faostat__Spinach__production__yield",
+  "title": "Spinach, yield (kg/ha)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 570,
+  "year_range": [
+    "1961",
+    "2024"
+  ],
+  "countries": [
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "TUR",
+    "USA",
+    "VEN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "عملکرد اسفناج (کیلوگرم بر هکتار)"
 }

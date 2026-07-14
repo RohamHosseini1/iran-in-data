@@ -3,23 +3,16 @@
   "title": "Sugar beet",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 2546,
+  "n_rows": 1261,
   "year_range": [
     "1966",
     "2025"
   ],
   "countries": [
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
     "ITA",
-    "NLD",
-    "PRT",
     "RUS",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

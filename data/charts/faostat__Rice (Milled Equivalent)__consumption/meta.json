@@ -3,26 +3,20 @@
   "title": "Rice (Milled Equivalent)",
   "category": "Food Consumption",
   "sources": "faostat-fbs+fbsh",
-  "n_rows": 4085,
+  "n_rows": 2495,
   "year_range": [
     "1961",
     "2013"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "USA",
     "VEN"
   ],

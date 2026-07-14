@@ -3,26 +3,20 @@
   "title": "Average precipitation in depth (mm per year)",
   "category": "Agriculture & Rural Development",
   "sources": "wdi",
-  "n_rows": 1022,
+  "n_rows": 650,
   "year_range": [
     "1961",
     "2022"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

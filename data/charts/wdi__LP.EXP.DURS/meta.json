@@ -3,26 +3,20 @@
   "title": "Lead time to export, median case (days)",
   "category": "Logistics Performance",
   "sources": "wdi",
-  "n_rows": 90,
+  "n_rows": 57,
   "year_range": [
     "2007",
     "2018"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

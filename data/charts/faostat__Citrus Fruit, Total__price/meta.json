@@ -3,7 +3,7 @@
   "title": "Citrus Fruit, Total",
   "category": "Agriculture Prices",
   "sources": "faostat-pp+pa",
-  "n_rows": 385,
+  "n_rows": 307,
   "year_range": [
     "1991",
     "2025"
@@ -11,12 +11,10 @@
   "countries": [
     "ARG",
     "ESP",
-    "FRA",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "PRT",
     "SAU",
     "TUR",
     "USA"

@@ -1,32 +1,33 @@
 {
- "chart_id": "faostat__Meat of camels, fresh or chilled (biological)__price",
- "title": "Meat of camels, fresh or chilled (biological), Producer Price",
- "category": "Agriculture Prices",
- "sources": "faostat-pp+pa",
- "n_rows": 305,
- "year_range": [
-  "1966",
-  "2025"
- ],
- "countries": [
-  "IRN",
-  "SAU",
-  "TUR"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  },
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/PP",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "قیمت‌های کشاورزی",
- "title_fa": "قیمت تولیدکننده گوشت شتر، تازه یا سردکرده (ارگانیک)"
+  "chart_id": "faostat__Meat of camels, fresh or chilled (biological)__price",
+  "title": "Meat of camels, fresh or chilled (biological), Producer Price",
+  "category": "Agriculture Prices",
+  "sources": "faostat-pp+pa",
+  "n_rows": 394,
+  "year_range": [
+    "1966",
+    "2025"
+  ],
+  "countries": [
+    "IRN",
+    "IRQ",
+    "SAU",
+    "TUR"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    },
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/PP",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "قیمت‌های کشاورزی",
+  "title_fa": "قیمت تولیدکننده گوشت شتر، تازه یا سردکرده (ارگانیک)"
 }

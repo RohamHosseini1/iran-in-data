@@ -3,26 +3,20 @@
   "title": "Food imports (% of merchandise imports)",
   "category": "Trade (Imports)",
   "sources": "wdi",
-  "n_rows": 977,
+  "n_rows": 546,
   "year_range": [
     "1962",
-    "2025"
+    "2024"
   ],
   "countries": [
     "ARG",
-    "DEU",
     "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
     "IRN",
+    "IRQ",
     "ITA",
     "KOR",
-    "NLD",
-    "PRT",
     "RUS",
     "SAU",
-    "SWE",
     "TUR",
     "USA",
     "VEN"

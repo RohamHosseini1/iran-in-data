@@ -3,7 +3,7 @@
   "title": "Debt service (PPG and IMF only, % of exports of goods, services and primary income)",
   "category": "External Debt",
   "sources": "wdi",
-  "n_rows": 129,
+  "n_rows": 139,
   "year_range": [
     "1975",
     "2024"
@@ -11,6 +11,7 @@
   "countries": [
     "ARG",
     "IRN",
+    "IRQ",
     "RUS",
     "TUR"
   ],

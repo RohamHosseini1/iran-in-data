@@ -1,12 +1,5 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
 ARG,Argentina,1992,0,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-FRA,France,1992,0,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-FRA,France,1996,0,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-FRA,France,2015,3,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-FRA,France,2017,2,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-FRA,France,2018,4,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-DEU,Germany,1989,3,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-DEU,Germany,1990,1,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 IRN,Iran,1990,31,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 IRN,Iran,1991,44,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 IRN,Iran,1993,143,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
@@ -31,7 +24,6 @@ IRN,Iran,2021,27,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 IRN,Iran,2023,34,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 IRN,Iran,2024,123,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 ITA,Italy,1993,0,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-NLD,Netherlands,1990,2,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 RUS,Russia,1990,192,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 RUS,Russia,1991,220,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 RUS,Russia,1993,145,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
@@ -112,11 +104,42 @@ TUR,Turkey,2021,117,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 TUR,Turkey,2022,96,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 TUR,Turkey,2023,106,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 TUR,Turkey,2024,34,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-GBR,United Kingdom,1989,35,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-GBR,United Kingdom,1990,41,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-GBR,United Kingdom,1991,26,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-GBR,United Kingdom,1998,29,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
-GBR,United Kingdom,2019,1,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 USA,United States,2001,233,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 VEN,Venezuela,1992,144,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
 VEN,Venezuela,2007,2,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1989,50,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1990,94,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1991,23059,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1992,340,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1993,120,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1994,241,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1995,757,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1996,607,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1997,1336,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1998,50,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,1999,274,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2000,53,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2001,36,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2002,26,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2003,7927,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2004,4095,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2005,2608,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2006,3928,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2007,2217,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2008,2233,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2009,1045,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2010,1118,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2011,1043,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2012,638,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2013,1882,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2014,13168,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2015,10139,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2016,9630,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2017,10248,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2018,1294,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2019,822,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2020,902,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2021,872,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2022,993,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2023,469,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
+IRQ,Iraq,2024,396,,VC.BTL.DETH,Battle-related deaths (number of people),wdi
