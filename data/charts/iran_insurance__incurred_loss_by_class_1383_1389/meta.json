@@ -1,0 +1,24 @@
+{
+  "title": "Insurance Incurred Loss by Class",
+  "title_fa": "خسارت واقع‌شده به تفکیک رشته",
+  "category": "Financial Sector / Insurance",
+  "category_fa": "بخش مالی / بیمه",
+  "sources": "bimeh-markazi-iran",
+  "citations": [
+    {
+      "source_org": "Central Insurance of the Islamic Republic of Iran (Bimeh Markazi Iran)",
+      "source_url": "https://en.centinsur.ir",
+      "access_date": "2026-07-13",
+      "time_range": "1383-1384, 1388-1389"
+    }
+  ],
+  "chart_id": "iran_insurance__incurred_loss_by_class_1383_1389",
+  "n_rows": 40,
+  "year_range": [
+    "2004",
+    "2010"
+  ],
+  "countries": [
+    "IRN"
+  ]
+}

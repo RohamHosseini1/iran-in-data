@@ -1,16 +1,9 @@
 {
-  "chart_id": "iran_sci1399__gdp_value_added_by_sector_1390_1397",
   "title": "GDP Value Added by 18 Economic-Activity Sectors, Current & Constant Prices (SH1390-1397)",
+  "title_fa": "ارزش‌افزوده تولید ناخالص داخلی به تفکیک 18 بخش فعالیت اقتصادی، به قیمت جاری و ثابت (SH1390-1397)",
   "category": "Macro / National Accounts",
+  "category_fa": "کلان / حساب‌های ملی",
   "sources": "sci-amar",
-  "n_rows": 330,
-  "year_range": [
-    "2011",
-    "2018"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
@@ -19,6 +12,13 @@
       "time_range": "1390, 1393-1397 SH"
     }
   ],
-  "category_fa": "کلان / حساب‌های ملی",
-  "title_fa": "ارزش‌افزوده تولید ناخالص داخلی به تفکیک 18 بخش فعالیت اقتصادی، به قیمت جاری و ثابت (SH1390-1397)"
+  "chart_id": "iran_sci1399__gdp_value_added_by_sector_1390_1397",
+  "n_rows": 228,
+  "year_range": [
+    "2011",
+    "2018"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

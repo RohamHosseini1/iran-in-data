@@ -1,16 +1,9 @@
 {
-  "chart_id": "iran_energy__national_balance_1386_1394",
   "title": "Iran National Energy Balance Sheet (SH1386-1394)",
+  "title_fa": "ترازنامه انرژی کشور ایران (SH1386-1394)",
   "category": "Energy",
+  "category_fa": "انرژی",
   "sources": "iran-data-portal",
-  "n_rows": 772,
-  "year_range": [
-    "2007",
-    "2015"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
@@ -19,6 +12,13 @@
       "time_range": "1386-1394 (2007/08-2015/16)"
     }
   ],
-  "category_fa": "انرژی",
-  "title_fa": "ترازنامه انرژی کشور ایران (SH1386-1394)"
+  "chart_id": "iran_energy__national_balance_1386_1394",
+  "n_rows": 108,
+  "year_range": [
+    "2007",
+    "2015"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

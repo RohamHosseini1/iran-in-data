@@ -1,16 +1,9 @@
 {
-  "chart_id": "iran_sci1399__government_budget_summary_1385_1400",
   "title": "Total Country Budget: Resources & Uses Breakdown (SH1385-1400)",
+  "title_fa": "بودجه کل کشور: تفکیک منابع و مصارف (SH1385-1400)",
   "category": "Government Finance",
+  "category_fa": "مالیه دولت",
   "sources": "sci-amar",
-  "n_rows": 224,
-  "year_range": [
-    "2006",
-    "2021"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
@@ -20,6 +13,13 @@
       "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
     }
   ],
-  "category_fa": "مالیه دولت",
-  "title_fa": "بودجه کل کشور: تفکیک منابع و مصارف (SH1385-1400)"
+  "chart_id": "iran_sci1399__government_budget_summary_1385_1400",
+  "n_rows": 80,
+  "year_range": [
+    "2006",
+    "2021"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

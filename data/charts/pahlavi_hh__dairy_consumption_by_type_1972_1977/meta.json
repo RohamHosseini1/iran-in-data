@@ -1,0 +1,25 @@
+{
+  "title": "Dairy Product Consumption by Type",
+  "title_fa": "مصرف فرآورده‌های لبنی به تفکیک نوع",
+  "category": "Household Consumption & Expenditure",
+  "category_fa": "مصرف و هزینه خانوار",
+  "sources": "pahlavi-era-primary-extraction",
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank) Agricultural Task Force (IBRD)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:4tok:wb1974-dairy-consumption-patterns-1972-1977"
+    }
+  ],
+  "chart_id": "pahlavi_hh__dairy_consumption_by_type_1972_1977",
+  "n_rows": 18,
+  "year_range": [
+    "1972",
+    "1977"
+  ],
+  "countries": [
+    "IRN"
+  ]
+}

@@ -1,16 +1,9 @@
 {
-  "chart_id": "iran_media__film_production_industry_1941_1982",
   "title": "Film Production, Distribution & Censorship (1941-1982)",
+  "title_fa": "تولید، توزیع و سانسور فیلم (1941-1982)",
   "category": "Media & Culture",
+  "category_fa": "رسانه و فرهنگ",
   "sources": "iran-media-history:iranica-cinema-history",
-  "n_rows": 34,
-  "year_range": [
-    "1941",
-    "1982"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "Encyclopaedia Iranica (Encyclopaedia Iranica Foundation), article by Farrokh Gaffary",
@@ -19,6 +12,13 @@
       "time_range": ""
     }
   ],
-  "category_fa": "رسانه و فرهنگ",
-  "title_fa": "تولید، توزیع و سانسور فیلم (1941-1982)"
+  "chart_id": "iran_media__film_production_industry_1941_1982",
+  "n_rows": 12,
+  "year_range": [
+    "1955",
+    "1976"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

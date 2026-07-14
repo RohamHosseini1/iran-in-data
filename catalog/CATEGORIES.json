@@ -1539,11 +1539,17 @@
   "Financial Sector / Insurance": [
     "iran_insurance__bmi_own_financial_highlights_1386_1391",
     "iran_insurance__companies_by_ownership_1385_1391",
+    "iran_insurance__earned_premium_by_class_1383_1389",
+    "iran_insurance__incurred_loss_by_class_1383_1389",
     "iran_insurance__market_direct_premium_1379_1384",
     "iran_insurance__market_earned_premium_incurred_loss_1379_1391",
     "iran_insurance__premium_loss_by_class_1383_1389",
     "iran_insurance__sales_network_1382_1391",
-    "iran_provincial__financial_markets_insurance_1397_1401"
+    "iran_provincial__bank_loan_deposit_ratio_1397_1401",
+    "iran_provincial__financial_markets_insurance_1397_1401",
+    "iran_provincial__insurance_claims_paid_share_1397_1401",
+    "iran_provincial__insurance_premium_per_capita_1397_1401",
+    "iran_provincial__insurance_premium_written_share_1397_1401"
   ],
   "Fisheries & Aquaculture": [
     "specialty_goods__caviar_shilat_production_2013_2024",
@@ -1695,6 +1701,8 @@
     "iran_giews__wheat_guaranteed_purchase_price_2013_2026",
     "iran_monetary__government_debt_to_central_bank_1978_2016",
     "iran_monetary__liquidity_m2_monetary_base_2000_2023",
+    "iran_provincial__capital_expenditure_share_1397_1401",
+    "iran_provincial__current_expenditure_share_1397_1401",
     "iran_provincial__government_budget_execution_1397_1401",
     "iran_sci1399__government_budget_summary_1385_1400",
     "iranplanbudgetorg__annual_budget_law_totals",
@@ -1857,11 +1865,13 @@
     "iran_household__heis_analysis_growth_poverty_gini_2023_2025"
   ],
   "Household Consumption & Expenditure": [
+    "pahlavi_hh__dairy_consumption_by_type_1972_1977",
     "pahlavi_hh__dairy_consumption_supply_1972_1977",
     "pahlavi_hh__expenditure_distribution_by_bracket_1971",
     "pahlavi_hh__expenditure_levels_rials_1965_1971",
     "pahlavi_hh__expenditure_shares_by_category_1965_1971",
     "pahlavi_hh__food_demand_actual_projected_1972_1982",
+    "pahlavi_hh__milk_supply_by_source_1972_1977",
     "pahlavi_hh__nonfood_consumption_index_1955_1958"
   ],
   "Housing": [
@@ -1894,6 +1904,8 @@
   "Industry / Value Added by Sector": [
     "iran_imidro__production_performance_2011_2015",
     "iran_mimt__daily_bulletin_panel_1399",
+    "iran_provincial__industrial_production_value_share_1396_1400",
+    "iran_provincial__industrial_workshop_count_share_1396_1400",
     "iran_provincial__industry_workshops_1396_1400",
     "iran_provincial__mining_production_value_1397_1401",
     "iran_unido_cip__iran_subindicators_2010_2014",
@@ -2326,7 +2338,9 @@
   "Social Statistics (Marriage & Vital Registration)": [
     "iran_disasters__gold_price_divorce_rate_descriptive_stats_1980_2014",
     "iran_disasters__mean_age_at_first_marriage_1966_2006",
-    "iran_disasters__registered_marriages_divorces_1991_2006"
+    "iran_disasters__registered_marriages_divorces_1991_2006",
+    "iran_vital__registered_divorces_1991_2006",
+    "iran_vital__registered_marriages_1991_2006"
   ],
   "Terms of Trade": [
     "wdi__TT.PRI.MRCH.XD"
@@ -2350,6 +2364,8 @@
     "weo__import_volume_growth"
   ],
   "Trade & Investment": [
+    "iran_imidro__exports_by_product_group_2011_2015",
+    "iran_imidro__sales_by_product_group_2011_2015",
     "iran_imidro__sales_export_by_group_2011_2015",
     "iran_provincial__foreign_investment_1398_1400"
   ],

@@ -1,489 +1,79 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,original_period_label
 IRN,Iran,2011,42.8,"index, 1395=100",general_index_cpi_index_1395_100,General index — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,100.0,percent of 1395 basket,general_index_weight_pct_of_1395_basket,General index — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",general_index_cpi_index_1395_100,General index — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,100.0,percent of 1395 basket,general_index_weight_pct_of_1395_basket,General index — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,108.2,"index, 1395=100",general_index_cpi_index_1395_100,General index — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,100.0,percent of 1395 basket,general_index_weight_pct_of_1395_basket,General index — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,137.3,"index, 1395=100",general_index_cpi_index_1395_100,General index — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,100.0,percent of 1395 basket,general_index_weight_pct_of_1395_basket,General index — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,185.1,"index, 1395=100",general_index_cpi_index_1395_100,General index — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,100.0,percent of 1395 basket,general_index_weight_pct_of_1395_basket,General index — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,252.6,"index, 1395=100",general_index_cpi_index_1395_100,General index — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,36.4,percent,general_index_pct_change_1399_vs_1398,General index — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,100.0,percent of 1395 basket,general_index_weight_pct_of_1395_basket,General index — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,37.2,"index, 1395=100",food_and_beverages_cpi_index_1395_100,Food and beverages — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,26.64,percent of 1395 basket,food_and_beverages_weight_pct_of_1395_basket,Food and beverages — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",food_and_beverages_cpi_index_1395_100,Food and beverages — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,26.64,percent of 1395 basket,food_and_beverages_weight_pct_of_1395_basket,Food and beverages — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,112.3,"index, 1395=100",food_and_beverages_cpi_index_1395_100,Food and beverages — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,26.64,percent of 1395 basket,food_and_beverages_weight_pct_of_1395_basket,Food and beverages — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,153.6,"index, 1395=100",food_and_beverages_cpi_index_1395_100,Food and beverages — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,26.64,percent of 1395 basket,food_and_beverages_weight_pct_of_1395_basket,Food and beverages — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,219.7,"index, 1395=100",food_and_beverages_cpi_index_1395_100,Food and beverages — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,26.64,percent of 1395 basket,food_and_beverages_weight_pct_of_1395_basket,Food and beverages — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,305.5,"index, 1395=100",food_and_beverages_cpi_index_1395_100,Food and beverages — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,39.1,percent,food_and_beverages_pct_change_1399_vs_1398,Food and beverages — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,26.64,percent of 1395 basket,food_and_beverages_weight_pct_of_1395_basket,Food and beverages — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,37.3,"index, 1395=100",foods_cpi_index_1395_100,Foods — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,25.55,percent of 1395 basket,foods_weight_pct_of_1395_basket,Foods — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",foods_cpi_index_1395_100,Foods — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,25.55,percent of 1395 basket,foods_weight_pct_of_1395_basket,Foods — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,112.4,"index, 1395=100",foods_cpi_index_1395_100,Foods — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,25.55,percent of 1395 basket,foods_weight_pct_of_1395_basket,Foods — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,153.5,"index, 1395=100",foods_cpi_index_1395_100,Foods — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,25.55,percent of 1395 basket,foods_weight_pct_of_1395_basket,Foods — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,218.7,"index, 1395=100",foods_cpi_index_1395_100,Foods — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,25.55,percent of 1395 basket,foods_weight_pct_of_1395_basket,Foods — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,303.2,"index, 1395=100",foods_cpi_index_1395_100,Foods — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,38.7,percent,foods_pct_change_1399_vs_1398,Foods — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,25.55,percent of 1395 basket,foods_weight_pct_of_1395_basket,Foods — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,40.7,"index, 1395=100",bread_and_cereals_cpi_index_1395_100,Bread and cereals — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,6.67,percent of 1395 basket,bread_and_cereals_weight_pct_of_1395_basket,Bread and cereals — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",bread_and_cereals_cpi_index_1395_100,Bread and cereals — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,6.67,percent of 1395 basket,bread_and_cereals_weight_pct_of_1395_basket,Bread and cereals — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,108.1,"index, 1395=100",bread_and_cereals_cpi_index_1395_100,Bread and cereals — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,6.67,percent of 1395 basket,bread_and_cereals_weight_pct_of_1395_basket,Bread and cereals — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,129.8,"index, 1395=100",bread_and_cereals_cpi_index_1395_100,Bread and cereals — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,6.67,percent of 1395 basket,bread_and_cereals_weight_pct_of_1395_basket,Bread and cereals — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,173.3,"index, 1395=100",bread_and_cereals_cpi_index_1395_100,Bread and cereals — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,6.67,percent of 1395 basket,bread_and_cereals_weight_pct_of_1395_basket,Bread and cereals — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,257.2,"index, 1395=100",bread_and_cereals_cpi_index_1395_100,Bread and cereals — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,48.5,percent,bread_and_cereals_pct_change_1399_vs_1398,Bread and cereals — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,6.67,percent of 1395 basket,bread_and_cereals_weight_pct_of_1395_basket,Bread and cereals — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,40.0,"index, 1395=100",meat_poultry_and_fish_and_related_products_cpi_index_1395_100,"Meat, poultry and fish and related products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,5.91,percent of 1395 basket,meat_poultry_and_fish_and_related_products_weight_pct_of_1395_basket,"Meat, poultry and fish and related products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",meat_poultry_and_fish_and_related_products_cpi_index_1395_100,"Meat, poultry and fish and related products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,5.91,percent of 1395 basket,meat_poultry_and_fish_and_related_products_weight_pct_of_1395_basket,"Meat, poultry and fish and related products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,114.9,"index, 1395=100",meat_poultry_and_fish_and_related_products_cpi_index_1395_100,"Meat, poultry and fish and related products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,5.91,percent of 1395 basket,meat_poultry_and_fish_and_related_products_weight_pct_of_1395_basket,"Meat, poultry and fish and related products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,170.3,"index, 1395=100",meat_poultry_and_fish_and_related_products_cpi_index_1395_100,"Meat, poultry and fish and related products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,5.91,percent of 1395 basket,meat_poultry_and_fish_and_related_products_weight_pct_of_1395_basket,"Meat, poultry and fish and related products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,255.2,"index, 1395=100",meat_poultry_and_fish_and_related_products_cpi_index_1395_100,"Meat, poultry and fish and related products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,5.91,percent of 1395 basket,meat_poultry_and_fish_and_related_products_weight_pct_of_1395_basket,"Meat, poultry and fish and related products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,321.9,"index, 1395=100",meat_poultry_and_fish_and_related_products_cpi_index_1395_100,"Meat, poultry and fish and related products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,26.2,percent,meat_poultry_and_fish_and_related_products_pct_change_1399_vs_1398,"Meat, poultry and fish and related products — pct_change_1399_vs_1398",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,5.91,percent of 1395 basket,meat_poultry_and_fish_and_related_products_weight_pct_of_1395_basket,"Meat, poultry and fish and related products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,42.0,"index, 1395=100",meat_and_poultry_cpi_index_1395_100,Meat and poultry — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,5.14,percent of 1395 basket,meat_and_poultry_weight_pct_of_1395_basket,Meat and poultry — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",meat_and_poultry_cpi_index_1395_100,Meat and poultry — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,5.14,percent of 1395 basket,meat_and_poultry_weight_pct_of_1395_basket,Meat and poultry — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,116.4,"index, 1395=100",meat_and_poultry_cpi_index_1395_100,Meat and poultry — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,5.14,percent of 1395 basket,meat_and_poultry_weight_pct_of_1395_basket,Meat and poultry — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,172.5,"index, 1395=100",meat_and_poultry_cpi_index_1395_100,Meat and poultry — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,5.14,percent of 1395 basket,meat_and_poultry_weight_pct_of_1395_basket,Meat and poultry — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,256.9,"index, 1395=100",meat_and_poultry_cpi_index_1395_100,Meat and poultry — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,5.14,percent of 1395 basket,meat_and_poultry_weight_pct_of_1395_basket,Meat and poultry — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,321.5,"index, 1395=100",meat_and_poultry_cpi_index_1395_100,Meat and poultry — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,25.2,percent,meat_and_poultry_pct_change_1399_vs_1398,Meat and poultry — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,5.14,percent of 1395 basket,meat_and_poultry_weight_pct_of_1395_basket,Meat and poultry — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,29.6,"index, 1395=100",fish_and_sea_food_cpi_index_1395_100,Fish and sea food — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,0.77,percent of 1395 basket,fish_and_sea_food_weight_pct_of_1395_basket,Fish and sea food — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",fish_and_sea_food_cpi_index_1395_100,Fish and sea food — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,0.77,percent of 1395 basket,fish_and_sea_food_weight_pct_of_1395_basket,Fish and sea food — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,104.9,"index, 1395=100",fish_and_sea_food_cpi_index_1395_100,Fish and sea food — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,0.77,percent of 1395 basket,fish_and_sea_food_weight_pct_of_1395_basket,Fish and sea food — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,156.1,"index, 1395=100",fish_and_sea_food_cpi_index_1395_100,Fish and sea food — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,0.77,percent of 1395 basket,fish_and_sea_food_weight_pct_of_1395_basket,Fish and sea food — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,243.7,"index, 1395=100",fish_and_sea_food_cpi_index_1395_100,Fish and sea food — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,0.77,percent of 1395 basket,fish_and_sea_food_weight_pct_of_1395_basket,Fish and sea food — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,324.6,"index, 1395=100",fish_and_sea_food_cpi_index_1395_100,Fish and sea food — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,33.2,percent,fish_and_sea_food_pct_change_1399_vs_1398,Fish and sea food — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,0.77,percent of 1395 basket,fish_and_sea_food_weight_pct_of_1395_basket,Fish and sea food — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,39.2,"index, 1395=100",dairy_products_and_eggs_cpi_index_1395_100,Dairy products and eggs — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,2.8,percent of 1395 basket,dairy_products_and_eggs_weight_pct_of_1395_basket,Dairy products and eggs — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",dairy_products_and_eggs_cpi_index_1395_100,Dairy products and eggs — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,2.8,percent of 1395 basket,dairy_products_and_eggs_weight_pct_of_1395_basket,Dairy products and eggs — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,110.0,"index, 1395=100",dairy_products_and_eggs_cpi_index_1395_100,Dairy products and eggs — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,2.8,percent of 1395 basket,dairy_products_and_eggs_weight_pct_of_1395_basket,Dairy products and eggs — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,147.4,"index, 1395=100",dairy_products_and_eggs_cpi_index_1395_100,Dairy products and eggs — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,2.8,percent of 1395 basket,dairy_products_and_eggs_weight_pct_of_1395_basket,Dairy products and eggs — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,199.7,"index, 1395=100",dairy_products_and_eggs_cpi_index_1395_100,Dairy products and eggs — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,2.8,percent of 1395 basket,dairy_products_and_eggs_weight_pct_of_1395_basket,Dairy products and eggs — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,298.2,"index, 1395=100",dairy_products_and_eggs_cpi_index_1395_100,Dairy products and eggs — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,49.3,percent,dairy_products_and_eggs_pct_change_1399_vs_1398,Dairy products and eggs — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,2.8,percent of 1395 basket,dairy_products_and_eggs_weight_pct_of_1395_basket,Dairy products and eggs — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,39.5,"index, 1395=100",fats_and_oils_cpi_index_1395_100,Fats and oils — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,1.29,percent of 1395 basket,fats_and_oils_weight_pct_of_1395_basket,Fats and oils — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",fats_and_oils_cpi_index_1395_100,Fats and oils — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,1.29,percent of 1395 basket,fats_and_oils_weight_pct_of_1395_basket,Fats and oils — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,109.5,"index, 1395=100",fats_and_oils_cpi_index_1395_100,Fats and oils — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,1.29,percent of 1395 basket,fats_and_oils_weight_pct_of_1395_basket,Fats and oils — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,143.8,"index, 1395=100",fats_and_oils_cpi_index_1395_100,Fats and oils — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,1.29,percent of 1395 basket,fats_and_oils_weight_pct_of_1395_basket,Fats and oils — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,187.2,"index, 1395=100",fats_and_oils_cpi_index_1395_100,Fats and oils — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,1.29,percent of 1395 basket,fats_and_oils_weight_pct_of_1395_basket,Fats and oils — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,271.6,"index, 1395=100",fats_and_oils_cpi_index_1395_100,Fats and oils — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,45.1,percent,fats_and_oils_pct_change_1399_vs_1398,Fats and oils — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,1.29,percent of 1395 basket,fats_and_oils_weight_pct_of_1395_basket,Fats and oils — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,35.7,"index, 1395=100",fruit_and_nut_cpi_index_1395_100,Fruit and nut — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,3.43,percent of 1395 basket,fruit_and_nut_weight_pct_of_1395_basket,Fruit and nut — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",fruit_and_nut_cpi_index_1395_100,Fruit and nut — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,3.43,percent of 1395 basket,fruit_and_nut_weight_pct_of_1395_basket,Fruit and nut — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,110.8,"index, 1395=100",fruit_and_nut_cpi_index_1395_100,Fruit and nut — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,3.43,percent of 1395 basket,fruit_and_nut_weight_pct_of_1395_basket,Fruit and nut — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,170.2,"index, 1395=100",fruit_and_nut_cpi_index_1395_100,Fruit and nut — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,3.43,percent of 1395 basket,fruit_and_nut_weight_pct_of_1395_basket,Fruit and nut — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,230.9,"index, 1395=100",fruit_and_nut_cpi_index_1395_100,Fruit and nut — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,3.43,percent of 1395 basket,fruit_and_nut_weight_pct_of_1395_basket,Fruit and nut — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,346.8,"index, 1395=100",fruit_and_nut_cpi_index_1395_100,Fruit and nut — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,50.2,percent,fruit_and_nut_pct_change_1399_vs_1398,Fruit and nut — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,3.43,percent of 1395 basket,fruit_and_nut_weight_pct_of_1395_basket,Fruit and nut — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,25.5,"index, 1395=100",vegetables_pulses_and_vegetable_products_cpi_index_1395_100,"Vegetables, pulses and vegetable products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,3.02,percent of 1395 basket,vegetables_pulses_and_vegetable_products_weight_pct_of_1395_basket,"Vegetables, pulses and vegetable products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",vegetables_pulses_and_vegetable_products_cpi_index_1395_100,"Vegetables, pulses and vegetable products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,3.02,percent of 1395 basket,vegetables_pulses_and_vegetable_products_weight_pct_of_1395_basket,"Vegetables, pulses and vegetable products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,127.2,"index, 1395=100",vegetables_pulses_and_vegetable_products_cpi_index_1395_100,"Vegetables, pulses and vegetable products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,3.02,percent of 1395 basket,vegetables_pulses_and_vegetable_products_weight_pct_of_1395_basket,"Vegetables, pulses and vegetable products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,169.2,"index, 1395=100",vegetables_pulses_and_vegetable_products_cpi_index_1395_100,"Vegetables, pulses and vegetable products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,3.02,percent of 1395 basket,vegetables_pulses_and_vegetable_products_weight_pct_of_1395_basket,"Vegetables, pulses and vegetable products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,263.2,"index, 1395=100",vegetables_pulses_and_vegetable_products_cpi_index_1395_100,"Vegetables, pulses and vegetable products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,3.02,percent of 1395 basket,vegetables_pulses_and_vegetable_products_weight_pct_of_1395_basket,"Vegetables, pulses and vegetable products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,349.4,"index, 1395=100",vegetables_pulses_and_vegetable_products_cpi_index_1395_100,"Vegetables, pulses and vegetable products — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,32.7,percent,vegetables_pulses_and_vegetable_products_pct_change_1399_vs_1398,"Vegetables, pulses and vegetable products — pct_change_1399_vs_1398",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,3.02,percent of 1395 basket,vegetables_pulses_and_vegetable_products_weight_pct_of_1395_basket,"Vegetables, pulses and vegetable products — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,43.5,"index, 1395=100",sugar_sugar_lump_chocolate_cpi_index_1395_100,"Sugar, sugar lump, chocolate — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,1.44,percent of 1395 basket,sugar_sugar_lump_chocolate_weight_pct_of_1395_basket,"Sugar, sugar lump, chocolate — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",sugar_sugar_lump_chocolate_cpi_index_1395_100,"Sugar, sugar lump, chocolate — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,1.44,percent of 1395 basket,sugar_sugar_lump_chocolate_weight_pct_of_1395_basket,"Sugar, sugar lump, chocolate — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,105.7,"index, 1395=100",sugar_sugar_lump_chocolate_cpi_index_1395_100,"Sugar, sugar lump, chocolate — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,1.44,percent of 1395 basket,sugar_sugar_lump_chocolate_weight_pct_of_1395_basket,"Sugar, sugar lump, chocolate — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,131.9,"index, 1395=100",sugar_sugar_lump_chocolate_cpi_index_1395_100,"Sugar, sugar lump, chocolate — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,1.44,percent of 1395 basket,sugar_sugar_lump_chocolate_weight_pct_of_1395_basket,"Sugar, sugar lump, chocolate — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,199.4,"index, 1395=100",sugar_sugar_lump_chocolate_cpi_index_1395_100,"Sugar, sugar lump, chocolate — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,1.44,percent of 1395 basket,sugar_sugar_lump_chocolate_weight_pct_of_1395_basket,"Sugar, sugar lump, chocolate — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,282.4,"index, 1395=100",sugar_sugar_lump_chocolate_cpi_index_1395_100,"Sugar, sugar lump, chocolate — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,41.6,percent,sugar_sugar_lump_chocolate_pct_change_1399_vs_1398,"Sugar, sugar lump, chocolate — pct_change_1399_vs_1398",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,1.44,percent of 1395 basket,sugar_sugar_lump_chocolate_weight_pct_of_1395_basket,"Sugar, sugar lump, chocolate — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,39.3,"index, 1395=100",spices_and_seasonings_cpi_index_1395_100,Spices and seasonings — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,0.98,percent of 1395 basket,spices_and_seasonings_weight_pct_of_1395_basket,Spices and seasonings — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",spices_and_seasonings_cpi_index_1395_100,Spices and seasonings — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,0.98,percent of 1395 basket,spices_and_seasonings_weight_pct_of_1395_basket,Spices and seasonings — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,105.8,"index, 1395=100",spices_and_seasonings_cpi_index_1395_100,Spices and seasonings — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,0.98,percent of 1395 basket,spices_and_seasonings_weight_pct_of_1395_basket,Spices and seasonings — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,169.4,"index, 1395=100",spices_and_seasonings_cpi_index_1395_100,Spices and seasonings — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,0.98,percent of 1395 basket,spices_and_seasonings_weight_pct_of_1395_basket,Spices and seasonings — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,250.9,"index, 1395=100",spices_and_seasonings_cpi_index_1395_100,Spices and seasonings — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,0.98,percent of 1395 basket,spices_and_seasonings_weight_pct_of_1395_basket,Spices and seasonings — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,294.6,"index, 1395=100",spices_and_seasonings_cpi_index_1395_100,Spices and seasonings — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,17.4,percent,spices_and_seasonings_pct_change_1399_vs_1398,Spices and seasonings — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,0.98,percent of 1395 basket,spices_and_seasonings_weight_pct_of_1395_basket,Spices and seasonings — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,33.5,"index, 1395=100",tea_and_other_beverages_non_alcoholic_cpi_index_1395_100,Tea and other beverages (non-alcoholic) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,1.1,percent of 1395 basket,tea_and_other_beverages_non_alcoholic_weight_pct_of_1395_basket,Tea and other beverages (non-alcoholic) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",tea_and_other_beverages_non_alcoholic_cpi_index_1395_100,Tea and other beverages (non-alcoholic) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,1.1,percent of 1395 basket,tea_and_other_beverages_non_alcoholic_weight_pct_of_1395_basket,Tea and other beverages (non-alcoholic) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,110.6,"index, 1395=100",tea_and_other_beverages_non_alcoholic_cpi_index_1395_100,Tea and other beverages (non-alcoholic) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,1.1,percent of 1395 basket,tea_and_other_beverages_non_alcoholic_weight_pct_of_1395_basket,Tea and other beverages (non-alcoholic) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,155.4,"index, 1395=100",tea_and_other_beverages_non_alcoholic_cpi_index_1395_100,Tea and other beverages (non-alcoholic) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,1.1,percent of 1395 basket,tea_and_other_beverages_non_alcoholic_weight_pct_of_1395_basket,Tea and other beverages (non-alcoholic) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,242.9,"index, 1395=100",tea_and_other_beverages_non_alcoholic_cpi_index_1395_100,Tea and other beverages (non-alcoholic) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,1.1,percent of 1395 basket,tea_and_other_beverages_non_alcoholic_weight_pct_of_1395_basket,Tea and other beverages (non-alcoholic) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,358.8,"index, 1395=100",tea_and_other_beverages_non_alcoholic_cpi_index_1395_100,Tea and other beverages (non-alcoholic) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,47.7,percent,tea_and_other_beverages_non_alcoholic_pct_change_1399_vs_1398,Tea and other beverages (non-alcoholic) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,1.1,percent of 1395 basket,tea_and_other_beverages_non_alcoholic_weight_pct_of_1395_basket,Tea and other beverages (non-alcoholic) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,29.1,"index, 1395=100",tobacco_cpi_index_1395_100,Tobacco — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,0.59,percent of 1395 basket,tobacco_weight_pct_of_1395_basket,Tobacco — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",tobacco_cpi_index_1395_100,Tobacco — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,0.59,percent of 1395 basket,tobacco_weight_pct_of_1395_basket,Tobacco — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,106.9,"index, 1395=100",tobacco_cpi_index_1395_100,Tobacco — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,0.59,percent of 1395 basket,tobacco_weight_pct_of_1395_basket,Tobacco — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,216.4,"index, 1395=100",tobacco_cpi_index_1395_100,Tobacco — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,0.59,percent of 1395 basket,tobacco_weight_pct_of_1395_basket,Tobacco — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,281.1,"index, 1395=100",tobacco_cpi_index_1395_100,Tobacco — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,0.59,percent of 1395 basket,tobacco_weight_pct_of_1395_basket,Tobacco — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,383.8,"index, 1395=100",tobacco_cpi_index_1395_100,Tobacco — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,36.6,percent,tobacco_pct_change_1399_vs_1398,Tobacco — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,0.59,percent of 1395 basket,tobacco_weight_pct_of_1395_basket,Tobacco — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,38.7,"index, 1395=100",clothing_and_footwear_cpi_index_1395_100,Clothing and footwear — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,4.78,percent of 1395 basket,clothing_and_footwear_weight_pct_of_1395_basket,Clothing and footwear — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",clothing_and_footwear_cpi_index_1395_100,Clothing and footwear — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,4.78,percent of 1395 basket,clothing_and_footwear_weight_pct_of_1395_basket,Clothing and footwear — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,106.1,"index, 1395=100",clothing_and_footwear_cpi_index_1395_100,Clothing and footwear — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,4.78,percent of 1395 basket,clothing_and_footwear_weight_pct_of_1395_basket,Clothing and footwear — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,137.5,"index, 1395=100",clothing_and_footwear_cpi_index_1395_100,Clothing and footwear — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,4.78,percent of 1395 basket,clothing_and_footwear_weight_pct_of_1395_basket,Clothing and footwear — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,197.8,"index, 1395=100",clothing_and_footwear_cpi_index_1395_100,Clothing and footwear — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,4.78,percent of 1395 basket,clothing_and_footwear_weight_pct_of_1395_basket,Clothing and footwear — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,274.4,"index, 1395=100",clothing_and_footwear_cpi_index_1395_100,Clothing and footwear — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,38.7,percent,clothing_and_footwear_pct_change_1399_vs_1398,Clothing and footwear — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,4.78,percent of 1395 basket,clothing_and_footwear_weight_pct_of_1395_basket,Clothing and footwear — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,49.5,"index, 1395=100",housing_water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Housing, water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,35.5,percent of 1395 basket,housing_water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Housing, water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",housing_water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Housing, water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,35.5,percent of 1395 basket,housing_water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Housing, water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,107.3,"index, 1395=100",housing_water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Housing, water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,35.5,percent of 1395 basket,housing_water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Housing, water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,125.3,"index, 1395=100",housing_water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Housing, water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,35.5,percent of 1395 basket,housing_water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Housing, water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,155.1,"index, 1395=100",housing_water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Housing, water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,35.5,percent of 1395 basket,housing_water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Housing, water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,194.3,"index, 1395=100",housing_water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Housing, water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,25.3,percent,housing_water_electricity_gas_and_other_fuels_pct_change_1399_vs_1398,"Housing, water, electricity, gas and other fuels — pct_change_1399_vs_1398",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,35.5,percent of 1395 basket,housing_water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Housing, water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,51.0,"index, 1395=100",housing_cpi_index_1395_100,Housing — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,31.12,percent of 1395 basket,housing_weight_pct_of_1395_basket,Housing — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",housing_cpi_index_1395_100,Housing — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,31.12,percent of 1395 basket,housing_weight_pct_of_1395_basket,Housing — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,106.9,"index, 1395=100",housing_cpi_index_1395_100,Housing — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,31.12,percent of 1395 basket,housing_weight_pct_of_1395_basket,Housing — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,126.7,"index, 1395=100",housing_cpi_index_1395_100,Housing — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,31.12,percent of 1395 basket,housing_weight_pct_of_1395_basket,Housing — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,155.8,"index, 1395=100",housing_cpi_index_1395_100,Housing — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,31.12,percent of 1395 basket,housing_weight_pct_of_1395_basket,Housing — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,198.5,"index, 1395=100",housing_cpi_index_1395_100,Housing — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,27.4,percent,housing_pct_change_1399_vs_1398,Housing — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,31.12,percent of 1395 basket,housing_weight_pct_of_1395_basket,Housing — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,51.4,"index, 1395=100",rent_of_residential_houses_cpi_index_1395_100,Rent of residential houses — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,30.72,percent of 1395 basket,rent_of_residential_houses_weight_pct_of_1395_basket,Rent of residential houses — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",rent_of_residential_houses_cpi_index_1395_100,Rent of residential houses — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,30.72,percent of 1395 basket,rent_of_residential_houses_weight_pct_of_1395_basket,Rent of residential houses — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,106.9,"index, 1395=100",rent_of_residential_houses_cpi_index_1395_100,Rent of residential houses — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,30.72,percent of 1395 basket,rent_of_residential_houses_weight_pct_of_1395_basket,Rent of residential houses — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,126.7,"index, 1395=100",rent_of_residential_houses_cpi_index_1395_100,Rent of residential houses — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,30.72,percent of 1395 basket,rent_of_residential_houses_weight_pct_of_1395_basket,Rent of residential houses — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,155.7,"index, 1395=100",rent_of_residential_houses_cpi_index_1395_100,Rent of residential houses — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,30.72,percent of 1395 basket,rent_of_residential_houses_weight_pct_of_1395_basket,Rent of residential houses — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,198.1,"index, 1395=100",rent_of_residential_houses_cpi_index_1395_100,Rent of residential houses — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,27.2,percent,rent_of_residential_houses_pct_change_1399_vs_1398,Rent of residential houses — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,30.72,percent of 1395 basket,rent_of_residential_houses_weight_pct_of_1395_basket,Rent of residential houses — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,40.9,"index, 1395=100",maintenance_and_repair_services_cpi_index_1395_100,Maintenance and repair services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,0.41,percent of 1395 basket,maintenance_and_repair_services_weight_pct_of_1395_basket,Maintenance and repair services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",maintenance_and_repair_services_cpi_index_1395_100,Maintenance and repair services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,0.41,percent of 1395 basket,maintenance_and_repair_services_weight_pct_of_1395_basket,Maintenance and repair services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,106.1,"index, 1395=100",maintenance_and_repair_services_cpi_index_1395_100,Maintenance and repair services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,0.41,percent of 1395 basket,maintenance_and_repair_services_weight_pct_of_1395_basket,Maintenance and repair services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,126.2,"index, 1395=100",maintenance_and_repair_services_cpi_index_1395_100,Maintenance and repair services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,0.41,percent of 1395 basket,maintenance_and_repair_services_weight_pct_of_1395_basket,Maintenance and repair services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,163.2,"index, 1395=100",maintenance_and_repair_services_cpi_index_1395_100,Maintenance and repair services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,0.41,percent of 1395 basket,maintenance_and_repair_services_weight_pct_of_1395_basket,Maintenance and repair services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,227.1,"index, 1395=100",maintenance_and_repair_services_cpi_index_1395_100,Maintenance and repair services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,39.2,percent,maintenance_and_repair_services_pct_change_1399_vs_1398,Maintenance and repair services — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,0.41,percent of 1395 basket,maintenance_and_repair_services_weight_pct_of_1395_basket,Maintenance and repair services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,42.8,"index, 1395=100",water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,4.38,percent of 1395 basket,water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,4.38,percent of 1395 basket,water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,110.3,"index, 1395=100",water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,4.38,percent of 1395 basket,water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,115.9,"index, 1395=100",water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,4.38,percent of 1395 basket,water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,149.9,"index, 1395=100",water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,4.38,percent of 1395 basket,water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,164.4,"index, 1395=100",water_electricity_gas_and_other_fuels_cpi_index_1395_100,"Water, electricity, gas and other fuels — cpi_index_1395_100",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,9.7,percent,water_electricity_gas_and_other_fuels_pct_change_1399_vs_1398,"Water, electricity, gas and other fuels — pct_change_1399_vs_1398",sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,4.38,percent of 1395 basket,water_electricity_gas_and_other_fuels_weight_pct_of_1395_basket,"Water, electricity, gas and other fuels — weight_pct_of_1395_basket",sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,40.5,"index, 1395=100",household_furnishings_and_appliances_and_their_repair_and_maintenance_cpi_index_1395_100,Household furnishings and appliances and their repair and maintenance — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,3.93,percent of 1395 basket,household_furnishings_and_appliances_and_their_repair_and_maintenance_weight_pct_of_1395_basket,Household furnishings and appliances and their repair and maintenance — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",household_furnishings_and_appliances_and_their_repair_and_maintenance_cpi_index_1395_100,Household furnishings and appliances and their repair and maintenance — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,3.93,percent of 1395 basket,household_furnishings_and_appliances_and_their_repair_and_maintenance_weight_pct_of_1395_basket,Household furnishings and appliances and their repair and maintenance — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,105.4,"index, 1395=100",household_furnishings_and_appliances_and_their_repair_and_maintenance_cpi_index_1395_100,Household furnishings and appliances and their repair and maintenance — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,3.93,percent of 1395 basket,household_furnishings_and_appliances_and_their_repair_and_maintenance_weight_pct_of_1395_basket,Household furnishings and appliances and their repair and maintenance — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,150.7,"index, 1395=100",household_furnishings_and_appliances_and_their_repair_and_maintenance_cpi_index_1395_100,Household furnishings and appliances and their repair and maintenance — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,3.93,percent of 1395 basket,household_furnishings_and_appliances_and_their_repair_and_maintenance_weight_pct_of_1395_basket,Household furnishings and appliances and their repair and maintenance — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,225.0,"index, 1395=100",household_furnishings_and_appliances_and_their_repair_and_maintenance_cpi_index_1395_100,Household furnishings and appliances and their repair and maintenance — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,3.93,percent of 1395 basket,household_furnishings_and_appliances_and_their_repair_and_maintenance_weight_pct_of_1395_basket,Household furnishings and appliances and their repair and maintenance — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,329.6,"index, 1395=100",household_furnishings_and_appliances_and_their_repair_and_maintenance_cpi_index_1395_100,Household furnishings and appliances and their repair and maintenance — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,46.5,percent,household_furnishings_and_appliances_and_their_repair_and_maintenance_pct_change_1399_vs_1398,Household furnishings and appliances and their repair and maintenance — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,3.93,percent of 1395 basket,household_furnishings_and_appliances_and_their_repair_and_maintenance_weight_pct_of_1395_basket,Household furnishings and appliances and their repair and maintenance — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,38.8,"index, 1395=100",health_medical_care_cpi_index_1395_100,Health & medical care — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,7.14,percent of 1395 basket,health_medical_care_weight_pct_of_1395_basket,Health & medical care — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",health_medical_care_cpi_index_1395_100,Health & medical care — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,7.14,percent of 1395 basket,health_medical_care_weight_pct_of_1395_basket,Health & medical care — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,107.2,"index, 1395=100",health_medical_care_cpi_index_1395_100,Health & medical care — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,7.14,percent of 1395 basket,health_medical_care_weight_pct_of_1395_basket,Health & medical care — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,125.6,"index, 1395=100",health_medical_care_cpi_index_1395_100,Health & medical care — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,7.14,percent of 1395 basket,health_medical_care_weight_pct_of_1395_basket,Health & medical care — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,158.1,"index, 1395=100",health_medical_care_cpi_index_1395_100,Health & medical care — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,7.14,percent of 1395 basket,health_medical_care_weight_pct_of_1395_basket,Health & medical care — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,205.4,"index, 1395=100",health_medical_care_cpi_index_1395_100,Health & medical care — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,29.9,percent,health_medical_care_pct_change_1399_vs_1398,Health & medical care — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,7.14,percent of 1395 basket,health_medical_care_weight_pct_of_1395_basket,Health & medical care — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,42.7,"index, 1395=100",transportation_cpi_index_1395_100,Transportation — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,9.41,percent of 1395 basket,transportation_weight_pct_of_1395_basket,Transportation — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",transportation_cpi_index_1395_100,Transportation — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,9.41,percent of 1395 basket,transportation_weight_pct_of_1395_basket,Transportation — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,104.9,"index, 1395=100",transportation_cpi_index_1395_100,Transportation — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,9.41,percent of 1395 basket,transportation_weight_pct_of_1395_basket,Transportation — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,133.4,"index, 1395=100",transportation_cpi_index_1395_100,Transportation — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,9.41,percent of 1395 basket,transportation_weight_pct_of_1395_basket,Transportation — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,195.9,"index, 1395=100",transportation_cpi_index_1395_100,Transportation — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,9.41,percent of 1395 basket,transportation_weight_pct_of_1395_basket,Transportation — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,324.3,"index, 1395=100",transportation_cpi_index_1395_100,Transportation — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,65.6,percent,transportation_pct_change_1399_vs_1398,Transportation — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,9.41,percent of 1395 basket,transportation_weight_pct_of_1395_basket,Transportation — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,75.7,"index, 1395=100",communication_cpi_index_1395_100,Communication — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,2.87,percent of 1395 basket,communication_weight_pct_of_1395_basket,Communication — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",communication_cpi_index_1395_100,Communication — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,2.87,percent of 1395 basket,communication_weight_pct_of_1395_basket,Communication — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,103.1,"index, 1395=100",communication_cpi_index_1395_100,Communication — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,2.87,percent of 1395 basket,communication_weight_pct_of_1395_basket,Communication — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,127.1,"index, 1395=100",communication_cpi_index_1395_100,Communication — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,2.87,percent of 1395 basket,communication_weight_pct_of_1395_basket,Communication — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,146.7,"index, 1395=100",communication_cpi_index_1395_100,Communication — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,2.87,percent of 1395 basket,communication_weight_pct_of_1395_basket,Communication — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,170.8,"index, 1395=100",communication_cpi_index_1395_100,Communication — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,16.5,percent,communication_pct_change_1399_vs_1398,Communication — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,2.87,percent of 1395 basket,communication_weight_pct_of_1395_basket,Communication — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,39.9,"index, 1395=100",recreation_and_culture_cpi_index_1395_100,Recreation and culture — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,1.65,percent of 1395 basket,recreation_and_culture_weight_pct_of_1395_basket,Recreation and culture — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",recreation_and_culture_cpi_index_1395_100,Recreation and culture — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,1.65,percent of 1395 basket,recreation_and_culture_weight_pct_of_1395_basket,Recreation and culture — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,107.5,"index, 1395=100",recreation_and_culture_cpi_index_1395_100,Recreation and culture — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,1.65,percent of 1395 basket,recreation_and_culture_weight_pct_of_1395_basket,Recreation and culture — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,154.3,"index, 1395=100",recreation_and_culture_cpi_index_1395_100,Recreation and culture — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,1.65,percent of 1395 basket,recreation_and_culture_weight_pct_of_1395_basket,Recreation and culture — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,224.5,"index, 1395=100",recreation_and_culture_cpi_index_1395_100,Recreation and culture — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,1.65,percent of 1395 basket,recreation_and_culture_weight_pct_of_1395_basket,Recreation and culture — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,319.9,"index, 1395=100",recreation_and_culture_cpi_index_1395_100,Recreation and culture — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,42.5,percent,recreation_and_culture_pct_change_1399_vs_1398,Recreation and culture — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,1.65,percent of 1395 basket,recreation_and_culture_weight_pct_of_1395_basket,Recreation and culture — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,52.2,"index, 1395=100",education_cpi_index_1395_100,Education — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,1.86,percent of 1395 basket,education_weight_pct_of_1395_basket,Education — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",education_cpi_index_1395_100,Education — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,1.86,percent of 1395 basket,education_weight_pct_of_1395_basket,Education — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,111.3,"index, 1395=100",education_cpi_index_1395_100,Education — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,1.86,percent of 1395 basket,education_weight_pct_of_1395_basket,Education — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,130.8,"index, 1395=100",education_cpi_index_1395_100,Education — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,1.86,percent of 1395 basket,education_weight_pct_of_1395_basket,Education — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,159.3,"index, 1395=100",education_cpi_index_1395_100,Education — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,1.86,percent of 1395 basket,education_weight_pct_of_1395_basket,Education — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,193.7,"index, 1395=100",education_cpi_index_1395_100,Education — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,21.5,percent,education_pct_change_1399_vs_1398,Education — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,1.86,percent of 1395 basket,education_weight_pct_of_1395_basket,Education — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,38.7,"index, 1395=100",hotels_and_restaurants_cpi_index_1395_100,Hotels and restaurants — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,1.44,percent of 1395 basket,hotels_and_restaurants_weight_pct_of_1395_basket,Hotels and restaurants — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",hotels_and_restaurants_cpi_index_1395_100,Hotels and restaurants — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,1.44,percent of 1395 basket,hotels_and_restaurants_weight_pct_of_1395_basket,Hotels and restaurants — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,106.8,"index, 1395=100",hotels_and_restaurants_cpi_index_1395_100,Hotels and restaurants — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,1.44,percent of 1395 basket,hotels_and_restaurants_weight_pct_of_1395_basket,Hotels and restaurants — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,129.9,"index, 1395=100",hotels_and_restaurants_cpi_index_1395_100,Hotels and restaurants — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,1.44,percent of 1395 basket,hotels_and_restaurants_weight_pct_of_1395_basket,Hotels and restaurants — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,182.0,"index, 1395=100",hotels_and_restaurants_cpi_index_1395_100,Hotels and restaurants — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,1.44,percent of 1395 basket,hotels_and_restaurants_weight_pct_of_1395_basket,Hotels and restaurants — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,236.0,"index, 1395=100",hotels_and_restaurants_cpi_index_1395_100,Hotels and restaurants — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,29.7,percent,hotels_and_restaurants_pct_change_1399_vs_1398,Hotels and restaurants — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,1.44,percent of 1395 basket,hotels_and_restaurants_weight_pct_of_1395_basket,Hotels and restaurants — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
 IRN,Iran,2011,41.0,"index, 1395=100",miscellaneous_goods_and_services_cpi_index_1395_100,Miscellaneous goods and services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,4.18,percent of 1395 basket,miscellaneous_goods_and_services_weight_pct_of_1395_basket,Miscellaneous goods and services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
 IRN,Iran,2016,100,"index, 1395=100",miscellaneous_goods_and_services_cpi_index_1395_100,Miscellaneous goods and services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,4.18,percent of 1395 basket,miscellaneous_goods_and_services_weight_pct_of_1395_basket,Miscellaneous goods and services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
 IRN,Iran,2017,107.9,"index, 1395=100",miscellaneous_goods_and_services_cpi_index_1395_100,Miscellaneous goods and services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,4.18,percent of 1395 basket,miscellaneous_goods_and_services_weight_pct_of_1395_basket,Miscellaneous goods and services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
 IRN,Iran,2018,145.4,"index, 1395=100",miscellaneous_goods_and_services_cpi_index_1395_100,Miscellaneous goods and services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,4.18,percent of 1395 basket,miscellaneous_goods_and_services_weight_pct_of_1395_basket,Miscellaneous goods and services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
 IRN,Iran,2019,199.5,"index, 1395=100",miscellaneous_goods_and_services_cpi_index_1395_100,Miscellaneous goods and services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,4.18,percent of 1395 basket,miscellaneous_goods_and_services_weight_pct_of_1395_basket,Miscellaneous goods and services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
 IRN,Iran,2020,274.2,"index, 1395=100",miscellaneous_goods_and_services_cpi_index_1395_100,Miscellaneous goods and services — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,37.4,percent,miscellaneous_goods_and_services_pct_change_1399_vs_1398,Miscellaneous goods and services — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,4.18,percent of 1395 basket,miscellaneous_goods_and_services_weight_pct_of_1395_basket,Miscellaneous goods and services — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,47.0,"index, 1395=100",goods_special_group_cpi_index_1395_100,Goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,50.87,percent of 1395 basket,goods_special_group_weight_pct_of_1395_basket,Goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",goods_special_group_cpi_index_1395_100,Goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,50.87,percent of 1395 basket,goods_special_group_weight_pct_of_1395_basket,Goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,109.4,"index, 1395=100",goods_special_group_cpi_index_1395_100,Goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,50.87,percent of 1395 basket,goods_special_group_weight_pct_of_1395_basket,Goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,147.8,"index, 1395=100",goods_special_group_cpi_index_1395_100,Goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,50.87,percent of 1395 basket,goods_special_group_weight_pct_of_1395_basket,Goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,213.0,"index, 1395=100",goods_special_group_cpi_index_1395_100,Goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,50.87,percent of 1395 basket,goods_special_group_weight_pct_of_1395_basket,Goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,305.8,"index, 1395=100",goods_special_group_cpi_index_1395_100,Goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,43.5,percent,goods_special_group_pct_change_1399_vs_1398,Goods (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,50.87,percent of 1395 basket,goods_special_group_weight_pct_of_1395_basket,Goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,5.46,percent of 1395 basket,durable_goods_special_group_weight_pct_of_1395_basket,Durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",durable_goods_special_group_cpi_index_1395_100,Durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,5.46,percent of 1395 basket,durable_goods_special_group_weight_pct_of_1395_basket,Durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,105.4,"index, 1395=100",durable_goods_special_group_cpi_index_1395_100,Durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,5.46,percent of 1395 basket,durable_goods_special_group_weight_pct_of_1395_basket,Durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,166.6,"index, 1395=100",durable_goods_special_group_cpi_index_1395_100,Durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,5.46,percent of 1395 basket,durable_goods_special_group_weight_pct_of_1395_basket,Durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,259.2,"index, 1395=100",durable_goods_special_group_cpi_index_1395_100,Durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,5.46,percent of 1395 basket,durable_goods_special_group_weight_pct_of_1395_basket,Durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,470.8,"index, 1395=100",durable_goods_special_group_cpi_index_1395_100,Durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,81.6,percent,durable_goods_special_group_pct_change_1399_vs_1398,Durable goods (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,5.46,percent of 1395 basket,durable_goods_special_group_weight_pct_of_1395_basket,Durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,40.33,percent of 1395 basket,non_durable_goods_special_group_weight_pct_of_1395_basket,Non-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",non_durable_goods_special_group_cpi_index_1395_100,Non-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,40.33,percent of 1395 basket,non_durable_goods_special_group_weight_pct_of_1395_basket,Non-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,110.3,"index, 1395=100",non_durable_goods_special_group_cpi_index_1395_100,Non-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,40.33,percent of 1395 basket,non_durable_goods_special_group_weight_pct_of_1395_basket,Non-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,145.7,"index, 1395=100",non_durable_goods_special_group_cpi_index_1395_100,Non-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,40.33,percent of 1395 basket,non_durable_goods_special_group_weight_pct_of_1395_basket,Non-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,206.8,"index, 1395=100",non_durable_goods_special_group_cpi_index_1395_100,Non-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,40.33,percent of 1395 basket,non_durable_goods_special_group_weight_pct_of_1395_basket,Non-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,283.2,"index, 1395=100",non_durable_goods_special_group_cpi_index_1395_100,Non-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,37.0,percent,non_durable_goods_special_group_pct_change_1399_vs_1398,Non-durable goods (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,40.33,percent of 1395 basket,non_durable_goods_special_group_weight_pct_of_1395_basket,Non-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,5.08,percent of 1395 basket,semi_durable_goods_special_group_weight_pct_of_1395_basket,Semi-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",semi_durable_goods_special_group_cpi_index_1395_100,Semi-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,5.08,percent of 1395 basket,semi_durable_goods_special_group_weight_pct_of_1395_basket,Semi-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,106.1,"index, 1395=100",semi_durable_goods_special_group_cpi_index_1395_100,Semi-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,5.08,percent of 1395 basket,semi_durable_goods_special_group_weight_pct_of_1395_basket,Semi-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,144.0,"index, 1395=100",semi_durable_goods_special_group_cpi_index_1395_100,Semi-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,5.08,percent of 1395 basket,semi_durable_goods_special_group_weight_pct_of_1395_basket,Semi-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,213.1,"index, 1395=100",semi_durable_goods_special_group_cpi_index_1395_100,Semi-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,5.08,percent of 1395 basket,semi_durable_goods_special_group_weight_pct_of_1395_basket,Semi-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,307.7,"index, 1395=100",semi_durable_goods_special_group_cpi_index_1395_100,Semi-durable goods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,44.4,percent,semi_durable_goods_special_group_pct_change_1399_vs_1398,Semi-durable goods (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,5.08,percent of 1395 basket,semi_durable_goods_special_group_weight_pct_of_1395_basket,Semi-durable goods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,38.9,"index, 1395=100",services_special_group_cpi_index_1395_100,Services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,49.13,percent of 1395 basket,services_special_group_weight_pct_of_1395_basket,Services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",services_special_group_cpi_index_1395_100,Services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,49.13,percent of 1395 basket,services_special_group_weight_pct_of_1395_basket,Services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,107.1,"index, 1395=100",services_special_group_cpi_index_1395_100,Services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,49.13,percent of 1395 basket,services_special_group_weight_pct_of_1395_basket,Services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,126.5,"index, 1395=100",services_special_group_cpi_index_1395_100,Services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,49.13,percent of 1395 basket,services_special_group_weight_pct_of_1395_basket,Services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,156.2,"index, 1395=100",services_special_group_cpi_index_1395_100,Services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,49.13,percent of 1395 basket,services_special_group_weight_pct_of_1395_basket,Services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,197.4,"index, 1395=100",services_special_group_cpi_index_1395_100,Services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,26.4,percent,services_special_group_pct_change_1399_vs_1398,Services (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,49.13,percent of 1395 basket,services_special_group_weight_pct_of_1395_basket,Services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,12.6,percent of 1395 basket,fresh_foods_special_group_weight_pct_of_1395_basket,Fresh foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",fresh_foods_special_group_cpi_index_1395_100,Fresh foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,12.6,percent of 1395 basket,fresh_foods_special_group_weight_pct_of_1395_basket,Fresh foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,116.9,"index, 1395=100",fresh_foods_special_group_cpi_index_1395_100,Fresh foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,12.6,percent of 1395 basket,fresh_foods_special_group_weight_pct_of_1395_basket,Fresh foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,168.4,"index, 1395=100",fresh_foods_special_group_cpi_index_1395_100,Fresh foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,12.6,percent of 1395 basket,fresh_foods_special_group_weight_pct_of_1395_basket,Fresh foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,243.4,"index, 1395=100",fresh_foods_special_group_cpi_index_1395_100,Fresh foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,12.6,percent of 1395 basket,fresh_foods_special_group_weight_pct_of_1395_basket,Fresh foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,328.5,"index, 1395=100",fresh_foods_special_group_cpi_index_1395_100,Fresh foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,34.9,percent,fresh_foods_special_group_pct_change_1399_vs_1398,Fresh foods (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,12.6,percent of 1395 basket,fresh_foods_special_group_weight_pct_of_1395_basket,Fresh foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,12.95,percent of 1395 basket,other_foods_special_group_weight_pct_of_1395_basket,Other foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",other_foods_special_group_cpi_index_1395_100,Other foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,12.95,percent of 1395 basket,other_foods_special_group_weight_pct_of_1395_basket,Other foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,107.6,"index, 1395=100",other_foods_special_group_cpi_index_1395_100,Other foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,12.95,percent of 1395 basket,other_foods_special_group_weight_pct_of_1395_basket,Other foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,138.0,"index, 1395=100",other_foods_special_group_cpi_index_1395_100,Other foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,12.95,percent of 1395 basket,other_foods_special_group_weight_pct_of_1395_basket,Other foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,192.8,"index, 1395=100",other_foods_special_group_cpi_index_1395_100,Other foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,12.95,percent of 1395 basket,other_foods_special_group_weight_pct_of_1395_basket,Other foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,276.9,"index, 1395=100",other_foods_special_group_cpi_index_1395_100,Other foods (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,43.6,percent,other_foods_special_group_pct_change_1399_vs_1398,Other foods (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,12.95,percent of 1395 basket,other_foods_special_group_weight_pct_of_1395_basket,Other foods (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,8.77,percent of 1395 basket,public_goods_and_services_special_group_weight_pct_of_1395_basket,Public goods and services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",public_goods_and_services_special_group_cpi_index_1395_100,Public goods and services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,8.77,percent of 1395 basket,public_goods_and_services_special_group_weight_pct_of_1395_basket,Public goods and services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,106.3,"index, 1395=100",public_goods_and_services_special_group_cpi_index_1395_100,Public goods and services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,8.77,percent of 1395 basket,public_goods_and_services_special_group_weight_pct_of_1395_basket,Public goods and services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,111.6,"index, 1395=100",public_goods_and_services_special_group_cpi_index_1395_100,Public goods and services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,8.77,percent of 1395 basket,public_goods_and_services_special_group_weight_pct_of_1395_basket,Public goods and services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,140.4,"index, 1395=100",public_goods_and_services_special_group_cpi_index_1395_100,Public goods and services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,8.77,percent of 1395 basket,public_goods_and_services_special_group_weight_pct_of_1395_basket,Public goods and services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,167.4,"index, 1395=100",public_goods_and_services_special_group_cpi_index_1395_100,Public goods and services (special group) — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,19.2,percent,public_goods_and_services_special_group_pct_change_1399_vs_1398,Public goods and services (special group) — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,8.77,percent of 1395 basket,public_goods_and_services_special_group_weight_pct_of_1395_basket,Public goods and services (special group) — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2011,40.3,"index, 1395=100",general_index_minus_rental_value_of_owned_residential_housing_units_cpi_index_1395_100,General index minus rental value of owned-residential housing units — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2011,69.28,percent of 1395 basket,general_index_minus_rental_value_of_owned_residential_housing_units_weight_pct_of_1395_basket,General index minus rental value of owned-residential housing units — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1390
-IRN,Iran,2016,100,"index, 1395=100",general_index_minus_rental_value_of_owned_residential_housing_units_cpi_index_1395_100,General index minus rental value of owned-residential housing units — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2016,69.28,percent of 1395 basket,general_index_minus_rental_value_of_owned_residential_housing_units_weight_pct_of_1395_basket,General index minus rental value of owned-residential housing units — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1395
-IRN,Iran,2017,108.8,"index, 1395=100",general_index_minus_rental_value_of_owned_residential_housing_units_cpi_index_1395_100,General index minus rental value of owned-residential housing units — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2017,69.28,percent of 1395 basket,general_index_minus_rental_value_of_owned_residential_housing_units_weight_pct_of_1395_basket,General index minus rental value of owned-residential housing units — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1396
-IRN,Iran,2018,142.0,"index, 1395=100",general_index_minus_rental_value_of_owned_residential_housing_units_cpi_index_1395_100,General index minus rental value of owned-residential housing units — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2018,69.28,percent of 1395 basket,general_index_minus_rental_value_of_owned_residential_housing_units_weight_pct_of_1395_basket,General index minus rental value of owned-residential housing units — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1397
-IRN,Iran,2019,198.2,"index, 1395=100",general_index_minus_rental_value_of_owned_residential_housing_units_cpi_index_1395_100,General index minus rental value of owned-residential housing units — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2019,69.28,percent of 1395 basket,general_index_minus_rental_value_of_owned_residential_housing_units_weight_pct_of_1395_basket,General index minus rental value of owned-residential housing units — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1398
-IRN,Iran,2020,276.7,"index, 1395=100",general_index_minus_rental_value_of_owned_residential_housing_units_cpi_index_1395_100,General index minus rental value of owned-residential housing units — cpi_index_1395_100,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,39.6,percent,general_index_minus_rental_value_of_owned_residential_housing_units_pct_change_1399_vs_1398,General index minus rental value of owned-residential housing units — pct_change_1399_vs_1398,sci-amar:statistical-yearbook-1399,1399
-IRN,Iran,2020,69.28,percent of 1395 basket,general_index_minus_rental_value_of_owned_residential_housing_units_weight_pct_of_1395_basket,General index minus rental value of owned-residential housing units — weight_pct_of_1395_basket,sci-amar:statistical-yearbook-1399,1399

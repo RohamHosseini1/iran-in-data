@@ -1,16 +1,9 @@
 {
-  "chart_id": "pahlavi__electric_power_generation_by_use_1968_72",
   "title": "Electric Power Generation by End-Use (incl. Residential), 1968-1972",
+  "title_fa": "تولید برق به تفکیک مصرف نهایی (شامل مصرف خانگی)، 1968-1972",
   "category": "Energy",
+  "category_fa": "انرژی",
   "sources": "pahlavi-era-primary-extraction",
-  "n_rows": 210,
-  "year_range": [
-    "1968",
-    "1972"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Ministry of Water and Power (Iran)",
@@ -20,6 +13,13 @@
       "match_confidence": "fuzzy:6tok:wb1974-electric-power-generation-by-use-1968-1972"
     }
   ],
-  "category_fa": "انرژی",
-  "title_fa": "تولید برق به تفکیک مصرف نهایی (شامل مصرف خانگی)، 1968-1972"
+  "chart_id": "pahlavi__electric_power_generation_by_use_1968_72",
+  "n_rows": 30,
+  "year_range": [
+    "1968",
+    "1972"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

@@ -1,16 +1,9 @@
 {
-  "chart_id": "pahlavi__imports_by_commodity_value_1956_59",
   "title": "Merchandise Imports by Commodity (Value, USD), 1956/57-1958/59",
+  "title_fa": "واردات کالا به تفکیک قلم کالایی (ارزش به دلار آمریکا)، 1956/57-1958/59",
   "category": "Trade (Imports)",
+  "category_fa": "تجارت (واردات)",
   "sources": "pahlavi-era-primary-extraction",
-  "n_rows": 120,
-  "year_range": [
-    "1957",
-    "1959"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "International Bank for Reconstruction and Development (World Bank)",
@@ -20,6 +13,13 @@
       "match_confidence": "fuzzy:4tok:wb1960-imports-by-commodities-1956-1959"
     }
   ],
-  "category_fa": "تجارت (واردات)",
-  "title_fa": "واردات کالا به تفکیک قلم کالایی (ارزش به دلار آمریکا)، 1956/57-1958/59"
+  "chart_id": "pahlavi__imports_by_commodity_value_1956_59",
+  "n_rows": 60,
+  "year_range": [
+    "1957",
+    "1959"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

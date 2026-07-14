@@ -39490,7 +39490,7 @@
       }
     ],
     "data_path": "data/charts/iran_disasters__employed_by_occupation_gender_2005_2013/data.csv",
-    "row_count": 891,
+    "row_count": 99,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39574,7 +39574,7 @@
       }
     ],
     "data_path": "data/charts/iran_disasters__registered_births_by_sex_1991_2006/data.csv",
-    "row_count": 342,
+    "row_count": 72,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39604,8 +39604,8 @@
     ],
     "data_path": "data/charts/iran_disasters__registered_marriages_divorces_1991_2006/data.csv",
     "row_count": 228,
-    "status": "new",
-    "merged_into": null,
+    "status": "merged",
+    "merged_into": "iran_vital__registered_marriages_1991_2006",
     "materialized": true
   },
   {
@@ -39691,7 +39691,7 @@
       }
     ],
     "data_path": "data/charts/iran_energy__national_balance_1386_1394/data.csv",
-    "row_count": 772,
+    "row_count": 108,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40116,6 +40116,35 @@
     "materialized": true
   },
   {
+    "chart_id": "iran_imidro__exports_by_product_group_2011_2015",
+    "title": "IMIDRO Subsidiary Exports by Product Group",
+    "title_fa": "صادرات شرکت‌های ایمیدرو به تفکیک گروه محصول",
+    "category": "Trade & Investment",
+    "category_fa": "تجارت و سرمایه‌گذاری",
+    "description": "Split from iran_imidro__sales_export_by_group_2011_2015 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2012",
+      "2014"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "imidro-iran",
+    "citations": [
+      {
+        "source_org": "Iran Mines and Mineral Industries Development and Renovation Organization (IMIDRO)",
+        "source_url": "https://imidro.gov.ir",
+        "access_date": "2026-07-13",
+        "time_range": "FY2011/12-2013/14"
+      }
+    ],
+    "data_path": "data/charts/iran_imidro__exports_by_product_group_2011_2015/data.csv",
+    "row_count": 20,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
     "chart_id": "iran_imidro__production_performance_2011_2015",
     "title": "IMIDRO Subsidiary Production Performance vs. Budget & Plan (2011-2015)",
     "title_fa": "عملکرد تولید شرکت‌های تابعه IMIDRO در برابر بودجه و برنامه (2011-2015)",
@@ -40145,6 +40174,35 @@
     "materialized": true
   },
   {
+    "chart_id": "iran_imidro__sales_by_product_group_2011_2015",
+    "title": "IMIDRO Subsidiary Sales by Product Group",
+    "title_fa": "فروش شرکت‌های ایمیدرو به تفکیک گروه محصول",
+    "category": "Trade & Investment",
+    "category_fa": "تجارت و سرمایه‌گذاری",
+    "description": "Split from iran_imidro__sales_export_by_group_2011_2015 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2012",
+      "2014"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "imidro-iran",
+    "citations": [
+      {
+        "source_org": "Iran Mines and Mineral Industries Development and Renovation Organization (IMIDRO)",
+        "source_url": "https://imidro.gov.ir",
+        "access_date": "2026-07-13",
+        "time_range": "FY2011/12-2013/14"
+      }
+    ],
+    "data_path": "data/charts/iran_imidro__sales_by_product_group_2011_2015/data.csv",
+    "row_count": 27,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
     "chart_id": "iran_imidro__sales_export_by_group_2011_2015",
     "title": "IMIDRO Subsidiary Sales & Export Volume/Value by Industrial Group",
     "title_fa": "حجم و ارزش فروش و صادرات شرکت‌های تابعه IMIDRO به تفکیک گروه صنعتی",
@@ -40169,8 +40227,8 @@
     ],
     "data_path": "data/charts/iran_imidro__sales_export_by_group_2011_2015/data.csv",
     "row_count": 81,
-    "status": "new",
-    "merged_into": null,
+    "status": "merged",
+    "merged_into": "iran_imidro__sales_by_product_group_2011_2015",
     "materialized": true
   },
   {
@@ -40316,7 +40374,7 @@
       }
     ],
     "data_path": "data/charts/iran_insurance__bmi_own_financial_highlights_1386_1391/data.csv",
-    "row_count": 210,
+    "row_count": 96,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40346,6 +40404,64 @@
     ],
     "data_path": "data/charts/iran_insurance__companies_by_ownership_1385_1391/data.csv",
     "row_count": 90,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_insurance__earned_premium_by_class_1383_1389",
+    "title": "Insurance Earned Premium by Class",
+    "title_fa": "حق بیمه عایدشده به تفکیک رشته",
+    "category": "Financial Sector / Insurance",
+    "category_fa": "بخش مالی / بیمه",
+    "description": "Split from iran_insurance__premium_loss_by_class_1383_1389 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2004",
+      "2010"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "bimeh-markazi-iran",
+    "citations": [
+      {
+        "source_org": "Central Insurance of the Islamic Republic of Iran (Bimeh Markazi Iran)",
+        "source_url": "https://en.centinsur.ir",
+        "access_date": "2026-07-13",
+        "time_range": "1383-1384, 1388-1389"
+      }
+    ],
+    "data_path": "data/charts/iran_insurance__earned_premium_by_class_1383_1389/data.csv",
+    "row_count": 40,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_insurance__incurred_loss_by_class_1383_1389",
+    "title": "Insurance Incurred Loss by Class",
+    "title_fa": "خسارت واقع‌شده به تفکیک رشته",
+    "category": "Financial Sector / Insurance",
+    "category_fa": "بخش مالی / بیمه",
+    "description": "Split from iran_insurance__premium_loss_by_class_1383_1389 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2004",
+      "2010"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "bimeh-markazi-iran",
+    "citations": [
+      {
+        "source_org": "Central Insurance of the Islamic Republic of Iran (Bimeh Markazi Iran)",
+        "source_url": "https://en.centinsur.ir",
+        "access_date": "2026-07-13",
+        "time_range": "1383-1384, 1388-1389"
+      }
+    ],
+    "data_path": "data/charts/iran_insurance__incurred_loss_by_class_1383_1389/data.csv",
+    "row_count": 40,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40433,8 +40549,8 @@
     ],
     "data_path": "data/charts/iran_insurance__premium_loss_by_class_1383_1389/data.csv",
     "row_count": 162,
-    "status": "new",
-    "merged_into": null,
+    "status": "merged",
+    "merged_into": "iran_insurance__earned_premium_by_class_1383_1389",
     "materialized": true
   },
   {
@@ -40619,8 +40735,8 @@
     "category_fa": "رسانه و فرهنگ",
     "description": "Films screened/produced/distributed by origin country, production-company spend, censorship (films inspected/banned/rejected).",
     "year_range": [
-      "1941",
-      "1982"
+      "1955",
+      "1976"
     ],
     "countries": [
       "IRN"
@@ -40635,7 +40751,7 @@
       }
     ],
     "data_path": "data/charts/iran_media__film_production_industry_1941_1982/data.csv",
-    "row_count": 34,
+    "row_count": 12,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41221,6 +41337,93 @@
     "materialized": true
   },
   {
+    "chart_id": "iran_provincial__bank_loan_deposit_ratio_1397_1401",
+    "title": "Bank Loan-to-Deposit Ratio by Province",
+    "title_fa": "نسبت تسهیلات به سپرده بانکی به تفکیک استان",
+    "category": "Financial Sector / Insurance",
+    "category_fa": "بخش مالی / بیمه",
+    "description": "Split from iran_provincial__financial_markets_insurance_1397_1401 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2019",
+      "2023"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__bank_loan_deposit_ratio_1397_1401/data.csv",
+    "row_count": 160,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_provincial__capital_expenditure_share_1397_1401",
+    "title": "Capital Expenditure Budget Execution Share by Province",
+    "title_fa": "سهم اجرای بودجه عمرانی به تفکیک استان",
+    "category": "Government Finance",
+    "category_fa": "مالیه دولت",
+    "description": "Split from iran_provincial__government_budget_execution_1397_1401 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2018",
+      "2022"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__capital_expenditure_share_1397_1401/data.csv",
+    "row_count": 160,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_provincial__current_expenditure_share_1397_1401",
+    "title": "Current Expenditure Budget Execution Share by Province",
+    "title_fa": "سهم اجرای بودجه جاری به تفکیک استان",
+    "category": "Government Finance",
+    "category_fa": "مالیه دولت",
+    "description": "Split from iran_provincial__government_budget_execution_1397_1401 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2018",
+      "2022"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__current_expenditure_share_1397_1401/data.csv",
+    "row_count": 160,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
     "chart_id": "iran_provincial__financial_markets_insurance_1397_1401",
     "title": "Financial Markets Indicators by Province (SH1397-1401)",
     "title_fa": "شاخص‌های بازارهای مالی به تفکیک استان (SH1397-1401)",
@@ -41245,8 +41448,8 @@
     ],
     "data_path": "data/charts/iran_provincial__financial_markets_insurance_1397_1401/data.csv",
     "row_count": 640,
-    "status": "new",
-    "merged_into": null,
+    "status": "merged",
+    "merged_into": "iran_provincial__bank_loan_deposit_ratio_1397_1401",
     "materialized": true
   },
   {
@@ -41332,6 +41535,64 @@
     ],
     "data_path": "data/charts/iran_provincial__government_budget_execution_1397_1401/data.csv",
     "row_count": 320,
+    "status": "merged",
+    "merged_into": "iran_provincial__capital_expenditure_share_1397_1401",
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_provincial__industrial_production_value_share_1396_1400",
+    "title": "Industrial Production Value Share by Province",
+    "title_fa": "سهم ارزش تولید صنعتی به تفکیک استان",
+    "category": "Industry / Value Added by Sector",
+    "category_fa": "صنعت / ارزش افزوده بخشی",
+    "description": "Split from iran_provincial__industry_workshops_1396_1400 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2017",
+      "2021"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__industrial_production_value_share_1396_1400/data.csv",
+    "row_count": 160,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_provincial__industrial_workshop_count_share_1396_1400",
+    "title": "Industrial Workshop Count Share by Province",
+    "title_fa": "سهم تعداد کارگاه صنعتی به تفکیک استان",
+    "category": "Industry / Value Added by Sector",
+    "category_fa": "صنعت / ارزش افزوده بخشی",
+    "description": "Split from iran_provincial__industry_workshops_1396_1400 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2017",
+      "2021"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__industrial_workshop_count_share_1396_1400/data.csv",
+    "row_count": 160,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41342,7 +41603,7 @@
     "title_fa": "ارزش تولید صنعتی و سهم تعداد کارگاه‌ها به تفکیک استان (کارگاه‌های با 10 کارکن و بیشتر)",
     "category": "Industry / Value Added by Sector",
     "category_fa": "صنعت / ارزش افزوده بخشی",
-    "description": "Industrial Production Value & Workshop Count Share by Province (10+ Employee Workshops)",
+    "description": "2026-07-14 variant-trim: split into iran_provincial__industrial_production_value_share_1396_1400, iran_provincial__industrial_workshop_count_share_1396_1400",
     "year_range": [
       "2017",
       "2021"
@@ -41361,6 +41622,93 @@
     ],
     "data_path": "data/charts/iran_provincial__industry_workshops_1396_1400/data.csv",
     "row_count": 320,
+    "status": "merged",
+    "merged_into": "iran_provincial__industrial_production_value_share_1396_1400",
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_provincial__insurance_claims_paid_share_1397_1401",
+    "title": "Insurance Claims Paid Share by Province",
+    "title_fa": "سهم خسارت پرداختی بیمه به تفکیک استان",
+    "category": "Financial Sector / Insurance",
+    "category_fa": "بخش مالی / بیمه",
+    "description": "Split from iran_provincial__financial_markets_insurance_1397_1401 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2018",
+      "2022"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__insurance_claims_paid_share_1397_1401/data.csv",
+    "row_count": 160,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_provincial__insurance_premium_per_capita_1397_1401",
+    "title": "Insurance Premium per Capita by Province",
+    "title_fa": "حق بیمه سرانه به تفکیک استان",
+    "category": "Financial Sector / Insurance",
+    "category_fa": "بخش مالی / بیمه",
+    "description": "Split from iran_provincial__financial_markets_insurance_1397_1401 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2018",
+      "2022"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__insurance_premium_per_capita_1397_1401/data.csv",
+    "row_count": 160,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_provincial__insurance_premium_written_share_1397_1401",
+    "title": "Insurance Premium Written Share by Province",
+    "title_fa": "سهم حق بیمه صادرشده به تفکیک استان",
+    "category": "Financial Sector / Insurance",
+    "category_fa": "بخش مالی / بیمه",
+    "description": "Split from iran_provincial__financial_markets_insurance_1397_1401 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "2018",
+      "2022"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-provincial-standing-indicators",
+    "citations": [
+      {
+        "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+        "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+        "access_date": "2026-07-12",
+        "time_range": ""
+      }
+    ],
+    "data_path": "data/charts/iran_provincial__insurance_premium_written_share_1397_1401/data.csv",
+    "row_count": 160,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41540,7 +41888,7 @@
       }
     ],
     "data_path": "data/charts/iran_sci1399__cpi_by_coicop_group_1390_1399/data.csv",
-    "row_count": 488,
+    "row_count": 78,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41570,7 +41918,7 @@
       }
     ],
     "data_path": "data/charts/iran_sci1399__gdp_by_expenditure_component_1390_1397/data.csv",
-    "row_count": 318,
+    "row_count": 72,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41599,7 +41947,7 @@
       }
     ],
     "data_path": "data/charts/iran_sci1399__gdp_value_added_by_sector_1390_1397/data.csv",
-    "row_count": 330,
+    "row_count": 228,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41629,7 +41977,7 @@
       }
     ],
     "data_path": "data/charts/iran_sci1399__government_budget_summary_1385_1400/data.csv",
-    "row_count": 224,
+    "row_count": 80,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41658,7 +42006,7 @@
       }
     ],
     "data_path": "data/charts/iran_sci1399__labor_force_indicators_1380_1399/data.csv",
-    "row_count": 567,
+    "row_count": 93,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41746,7 +42094,7 @@
     ],
     "data_path": "data/charts/iran_telecom__radio_tv_ownership_1940_1989/data.csv",
     "row_count": 18,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42106,6 +42454,64 @@
     ],
     "data_path": "data/charts/iran_vehicle_registration_by_type_1955_1972/data.csv",
     "row_count": 98,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_vital__registered_divorces_1991_2006",
+    "title": "Registered Divorces",
+    "title_fa": "طلاق‌های ثبت‌شده",
+    "category": "Social Statistics (Marriage & Vital Registration)",
+    "category_fa": "آمار اجتماعی (ازدواج و ثبت احوال)",
+    "description": "Split from iran_disasters__registered_marriages_divorces_1991_2006 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "1991",
+      "2006"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "iran-data-portal",
+    "citations": [
+      {
+        "source_org": "Iran Data Portal, Syracuse University (Persian source: Statistical Centre of Iran, national population & housing censuses and civil registration)",
+        "source_url": "https://irandataportal.syr.edu/population/",
+        "access_date": "2026-07-13",
+        "time_range": "1991-2006"
+      }
+    ],
+    "data_path": "data/charts/iran_vital__registered_divorces_1991_2006/data.csv",
+    "row_count": 24,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_vital__registered_marriages_1991_2006",
+    "title": "Registered Marriages",
+    "title_fa": "ازدواج‌های ثبت‌شده",
+    "category": "Social Statistics (Marriage & Vital Registration)",
+    "category_fa": "آمار اجتماعی (ازدواج و ثبت احوال)",
+    "description": "Split from iran_disasters__registered_marriages_divorces_1991_2006 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "1991",
+      "2006"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "iran-data-portal",
+    "citations": [
+      {
+        "source_org": "Iran Data Portal, Syracuse University (Persian source: Statistical Centre of Iran, national population & housing censuses and civil registration)",
+        "source_url": "https://irandataportal.syr.edu/population/",
+        "access_date": "2026-07-13",
+        "time_range": "1991-2006"
+      }
+    ],
+    "data_path": "data/charts/iran_vital__registered_marriages_1991_2006/data.csv",
+    "row_count": 24,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43037,7 +43443,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__consortium_disbursements_1954_62/data.csv",
-    "row_count": 104,
+    "row_count": 43,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43157,7 +43563,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__electric_power_generation_by_use_1968_72/data.csv",
-    "row_count": 210,
+    "row_count": 30,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43187,7 +43593,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__exports_by_commodity_value_1956_59/data.csv",
-    "row_count": 90,
+    "row_count": 45,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43307,7 +43713,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__imports_by_commodity_value_1956_59/data.csv",
-    "row_count": 120,
+    "row_count": 60,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43367,7 +43773,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__monetary_aggregates_movements_1963_73/data.csv",
-    "row_count": 429,
+    "row_count": 264,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43397,7 +43803,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__monetary_survey_1963_70/data.csv",
-    "row_count": 408,
+    "row_count": 252,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43427,7 +43833,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__money_quasi_money_changes_1965_71/data.csv",
-    "row_count": 439,
+    "row_count": 264,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43457,7 +43863,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__money_supply_changes_1957_59/data.csv",
-    "row_count": 100,
+    "row_count": 35,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43823,6 +44229,36 @@
     "materialized": true
   },
   {
+    "chart_id": "pahlavi_hh__dairy_consumption_by_type_1972_1977",
+    "title": "Dairy Product Consumption by Type",
+    "title_fa": "مصرف فرآورده‌های لبنی به تفکیک نوع",
+    "category": "Household Consumption & Expenditure",
+    "category_fa": "مصرف و هزینه خانوار",
+    "description": "Split from pahlavi_hh__dairy_consumption_supply_1972_1977 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "1972",
+      "1977"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "pahlavi-era-primary-extraction",
+    "citations": [
+      {
+        "source_org": "International Bank for Reconstruction and Development (World Bank) Agricultural Task Force (IBRD)",
+        "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+        "access_date": "2026-07-13",
+        "time_range": "",
+        "match_confidence": "fuzzy:4tok:wb1974-dairy-consumption-patterns-1972-1977"
+      }
+    ],
+    "data_path": "data/charts/pahlavi_hh__dairy_consumption_by_type_1972_1977/data.csv",
+    "row_count": 18,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
     "chart_id": "pahlavi_hh__dairy_consumption_supply_1972_1977",
     "title": "Dairy Product Consumption & Livestock Supply (1972, 1977p)",
     "title_fa": "مصرف فرآورده‌های لبنی و عرضه دام (1972، پیش‌بینی 1977)",
@@ -43848,8 +44284,8 @@
     ],
     "data_path": "data/charts/pahlavi_hh__dairy_consumption_supply_1972_1977/data.csv",
     "row_count": 94,
-    "status": "new",
-    "merged_into": null,
+    "status": "merged",
+    "merged_into": "pahlavi_hh__dairy_consumption_by_type_1972_1977",
     "materialized": true
   },
   {
@@ -43907,7 +44343,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi_hh__expenditure_levels_rials_1965_1971/data.csv",
-    "row_count": 196,
+    "row_count": 70,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43937,7 +44373,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi_hh__expenditure_shares_by_category_1965_1971/data.csv",
-    "row_count": 182,
+    "row_count": 70,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43969,6 +44405,36 @@
     "data_path": "data/charts/pahlavi_hh__food_demand_actual_projected_1972_1982/data.csv",
     "row_count": 153,
     "status": "merged",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "pahlavi_hh__milk_supply_by_source_1972_1977",
+    "title": "Milk Supply by Animal Source",
+    "title_fa": "عرضه شیر به تفکیک منبع دامی",
+    "category": "Household Consumption & Expenditure",
+    "category_fa": "مصرف و هزینه خانوار",
+    "description": "Split from pahlavi_hh__dairy_consumption_supply_1972_1977 by the 2026-07-14 variant-trim pass (parent jammed multiple distinct measures into one chart).",
+    "year_range": [
+      "1972",
+      "1977"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "pahlavi-era-primary-extraction",
+    "citations": [
+      {
+        "source_org": "International Bank for Reconstruction and Development (World Bank) Agricultural Task Force (IBRD)",
+        "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+        "access_date": "2026-07-13",
+        "time_range": "",
+        "match_confidence": "fuzzy:4tok:wb1974-dairy-consumption-patterns-1972-1977"
+      }
+    ],
+    "data_path": "data/charts/pahlavi_hh__milk_supply_by_source_1972_1977/data.csv",
+    "row_count": 14,
+    "status": "new",
     "merged_into": null,
     "materialized": true
   },
@@ -45297,7 +45763,7 @@
       }
     ],
     "data_path": "data/charts/wb_poverty__iran_poverty_rate_by_region_2011_2020/data.csv",
-    "row_count": 27,
+    "row_count": 18,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -84030,7 +84496,7 @@
     ],
     "data_path": "data/charts/white_revolution__corps_stats_bundle_1963_1978/data.csv",
     "row_count": 21,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },

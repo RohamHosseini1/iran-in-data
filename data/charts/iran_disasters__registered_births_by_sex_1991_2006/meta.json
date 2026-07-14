@@ -1,16 +1,9 @@
 {
-  "chart_id": "iran_disasters__registered_births_by_sex_1991_2006",
   "title": "Registered Births by Sex, National Annual (1991-2006) + All Provinces (2006)",
+  "title_fa": "ولادت‌های ثبت‌شده به تفکیک جنس، سالانه در سطح کشور (1991-2006) به‌همراه همه استان‌ها (2006)",
   "category": "Demographics & Population",
+  "category_fa": "جمعیت‌شناسی و جمعیت",
   "sources": "iran-data-portal",
-  "n_rows": 342,
-  "year_range": [
-    "1991",
-    "2006"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "Iran Data Portal, Syracuse University (Persian source: Statistical Centre of Iran, national population & housing censuses and civil registration)",
@@ -19,6 +12,13 @@
       "time_range": "1991-2006"
     }
   ],
-  "category_fa": "جمعیت‌شناسی و جمعیت",
-  "title_fa": "ولادت‌های ثبت‌شده به تفکیک جنس، سالانه در سطح کشور (1991-2006) به‌همراه همه استان‌ها (2006)"
+  "chart_id": "iran_disasters__registered_births_by_sex_1991_2006",
+  "n_rows": 72,
+  "year_range": [
+    "1991",
+    "2006"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

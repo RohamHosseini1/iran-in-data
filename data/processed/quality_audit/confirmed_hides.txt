@@ -54,3 +54,7 @@ iranplanbudgetorg__five_year_plan_gdp_growth_targets
 iranplanbudgetorg__five_year_plan_investment_ceilings
 # earthquakes are EVENTS (one variant per quake) -> belong on the timeline overlay, not a chart
 iran_disasters__significant_earthquakes_1956_2023
+
+# variant-trim pass: grab-bags of one-off facts, no measure over time
+iran_telecom__radio_tv_ownership_1940_1989
+white_revolution__corps_stats_bundle_1963_1978

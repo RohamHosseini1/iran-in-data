@@ -1,16 +1,9 @@
 {
-  "chart_id": "iran_sci1399__cpi_by_coicop_group_1390_1399",
   "title": "Consumer Price Index by COICOP Group (1395=100, SH1390-1399)",
+  "title_fa": "شاخص قیمت مصرف‌کننده به تفکیک گروه COICOP (1395=100، SH1390-1399)",
   "category": "Prices & Inflation",
+  "category_fa": "قیمت‌ها و تورم",
   "sources": "sci-amar",
-  "n_rows": 488,
-  "year_range": [
-    "2011",
-    "2020"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
@@ -20,6 +13,13 @@
       "match_confidence": "fuzzy:3tok:sci-cpi-yearbook"
     }
   ],
-  "category_fa": "قیمت‌ها و تورم",
-  "title_fa": "شاخص قیمت مصرف‌کننده به تفکیک گروه COICOP (1395=100، SH1390-1399)"
+  "chart_id": "iran_sci1399__cpi_by_coicop_group_1390_1399",
+  "n_rows": 78,
+  "year_range": [
+    "2011",
+    "2020"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

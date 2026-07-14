@@ -1,16 +1,9 @@
 {
-  "chart_id": "pahlavi__monetary_survey_1963_70",
   "title": "Consolidated Banking-System Balance Sheet, Year-End Stock Levels (FY1963/64-1969/70)",
+  "title_fa": "ترازنامه تلفیقی نظام بانکی، سطح مانده در پایان سال (سال مالی 1963/64-1969/70)",
   "category": "Financial Sector (Monetary)",
+  "category_fa": "بخش مالی (پولی)",
   "sources": "pahlavi-era-primary-extraction",
-  "n_rows": 408,
-  "year_range": [
-    "1964",
-    "1970"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "International Bank for Reconstruction and Development (World Bank), data sourced by the Bank from Bank Markazi Iran",
@@ -20,6 +13,13 @@
       "match_confidence": "fuzzy:3tok:wb1971-monetary-survey-1963-1970"
     }
   ],
-  "category_fa": "بخش مالی (پولی)",
-  "title_fa": "ترازنامه تلفیقی نظام بانکی، سطح مانده در پایان سال (سال مالی 1963/64-1969/70)"
+  "chart_id": "pahlavi__monetary_survey_1963_70",
+  "n_rows": 252,
+  "year_range": [
+    "1964",
+    "1970"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

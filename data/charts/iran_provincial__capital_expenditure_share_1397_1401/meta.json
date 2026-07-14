@@ -1,0 +1,24 @@
+{
+  "title": "Capital Expenditure Budget Execution Share by Province",
+  "title_fa": "سهم اجرای بودجه عمرانی به تفکیک استان",
+  "category": "Government Finance",
+  "category_fa": "مالیه دولت",
+  "sources": "sci-provincial-standing-indicators",
+  "citations": [
+    {
+      "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran), under the Plan and Budget Organization",
+      "source_url": "https://amar.org.ir/development-indicators (شاخص‌های توسعه ملی و استانی section)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ],
+  "chart_id": "iran_provincial__capital_expenditure_share_1397_1401",
+  "n_rows": 160,
+  "year_range": [
+    "2018",
+    "2022"
+  ],
+  "countries": [
+    "IRN"
+  ]
+}

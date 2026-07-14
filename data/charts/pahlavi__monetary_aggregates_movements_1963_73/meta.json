@@ -1,16 +1,9 @@
 {
-  "chart_id": "pahlavi__monetary_aggregates_movements_1963_73",
   "title": "Money & Quasi-Money Component Movements, Year-over-Year Flows (FY1963-1973)",
+  "title_fa": "تغییرات اجزای پول و شبه‌پول، جریان سال به سال (سال مالی 1963-1973)",
   "category": "Financial Sector (Monetary)",
+  "category_fa": "بخش مالی (پولی)",
   "sources": "pahlavi-era-primary-extraction",
-  "n_rows": 429,
-  "year_range": [
-    "1963",
-    "1973"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "International Bank for Reconstruction and Development (World Bank)",
@@ -20,6 +13,13 @@
       "match_confidence": "fuzzy:4tok:wb1974-movements-monetary-aggregates-1963-1973"
     }
   ],
-  "category_fa": "بخش مالی (پولی)",
-  "title_fa": "تغییرات اجزای پول و شبه‌پول، جریان سال به سال (سال مالی 1963-1973)"
+  "chart_id": "pahlavi__monetary_aggregates_movements_1963_73",
+  "n_rows": 264,
+  "year_range": [
+    "1963",
+    "1973"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

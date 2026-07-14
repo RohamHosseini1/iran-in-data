@@ -1,16 +1,9 @@
 {
-  "chart_id": "pahlavi__consortium_disbursements_1954_62",
   "title": "Consortium Disbursements in Iran incl. Aggregate Oil-Sector Wage Bill, 1954-1962",
+  "title_fa": "پرداخت‌های کنسرسیوم در ایران شامل مجموع دستمزد بخش نفت، 1954-1962",
   "category": "Labor & Employment",
+  "category_fa": "نیروی کار و اشتغال",
   "sources": "pahlavi-era-primary-extraction",
-  "n_rows": 104,
-  "year_range": [
-    "1954",
-    "1962"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "US Bureau of Mines Information Circular 8203 (1963), Table 1 (p.16) + narrative summary table (p.15)",
@@ -20,6 +13,13 @@
       "match_confidence": "fuzzy:5tok:usbm1963-consortium-disbursements-1954-1962"
     }
   ],
-  "category_fa": "نیروی کار و اشتغال",
-  "title_fa": "پرداخت‌های کنسرسیوم در ایران شامل مجموع دستمزد بخش نفت، 1954-1962"
+  "chart_id": "pahlavi__consortium_disbursements_1954_62",
+  "n_rows": 43,
+  "year_range": [
+    "1954",
+    "1962"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

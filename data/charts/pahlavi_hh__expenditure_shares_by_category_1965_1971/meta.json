@@ -1,16 +1,9 @@
 {
-  "chart_id": "pahlavi_hh__expenditure_shares_by_category_1965_1971",
   "title": "Household Expenditure Composition, % Shares by Category, Urban & Rural (1965-1971)",
+  "title_fa": "ترکیب هزینه خانوار، سهم درصدی به تفکیک گروه کالا، شهری و روستایی (1965-1971)",
   "category": "Household Consumption & Expenditure",
+  "category_fa": "مصرف و هزینه خانوار",
   "sources": "pahlavi-era-primary-extraction",
-  "n_rows": 182,
-  "year_range": [
-    "1965",
-    "1971"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from Statistical Center of Iran (SCI)",
@@ -20,6 +13,13 @@
       "match_confidence": "fuzzy:6tok:wb1974-household-expenditure-composition-shares-1965-1971"
     }
   ],
-  "category_fa": "مصرف و هزینه خانوار",
-  "title_fa": "ترکیب هزینه خانوار، سهم درصدی به تفکیک گروه کالا، شهری و روستایی (1965-1971)"
+  "chart_id": "pahlavi_hh__expenditure_shares_by_category_1965_1971",
+  "n_rows": 70,
+  "year_range": [
+    "1965",
+    "1971"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

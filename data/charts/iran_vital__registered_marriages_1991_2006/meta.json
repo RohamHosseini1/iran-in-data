@@ -1,0 +1,24 @@
+{
+  "title": "Registered Marriages",
+  "title_fa": "ازدواج‌های ثبت‌شده",
+  "category": "Social Statistics (Marriage & Vital Registration)",
+  "category_fa": "آمار اجتماعی (ازدواج و ثبت احوال)",
+  "sources": "iran-data-portal",
+  "citations": [
+    {
+      "source_org": "Iran Data Portal, Syracuse University (Persian source: Statistical Centre of Iran, national population & housing censuses and civil registration)",
+      "source_url": "https://irandataportal.syr.edu/population/",
+      "access_date": "2026-07-13",
+      "time_range": "1991-2006"
+    }
+  ],
+  "chart_id": "iran_vital__registered_marriages_1991_2006",
+  "n_rows": 24,
+  "year_range": [
+    "1991",
+    "2006"
+  ],
+  "countries": [
+    "IRN"
+  ]
+}

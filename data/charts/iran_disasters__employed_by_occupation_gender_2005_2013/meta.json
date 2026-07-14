@@ -1,16 +1,9 @@
 {
-  "chart_id": "iran_disasters__employed_by_occupation_gender_2005_2013",
   "title": "Employed Persons by Occupation Category x Sex x Urban/Rural/Total, Annual (2005-2013)",
+  "title_fa": "افراد شاغل به تفکیک گروه شغلی، جنس و محل سکونت شهری/روستایی/کل، سالانه (2005-2013)",
   "category": "Labor & Employment",
+  "category_fa": "نیروی کار و اشتغال",
   "sources": "iran-data-portal",
-  "n_rows": 891,
-  "year_range": [
-    "2006",
-    "2014"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "Iran Data Portal (Syracuse University Moynihan Institute)",
@@ -19,6 +12,13 @@
       "time_range": "2005-2013"
     }
   ],
-  "category_fa": "نیروی کار و اشتغال",
-  "title_fa": "افراد شاغل به تفکیک گروه شغلی، جنس و محل سکونت شهری/روستایی/کل، سالانه (2005-2013)"
+  "chart_id": "iran_disasters__employed_by_occupation_gender_2005_2013",
+  "n_rows": 99,
+  "year_range": [
+    "2006",
+    "2014"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }

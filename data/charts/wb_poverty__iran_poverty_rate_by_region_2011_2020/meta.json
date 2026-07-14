@@ -1,16 +1,9 @@
 {
-  "chart_id": "wb_poverty__iran_poverty_rate_by_region_2011_2020",
   "title": "Iran Provincial Poverty Rates by Macro-Region (2011 vs. 2020)",
+  "title_fa": "نرخ فقر استانی ایران به تفکیک کلان‌منطقه (2011 در برابر 2020)",
   "category": "Poverty & Inequality",
+  "category_fa": "فقر و نابرابری",
   "sources": "worldbank-poverty-equity-iran-poverty-assessment-2023",
-  "n_rows": 27,
-  "year_range": [
-    "2011",
-    "2020"
-  ],
-  "countries": [
-    "IRN"
-  ],
   "citations": [
     {
       "source_org": "World Bank, Poverty Global Practice, Middle East & North Africa",
@@ -19,6 +12,13 @@
       "time_range": "2011, 2020"
     }
   ],
-  "category_fa": "فقر و نابرابری",
-  "title_fa": "نرخ فقر استانی ایران به تفکیک کلان‌منطقه (2011 در برابر 2020)"
+  "chart_id": "wb_poverty__iran_poverty_rate_by_region_2011_2020",
+  "n_rows": 18,
+  "year_range": [
+    "2011",
+    "2020"
+  ],
+  "countries": [
+    "IRN"
+  ]
 }
