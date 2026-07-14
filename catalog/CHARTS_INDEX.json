@@ -24585,7 +24585,7 @@
     ],
     "data_path": "data/charts/faostat__Peas, dry__production/data.csv",
     "row_count": 1449,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42326,7 +42326,15 @@
       "IRN"
     ],
     "primary_source": "cbi-iran-annual-review",
-    "citations": [],
+    "citations": [
+      {
+        "source_org": "International Bank for Reconstruction and Development (World Bank)",
+        "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+        "access_date": "2026-07-12",
+        "time_range": "",
+        "match_confidence": "fuzzy:2tok:wb1971-balance-of-payments-summary-1963-1970"
+      }
+    ],
     "data_path": "data/charts/iran_trade__imports_oil_gas_vs_other_goods_cbi_2009_2023/data.csv",
     "row_count": 54,
     "status": "new",
@@ -42348,7 +42356,15 @@
       "IRN"
     ],
     "primary_source": "cbi-iran-annual-review",
-    "citations": [],
+    "citations": [
+      {
+        "source_org": "International Bank for Reconstruction and Development (World Bank)",
+        "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+        "access_date": "2026-07-12",
+        "time_range": "",
+        "match_confidence": "fuzzy:2tok:wb1971-oil-exports-and-revenues-1963-1971"
+      }
+    ],
     "data_path": "data/charts/iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023/data.csv",
     "row_count": 81,
     "status": "new",
