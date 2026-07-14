@@ -173,11 +173,11 @@ RUS,Russia,2022,242.720000,,pp:Producer Price Index (2014-2016 = 100),Producer P
 RUS,Russia,2023,284.150000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 RUS,Russia,2024,325.230000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 RUS,Russia,2025,366.320000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-ITA,Italy,1991,420000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-ITA,Italy,1992,410000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-ITA,Italy,1993,447000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-ITA,Italy,1994,434000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-ITA,Italy,1995,450000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+ITA,Italy,1991,420000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+ITA,Italy,1992,410000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+ITA,Italy,1993,447000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+ITA,Italy,1994,434000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+ITA,Italy,1995,450000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
 ITA,Italy,1991,216.900000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 ITA,Italy,1992,211.700000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 ITA,Italy,1993,230.900000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
@@ -188,66 +188,66 @@ ITA,Italy,1992,332.700000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/
 ITA,Italy,1993,284.100000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 ITA,Italy,1994,269.200000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 ITA,Italy,1995,276.300000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-ARG,Argentina,1978,0.010000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1979,0.010000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1980,0.020000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1981,0.060000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1982,0.170000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1983,0.670000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1984,5.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1985,30.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1986,50.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1987,110.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1988,700.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1989,2100.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1990,325000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1966,95620.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1967,97930.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1968,102000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1969,108600.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1970,111140.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1971,97310.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1972,90700.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1973,109140.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1974,149260.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1975,149840.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1976,182270.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1977,209000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1978,226000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1979,250000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1980,290000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1981,330000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1982,365000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1983,394160.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1984,425000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1985,419000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1986,430000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1987,439000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1988,423000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1989,432000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ITA,Italy,1990,410000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1966,22000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1967,24500.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1968,25500.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1969,29900.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1970,34500.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1971,45600.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1972,60800.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1973,67400.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1974,81000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1975,107400.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1976,121900.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1977,136700.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1978,150700.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1979,187800.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1980,383440.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1981,791720.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1982,536000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1983,658000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1984,747000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1985,880000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1986,950000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1987,1000000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1988,1087400.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1989,1171700.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-KOR,South Korea,1990,1250600.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
+ARG,Argentina,1978,0.010000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1979,0.010000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1980,0.020000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1981,0.060000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1982,0.170000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1983,0.670000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1984,5.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1985,30.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1986,50.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1987,110.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1988,700.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1989,2100.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1990,325000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1966,95620.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1967,97930.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1968,102000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1969,108600.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1970,111140.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1971,97310.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1972,90700.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1973,109140.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1974,149260.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1975,149840.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1976,182270.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1977,209000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1978,226000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1979,250000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1980,290000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1981,330000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1982,365000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1983,394160.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1984,425000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1985,419000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1986,430000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1987,439000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1988,423000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1989,432000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ITA,Italy,1990,410000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1966,22000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1967,24500.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1968,25500.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1969,29900.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1970,34500.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1971,45600.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1972,60800.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1973,67400.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1974,81000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1975,107400.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1976,121900.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1977,136700.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1978,150700.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1979,187800.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1980,383440.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1981,791720.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1982,536000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1983,658000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1984,747000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1985,880000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1986,950000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1987,1000000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1988,1087400.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1989,1171700.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+KOR,South Korea,1990,1250600.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa

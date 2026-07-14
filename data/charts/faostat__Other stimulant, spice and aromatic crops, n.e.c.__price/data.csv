@@ -139,18 +139,18 @@ TUR,Turkey,2022,460.960000,,pp:Producer Price Index (2014-2016 = 100),Producer P
 TUR,Turkey,2023,563.630000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 TUR,Turkey,2024,648.750000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
 TUR,Turkey,2025,740.940000,,pp:Producer Price Index (2014-2016 = 100),Producer Price Index (2014-2016 = 100),faostat-pp
-IRN,Iran,1998,11255400.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,1999,12371100.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2000,9667200.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2001,11402700.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2002,11410400.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2003,11719000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2004,11191500.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2005,12123300.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2006,23392900.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2007,71606200.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2008,128064370.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
-IRN,Iran,2009,123426370.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pp
+IRN,Iran,1998,11255400.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,1999,12371100.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2000,9667200.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2001,11402700.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2002,11410400.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2003,11719000.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2004,11191500.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2005,12123300.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2006,23392900.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2007,71606200.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2008,128064370.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
+IRN,Iran,2009,123426370.000000,LCU,pp:Producer Price (LCU/tonne),Producer Price (LCU/tonne) (FAO current prices),faostat-pp
 IRN,Iran,1998,11255400.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 IRN,Iran,1999,12371100.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
 IRN,Iran,2000,9667200.000000,SLC,pp:Producer Price (SLC/tonne),Producer Price (SLC/tonne),faostat-pp
@@ -175,54 +175,54 @@ IRN,Iran,2006,2550.800000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/
 IRN,Iran,2007,7715.200000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 IRN,Iran,2008,13582.600000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
 IRN,Iran,2009,12512.400000,USD,pp:Producer Price (USD/tonne),Producer Price (USD/tonne),faostat-pp
-ARG,Argentina,1977,0.020000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1978,0.050000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1979,0.090000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1980,0.170000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1981,0.440000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1982,1.480000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1983,5.200000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1984,31.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1985,250.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1986,450.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1987,1000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1988,4100.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1989,200000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ARG,Argentina,1990,2310000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1966,13731.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1967,17106.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1968,14101.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1969,10349.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1970,10155.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1971,10098.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1972,10054.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1973,10498.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1974,14000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1975,25000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1976,30550.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1977,59511.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1978,98700.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1979,92176.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1980,83260.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1981,83013.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1982,70188.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1983,69333.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1984,72002.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1985,69356.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1986,70187.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1987,88444.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1988,104311.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1989,116400.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-ESP,Spain,1990,108000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1979,31140.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1980,40600.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1981,106000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1982,170000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1983,200000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1984,250000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1985,300000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1986,790000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1987,1000000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1988,1500000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1989,2000000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
-TUR,Turkey,1990,2600000.000000,LCU,pa:Producer Price (LCU/tonne),Producer Price (LCU/tonne),faostat-pa
+ARG,Argentina,1977,0.020000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1978,0.050000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1979,0.090000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1980,0.170000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1981,0.440000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1982,1.480000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1983,5.200000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1984,31.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1985,250.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1986,450.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1987,1000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1988,4100.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1989,200000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ARG,Argentina,1990,2310000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1966,13731.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1967,17106.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1968,14101.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1969,10349.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1970,10155.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1971,10098.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1972,10054.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1973,10498.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1974,14000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1975,25000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1976,30550.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1977,59511.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1978,98700.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1979,92176.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1980,83260.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1981,83013.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1982,70188.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1983,69333.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1984,72002.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1985,69356.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1986,70187.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1987,88444.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1988,104311.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1989,116400.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+ESP,Spain,1990,108000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1979,31140.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1980,40600.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1981,106000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1982,170000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1983,200000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1984,250000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1985,300000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1986,790000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1987,1000000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1988,1500000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1989,2000000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa
+TUR,Turkey,1990,2600000.000000,LCU,pa:Producer Price (LCU/tonne),"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)",faostat-pa

@@ -1,28 +1,28 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset,original_period_label
-IRN,Iran,2012,51393,billion_IRR,sales_steel_value,sales — Steel — value,imidro-iran:annual-report-2012-2013,2011/12
-IRN,Iran,2013,78699,billion_IRR,sales_steel_value,sales — Steel — value,imidro-iran:annual-report-2012-2013,2012/13
-IRN,Iran,2012,34626,billion_IRR,sales_copper_value,sales — Copper — value,imidro-iran:annual-report-2012-2013,2011/12
-IRN,Iran,2013,47525,billion_IRR,sales_copper_value,sales — Copper — value,imidro-iran:annual-report-2012-2013,2012/13
-IRN,Iran,2012,0,billion_IRR,sales_aluminum_value,sales — Aluminum — value,imidro-iran:annual-report-2012-2013,2011/12
-IRN,Iran,2013,0,billion_IRR,sales_aluminum_value,sales — Aluminum — value,imidro-iran:annual-report-2012-2013,2012/13
-IRN,Iran,2012,5467,billion_IRR,sales_mine_value,sales — Mine — value,imidro-iran:annual-report-2012-2013,2011/12
-IRN,Iran,2013,6367,billion_IRR,sales_mine_value,sales — Mine — value,imidro-iran:annual-report-2012-2013,2012/13
-IRN,Iran,2012,404,billion_IRR,sales_cement_value,sales — Cement — value,imidro-iran:annual-report-2012-2013,2011/12
-IRN,Iran,2013,40,billion_IRR,sales_cement_value,sales — Cement — value,imidro-iran:annual-report-2012-2013,2012/13
-IRN,Iran,2012,360,billion_IRR,sales_other_value,sales — Other — value,imidro-iran:annual-report-2012-2013,2011/12
-IRN,Iran,2013,7701,billion_IRR,sales_other_value,sales — Other — value,imidro-iran:annual-report-2012-2013,2012/13
-IRN,Iran,2012,92250,billion_IRR,sales_total_value,sales — Total — value,imidro-iran:annual-report-2012-2013,2011/12
-IRN,Iran,2013,140331,billion_IRR,sales_total_value,sales — Total — value,imidro-iran:annual-report-2012-2013,2012/13
-IRN,Iran,2013,78699,billion_IRR,sales_steel_value,sales — Steel — value,imidro-iran:annual-report-2013-2014,2012/13
-IRN,Iran,2014,108310,billion_IRR,sales_steel_value,sales — Steel — value,imidro-iran:annual-report-2013-2014,2013/14
-IRN,Iran,2013,47525,billion_IRR,sales_copper_value,sales — Copper — value,imidro-iran:annual-report-2013-2014,2012/13
-IRN,Iran,2014,43330,billion_IRR,sales_copper_value,sales — Copper — value,imidro-iran:annual-report-2013-2014,2013/14
-IRN,Iran,2013,8785,billion_IRR,sales_aluminum_value,sales — Aluminum — value,imidro-iran:annual-report-2013-2014,2012/13
-IRN,Iran,2014,11473,billion_IRR,sales_aluminum_value,sales — Aluminum — value,imidro-iran:annual-report-2013-2014,2013/14
-IRN,Iran,2013,6367,billion_IRR,sales_mine_value,sales — Mine — value,imidro-iran:annual-report-2013-2014,2012/13
-IRN,Iran,2014,5111,billion_IRR,sales_mine_value,sales — Mine — value,imidro-iran:annual-report-2013-2014,2013/14
-IRN,Iran,2014,326,billion_IRR,sales_cement_value,sales — Cement — value,imidro-iran:annual-report-2013-2014,2013/14
-IRN,Iran,2013,7701,billion_IRR,sales_other_value,sales — Other — value,imidro-iran:annual-report-2013-2014,2012/13
-IRN,Iran,2014,7303,billion_IRR,sales_other_value,sales — Other — value,imidro-iran:annual-report-2013-2014,2013/14
-IRN,Iran,2013,149076,billion_IRR,sales_total_value,sales — Total — value,imidro-iran:annual-report-2013-2014,2012/13
-IRN,Iran,2014,175854,billion_IRR,sales_total_value,sales — Total — value,imidro-iran:annual-report-2013-2014,2013/14
+IRN,Iran,2012,51393,billion_IRR,sales_steel_value,"Sales, Steel, value",imidro-iran:annual-report-2012-2013,2011/12
+IRN,Iran,2013,78699,billion_IRR,sales_steel_value,"Sales, Steel, value",imidro-iran:annual-report-2012-2013,2012/13
+IRN,Iran,2012,34626,billion_IRR,sales_copper_value,"Sales, Copper, value",imidro-iran:annual-report-2012-2013,2011/12
+IRN,Iran,2013,47525,billion_IRR,sales_copper_value,"Sales, Copper, value",imidro-iran:annual-report-2012-2013,2012/13
+IRN,Iran,2012,0,billion_IRR,sales_aluminum_value,"Sales, Aluminum, value",imidro-iran:annual-report-2012-2013,2011/12
+IRN,Iran,2013,0,billion_IRR,sales_aluminum_value,"Sales, Aluminum, value",imidro-iran:annual-report-2012-2013,2012/13
+IRN,Iran,2012,5467,billion_IRR,sales_mine_value,"Sales, Mine, value",imidro-iran:annual-report-2012-2013,2011/12
+IRN,Iran,2013,6367,billion_IRR,sales_mine_value,"Sales, Mine, value",imidro-iran:annual-report-2012-2013,2012/13
+IRN,Iran,2012,404,billion_IRR,sales_cement_value,"Sales, Cement, value",imidro-iran:annual-report-2012-2013,2011/12
+IRN,Iran,2013,40,billion_IRR,sales_cement_value,"Sales, Cement, value",imidro-iran:annual-report-2012-2013,2012/13
+IRN,Iran,2012,360,billion_IRR,sales_other_value,"Sales, Other, value",imidro-iran:annual-report-2012-2013,2011/12
+IRN,Iran,2013,7701,billion_IRR,sales_other_value,"Sales, Other, value",imidro-iran:annual-report-2012-2013,2012/13
+IRN,Iran,2012,92250,billion_IRR,sales_total_value,"Sales, Total, value",imidro-iran:annual-report-2012-2013,2011/12
+IRN,Iran,2013,140331,billion_IRR,sales_total_value,"Sales, Total, value",imidro-iran:annual-report-2012-2013,2012/13
+IRN,Iran,2013,78699,billion_IRR,sales_steel_value,"Sales, Steel, value",imidro-iran:annual-report-2013-2014,2012/13
+IRN,Iran,2014,108310,billion_IRR,sales_steel_value,"Sales, Steel, value",imidro-iran:annual-report-2013-2014,2013/14
+IRN,Iran,2013,47525,billion_IRR,sales_copper_value,"Sales, Copper, value",imidro-iran:annual-report-2013-2014,2012/13
+IRN,Iran,2014,43330,billion_IRR,sales_copper_value,"Sales, Copper, value",imidro-iran:annual-report-2013-2014,2013/14
+IRN,Iran,2013,8785,billion_IRR,sales_aluminum_value,"Sales, Aluminum, value",imidro-iran:annual-report-2013-2014,2012/13
+IRN,Iran,2014,11473,billion_IRR,sales_aluminum_value,"Sales, Aluminum, value",imidro-iran:annual-report-2013-2014,2013/14
+IRN,Iran,2013,6367,billion_IRR,sales_mine_value,"Sales, Mine, value",imidro-iran:annual-report-2013-2014,2012/13
+IRN,Iran,2014,5111,billion_IRR,sales_mine_value,"Sales, Mine, value",imidro-iran:annual-report-2013-2014,2013/14
+IRN,Iran,2014,326,billion_IRR,sales_cement_value,"Sales, Cement, value",imidro-iran:annual-report-2013-2014,2013/14
+IRN,Iran,2013,7701,billion_IRR,sales_other_value,"Sales, Other, value",imidro-iran:annual-report-2013-2014,2012/13
+IRN,Iran,2014,7303,billion_IRR,sales_other_value,"Sales, Other, value",imidro-iran:annual-report-2013-2014,2013/14
+IRN,Iran,2013,149076,billion_IRR,sales_total_value,"Sales, Total, value",imidro-iran:annual-report-2013-2014,2012/13
+IRN,Iran,2014,175854,billion_IRR,sales_total_value,"Sales, Total, value",imidro-iran:annual-report-2013-2014,2013/14
