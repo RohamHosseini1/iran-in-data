@@ -93,6 +93,24 @@ Status key: **DONE** · **PARTIAL** · **OPEN** · **REVERTED** (owner later cha
 | 40 | **Weak links must not be drawn.** Anything below confidence 2 belongs in the list at the bottom, not on the chart. | DONE |
 | 41 | «انتساب علّی» is Arabic-flavoured; use a proper Persian term. | DONE (now «اطمینان از تأثیر») |
 
+## Round 10 — markers invisible, zoom unusable, laws untranslated
+
+| # | Issue | Status |
+|---|---|---|
+| 42 | **Law markers are invisible.** "It is just a gray bar, but it doesn't have the circle on top to indicate that there is something on this timeline." A 1px dashed grey line at 0.38 opacity with no symbol read as a gridline. | DONE (dot head, own bottom rail, opacity up) |
+| 43 | **Laws must be drawn whenever relevance > 2.** The old gate also demanded attribution >= 3; laws are almost never attributable, so that gate deleted the grey layer from a third of the charts. Laws now gate on relevance alone; events keep the two-score gate. | DONE |
+| 44 | **The chart is "fidgety".** Zoom jumps from a decade to a single year, drifts while zooming, and cuts at random places. Cause: ECharts' coarse per-tick wheel step, plus a snap-to-year timer that yanked the window 260ms after every gesture. | DONE (own eased, cursor-anchored zoom; snap timer removed) |
+| 45 | **Chart must not zoom out past the data.** | DONE (hard-clamped to the data extent; verified) |
+| 46 | **Law titles are not translated on the English site.** 491 of 970 linked laws had NO English title at all. | DONE (970/970 now) |
+| 47 | **Still "dozens of events of random countries".** Genuine global shocks were being stapled to every chart in a category, so Iran's apple chart carried "China WTO accession", "Asian Financial Crisis" and "Russian default and LTCM". | DONE (global events reaching a chart only by category must clear relevance 3; 689 links dropped) |
+
+## Round 10b — bugs found while fixing the above (not reported by the owner)
+
+| # | Issue | Status |
+|---|---|---|
+| 48 | **Persian law titles were mangled.** The title was taken from the FILENAME, and the scraper had elided filenames to fit the 255-BYTE filesystem limit (Persian is 2 bytes/char), so 359 of 1,111 significant laws carried `head ... tail` with the middle missing. Recovered 165 by joining on the scraper's own ndjson dumps, verified head+tail so nothing is guessed. | PARTIAL |
+| 49 | **194 law titles remain elided and CANNOT be recovered here.** The source (qavanin.ir) geoblocks non-Iranian IPs (403 via ArvanCloud), and those laws have no whole-law record in the local ndjson dumps. Needs a fetch from an Iranian IP. **Nothing was invented to paper over this.** | OPEN (blocked on network access) |
+| 50 | **The same event appeared twice on one chart** ("US withdraws from the JCPOA" and "US withdraws from JCPOA", one from each timeline). | DONE (deduped on a loose title key; Iran's telling wins) |
 
 ---
 

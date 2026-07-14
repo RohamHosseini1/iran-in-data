@@ -254,20 +254,32 @@ export function ChartExplorer({
    * GDP goes from 145 law markers to 16. Everything else is still listed in full
    * below the chart, so nothing is lost, only un-cluttered.
    */
-  const isMarkerWorthy = React.useCallback(
+  /**
+   * LAWS are drawn on relevance alone, above 2. A law is almost never *attributable*
+   * (only 3% score attribution >= 4), so an attribution term in the law gate deleted
+   * the whole grey layer from a third of the charts. Relevance is the right question
+   * for "should a reader of this chart see this at all", which is what a marker is.
+   */
+  const isLawMarkerWorthy = React.useCallback(
+    (a: { relevance: number }) => a.relevance > 2,
+    []
+  );
+  /**
+   * EVENTS are fewer and stronger, so they keep the two-score gate: draw it if it is
+   * top-relevance (5) or we can actually attribute movement to it (attribution >= 3).
+   */
+  const isEventMarkerWorthy = React.useCallback(
     (a: { relevance: number; attribution: number }) =>
       a.relevance >= 2 && (a.relevance >= 5 || a.attribution >= 3),
     []
   );
   const markerLaws = React.useMemo(
-    () => laws.filter(isMarkerWorthy),
-    [laws, isMarkerWorthy]
+    () => laws.filter(isLawMarkerWorthy),
+    [laws, isLawMarkerWorthy]
   );
-  // Densely-annotated charts (the FX chart carries 56 events) would otherwise be a
-  // wall of markers. Show the strongest, keep every one in the log below the chart.
   const markerEvents = React.useMemo(
-    () => events.filter(isMarkerWorthy),
-    [events, isMarkerWorthy]
+    () => events.filter(isEventMarkerWorthy),
+    [events, isEventMarkerWorthy]
   );
   const [hoverLaw, setHoverLaw] = React.useState<number | null>(null);
   const lawTimer = React.useRef<ReturnType<typeof setTimeout> | null>(null);

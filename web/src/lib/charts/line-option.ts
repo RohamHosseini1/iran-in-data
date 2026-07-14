@@ -56,9 +56,16 @@ const DEFAULT_DATA_FONT =
   "var(--font-reddit-mono), ui-monospace, SFMono-Regular, Menlo, monospace";
 
 const EVENT_COLOR = "#CA8A04";
-/** Laws: off-grey, low opacity. Quiet by design, per the owner's brief. */
+/**
+ * Laws: off-grey and quiet by design, but they must still be FINDABLE. A bare 1px
+ * dashed line at 0.38 opacity read as a chart gridline: the owner could not see the
+ * layer at all. So the line stays soft while the head gets a solid dot, and the dot
+ * sits on the BOTTOM rail (events keep the top), which separates the two layers
+ * instead of stacking them.
+ */
 const LAW_COLOR = "#8A8A8A";
-const LAW_OPACITY = 0.38;
+const LAW_OPACITY = 0.5;
+const LAW_SYMBOL_OPACITY = 0.85;
 
 /** Year window where the given series actually have data. */
 export function dataExtent(
@@ -435,7 +442,11 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
       tooltip: { show: false },
       markLine: {
         silent: false,
-        symbol: ["none", "none"],
+        // Dot at the START (bottom of the plot) so laws read as their own rail and
+        // never sit under the amber event dots at the top.
+        symbol: ["circle", "none"],
+        symbolSize: 5,
+        symbolOffset: [0, 0],
         animation: false,
         lineStyle: {
           color: LAW_COLOR,
@@ -443,9 +454,11 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
           type: [2, 4] as unknown as "dashed",
           opacity: LAW_OPACITY,
         },
+        itemStyle: { color: LAW_COLOR, opacity: LAW_SYMBOL_OPACITY },
         label: { show: false },
         emphasis: {
-          lineStyle: { opacity: 0.9, width: 1.5 },
+          lineStyle: { opacity: 1, width: 1.75 },
+          itemStyle: { color: LAW_COLOR, opacity: 1, borderWidth: 0 },
           label: { show: false },
         },
         tooltip: { show: false },
@@ -517,6 +530,10 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
     xAxis: timeMode
       ? {
           type: "time" as const,
+          // Hard-bound to the data: a time axis otherwise pads out to a round tick,
+          // showing empty gutter before the first and after the last observation.
+          min: "dataMin" as const,
+          max: "dataMax" as const,
           axisLine: { lineStyle: { color: chrome.border } },
           axisTick: { show: false },
           splitLine: { show: false },
@@ -572,11 +589,11 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
     dataZoom: [
       {
         type: "inside",
-        // Stock ECharts wheel/pinch zoom; a higher throttle is the one knob
-        // the package offers to temper its pace.
-        throttle: 180,
+        throttle: 0,
         minValueSpan: timeMode ? 7 * 864e5 : 3,
-        zoomOnMouseWheel: true,
+        // Wheel zoom is handled in interactive-chart.tsx: ECharts' own step is coarse
+        // and lurches from decades to a single year. Drag-to-pan stays ECharts'.
+        zoomOnMouseWheel: false,
         moveOnMouseWheel: false,
         moveOnMouseMove: true,
       },

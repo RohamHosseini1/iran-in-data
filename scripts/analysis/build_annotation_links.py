@@ -87,6 +87,14 @@ DOMAIN_ALIAS = {
 # shocks (oil shocks, Bretton Woods, 2008, COVID) may annotate charts.
 ALLOWED_EVENT_SOURCES = {"timeline/iran.csv", "timeline/global.csv"}
 
+# Even a genuine global shock still has to EARN its place on an Iranian chart. A
+# category-scoped global event was being stapled to every chart in a category, so
+# Iran's apple-production chart carried "China WTO accession", "Asian Financial Crisis"
+# and "Russian default and LTCM crisis" -- foreign events, on a fruit chart, at
+# relevance 2. Iran's OWN events keep their full list (they are Iran's story either
+# way); a foreign event reaching a chart only by category must clear relevance 3.
+GLOBAL_CATEGORY_MIN_RELEVANCE = 3
+
 
 def load_charts():
     reg = list(csv.DictReader(open(REG, encoding="utf-8")))
@@ -180,14 +188,40 @@ def main():
     events = json.load(open(os.path.join(REMAP, "events_mapped.json"), encoding="utf-8"))
     erows, eseen = [], set()
     skipped_foreign = 0
+    skipped_weak_global = 0
+    skipped_dupe = 0
+
+    def ekey(t):
+        """The SAME event is spelled differently in the Iran and global timelines
+        ("US withdraws from the JCPOA" vs "US withdraws from JCPOA"), so it was drawn
+        twice on the same chart. Collapse on a loose title key."""
+        t = re.sub(r"[^\w\s]", " ", (t or "").lower())
+        drop = {"the", "a", "an", "of", "in", "on", "and", "begins", "s"}
+        return " ".join(w for w in t.split() if w not in drop)
+
+    # Iran's own telling of an event wins over the global timeline's.
+    events = sorted(
+        events, key=lambda e: e.get("event_source_file") != "timeline/iran.csv"
+    )
     for e in events:
         if e.get("event_source_file") not in ALLOWED_EVENT_SOURCES:
             skipped_foreign += 1
             continue
+        is_global = e.get("event_source_file") == "timeline/global.csv"
         for link in (e.get("links") or []):
+            try:
+                rel = int(link.get("relevance") or 0)
+            except (TypeError, ValueError):
+                rel = 0
             for cid, escope in targets(link, title, by_cat, bad):
-                key = (cid, e["event_date"], e["event_title"])
+                # a foreign event that only reached this chart via its category has to
+                # clear the relevance floor -- see GLOBAL_CATEGORY_MIN_RELEVANCE
+                if is_global and escope == "category" and rel < GLOBAL_CATEGORY_MIN_RELEVANCE:
+                    skipped_weak_global += 1
+                    continue
+                key = (cid, e["event_date"][:4], ekey(e["event_title"]))
                 if key in eseen:
+                    skipped_dupe += 1
                     continue
                 eseen.add(key)
                 erows.append({
@@ -225,6 +259,7 @@ def main():
     print(f"event links : {len(erows):6d} | charts with an event: {len([c for c in all_charts if ec[c]]):5d} / {len(all_charts)}")
     print(f"dropped invented refs: {bad[0]} chart_ids, {bad[1]} categories")
     print(f"events skipped (comparator-domestic, not Iran/global): {skipped_foreign}")
+    print(f"events skipped (weak global event reaching a chart only by category): {skipped_weak_global}")
     for cid in ("wdi__NY.GDP.MKTP", "wdi__NY.GDP.PCAP", "wdi__FP.CPI.TOTL"):
         print(f"   {title.get(cid,cid):22} laws={lc[cid]:3d} events={ec[cid]:3d}")
 
