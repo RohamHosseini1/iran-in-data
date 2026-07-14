@@ -13,11 +13,15 @@ interface CorrelationRow {
   event_title: string;
   event_source_file: string;
   relationship_type: string;
-  confidence: string;
+  relevance: string;
+  attribution: string;
   direction: string;
-  lag_description: string;
-  justification: string;
-  caveats: string;
+  lag_en: string;
+  lag_fa: string;
+  justification_en: string;
+  justification_fa: string;
+  caveats_en: string;
+  caveats_fa: string;
 }
 
 let correlationCache: CorrelationRow[] | null = null;
@@ -112,12 +116,16 @@ export function getChartEvents(chartId: string): ChartEventDetail[] {
         year: Number(c.event_date.slice(0, 4)),
         date: c.event_date,
         title: c.event_title,
-        confidence: Number(c.confidence) || 0,
+        relevance: Number(c.relevance) || 0,
+        attribution: Number(c.attribution) || 0,
         direction: c.direction,
         relationship: c.relationship_type,
-        lag: c.lag_description,
-        justification: c.justification,
-        caveats: c.caveats,
+        lag: c.lag_en,
+        lagFa: c.lag_fa,
+        justification: c.justification_en,
+        justificationFa: c.justification_fa,
+        caveats: c.caveats_en,
+        caveatsFa: c.caveats_fa,
         titleFa: detail?.titleFa,
         descriptionFa: detail?.descriptionFa,
         description: detail?.description,

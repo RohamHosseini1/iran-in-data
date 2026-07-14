@@ -51,12 +51,16 @@ function buildLawIndex(): Map<string, ChartLawDetail[]> {
       titleEn: t?.en || r.law_title_en || "",
       summaryEn: t?.summaryEn || r.law_summary_en || "",
       summaryFa: t?.summaryFa || r.law_summary_fa || "",
-      confidence: Number(r.confidence) || 0,
+      relevance: Number(r.relevance) || 0,
+      attribution: Number(r.attribution) || 0,
       relationship: r.relationship_type ?? "",
       direction: r.direction ?? "",
-      lag: r.lag_description ?? "",
-      justification: r.justification ?? "",
-      caveats: r.caveats ?? "",
+      lag: r.lag_en ?? "",
+      lagFa: r.lag_fa ?? "",
+      justification: r.justification_en ?? "",
+      justificationFa: r.justification_fa ?? "",
+      caveats: r.caveats_en ?? "",
+      caveatsFa: r.caveats_fa ?? "",
       scope: (r.scope as ChartLawDetail["scope"]) ?? "category",
     };
     const list = index.get(r.chart_id);
@@ -71,7 +75,7 @@ function buildLawIndex(): Map<string, ChartLawDetail[]> {
     list.sort(
       (a, b) =>
         a.year - b.year ||
-        b.confidence - a.confidence ||
+        b.relevance - a.relevance ||
         a.titleEn.localeCompare(b.titleEn)
     );
   }

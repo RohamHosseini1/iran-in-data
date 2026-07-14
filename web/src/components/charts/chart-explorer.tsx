@@ -73,10 +73,12 @@ const STRINGS = {
     caveat: "Caveat",
     why: "Why this link",
     source: "Source",
+    relevance: "Relevance",
+    attribution: "Attribution",
     law: "Law",
     lawLog: "Related_Laws",
     lawsNote:
-      "Laws related to this measure. A law need not have caused a movement to be listed; confidence reflects how strong the link actually is.",
+      "Laws related to this measure. A law need not have caused a movement to be listed. Relevance = should you see it here at all. Attribution = how confidently we can say it moved the line.",
     moreLaws: "more related laws",
   },
   fa: {
@@ -100,10 +102,12 @@ const STRINGS = {
     caveat: "ملاحظه",
     why: "چرایی این پیوند",
     source: "منبع",
+    relevance: "میزان ارتباط",
+    attribution: "انتساب علّی",
     law: "قانون",
     lawLog: "قوانین مرتبط",
     lawsNote:
-      "قوانین مرتبط با این سنجه. لازم نیست یک قانون علت تغییری باشد تا فهرست شود؛ سطح اطمینان نشان می‌دهد پیوند تا چه حد قوی است.",
+      "قوانین مرتبط با این سنجه. لازم نیست یک قانون علت تغییری باشد تا فهرست شود. میزان ارتباط یعنی آیا باید آن را اینجا ببینید، و انتساب علّی یعنی با چه اطمینانی می‌توان تغییر نمودار را به آن نسبت داد.",
     moreLaws: "قانون مرتبط دیگر",
   },
 };
@@ -473,7 +477,7 @@ export function ChartExplorer({
                 <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                   {fa ? toPersianDigits(hoveredLaw.year) : hoveredLaw.year}
                 </span>
-                <ConfidenceBars score={hoveredLaw.confidence} muted />
+                <ConfidenceBadge relevance={hoveredLaw.relevance} attribution={hoveredLaw.attribution} muted t={t} />
               </div>
               <p className="mt-1.5 text-sm font-medium leading-snug">
                 {fa ? hoveredLaw.titleFa : hoveredLaw.titleEn || hoveredLaw.titleFa}
@@ -483,15 +487,17 @@ export function ChartExplorer({
                   {fa ? hoveredLaw.summaryFa : hoveredLaw.summaryEn}
                 </p>
               ) : null}
-              {hoveredLaw.justification ? (
+              {(fa && hoveredLaw.justificationFa) || hoveredLaw.justification ? (
                 <p className="mt-1.5 line-clamp-3 text-xs leading-relaxed text-muted-foreground">
-                  {hoveredLaw.justification}
+                  {(fa && hoveredLaw.justificationFa) || hoveredLaw.justification}
                 </p>
               ) : null}
-              {hoveredLaw.caveats ? (
+              {(fa && hoveredLaw.caveatsFa) || hoveredLaw.caveats ? (
                 <p className="mt-1.5 line-clamp-2 text-xs leading-relaxed">
                   <span className="data-label text-muted-foreground">{t.caveat}: </span>
-                  <span className="text-muted-foreground">{hoveredLaw.caveats}</span>
+                  <span className="text-muted-foreground">
+                    {(fa && hoveredLaw.caveatsFa) || hoveredLaw.caveats}
+                  </span>
                 </p>
               ) : null}
             </div>
@@ -516,7 +522,7 @@ export function ChartExplorer({
                 <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                   {fa ? toPersianDigits(hovered.year) : hovered.year}
                 </span>
-                <ConfidenceBars score={hovered.confidence} />
+                <ConfidenceBadge relevance={hovered.relevance} attribution={hovered.attribution} t={t} />
               </div>
               <p className="mt-1.5 text-sm font-medium leading-snug">
                 {(fa && hovered.titleFa) || hovered.title}
@@ -530,12 +536,14 @@ export function ChartExplorer({
                     hovered.justification}
                 </p>
               ) : null}
-              {hovered.caveats ? (
+              {(fa && hovered.caveatsFa) || hovered.caveats ? (
                 <p className="mt-1.5 line-clamp-2 text-xs leading-relaxed">
                   <span className="data-label" style={{ color: EVENT_COLOR }}>
                     {t.caveat}:{" "}
                   </span>
-                  <span className="text-muted-foreground">{hovered.caveats}</span>
+                  <span className="text-muted-foreground">
+                    {(fa && hovered.caveatsFa) || hovered.caveats}
+                  </span>
                 </p>
               ) : null}
             </div>
@@ -575,8 +583,9 @@ export function ChartExplorer({
                       {(fa && e.titleFa) || e.title}
                     </span>
                     <ConfidenceBadge
-                      score={e.confidence}
-                      label={t.association}
+                      relevance={e.relevance}
+                      attribution={e.attribution}
+                      t={t}
                     />
                   </summary>
                   <div className="space-y-2 border-t border-border/40 px-3 py-3 text-xs leading-relaxed text-muted-foreground">
@@ -585,20 +594,20 @@ export function ChartExplorer({
                     ) : null}
                     <p>
                       <span className="data-label">{t.why}: </span>
-                      {e.justification}
+                      {(fa && e.justificationFa) || e.justification}
                     </p>
-                    {e.caveats ? (
+                    {(fa && e.caveatsFa) || e.caveats ? (
                       <p>
                         <span className="data-label text-[#CA8A04]">
                           {t.caveat}:{" "}
                         </span>
-                        {e.caveats}
+                        {(fa && e.caveatsFa) || e.caveats}
                       </p>
                     ) : null}
                     <div className="flex flex-wrap gap-x-6 gap-y-1">
-                      {e.lag ? (
+                      {(fa && e.lagFa) || e.lag ? (
                         <span className="data-label">
-                          {t.lag}: {e.lag}
+                          {t.lag}: {(fa && e.lagFa) || e.lag}
                         </span>
                       ) : null}
                       {e.sourceUrl ? (
@@ -638,7 +647,7 @@ export function ChartExplorer({
                     <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                       {fa ? toPersianDigits(l.year) : l.year}
                     </span>
-                    <ConfidenceBars score={l.confidence} muted />
+                    <ConfidenceBadge relevance={l.relevance} attribution={l.attribution} muted t={t} />
                     <span className="flex-1 text-sm leading-snug">
                       {fa ? l.titleFa : l.titleEn || l.titleFa}
                     </span>
@@ -647,23 +656,23 @@ export function ChartExplorer({
                     {(fa ? l.summaryFa : l.summaryEn) ? (
                       <p>{fa ? l.summaryFa : l.summaryEn}</p>
                     ) : null}
-                    {l.justification ? (
+                    {(fa && l.justificationFa) || l.justification ? (
                       <p>
                         <span className="data-label">{t.why}: </span>
-                        {l.justification}
+                        {(fa && l.justificationFa) || l.justification}
                       </p>
                     ) : null}
-                    {l.caveats ? (
+                    {(fa && l.caveatsFa) || l.caveats ? (
                       <p>
                         <span className="data-label" style={{ color: LAW_COLOR }}>
                           {t.caveat}:{" "}
                         </span>
-                        {l.caveats}
+                        {(fa && l.caveatsFa) || l.caveats}
                       </p>
                     ) : null}
-                    {l.lag ? (
+                    {(fa && l.lagFa) || l.lag ? (
                       <span className="data-label">
-                        {t.lag}: {l.lag}
+                        {t.lag}: {(fa && l.lagFa) || l.lag}
                       </span>
                     ) : null}
                   </div>
@@ -677,16 +686,13 @@ export function ChartExplorer({
   );
 }
 
-function ConfidenceBars({
+function ScoreBars({
   score,
-  muted = false,
+  color,
 }: {
   score: number;
-  muted?: boolean;
+  color: string;
 }) {
-  // Laws use the same 1-5 scale but the quiet grey palette, so the two annotation
-  // layers stay visually distinct wherever they appear together.
-  const on = muted ? LAW_COLOR : EVENT_COLOR;
   return (
     <span className="flex gap-0.5" dir="ltr" aria-label={`${score}/5`}>
       {[1, 2, 3, 4, 5].map((n) => (
@@ -696,7 +702,7 @@ function ConfidenceBars({
           style={{
             backgroundColor:
               n <= score
-                ? on
+                ? color
                 : "color-mix(in oklch, currentColor 15%, transparent)",
           }}
         />
@@ -705,18 +711,45 @@ function ConfidenceBars({
   );
 }
 
-function ConfidenceBadge({ score, label }: { score: number; label: string }) {
+/**
+ * Two scores, never one. A single "confidence" number conflates two different
+ * questions and scored the White Revolution 1/5 against Iran's GDP: its causal
+ * channel is diffuse (low ATTRIBUTION) but it is central to the story (high
+ * RELEVANCE). Both are shown, always, so a strong-but-uncausal link reads honestly.
+ */
+function ConfidenceBadge({
+  relevance,
+  attribution,
+  muted = false,
+  t,
+}: {
+  relevance: number;
+  attribution: number;
+  muted?: boolean;
+  t: (typeof STRINGS)["en"];
+}) {
+  const on = muted ? LAW_COLOR : EVENT_COLOR;
   return (
-    <span
-      className="flex items-center gap-1.5"
-      title={`${label}: ${score}/5`}
-      aria-label={`${label}: ${score}/5`}
-    >
-      <span className="data-label">{label}</span>
-      <ConfidenceBars score={score} />
+    <span className="flex flex-wrap items-center gap-x-3 gap-y-1">
+      <span className="flex items-center gap-1.5">
+        <span className="data-label text-[9px] text-muted-foreground">
+          {t.relevance}
+        </span>
+        <ScoreBars score={relevance} color={on} />
+      </span>
+      <span className="flex items-center gap-1.5">
+        <span className="data-label text-[9px] text-muted-foreground">
+          {t.attribution}
+        </span>
+        <ScoreBars
+          score={attribution}
+          color="color-mix(in oklch, currentColor 45%, transparent)"
+        />
+      </span>
     </span>
   );
 }
+
 
 function CountryChip({
   name,

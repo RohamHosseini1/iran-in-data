@@ -54,13 +54,21 @@ export interface ChartEventDetail {
   year: number;
   date: string;
   title: string;
-  /** 1–5 strength-of-association score from the correlation registry. */
-  confidence: number;
+  /**
+   * TWO scores, deliberately separate. Collapsing them into one "confidence" is what
+   * scored the White Revolution 1/5 against Iran's GDP: its causal channel is diffuse
+   * (low attribution) but it is central to the story (high relevance).
+   */
+  relevance: number;
+  attribution: number;
   direction: string;
   relationship: string;
   lag: string;
+  lagFa: string;
   justification: string;
+  justificationFa: string;
   caveats: string;
+  caveatsFa: string;
   description?: string;
   /** Persian title/description from the timeline. The FA site must use these. */
   titleFa?: string;
@@ -90,13 +98,18 @@ export interface ChartLawDetail {
   titleEn: string;
   summaryEn: string;
   summaryFa: string;
-  /** 1-5. A law need not be causal to appear; weak links are recorded AS weak. */
-  confidence: number;
+  /** Should a reader of this chart see this law at all? (drives display order) */
+  relevance: number;
+  /** Can we actually say it moved this line? (drives the causal claim) */
+  attribution: number;
   relationship: string;
   direction: string;
   lag: string;
+  lagFa: string;
   justification: string;
+  justificationFa: string;
   caveats: string;
+  caveatsFa: string;
   /** "specific" = this chart was named; "category" = swept in with its whole domain. */
   scope: "specific" | "category";
 }
