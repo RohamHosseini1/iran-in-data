@@ -31,16 +31,22 @@ interface InteractiveChartProps {
  */
 
 /**
- * Wheel delta -> zoom. Deliberately gentle: a mouse notch (delta 100) should be a
- * nudge of a few percent, not a leap.
+ * Wheel delta -> zoom.
+ *
+ * This has to serve two very different devices. A mouse notch arrives as ONE event of
+ * deltaY ~100. A macOS trackpad arrives as a STREAM of ~30 events of deltaY ~2-5. A
+ * value tuned for the mouse (0.0009) moves the window 0.36% per trackpad event, so a
+ * whole flick did nothing and the chart felt dead. This value is tuned for the
+ * trackpad instead, and the MAX_STEP cap below is what keeps the mouse usable.
  */
-const ZOOM_SENSITIVITY = 0.0009;
+const ZOOM_SENSITIVITY = 0.004;
 /**
- * Hard ceiling on how far ONE wheel event may scale the window. This is what stops a
- * trackpad flick from slamming to a single year or to full extent: a fast gesture
- * sends more events, so it zooms further, but never faster per event.
+ * Hard ceiling on how far ONE wheel event may scale the window. This is what lets a
+ * single sensitivity serve both devices: a mouse notch would otherwise scale by 1.49x
+ * and slam to a stop, and it also stops trackpad momentum from running away. A fast
+ * gesture sends MORE events, so it zooms further, but never faster per event.
  */
-const MAX_STEP = 1.05;
+const MAX_STEP = 1.06;
 
 export function InteractiveChart({
   option,
