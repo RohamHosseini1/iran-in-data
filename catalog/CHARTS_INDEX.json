@@ -545,7 +545,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Alcoholic Beverages__consumption/data.csv",
-    "row_count": 2789,
+    "row_count": 1294,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -819,7 +819,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Animal Products__consumption/data.csv",
-    "row_count": 1959,
+    "row_count": 653,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -864,7 +864,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Animal fats__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -1127,7 +1127,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Apples and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -1594,7 +1594,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Aquatic Animals, Others__consumption/data.csv",
-    "row_count": 3223,
+    "row_count": 1292,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -1684,7 +1684,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Aquatic Plants__consumption/data.csv",
-    "row_count": 2845,
+    "row_count": 1166,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -1774,7 +1774,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Aquatic Products, Other__consumption/data.csv",
-    "row_count": 2845,
+    "row_count": 1166,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -2258,7 +2258,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Bananas__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -2537,7 +2537,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Barley and products__consumption/data.csv",
-    "row_count": 3163,
+    "row_count": 1264,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -3018,7 +3018,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Beans__consumption/data.csv",
-    "row_count": 3147,
+    "row_count": 1258,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -3302,7 +3302,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Beer__consumption/data.csv",
-    "row_count": 2726,
+    "row_count": 1290,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -3429,7 +3429,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Beverages, Alcoholic__consumption/data.csv",
-    "row_count": 2111,
+    "row_count": 1180,
     "status": "merged",
     "merged_into": "faostat__Alcoholic Beverages__consumption",
     "materialized": true
@@ -3519,7 +3519,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Beverages, Fermented__consumption/data.csv",
-    "row_count": 2494,
+    "row_count": 1176,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -3609,7 +3609,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Bovine Meat__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -4266,7 +4266,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Butter, Ghee__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -5020,7 +5020,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cassava and products__consumption/data.csv",
-    "row_count": 1921,
+    "row_count": 832,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -5636,7 +5636,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cephalopods__consumption/data.csv",
-    "row_count": 3262,
+    "row_count": 1305,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -5726,7 +5726,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cereals - Excluding Beer__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -5855,7 +5855,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cereals, Other__consumption/data.csv",
-    "row_count": 965,
+    "row_count": 386,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -7358,7 +7358,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Citrus, Other__consumption/data.csv",
-    "row_count": 2604,
+    "row_count": 1084,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -7448,7 +7448,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cloves__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -7582,7 +7582,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cocoa Beans and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -7672,7 +7672,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Coconut Oil__consumption/data.csv",
-    "row_count": 2705,
+    "row_count": 1188,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -7762,7 +7762,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Coconuts - Incl Copra__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -7852,7 +7852,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Coffee and products__consumption/data.csv",
-    "row_count": 2766,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -8097,7 +8097,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cottonseed Oil__consumption/data.csv",
-    "row_count": 2820,
+    "row_count": 1234,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -8307,7 +8307,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Cream__consumption/data.csv",
-    "row_count": 2980,
+    "row_count": 1192,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -8397,7 +8397,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Crustaceans__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -8683,7 +8683,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Dates__consumption/data.csv",
-    "row_count": 3212,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -8949,7 +8949,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Demersal Fish__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -10129,7 +10129,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Eggs__consumption/data.csv",
-    "row_count": 6530,
+    "row_count": 2612,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -10467,7 +10467,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Fats, Animals, Raw__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -11030,7 +11030,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Fish, Liver Oil__consumption/data.csv",
-    "row_count": 2944,
+    "row_count": 1199,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -11120,7 +11120,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Fish, Seafood__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -11210,7 +11210,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Freshwater Fish__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -11544,7 +11544,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Fruits - Excluding Wine__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -11634,7 +11634,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Fruits, other__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -11986,7 +11986,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Grand Total__consumption/data.csv",
-    "row_count": 1959,
+    "row_count": 653,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -12031,7 +12031,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Grapefruit and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -12121,7 +12121,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Grapes and products (excl wine)__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -12645,7 +12645,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Groundnut Oil__consumption/data.csv",
-    "row_count": 2819,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -12733,7 +12733,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Groundnuts (Shelled Eq)__consumption/data.csv",
-    "row_count": 2230,
+    "row_count": 892,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -13017,7 +13017,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Groundnuts__consumption/data.csv",
-    "row_count": 750,
+    "row_count": 300,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -13694,7 +13694,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Honey__consumption/data.csv",
-    "row_count": 2766,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -13820,7 +13820,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Infant food__consumption/data.csv",
-    "row_count": 1995,
+    "row_count": 798,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -14600,7 +14600,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Lemons, Limes and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -15496,7 +15496,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Maize Germ Oil__consumption/data.csv",
-    "row_count": 2819,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -15586,7 +15586,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Maize and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -15886,7 +15886,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Marine Fish, Other__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -18178,7 +18178,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Meat, Other__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -18506,7 +18506,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Meat__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -18714,7 +18714,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Milk - Excluding Butter__consumption/data.csv",
-    "row_count": 6530,
+    "row_count": 2612,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -19240,7 +19240,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Miscellaneous__consumption/data.csv",
-    "row_count": 4698,
+    "row_count": 1737,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -19367,7 +19367,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Molluscs, Other__consumption/data.csv",
-    "row_count": 3224,
+    "row_count": 1291,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -19703,7 +19703,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Mutton & Goat Meat__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -19876,7 +19876,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Nuts and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -19966,7 +19966,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Oats__consumption/data.csv",
-    "row_count": 2992,
+    "row_count": 1196,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -20056,7 +20056,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Offals, Edible__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -20146,7 +20146,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Offals__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -20310,7 +20310,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Oilcrops Oil, Other__consumption/data.csv",
-    "row_count": 3053,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -20756,7 +20756,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Oilcrops, Other__consumption/data.csv",
-    "row_count": 2762,
+    "row_count": 1126,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -20846,7 +20846,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Oilcrops__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -20936,7 +20936,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Olive Oil__consumption/data.csv",
-    "row_count": 2766,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -21061,7 +21061,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Olives (including preserved)__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -21537,7 +21537,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Onions__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -21627,7 +21627,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Oranges, Mandarines__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -23807,7 +23807,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Palm Oil__consumption/data.csv",
-    "row_count": 2267,
+    "row_count": 965,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -23938,7 +23938,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Palmkernel Oil__consumption/data.csv",
-    "row_count": 2183,
+    "row_count": 977,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -24924,7 +24924,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Peas__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -25014,7 +25014,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Pelagic Fish__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -25104,7 +25104,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Pepper__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -25364,7 +25364,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Pigmeat__consumption/data.csv",
-    "row_count": 2940,
+    "row_count": 1176,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -25454,7 +25454,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Pimento__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -25544,7 +25544,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Pineapples and products__consumption/data.csv",
-    "row_count": 2980,
+    "row_count": 1192,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -25808,7 +25808,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Plantains__consumption/data.csv",
-    "row_count": 2235,
+    "row_count": 894,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -26273,7 +26273,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Potatoes and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -26603,7 +26603,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Poultry Meat__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -26693,7 +26693,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Pulses, Other and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -26983,7 +26983,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Pulses__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -27453,7 +27453,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Rape and Mustard Oil__consumption/data.csv",
-    "row_count": 2855,
+    "row_count": 1278,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -27543,7 +27543,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Rape and Mustardseed__consumption/data.csv",
-    "row_count": 2869,
+    "row_count": 1190,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -29314,7 +29314,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Rice (Milled Equivalent)__consumption/data.csv",
-    "row_count": 2495,
+    "row_count": 998,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -29403,7 +29403,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Rice and products__consumption/data.csv",
-    "row_count": 770,
+    "row_count": 308,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -29686,7 +29686,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Ricebran Oil__consumption/data.csv",
-    "row_count": 579,
+    "row_count": 273,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -29971,7 +29971,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Roots, Other__consumption/data.csv",
-    "row_count": 2630,
+    "row_count": 1188,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -30061,7 +30061,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Rye and products__consumption/data.csv",
-    "row_count": 2790,
+    "row_count": 1135,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -30661,7 +30661,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sesame seed__consumption/data.csv",
-    "row_count": 2270,
+    "row_count": 908,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -30934,7 +30934,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sesameseed Oil__consumption/data.csv",
-    "row_count": 2484,
+    "row_count": 1172,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -31634,7 +31634,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sorghum and products__consumption/data.csv",
-    "row_count": 1185,
+    "row_count": 474,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -32178,7 +32178,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Soyabean Oil__consumption/data.csv",
-    "row_count": 3009,
+    "row_count": 1295,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -32268,7 +32268,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Soyabeans__consumption/data.csv",
-    "row_count": 2869,
+    "row_count": 1190,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -32358,7 +32358,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Spices, Other__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -32448,7 +32448,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Spices__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -32724,7 +32724,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Starchy Roots__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -32814,7 +32814,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Stimulants__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -33139,7 +33139,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sugar & Sweeteners__consumption/data.csv",
-    "row_count": 2766,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -33229,7 +33229,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sugar (Raw Equivalent)__consumption/data.csv",
-    "row_count": 2267,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -33463,7 +33463,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sugar Crops__consumption/data.csv",
-    "row_count": 1339,
+    "row_count": 638,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -33777,7 +33777,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sugar cane__consumption/data.csv",
-    "row_count": 999,
+    "row_count": 502,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -34314,7 +34314,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sunflowerseed Oil__consumption/data.csv",
-    "row_count": 3106,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -34403,7 +34403,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sweet potatoes__consumption/data.csv",
-    "row_count": 2567,
+    "row_count": 1042,
     "status": "merged",
     "merged_into": null,
     "materialized": true
@@ -34493,7 +34493,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Sweeteners, Other__consumption/data.csv",
-    "row_count": 2691,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -34847,7 +34847,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Tea (including mate)__consumption/data.csv",
-    "row_count": 2766,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -35108,7 +35108,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Tomatoes and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -35593,7 +35593,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Treenuts__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -35915,7 +35915,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Vegetable Oils__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -36249,7 +36249,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Vegetables, other__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -36339,7 +36339,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Vegetables__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -36429,7 +36429,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Vegetal Products__consumption/data.csv",
-    "row_count": 1959,
+    "row_count": 653,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -36861,7 +36861,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Wheat and products__consumption/data.csv",
-    "row_count": 3265,
+    "row_count": 1306,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -37297,7 +37297,7 @@
       }
     ],
     "data_path": "data/charts/faostat__Wine__consumption/data.csv",
-    "row_count": 2514,
+    "row_count": 1290,
     "status": "new",
     "merged_into": null,
     "materialized": true
