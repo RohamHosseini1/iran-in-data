@@ -99,6 +99,16 @@ export function InteractiveChart({
     };
 
     const onWheel = (ev: WheelEvent) => {
+      // Hit-test the CURSOR against the chart's rectangle rather than trusting the
+      // event's DOM path. A real wheel event's target is whichever inner SVG node sits
+      // under the pointer, and relying on it bubbling to this host (or on offsetX
+      // being relative to it) is exactly what made real trackpad input do nothing
+      // while synthetic events dispatched straight at the host worked fine.
+      const rect = host.getBoundingClientRect();
+      const x = ev.clientX - rect.left;
+      const y = ev.clientY - rect.top;
+      if (x < 0 || y < 0 || x > rect.width || y > rect.height) return;
+
       const bounds = zoomExtentRef.current;
       const win = currentWindow();
       if (!bounds || !win) return;
@@ -116,11 +126,11 @@ export function InteractiveChart({
       const raw = Math.exp(delta * ZOOM_SENSITIVITY);
       const factor = Math.min(Math.max(raw, 1 / MAX_STEP), MAX_STEP);
 
-      // Anchor under the cursor so the point you are pointing at stays put.
-      const px = chart.convertFromPixel({ xAxisIndex: 0 }, [
-        ev.offsetX,
-        ev.offsetY,
-      ]) as unknown as number[] | number;
+      // Anchor under the cursor, in coordinates relative to the CHART, so the point
+      // you are pointing at stays put.
+      const px = chart.convertFromPixel({ xAxisIndex: 0 }, [x, y]) as unknown as
+        | number[]
+        | number;
       const cursor = Array.isArray(px) ? px[0] : px;
       const anchor =
         typeof cursor === "number" && Number.isFinite(cursor)
@@ -144,7 +154,9 @@ export function InteractiveChart({
       }
       chart.dispatchAction({ type: "dataZoom", startValue: start, endValue: end });
     };
-    host.addEventListener("wheel", onWheel, { passive: false });
+    // On WINDOW, capture phase: this sees the event before anything can stop it and
+    // regardless of what element ECharts happens to render under the cursor.
+    window.addEventListener("wheel", onWheel, { capture: true, passive: false });
 
     // Marker hover → detail card beside the chart. Events (amber) and laws (grey)
     // are separate markLine series, so route by seriesName.
@@ -168,7 +180,7 @@ export function InteractiveChart({
     const observer = new ResizeObserver(() => chart.resize());
     observer.observe(host);
     return () => {
-      host.removeEventListener("wheel", onWheel);
+      window.removeEventListener("wheel", onWheel, { capture: true });
       observer.disconnect();
       chart.dispose();
       chartRef.current = null;
