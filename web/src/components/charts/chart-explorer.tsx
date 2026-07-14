@@ -30,7 +30,7 @@ import {
 import { countryNameFa } from "@/lib/i18n/countries-fa";
 import { usePref } from "@/lib/use-pref";
 import type { ChartPayload, SubYearSeries } from "@/lib/data/payload";
-import type { ChartEventDetail, ChartLawDetail, EraBand } from "@/lib/data/types";
+import type { ChartEventDetail, ChartLawDetail } from "@/lib/data/types";
 import type { Locale } from "@/lib/i18n/config";
 
 import { Switch } from "@/components/ui/switch";
@@ -49,8 +49,6 @@ interface ChartExplorerProps {
   events?: ChartEventDetail[];
   /** Laws/regulations: the quiet grey annotation layer. */
   laws?: ChartLawDetail[];
-  /** Well-known periods drawn as shaded bands. */
-  eras?: EraBand[];
 }
 
 const STRINGS = {
@@ -126,7 +124,6 @@ export function ChartExplorer({
   ssrSvg,
   events = [],
   laws = [],
-  eras = [],
 }: ChartExplorerProps) {
   const t = STRINGS[locale];
   const fa = locale === "fa";
@@ -243,18 +240,14 @@ export function ChartExplorer({
   // Laws are already sorted strongest-first. A broad law (a VAT act) attaches to many
   // charts, so only the strongest few become markers; every one is listed below the
   // chart, so nothing is hidden from the reader.
-  const MARKER_LAWS = 8;
-  const MARKER_EVENTS = 12;
-  const markerLaws = React.useMemo(() => laws.slice(0, MARKER_LAWS), [laws]);
+  // No cap. Capping "strongest first" spent the budget on whichever era happened to
+  // have the most laws (the 1950s), so later ones never got drawn at all, and a
+  // confidence-5 event could be omitted while a confidence-2 one was shown. There
+  // are not that many per chart, so draw them all and number them 1..N.
+  const markerLaws = laws;
   // Densely-annotated charts (the FX chart carries 56 events) would otherwise be a
   // wall of markers. Show the strongest, keep every one in the log below the chart.
-  const markerEvents = React.useMemo(() => {
-    if (events.length <= MARKER_EVENTS) return events;
-    return [...events]
-      .sort((a, b) => b.confidence - a.confidence || a.year - b.year)
-      .slice(0, MARKER_EVENTS)
-      .sort((a, b) => a.year - b.year);
-  }, [events]);
+  const markerEvents = events;
   const [hoverLaw, setHoverLaw] = React.useState<number | null>(null);
   const lawTimer = React.useRef<ReturnType<typeof setTimeout> | null>(null);
   const handleLawHover = React.useCallback((idx: number | null) => {
@@ -264,23 +257,6 @@ export function ChartExplorer({
   }, []);
   const hoveredLaw = hoverLaw != null ? markerLaws[hoverLaw] : null;
 
-  // Only shade eras that actually overlap this chart's data: a 2010-2023 series has
-  // no business showing a 1941 occupation band.
-  const visibleEras = React.useMemo(() => {
-    const years = payload.years ?? [];
-    if (!years.length || !eras.length) return [];
-    const first = Number(years[0]);
-    const last = Number(years[years.length - 1]);
-    if (!Number.isFinite(first) || !Number.isFinite(last)) return [];
-    const span = last - first;
-    return eras
-      .filter((e) => e.endYear >= first && e.startYear <= last)
-      .map((e) => {
-        const visible =
-          Math.min(e.endYear, last) - Math.max(e.startYear, first);
-        return { ...e, wideEnough: span > 0 && visible / span >= 0.09 };
-      });
-  }, [eras, payload.years]);
 
   const option = React.useMemo(() => {
     const chrome = mounted
@@ -300,23 +276,19 @@ export function ChartExplorer({
       displayNames,
       nowYear: NOW_YEAR,
       projectionLabel: t.projection,
-      events: markerEvents.map((e) => ({ year: e.year, title: e.title })),
+      events: markerEvents.map((e) => ({
+        year: e.year,
+        title: (fa && e.titleFa) || e.title,
+      })),
       laws: markerLaws.map((l) => ({
         year: l.year,
         title: fa ? l.titleFa : l.titleEn || l.titleFa,
-      })),
-      eras: visibleEras.map((e) => ({
-        startYear: e.startYear,
-        endYear: e.endYear,
-        // Label a band only if it is wide enough to hold the text; otherwise the
-        // names of narrow, adjacent eras collide into an unreadable smear.
-        title: e.wideEnough ? (fa ? e.titleFa : e.title) : "",
       })),
       subYear: payload.subYear,
       formatTime,
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [payload, variantCode, activeCountries, formatYear, resolvedTheme, mounted, fa, chartType, variant, displayNames, markerEvents, markerLaws, visibleEras, formatTime]);
+  }, [payload, variantCode, activeCountries, formatYear, resolvedTheme, mounted, fa, chartType, variant, displayNames, markerEvents, markerLaws, formatTime]);
 
   const zoomExtent = React.useMemo(
     () =>
@@ -547,11 +519,15 @@ export function ChartExplorer({
                 <ConfidenceBars score={hovered.confidence} />
               </div>
               <p className="mt-1.5 text-sm font-medium leading-snug">
-                {hovered.title}
+                {(fa && hovered.titleFa) || hovered.title}
               </p>
-              {hovered.description || hovered.justification ? (
+              {(fa && hovered.descriptionFa) ||
+              hovered.description ||
+              hovered.justification ? (
                 <p className="mt-1.5 line-clamp-4 text-xs leading-relaxed text-muted-foreground">
-                  {hovered.description || hovered.justification}
+                  {(fa && hovered.descriptionFa) ||
+                    hovered.description ||
+                    hovered.justification}
                 </p>
               ) : null}
               {hovered.caveats ? (
@@ -590,21 +566,23 @@ export function ChartExplorer({
                 <details className="group border border-border/50 bg-background/40">
                   <summary className="flex cursor-pointer flex-wrap items-baseline gap-x-3 gap-y-1 px-3 py-2 transition-colors hover:bg-muted/40">
                     <span className="font-data text-[10px] text-[#CA8A04]">
-                      {markerNo.has(`${e.date}|${e.title}`)
-                        ? String(markerNo.get(`${e.date}|${e.title}`)).padStart(2, "0")
-                        : "\u00b7\u00b7"}
+                      {String(i + 1).padStart(2, "0")}
                     </span>
                     <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                       {fa ? toPersianDigits(e.year) : e.year}
                     </span>
-                    <span className="min-w-0 flex-1 text-sm">{e.title}</span>
+                    <span className="min-w-0 flex-1 text-sm">
+                      {(fa && e.titleFa) || e.title}
+                    </span>
                     <ConfidenceBadge
                       score={e.confidence}
                       label={t.association}
                     />
                   </summary>
                   <div className="space-y-2 border-t border-border/40 px-3 py-3 text-xs leading-relaxed text-muted-foreground">
-                    {e.description ? <p>{e.description}</p> : null}
+                    {(fa && e.descriptionFa) || e.description ? (
+                      <p>{(fa && e.descriptionFa) || e.description}</p>
+                    ) : null}
                     <p>
                       <span className="data-label">{t.why}: </span>
                       {e.justification}

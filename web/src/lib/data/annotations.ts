@@ -4,7 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 import { readCsvObjects } from "./events";
-import type { ChartLawDetail, EraBand } from "./types";
+import type { ChartLawDetail } from "./types";
 
 const DATA_ROOT = process.env.IRAN_DATA_ROOT ?? path.resolve(process.cwd(), "..");
 
@@ -13,7 +13,6 @@ const DATA_ROOT = process.env.IRAN_DATA_ROOT ?? path.resolve(process.cwd(), ".."
  *
  *   events -> golden-orange markers   (see events.ts)
  *   laws   -> low-opacity GREY markers (here)
- *   eras   -> shaded bands            (here)
  *
  * Laws are PERSIAN-FIRST: the enacted Persian title is authoritative and is what the
  * Persian site shows verbatim; English shows a translation. A law does not need proven
@@ -22,7 +21,6 @@ const DATA_ROOT = process.env.IRAN_DATA_ROOT ?? path.resolve(process.cwd(), ".."
  */
 
 let lawCache: Map<string, ChartLawDetail[]> | null = null;
-let eraCache: EraBand[] | null = null;
 
 function buildLawIndex(): Map<string, ChartLawDetail[]> {
   const linksPath = path.join(DATA_ROOT, "data", "processed", "law_chart_links.csv");
@@ -66,48 +64,23 @@ function buildLawIndex(): Map<string, ChartLawDetail[]> {
     else index.set(r.chart_id, [detail]);
   }
 
-  // strongest first (confidence, then a directly-named chart beats a category sweep)
+  // Chronological: every law is drawn, so the markers must read left-to-right and the
+  // numbered log must line up with them. (Confidence-sorting made sense only while a
+  // cap meant "which ones get drawn"; there is no cap now.)
   for (const list of index.values()) {
     list.sort(
       (a, b) =>
+        a.year - b.year ||
         b.confidence - a.confidence ||
-        (a.scope === "specific" ? -1 : 1) - (b.scope === "specific" ? -1 : 1) ||
-        a.year - b.year
+        a.titleEn.localeCompare(b.titleEn)
     );
   }
   return index;
 }
 
-/**
- * Laws related to one chart, strongest first.
- * A broad law (a VAT act, a currency redenomination) legitimately attaches to many
- * charts, so the caller renders only the top few as markers and lists the remainder
- * below the chart -- nothing is dropped from the data.
- */
+/** Laws related to one chart, chronological. Every one is drawn and listed. */
 export function getChartLaws(chartId: string): ChartLawDetail[] {
   if (!lawCache) lawCache = buildLawIndex();
   return lawCache.get(chartId) ?? [];
 }
 
-/** Well-known periods (Revolution, war, sanctions eras) drawn as shaded bands. */
-export function getEras(): EraBand[] {
-  if (!eraCache) {
-    const p = path.join(DATA_ROOT, "timeline", "eras.csv");
-    eraCache = fs.existsSync(p)
-      ? readCsvObjects(p).map((r) => ({
-          eraId: r.era_id,
-          country: r.country,
-          startYear: Number(String(r.start_date).slice(0, 4)),
-          endYear: Number(String(r.end_date).slice(0, 4)),
-          title: r.title,
-          titleFa: r.title_fa,
-          description: r.description,
-          descriptionFa: r.description_fa,
-          kind: r.kind,
-          sourceUrl: r.source_url,
-          sourceName: r.source_name,
-        })).filter((e) => Number.isFinite(e.startYear) && Number.isFinite(e.endYear))
-      : [];
-  }
-  return eraCache;
-}

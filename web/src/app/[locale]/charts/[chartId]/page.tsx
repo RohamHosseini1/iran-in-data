@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 
 import { getCatalog, getChartData, getChartEntry } from "@/lib/data/catalog";
 import { getChartEvents } from "@/lib/data/events";
-import { getChartLaws, getEras } from "@/lib/data/annotations";
+import { getChartLaws } from "@/lib/data/annotations";
 import { pickDefaultVariant } from "@/lib/charts/variant-labels";
 import { labelUnitText } from "@/lib/charts/unit-format";
 import { toPersianDigits } from "@/lib/calendar";
@@ -140,7 +140,6 @@ export default async function ChartDetailPage({ params }: PageProps) {
 
   const events = getChartEvents(chartId);
   const laws = getChartLaws(chartId);
-  const eras = getEras();
 
   const related = getCatalog()
     .filter((e) => e.category === entry.category && e.chart_id !== entry.chart_id)
@@ -275,7 +274,6 @@ export default async function ChartDetailPage({ params }: PageProps) {
             ssrSvg={ssrSvg}
             events={events}
             laws={laws}
-            eras={eras}
           />
         </div>
       </div>

@@ -62,6 +62,9 @@ export interface ChartEventDetail {
   justification: string;
   caveats: string;
   description?: string;
+  /** Persian title/description from the timeline. The FA site must use these. */
+  titleFa?: string;
+  descriptionFa?: string;
   sourceUrl?: string;
   sourceName?: string;
 }
@@ -98,17 +101,3 @@ export interface ChartLawDetail {
   scope: "specific" | "category";
 }
 
-/** A well-known period drawn as a shaded band rather than a point marker. */
-export interface EraBand {
-  eraId: string;
-  country: string;
-  startYear: number;
-  endYear: number;
-  title: string;
-  titleFa: string;
-  description: string;
-  descriptionFa: string;
-  kind: string;
-  sourceUrl: string;
-  sourceName: string;
-}

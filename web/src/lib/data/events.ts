@@ -21,7 +21,10 @@ interface CorrelationRow {
 }
 
 let correlationCache: CorrelationRow[] | null = null;
-const timelineCache = new Map<string, Map<string, { description: string; url: string; source: string }>>();
+const timelineCache = new Map<
+  string,
+  Map<string, { description: string; url: string; source: string; titleFa: string; descriptionFa: string }>
+>();
 
 function parseCsvRows(text: string): string[][] {
   const rows: string[][] = [];
@@ -76,7 +79,10 @@ function getCorrelations(): CorrelationRow[] {
 
 function getTimelineDetails(sourceFile: string) {
   if (!timelineCache.has(sourceFile)) {
-    const map = new Map<string, { description: string; url: string; source: string }>();
+    const map = new Map<
+      string,
+      { description: string; url: string; source: string; titleFa: string; descriptionFa: string }
+    >();
     const full = path.join(DATA_ROOT, sourceFile);
     if (fs.existsSync(full)) {
       for (const row of readCsvObjects(full)) {
@@ -84,6 +90,8 @@ function getTimelineDetails(sourceFile: string) {
           description: row.description ?? "",
           url: row.source_url ?? "",
           source: row.source_name ?? "",
+          titleFa: row.title_fa ?? "",
+          descriptionFa: row.description_fa ?? "",
         });
       }
     }
@@ -110,6 +118,8 @@ export function getChartEvents(chartId: string): ChartEventDetail[] {
         lag: c.lag_description,
         justification: c.justification,
         caveats: c.caveats,
+        titleFa: detail?.titleFa,
+        descriptionFa: detail?.descriptionFa,
         description: detail?.description,
         sourceUrl: detail?.url,
         sourceName: detail?.source,
