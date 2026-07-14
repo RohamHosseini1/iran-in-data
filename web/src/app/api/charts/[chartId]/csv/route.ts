@@ -25,8 +25,9 @@ export async function GET(
   const entry = getCatalog().find((e) => e.chart_id === chartId);
   if (!entry) return new Response("Not found", { status: 404 });
 
+  // chart_id → on-disk folder: the materializer slugifies "/" (e.g. "Swine / pigs").
   const csv = fs.readFileSync(
-    path.join(DATA_ROOT, "data", "charts", entry.chart_id, "data.csv"),
+    path.join(DATA_ROOT, "data", "charts", entry.chart_id.replace(/\//g, "_"), "data.csv"),
     "utf-8"
   );
   return new Response(csv, {

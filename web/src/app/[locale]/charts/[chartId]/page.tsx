@@ -144,7 +144,10 @@ export default async function ChartDetailPage({ params }: PageProps) {
     "@type": "Dataset",
     name: entry.title,
     description: entry.description || entry.title,
-    temporalCoverage: `${entry.year_range[0]}/${entry.year_range[1]}`,
+    temporalCoverage:
+      Array.isArray(entry.year_range) && entry.year_range.length >= 2
+        ? `${entry.year_range[0]}/${entry.year_range[1]}`
+        : undefined,
     spatialCoverage: entry.countries.join(", "),
     creator: entry.citations?.[0]?.source_org,
     url: `/${locale}/charts/${encodeURIComponent(entry.chart_id)}`,

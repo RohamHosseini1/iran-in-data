@@ -35,9 +35,15 @@ export function getChartEntry(chartId: string): ChartIndexEntry | undefined {
   return getCatalog().find((e) => e.chart_id === chartId);
 }
 
+/** chart_id → on-disk folder name; the materializer slugifies "/" (the only
+    filesystem-unsafe character in real ids, e.g. "Swine / pigs"). */
+function chartDir(chartId: string): string {
+  return chartId.replace(/\//g, "_");
+}
+
 export function getChartMeta(chartId: string): ChartMeta {
   const raw = fs.readFileSync(
-    path.join(DATA_ROOT, "data", "charts", chartId, "meta.json"),
+    path.join(DATA_ROOT, "data", "charts", chartDir(chartId), "meta.json"),
     "utf-8"
   );
   return JSON.parse(raw) as ChartMeta;
@@ -45,7 +51,7 @@ export function getChartMeta(chartId: string): ChartMeta {
 
 export function getChartData(chartId: string): DataRow[] {
   const raw = fs.readFileSync(
-    path.join(DATA_ROOT, "data", "charts", chartId, "data.csv"),
+    path.join(DATA_ROOT, "data", "charts", chartDir(chartId), "data.csv"),
     "utf-8"
   );
   return parseCsv(raw);
