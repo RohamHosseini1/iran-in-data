@@ -1,41 +1,41 @@
 {
-  "chart_id": "faostat__Sunflower seed__price",
-  "title": "Sunflower seed — Producer Price",
-  "category": "Agriculture Prices",
-  "sources": "faostat-pp+pa",
-  "n_rows": 2406,
-  "year_range": [
-    "1966",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GRC",
-    "IRN",
-    "ITA",
-    "PRT",
-    "RUS",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "دانه آفتابگردان — قیمت تولیدکننده"
+ "chart_id": "faostat__Sunflower seed__price",
+ "title": "Sunflower seed, Producer Price",
+ "category": "Agriculture Prices",
+ "sources": "faostat-pp+pa",
+ "n_rows": 2406,
+ "year_range": [
+  "1966",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GRC",
+  "IRN",
+  "ITA",
+  "PRT",
+  "RUS",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "قیمت‌های کشاورزی",
+ "title_fa": "قیمت تولیدکننده دانه آفتابگردان"
 }

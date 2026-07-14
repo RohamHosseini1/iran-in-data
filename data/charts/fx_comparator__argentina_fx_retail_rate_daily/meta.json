@@ -1,24 +1,24 @@
 {
-  "chart_id": "fx_comparator__argentina_fx_retail_rate_daily",
-  "title": "Argentina (BCRA) Retail ARS/USD Exchange Rate, Daily (2010-2026)",
-  "category": "Comparator: Argentina FX & Rates",
-  "sources": "bcra-argentina",
-  "n_rows": 3918,
-  "year_range": [
-    "2010",
-    "2026"
-  ],
-  "countries": [
-    "ARG"
-  ],
-  "citations": [
-    {
-      "source_org": "Banco Central de la República Argentina (BCRA)",
-      "source_url": "https://www.bcra.gob.ar/en/central-bank-api-catalog/",
-      "access_date": "2026-07-13",
-      "time_range": "2010-2026"
-    }
-  ],
-  "category_fa": "مقایسه‌ای: ارز و نرخ‌های آرژانتین",
-  "title_fa": "آرژانتین (BCRA) — نرخ ارز خرده‌فروشی پزو/دلار، روزانه (2010-2026)"
+ "chart_id": "fx_comparator__argentina_fx_retail_rate_daily",
+ "title": "Argentina (BCRA) Retail ARS/USD Exchange Rate, Daily (2010-2026)",
+ "category": "Comparator: Argentina FX & Rates",
+ "sources": "bcra-argentina",
+ "n_rows": 3918,
+ "year_range": [
+  "2010",
+  "2026"
+ ],
+ "countries": [
+  "ARG"
+ ],
+ "citations": [
+  {
+   "source_org": "Banco Central de la República Argentina (BCRA)",
+   "source_url": "https://www.bcra.gob.ar/en/central-bank-api-catalog/",
+   "access_date": "2026-07-13",
+   "time_range": "2010-2026"
+  }
+ ],
+ "category_fa": "مقایسه‌ای: ارز و نرخ‌های آرژانتین",
+ "title_fa": "نرخ ارز خرده‌فروشی پزو/دلار آرژانتین (BCRA)، روزانه (2010-2026)"
 }

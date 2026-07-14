@@ -1,36 +1,36 @@
 {
-  "chart_id": "faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__price",
-  "title": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw — Producer Price",
-  "category": "Agriculture Prices",
-  "sources": "faostat-pp+pa",
-  "n_rows": 601,
-  "year_range": [
-    "1966",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "ESP",
-    "GRC",
-    "IRN",
-    "NLD",
-    "RUS",
-    "TUR"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "انیسون، بادیان ختایی، گشنیز، زیره سبز، زیره سیاه، رازیانه و دانه ارس، خام — قیمت تولیدکننده"
+ "chart_id": "faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__price",
+ "title": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw, producer price",
+ "category": "Agriculture Prices",
+ "sources": "faostat-pp+pa",
+ "n_rows": 601,
+ "year_range": [
+  "1966",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "ESP",
+  "GRC",
+  "IRN",
+  "NLD",
+  "RUS",
+  "TUR"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "قیمت‌های کشاورزی",
+ "title_fa": "قیمت تولیدکننده انیسون، بادیان ختایی، گشنیز، زیره سبز، زیره سیاه، رازیانه و دانه ارس، خام"
 }

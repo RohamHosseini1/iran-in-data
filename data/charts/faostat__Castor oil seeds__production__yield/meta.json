@@ -1,0 +1,29 @@
+{
+ "chart_id": "faostat__Castor oil seeds__production__yield",
+ "title": "Castor oil seeds, yield (kg/ha)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 189,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "IRN",
+  "ITA",
+  "KOR",
+  "RUS",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "عملکرد دانه کرچک (کیلوگرم بر هکتار)"
+}

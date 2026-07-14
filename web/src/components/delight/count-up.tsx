@@ -55,33 +55,47 @@ export function CountUp({
       return;
     }
     let raf = 0;
+    let settle: ReturnType<typeof setTimeout> | null = null;
     const run = (from: number, dur: number) => {
       const start = performance.now();
+      const lo = Math.min(from, value);
+      const hi = Math.max(from, value);
       const tick = (now: number) => {
         const t = Math.min(1, (now - start) / dur);
         const eased = 1 - Math.pow(1 - t, 3);
-        const current = from + (value - from) * eased;
+        const current = Math.min(hi, Math.max(lo, from + (value - from) * eased));
         shownValue.current = current;
         setDisplay(fmt(current));
         if (t < 1) raf = requestAnimationFrame(tick);
       };
       raf = requestAnimationFrame(tick);
     };
+    // rAF and IntersectionObserver both stall in hidden tabs; guarantee the
+    // final value lands regardless of whether the animation ever ran.
+    settle = setTimeout(() => {
+      shownValue.current = value;
+      setDisplay(fmt(value));
+    }, duration + 400);
     // After the first reveal, later value changes (e.g. switching measure)
     // re-count quickly from the currently shown number.
     if (started.current) {
       run(shownValue.current, 350);
-      return () => cancelAnimationFrame(raf);
+      return () => {
+        cancelAnimationFrame(raf);
+        if (settle) clearTimeout(settle);
+      };
     }
     const observer = new IntersectionObserver((entries) => {
       if (!entries[0].isIntersecting || started.current) return;
       started.current = true;
-      run(0, duration);
+      // If the settle fallback already landed the value, don't rewind to 0.
+      run(shownValue.current !== value ? shownValue.current : value, duration);
     });
     observer.observe(el);
     return () => {
       observer.disconnect();
       cancelAnimationFrame(raf);
+      if (settle) clearTimeout(settle);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [value, duration]);

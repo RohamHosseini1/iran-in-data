@@ -1,46 +1,46 @@
 {
-  "chart_id": "faostat__Cereals, Other__consumption",
-  "title": "Cereals, Other — Per-Capita Food Consumption",
-  "category": "Food Consumption",
-  "sources": "faostat-fbs+fbsh",
-  "n_rows": 1190,
-  "year_range": [
-    "2010",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "مصرف مواد غذایی",
-  "title_fa": "غلات، سایر — مصرف سرانه مواد غذایی"
+ "chart_id": "faostat__Cereals, Other__consumption",
+ "title": "Cereals, other, Per-Capita Food Consumption",
+ "category": "Food Consumption",
+ "sources": "faostat-fbs+fbsh",
+ "n_rows": 1190,
+ "year_range": [
+  "2010",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "مصرف مواد غذایی",
+ "title_fa": "غلات، سایر، مصرف سرانه مواد غذایی"
 }

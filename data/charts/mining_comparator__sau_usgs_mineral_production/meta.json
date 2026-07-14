@@ -1,24 +1,24 @@
 {
-  "chart_id": "mining_comparator__sau_usgs_mineral_production",
-  "title": "Saudi Arabia — Mineral Production, Major Commodities (USGS Minerals Yearbook)",
-  "category": "Comparator: Mining & Minerals Production",
-  "sources": "usgs-minerals-yearbook",
-  "n_rows": 694,
-  "year_range": [
-    "2014",
-    "2023"
-  ],
-  "countries": [
-    "SAU"
-  ],
-  "citations": [
-    {
-      "source_org": "U.S. Geological Survey, National Minerals Information Center",
-      "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/saudi-arabia",
-      "access_date": "2026-07-13",
-      "time_range": "2014-2023"
-    }
-  ],
-  "category_fa": "مقایسه‌ای: تولید معدن و مواد معدنی",
-  "title_fa": "عربستان سعودی — تولید مواد معدنی، کالاهای عمده (سالنامه معدنی USGS)"
+ "chart_id": "mining_comparator__sau_usgs_mineral_production",
+ "title": "Saudi Arabia, Mineral Production, Major Commodities (USGS Minerals Yearbook)",
+ "category": "Comparator: Mining & Minerals Production",
+ "sources": "usgs-minerals-yearbook",
+ "n_rows": 694,
+ "year_range": [
+  "2014",
+  "2023"
+ ],
+ "countries": [
+  "SAU"
+ ],
+ "citations": [
+  {
+   "source_org": "U.S. Geological Survey, National Minerals Information Center",
+   "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/saudi-arabia",
+   "access_date": "2026-07-13",
+   "time_range": "2014-2023"
+  }
+ ],
+ "category_fa": "مقایسه‌ای: تولید معدن و مواد معدنی",
+ "title_fa": "تولید مواد معدنی عربستان سعودی، کالاهای عمده (سالنامه معدنی USGS)"
 }

@@ -1,25 +1,25 @@
 {
-  "chart_id": "spain_comparator__gdp_long_run_1850_2000",
-  "title": "Spain — Real & Nominal GDP, GDP per Capita, 1850-2000 (Carreras & Tafunell)",
-  "category": "Comparator: Macro / National Accounts",
-  "sources": "banco-espana-historical:carreras-tafunell",
-  "n_rows": 1511,
-  "year_range": [
-    "1850",
-    "4743"
-  ],
-  "countries": [
-    "ESP"
-  ],
-  "citations": [
-    {
-      "source_org": "Fundación BBVA",
-      "source_url": "https://www.fbbva.es/en/publicaciones/estadisticas-historicas-de-espana-siglos-xix-xx-2/",
-      "access_date": "2026-07-12",
-      "time_range": "",
-      "match_confidence": "fuzzy:3tok:carreras-tafunell-historical-statistics"
-    }
-  ],
-  "category_fa": "مقایسه‌ای: کلان / حساب‌های ملی",
-  "title_fa": "اسپانیا — تولید ناخالص داخلی واقعی و اسمی و تولید ناخالص داخلی سرانه، 1850-2000 (کارراس و تافونل)"
+ "chart_id": "spain_comparator__gdp_long_run_1850_2000",
+ "title": "Spain, Real & Nominal GDP, GDP per Capita, 1850-2000 (Carreras & Tafunell)",
+ "category": "Comparator: Macro / National Accounts",
+ "sources": "banco-espana-historical:carreras-tafunell",
+ "n_rows": 1511,
+ "year_range": [
+  "1850",
+  "4743"
+ ],
+ "countries": [
+  "ESP"
+ ],
+ "citations": [
+  {
+   "source_org": "Fundación BBVA",
+   "source_url": "https://www.fbbva.es/en/publicaciones/estadisticas-historicas-de-espana-siglos-xix-xx-2/",
+   "access_date": "2026-07-12",
+   "time_range": "",
+   "match_confidence": "fuzzy:3tok:carreras-tafunell-historical-statistics"
+  }
+ ],
+ "category_fa": "مقایسه‌ای: کلان / حساب‌های ملی",
+ "title_fa": "تولید ناخالص داخلی واقعی و اسمی و تولید ناخالص داخلی سرانه اسپانیا، 1850-2000 (کارراس و تافونل)"
 }

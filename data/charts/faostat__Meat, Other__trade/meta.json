@@ -1,46 +1,46 @@
 {
-  "chart_id": "faostat__Meat, Other__trade",
-  "title": "Meat, Other — Imports & Exports",
-  "category": "Agriculture Trade",
-  "sources": "faostat-fbs+fbsh",
-  "n_rows": 1519,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تجارت کشاورزی",
-  "title_fa": "گوشت، سایر — صادرات و واردات"
+ "chart_id": "faostat__Meat, Other__trade",
+ "title": "Meat, Other, imports and exports (1000 tonnes)",
+ "category": "Agriculture Trade",
+ "sources": "faostat-fbs+fbsh",
+ "n_rows": 1519,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تجارت کشاورزی",
+ "title_fa": "صادرات و واردات سایر گوشت"
 }

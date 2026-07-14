@@ -1,40 +1,40 @@
 {
-  "chart_id": "wdi__HD_HCIP_OVRL",
-  "title": "Human capital index plus (HCI+): overall score, male (scale 0–325)",
-  "category": "Human Capital",
-  "sources": "wdi",
-  "n_rows": 184,
-  "year_range": [
-    "2010",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/HD_HCIP_OVRL_FE",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "سرمایه انسانی",
-  "title_fa": "شاخص سرمایه انسانی به‌علاوه (HCI+): امتیاز کلی، مردان (مقیاس 0 تا 325)"
+ "chart_id": "wdi__HD_HCIP_OVRL",
+ "title": "Human capital index plus (HCI+): overall score, male (scale 0, 325)",
+ "category": "Human Capital",
+ "sources": "wdi",
+ "n_rows": 184,
+ "year_range": [
+  "2010",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/HD_HCIP_OVRL_FE",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "سرمایه انسانی",
+ "title_fa": "شاخص سرمایه انسانی به‌علاوه (HCI+): امتیاز کلی، مردان (مقیاس 0 تا 325)"
 }

@@ -1,38 +1,38 @@
 {
-  "chart_id": "faostat__Bananas__price",
-  "title": "Bananas — Producer Price",
-  "category": "Agriculture Prices",
-  "sources": "faostat-pp+pa",
-  "n_rows": 1457,
-  "year_range": [
-    "1966",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "ESP",
-    "GRC",
-    "IRN",
-    "ITA",
-    "PRT",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "موز — قیمت تولیدکننده"
+ "chart_id": "faostat__Bananas__price",
+ "title": "Bananas, producer price",
+ "category": "Agriculture Prices",
+ "sources": "faostat-pp+pa",
+ "n_rows": 1457,
+ "year_range": [
+  "1966",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "ESP",
+  "GRC",
+  "IRN",
+  "ITA",
+  "PRT",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "قیمت‌های کشاورزی",
+ "title_fa": "قیمت تولیدکننده موز"
 }

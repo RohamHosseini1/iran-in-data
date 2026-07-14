@@ -1,46 +1,46 @@
 {
-  "chart_id": "faostat__Fruits, other__consumption",
-  "title": "Fruits, other — Per-Capita Food Consumption",
-  "category": "Food Consumption",
-  "sources": "faostat-fbs+fbsh",
-  "n_rows": 5275,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "مصرف مواد غذایی",
-  "title_fa": "میوه‌ها، سایر — مصرف سرانه مواد غذایی"
+ "chart_id": "faostat__Fruits, other__consumption",
+ "title": "Fruits, other, per-capita food consumption",
+ "category": "Food Consumption",
+ "sources": "faostat-fbs+fbsh",
+ "n_rows": 5275,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "مصرف مواد غذایی",
+ "title_fa": "سرانه مصرف سایر میوه‌ها"
 }

@@ -1,0 +1,28 @@
+{
+ "chart_id": "faostat__Mangoes, guavas and mangosteens__production__production",
+ "title": "Mangoes, guavas and mangosteens, production (t)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 264,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "IRN",
+  "SAU",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید انبه، گواوا و منگوستین (تن)"
+}

@@ -1,41 +1,41 @@
 {
-  "chart_id": "faostat__Sesame seed__consumption",
-  "title": "Sesame seed — Per-Capita Food Consumption",
-  "category": "Food Consumption",
-  "sources": "faostat-fbs+fbsh",
-  "n_rows": 3275,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "ESP",
-    "GBR",
-    "GRC",
-    "IRN",
-    "KOR",
-    "NLD",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBS",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "مصرف مواد غذایی",
-  "title_fa": "دانه کنجد — مصرف سرانه مواد غذایی"
+ "chart_id": "faostat__Sesame seed__consumption",
+ "title": "Sesame seed, per-capita food consumption",
+ "category": "Food Consumption",
+ "sources": "faostat-fbs+fbsh",
+ "n_rows": 3275,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "ESP",
+  "GBR",
+  "GRC",
+  "IRN",
+  "KOR",
+  "NLD",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBS",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/FBSH",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "مصرف مواد غذایی",
+ "title_fa": "سرانه مصرف دانه کنجد"
 }

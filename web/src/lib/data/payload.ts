@@ -94,25 +94,54 @@ export function buildChartPayload(rows: DataRow[]): ChartPayload {
 }
 
 function buildSubYear(rows: DataRow[], yearCount: number): SubYearSeries | undefined {
+  void yearCount;
   const parsed: { ms: number; label: string; row: DataRow }[] = [];
+  const annual: DataRow[] = [];
   for (const r of rows) {
-    if (!r.original_period_label) continue;
-    const ms = parsePeriodMs(r.original_period_label, r.year);
-    if (ms != null) parsed.push({ ms, label: r.original_period_label.trim(), row: r });
+    const ms = r.original_period_label
+      ? parsePeriodMs(r.original_period_label, r.year)
+      : null;
+    if (ms != null) {
+      parsed.push({ ms, label: r.original_period_label!.trim(), row: r });
+    } else {
+      annual.push(r);
+    }
   }
-  // Only a real sub-year series if labels parse for most rows AND the time
-  // axis is meaningfully finer than annual.
-  if (!parsed.length || parsed.length < rows.length * 0.8) return undefined;
+  // Only a real sub-year series when the time axis is meaningfully finer
+  // than annual for at least one series.
+  if (parsed.length < 24) return undefined;
+  const parsedYears = new Set(parsed.map((p) => p.row.year));
   const distinct = new Map<number, string>();
   for (const p of parsed) if (!distinct.has(p.ms)) distinct.set(p.ms, p.label);
-  if (distinct.size < yearCount * 2) return undefined;
+  if (distinct.size < parsedYears.size * 2) return undefined;
+
+  // Series (variant × country) that have sub-year data, and which years the
+  // sub-year points already cover for each.
+  const covered = new Map<string, Set<number>>();
+  for (const p of parsed) {
+    const key = `${p.row.variant_code}|${p.row.country_iso3}`;
+    let set = covered.get(key);
+    if (!set) covered.set(key, (set = new Set()));
+    set.add(p.row.year);
+  }
+
+  // Mixed granularity: a series with sub-year detail keeps its annual-only
+  // history too — older annual observations join the time axis at mid-year,
+  // so e.g. a parallel-FX series runs 1979 (annual) straight into daily data.
+  const injected: { ms: number; label: string; row: DataRow }[] = [];
+  for (const r of annual) {
+    const set = covered.get(`${r.variant_code}|${r.country_iso3}`);
+    if (!set || set.has(r.year)) continue;
+    injected.push({ ms: Date.UTC(r.year, 6, 1, 12), label: String(r.year), row: r });
+  }
+  for (const p of injected) if (!distinct.has(p.ms)) distinct.set(p.ms, p.label);
 
   const times = [...distinct.keys()].sort((a, b) => a - b);
   const labels = times.map((t) => distinct.get(t)!);
   const timeIndex = new Map(times.map((t, i) => [t, i]));
 
   const values: Record<string, Record<string, (number | null)[]>> = {};
-  for (const p of parsed) {
+  for (const p of [...injected, ...parsed]) {
     const byCountry = (values[p.row.variant_code] ??= {});
     const arr = (byCountry[p.row.country_iso3] ??= new Array(times.length).fill(null));
     arr[timeIndex.get(p.ms)!] = p.row.value;

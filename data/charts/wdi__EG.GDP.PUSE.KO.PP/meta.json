@@ -1,39 +1,39 @@
 {
-  "chart_id": "wdi__EG.GDP.PUSE.KO.PP",
-  "title": "GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)",
-  "category": "Energy",
-  "sources": "wdi",
-  "n_rows": 557,
-  "year_range": [
-    "1990",
-    "2024"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/EG.GDP.PUSE.KO.PP.KD",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "انرژی",
-  "title_fa": "تولید ناخالص داخلی به ازای هر واحد مصرف انرژی (دلار ثابت PPP پایه 2021 به ازای هر کیلوگرم معادل نفت)"
+ "chart_id": "wdi__EG.GDP.PUSE.KO.PP",
+ "title": "GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)",
+ "category": "Energy",
+ "sources": "wdi",
+ "n_rows": 557,
+ "year_range": [
+  "1990",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/EG.GDP.PUSE.KO.PP.KD",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "انرژی",
+ "title_fa": "تولید ناخالص داخلی به ازای هر واحد مصرف انرژی (دلار ثابت برابری قدرت خرید، پایه 2021 به ازای هر کیلوگرم معادل نفت)"
 }

@@ -1,39 +1,39 @@
 {
-  "chart_id": "faostat__Oil of linseed__production",
-  "title": "Oil of linseed — Production, Area & Yield",
-  "category": "Agriculture Production",
-  "sources": "faostat-qcl",
-  "n_rows": 942,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تولید کشاورزی",
-  "title_fa": "روغن بزرک — تولید، سطح زیر کشت و عملکرد"
+ "chart_id": "faostat__Oil of linseed__production",
+ "title": "Oil of linseed, production (tonnes)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 942,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید روغن بزرک (تن)"
 }

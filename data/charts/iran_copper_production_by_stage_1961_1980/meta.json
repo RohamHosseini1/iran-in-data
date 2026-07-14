@@ -1,24 +1,24 @@
 {
-  "chart_id": "iran_copper_production_by_stage_1961_1980",
-  "title": "Copper Production — Mine Output, Smelter Output & Refined",
-  "category": "Mining & Minerals Production",
-  "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Copper')",
-  "n_rows": 32,
-  "year_range": [
-    "1961",
-    "1980"
-  ],
-  "countries": [
-    "IRN"
-  ],
-  "citations": [
-    {
-      "source_org": "US Bureau of Mines (Minerals Yearbook Volume III/IV, Area Reports: International), authored by David A. Carleton (1970 chapter) and successors",
-      "source_url": "https://archive.org (see data/raw/usgs-minerals-yearbook/historical-pre1990-volumes/iran-production-extraction/manifest.json for exact volume URLs)",
-      "access_date": "2026-07-13",
-      "time_range": "1961-1980"
-    }
-  ],
-  "category_fa": "تولید معدن و مواد معدنی",
-  "title_fa": "تولید مس — استخراج معدنی، ذوب و پالایش"
+ "chart_id": "iran_copper_production_by_stage_1961_1980",
+ "title": "Copper Production, Mine Output, Smelter Output & Refined",
+ "category": "Mining & Minerals Production",
+ "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Copper')",
+ "n_rows": 32,
+ "year_range": [
+  "1961",
+  "1980"
+ ],
+ "countries": [
+  "IRN"
+ ],
+ "citations": [
+  {
+   "source_org": "US Bureau of Mines (Minerals Yearbook Volume III/IV, Area Reports: International), authored by David A. Carleton (1970 chapter) and successors",
+   "source_url": "https://archive.org (see data/raw/usgs-minerals-yearbook/historical-pre1990-volumes/iran-production-extraction/manifest.json for exact volume URLs)",
+   "access_date": "2026-07-13",
+   "time_range": "1961-1980"
+  }
+ ],
+ "category_fa": "تولید معدن و مواد معدنی",
+ "title_fa": "تولید مس به تفکیک استخراج معدنی، ذوب و پالایش"
 }

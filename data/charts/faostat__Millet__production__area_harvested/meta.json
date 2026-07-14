@@ -1,0 +1,34 @@
+{
+ "chart_id": "faostat__Millet__production__area_harvested",
+ "title": "Millet, area harvested (ha)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 600,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "ESP",
+  "FRA",
+  "GRC",
+  "IRN",
+  "KOR",
+  "PRT",
+  "RUS",
+  "SAU",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "سطح زیر کشت ارزن (هکتار)"
+}

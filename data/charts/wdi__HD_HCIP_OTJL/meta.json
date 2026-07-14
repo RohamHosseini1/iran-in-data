@@ -1,40 +1,40 @@
 {
-  "chart_id": "wdi__HD_HCIP_OTJL",
-  "title": "Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30–87)",
-  "category": "Human Capital",
-  "sources": "wdi",
-  "n_rows": 197,
-  "year_range": [
-    "2010",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/HD_HCIP_OTJL_MA",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "سرمایه انسانی",
-  "title_fa": "شاخص سرمایه انسانی به‌علاوه (HCI+): امتیاز رکن یادگیری حین کار، مردان (مقیاس 30- تا 87)"
+ "chart_id": "wdi__HD_HCIP_OTJL",
+ "title": "Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30, 87)",
+ "category": "Human Capital",
+ "sources": "wdi",
+ "n_rows": 197,
+ "year_range": [
+  "2010",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/HD_HCIP_OTJL_MA",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "سرمایه انسانی",
+ "title_fa": "شاخص سرمایه انسانی به‌علاوه (HCI+): امتیاز رکن یادگیری حین کار، مردان (مقیاس 30- تا 87)"
 }

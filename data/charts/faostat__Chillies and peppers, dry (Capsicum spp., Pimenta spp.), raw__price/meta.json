@@ -1,36 +1,36 @@
 {
-  "chart_id": "faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__price",
-  "title": "Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw — Producer Price",
-  "category": "Agriculture Prices",
-  "sources": "faostat-pp+pa",
-  "n_rows": 456,
-  "year_range": [
-    "1966",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "ESP",
-    "GRC",
-    "IRN",
-    "PRT",
-    "TUR",
-    "USA"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "فلفل تند و فلفل، خشک (گونه‌های Capsicum و Pimenta)، خام — قیمت تولیدکننده"
+ "chart_id": "faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__price",
+ "title": "Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw, producer price",
+ "category": "Agriculture Prices",
+ "sources": "faostat-pp+pa",
+ "n_rows": 456,
+ "year_range": [
+  "1966",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "ESP",
+  "GRC",
+  "IRN",
+  "PRT",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "قیمت‌های کشاورزی",
+ "title_fa": "قیمت تولیدکننده فلفل تند و فلفل، خشک (گونه‌های Capsicum و Pimenta)، خام"
 }

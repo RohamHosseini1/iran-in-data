@@ -1,39 +1,39 @@
 {
-  "chart_id": "wdi__EG.USE.COMM.GD.PP",
-  "title": "Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",
-  "category": "Energy",
-  "sources": "wdi",
-  "n_rows": 557,
-  "year_range": [
-    "1990",
-    "2024"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/EG.USE.COMM.GD.PP.KD",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "انرژی",
-  "title_fa": "مصرف انرژی (کیلوگرم معادل نفت) به ازای هر 1000 دلار تولید ناخالص داخلی (دلار ثابت PPP پایه 2021)"
+ "chart_id": "wdi__EG.USE.COMM.GD.PP",
+ "title": "Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",
+ "category": "Energy",
+ "sources": "wdi",
+ "n_rows": 557,
+ "year_range": [
+  "1990",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/EG.USE.COMM.GD.PP.KD",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "انرژی",
+ "title_fa": "مصرف انرژی (کیلوگرم معادل نفت) به ازای هر 1000 دلار تولید ناخالص داخلی (دلار ثابت برابری قدرت خرید، پایه 2021)"
 }

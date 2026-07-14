@@ -1,21 +1,21 @@
 {
-  "chart_id": "iran_new_mineral_reserves_valuation_2014_2021",
-  "title": "Newly Discovered Mineral Reserves — Valuation by Commodity (IMIDRO)",
-  "category": "Mining & Minerals Production",
-  "sources": "imidro-iran:annual-report-2021-22-extraction",
-  "n_rows": 40,
-  "year_range": null,
-  "countries": [
-    "IRN"
-  ],
-  "citations": [
-    {
-      "source_org": "Iran Mines and Mining Industries Development and Renovation Organization (IMIDRO)",
-      "source_url": "imidro.gov.ir (original); already-downloaded file data/raw/imidro-iran/statistical-reports/annual-report-2021-2022.pdf from a prior round, not previously extracted into tabular data",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تولید معدن و مواد معدنی",
-  "title_fa": "ذخایر معدنی تازه‌کشف‌شده — ارزش‌گذاری به تفکیک کالا (IMIDRO)"
+ "chart_id": "iran_new_mineral_reserves_valuation_2014_2021",
+ "title": "Newly Discovered Mineral Reserves, Valuation by Commodity",
+ "category": "Mining & Minerals Production",
+ "sources": "imidro-iran:annual-report-2021-22-extraction",
+ "n_rows": 40,
+ "year_range": null,
+ "countries": [
+  "IRN"
+ ],
+ "citations": [
+  {
+   "source_org": "Iran Mines and Mining Industries Development and Renovation Organization (IMIDRO)",
+   "source_url": "imidro.gov.ir (original); already-downloaded file data/raw/imidro-iran/statistical-reports/annual-report-2021-2022.pdf from a prior round, not previously extracted into tabular data",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید معدن و مواد معدنی",
+ "title_fa": "ارزش‌گذاری ذخایر معدنی تازه‌کشف‌شده به تفکیک کالا (IMIDRO)"
 }

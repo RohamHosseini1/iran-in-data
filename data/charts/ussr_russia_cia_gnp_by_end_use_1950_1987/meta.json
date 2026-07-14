@@ -1,24 +1,24 @@
 {
-  "chart_id": "ussr_russia_cia_gnp_by_end_use_1950_1987",
-  "title": "USSR GNP by End Use — Consumption, Investment, Government (CIA estimate, 1982 rubles)",
-  "category": "Macro / Expenditure & Trade Aggregates",
-  "sources": "ussr-russia-historical:cia-soviet-economy-assessments",
-  "n_rows": 152,
-  "year_range": [
-    "1950",
-    "1987"
-  ],
-  "countries": [
-    "SUN"
-  ],
-  "citations": [
-    {
-      "source_org": "Central Intelligence Agency (CIA) / US Joint Economic Committee (JEC)",
-      "source_url": "https://www.cia.gov/resources/csi/ ; https://www.cia.gov/readingroom/ ; https://www.jec.senate.gov/",
-      "access_date": "2026-07-12",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "کلان / تجمیع‌های هزینه و تجارت",
-  "title_fa": "تولید ناخالص ملی شوروی به تفکیک مصرف نهایی — مصرف، سرمایه‌گذاری، دولت (برآورد CIA، به روبل 1982)"
+ "chart_id": "ussr_russia_cia_gnp_by_end_use_1950_1987",
+ "title": "USSR GNP by End Use, Consumption, Investment, Government (CIA estimate, 1982 rubles)",
+ "category": "Macro / Expenditure & Trade Aggregates",
+ "sources": "ussr-russia-historical:cia-soviet-economy-assessments",
+ "n_rows": 152,
+ "year_range": [
+  "1950",
+  "1987"
+ ],
+ "countries": [
+  "SUN"
+ ],
+ "citations": [
+  {
+   "source_org": "Central Intelligence Agency (CIA) / US Joint Economic Committee (JEC)",
+   "source_url": "https://www.cia.gov/resources/csi/ ; https://www.cia.gov/readingroom/ ; https://www.jec.senate.gov/",
+   "access_date": "2026-07-12",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "کلان / تجمیع‌های هزینه و تجارت",
+ "title_fa": "تولید ناخالص ملی شوروی به تفکیک مصرف نهایی، شامل مصرف، سرمایه‌گذاری و دولت (برآورد CIA، به روبل 1982)"
 }

@@ -1,24 +1,24 @@
 {
-  "chart_id": "ussr_russia_cia_gnp_growth_defense_narrative",
-  "title": "USSR GNP Growth & Defense-Spending Burden — CIA Assessment Timeline",
-  "category": "Military Expenditure",
-  "sources": "ussr-russia-historical:cia-soviet-economy-assessments",
-  "n_rows": 46,
-  "year_range": [
-    "1951",
-    "1988"
-  ],
-  "countries": [
-    "SUN"
-  ],
-  "citations": [
-    {
-      "source_org": "Central Intelligence Agency (CIA) / US Joint Economic Committee (JEC)",
-      "source_url": "https://www.cia.gov/resources/csi/ ; https://www.cia.gov/readingroom/ ; https://www.jec.senate.gov/",
-      "access_date": "2026-07-12",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "هزینه‌های نظامی",
-  "title_fa": "رشد تولید ناخالص ملی شوروی و بار هزینه‌های دفاعی — گاه‌شمار ارزیابی CIA"
+ "chart_id": "ussr_russia_cia_gnp_growth_defense_narrative",
+ "title": "USSR GNP Growth & Defense-Spending Burden, CIA Assessment Timeline",
+ "category": "Military Expenditure",
+ "sources": "ussr-russia-historical:cia-soviet-economy-assessments",
+ "n_rows": 46,
+ "year_range": [
+  "1951",
+  "1988"
+ ],
+ "countries": [
+  "SUN"
+ ],
+ "citations": [
+  {
+   "source_org": "Central Intelligence Agency (CIA) / US Joint Economic Committee (JEC)",
+   "source_url": "https://www.cia.gov/resources/csi/ ; https://www.cia.gov/readingroom/ ; https://www.jec.senate.gov/",
+   "access_date": "2026-07-12",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "هزینه‌های نظامی",
+ "title_fa": "گاه‌شمار ارزیابی CIA از رشد تولید ناخالص ملی شوروی و بار هزینه‌های دفاعی"
 }

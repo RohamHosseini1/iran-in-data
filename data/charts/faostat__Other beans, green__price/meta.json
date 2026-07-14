@@ -1,41 +1,41 @@
 {
-  "chart_id": "faostat__Other beans, green__price",
-  "title": "Other beans, green — Producer Price",
-  "category": "Agriculture Prices",
-  "sources": "faostat-pp+pa",
-  "n_rows": 2185,
-  "year_range": [
-    "1966",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "NLD",
-    "PRT",
-    "TUR",
-    "USA"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر لوبیاها، سبز — قیمت تولیدکننده"
+ "chart_id": "faostat__Other beans, green__price",
+ "title": "Other beans, green, producer price",
+ "category": "Agriculture Prices",
+ "sources": "faostat-pp+pa",
+ "n_rows": 2185,
+ "year_range": [
+  "1966",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "NLD",
+  "PRT",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "قیمت‌های کشاورزی",
+ "title_fa": "قیمت تولیدکننده سایر لوبیاها، سبز"
 }

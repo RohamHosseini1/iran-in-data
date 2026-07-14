@@ -1,0 +1,31 @@
+{
+ "chart_id": "faostat__Sesame seed__production__area_harvested",
+ "title": "Sesame seed, area harvested (ha)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 466,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "SAU",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "سطح زیر کشت دانه کنجد (هکتار)"
+}

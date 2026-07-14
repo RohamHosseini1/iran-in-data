@@ -1,37 +1,37 @@
 {
-  "chart_id": "faostat__Cottonseed oil__production",
-  "title": "Cottonseed oil — Production, Area & Yield",
-  "category": "Agriculture Production",
-  "sources": "faostat-qcl",
-  "n_rows": 803,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "PRT",
-    "SAU",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تولید کشاورزی",
-  "title_fa": "روغن پنبه‌دانه — تولید، سطح زیر کشت و عملکرد"
+ "chart_id": "faostat__Cottonseed oil__production",
+ "title": "Cottonseed oil, production (tonnes)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 803,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "PRT",
+  "SAU",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید روغن پنبه‌دانه (تن)"
 }

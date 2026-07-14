@@ -193,7 +193,10 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
         },
         emphasis: {
           focus: "series" as const,
-          lineStyle: { width: isIran ? 2.5 : 2, opacity: 1 },
+          lineStyle: {
+            width: isIran ? 2.5 : 2,
+            opacity: isIran ? 1 : COMPARATOR_OPACITY + 0.15,
+          },
         },
         blur: { lineStyle: { opacity: 0.12 } },
         ...(isIran && soloIran
@@ -260,11 +263,15 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
               { offset: 1, color: fade(color, 0.55) },
             ],
           },
-          shadowColor: fade(color, isIran ? 0.5 : 0.2),
-          shadowBlur: isIran ? 10 : 4,
-          shadowOffsetY: 4,
+          // Only the hero glows: comparators stay flat and dimmer.
+          shadowColor: isIran ? fade(color, 0.5) : "transparent",
+          shadowBlur: isIran ? 10 : 0,
+          shadowOffsetY: isIran ? 4 : 0,
         },
-        emphasis: { focus: "series" as const },
+        emphasis: {
+          focus: "series" as const,
+          itemStyle: { opacity: isIran ? 1 : COMPARATOR_OPACITY + 0.15 },
+        },
         blur: { itemStyle: { opacity: 0.2 } },
       });
       continue;
@@ -284,7 +291,11 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
       itemStyle: { color, opacity },
       emphasis: {
         focus: "series" as const,
-        lineStyle: { width: isIran ? 3.5 : 2.5, opacity: 1 },
+        // Comparators brighten a touch on hover but never reach the hero.
+        lineStyle: {
+          width: isIran ? 3.5 : 2.5,
+          opacity: isIran ? 1 : COMPARATOR_OPACITY + 0.15,
+        },
       },
       blur: { lineStyle: { opacity: 0.12 } },
     };

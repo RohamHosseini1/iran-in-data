@@ -1,40 +1,40 @@
 {
-  "chart_id": "wdi__EN.GHG.CO2.LU.FL.MT.CE",
-  "title": "Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e)",
-  "category": "Environment",
-  "sources": "wdi",
-  "n_rows": 408,
-  "year_range": [
-    "2000",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/EN.GHG.CO2.LU.FL.MT.CE.AR5",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "محیط‌زیست",
-  "title_fa": "شار خالص دی‌اکسید کربن (CO2) از LULUCF - اراضی جنگلی (مگاتن معادل CO2)"
+ "chart_id": "wdi__EN.GHG.CO2.LU.FL.MT.CE",
+ "title": "Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e)",
+ "category": "Environment",
+ "sources": "wdi",
+ "n_rows": 408,
+ "year_range": [
+  "2000",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/EN.GHG.CO2.LU.FL.MT.CE.AR5",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "محیط‌زیست",
+ "title_fa": "شار خالص دی‌اکسید کربن (CO2) از اراضی جنگلی LULUCF (مگاتن معادل CO2)"
 }

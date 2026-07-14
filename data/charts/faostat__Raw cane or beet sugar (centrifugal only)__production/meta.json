@@ -1,39 +1,39 @@
 {
-  "chart_id": "faostat__Raw cane or beet sugar (centrifugal only)__production",
-  "title": "Raw cane or beet sugar (centrifugal only) — Production, Area & Yield",
-  "category": "Agriculture Production",
-  "sources": "faostat-qcl",
-  "n_rows": 915,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تولید کشاورزی",
-  "title_fa": "شکر خام نیشکر یا چغندرقند (فرآوری‌شده با سانتریفیوژ) — تولید، سطح زیر کشت و عملکرد"
+ "chart_id": "faostat__Raw cane or beet sugar (centrifugal only)__production",
+ "title": "Raw cane or beet sugar (centrifugal only), production (tonnes)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 915,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید شکر خام نیشکر یا چغندرقند (فرآوری‌شده با سانتریفیوژ) (تن)"
 }

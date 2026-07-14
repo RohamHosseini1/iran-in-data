@@ -1,33 +1,33 @@
 {
-  "chart_id": "faostat__Persimmons__price",
-  "title": "Persimmons — Producer Price",
-  "category": "Agriculture Prices",
-  "sources": "faostat-pp+pa",
-  "n_rows": 324,
-  "year_range": [
-    "1989",
-    "2025"
-  ],
-  "countries": [
-    "ESP",
-    "IRN",
-    "ITA",
-    "KOR"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "خرمالو — قیمت تولیدکننده"
+ "chart_id": "faostat__Persimmons__price",
+ "title": "Persimmons, producer price",
+ "category": "Agriculture Prices",
+ "sources": "faostat-pp+pa",
+ "n_rows": 324,
+ "year_range": [
+  "1989",
+  "2025"
+ ],
+ "countries": [
+  "ESP",
+  "IRN",
+  "ITA",
+  "KOR"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "قیمت‌های کشاورزی",
+ "title_fa": "قیمت تولیدکننده خرمالو"
 }

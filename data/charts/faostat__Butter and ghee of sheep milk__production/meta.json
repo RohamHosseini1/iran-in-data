@@ -1,26 +1,26 @@
 {
-  "chart_id": "faostat__Butter and ghee of sheep milk__production",
-  "title": "Butter and ghee of sheep milk — Production, Area & Yield",
-  "category": "Agriculture Production",
-  "sources": "faostat-qcl",
-  "n_rows": 189,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "IRN",
-    "SAU",
-    "TUR"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تولید کشاورزی",
-  "title_fa": "کره و روغن حیوانی از شیر گوسفند — تولید، سطح زیر کشت و عملکرد"
+ "chart_id": "faostat__Butter and ghee of sheep milk__production",
+ "title": "Butter and ghee of sheep milk, production (tonnes)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 189,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "IRN",
+  "SAU",
+  "TUR"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید کره و روغن حیوانی از شیر گوسفند (تن)"
 }

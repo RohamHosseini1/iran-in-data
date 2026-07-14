@@ -1,31 +1,31 @@
 {
-  "chart_id": "faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production",
-  "title": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw — Production, Area & Yield",
-  "category": "Agriculture Production",
-  "sources": "faostat-qcl",
-  "n_rows": 1124,
-  "year_range": [
-    "1961",
-    "2024"
-  ],
-  "countries": [
-    "ARG",
-    "ESP",
-    "GRC",
-    "IRN",
-    "ITA",
-    "NLD",
-    "RUS",
-    "TUR"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تولید کشاورزی",
-  "title_fa": "انیسون، بادیان ختایی، گشنیز، زیره سبز، زیره سیاه، رازیانه و دانه ارس، خام — تولید، سطح زیر کشت و عملکرد"
+ "chart_id": "faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production",
+ "title": "Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw, Production, Area & Yield",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 1124,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "ESP",
+  "GRC",
+  "IRN",
+  "ITA",
+  "NLD",
+  "RUS",
+  "TUR"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید، سطح زیر کشت و عملکرد انیسون، بادیان ختایی، گشنیز، زیره سبز، زیره سیاه، رازیانه و دانه ارس، خام"
 }

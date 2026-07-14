@@ -1,36 +1,36 @@
 {
-  "chart_id": "faostat__Whey, dry__production",
-  "title": "Whey, dry — Production, Area & Yield",
-  "category": "Agriculture Production",
-  "sources": "faostat-qcl",
-  "n_rows": 653,
-  "year_range": [
-    "1961",
-    "2023"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "NLD",
-    "PRT",
-    "SWE",
-    "TUR",
-    "USA"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "تولید کشاورزی",
-  "title_fa": "آب‌پنیر، خشک — تولید، سطح زیر کشت و عملکرد"
+ "chart_id": "faostat__Whey, dry__production",
+ "title": "Whey, dry, production (tonnes)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 653,
+ "year_range": [
+  "1961",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "NLD",
+  "PRT",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید آب‌پنیر، خشک (تن)"
 }

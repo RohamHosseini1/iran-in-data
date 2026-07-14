@@ -43,9 +43,13 @@ interface Latest {
 export function LatestReading({
   payload,
   locale,
+  measureFallback,
 }: {
   payload: ChartPayload;
   locale: Locale;
+  /** Localized chart title: shown as the measure when the chart has a single
+      variant (the raw dataset label would just repeat the title in English). */
+  measureFallback?: string;
 }) {
   const t = STRINGS[locale];
   const fa = locale === "fa";
@@ -106,7 +110,10 @@ export function LatestReading({
   if (!latest || !variant) return null;
 
   const unit = unitInline(variant.unit, fa ? "fa" : "en");
-  const measureLabel = friendlyVariantLabel(variant.label, locale);
+  const measureLabel =
+    payload.variants.length === 1 && measureFallback
+      ? measureFallback
+      : friendlyVariantLabel(variant.label, locale);
 
   return (
     <section className="corner-frame rise-in border border-border/60 bg-card/40 p-4">

@@ -1,25 +1,25 @@
 {
-  "chart_id": "spain_comparator__price_indices_1800_2000",
-  "title": "Spain — Price Indices & CPI, 1800-2000 (Carreras & Tafunell)",
-  "category": "Comparator: Prices & Inflation",
-  "sources": "banco-espana-historical:carreras-tafunell",
-  "n_rows": 646,
-  "year_range": [
-    "1800",
-    "2000"
-  ],
-  "countries": [
-    "ESP"
-  ],
-  "citations": [
-    {
-      "source_org": "Fundación BBVA",
-      "source_url": "https://www.fbbva.es/en/publicaciones/estadisticas-historicas-de-espana-siglos-xix-xx-2/",
-      "access_date": "2026-07-12",
-      "time_range": "",
-      "match_confidence": "fuzzy:3tok:carreras-tafunell-historical-statistics"
-    }
-  ],
-  "category_fa": "مقایسه‌ای: قیمت‌ها و تورم",
-  "title_fa": "اسپانیا — شاخص‌های قیمت و شاخص قیمت مصرف‌کننده، 1800-2000 (کارراس و تافونل)"
+ "chart_id": "spain_comparator__price_indices_1800_2000",
+ "title": "Spain, Price Indices & CPI, 1800-2000 (Carreras & Tafunell)",
+ "category": "Comparator: Prices & Inflation",
+ "sources": "banco-espana-historical:carreras-tafunell",
+ "n_rows": 646,
+ "year_range": [
+  "1800",
+  "2000"
+ ],
+ "countries": [
+  "ESP"
+ ],
+ "citations": [
+  {
+   "source_org": "Fundación BBVA",
+   "source_url": "https://www.fbbva.es/en/publicaciones/estadisticas-historicas-de-espana-siglos-xix-xx-2/",
+   "access_date": "2026-07-12",
+   "time_range": "",
+   "match_confidence": "fuzzy:3tok:carreras-tafunell-historical-statistics"
+  }
+ ],
+ "category_fa": "مقایسه‌ای: قیمت‌ها و تورم",
+ "title_fa": "شاخص‌های قیمت و شاخص قیمت مصرف‌کننده اسپانیا، 1800-2000 (کارراس و تافونل)"
 }

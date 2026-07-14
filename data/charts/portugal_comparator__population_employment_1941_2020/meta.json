@@ -1,24 +1,24 @@
 {
-  "chart_id": "portugal_comparator__population_employment_1941_2020",
-  "title": "Portugal — Population, Employment & Unemployment Rate (INE/BdP long series)",
-  "category": "Comparator: Demographics & Labor",
-  "sources": "ine-portugal:slep2020",
-  "n_rows": 7093,
-  "year_range": [
-    "1941",
-    "2020"
-  ],
-  "countries": [
-    "PRT"
-  ],
-  "citations": [
-    {
-      "source_org": "Instituto Nacional de Estatística (INE), Portugal — joint publication with Banco de Portugal",
-      "source_url": "https://www.ine.pt/xurl/pub/536285836",
-      "access_date": "2026-07-12",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "مقایسه‌ای: جمعیت‌شناسی و نیروی کار",
-  "title_fa": "پرتغال — جمعیت، اشتغال و نرخ بیکاری (سری بلندمدت INE/BdP)"
+ "chart_id": "portugal_comparator__population_employment_1941_2020",
+ "title": "Portugal, Population, Employment & Unemployment Rate (INE/BdP long series)",
+ "category": "Comparator: Demographics & Labor",
+ "sources": "ine-portugal:slep2020",
+ "n_rows": 7093,
+ "year_range": [
+  "1941",
+  "2020"
+ ],
+ "countries": [
+  "PRT"
+ ],
+ "citations": [
+  {
+   "source_org": "Instituto Nacional de Estatística (INE), Portugal — joint publication with Banco de Portugal",
+   "source_url": "https://www.ine.pt/xurl/pub/536285836",
+   "access_date": "2026-07-12",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "مقایسه‌ای: جمعیت‌شناسی و نیروی کار",
+ "title_fa": "جمعیت، اشتغال و نرخ بیکاری پرتغال (سری بلندمدت INE/BdP)"
 }

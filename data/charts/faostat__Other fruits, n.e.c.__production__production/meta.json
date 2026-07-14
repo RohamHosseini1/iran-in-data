@@ -1,0 +1,36 @@
+{
+ "chart_id": "faostat__Other fruits, n.e.c.__production__production",
+ "title": "Other fruits, n.e.c., production (t)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 680,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "PRT",
+  "RUS",
+  "SAU",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید سایر میوه‌ها، طبقه‌بندی‌نشده (تن)"
+}

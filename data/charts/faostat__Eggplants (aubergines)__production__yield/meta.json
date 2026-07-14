@@ -1,0 +1,35 @@
+{
+ "chart_id": "faostat__Eggplants (aubergines)__production__yield",
+ "title": "Eggplants (aubergines), yield (kg/ha)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 723,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ESP",
+  "FRA",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "SAU",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "عملکرد بادمجان (کیلوگرم بر هکتار)"
+}

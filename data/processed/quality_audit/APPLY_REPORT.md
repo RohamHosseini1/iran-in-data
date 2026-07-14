@@ -1,0 +1,1681 @@
+# Quality-audit apply report (2026-07-14 quality audit)
+
+Registry rows before: 1846, after: 2241 (dry_run=False)
+meta.json files patched: 659
+
+## category_fa_missing (1)
+- wdi__FI.RES.TOTL.DT: Financial Sector (Reserves)
+
+## dash_swept (163)
+- wdi__HD_HCIP_EDUC
+- wdi__HD_HCIP_OTJL
+- wdi__HD_HCIP_HLTH
+- wdi__HD_HCIP_OVRL
+- faostat__Almonds, in shell__production
+- faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production
+- faostat__Apples__production
+- faostat__Apricots__production
+- faostat__Artichokes__production
+- faostat__Asparagus__production
+- faostat__Bananas__production
+- faostat__Barley__production
+- faostat__Beans, dry__production
+- faostat__Beef and Buffalo Meat, primary__production
+- faostat__Broad beans and horse beans, dry__production
+- faostat__Broad beans and horse beans, green__production
+- faostat__Buffalo fat, unrendered__production
+- faostat__Cabbages__production
+- faostat__Cantaloupes and other melons__production
+- faostat__Carrots and turnips__production
+- faostat__Castor oil seeds__production
+- faostat__Cattle fat, unrendered__production
+- faostat__Cauliflowers and broccoli__production
+- faostat__Cereals, primary__production
+- faostat__Cherries__production
+- faostat__Chick peas, dry__production
+- faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production
+- faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production
+- faostat__Citrus Fruit, Total__production
+- faostat__Cucumbers and gherkins__production
+- faostat__Dates__production
+- faostat__Edible offal of buffalo, fresh, chilled or frozen__production
+- faostat__Edible offal of cattle, fresh, chilled or frozen__production
+- faostat__Edible offal of goat, fresh, chilled or frozen__production
+- faostat__Edible offal of pigs, fresh, chilled or frozen__production
+- faostat__Edible offal of sheep, fresh, chilled or frozen__production
+- faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production
+- faostat__Eggplants (aubergines)__production
+- faostat__Eggs Primary__production
+- faostat__Fat of camels__production
+- faostat__Fat of pigs__production
+- faostat__Fibre Crops, Fibre Equivalent__production
+- faostat__Figs__production
+- faostat__Fruit Primary__production
+- faostat__Goat fat, unrendered__production
+- faostat__Grapes__production
+- faostat__Green garlic__production
+- faostat__Groundnuts, excluding shelled__production
+- faostat__Hazelnuts, in shell__production
+- faostat__Hempseed__production
+- faostat__Hen eggs in shell, fresh__production
+- faostat__Jute, raw or retted__production
+- faostat__Kiwi fruit__production
+- faostat__Leeks and other alliaceous vegetables__production
+- faostat__Lemons and limes__production
+- faostat__Lentils, dry__production
+- faostat__Lettuce and chicory__production
+- faostat__Linseed__production
+- faostat__Maize (corn)__production
+- faostat__Mangoes, guavas and mangosteens__production
+- faostat__Meat of buffalo, fresh or chilled__production
+- faostat__Meat of camels, fresh or chilled__production
+- faostat__Meat of cattle with the bone, fresh or chilled__production
+- faostat__Meat of chickens, fresh or chilled__production
+- faostat__Meat of ducks, fresh or chilled__production
+- faostat__Meat of geese, fresh or chilled__production
+- faostat__Meat of goat, fresh or chilled__production
+- faostat__Meat of pig with the bone, fresh or chilled__production
+- faostat__Meat of sheep, fresh or chilled__production
+- faostat__Meat of turkeys, fresh or chilled__production
+- faostat__Meat, Poultry__production
+- faostat__Melonseed__production
+- faostat__Milk, Total__production
+- faostat__Millet__production
+- faostat__Mustard seed__production
+- faostat__Oilcrops, Cake Equivalent__production
+- faostat__Oilcrops, Oil Equivalent__production
+- faostat__Olives__production
+- faostat__Onions and shallots, dry (excluding dehydrated)__production
+- faostat__Oranges__production
+- faostat__Other beans, green__production
+- faostat__Other berries and fruits of the genus vaccinium n.e.c.__production
+- faostat__Other citrus fruit, n.e.c.__production
+- faostat__Other fruits, n.e.c.__production
+- faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production
+- faostat__Other oil seeds, n.e.c.__production
+- faostat__Other pulses n.e.c.__production
+- faostat__Other stimulant, spice and aromatic crops, n.e.c.__production
+- faostat__Other stone fruits__production
+- faostat__Other tropical fruits, n.e.c.__production
+- faostat__Other vegetables, fresh n.e.c.__production
+- faostat__Papayas__production
+- faostat__Peaches and nectarines__production
+- faostat__Pears__production
+- faostat__Peas, dry__production
+- faostat__Peas, green__production
+- faostat__Persimmons__production
+- faostat__Pistachios, in shell__production
+- faostat__Plums and sloes__production
+- faostat__Pomelos and grapefruits__production
+- faostat__Potatoes__production
+- faostat__Pulses, Total__production
+- faostat__Pumpkins, squash and gourds__production
+- faostat__Quinces__production
+- faostat__Rape or colza seed__production
+- faostat__Raw hides and skins of buffaloes__production
+- faostat__Raw hides and skins of cattle__production
+- faostat__Raw hides and skins of goats or kids__production
+- faostat__Raw hides and skins of sheep or lambs__production
+- faostat__Raw milk of buffalo__production
+- faostat__Raw milk of cattle__production
+- faostat__Raw milk of goats__production
+- faostat__Raw milk of sheep__production
+- faostat__Rice__production
+- faostat__Roots and Tubers, Total__production
+- faostat__Rye__production
+- faostat__Safflower seed__production
+- faostat__Seed cotton, unginned__production
+- faostat__Sesame seed__production
+- faostat__Sheep and Goat Meat__production
+- faostat__Sheep fat, unrendered__production
+- faostat__Sour cherries__production
+- faostat__Soya beans__production
+- faostat__Spinach__production
+- faostat__Strawberries__production
+- faostat__Sugar Crops Primary__production
+- faostat__Sugar beet__production
+- faostat__Sugar cane__production
+- faostat__Sunflower seed__production
+- faostat__Tangerines, mandarins, clementines__production
+- faostat__Tea leaves__production
+- faostat__Tomatoes__production
+- faostat__Treenuts, Total__production
+- faostat__Unmanufactured tobacco__production
+- faostat__Vegetables Primary__production
+- faostat__Walnuts, in shell__production
+- faostat__Watermelons__production
+- faostat__Wheat__production
+- faostat__Beverages, Alcoholic__trade
+- faostat__Cereals, other__trade
+- faostat__Beverages, Alcoholic__consumption
+- faostat__Cereals, other__consumption
+- faostat__Meat of buffalo, fresh or chilled (biological)__price
+- faostat__Meat of camels, fresh or chilled (biological)__price
+- faostat__Meat of cattle with the bone, fresh or chilled (biological)__price
+- faostat__Meat of chickens, fresh or chilled (biological)__price
+- faostat__Meat of ducks, fresh or chilled (biological)__price
+- faostat__Meat of geese, fresh or chilled (biological)__price
+- faostat__Meat of goat, fresh or chilled (biological)__price
+- faostat__Meat of sheep, fresh or chilled (biological)__price
+- faostat__Meat of turkeys, fresh or chilled (biological)__price
+- maritime_comparator__unctad_maritime_key_figures_2024
+- mining_comparator__arg_usgs_mineral_production
+- mining_comparator__tur_usgs_mineral_production
+- mining_comparator__sau_usgs_mineral_production
+- mining_comparator__rus_usgs_mineral_production
+- mining_comparator__usa_usgs_mineral_production
+- portugal_comparator__population_employment_1941_2020
+- portugal_comparator__gdp_national_accounts_1953_2020
+- portugal_comparator__government_finance_debt_1947_2020
+- portugal_comparator__balance_of_payments_1948_2020
+- saudi_comparator__gdp_by_sector_and_investment_2018_2024
+- venezuela_comparator__ovf_macro_aggregates_2012_2024
+
+## deleted (7)
+- banking_hist__nationalization_1979_events
+- banking_hist__private_bank_reentry_2000_2025
+- iran_isfahan_steel_mill_idro_capital_goods_narrative_1972
+- iran_mimt__daily_bulletin_panel_1399
+- frus__1951_54_misc_smaller_categories
+- frus__1973_76_misc_smaller_categories
+- cia_econ__gloomy_prospects_misc_1987
+
+## en_retitle (435)
+- faostat__Asses__production
+- faostat__Beer of barley, malted__production
+- faostat__Bees__production
+- faostat__Buffalo__production
+- faostat__Butter and Ghee__production
+- faostat__Butter and ghee of sheep milk__production
+- faostat__Butter of cow milk__production
+- faostat__Buttermilk, dry__production
+- faostat__Camels__production
+- faostat__Cattle__production
+- faostat__Cattle and Buffaloes__production
+- faostat__Cheese (All Kinds)__production
+- faostat__Cheese from milk of goats, fresh or processed__production
+- faostat__Cheese from milk of sheep, fresh or processed__production
+- faostat__Cheese from skimmed cow milk__production
+- faostat__Cheese from whole cow milk__production
+- faostat__Chickens__production
+- faostat__Cotton lint, ginned__production
+- faostat__Cotton seed__production
+- faostat__Cottonseed oil__production
+- faostat__Cream, fresh__production
+- faostat__Ducks__production
+- faostat__Evaporated & Condensed Milk__production
+- faostat__Game meat, fresh, chilled or frozen__production
+- faostat__Geese__production
+- faostat__Goats__production
+- faostat__Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg__production
+- faostat__Horses__production
+- faostat__Margarine and shortening__production
+- faostat__Meat, Total__production
+- faostat__Molasses__production
+- faostat__Mules and hinnies__production
+- faostat__Mushrooms and truffles__production
+- faostat__Natural honey__production
+- faostat__Oil of linseed__production
+- faostat__Oil of sesame seed__production
+- faostat__Olive oil__production
+- faostat__Poultry Birds__production
+- faostat__Rapeseed or canola oil, crude__production
+- faostat__Raw cane or beet sugar (centrifugal only)__production
+- faostat__Raw silk (not thrown)__production
+- faostat__Sheep__production
+- faostat__Sheep and Goats__production
+- faostat__Shorn wool, greasy, including fleece-washed shorn wool__production
+- faostat__Silk-worm cocoons suitable for reeling__production
+- faostat__Skim Milk & Buttermilk, Dry__production
+- faostat__Skim milk and whey powder__production
+- faostat__Skim milk of cows__production
+- faostat__Soya bean oil__production
+- faostat__Sunflower-seed oil, crude__production
+- faostat__Swine / pigs__production
+- faostat__Tallow__production
+- faostat__Turkeys__production
+- faostat__Whey, dry__production
+- faostat__Whole milk powder__production
+- faostat__Whole milk, condensed__production
+- faostat__Whole milk, evaporated__production
+- faostat__Alcohol, Non-Food__trade
+- faostat__Alcoholic Beverages__trade
+- faostat__Animal fats__trade
+- faostat__Apples and products__trade
+- faostat__Aquatic Animals, Others__trade
+- faostat__Aquatic Plants__trade
+- faostat__Aquatic Products, Other__trade
+- faostat__Bananas__trade
+- faostat__Barley and products__trade
+- faostat__Beans__trade
+- faostat__Beer__trade
+- faostat__Beverages, Fermented__trade
+- faostat__Bovine Meat__trade
+- faostat__Butter, Ghee__trade
+- faostat__Cassava and products__trade
+- faostat__Cephalopods__trade
+- faostat__Cereals - Excluding Beer__trade
+- faostat__Cereals, Other__trade
+- faostat__Citrus, Other__trade
+- faostat__Cloves__trade
+- faostat__Cocoa Beans and products__trade
+- faostat__Coconut Oil__trade
+- faostat__Coconuts - Incl Copra__trade
+- faostat__Coffee and products__trade
+- faostat__Cottonseed__trade
+- faostat__Cottonseed Oil__trade
+- faostat__Cream__trade
+- faostat__Crustaceans__trade
+- faostat__Dates__trade
+- faostat__Demersal Fish__trade
+- faostat__Eggs__trade
+- faostat__Fats, Animals, Raw__trade
+- faostat__Fish, Body Oil__trade
+- faostat__Fish, Liver Oil__trade
+- faostat__Fish, Seafood__trade
+- faostat__Freshwater Fish__trade
+- faostat__Fruits - Excluding Wine__trade
+- faostat__Fruits, other__trade
+- faostat__Grapefruit and products__trade
+- faostat__Grapes and products (excl wine)__trade
+- faostat__Groundnut Oil__trade
+- faostat__Groundnuts__trade
+- faostat__Groundnuts (Shelled Eq)__trade
+- faostat__Honey__trade
+- faostat__Infant food__trade
+- faostat__Lemons, Limes and products__trade
+- faostat__Maize Germ Oil__trade
+- faostat__Maize and products__trade
+- faostat__Marine Fish, Other__trade
+- faostat__Meat__trade
+- faostat__Meat, Other__trade
+- faostat__Milk - Excluding Butter__trade
+- faostat__Millet and products__trade
+- faostat__Miscellaneous__trade
+- faostat__Molluscs, Other__trade
+- faostat__Mutton & Goat Meat__trade
+- faostat__Nuts and products__trade
+- faostat__Oats__trade
+- faostat__Offals__trade
+- faostat__Offals, Edible__trade
+- faostat__Oilcrops__trade
+- faostat__Oilcrops Oil, Other__trade
+- faostat__Oilcrops, Other__trade
+- faostat__Olive Oil__trade
+- faostat__Olives (including preserved)__trade
+- faostat__Onions__trade
+- faostat__Oranges, Mandarines__trade
+- faostat__Palm Oil__trade
+- faostat__Palm kernels__trade
+- faostat__Palmkernel Oil__trade
+- faostat__Peas__trade
+- faostat__Pelagic Fish__trade
+- faostat__Pepper__trade
+- faostat__Pigmeat__trade
+- faostat__Pimento__trade
+- faostat__Pineapples and products__trade
+- faostat__Plantains__trade
+- faostat__Potatoes and products__trade
+- faostat__Poultry Meat__trade
+- faostat__Pulses__trade
+- faostat__Pulses, Other and products__trade
+- faostat__Rape and Mustard Oil__trade
+- faostat__Rape and Mustardseed__trade
+- faostat__Rice (Milled Equivalent)__trade
+- faostat__Rice and products__trade
+- faostat__Ricebran Oil__trade
+- faostat__Roots, Other__trade
+- faostat__Rye and products__trade
+- faostat__Sesame seed__trade
+- faostat__Sesameseed Oil__trade
+- faostat__Sorghum and products__trade
+- faostat__Soyabean Oil__trade
+- faostat__Soyabeans__trade
+- faostat__Spices__trade
+- faostat__Spices, Other__trade
+- faostat__Starchy Roots__trade
+- faostat__Stimulants__trade
+- faostat__Sugar & Sweeteners__trade
+- faostat__Sugar (Raw Equivalent)__trade
+- faostat__Sugar Crops__trade
+- faostat__Sugar beet__trade
+- faostat__Sugar cane__trade
+- faostat__Sunflower seed__trade
+- faostat__Sunflowerseed Oil__trade
+- faostat__Sweet potatoes__trade
+- faostat__Sweeteners, Other__trade
+- faostat__Tea (including mate)__trade
+- faostat__Tomatoes and products__trade
+- faostat__Treenuts__trade
+- faostat__Vegetable Oils__trade
+- faostat__Vegetables__trade
+- faostat__Vegetables, other__trade
+- faostat__Wheat and products__trade
+- faostat__Wine__trade
+- faostat__Yams__trade
+- faostat__Alcoholic Beverages__consumption
+- faostat__Animal Products__consumption
+- faostat__Animal fats__consumption
+- faostat__Apples and products__consumption
+- faostat__Aquatic Animals, Others__consumption
+- faostat__Aquatic Plants__consumption
+- faostat__Aquatic Products, Other__consumption
+- faostat__Bananas__consumption
+- faostat__Barley and products__consumption
+- faostat__Beans__consumption
+- faostat__Beer__consumption
+- faostat__Beverages, Fermented__consumption
+- faostat__Bovine Meat__consumption
+- faostat__Butter, Ghee__consumption
+- faostat__Cassava and products__consumption
+- faostat__Cephalopods__consumption
+- faostat__Cereals - Excluding Beer__consumption
+- faostat__Cereals, Other__consumption
+- faostat__Citrus, Other__consumption
+- faostat__Cloves__consumption
+- faostat__Cocoa Beans and products__consumption
+- faostat__Coconut Oil__consumption
+- faostat__Coconuts - Incl Copra__consumption
+- faostat__Coffee and products__consumption
+- faostat__Cottonseed Oil__consumption
+- faostat__Cream__consumption
+- faostat__Crustaceans__consumption
+- faostat__Dates__consumption
+- faostat__Demersal Fish__consumption
+- faostat__Eggs__consumption
+- faostat__Fats, Animals, Raw__consumption
+- faostat__Fish, Body Oil__consumption
+- faostat__Fish, Liver Oil__consumption
+- faostat__Fish, Seafood__consumption
+- faostat__Freshwater Fish__consumption
+- faostat__Fruits - Excluding Wine__consumption
+- faostat__Fruits, other__consumption
+- faostat__Grand Total__consumption
+- faostat__Grapefruit and products__consumption
+- faostat__Grapes and products (excl wine)__consumption
+- faostat__Groundnut Oil__consumption
+- faostat__Groundnuts__consumption
+- faostat__Groundnuts (Shelled Eq)__consumption
+- faostat__Honey__consumption
+- faostat__Infant food__consumption
+- faostat__Lemons, Limes and products__consumption
+- faostat__Maize Germ Oil__consumption
+- faostat__Maize and products__consumption
+- faostat__Marine Fish, Other__consumption
+- faostat__Meat__consumption
+- faostat__Meat, Other__consumption
+- faostat__Milk - Excluding Butter__consumption
+- faostat__Miscellaneous__consumption
+- faostat__Molluscs, Other__consumption
+- faostat__Mutton & Goat Meat__consumption
+- faostat__Nuts and products__consumption
+- faostat__Oats__consumption
+- faostat__Offals__consumption
+- faostat__Offals, Edible__consumption
+- faostat__Oilcrops__consumption
+- faostat__Oilcrops Oil, Other__consumption
+- faostat__Oilcrops, Other__consumption
+- faostat__Olive Oil__consumption
+- faostat__Olives (including preserved)__consumption
+- faostat__Onions__consumption
+- faostat__Oranges, Mandarines__consumption
+- faostat__Palm Oil__consumption
+- faostat__Palmkernel Oil__consumption
+- faostat__Peas__consumption
+- faostat__Pelagic Fish__consumption
+- faostat__Pepper__consumption
+- faostat__Pigmeat__consumption
+- faostat__Pimento__consumption
+- faostat__Pineapples and products__consumption
+- faostat__Plantains__consumption
+- faostat__Potatoes and products__consumption
+- faostat__Poultry Meat__consumption
+- faostat__Pulses__consumption
+- faostat__Pulses, Other and products__consumption
+- faostat__Rape and Mustard Oil__consumption
+- faostat__Rape and Mustardseed__consumption
+- faostat__Rice (Milled Equivalent)__consumption
+- faostat__Rice and products__consumption
+- faostat__Ricebran Oil__consumption
+- faostat__Roots, Other__consumption
+- faostat__Rye and products__consumption
+- faostat__Sesame seed__consumption
+- faostat__Sesameseed Oil__consumption
+- faostat__Sorghum and products__consumption
+- faostat__Soyabean Oil__consumption
+- faostat__Soyabeans__consumption
+- faostat__Spices__consumption
+- faostat__Spices, Other__consumption
+- faostat__Starchy Roots__consumption
+- faostat__Stimulants__consumption
+- faostat__Sugar & Sweeteners__consumption
+- faostat__Sugar (Raw Equivalent)__consumption
+- faostat__Sugar Crops__consumption
+- faostat__Sugar cane__consumption
+- faostat__Sunflowerseed Oil__consumption
+- faostat__Sweet potatoes__consumption
+- faostat__Sweeteners, Other__consumption
+- faostat__Tea (including mate)__consumption
+- faostat__Tomatoes and products__consumption
+- faostat__Treenuts__consumption
+- faostat__Vegetable Oils__consumption
+- faostat__Vegetables__consumption
+- faostat__Vegetables, other__consumption
+- faostat__Vegetal Products__consumption
+- faostat__Wheat and products__consumption
+- faostat__Wine__consumption
+- faostat__Agriculture__price
+- faostat__Almonds, in shell__price
+- faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__price
+- faostat__Apples__price
+- faostat__Apricots__price
+- faostat__Artichokes__price
+- faostat__Asparagus__price
+- faostat__Bananas__price
+- faostat__Barley__price
+- faostat__Beans, dry__price
+- faostat__Broad beans and horse beans, green__price
+- faostat__Cabbages__price
+- faostat__Cantaloupes and other melons__price
+- faostat__Carrots and turnips__price
+- faostat__Cauliflowers and broccoli__price
+- faostat__Cereals n.e.c.__price
+- faostat__Cereals, primary__price
+- faostat__Cherries__price
+- faostat__Chick peas, dry__price
+- faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__price
+- faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__price
+- faostat__Citrus Fruit, Total__price
+- faostat__Coarse Grain, Total__price
+- faostat__Cotton lint, ginned__price
+- faostat__Cotton seed__price
+- faostat__Cucumbers and gherkins__price
+- faostat__Dates__price
+- faostat__Eggplants (aubergines)__price
+- faostat__Eggs Primary__price
+- faostat__Fibre Crops Primary__price
+- faostat__Figs__price
+- faostat__Fruit Primary__price
+- faostat__Fruit excl Melons, Total__price
+- faostat__Game meat, fresh, chilled or frozen__price
+- faostat__Grapes__price
+- faostat__Green garlic__price
+- faostat__Groundnuts, excluding shelled__price
+- faostat__Hazelnuts, in shell__price
+- faostat__Hen eggs in shell, fresh__price
+- faostat__Jute, raw or retted__price
+- faostat__Kiwi fruit__price
+- faostat__Leeks and other alliaceous vegetables__price
+- faostat__Lemons and limes__price
+- faostat__Lentils, dry__price
+- faostat__Lettuce and chicory__price
+- faostat__Linseed__price
+- faostat__Livestock__price
+- faostat__Maize (corn)__price
+- faostat__Mangoes, guavas and mangosteens__price
+- faostat__Meat of buffalo, fresh or chilled__price
+- faostat__Meat of camels, fresh or chilled__price
+- faostat__Meat of cattle with the bone, fresh or chilled__price
+- faostat__Meat of chickens, fresh or chilled__price
+- faostat__Meat of ducks, fresh or chilled__price
+- faostat__Meat of geese, fresh or chilled__price
+- faostat__Meat of goat, fresh or chilled__price
+- faostat__Meat of sheep, fresh or chilled__price
+- faostat__Meat of turkeys, fresh or chilled__price
+- faostat__Meat, Total__price
+- faostat__Milk, Total__price
+- faostat__Millet__price
+- faostat__Mushrooms and truffles__price
+- faostat__Natural honey__price
+- faostat__Oilcrops, Oil Equivalent__price
+- faostat__Olives__price
+- faostat__Onions and shallots, dry (excluding dehydrated)__price
+- faostat__Oranges__price
+- faostat__Other beans, green__price
+- faostat__Other berries and fruits of the genus vaccinium n.e.c.__price
+- faostat__Other citrus fruit, n.e.c.__price
+- faostat__Other fruits, n.e.c.__price
+- faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__price
+- faostat__Other pulses n.e.c.__price
+- faostat__Other stimulant, spice and aromatic crops, n.e.c.__price
+- faostat__Other stone fruits__price
+- faostat__Other vegetables, fresh n.e.c.__price
+- faostat__Papayas__price
+- faostat__Peaches and nectarines__price
+- faostat__Pears__price
+- faostat__Peas, green__price
+- faostat__Persimmons__price
+- faostat__Pistachios, in shell__price
+- faostat__Plums and sloes__price
+- faostat__Pomelos and grapefruits__price
+- faostat__Potatoes__price
+- faostat__Pulses, Total__price
+- faostat__Pumpkins, squash and gourds__price
+- faostat__Quinces__price
+- faostat__Rape or colza seed__price
+- faostat__Raspberries__price
+- faostat__Raw milk of buffalo__price
+- faostat__Raw milk of cattle__price
+- faostat__Raw milk of goats__price
+- faostat__Raw milk of sheep__price
+- faostat__Rice__price
+- faostat__Roots and Tubers, Total__price
+- faostat__Safflower seed__price
+- faostat__Seed cotton, unginned__price
+- faostat__Sesame seed__price
+- faostat__Shorn wool, greasy, including fleece-washed shorn wool__price
+- faostat__Silk-worm cocoons suitable for reeling__price
+- faostat__Sorghum__price
+- faostat__Sour cherries__price
+- faostat__Soya beans__price
+- faostat__Spinach__price
+- faostat__Strawberries__price
+- faostat__String beans__price
+- faostat__Sugar beet__price
+- faostat__Sugar cane__price
+- faostat__Sunflower seed__price
+- faostat__Tangerines, mandarins, clementines__price
+- faostat__Tea leaves__price
+- faostat__Tomatoes__price
+- faostat__Treenuts, Total__price
+- faostat__Unmanufactured tobacco__price
+- faostat__Vegetables Primary__price
+- faostat__Vegetables and Melons, Total__price
+
+## fa_followup (40)
+- faostat__Beer of barley, malted__production
+- faostat__Butter and Ghee__production
+- faostat__Butter and ghee of sheep milk__production
+- faostat__Butter of cow milk__production
+- faostat__Buttermilk, dry__production
+- faostat__Cheese (All Kinds)__production
+- faostat__Cheese from milk of goats, fresh or processed__production
+- faostat__Cheese from milk of sheep, fresh or processed__production
+- faostat__Cheese from skimmed cow milk__production
+- faostat__Cheese from whole cow milk__production
+- faostat__Cotton lint, ginned__production
+- faostat__Cotton seed__production
+- faostat__Cottonseed oil__production
+- faostat__Cream, fresh__production
+- faostat__Evaporated & Condensed Milk__production
+- faostat__Game meat, fresh, chilled or frozen__production
+- faostat__Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg__production
+- faostat__Margarine and shortening__production
+- faostat__Meat, Total__production
+- faostat__Molasses__production
+- faostat__Mushrooms and truffles__production
+- faostat__Natural honey__production
+- faostat__Oil of linseed__production
+- faostat__Oil of sesame seed__production
+- faostat__Olive oil__production
+- faostat__Rapeseed or canola oil, crude__production
+- faostat__Raw cane or beet sugar (centrifugal only)__production
+- faostat__Raw silk (not thrown)__production
+- faostat__Shorn wool, greasy, including fleece-washed shorn wool__production
+- faostat__Silk-worm cocoons suitable for reeling__production
+- faostat__Skim Milk & Buttermilk, Dry__production
+- faostat__Skim milk and whey powder__production
+- faostat__Skim milk of cows__production
+- faostat__Soya bean oil__production
+- faostat__Sunflower-seed oil, crude__production
+- faostat__Tallow__production
+- faostat__Whey, dry__production
+- faostat__Whole milk powder__production
+- faostat__Whole milk, condensed__production
+- faostat__Whole milk, evaporated__production
+
+## fa_retitle (639)
+- wdi__EN.GHG.ALL.PC.CE
+- wdi__NY.ADJ.NNTY.KD
+- wdi__SH.XPD.GHED.PP
+- wdi__EN.GHG.CO2.PC.CE
+- wdi__SH.XPD.OOPC.PP
+- wdi__NY.ADJ.NNTY.PC.KD
+- wdi__GOV_WGI_GE
+- wdi__GOV_WGI_RL
+- wdi__SH.XPD.CHEX.PC
+- wdi__ER.H2O.INTR
+- wdi__SH.XPD.EHEX.PP
+- wdi__NE.CON.PRVT.KD
+- wdi__NE.CON.PRVT.PP
+- wdi__SP.RUR.TOTL
+- wdi__DT.ODA.ODAT.PC
+- wdi__EN.GHG.CO2.LU.OL.MT.CE
+- wdi__NE.CON.PCAP.PP
+- wdi__IS.AIR.GOOD.MT
+- wdi__NY.GDP.MKTP.PP
+- wdi__SH.XPD.EHEX.PC
+- wdi__NE.CON.GOVT.KD
+- wdi__NE.EXP.GNFS.KD
+- wdi__NE.CON.PRVT.PC
+- wdi__NY.GDP.PCAP.PP
+- wdi__SH.ALC.PCAP
+- wdi__EN.GHG.CO2.LU.MT.CE
+- wdi__EN.GHG.CO2.LU.FL.MT.CE
+- wdi__NY.GNP.PCAP.PP
+- wdi__GOV_WGI_RQ
+- wdi__GOV_WGI_VA
+- wdi__SH_UHC
+- wdi__SH_UHC_SCI
+- wdi__GOV_WGI_PV
+- wdi__NY.GNP.MKTP.PP
+- wdi__EG.USE.COMM.GD.PP
+- wdi__EG.EGY.PRIM.PP
+- wdi__EG.GDP.PUSE.KO
+- wdi__EG.GDP.PUSE.KO.PP
+- wdi__GOV_WGI_CC
+- wdi__EN.GHG.CO2.RT.GDP.PP
+- wdi__EN.GHG.CO2.LU.DF.MT.CE
+- wdi__EN.GHG.CO2.LU.OS.MT.CE
+- wdi__DT.DOD.MWBG
+- faostat__Almonds, in shell__production
+- faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production
+- faostat__Apples__production
+- faostat__Apricots__production
+- faostat__Artichokes__production
+- faostat__Asparagus__production
+- faostat__Asses__production
+- faostat__Bananas__production
+- faostat__Barley__production
+- faostat__Beans, dry__production
+- faostat__Beef and Buffalo Meat, primary__production
+- faostat__Beer of barley, malted__production
+- faostat__Bees__production
+- faostat__Broad beans and horse beans, dry__production
+- faostat__Broad beans and horse beans, green__production
+- faostat__Buffalo__production
+- faostat__Buffalo fat, unrendered__production
+- faostat__Butter and Ghee__production
+- faostat__Butter and ghee of sheep milk__production
+- faostat__Butter of cow milk__production
+- faostat__Buttermilk, dry__production
+- faostat__Cabbages__production
+- faostat__Camels__production
+- faostat__Cantaloupes and other melons__production
+- faostat__Carrots and turnips__production
+- faostat__Castor oil seeds__production
+- faostat__Cattle__production
+- faostat__Cattle and Buffaloes__production
+- faostat__Cattle fat, unrendered__production
+- faostat__Cauliflowers and broccoli__production
+- faostat__Cereals, primary__production
+- faostat__Cheese (All Kinds)__production
+- faostat__Cheese from milk of goats, fresh or processed__production
+- faostat__Cheese from milk of sheep, fresh or processed__production
+- faostat__Cheese from skimmed cow milk__production
+- faostat__Cheese from whole cow milk__production
+- faostat__Cherries__production
+- faostat__Chick peas, dry__production
+- faostat__Chickens__production
+- faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production
+- faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production
+- faostat__Citrus Fruit, Total__production
+- faostat__Cotton lint, ginned__production
+- faostat__Cotton seed__production
+- faostat__Cottonseed oil__production
+- faostat__Cream, fresh__production
+- faostat__Cucumbers and gherkins__production
+- faostat__Dates__production
+- faostat__Ducks__production
+- faostat__Edible offal of buffalo, fresh, chilled or frozen__production
+- faostat__Edible offal of cattle, fresh, chilled or frozen__production
+- faostat__Edible offal of goat, fresh, chilled or frozen__production
+- faostat__Edible offal of pigs, fresh, chilled or frozen__production
+- faostat__Edible offal of sheep, fresh, chilled or frozen__production
+- faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production
+- faostat__Eggplants (aubergines)__production
+- faostat__Eggs Primary__production
+- faostat__Evaporated & Condensed Milk__production
+- faostat__Fat of camels__production
+- faostat__Fat of pigs__production
+- faostat__Fibre Crops, Fibre Equivalent__production
+- faostat__Figs__production
+- faostat__Fruit Primary__production
+- faostat__Game meat, fresh, chilled or frozen__production
+- faostat__Geese__production
+- faostat__Goat fat, unrendered__production
+- faostat__Goats__production
+- faostat__Grapes__production
+- faostat__Green garlic__production
+- faostat__Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg__production
+- faostat__Groundnuts, excluding shelled__production
+- faostat__Hazelnuts, in shell__production
+- faostat__Hempseed__production
+- faostat__Hen eggs in shell, fresh__production
+- faostat__Horses__production
+- faostat__Jute, raw or retted__production
+- faostat__Kiwi fruit__production
+- faostat__Leeks and other alliaceous vegetables__production
+- faostat__Lemons and limes__production
+- faostat__Lentils, dry__production
+- faostat__Lettuce and chicory__production
+- faostat__Linseed__production
+- faostat__Maize (corn)__production
+- faostat__Mangoes, guavas and mangosteens__production
+- faostat__Margarine and shortening__production
+- faostat__Meat of buffalo, fresh or chilled__production
+- faostat__Meat of camels, fresh or chilled__production
+- faostat__Meat of cattle with the bone, fresh or chilled__production
+- faostat__Meat of chickens, fresh or chilled__production
+- faostat__Meat of ducks, fresh or chilled__production
+- faostat__Meat of geese, fresh or chilled__production
+- faostat__Meat of goat, fresh or chilled__production
+- faostat__Meat of pig with the bone, fresh or chilled__production
+- faostat__Meat of sheep, fresh or chilled__production
+- faostat__Meat of turkeys, fresh or chilled__production
+- faostat__Meat, Poultry__production
+- faostat__Meat, Total__production
+- faostat__Melonseed__production
+- faostat__Milk, Total__production
+- faostat__Millet__production
+- faostat__Molasses__production
+- faostat__Mules and hinnies__production
+- faostat__Mushrooms and truffles__production
+- faostat__Mustard seed__production
+- faostat__Natural honey__production
+- faostat__Oil of linseed__production
+- faostat__Oil of sesame seed__production
+- faostat__Oilcrops, Cake Equivalent__production
+- faostat__Oilcrops, Oil Equivalent__production
+- faostat__Olive oil__production
+- faostat__Olives__production
+- faostat__Onions and shallots, dry (excluding dehydrated)__production
+- faostat__Oranges__production
+- faostat__Other beans, green__production
+- faostat__Other berries and fruits of the genus vaccinium n.e.c.__production
+- faostat__Other citrus fruit, n.e.c.__production
+- faostat__Other fruits, n.e.c.__production
+- faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production
+- faostat__Other oil seeds, n.e.c.__production
+- faostat__Other pulses n.e.c.__production
+- faostat__Other stimulant, spice and aromatic crops, n.e.c.__production
+- faostat__Other stone fruits__production
+- faostat__Other tropical fruits, n.e.c.__production
+- faostat__Other vegetables, fresh n.e.c.__production
+- faostat__Papayas__production
+- faostat__Peaches and nectarines__production
+- faostat__Pears__production
+- faostat__Peas, dry__production
+- faostat__Peas, green__production
+- faostat__Persimmons__production
+- faostat__Pistachios, in shell__production
+- faostat__Plums and sloes__production
+- faostat__Pomelos and grapefruits__production
+- faostat__Potatoes__production
+- faostat__Poultry Birds__production
+- faostat__Pulses, Total__production
+- faostat__Pumpkins, squash and gourds__production
+- faostat__Quinces__production
+- faostat__Rape or colza seed__production
+- faostat__Rapeseed or canola oil, crude__production
+- faostat__Raw cane or beet sugar (centrifugal only)__production
+- faostat__Raw hides and skins of buffaloes__production
+- faostat__Raw hides and skins of cattle__production
+- faostat__Raw hides and skins of goats or kids__production
+- faostat__Raw hides and skins of sheep or lambs__production
+- faostat__Raw milk of buffalo__production
+- faostat__Raw milk of cattle__production
+- faostat__Raw milk of goats__production
+- faostat__Raw milk of sheep__production
+- faostat__Raw silk (not thrown)__production
+- faostat__Rice__production
+- faostat__Roots and Tubers, Total__production
+- faostat__Rye__production
+- faostat__Safflower seed__production
+- faostat__Seed cotton, unginned__production
+- faostat__Sesame seed__production
+- faostat__Sheep__production
+- faostat__Sheep and Goat Meat__production
+- faostat__Sheep and Goats__production
+- faostat__Sheep fat, unrendered__production
+- faostat__Shorn wool, greasy, including fleece-washed shorn wool__production
+- faostat__Silk-worm cocoons suitable for reeling__production
+- faostat__Skim Milk & Buttermilk, Dry__production
+- faostat__Skim milk and whey powder__production
+- faostat__Skim milk of cows__production
+- faostat__Sour cherries__production
+- faostat__Soya bean oil__production
+- faostat__Soya beans__production
+- faostat__Spinach__production
+- faostat__Strawberries__production
+- faostat__Sugar Crops Primary__production
+- faostat__Sugar beet__production
+- faostat__Sugar cane__production
+- faostat__Sunflower seed__production
+- faostat__Sunflower-seed oil, crude__production
+- faostat__Swine / pigs__production
+- faostat__Tallow__production
+- faostat__Tangerines, mandarins, clementines__production
+- faostat__Tea leaves__production
+- faostat__Tomatoes__production
+- faostat__Treenuts, Total__production
+- faostat__Turkeys__production
+- faostat__Unmanufactured tobacco__production
+- faostat__Vegetables Primary__production
+- faostat__Walnuts, in shell__production
+- faostat__Watermelons__production
+- faostat__Wheat__production
+- faostat__Whey, dry__production
+- faostat__Whole milk powder__production
+- faostat__Whole milk, condensed__production
+- faostat__Whole milk, evaporated__production
+- faostat__Alcohol, Non-Food__trade
+- faostat__Alcoholic Beverages__trade
+- faostat__Animal fats__trade
+- faostat__Apples and products__trade
+- faostat__Aquatic Animals, Others__trade
+- faostat__Aquatic Plants__trade
+- faostat__Aquatic Products, Other__trade
+- faostat__Bananas__trade
+- faostat__Barley and products__trade
+- faostat__Beans__trade
+- faostat__Beer__trade
+- faostat__Beverages, Fermented__trade
+- faostat__Bovine Meat__trade
+- faostat__Butter, Ghee__trade
+- faostat__Cassava and products__trade
+- faostat__Cephalopods__trade
+- faostat__Cereals - Excluding Beer__trade
+- faostat__Cereals, Other__trade
+- faostat__Citrus, Other__trade
+- faostat__Cloves__trade
+- faostat__Cocoa Beans and products__trade
+- faostat__Coconut Oil__trade
+- faostat__Coconuts - Incl Copra__trade
+- faostat__Coffee and products__trade
+- faostat__Cottonseed__trade
+- faostat__Cottonseed Oil__trade
+- faostat__Cream__trade
+- faostat__Crustaceans__trade
+- faostat__Dates__trade
+- faostat__Demersal Fish__trade
+- faostat__Eggs__trade
+- faostat__Fats, Animals, Raw__trade
+- faostat__Fish, Body Oil__trade
+- faostat__Fish, Liver Oil__trade
+- faostat__Fish, Seafood__trade
+- faostat__Freshwater Fish__trade
+- faostat__Fruits - Excluding Wine__trade
+- faostat__Fruits, other__trade
+- faostat__Grapefruit and products__trade
+- faostat__Grapes and products (excl wine)__trade
+- faostat__Groundnut Oil__trade
+- faostat__Groundnuts__trade
+- faostat__Groundnuts (Shelled Eq)__trade
+- faostat__Honey__trade
+- faostat__Infant food__trade
+- faostat__Lemons, Limes and products__trade
+- faostat__Maize Germ Oil__trade
+- faostat__Maize and products__trade
+- faostat__Marine Fish, Other__trade
+- faostat__Meat__trade
+- faostat__Meat, Other__trade
+- faostat__Milk - Excluding Butter__trade
+- faostat__Millet and products__trade
+- faostat__Miscellaneous__trade
+- faostat__Molluscs, Other__trade
+- faostat__Mutton & Goat Meat__trade
+- faostat__Nuts and products__trade
+- faostat__Oats__trade
+- faostat__Offals__trade
+- faostat__Offals, Edible__trade
+- faostat__Oilcrops__trade
+- faostat__Oilcrops Oil, Other__trade
+- faostat__Oilcrops, Other__trade
+- faostat__Olive Oil__trade
+- faostat__Olives (including preserved)__trade
+- faostat__Onions__trade
+- faostat__Oranges, Mandarines__trade
+- faostat__Palm Oil__trade
+- faostat__Palm kernels__trade
+- faostat__Palmkernel Oil__trade
+- faostat__Peas__trade
+- faostat__Pelagic Fish__trade
+- faostat__Pepper__trade
+- faostat__Pigmeat__trade
+- faostat__Pimento__trade
+- faostat__Pineapples and products__trade
+- faostat__Plantains__trade
+- faostat__Potatoes and products__trade
+- faostat__Poultry Meat__trade
+- faostat__Pulses__trade
+- faostat__Pulses, Other and products__trade
+- faostat__Rape and Mustard Oil__trade
+- faostat__Rape and Mustardseed__trade
+- faostat__Rice (Milled Equivalent)__trade
+- faostat__Rice and products__trade
+- faostat__Ricebran Oil__trade
+- faostat__Roots, Other__trade
+- faostat__Rye and products__trade
+- faostat__Sesame seed__trade
+- faostat__Sesameseed Oil__trade
+- faostat__Sorghum and products__trade
+- faostat__Soyabean Oil__trade
+- faostat__Soyabeans__trade
+- faostat__Spices__trade
+- faostat__Spices, Other__trade
+- faostat__Starchy Roots__trade
+- faostat__Stimulants__trade
+- faostat__Sugar & Sweeteners__trade
+- faostat__Sugar (Raw Equivalent)__trade
+- faostat__Sugar Crops__trade
+- faostat__Sugar beet__trade
+- faostat__Sugar cane__trade
+- faostat__Sunflower seed__trade
+- faostat__Sunflowerseed Oil__trade
+- faostat__Sweet potatoes__trade
+- faostat__Sweeteners, Other__trade
+- faostat__Tea (including mate)__trade
+- faostat__Tomatoes and products__trade
+- faostat__Treenuts__trade
+- faostat__Vegetable Oils__trade
+- faostat__Vegetables__trade
+- faostat__Vegetables, other__trade
+- faostat__Wheat and products__trade
+- faostat__Wine__trade
+- faostat__Yams__trade
+- faostat__Alcoholic Beverages__consumption
+- faostat__Animal Products__consumption
+- faostat__Animal fats__consumption
+- faostat__Apples and products__consumption
+- faostat__Aquatic Animals, Others__consumption
+- faostat__Aquatic Plants__consumption
+- faostat__Aquatic Products, Other__consumption
+- faostat__Bananas__consumption
+- faostat__Barley and products__consumption
+- faostat__Beans__consumption
+- faostat__Beer__consumption
+- faostat__Beverages, Fermented__consumption
+- faostat__Bovine Meat__consumption
+- faostat__Butter, Ghee__consumption
+- faostat__Cassava and products__consumption
+- faostat__Cephalopods__consumption
+- faostat__Cereals - Excluding Beer__consumption
+- faostat__Cereals, Other__consumption
+- faostat__Citrus, Other__consumption
+- faostat__Cloves__consumption
+- faostat__Cocoa Beans and products__consumption
+- faostat__Coconut Oil__consumption
+- faostat__Coconuts - Incl Copra__consumption
+- faostat__Coffee and products__consumption
+- faostat__Cottonseed Oil__consumption
+- faostat__Cream__consumption
+- faostat__Crustaceans__consumption
+- faostat__Dates__consumption
+- faostat__Demersal Fish__consumption
+- faostat__Eggs__consumption
+- faostat__Fats, Animals, Raw__consumption
+- faostat__Fish, Body Oil__consumption
+- faostat__Fish, Liver Oil__consumption
+- faostat__Fish, Seafood__consumption
+- faostat__Freshwater Fish__consumption
+- faostat__Fruits - Excluding Wine__consumption
+- faostat__Fruits, other__consumption
+- faostat__Grand Total__consumption
+- faostat__Grapefruit and products__consumption
+- faostat__Grapes and products (excl wine)__consumption
+- faostat__Groundnut Oil__consumption
+- faostat__Groundnuts__consumption
+- faostat__Groundnuts (Shelled Eq)__consumption
+- faostat__Honey__consumption
+- faostat__Infant food__consumption
+- faostat__Lemons, Limes and products__consumption
+- faostat__Maize Germ Oil__consumption
+- faostat__Maize and products__consumption
+- faostat__Marine Fish, Other__consumption
+- faostat__Meat__consumption
+- faostat__Meat, Other__consumption
+
+## family_built (3)
+- proposed__net_official_flows_un_agencies (15 fragments)
+- proposed__external_debt_net_flows_by_creditor_type (13 fragments)
+- proposed__population_by_age_group_sex (14 fragments)
+
+## hidden_bespoke_split (35)
+- pahlavi__crop_land_production_value_1960
+- pahlavi__livestock_production_value_1960
+- pahlavi__oil_exports_revenues_by_company_1963_71
+- pahlavi__petroleum_statistics_1956_58
+- maritime_comparator__unctad_maritime_key_figures_2024
+- mining_comparator__arg_usgs_mineral_production
+- mining_comparator__tur_usgs_mineral_production
+- mining_comparator__sau_usgs_mineral_production
+- mining_comparator__rus_usgs_mineral_production
+- mining_comparator__usa_usgs_mineral_production
+- portugal_comparator__population_employment_1941_2020
+- portugal_comparator__gdp_national_accounts_1953_2020
+- portugal_comparator__government_finance_debt_1947_2020
+- portugal_comparator__balance_of_payments_1948_2020
+- saudi_comparator__gdp_by_sector_and_investment_2018_2024
+- venezuela_comparator__ovf_macro_aggregates_2012_2024
+- venezuela_comparator__ovf_global_context_gdp_inflation_2021_2024
+- iran_migration__knomad_remittances_diaspora_2000_2023
+- iran_trade__handicraft_export_institutional_history
+- iran_misc_light_manufacturing_output_1954_1959
+- iran_textile_sector_capacity_employment_1923_2002
+- iran_imidro__production_performance_2011_2015
+- iran_unctad_maritime__facts_snapshot_2024
+- iran_opec__facts_snapshot_2024
+- iran_opec__macro_aggregates_2020_2024
+- frus__1973_76_inflation_and_import_prices
+- cia_econ__shah_economy_overview_1974
+- cia_econ__iran_iraq_economic_balance_1986
+- cia_econ__war_weary_demographic_macro_comparison_1988
+- cia_econ__war_weary_military_infra_govt_finance_1988
+- nis33__crop_livestock_production_opium
+- nis33__oil_production_export_destination
+- nis33__manufactured_goods_output
+- nis33__external_debt_investment_fx
+- imf_a4__oil_production_trade_2015_2018
+
+## merged_existing (62)
+- wdi__DC.DAC.ESPL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.PRTL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.SWEL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.ESTL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.NLDL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.SVNL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.GBRL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.LTUL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.HUNL -> wdi__DC.DAC.TOTL
+- wdi__SP.REG.BRTH.RU -> wdi__SP.REG.BRTH
+- wdi__SP.REG.BRTH.UR -> wdi__SP.REG.BRTH
+- wdi__SL.UEM.TOTL.FE.NE -> wdi__SL.UEM.TOTL.FE
+- wdi__DC.DAC.FRAL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.NORL -> wdi__DC.DAC.TOTL
+- wdi__SH.DYN.NCOM.FE -> wdi__SH.DYN.NCOM
+- wdi__DC.DAC.JPNL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.IRLL -> wdi__DC.DAC.TOTL
+- wdi__SL.TLF.CACT.FE.NE -> wdi__SL.TLF.CACT.FE
+- wdi__SL.EMP.TOTL.SP.FE.NE -> wdi__SL.EMP.TOTL.SP.FE
+- wdi__DC.DAC.AUTL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.KORL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.NZLL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.CZEL -> wdi__DC.DAC.TOTL
+- wdi__SL.UEM.NEET.FE.ME -> wdi__SL.UEM.NEET
+- wdi__SL.TLF.CACT.MA.NE -> wdi__SL.TLF.CACT.MA
+- wdi__DC.DAC.AUSL -> wdi__DC.DAC.TOTL
+- wdi__FX.OWN.TOTL.60 -> wdi__FX.OWN.TOTL
+- wdi__DC.DAC.LUXL -> wdi__DC.DAC.TOTL
+- wdi__SP.DYN.IMRT.MA -> wdi__SP.DYN.IMRT
+- wdi__SH.STA.STNT -> wdi__SH.STA.STNT.ME
+- wdi__SH.STA.OWGH.ME.MA -> wdi__SH.STA.OWGH.ME
+- wdi__FX.OWN.TOTL.40 -> wdi__FX.OWN.TOTL
+- wdi__DC.DAC.CECL -> wdi__DC.DAC.TOTL
+- wdi__SH.STA.STNT.MA -> wdi__SH.STA.STNT.ME.MA
+- wdi__FS.AST.PRVT.GD -> wdi__FM.AST.PRVT.GD
+- wdi__SH.STA.OWGH -> wdi__SH.STA.OWGH.ME
+- wdi__DC.DAC.SVKL -> wdi__DC.DAC.TOTL
+- wdi__SH.STA.STNT.FE -> wdi__SH.STA.STNT.ME.FE
+- wdi__DC.DAC.POLL -> wdi__DC.DAC.TOTL
+- wdi__FX.OWN.TOTL.SO -> wdi__FX.OWN.TOTL
+- wdi__DT.DOD.PVLX.GN -> wdi__DT.DOD.PVLX
+- wdi__DC.DAC.DNKL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.CANL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.ITAL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.GRCL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.USAL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.FINL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.DEUL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.CHEL -> wdi__DC.DAC.TOTL
+- wdi__DC.DAC.BELL -> wdi__DC.DAC.TOTL
+- faostat__Meat of buffalo, fresh or chilled (biological)__price -> faostat__Meat of buffalo, fresh or chilled__price
+- faostat__Meat of camels, fresh or chilled (biological)__price -> faostat__Meat of camels, fresh or chilled__price
+- faostat__Meat of cattle with the bone, fresh or chilled (biological)__price -> faostat__Meat of cattle with the bone, fresh or chilled__price
+- faostat__Meat of chickens, fresh or chilled (biological)__price -> faostat__Meat of chickens, fresh or chilled__price
+- faostat__Meat of ducks, fresh or chilled (biological)__price -> faostat__Meat of ducks, fresh or chilled__price
+- faostat__Meat of geese, fresh or chilled (biological)__price -> faostat__Meat of geese, fresh or chilled__price
+- faostat__Meat of goat, fresh or chilled (biological)__price -> faostat__Meat of goat, fresh or chilled__price
+- faostat__Meat of sheep, fresh or chilled (biological)__price -> faostat__Meat of sheep, fresh or chilled__price
+- faostat__Meat of turkeys, fresh or chilled (biological)__price -> faostat__Meat of turkeys, fresh or chilled__price
+- iran_trade__cites_caviar_quota_trade_timeline_1998_2006 -> specialty_goods__caviar_shilat_production_2013_2024
+- cia_econ__war_weary_external_sector_comparison_1988 -> wdi__DT.DOD.DECT
+- imf_a4__foreign_exchange_2015_2018 -> fx__official_vs_parallel_gap_irn
+
+## needs_review (4)
+- iran_fx__mazarei_1995_parallel_fx_market_1978_1990
+- frus__1973_76_trade_targets_historical_comparison
+- frus__1973_76_demographics_population
+- nis33__macro_national_accounts
+
+## recategorized (10)
+- wdi__FX.OWN.TOTL.FE
+- wdi__FX.OWN.TOTL.OL
+- wdi__FX.OWN.TOTL.PL
+- wdi__FX.OWN.TOTL.YG
+- wdi__FX.OWN.TOTL
+- wdi__FI.RES.TOTL.DT
+- wdi__DT.ODA.ODAT.GN
+- wdi__IE.PPN.TRAN
+- wdi__IE.PPI.TRAN
+- wdi__FX.OWN.TOTL.MA
+
+## split_children (392)
+- faostat__Almonds, in shell__production__area_harvested
+- faostat__Almonds, in shell__production__production
+- faostat__Almonds, in shell__production__yield
+- faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production__area_harvested
+- faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production__production
+- faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production__yield
+- faostat__Apples__production__area_harvested
+- faostat__Apples__production__production
+- faostat__Apples__production__yield
+- faostat__Apricots__production__area_harvested
+- faostat__Apricots__production__production
+- faostat__Apricots__production__yield
+- faostat__Artichokes__production__area_harvested
+- faostat__Artichokes__production__production
+- faostat__Artichokes__production__yield
+- faostat__Asparagus__production__area_harvested
+- faostat__Asparagus__production__production
+- faostat__Asparagus__production__yield
+- faostat__Bananas__production__area_harvested
+- faostat__Bananas__production__production
+- faostat__Bananas__production__yield
+- faostat__Barley__production__area_harvested
+- faostat__Barley__production__production
+- faostat__Barley__production__yield
+- faostat__Beans, dry__production__area_harvested
+- faostat__Beans, dry__production__production
+- faostat__Beans, dry__production__yield
+- faostat__Beef and Buffalo Meat, primary__production__producing_animals_slaughtered
+- faostat__Beef and Buffalo Meat, primary__production__production
+- faostat__Beef and Buffalo Meat, primary__production__yield_carcass_weight
+- faostat__Broad beans and horse beans, dry__production__area_harvested
+- faostat__Broad beans and horse beans, dry__production__production
+- faostat__Broad beans and horse beans, dry__production__yield
+- faostat__Broad beans and horse beans, green__production__area_harvested
+- faostat__Broad beans and horse beans, green__production__production
+- faostat__Broad beans and horse beans, green__production__yield
+- faostat__Buffalo fat, unrendered__production__producing_animals_slaughtered
+- faostat__Buffalo fat, unrendered__production__production
+- faostat__Cabbages__production__area_harvested
+- faostat__Cabbages__production__production
+- faostat__Cabbages__production__yield
+- faostat__Cantaloupes and other melons__production__area_harvested
+- faostat__Cantaloupes and other melons__production__production
+- faostat__Cantaloupes and other melons__production__yield
+- faostat__Carrots and turnips__production__area_harvested
+- faostat__Carrots and turnips__production__production
+- faostat__Carrots and turnips__production__yield
+- faostat__Castor oil seeds__production__area_harvested
+- faostat__Castor oil seeds__production__production
+- faostat__Castor oil seeds__production__yield
+- faostat__Cattle fat, unrendered__production__producing_animals_slaughtered
+- faostat__Cattle fat, unrendered__production__production
+- faostat__Cauliflowers and broccoli__production__area_harvested
+- faostat__Cauliflowers and broccoli__production__production
+- faostat__Cauliflowers and broccoli__production__yield
+- faostat__Cereals, primary__production__area_harvested
+- faostat__Cereals, primary__production__production
+- faostat__Cereals, primary__production__yield
+- faostat__Cherries__production__area_harvested
+- faostat__Cherries__production__production
+- faostat__Cherries__production__yield
+- faostat__Chick peas, dry__production__area_harvested
+- faostat__Chick peas, dry__production__production
+- faostat__Chick peas, dry__production__yield
+- faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production__area_harvested
+- faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production__production
+- faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production__yield
+- faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production__area_harvested
+- faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production__production
+- faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production__yield
+- faostat__Citrus Fruit, Total__production__area_harvested
+- faostat__Citrus Fruit, Total__production__production
+- faostat__Citrus Fruit, Total__production__yield
+- faostat__Cucumbers and gherkins__production__area_harvested
+- faostat__Cucumbers and gherkins__production__production
+- faostat__Cucumbers and gherkins__production__yield
+- faostat__Dates__production__area_harvested
+- faostat__Dates__production__production
+- faostat__Dates__production__yield
+- faostat__Edible offal of buffalo, fresh, chilled or frozen__production__producing_animals_slaughtered
+- faostat__Edible offal of buffalo, fresh, chilled or frozen__production__production
+- faostat__Edible offal of cattle, fresh, chilled or frozen__production__producing_animals_slaughtered
+- faostat__Edible offal of cattle, fresh, chilled or frozen__production__production
+- faostat__Edible offal of goat, fresh, chilled or frozen__production__producing_animals_slaughtered
+- faostat__Edible offal of goat, fresh, chilled or frozen__production__production
+- faostat__Edible offal of pigs, fresh, chilled or frozen__production__producing_animals_slaughtered
+- faostat__Edible offal of pigs, fresh, chilled or frozen__production__production
+- faostat__Edible offal of sheep, fresh, chilled or frozen__production__producing_animals_slaughtered
+- faostat__Edible offal of sheep, fresh, chilled or frozen__production__production
+- faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production__producing_animals_slaughtered
+- faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production__production
+- faostat__Eggplants (aubergines)__production__area_harvested
+- faostat__Eggplants (aubergines)__production__production
+- faostat__Eggplants (aubergines)__production__yield
+- faostat__Eggs Primary__production__laying
+- faostat__Eggs Primary__production__production
+- faostat__Eggs Primary__production__yield_carcass_weight
+- faostat__Fat of camels__production__producing_animals_slaughtered
+- faostat__Fat of camels__production__production
+- faostat__Fat of pigs__production__producing_animals_slaughtered
+- faostat__Fat of pigs__production__production
+- faostat__Fibre Crops, Fibre Equivalent__production__area_harvested
+- faostat__Fibre Crops, Fibre Equivalent__production__production
+- faostat__Fibre Crops, Fibre Equivalent__production__yield
+- faostat__Figs__production__area_harvested
+- faostat__Figs__production__production
+- faostat__Figs__production__yield
+- faostat__Fruit Primary__production__area_harvested
+- faostat__Fruit Primary__production__production
+- faostat__Fruit Primary__production__yield
+- faostat__Goat fat, unrendered__production__producing_animals_slaughtered
+- faostat__Goat fat, unrendered__production__production
+- faostat__Grapes__production__area_harvested
+- faostat__Grapes__production__production
+- faostat__Grapes__production__yield
+- faostat__Green garlic__production__area_harvested
+- faostat__Green garlic__production__production
+- faostat__Green garlic__production__yield
+- faostat__Groundnuts, excluding shelled__production__area_harvested
+- faostat__Groundnuts, excluding shelled__production__production
+- faostat__Groundnuts, excluding shelled__production__yield
+- faostat__Hazelnuts, in shell__production__area_harvested
+- faostat__Hazelnuts, in shell__production__production
+- faostat__Hazelnuts, in shell__production__yield
+- faostat__Hempseed__production__area_harvested
+- faostat__Hempseed__production__production
+- faostat__Hempseed__production__yield
+- faostat__Hen eggs in shell, fresh__production__laying
+- faostat__Hen eggs in shell, fresh__production__production
+- faostat__Hen eggs in shell, fresh__production__production
+- faostat__Hen eggs in shell, fresh__production__yield
+- faostat__Hen eggs in shell, fresh__production__yield_carcass_weight
+- faostat__Jute, raw or retted__production__area_harvested
+- faostat__Jute, raw or retted__production__production
+- faostat__Jute, raw or retted__production__yield
+- faostat__Kiwi fruit__production__area_harvested
+- faostat__Kiwi fruit__production__production
+- faostat__Kiwi fruit__production__yield
+- faostat__Leeks and other alliaceous vegetables__production__area_harvested
+- faostat__Leeks and other alliaceous vegetables__production__production
+- faostat__Leeks and other alliaceous vegetables__production__yield
+- faostat__Lemons and limes__production__area_harvested
+- faostat__Lemons and limes__production__production
+- faostat__Lemons and limes__production__yield
+- faostat__Lentils, dry__production__area_harvested
+- faostat__Lentils, dry__production__production
+- faostat__Lentils, dry__production__yield
+- faostat__Lettuce and chicory__production__area_harvested
+- faostat__Lettuce and chicory__production__production
+- faostat__Lettuce and chicory__production__yield
+- faostat__Linseed__production__area_harvested
+- faostat__Linseed__production__production
+- faostat__Linseed__production__yield
+- faostat__Maize (corn)__production__area_harvested
+- faostat__Maize (corn)__production__production
+- faostat__Maize (corn)__production__yield
+- faostat__Mangoes, guavas and mangosteens__production__area_harvested
+- faostat__Mangoes, guavas and mangosteens__production__production
+- faostat__Mangoes, guavas and mangosteens__production__yield
+- faostat__Meat of buffalo, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of buffalo, fresh or chilled__production__production
+- faostat__Meat of buffalo, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of camels, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of camels, fresh or chilled__production__production
+- faostat__Meat of camels, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of cattle with the bone, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of cattle with the bone, fresh or chilled__production__production
+- faostat__Meat of cattle with the bone, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of chickens, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of chickens, fresh or chilled__production__production
+- faostat__Meat of chickens, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of ducks, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of ducks, fresh or chilled__production__production
+- faostat__Meat of ducks, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of geese, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of geese, fresh or chilled__production__production
+- faostat__Meat of geese, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of goat, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of goat, fresh or chilled__production__production
+- faostat__Meat of goat, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of pig with the bone, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of pig with the bone, fresh or chilled__production__production
+- faostat__Meat of pig with the bone, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of sheep, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of sheep, fresh or chilled__production__production
+- faostat__Meat of sheep, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat of turkeys, fresh or chilled__production__producing_animals_slaughtered
+- faostat__Meat of turkeys, fresh or chilled__production__production
+- faostat__Meat of turkeys, fresh or chilled__production__yield_carcass_weight
+- faostat__Meat, Poultry__production__producing_animals_slaughtered
+- faostat__Meat, Poultry__production__production
+- faostat__Meat, Poultry__production__yield_carcass_weight
+- faostat__Melonseed__production__area_harvested
+- faostat__Melonseed__production__production
+- faostat__Melonseed__production__yield
+- faostat__Milk, Total__production__milk_animals
+- faostat__Milk, Total__production__production
+- faostat__Milk, Total__production__yield_carcass_weight
+- faostat__Millet__production__area_harvested
+- faostat__Millet__production__production
+- faostat__Millet__production__yield
+- faostat__Mustard seed__production__area_harvested
+- faostat__Mustard seed__production__production
+- faostat__Mustard seed__production__yield
+- faostat__Oilcrops, Cake Equivalent__production__area_harvested
+- faostat__Oilcrops, Cake Equivalent__production__production
+- faostat__Oilcrops, Cake Equivalent__production__yield
+- faostat__Oilcrops, Oil Equivalent__production__area_harvested
+- faostat__Oilcrops, Oil Equivalent__production__production
+- faostat__Oilcrops, Oil Equivalent__production__yield
+- faostat__Olives__production__area_harvested
+- faostat__Olives__production__production
+- faostat__Olives__production__yield
+- faostat__Onions and shallots, dry (excluding dehydrated)__production__area_harvested
+- faostat__Onions and shallots, dry (excluding dehydrated)__production__production
+- faostat__Onions and shallots, dry (excluding dehydrated)__production__yield
+- faostat__Oranges__production__area_harvested
+- faostat__Oranges__production__production
+- faostat__Oranges__production__yield
+- faostat__Other beans, green__production__area_harvested
+- faostat__Other beans, green__production__production
+- faostat__Other beans, green__production__yield
+- faostat__Other berries and fruits of the genus vaccinium n.e.c.__production__area_harvested
+- faostat__Other berries and fruits of the genus vaccinium n.e.c.__production__production
+- faostat__Other berries and fruits of the genus vaccinium n.e.c.__production__yield
+- faostat__Other citrus fruit, n.e.c.__production__area_harvested
+- faostat__Other citrus fruit, n.e.c.__production__production
+- faostat__Other citrus fruit, n.e.c.__production__yield
+- faostat__Other fruits, n.e.c.__production__area_harvested
+- faostat__Other fruits, n.e.c.__production__production
+- faostat__Other fruits, n.e.c.__production__yield
+- faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production__area_harvested
+- faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production__production
+- faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production__yield
+- faostat__Other oil seeds, n.e.c.__production__area_harvested
+- faostat__Other oil seeds, n.e.c.__production__production
+- faostat__Other oil seeds, n.e.c.__production__yield
+- faostat__Other pulses n.e.c.__production__area_harvested
+- faostat__Other pulses n.e.c.__production__production
+- faostat__Other pulses n.e.c.__production__yield
+- faostat__Other stimulant, spice and aromatic crops, n.e.c.__production__area_harvested
+- faostat__Other stimulant, spice and aromatic crops, n.e.c.__production__production
+- faostat__Other stimulant, spice and aromatic crops, n.e.c.__production__yield
+- faostat__Other stone fruits__production__area_harvested
+- faostat__Other stone fruits__production__production
+- faostat__Other stone fruits__production__yield
+- faostat__Other tropical fruits, n.e.c.__production__area_harvested
+- faostat__Other tropical fruits, n.e.c.__production__production
+- faostat__Other tropical fruits, n.e.c.__production__yield
+- faostat__Other vegetables, fresh n.e.c.__production__area_harvested
+- faostat__Other vegetables, fresh n.e.c.__production__production
+- faostat__Other vegetables, fresh n.e.c.__production__yield
+- faostat__Papayas__production__area_harvested
+- faostat__Papayas__production__production
+- faostat__Papayas__production__yield
+- faostat__Peaches and nectarines__production__area_harvested
+- faostat__Peaches and nectarines__production__production
+- faostat__Peaches and nectarines__production__yield
+- faostat__Pears__production__area_harvested
+- faostat__Pears__production__production
+- faostat__Pears__production__yield
+- faostat__Peas, dry__production__area_harvested
+- faostat__Peas, dry__production__production
+- faostat__Peas, dry__production__yield
+- faostat__Peas, green__production__area_harvested
+- faostat__Peas, green__production__production
+- faostat__Peas, green__production__yield
+- faostat__Persimmons__production__area_harvested
+- faostat__Persimmons__production__production
+- faostat__Persimmons__production__yield
+- faostat__Pistachios, in shell__production__area_harvested
+- faostat__Pistachios, in shell__production__production
+- faostat__Pistachios, in shell__production__yield
+- faostat__Plums and sloes__production__area_harvested
+- faostat__Plums and sloes__production__production
+- faostat__Plums and sloes__production__yield
+- faostat__Pomelos and grapefruits__production__area_harvested
+- faostat__Pomelos and grapefruits__production__production
+- faostat__Pomelos and grapefruits__production__yield
+- faostat__Potatoes__production__area_harvested
+- faostat__Potatoes__production__production
+- faostat__Potatoes__production__yield
+- faostat__Pulses, Total__production__area_harvested
+- faostat__Pulses, Total__production__production
+- faostat__Pulses, Total__production__yield
+- faostat__Pumpkins, squash and gourds__production__area_harvested
+- faostat__Pumpkins, squash and gourds__production__production
+- faostat__Pumpkins, squash and gourds__production__yield
+- faostat__Quinces__production__area_harvested
+- faostat__Quinces__production__production
+- faostat__Quinces__production__yield
+- faostat__Rape or colza seed__production__area_harvested
+- faostat__Rape or colza seed__production__production
+- faostat__Rape or colza seed__production__yield
+- faostat__Raw hides and skins of buffaloes__production__producing_animals_slaughtered
+- faostat__Raw hides and skins of buffaloes__production__production
+- faostat__Raw hides and skins of buffaloes__production__yield_carcass_weight
+- faostat__Raw hides and skins of cattle__production__producing_animals_slaughtered
+- faostat__Raw hides and skins of cattle__production__production
+- faostat__Raw hides and skins of cattle__production__yield_carcass_weight
+- faostat__Raw hides and skins of goats or kids__production__producing_animals_slaughtered
+- faostat__Raw hides and skins of goats or kids__production__production
+- faostat__Raw hides and skins of goats or kids__production__yield_carcass_weight
+- faostat__Raw hides and skins of sheep or lambs__production__producing_animals_slaughtered
+- faostat__Raw hides and skins of sheep or lambs__production__production
+- faostat__Raw hides and skins of sheep or lambs__production__yield_carcass_weight
+- faostat__Raw milk of buffalo__production__milk_animals
+- faostat__Raw milk of buffalo__production__production
+- faostat__Raw milk of buffalo__production__yield_carcass_weight
+- faostat__Raw milk of cattle__production__milk_animals
+- faostat__Raw milk of cattle__production__production
+- faostat__Raw milk of cattle__production__yield_carcass_weight
+- faostat__Raw milk of goats__production__milk_animals
+- faostat__Raw milk of goats__production__production
+- faostat__Raw milk of goats__production__yield_carcass_weight
+- faostat__Raw milk of sheep__production__milk_animals
+- faostat__Raw milk of sheep__production__production
+- faostat__Raw milk of sheep__production__yield_carcass_weight
+- faostat__Rice__production__area_harvested
+- faostat__Rice__production__production
+- faostat__Rice__production__yield
+- faostat__Roots and Tubers, Total__production__area_harvested
+- faostat__Roots and Tubers, Total__production__production
+- faostat__Roots and Tubers, Total__production__yield
+- faostat__Rye__production__area_harvested
+- faostat__Rye__production__production
+- faostat__Rye__production__yield
+- faostat__Safflower seed__production__area_harvested
+- faostat__Safflower seed__production__production
+- faostat__Safflower seed__production__yield
+- faostat__Seed cotton, unginned__production__area_harvested
+- faostat__Seed cotton, unginned__production__production
+- faostat__Seed cotton, unginned__production__yield
+- faostat__Sesame seed__production__area_harvested
+- faostat__Sesame seed__production__production
+- faostat__Sesame seed__production__yield
+- faostat__Sheep and Goat Meat__production__producing_animals_slaughtered
+- faostat__Sheep and Goat Meat__production__production
+- faostat__Sheep and Goat Meat__production__yield_carcass_weight
+- faostat__Sheep fat, unrendered__production__producing_animals_slaughtered
+- faostat__Sheep fat, unrendered__production__production
+- faostat__Sour cherries__production__area_harvested
+- faostat__Sour cherries__production__production
+- faostat__Sour cherries__production__yield
+- faostat__Soya beans__production__area_harvested
+- faostat__Soya beans__production__production
+- faostat__Soya beans__production__yield
+- faostat__Spinach__production__area_harvested
+- faostat__Spinach__production__production
+- faostat__Spinach__production__yield
+- faostat__Strawberries__production__area_harvested
+- faostat__Strawberries__production__production
+- faostat__Strawberries__production__yield
+- faostat__Sugar Crops Primary__production__area_harvested
+- faostat__Sugar Crops Primary__production__production
+- faostat__Sugar Crops Primary__production__yield
+- faostat__Sugar beet__production__area_harvested
+- faostat__Sugar beet__production__production
+- faostat__Sugar beet__production__yield
+- faostat__Sugar cane__production__area_harvested
+- faostat__Sugar cane__production__production
+- faostat__Sugar cane__production__yield
+- faostat__Sunflower seed__production__area_harvested
+- faostat__Sunflower seed__production__production
+- faostat__Sunflower seed__production__yield
+- faostat__Tangerines, mandarins, clementines__production__area_harvested
+- faostat__Tangerines, mandarins, clementines__production__production
+- faostat__Tangerines, mandarins, clementines__production__yield
+- faostat__Tea leaves__production__area_harvested
+- faostat__Tea leaves__production__production
+- faostat__Tea leaves__production__yield
+- faostat__Tomatoes__production__area_harvested
+- faostat__Tomatoes__production__production
+- faostat__Tomatoes__production__yield
+- faostat__Treenuts, Total__production__area_harvested
+- faostat__Treenuts, Total__production__production
+- faostat__Treenuts, Total__production__yield
+- faostat__Unmanufactured tobacco__production__area_harvested
+- faostat__Unmanufactured tobacco__production__production
+- faostat__Unmanufactured tobacco__production__yield
+- faostat__Vegetables Primary__production__area_harvested
+- faostat__Vegetables Primary__production__production
+- faostat__Vegetables Primary__production__yield
+- faostat__Walnuts, in shell__production__area_harvested
+- faostat__Walnuts, in shell__production__production
+- faostat__Walnuts, in shell__production__yield
+- faostat__Watermelons__production__area_harvested
+- faostat__Watermelons__production__production
+- faostat__Watermelons__production__yield
+- faostat__Wheat__production__area_harvested
+- faostat__Wheat__production__production
+- faostat__Wheat__production__yield
+
+## split_parents (134)
+- faostat__Almonds, in shell__production
+- faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production
+- faostat__Apples__production
+- faostat__Apricots__production
+- faostat__Artichokes__production
+- faostat__Asparagus__production
+- faostat__Bananas__production
+- faostat__Barley__production
+- faostat__Beans, dry__production
+- faostat__Beef and Buffalo Meat, primary__production
+- faostat__Broad beans and horse beans, dry__production
+- faostat__Broad beans and horse beans, green__production
+- faostat__Buffalo fat, unrendered__production
+- faostat__Cabbages__production
+- faostat__Cantaloupes and other melons__production
+- faostat__Carrots and turnips__production
+- faostat__Castor oil seeds__production
+- faostat__Cattle fat, unrendered__production
+- faostat__Cauliflowers and broccoli__production
+- faostat__Cereals, primary__production
+- faostat__Cherries__production
+- faostat__Chick peas, dry__production
+- faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production
+- faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production
+- faostat__Citrus Fruit, Total__production
+- faostat__Cucumbers and gherkins__production
+- faostat__Dates__production
+- faostat__Edible offal of buffalo, fresh, chilled or frozen__production
+- faostat__Edible offal of cattle, fresh, chilled or frozen__production
+- faostat__Edible offal of goat, fresh, chilled or frozen__production
+- faostat__Edible offal of pigs, fresh, chilled or frozen__production
+- faostat__Edible offal of sheep, fresh, chilled or frozen__production
+- faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production
+- faostat__Eggplants (aubergines)__production
+- faostat__Eggs Primary__production
+- faostat__Fat of camels__production
+- faostat__Fat of pigs__production
+- faostat__Fibre Crops, Fibre Equivalent__production
+- faostat__Figs__production
+- faostat__Fruit Primary__production
+- faostat__Goat fat, unrendered__production
+- faostat__Grapes__production
+- faostat__Green garlic__production
+- faostat__Groundnuts, excluding shelled__production
+- faostat__Hazelnuts, in shell__production
+- faostat__Hempseed__production
+- faostat__Hen eggs in shell, fresh__production
+- faostat__Jute, raw or retted__production
+- faostat__Kiwi fruit__production
+- faostat__Leeks and other alliaceous vegetables__production
+- faostat__Lemons and limes__production
+- faostat__Lentils, dry__production
+- faostat__Lettuce and chicory__production
+- faostat__Linseed__production
+- faostat__Maize (corn)__production
+- faostat__Mangoes, guavas and mangosteens__production
+- faostat__Meat of buffalo, fresh or chilled__production
+- faostat__Meat of camels, fresh or chilled__production
+- faostat__Meat of cattle with the bone, fresh or chilled__production
+- faostat__Meat of chickens, fresh or chilled__production
+- faostat__Meat of ducks, fresh or chilled__production
+- faostat__Meat of geese, fresh or chilled__production
+- faostat__Meat of goat, fresh or chilled__production
+- faostat__Meat of pig with the bone, fresh or chilled__production
+- faostat__Meat of sheep, fresh or chilled__production
+- faostat__Meat of turkeys, fresh or chilled__production
+- faostat__Meat, Poultry__production
+- faostat__Melonseed__production
+- faostat__Milk, Total__production
+- faostat__Millet__production
+- faostat__Mustard seed__production
+- faostat__Oilcrops, Cake Equivalent__production
+- faostat__Oilcrops, Oil Equivalent__production
+- faostat__Olives__production
+- faostat__Onions and shallots, dry (excluding dehydrated)__production
+- faostat__Oranges__production
+- faostat__Other beans, green__production
+- faostat__Other berries and fruits of the genus vaccinium n.e.c.__production
+- faostat__Other citrus fruit, n.e.c.__production
+- faostat__Other fruits, n.e.c.__production
+- faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production
+- faostat__Other oil seeds, n.e.c.__production
+- faostat__Other pulses n.e.c.__production
+- faostat__Other stimulant, spice and aromatic crops, n.e.c.__production
+- faostat__Other stone fruits__production
+- faostat__Other tropical fruits, n.e.c.__production
+- faostat__Other vegetables, fresh n.e.c.__production
+- faostat__Papayas__production
+- faostat__Peaches and nectarines__production
+- faostat__Pears__production
+- faostat__Peas, dry__production
+- faostat__Peas, green__production
+- faostat__Persimmons__production
+- faostat__Pistachios, in shell__production
+- faostat__Plums and sloes__production
+- faostat__Pomelos and grapefruits__production
+- faostat__Potatoes__production
+- faostat__Pulses, Total__production
+- faostat__Pumpkins, squash and gourds__production
+- faostat__Quinces__production
+- faostat__Rape or colza seed__production
+- faostat__Raw hides and skins of buffaloes__production
+- faostat__Raw hides and skins of cattle__production
+- faostat__Raw hides and skins of goats or kids__production
+- faostat__Raw hides and skins of sheep or lambs__production
+- faostat__Raw milk of buffalo__production
+- faostat__Raw milk of cattle__production
+- faostat__Raw milk of goats__production
+- faostat__Raw milk of sheep__production
+- faostat__Rice__production
+- faostat__Roots and Tubers, Total__production
+- faostat__Rye__production
+- faostat__Safflower seed__production
+- faostat__Seed cotton, unginned__production
+- faostat__Sesame seed__production
+- faostat__Sheep and Goat Meat__production
+- faostat__Sheep fat, unrendered__production
+- faostat__Sour cherries__production
+- faostat__Soya beans__production
+- faostat__Spinach__production
+- faostat__Strawberries__production
+- faostat__Sugar Crops Primary__production
+- faostat__Sugar beet__production
+- faostat__Sugar cane__production
+- faostat__Sunflower seed__production
+- faostat__Tangerines, mandarins, clementines__production
+- faostat__Tea leaves__production
+- faostat__Tomatoes__production
+- faostat__Treenuts, Total__production
+- faostat__Unmanufactured tobacco__production
+- faostat__Vegetables Primary__production
+- faostat__Walnuts, in shell__production
+- faostat__Watermelons__production
+- faostat__Wheat__production

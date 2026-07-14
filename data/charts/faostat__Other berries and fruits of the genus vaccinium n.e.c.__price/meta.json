@@ -1,40 +1,40 @@
 {
-  "chart_id": "faostat__Other berries and fruits of the genus vaccinium n.e.c.__price",
-  "title": "Other berries and fruits of the genus vaccinium n.e.c. — Producer Price",
-  "category": "Agriculture Prices",
-  "sources": "faostat-pp+pa",
-  "n_rows": 929,
-  "year_range": [
-    "1966",
-    "2025"
-  ],
-  "countries": [
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "IRN",
-    "ITA",
-    "NLD",
-    "RUS",
-    "SWE",
-    "TUR",
-    "USA"
-  ],
-  "citations": [
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    },
-    {
-      "source_org": "FAO, FAOSTAT",
-      "source_url": "https://www.fao.org/faostat/en/#data/PP",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "قیمت‌های کشاورزی",
-  "title_fa": "سایر توت‌ها و میوه‌های جنس Vaccinium، طبقه‌بندی‌نشده — قیمت تولیدکننده"
+ "chart_id": "faostat__Other berries and fruits of the genus vaccinium n.e.c.__price",
+ "title": "Other berries and fruits of the genus vaccinium n.e.c., producer price",
+ "category": "Agriculture Prices",
+ "sources": "faostat-pp+pa",
+ "n_rows": 929,
+ "year_range": [
+  "1966",
+  "2025"
+ ],
+ "countries": [
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "IRN",
+  "ITA",
+  "NLD",
+  "RUS",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  },
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/PP",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "قیمت‌های کشاورزی",
+ "title_fa": "قیمت تولیدکننده سایر توت‌ها و میوه‌های جنس Vaccinium، طبقه‌بندی‌نشده"
 }

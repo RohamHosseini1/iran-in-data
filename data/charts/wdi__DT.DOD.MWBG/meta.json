@@ -1,33 +1,33 @@
 {
-  "chart_id": "wdi__DT.DOD.MWBG",
-  "title": "IBRD loans and IDA credits (DOD, current US$)",
-  "category": "External Debt",
-  "sources": "wdi",
-  "n_rows": 185,
-  "year_range": [
-    "1970",
-    "2024"
-  ],
-  "countries": [
-    "ARG",
-    "IRN",
-    "RUS",
-    "TUR"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/DT.DOD.MWBG.CD",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "currency_display": {
-    "has_currency_toggle": true,
-    "default_variant_suffix": ".COMPUTED_REAL_2015USD",
-    "nominal_variant_suffix": ".CD",
-    "note": "Real variant computed by this project (not WDI-native) using each country's own FX rate + CPI, base year 2015. Iran: parallel/black-market rate for 1979-present. Venezuela/Argentina: parallel/black-market rate for their own documented official-vs-parallel divergence eras. All other countries: WDI official PA.NUS.FCRF (no known equivalent divergence). See docs/bookkeeping.md and data/processed/fx_cpi_lookup_<iso3>.json."
-  },
-  "category_fa": "بدهی خارجی",
-  "title_fa": "وام‌های IBRD و اعتبارات IDA (DOD، دلار جاری آمریکا)"
+ "chart_id": "wdi__DT.DOD.MWBG",
+ "title": "IBRD loans and IDA credits (DOD, current US$)",
+ "category": "External Debt",
+ "sources": "wdi",
+ "n_rows": 185,
+ "year_range": [
+  "1970",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "IRN",
+  "RUS",
+  "TUR"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/DT.DOD.MWBG.CD",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "currency_display": {
+  "has_currency_toggle": true,
+  "default_variant_suffix": ".COMPUTED_REAL_2015USD",
+  "nominal_variant_suffix": ".CD",
+  "note": "Real variant computed by this project (not WDI-native) using each country's own FX rate + CPI, base year 2015. Iran: parallel/black-market rate for 1979-present. Venezuela/Argentina: parallel/black-market rate for their own documented official-vs-parallel divergence eras. All other countries: WDI official PA.NUS.FCRF (no known equivalent divergence). See docs/bookkeeping.md and data/processed/fx_cpi_lookup_<iso3>.json."
+ },
+ "category_fa": "بدهی خارجی",
+ "title_fa": "وام‌های بانک بین‌المللی ترمیم و توسعه (IBRD) و اعتبارات انجمن توسعه بین‌الملل (IDA) (DOD، دلار جاری آمریکا)"
 }

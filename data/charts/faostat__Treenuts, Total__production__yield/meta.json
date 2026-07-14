@@ -1,0 +1,36 @@
+{
+ "chart_id": "faostat__Treenuts, Total__production__yield",
+ "title": "Treenuts, Total, yield (kg/ha)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 639,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "PRT",
+  "RUS",
+  "SAU",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "عملکرد آجیل درختی، جمع کل (کیلوگرم بر هکتار)"
+}

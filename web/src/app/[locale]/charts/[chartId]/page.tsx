@@ -207,7 +207,7 @@ export default async function ChartDetailPage({ params }: PageProps) {
       <ChartStateProvider initialVariant={defaultVariant}>
       <div className="mt-8 grid gap-6 lg:grid-cols-[272px_minmax(0,1fr)]">
         <aside className="flex flex-col gap-4">
-          <LatestReading payload={payload} locale={locale} />
+          <LatestReading payload={payload} locale={locale} measureFallback={title} />
 
           <section
             className="rise-in border border-border/60 bg-card/40 p-4"

@@ -1,48 +1,48 @@
 {
-  "chart_id": "fx__official_vs_parallel_gap_irn",
-  "title": "Iran — Official vs. Parallel (Black-Market) USD Exchange Rate & the Gap",
-  "category": "Exchange Rates",
-  "sources": "wdi (PA.NUS.FCRF) + IMF IFS historical (1937-1949) for official; Bahmani-Oskooee (2005) monthly series (1979-2003) + secondary-compiled annual anchors (2004-2010) + TGJU daily data (2011-2026) for parallel",
-  "n_rows": 170,
-  "year_range": [
-    "1937",
-    "2026"
-  ],
-  "countries": [
-    "IRN"
-  ],
-  "years_with_both_series_for_gap_calc": 45,
-  "notes": "Pre-1979 (Pahlavi era) the two series are expected to sit very close together (no meaningful parallel market under the pre-revolution convertible economy) -- watch for the gap opening sharply at the 1979 revolution, narrowing to ~0 during the genuinely unified 2002-2010 window, then reopening from ~2010-2011 onward with sanctions escalation. This chart exists specifically to make that story visible.",
-  "citations": [
-    {
-      "source_org": "World Bank (World Development Indicators, PA.NUS.FCRF)",
-      "source_url": "https://data.worldbank.org/indicator/PA.NUS.FCRF",
-      "access_date": "2026-07-13",
-      "time_range": "1960-1978 (official rate)",
-      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
-    },
-    {
-      "source_org": "International Monetary Fund, Statistics Department (IFS historical, transcribed from PDF tables)",
-      "source_url": "https://www.elibrary.imf.org/subject/041",
-      "access_date": "2026-07-13",
-      "time_range": "1937-1949 (official rate)",
-      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
-    },
-    {
-      "source_org": "Bahmani-Oskooee (2005, Iranian Economic Review) + secondary-compiled annual anchors",
-      "source_url": "https://ier.ut.ac.ir/article_30891.html",
-      "access_date": "2026-07-13",
-      "time_range": "1979-2010 (parallel rate)",
-      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
-    },
-    {
-      "source_org": "TGJU.org (tgju.org financial data aggregator)",
-      "source_url": "https://www.tgju.org/profile/price_dollar_rl",
-      "access_date": "2026-07-13",
-      "time_range": "2011-2026 (parallel rate)",
-      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
-    }
-  ],
-  "category_fa": "نرخ ارز",
-  "title_fa": "ایران — نرخ ارز رسمی در برابر بازار موازی (سیاه) دلار و شکاف میان آن‌ها"
+ "chart_id": "fx__official_vs_parallel_gap_irn",
+ "title": "Official vs. Parallel (Black-Market) USD Exchange Rate & the Gap",
+ "category": "Exchange Rates",
+ "sources": "wdi (PA.NUS.FCRF) + IMF IFS historical (1937-1949) for official; Bahmani-Oskooee (2005) monthly series (1979-2003) + secondary-compiled annual anchors (2004-2010) + TGJU daily data (2011-2026) for parallel",
+ "n_rows": 4069,
+ "year_range": [
+  "1937",
+  "2026"
+ ],
+ "countries": [
+  "IRN"
+ ],
+ "years_with_both_series_for_gap_calc": 45,
+ "notes": "Pre-1979 (Pahlavi era) the two series are expected to sit very close together (no meaningful parallel market under the pre-revolution convertible economy) -- watch for the gap opening sharply at the 1979 revolution, narrowing to ~0 during the genuinely unified 2002-2010 window, then reopening from ~2010-2011 onward with sanctions escalation. This chart exists specifically to make that story visible.",
+ "citations": [
+  {
+   "source_org": "World Bank (World Development Indicators, PA.NUS.FCRF)",
+   "source_url": "https://data.worldbank.org/indicator/PA.NUS.FCRF",
+   "access_date": "2026-07-13",
+   "time_range": "1960-1978 (official rate)",
+   "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+  },
+  {
+   "source_org": "International Monetary Fund, Statistics Department (IFS historical, transcribed from PDF tables)",
+   "source_url": "https://www.elibrary.imf.org/subject/041",
+   "access_date": "2026-07-13",
+   "time_range": "1937-1949 (official rate)",
+   "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+  },
+  {
+   "source_org": "Bahmani-Oskooee (2005, Iranian Economic Review) + secondary-compiled annual anchors",
+   "source_url": "https://ier.ut.ac.ir/article_30891.html",
+   "access_date": "2026-07-13",
+   "time_range": "1979-2010 (parallel rate)",
+   "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+  },
+  {
+   "source_org": "TGJU.org (tgju.org financial data aggregator)",
+   "source_url": "https://www.tgju.org/profile/price_dollar_rl",
+   "access_date": "2026-07-13",
+   "time_range": "2011-2026 (parallel rate)",
+   "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+  }
+ ],
+ "category_fa": "نرخ ارز",
+ "title_fa": "نرخ ارز رسمی ایران در برابر بازار موازی (سیاه) دلار و شکاف میان آن‌ها"
 }

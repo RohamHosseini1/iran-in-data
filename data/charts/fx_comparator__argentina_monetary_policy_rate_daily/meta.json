@@ -1,24 +1,24 @@
 {
-  "chart_id": "fx_comparator__argentina_monetary_policy_rate_daily",
-  "title": "Argentina Monetary Policy Rate, Daily",
-  "category": "Comparator: Argentina FX & Rates",
-  "sources": "bcra-argentina",
-  "n_rows": 2329,
-  "year_range": [
-    "2015",
-    "2025"
-  ],
-  "countries": [
-    "ARG"
-  ],
-  "citations": [
-    {
-      "source_org": "Banco Central de la República Argentina (BCRA)",
-      "source_url": "https://www.bcra.gob.ar/en/central-bank-api-catalog/",
-      "access_date": "2026-07-13",
-      "time_range": "2010-2026"
-    }
-  ],
-  "category_fa": "مقایسه‌ای: ارز و نرخ‌های آرژانتین",
-  "title_fa": "آرژانتین — نرخ سیاست پولی، روزانه"
+ "chart_id": "fx_comparator__argentina_monetary_policy_rate_daily",
+ "title": "Argentina Monetary Policy Rate, Daily",
+ "category": "Comparator: Argentina FX & Rates",
+ "sources": "bcra-argentina",
+ "n_rows": 2329,
+ "year_range": [
+  "2015",
+  "2025"
+ ],
+ "countries": [
+  "ARG"
+ ],
+ "citations": [
+  {
+   "source_org": "Banco Central de la República Argentina (BCRA)",
+   "source_url": "https://www.bcra.gob.ar/en/central-bank-api-catalog/",
+   "access_date": "2026-07-13",
+   "time_range": "2010-2026"
+  }
+ ],
+ "category_fa": "مقایسه‌ای: ارز و نرخ‌های آرژانتین",
+ "title_fa": "نرخ سیاست پولی آرژانتین، روزانه"
 }

@@ -1,0 +1,30 @@
+{
+ "chart_id": "proposed__external_debt_net_flows_by_creditor_type",
+ "title": "External debt net flows, by creditor type (current US$)",
+ "title_fa": "جریان‌های خالص بدهی خارجی، به تفکیک نوع بستانکار (دلار جاری آمریکا)",
+ "category": "External Debt",
+ "category_fa": "بدهی خارجی",
+ "sources": "wdi",
+ "n_rows": 4481,
+ "year_range": [
+  "1970",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "GRC",
+  "IRN",
+  "KOR",
+  "RUS",
+  "SAU",
+  "TUR"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/DT.NFL.BLAT.CD",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ]
+}

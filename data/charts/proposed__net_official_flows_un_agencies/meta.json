@@ -1,0 +1,30 @@
+{
+ "chart_id": "proposed__net_official_flows_un_agencies",
+ "title": "Net official flows from UN agencies, by agency (current US$)",
+ "title_fa": "جریان‌های رسمی خالص از نهادهای سازمان ملل، به تفکیک نهاد (دلار جاری آمریکا)",
+ "category": "Aid & Development Finance",
+ "category_fa": "کمک‌های خارجی و تأمین مالی توسعه",
+ "sources": "wdi",
+ "n_rows": 2925,
+ "year_range": [
+  "1968",
+  "2023"
+ ],
+ "countries": [
+  "ARG",
+  "IRN",
+  "KOR",
+  "RUS",
+  "SAU",
+  "TUR",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/DT.NFL.CERF.CD",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ]
+}

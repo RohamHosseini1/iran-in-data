@@ -1,0 +1,29 @@
+{
+ "chart_id": "faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production__production",
+ "title": "Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw, production (t)",
+ "category": "Agriculture Production",
+ "sources": "faostat-qcl",
+ "n_rows": 353,
+ "year_range": [
+  "1961",
+  "2024"
+ ],
+ "countries": [
+  "ARG",
+  "ESP",
+  "GRC",
+  "IRN",
+  "TUR",
+  "USA"
+ ],
+ "citations": [
+  {
+   "source_org": "FAO, FAOSTAT",
+   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "تولید کشاورزی",
+ "title_fa": "تولید فلفل تند و فلفل، خشک (گونه‌های Capsicum و Pimenta)، خام (تن)"
+}

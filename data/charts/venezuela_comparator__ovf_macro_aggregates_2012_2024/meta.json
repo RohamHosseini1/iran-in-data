@@ -1,24 +1,24 @@
 {
-  "chart_id": "venezuela_comparator__ovf_macro_aggregates_2012_2024",
-  "title": "Venezuela — Macroeconomic Aggregates: GDP, Inflation, Fiscal & External Sector",
-  "category": "Comparator: Macro / National Accounts",
-  "sources": "ovf-venezuela",
-  "n_rows": 168,
-  "year_range": [
-    "2012",
-    "2024"
-  ],
-  "countries": [
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "Observatorio Venezolano de Finanzas (OVF)",
-      "source_url": "https://observatoriodefinanzas.com/documentos-tecnicos/",
-      "access_date": "2026-07-13",
-      "time_range": "2012-2024"
-    }
-  ],
-  "category_fa": "مقایسه‌ای: کلان / حساب‌های ملی",
-  "title_fa": "ونزوئلا — تجمیع‌های کلان اقتصادی: تولید ناخالص داخلی، تورم، بخش مالی دولت و بخش خارجی"
+ "chart_id": "venezuela_comparator__ovf_macro_aggregates_2012_2024",
+ "title": "Venezuela, Macroeconomic Aggregates: GDP, Inflation, Fiscal & External Sector",
+ "category": "Comparator: Macro / National Accounts",
+ "sources": "ovf-venezuela",
+ "n_rows": 168,
+ "year_range": [
+  "2012",
+  "2024"
+ ],
+ "countries": [
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "Observatorio Venezolano de Finanzas (OVF)",
+   "source_url": "https://observatoriodefinanzas.com/documentos-tecnicos/",
+   "access_date": "2026-07-13",
+   "time_range": "2012-2024"
+  }
+ ],
+ "category_fa": "مقایسه‌ای: کلان / حساب‌های ملی",
+ "title_fa": "تجمیع‌های کلان اقتصادی ونزوئلا، تولید ناخالص داخلی، تورم، بخش مالی دولت و بخش خارجی"
 }

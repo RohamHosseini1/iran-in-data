@@ -1,24 +1,24 @@
 {
-  "chart_id": "portugal_comparator__central_bank_balance_sheet_1947_1976",
-  "title": "Portugal — Banco de Portugal Central Bank Balance Sheet (Assets & Liabilities)",
-  "category": "Comparator: Financial Sector (Central Bank)",
-  "sources": "banco-portugal:series-longas-pos-guerra",
-  "n_rows": 1240,
-  "year_range": [
-    "1947",
-    "1976"
-  ],
-  "countries": [
-    "PRT"
-  ],
-  "citations": [
-    {
-      "source_org": "Banco de Portugal",
-      "source_url": "https://www.bportugal.pt/en",
-      "access_date": "2026-07-12",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "مقایسه‌ای: بخش مالی (بانک مرکزی)",
-  "title_fa": "پرتغال — ترازنامه بانک مرکزی (بانکو دو پرتغال): دارایی‌ها و بدهی‌ها"
+ "chart_id": "portugal_comparator__central_bank_balance_sheet_1947_1976",
+ "title": "Portugal, Banco de Portugal Central Bank Balance Sheet (Assets & Liabilities)",
+ "category": "Comparator: Financial Sector (Central Bank)",
+ "sources": "banco-portugal:series-longas-pos-guerra",
+ "n_rows": 1240,
+ "year_range": [
+  "1947",
+  "1976"
+ ],
+ "countries": [
+  "PRT"
+ ],
+ "citations": [
+  {
+   "source_org": "Banco de Portugal",
+   "source_url": "https://www.bportugal.pt/en",
+   "access_date": "2026-07-12",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "مقایسه‌ای: بخش مالی (بانک مرکزی)",
+ "title_fa": "ترازنامه بانک مرکزی پرتغال (بانکو دو پرتغال)، دارایی‌ها و بدهی‌ها"
 }

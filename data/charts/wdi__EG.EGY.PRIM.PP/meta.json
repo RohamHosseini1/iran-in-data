@@ -1,40 +1,40 @@
 {
-  "chart_id": "wdi__EG.EGY.PRIM.PP",
-  "title": "Energy intensity level of primary energy (MJ/$2021 PPP GDP)",
-  "category": "Energy",
-  "sources": "wdi",
-  "n_rows": 387,
-  "year_range": [
-    "2000",
-    "2022"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/EG.EGY.PRIM.PP.KD",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "انرژی",
-  "title_fa": "شدت انرژی اولیه (مگاژول به ازای هر دلار PPP تولید ناخالص داخلی، پایه 2021)"
+ "chart_id": "wdi__EG.EGY.PRIM.PP",
+ "title": "Energy intensity level of primary energy (MJ/$2021 PPP GDP)",
+ "category": "Energy",
+ "sources": "wdi",
+ "n_rows": 387,
+ "year_range": [
+  "2000",
+  "2022"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/EG.EGY.PRIM.PP.KD",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "انرژی",
+ "title_fa": "شدت انرژی اولیه (مگاژول به ازای هر دلار برابری قدرت خرید تولید ناخالص داخلی، پایه 2021)"
 }

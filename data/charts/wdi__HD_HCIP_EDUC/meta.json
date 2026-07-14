@@ -1,40 +1,40 @@
 {
-  "chart_id": "wdi__HD_HCIP_EDUC",
-  "title": "Human capital index plus (HCI+): education pillar score, male (scale 0–188)",
-  "category": "Human Capital",
-  "sources": "wdi",
-  "n_rows": 186,
-  "year_range": [
-    "2010",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/HD_HCIP_EDUC_TO",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "سرمایه انسانی",
-  "title_fa": "شاخص سرمایه انسانی به‌علاوه (HCI+): امتیاز رکن آموزش، مردان (مقیاس 0 تا 188)"
+ "chart_id": "wdi__HD_HCIP_EDUC",
+ "title": "Human capital index plus (HCI+): education pillar score, male (scale 0, 188)",
+ "category": "Human Capital",
+ "sources": "wdi",
+ "n_rows": 186,
+ "year_range": [
+  "2010",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/HD_HCIP_EDUC_TO",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "سرمایه انسانی",
+ "title_fa": "شاخص سرمایه انسانی به‌علاوه (HCI+): امتیاز رکن آموزش، مردان (مقیاس 0 تا 188)"
 }

@@ -1,24 +1,24 @@
 {
-  "chart_id": "saudi_comparator__national_accounts_aggregates_2018_2024",
-  "title": "Saudi Arabia — National Accounts Aggregates: GDP, GNI, National Income, Saving (GASTAT)",
-  "category": "Comparator: Macro / National Accounts",
-  "sources": "gastat-saudi",
-  "n_rows": 91,
-  "year_range": [
-    "2018",
-    "2024"
-  ],
-  "countries": [
-    "SAU"
-  ],
-  "citations": [
-    {
-      "source_org": "General Authority for Statistics (GASTAT), Saudi Arabia",
-      "source_url": "https://www.stats.gov.sa/statistics?index=119021&subindex=120034",
-      "access_date": "2026-07-13",
-      "time_range": "2018-2024"
-    }
-  ],
-  "category_fa": "مقایسه‌ای: کلان / حساب‌های ملی",
-  "title_fa": "عربستان سعودی — تجمیع‌های حساب‌های ملی: تولید ناخالص داخلی، درآمد ناخالص ملی، درآمد ملی و پس‌انداز (GASTAT)"
+ "chart_id": "saudi_comparator__national_accounts_aggregates_2018_2024",
+ "title": "Saudi Arabia, National Accounts Aggregates: GDP, GNI, National Income, Saving (GASTAT)",
+ "category": "Comparator: Macro / National Accounts",
+ "sources": "gastat-saudi",
+ "n_rows": 91,
+ "year_range": [
+  "2018",
+  "2024"
+ ],
+ "countries": [
+  "SAU"
+ ],
+ "citations": [
+  {
+   "source_org": "General Authority for Statistics (GASTAT), Saudi Arabia",
+   "source_url": "https://www.stats.gov.sa/statistics?index=119021&subindex=120034",
+   "access_date": "2026-07-13",
+   "time_range": "2018-2024"
+  }
+ ],
+ "category_fa": "مقایسه‌ای: کلان / حساب‌های ملی",
+ "title_fa": "تجمیع‌های حساب‌های ملی عربستان سعودی، تولید ناخالص داخلی، درآمد ناخالص ملی، درآمد ملی و پس‌انداز (GASTAT)"
 }
