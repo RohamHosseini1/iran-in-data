@@ -17,6 +17,8 @@ interface InteractiveChartProps {
   timeAxis?: boolean;
   /** Fired with the event marker index on markLine hover, null on leave. */
   onEventHover?: (index: number | null) => void;
+  /** Same, for the separate grey law-marker layer. */
+  onLawHover?: (index: number | null) => void;
 }
 
 /**
@@ -35,6 +37,7 @@ export function InteractiveChart({
   zoomExtent,
   timeAxis = false,
   onEventHover,
+  onLawHover,
 }: InteractiveChartProps) {
   const hostRef = React.useRef<HTMLDivElement>(null);
   const chartRef = React.useRef<ECharts | null>(null);
@@ -48,6 +51,8 @@ export function InteractiveChart({
   timeAxisRef.current = timeAxis;
   const onEventHoverRef = React.useRef(onEventHover);
   onEventHoverRef.current = onEventHover;
+  const onLawHoverRef = React.useRef(onLawHover);
+  onLawHoverRef.current = onLawHover;
 
   React.useEffect(() => {
     const host = hostRef.current;
@@ -91,18 +96,23 @@ export function InteractiveChart({
       }, 260);
     });
 
-    // Event markers → hover card beside the chart (Overwatch-style).
+    // Marker hover → detail card beside the chart. Events (amber) and laws (grey)
+    // are separate markLine series, so route by seriesName.
     chart.on("mouseover", (params) => {
-      const p = params as { componentType?: string; dataIndex?: number };
-      if (p.componentType === "markLine" && p.dataIndex != null) {
-        onEventHoverRef.current?.(p.dataIndex);
-      }
+      const p = params as {
+        componentType?: string;
+        dataIndex?: number;
+        seriesName?: string;
+      };
+      if (p.componentType !== "markLine" || p.dataIndex == null) return;
+      if (p.seriesName === "__laws__") onLawHoverRef.current?.(p.dataIndex);
+      else onEventHoverRef.current?.(p.dataIndex);
     });
     chart.on("mouseout", (params) => {
-      const p = params as { componentType?: string };
-      if (p.componentType === "markLine") {
-        onEventHoverRef.current?.(null);
-      }
+      const p = params as { componentType?: string; seriesName?: string };
+      if (p.componentType !== "markLine") return;
+      if (p.seriesName === "__laws__") onLawHoverRef.current?.(null);
+      else onEventHoverRef.current?.(null);
     });
 
     const observer = new ResizeObserver(() => chart.resize());

@@ -30,7 +30,7 @@ import {
 import { countryNameFa } from "@/lib/i18n/countries-fa";
 import { usePref } from "@/lib/use-pref";
 import type { ChartPayload, SubYearSeries } from "@/lib/data/payload";
-import type { ChartEventDetail } from "@/lib/data/types";
+import type { ChartEventDetail, ChartLawDetail, EraBand } from "@/lib/data/types";
 import type { Locale } from "@/lib/i18n/config";
 
 import { Switch } from "@/components/ui/switch";
@@ -47,6 +47,10 @@ interface ChartExplorerProps {
   locale: Locale;
   ssrSvg?: string;
   events?: ChartEventDetail[];
+  /** Laws/regulations: the quiet grey annotation layer. */
+  laws?: ChartLawDetail[];
+  /** Well-known periods drawn as shaded bands. */
+  eras?: EraBand[];
 }
 
 const STRINGS = {
@@ -71,6 +75,11 @@ const STRINGS = {
     caveat: "Caveat",
     why: "Why this link",
     source: "Source",
+    law: "Law",
+    lawLog: "Related_Laws",
+    lawsNote:
+      "Laws related to this measure. A law need not have caused a movement to be listed; confidence reflects how strong the link actually is.",
+    moreLaws: "more related laws",
   },
   fa: {
     chart: "نمودار",
@@ -93,11 +102,18 @@ const STRINGS = {
     caveat: "ملاحظه",
     why: "چرایی این پیوند",
     source: "منبع",
+    law: "قانون",
+    lawLog: "قوانین مرتبط",
+    lawsNote:
+      "قوانین مرتبط با این سنجه. لازم نیست یک قانون علت تغییری باشد تا فهرست شود؛ سطح اطمینان نشان می‌دهد پیوند تا چه حد قوی است.",
+    moreLaws: "قانون مرتبط دیگر",
   },
 };
 
 const FA_DATA_FONT = "var(--font-yekan), ui-sans-serif, sans-serif";
 const EVENT_COLOR = "#CA8A04";
+/** Laws: off-grey, deliberately quiet so it never competes with the data. */
+const LAW_COLOR = "#8A8A8A";
 // Computed at load so projection boundaries roll forward on their own each
 // year; nothing here needs a manual New Year's update.
 const NOW_YEAR = new Date().getFullYear();
@@ -109,6 +125,8 @@ export function ChartExplorer({
   locale,
   ssrSvg,
   events = [],
+  laws = [],
+  eras = [],
 }: ChartExplorerProps) {
   const t = STRINGS[locale];
   const fa = locale === "fa";
@@ -222,6 +240,38 @@ export function ChartExplorer({
     ? friendlyVariantLabel(variant.label, locale)
     : "";
 
+  // Laws are already sorted strongest-first. A broad law (a VAT act) attaches to many
+  // charts, so only the strongest few become markers; every one is listed below the
+  // chart, so nothing is hidden from the reader.
+  const MARKER_LAWS = 8;
+  const markerLaws = React.useMemo(() => laws.slice(0, MARKER_LAWS), [laws]);
+  const [hoverLaw, setHoverLaw] = React.useState<number | null>(null);
+  const lawTimer = React.useRef<ReturnType<typeof setTimeout> | null>(null);
+  const handleLawHover = React.useCallback((idx: number | null) => {
+    if (lawTimer.current) clearTimeout(lawTimer.current);
+    if (idx == null) lawTimer.current = setTimeout(() => setHoverLaw(null), 150);
+    else setHoverLaw(idx);
+  }, []);
+  const hoveredLaw = hoverLaw != null ? markerLaws[hoverLaw] : null;
+
+  // Only shade eras that actually overlap this chart's data: a 2010-2023 series has
+  // no business showing a 1941 occupation band.
+  const visibleEras = React.useMemo(() => {
+    const years = payload.years ?? [];
+    if (!years.length || !eras.length) return [];
+    const first = Number(years[0]);
+    const last = Number(years[years.length - 1]);
+    if (!Number.isFinite(first) || !Number.isFinite(last)) return [];
+    const span = last - first;
+    return eras
+      .filter((e) => e.endYear >= first && e.startYear <= last)
+      .map((e) => {
+        const visible =
+          Math.min(e.endYear, last) - Math.max(e.startYear, first);
+        return { ...e, wideEnough: span > 0 && visible / span >= 0.09 };
+      });
+  }, [eras, payload.years]);
+
   const option = React.useMemo(() => {
     const chrome = mounted
       ? readChromeFromCss()
@@ -241,11 +291,22 @@ export function ChartExplorer({
       nowYear: NOW_YEAR,
       projectionLabel: t.projection,
       events: events.map((e) => ({ year: e.year, title: e.title })),
+      laws: markerLaws.map((l) => ({
+        year: l.year,
+        title: fa ? l.titleFa : l.titleEn || l.titleFa,
+      })),
+      eras: visibleEras.map((e) => ({
+        startYear: e.startYear,
+        endYear: e.endYear,
+        // Label a band only if it is wide enough to hold the text; otherwise the
+        // names of narrow, adjacent eras collide into an unreadable smear.
+        title: e.wideEnough ? (fa ? e.titleFa : e.title) : "",
+      })),
       subYear: payload.subYear,
       formatTime,
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [payload, variantCode, activeCountries, formatYear, resolvedTheme, mounted, fa, chartType, variant, displayNames, events, formatTime]);
+  }, [payload, variantCode, activeCountries, formatYear, resolvedTheme, mounted, fa, chartType, variant, displayNames, events, markerLaws, visibleEras, formatTime]);
 
   const zoomExtent = React.useMemo(
     () =>
@@ -267,6 +328,7 @@ export function ChartExplorer({
     }
   }, []);
   const hovered = hoverEvent != null ? events[hoverEvent] : null;
+
 
   const chipName = (iso: string, fallback: string) =>
     fa ? countryNameFa(iso, fallback) : fallback;
@@ -401,7 +463,48 @@ export function ChartExplorer({
             zoomExtent={zoomExtent}
             timeAxis={timeMode}
             onEventHover={events.length ? handleEventHover : undefined}
+            onLawHover={markerLaws.length ? handleLawHover : undefined}
           />
+          {hoveredLaw && !hovered ? (
+            <div
+              className="rise-in pointer-events-none absolute top-4 z-10 w-72 max-w-[70%] border bg-card/95 p-3 shadow-lg backdrop-blur-sm"
+              style={{
+                insetInlineEnd: 16,
+                borderColor: "color-mix(in oklch, #8A8A8A 45%, transparent)",
+              }}
+              dir={fa ? "rtl" : "ltr"}
+              role="status"
+            >
+              <div className="flex items-baseline gap-2">
+                <span className="data-label text-[10px] text-muted-foreground">
+                  {t.law}
+                </span>
+                <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
+                  {fa ? toPersianDigits(hoveredLaw.year) : hoveredLaw.year}
+                </span>
+                <ConfidenceBars score={hoveredLaw.confidence} muted />
+              </div>
+              <p className="mt-1.5 text-sm font-medium leading-snug">
+                {fa ? hoveredLaw.titleFa : hoveredLaw.titleEn || hoveredLaw.titleFa}
+              </p>
+              {(fa ? hoveredLaw.summaryFa : hoveredLaw.summaryEn) ? (
+                <p className="mt-1.5 line-clamp-3 text-xs leading-relaxed text-muted-foreground">
+                  {fa ? hoveredLaw.summaryFa : hoveredLaw.summaryEn}
+                </p>
+              ) : null}
+              {hoveredLaw.justification ? (
+                <p className="mt-1.5 line-clamp-3 text-xs leading-relaxed text-muted-foreground">
+                  {hoveredLaw.justification}
+                </p>
+              ) : null}
+              {hoveredLaw.caveats ? (
+                <p className="mt-1.5 line-clamp-2 text-xs leading-relaxed">
+                  <span className="data-label text-muted-foreground">{t.caveat}: </span>
+                  <span className="text-muted-foreground">{hoveredLaw.caveats}</span>
+                </p>
+              ) : null}
+            </div>
+          ) : null}
           {hovered ? (
             <div
               className="rise-in pointer-events-none absolute top-4 z-10 w-72 max-w-[70%] border bg-card/95 p-3 shadow-lg backdrop-blur-sm"
@@ -517,11 +620,74 @@ export function ChartExplorer({
           </ol>
         </div>
       ) : null}
+
+      {/* Related laws: the strongest few are markers on the chart; ALL of them are
+          listed here, so raising the on-chart threshold never hides data. */}
+      {laws.length ? (
+        <div className="border-t border-border/60 px-4 py-4">
+          <h3 className="data-label" style={{ color: LAW_COLOR }}>
+            {t.lawLog}
+          </h3>
+          <p className="mt-1 text-xs leading-relaxed text-muted-foreground">
+            {t.lawsNote}
+          </p>
+          <ol className="mt-3 space-y-2">
+            {laws.map((l, i) => (
+              <li key={`${l.lawId}-${i}`}>
+                <details className="group border border-border/50 bg-background/40">
+                  <summary className="flex cursor-pointer flex-wrap items-baseline gap-x-3 gap-y-1 px-3 py-2 transition-colors hover:bg-muted/40">
+                    <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
+                      {fa ? toPersianDigits(l.year) : l.year}
+                    </span>
+                    <ConfidenceBars score={l.confidence} muted />
+                    <span className="flex-1 text-sm leading-snug">
+                      {fa ? l.titleFa : l.titleEn || l.titleFa}
+                    </span>
+                  </summary>
+                  <div className="space-y-1.5 px-3 pb-3 text-xs leading-relaxed text-muted-foreground">
+                    {(fa ? l.summaryFa : l.summaryEn) ? (
+                      <p>{fa ? l.summaryFa : l.summaryEn}</p>
+                    ) : null}
+                    {l.justification ? (
+                      <p>
+                        <span className="data-label">{t.why}: </span>
+                        {l.justification}
+                      </p>
+                    ) : null}
+                    {l.caveats ? (
+                      <p>
+                        <span className="data-label" style={{ color: LAW_COLOR }}>
+                          {t.caveat}:{" "}
+                        </span>
+                        {l.caveats}
+                      </p>
+                    ) : null}
+                    {l.lag ? (
+                      <span className="data-label">
+                        {t.lag}: {l.lag}
+                      </span>
+                    ) : null}
+                  </div>
+                </details>
+              </li>
+            ))}
+          </ol>
+        </div>
+      ) : null}
     </section>
   );
 }
 
-function ConfidenceBars({ score }: { score: number }) {
+function ConfidenceBars({
+  score,
+  muted = false,
+}: {
+  score: number;
+  muted?: boolean;
+}) {
+  // Laws use the same 1-5 scale but the quiet grey palette, so the two annotation
+  // layers stay visually distinct wherever they appear together.
+  const on = muted ? LAW_COLOR : EVENT_COLOR;
   return (
     <span className="flex gap-0.5" dir="ltr" aria-label={`${score}/5`}>
       {[1, 2, 3, 4, 5].map((n) => (
@@ -531,7 +697,7 @@ function ConfidenceBars({ score }: { score: number }) {
           style={{
             backgroundColor:
               n <= score
-                ? EVENT_COLOR
+                ? on
                 : "color-mix(in oklch, currentColor 15%, transparent)",
           }}
         />

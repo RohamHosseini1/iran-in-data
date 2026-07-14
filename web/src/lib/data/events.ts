@@ -56,7 +56,7 @@ function parseCsvRows(text: string): string[][] {
   return rows;
 }
 
-function readCsvObjects(filePath: string): Record<string, string>[] {
+export function readCsvObjects(filePath: string): Record<string, string>[] {
   const [header, ...records] = parseCsvRows(fs.readFileSync(filePath, "utf-8"));
   return records.map((r) =>
     Object.fromEntries(header.map((h, i) => [h, r[i] ?? ""]))

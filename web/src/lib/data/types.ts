@@ -78,3 +78,37 @@ export interface SearchRecord {
   n: number; // country count
   s: string; // primary source
 }
+
+/** A law/regulation annotation. Persian-first: titleFa is the enacted original. */
+export interface ChartLawDetail {
+  lawId: string;
+  year: number;
+  titleFa: string;
+  titleEn: string;
+  summaryEn: string;
+  summaryFa: string;
+  /** 1-5. A law need not be causal to appear; weak links are recorded AS weak. */
+  confidence: number;
+  relationship: string;
+  direction: string;
+  lag: string;
+  justification: string;
+  caveats: string;
+  /** "specific" = this chart was named; "category" = swept in with its whole domain. */
+  scope: "specific" | "category";
+}
+
+/** A well-known period drawn as a shaded band rather than a point marker. */
+export interface EraBand {
+  eraId: string;
+  country: string;
+  startYear: number;
+  endYear: number;
+  title: string;
+  titleFa: string;
+  description: string;
+  descriptionFa: string;
+  kind: string;
+  sourceUrl: string;
+  sourceName: string;
+}

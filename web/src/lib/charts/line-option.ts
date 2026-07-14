@@ -40,16 +40,33 @@ export interface LineOptionInput {
   projectionLabel?: string;
   /** Confidence-scored policy/event markers. */
   events?: ChartEventMarker[];
+  /**
+   * Law/regulation markers: a SECOND, deliberately quieter annotation layer drawn in
+   * low-opacity grey so it annotates without competing with the data or the events.
+   * Only the strongest few are drawn; the rest are listed below the chart.
+   */
+  laws?: ChartEventMarker[];
+  /** Well-known periods (Revolution, war, sanctions) drawn as shaded bands. */
+  eras?: EraMarker[];
   /** Sub-year observations: switches the x-axis to a real time axis. */
   subYear?: SubYearSeries;
   /** Formats an epoch-ms tick/tooltip label in time mode. */
   formatTime?: (ms: number, detail?: boolean) => string;
 }
 
+export interface EraMarker {
+  startYear: number;
+  endYear: number;
+  title: string;
+}
+
 const DEFAULT_DATA_FONT =
   "var(--font-reddit-mono), ui-monospace, SFMono-Regular, Menlo, monospace";
 
 const EVENT_COLOR = "#CA8A04";
+/** Laws: off-grey, low opacity. Quiet by design, per the owner's brief. */
+const LAW_COLOR = "#8A8A8A";
+const LAW_OPACITY = 0.38;
 
 /** Year window where the given series actually have data. */
 export function dataExtent(
@@ -121,6 +138,8 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
     nowYear,
     projectionLabel = "Projection",
     events = [],
+    laws = [],
+    eras = [],
     subYear,
     formatTime,
   } = input;
@@ -411,6 +430,67 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
             ],
           }
         : undefined,
+    });
+  }
+
+  // Era bands: the Revolution, the war, sanctions periods. Everyone already knows
+  // these, so they are shaded regions to locate against the data, not point markers.
+  if (eras.length) {
+    const xOf = (y: number) => (timeMode ? Date.UTC(y, 0, 1) : y);
+    series.push({
+      name: "__eras__",
+      type: "line" as const,
+      data: [],
+      silent: true,
+      tooltip: { show: false },
+      markArea: {
+        silent: true,
+        itemStyle: { color: fade(LAW_COLOR, 0.07) },
+        label: {
+          show: true,
+          position: "insideTop" as const,
+          color: chrome.mutedForeground,
+          fontFamily: dataFont,
+          fontSize: 9,
+          opacity: 0.8,
+        },
+        data: eras.map((e) => [
+          { xAxis: xOf(e.startYear), name: e.title.toUpperCase() },
+          { xAxis: xOf(e.endYear) },
+        ]) as never,
+      },
+    });
+  }
+
+  // Laws: the quiet grey layer. Its own series so hover can tell it apart from events.
+  if (laws.length) {
+    series.push({
+      name: "__laws__",
+      type: "line" as const,
+      data: [],
+      silent: false,
+      tooltip: { show: false },
+      markLine: {
+        silent: false,
+        symbol: ["none", "none"],
+        animation: false,
+        lineStyle: {
+          color: LAW_COLOR,
+          width: 1,
+          type: [2, 4] as unknown as "dashed",
+          opacity: LAW_OPACITY,
+        },
+        label: { show: false },
+        emphasis: {
+          lineStyle: { opacity: 0.9, width: 1.5 },
+          label: { show: false },
+        },
+        tooltip: { show: false },
+        data: laws.map((l) => ({
+          xAxis: timeMode ? Date.UTC(l.year, 0, 1) : l.year,
+          name: l.title,
+        })),
+      },
     });
   }
 
