@@ -75,14 +75,24 @@ Status key: **DONE** · **PARTIAL** · **OPEN** · **REVERTED** (owner later cha
 | 32 | **Empty charts/measures**: selecting an alternative measure (e.g. Chillies → "FAO current") renders empty. Find the **root cause** — was data deleted? Either find the data, or delete the chart/measure. No empty charts. | DONE |
 | 33 | Measure labels are unclear, e.g. "Producer Price Index (2014 to 2016 = 100)" — the parenthesis means nothing to a reader. Applies to many labels. | DONE |
 
-## Round 8 — the annotation-quality failure (CURRENT)
+## Round 8 — the annotation-quality failure
 
 | # | Issue | Status |
 |---|---|---|
-| 34 | **English text inside the Persian site.** The law/event detail cards render `justification`, `caveats`, `lag`, and field labels in English on the FA page. | **OPEN** |
-| 35 | **Law→chart mapping coverage is bad.** The GDP chart has exactly **one** law attached across a century of Iranian legislation. That is not credible. | **OPEN** |
-| 36 | **Confidence scoring is incoherent.** The White Revolution is scored confidence **1** ("context") against Iran's GDP. The scale is being applied inconsistently across the board. | **OPEN** |
+| 34 | **English text inside the Persian site.** The law/event detail cards render `justification`, `caveats`, `lag`, and field labels in English on the FA page. | DONE |
+| 35 | **Law→chart mapping coverage is bad.** The GDP chart has exactly **one** law attached across a century of Iranian legislation. That is not credible. | DONE (GDP: 1 -> 145) |
+| 36 | **Confidence scoring is incoherent.** The White Revolution is scored confidence **1** ("context") against Iran's GDP. The scale is being applied inconsistently across the board. | DONE (two scores: relevance + attribution) |
 | 37 | **META-RULE (applies to everything):** when the owner points out one bad instance, it is a **signal of a systemic failure**, not a request to patch that one chart. Re-do the whole class of work and verify it globally. | **STANDING** |
+
+## Round 9 — annotation noise
+
+| # | Issue | Status |
+|---|---|---|
+| 38 | **Comparator-country domestic events are annotating Iranian charts.** Argentina's peso peg, the 1994 Turkish lira crisis, appearing on Iran's inflation chart. Only events **directly related to Iran** (plus genuine global shocks) belong. | DONE |
+| 39 | **Too many annotations to read.** "So many that I basically don't see the laws, and I don't see the chart either." | DONE |
+| 40 | **Weak links must not be drawn.** Anything below confidence 2 belongs in the list at the bottom, not on the chart. | DONE |
+| 41 | «انتساب علّی» is Arabic-flavoured; use a proper Persian term. | DONE (now «اطمینان از تأثیر») |
+
 
 ---
 
@@ -97,3 +107,5 @@ Status key: **DONE** · **PARTIAL** · **OPEN** · **REVERTED** (owner later cha
 7. **No em dashes** anywhere in site copy.
 8. Comparators get **economic data only** — never the laws/policy layer.
 9. When one defect is reported, **fix the class, not the instance** (#37).
+10. **Iran-first annotations**: only Iran's own events and genuine global shocks annotate charts. A comparator's purely domestic event never does (#38).
+11. **Markers are quality-gated, not count-capped**: draw an annotation only if relevance is top (5) or it is genuinely attributable (attribution >= 3), never below relevance 2. Everything else is still listed in full below the chart (#39, #40).

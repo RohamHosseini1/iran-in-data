@@ -103,7 +103,7 @@ const STRINGS = {
     why: "چرایی این پیوند",
     source: "منبع",
     relevance: "میزان ارتباط",
-    attribution: "انتساب علّی",
+    attribution: "اطمینان از تأثیر",
     law: "قانون",
     lawLog: "قوانین مرتبط",
     lawsNote:
@@ -244,14 +244,31 @@ export function ChartExplorer({
   // Laws are already sorted strongest-first. A broad law (a VAT act) attaches to many
   // charts, so only the strongest few become markers; every one is listed below the
   // chart, so nothing is hidden from the reader.
-  // No cap. Capping "strongest first" spent the budget on whichever era happened to
-  // have the most laws (the 1950s), so later ones never got drawn at all, and a
-  // confidence-5 event could be omitted while a confidence-2 one was shown. There
-  // are not that many per chart, so draw them all and number them 1..N.
-  const markerLaws = laws;
+  /**
+   * Which annotations get DRAWN on the chart.
+   *
+   * Not a count cap: capping "top N" silently dropped whole eras. This is a QUALITY
+   * threshold, so nothing is hidden for being late in the list, only for being weak:
+   *   draw it if it is top-relevance (5), or if we can actually attribute movement
+   *   to it (attribution >= 3). Never draw anything below relevance 2.
+   * GDP goes from 145 law markers to 16. Everything else is still listed in full
+   * below the chart, so nothing is lost, only un-cluttered.
+   */
+  const isMarkerWorthy = React.useCallback(
+    (a: { relevance: number; attribution: number }) =>
+      a.relevance >= 2 && (a.relevance >= 5 || a.attribution >= 3),
+    []
+  );
+  const markerLaws = React.useMemo(
+    () => laws.filter(isMarkerWorthy),
+    [laws, isMarkerWorthy]
+  );
   // Densely-annotated charts (the FX chart carries 56 events) would otherwise be a
   // wall of markers. Show the strongest, keep every one in the log below the chart.
-  const markerEvents = events;
+  const markerEvents = React.useMemo(
+    () => events.filter(isMarkerWorthy),
+    [events, isMarkerWorthy]
+  );
   const [hoverLaw, setHoverLaw] = React.useState<number | null>(null);
   const lawTimer = React.useRef<ReturnType<typeof setTimeout> | null>(null);
   const handleLawHover = React.useCallback((idx: number | null) => {
@@ -574,7 +591,9 @@ export function ChartExplorer({
                 <details className="group border border-border/50 bg-background/40">
                   <summary className="flex cursor-pointer flex-wrap items-baseline gap-x-3 gap-y-1 px-3 py-2 transition-colors hover:bg-muted/40">
                     <span className="font-data text-[10px] text-[#CA8A04]">
-                      {String(i + 1).padStart(2, "0")}
+                      {markerNo.has(`${e.date}|${e.title}`)
+                        ? String(markerNo.get(`${e.date}|${e.title}`)).padStart(2, "0")
+                        : "\u00b7\u00b7"}
                     </span>
                     <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                       {fa ? toPersianDigits(e.year) : e.year}

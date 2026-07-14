@@ -41,7 +41,7 @@ LAW_FIELDS = ["link_id", "chart_id", "law_id", "law_date", "law_title_fa",
 EV_FIELDS = ["correlation_id", "chart_id", "chart_title", "event_date", "event_title",
              "event_source_file", "relationship_type", "relevance", "attribution",
              "direction", "lag_en", "lag_fa", "justification_en", "justification_fa",
-             "caveats_en", "caveats_fa"]
+             "caveats_en", "caveats_fa", "scope"]
 
 
 
@@ -79,6 +79,13 @@ DOMAIN_ALIAS = {
     "privatization": ["Macro / National Accounts", "Capital Markets"],
     "welfare": ["Social Protection", "Poverty & Inequality"],
 }
+
+
+# Iran-first. A purely DOMESTIC comparator event (Argentina's Rodrigazo, the 1994
+# Turkish lira crisis) has no business annotating an Iranian chart: it was attaching
+# Argentina's devaluation to Iran's CPI. Only Iran's own timeline and genuine GLOBAL
+# shocks (oil shocks, Bretton Woods, 2008, COVID) may annotate charts.
+ALLOWED_EVENT_SOURCES = {"timeline/iran.csv", "timeline/global.csv"}
 
 
 def load_charts():
@@ -172,14 +179,19 @@ def main():
     # ---------- events ----------
     events = json.load(open(os.path.join(REMAP, "events_mapped.json"), encoding="utf-8"))
     erows, eseen = [], set()
+    skipped_foreign = 0
     for e in events:
+        if e.get("event_source_file") not in ALLOWED_EVENT_SOURCES:
+            skipped_foreign += 1
+            continue
         for link in (e.get("links") or []):
-            for cid, _ in targets(link, title, by_cat, bad):
+            for cid, escope in targets(link, title, by_cat, bad):
                 key = (cid, e["event_date"], e["event_title"])
                 if key in eseen:
                     continue
                 eseen.add(key)
                 erows.append({
+                    "scope": escope,
                     "correlation_id": f"ev_{len(erows)+1:06d}", "chart_id": cid,
                     "chart_title": title.get(cid, ""),
                     "event_date": e["event_date"], "event_title": e["event_title"],
@@ -212,6 +224,7 @@ def main():
     print(f"law links   : {len(rows):6d} | charts with a law   : {len([c for c in all_charts if lc[c]]):5d} / {len(all_charts)}")
     print(f"event links : {len(erows):6d} | charts with an event: {len([c for c in all_charts if ec[c]]):5d} / {len(all_charts)}")
     print(f"dropped invented refs: {bad[0]} chart_ids, {bad[1]} categories")
+    print(f"events skipped (comparator-domestic, not Iran/global): {skipped_foreign}")
     for cid in ("wdi__NY.GDP.MKTP", "wdi__NY.GDP.PCAP", "wdi__FP.CPI.TOTL"):
         print(f"   {title.get(cid,cid):22} laws={lc[cid]:3d} events={ec[cid]:3d}")
 
