@@ -85,7 +85,7 @@
     ],
     "data_path": "data/charts/cia_econ__gloomy_prospects_current_account_scenarios_1987/data.csv",
     "row_count": 25,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -115,7 +115,7 @@
     ],
     "data_path": "data/charts/cia_econ__gloomy_prospects_iraq_debt_rescheduling_1987/data.csv",
     "row_count": 94,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -175,7 +175,7 @@
     ],
     "data_path": "data/charts/cia_econ__gloomy_prospects_trade_oil_1987/data.csv",
     "row_count": 101,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -1794,7 +1794,7 @@
     "title_fa": "سرانه مصرف گیاهان آبزی",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Aquatic Plants, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -1835,7 +1835,7 @@
     ],
     "data_path": "data/charts/faostat__Aquatic Plants__consumption/data.csv",
     "row_count": 4603,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -1896,7 +1896,7 @@
     "title_fa": "سرانه مصرف سایر محصولات آبزی",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Aquatic Products, Other, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -1937,7 +1937,7 @@
     ],
     "data_path": "data/charts/faostat__Aquatic Products, Other__consumption/data.csv",
     "row_count": 4603,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -5567,7 +5567,7 @@
     "title_fa": "سرانه مصرف کاساوا و فرآورده‌های آن",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Cassava and products, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -5599,7 +5599,7 @@
     ],
     "data_path": "data/charts/faostat__Cassava and products__consumption/data.csv",
     "row_count": 1881,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -12142,7 +12142,7 @@
     "title_fa": "سرانه مصرف روغن بدن ماهی",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Fish, Body Oil, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -12183,7 +12183,7 @@
     ],
     "data_path": "data/charts/faostat__Fish, Body Oil__consumption/data.csv",
     "row_count": 4729,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -12244,7 +12244,7 @@
     "title_fa": "سرانه مصرف روغن جگر ماهی",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Fish, Liver Oil, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -12285,7 +12285,7 @@
     ],
     "data_path": "data/charts/faostat__Fish, Liver Oil__consumption/data.csv",
     "row_count": 4828,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -27529,7 +27529,7 @@
     ],
     "data_path": "data/charts/faostat__Peas, dry__production__area_harvested/data.csv",
     "row_count": 864,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -27572,7 +27572,7 @@
     ],
     "data_path": "data/charts/faostat__Peas, dry__production__production/data.csv",
     "row_count": 862,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -27614,7 +27614,7 @@
     ],
     "data_path": "data/charts/faostat__Peas, dry__production__yield/data.csv",
     "row_count": 856,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -33199,7 +33199,7 @@
     "title_fa": "صادرات و واردات روغن سبوس برنج",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Ricebran Oil, imports and exports (1000 tonnes)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -33228,7 +33228,7 @@
     ],
     "data_path": "data/charts/faostat__Ricebran Oil__trade/data.csv",
     "row_count": 155,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -33468,7 +33468,7 @@
     "title_fa": "سرانه مصرف سایر ریشه‌ها و غده‌ها",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Roots, Other, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -33509,7 +33509,7 @@
     ],
     "data_path": "data/charts/faostat__Roots, Other__consumption/data.csv",
     "row_count": 3878,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -33519,7 +33519,7 @@
     "title_fa": "صادرات و واردات سایر ریشه‌ها و غده‌ها",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Roots, Other, imports and exports (1000 tonnes)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -33560,7 +33560,7 @@
     ],
     "data_path": "data/charts/faostat__Roots, Other__trade/data.csv",
     "row_count": 1496,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -35300,7 +35300,7 @@
     "title_fa": "سرانه مصرف ذرت خوشه‌ای (سورگوم) و فرآورده‌های آن",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Sorghum and products, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -35329,7 +35329,7 @@
     ],
     "data_path": "data/charts/faostat__Sorghum and products__consumption/data.csv",
     "row_count": 1185,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -35994,7 +35994,7 @@
     "title_fa": "سرانه مصرف سویا",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Soyabeans, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -36035,7 +36035,7 @@
     ],
     "data_path": "data/charts/faostat__Soyabeans__consumption/data.csv",
     "row_count": 5169,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -38387,7 +38387,7 @@
     "title_fa": "سرانه مصرف سیب‌زمینی شیرین",
     "category": "Food Consumption",
     "category_fa": "مصرف مواد غذایی",
-    "description": "Sweet potatoes, per-capita food consumption",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -38425,7 +38425,7 @@
     ],
     "data_path": "data/charts/faostat__Sweet potatoes__consumption/data.csv",
     "row_count": 4164,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41693,7 +41693,7 @@
     "title_fa": "صادرات و واردات شراب",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Wine, imports and exports (1000 tonnes)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -41734,7 +41734,7 @@
     ],
     "data_path": "data/charts/faostat__Wine__trade/data.csv",
     "row_count": 1497,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41744,7 +41744,7 @@
     "title_fa": "صادرات و واردات یام",
     "category": "Agriculture Trade",
     "category_fa": "تجارت کشاورزی",
-    "description": "Yams, imports and exports (1000 tonnes)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1961",
       "2023"
@@ -41783,7 +41783,7 @@
     ],
     "data_path": "data/charts/faostat__Yams__trade/data.csv",
     "row_count": 1062,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41813,7 +41813,7 @@
     ],
     "data_path": "data/charts/frus__1951_54_foreign_aid_exim_loan_negotiations/data.csv",
     "row_count": 65,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41873,7 +41873,7 @@
     ],
     "data_path": "data/charts/frus__1951_54_oil_production_trade_abadan_crisis/data.csv",
     "row_count": 30,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41904,7 +41904,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_arms_deals_cost_escalation/data.csv",
     "row_count": 41,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41935,7 +41935,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_demographics_population/data.csv",
     "row_count": 10,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41966,7 +41966,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_foreign_investment_deal_pipeline/data.csv",
     "row_count": 25,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41997,7 +41997,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_gnp_targets_comparator_growth/data.csv",
     "row_count": 11,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42028,7 +42028,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_government_finance_oil_dependence/data.csv",
     "row_count": 26,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42120,7 +42120,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_oil_price_shock_production_revenue/data.csv",
     "row_count": 45,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42151,7 +42151,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_outbound_foreign_aid/data.csv",
     "row_count": 31,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42182,7 +42182,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_trade_targets_historical_comparison/data.csv",
     "row_count": 28,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42212,7 +42212,7 @@
     ],
     "data_path": "data/charts/frus__1973_76_western_oil_import_cost_impact/data.csv",
     "row_count": 10,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42292,7 +42292,7 @@
     ],
     "data_path": "data/charts/fx_comparator__argentina_badlar_interest_rate_daily/data.csv",
     "row_count": 6714,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42321,7 +42321,7 @@
     ],
     "data_path": "data/charts/fx_comparator__argentina_fx_retail_rate_daily/data.csv",
     "row_count": 3918,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42350,7 +42350,7 @@
     ],
     "data_path": "data/charts/fx_comparator__argentina_fx_wholesale_reference_rate_daily/data.csv",
     "row_count": 5967,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42379,7 +42379,7 @@
     ],
     "data_path": "data/charts/fx_comparator__argentina_international_reserves_daily/data.csv",
     "row_count": 7510,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42408,7 +42408,7 @@
     ],
     "data_path": "data/charts/fx_comparator__argentina_monetary_policy_rate_daily/data.csv",
     "row_count": 2329,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42438,7 +42438,7 @@
     ],
     "data_path": "data/charts/fx_comparator__venezuela_parallel_fx_milestones_2003_2020/data.csv",
     "row_count": 46,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -43679,7 +43679,7 @@
     ],
     "data_path": "data/charts/iran_concessions__automotive_joint_ventures_1956_1979/data.csv",
     "row_count": 5,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -43708,7 +43708,7 @@
     ],
     "data_path": "data/charts/iran_concessions__darcy_oil_1901_terms/data.csv",
     "row_count": 17,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -43908,7 +43908,7 @@
     ],
     "data_path": "data/charts/iran_disasters__gold_price_divorce_rate_descriptive_stats_1980_2014/data.csv",
     "row_count": 10,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -44257,7 +44257,7 @@
     ],
     "data_path": "data/charts/iran_fx__mazarei_1995_parallel_fx_market_1978_1990/data.csv",
     "row_count": 14,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -44517,7 +44517,7 @@
     ],
     "data_path": "data/charts/iran_institutions__imf_article_iv_consultation_history_2002_2025/data.csv",
     "row_count": 10,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -44577,7 +44577,7 @@
     ],
     "data_path": "data/charts/iran_institutions__wto_gatt_accession_timeline_1995_2026/data.csv",
     "row_count": 11,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -46826,7 +46826,7 @@
     ],
     "data_path": "data/charts/nis33__land_use_irrigation_demographics/data.csv",
     "row_count": 43,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -46855,7 +46855,7 @@
     ],
     "data_path": "data/charts/nis33__macro_national_accounts/data.csv",
     "row_count": 11,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -46943,7 +46943,7 @@
     ],
     "data_path": "data/charts/nis33__trade_by_commodity_and_partner/data.csv",
     "row_count": 293,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -47438,7 +47438,7 @@
     ],
     "data_path": "data/charts/pahlavi__fiscal_system_narrative_indicators_1921_79/data.csv",
     "row_count": 46,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48188,7 +48188,7 @@
     ],
     "data_path": "data/charts/pahlavi_hh__food_demand_actual_projected_1972_1982/data.csv",
     "row_count": 153,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48276,7 +48276,7 @@
     ],
     "data_path": "data/charts/portugal_comparator__central_bank_balance_sheet_1947_1976/data.csv",
     "row_count": 1240,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48305,7 +48305,7 @@
     ],
     "data_path": "data/charts/portugal_comparator__cpi_1948_2020/data.csv",
     "row_count": 4046,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48392,7 +48392,7 @@
     ],
     "data_path": "data/charts/portugal_comparator__investment_fbcf_1953_2020/data.csv",
     "row_count": 680,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48421,7 +48421,7 @@
     ],
     "data_path": "data/charts/portugal_comparator__monetary_aggregates_1947_2020/data.csv",
     "row_count": 534,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48594,7 +48594,7 @@
     ],
     "data_path": "data/charts/saudi_comparator__cpi_2024_2026/data.csv",
     "row_count": 68,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48652,7 +48652,7 @@
     ],
     "data_path": "data/charts/saudi_comparator__national_accounts_aggregates_2018_2024/data.csv",
     "row_count": 91,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48682,7 +48682,7 @@
     ],
     "data_path": "data/charts/spain_comparator__gdp_long_run_1850_2000/data.csv",
     "row_count": 1511,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48712,7 +48712,7 @@
     ],
     "data_path": "data/charts/spain_comparator__price_indices_1800_2000/data.csv",
     "row_count": 646,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -48975,7 +48975,7 @@
     ],
     "data_path": "data/charts/ussr_russia_cia_consumption_population_1950_1987/data.csv",
     "row_count": 152,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49004,7 +49004,7 @@
     ],
     "data_path": "data/charts/ussr_russia_cia_gnp_by_end_use_1950_1987/data.csv",
     "row_count": 152,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49033,7 +49033,7 @@
     ],
     "data_path": "data/charts/ussr_russia_cia_gnp_by_sector_1950_1987/data.csv",
     "row_count": 418,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49062,7 +49062,7 @@
     ],
     "data_path": "data/charts/ussr_russia_cia_gnp_growth_defense_narrative/data.csv",
     "row_count": 46,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49091,7 +49091,7 @@
     ],
     "data_path": "data/charts/ussr_russia_imperial_foreign_trade_1897_1908/data.csv",
     "row_count": 22,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49131,7 +49131,7 @@
     ],
     "data_path": "data/charts/ussr_russia_imperial_international_population_comparison/data.csv",
     "row_count": 27,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49160,7 +49160,7 @@
     ],
     "data_path": "data/charts/ussr_russia_imperial_population_by_region_1858_1910/data.csv",
     "row_count": 32,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49204,7 +49204,7 @@
     ],
     "data_path": "data/charts/ussr_russia_imperial_population_density_comparison/data.csv",
     "row_count": 28,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49233,7 +49233,7 @@
     ],
     "data_path": "data/charts/ussr_russia_narkhoz_1932_five_year_plan_farm_machinery/data.csv",
     "row_count": 38,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49262,7 +49262,7 @@
     ],
     "data_path": "data/charts/ussr_russia_narkhoz_grain_harvest_index_1950_1956/data.csv",
     "row_count": 49,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49291,7 +49291,7 @@
     ],
     "data_path": "data/charts/ussr_russia_narkhoz_livestock_headcount_1916_1956/data.csv",
     "row_count": 112,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49320,7 +49320,7 @@
     ],
     "data_path": "data/charts/ussr_russia_narkhoz_livestock_products_index_1950_1956/data.csv",
     "row_count": 28,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49349,7 +49349,7 @@
     ],
     "data_path": "data/charts/ussr_russia_narkhoz_national_economy_index_1913_1989/data.csv",
     "row_count": 652,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49378,7 +49378,7 @@
     ],
     "data_path": "data/charts/ussr_russia_narkhoz_population_1913_1956/data.csv",
     "row_count": 30,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49408,7 +49408,7 @@
     ],
     "data_path": "data/charts/ussr_us_defense_spending_ruble_valuation_1960_1981/data.csv",
     "row_count": 66,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49437,7 +49437,7 @@
     ],
     "data_path": "data/charts/ussr_us_gnp_pct_comparison_1960_1983/data.csv",
     "row_count": 6,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -49467,7 +49467,7 @@
     ],
     "data_path": "data/charts/ussr_us_gnp_ruble_valuation_1960_1981/data.csv",
     "row_count": 66,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -52153,7 +52153,7 @@
     "title_fa": "سرمایه‌گذاری پرتفوی سهام، ورود خالص (موازنه پرداخت‌ها، دلار جاری آمریکا)",
     "category": "Balance of Payments (Receipts)",
     "category_fa": "تراز پرداخت‌ها (دریافت‌ها)",
-    "description": "Portfolio equity, net inflows (BoP, current US$)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "1967",
       "2024"
@@ -52188,7 +52188,7 @@
     ],
     "data_path": "data/charts/wdi__BX.PEF.TOTL.CD/data.csv",
     "row_count": 800,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -58038,7 +58038,7 @@
     "title_fa": "شار خالص دی‌اکسید کربن (CO2) از سایر اراضی LULUCF (مگاتن معادل CO2)",
     "category": "Environment",
     "category_fa": "محیط‌زیست",
-    "description": "Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "2000",
       "2023"
@@ -58073,7 +58073,7 @@
     ],
     "data_path": "data/charts/wdi__EN.GHG.CO2.LU.OL.MT.CE/data.csv",
     "row_count": 405,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -58083,7 +58083,7 @@
     "title_fa": "شار خالص دی‌اکسید کربن (CO2) از LULUCF، خاک آلی (مگاتن معادل CO2)",
     "category": "Environment",
     "category_fa": "محیط‌زیست",
-    "description": "Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "2000",
       "2023"
@@ -58118,7 +58118,7 @@
     ],
     "data_path": "data/charts/wdi__EN.GHG.CO2.LU.OS.MT.CE/data.csv",
     "row_count": 394,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },

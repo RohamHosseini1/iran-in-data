@@ -6,6 +6,7 @@ Add a country here once and every harmonize_*.py script picks it up automaticall
 # canonical ISO3 -> display name
 COUNTRIES = {
     "IRN": "Iran",
+    "IRQ": "Iraq",
     "KOR": "South Korea",
     "TUR": "Turkey",
     "SAU": "Saudi Arabia",
@@ -30,6 +31,7 @@ COUNTRIES = {
 # FAOSTAT's "Area" column uses full UN names, not ISO3 -- map name -> ISO3.
 FAOSTAT_AREA_TO_ISO3 = {
     "Iran (Islamic Republic of)": "IRN",
+    "Iraq": "IRQ",
     "Republic of Korea": "KOR",
     "Türkiye": "TUR",
     "Saudi Arabia": "SAU",

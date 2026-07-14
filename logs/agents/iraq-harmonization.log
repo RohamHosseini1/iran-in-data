@@ -1,0 +1,30 @@
+# Iraq (IRQ) Harmonization Progress Log
+Started: 2026-07-14
+
+## Task
+Add Iraq (IRQ) as comparator country to data/processed/ harmonized CSVs.
+Rules: additive only, existing country rows must be byte-for-byte unchanged.
+Do NOT touch CHART_REGISTRY.csv, data/charts/, catalog/.
+
+## Plan
+1. Add IRQ to COUNTRIES in scripts/harmonize/country_crosswalk.py + FAOSTAT_AREA_TO_ISO3
+2. Check raw files for LFS pointers, git lfs pull if needed
+3. Re-run harmonize scripts: WDI, FAOSTAT (6 domains), OWID, IMF WEO, Maddison, WID
+4. Verify: IRQ rows present + sane values; IRN/TUR row counts unchanged; CSV schema intact
+
+## Status: IN PROGRESS
+
+## [1] country_crosswalk.py
+- Added IRQ: "Iraq" to COUNTRIES dict.
+- Added "Iraq": "IRQ" to FAOSTAT_AREA_TO_ISO3 (verified exact raw Area-name match "Iraq" in FAOSTAT AreaCodes files).
+
+## [2] LFS check
+- WDI (WDICSV.csv), all 6 FAOSTAT bulk CSVs, Maddison xlsx, IMF WEO xlsx, OWID CSVs: all already materialized (real content, not LFS pointers). No git lfs pull needed.
+
+## [3] macro_wdi.csv (harmonize_wdi.py re-run)
+- Before: 714,025 data rows. After: 748,564 data rows. IRQ gained: 34,539 rows.
+- IRN row-set md5 unchanged: 26c2008a2a3d5bc5407381dd7df04042
+- TUR row-set md5 unchanged: 62442d861a682b84fc37f9aba4a6a892
+- Sanity check: IRQ population 2024 = 46,042,015 (matches ~46M known figure). IRQ GDP current US$ 2023 = $268.9B (matches ~$260-290B known range).
+- Header/schema unchanged.
+- STATUS: DONE, VERIFIED.

@@ -1,0 +1,11 @@
+# Extra chart_ids to hide, hand-confirmed from the REVIEW list of propose_culls.py.
+# These are one-off snapshots / list-tables / stat-summary tables, NOT measures over time.
+# (Reversible: hiding = status 'merged', data preserved on disk.)
+iran_institutions__imf_article_iv_consultation_history_2002_2025
+iran_concessions__automotive_joint_ventures_1956_1979
+iran_concessions__darcy_oil_1901_terms
+iran_institutions__wto_gatt_accession_timeline_1995_2026
+pahlavi__fiscal_system_narrative_indicators_1921_79
+pahlavi_hh__food_demand_actual_projected_1972_1982
+iran_disasters__gold_price_divorce_rate_descriptive_stats_1980_2014
+iran_fx__mazarei_1995_parallel_fx_market_1978_1990
