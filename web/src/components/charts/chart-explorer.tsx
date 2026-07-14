@@ -244,7 +244,17 @@ export function ChartExplorer({
   // charts, so only the strongest few become markers; every one is listed below the
   // chart, so nothing is hidden from the reader.
   const MARKER_LAWS = 8;
+  const MARKER_EVENTS = 12;
   const markerLaws = React.useMemo(() => laws.slice(0, MARKER_LAWS), [laws]);
+  // Densely-annotated charts (the FX chart carries 56 events) would otherwise be a
+  // wall of markers. Show the strongest, keep every one in the log below the chart.
+  const markerEvents = React.useMemo(() => {
+    if (events.length <= MARKER_EVENTS) return events;
+    return [...events]
+      .sort((a, b) => b.confidence - a.confidence || a.year - b.year)
+      .slice(0, MARKER_EVENTS)
+      .sort((a, b) => a.year - b.year);
+  }, [events]);
   const [hoverLaw, setHoverLaw] = React.useState<number | null>(null);
   const lawTimer = React.useRef<ReturnType<typeof setTimeout> | null>(null);
   const handleLawHover = React.useCallback((idx: number | null) => {
@@ -290,7 +300,7 @@ export function ChartExplorer({
       displayNames,
       nowYear: NOW_YEAR,
       projectionLabel: t.projection,
-      events: events.map((e) => ({ year: e.year, title: e.title })),
+      events: markerEvents.map((e) => ({ year: e.year, title: e.title })),
       laws: markerLaws.map((l) => ({
         year: l.year,
         title: fa ? l.titleFa : l.titleEn || l.titleFa,
@@ -306,7 +316,7 @@ export function ChartExplorer({
       formatTime,
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [payload, variantCode, activeCountries, formatYear, resolvedTheme, mounted, fa, chartType, variant, displayNames, events, markerLaws, visibleEras, formatTime]);
+  }, [payload, variantCode, activeCountries, formatYear, resolvedTheme, mounted, fa, chartType, variant, displayNames, markerEvents, markerLaws, visibleEras, formatTime]);
 
   const zoomExtent = React.useMemo(
     () =>
@@ -327,7 +337,16 @@ export function ChartExplorer({
       setHoverEvent(idx);
     }
   }, []);
-  const hovered = hoverEvent != null ? events[hoverEvent] : null;
+  const hovered = hoverEvent != null ? markerEvents[hoverEvent] : null;
+
+  // The log lists EVERY event, but only the strongest are drawn. Number a log row
+  // with its real marker number so "03" on the chart is "03" in the log; events that
+  // did not make the chart get a dot instead of a misleading number.
+  const markerNo = React.useMemo(() => {
+    const m = new Map<string, number>();
+    markerEvents.forEach((e, i) => m.set(`${e.date}|${e.title}`, i + 1));
+    return m;
+  }, [markerEvents]);
 
 
   const chipName = (iso: string, fallback: string) =>
@@ -462,7 +481,7 @@ export function ChartExplorer({
             height={430}
             zoomExtent={zoomExtent}
             timeAxis={timeMode}
-            onEventHover={events.length ? handleEventHover : undefined}
+            onEventHover={markerEvents.length ? handleEventHover : undefined}
             onLawHover={markerLaws.length ? handleLawHover : undefined}
           />
           {hoveredLaw && !hovered ? (
@@ -571,7 +590,9 @@ export function ChartExplorer({
                 <details className="group border border-border/50 bg-background/40">
                   <summary className="flex cursor-pointer flex-wrap items-baseline gap-x-3 gap-y-1 px-3 py-2 transition-colors hover:bg-muted/40">
                     <span className="font-data text-[10px] text-[#CA8A04]">
-                      {String(i + 1).padStart(2, "0")}
+                      {markerNo.has(`${e.date}|${e.title}`)
+                        ? String(markerNo.get(`${e.date}|${e.title}`)).padStart(2, "0")
+                        : "\u00b7\u00b7"}
                     </span>
                     <span className="font-data text-[11px] text-muted-foreground" dir="ltr">
                       {fa ? toPersianDigits(e.year) : e.year}
