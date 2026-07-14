@@ -354,7 +354,7 @@
     ],
     "data_path": "data/charts/dams_of_iran_technical_economic_specs_1971/data.csv",
     "row_count": 114,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -383,7 +383,7 @@
     ],
     "data_path": "data/charts/dez_dam_project_economics_1960/data.csv",
     "row_count": 164,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -412,7 +412,7 @@
     ],
     "data_path": "data/charts/diversion_dams_of_iran_specifications_1937_1967/data.csv",
     "row_count": 45,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -38280,7 +38280,7 @@
     ],
     "data_path": "data/charts/ghazvin_project_economics_appraisal_vs_actual_1967_1978/data.csv",
     "row_count": 63,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -38427,7 +38427,7 @@
     ],
     "data_path": "data/charts/iran_aviation__events_fleet_workforce_1952_1988/data.csv",
     "row_count": 14,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -40090,7 +40090,7 @@
     ],
     "data_path": "data/charts/iran_industry_import_dependence_1970/data.csv",
     "row_count": 37,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -40645,7 +40645,7 @@
     ],
     "data_path": "data/charts/iran_mining_capacity_growth_since_2002/data.csv",
     "row_count": 6,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -40913,7 +40913,7 @@
     "title_fa": "بنادر جنوبی ایران: هزینه پلکانی انبارداری/دموراژ کانتینر بر حسب مدت توقف",
     "category": "Infrastructure & Technology",
     "category_fa": "زیرساخت و فناوری",
-    "description": "Iran Southern Ports: Progressive Container Storage/Demurrage Charges by Dwell Time",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "2024",
       "2024"
@@ -40932,7 +40932,7 @@
     ],
     "data_path": "data/charts/iran_ports__container_storage_charges_2024/data.csv",
     "row_count": 28,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -40942,7 +40942,7 @@
     "title_fa": "بنادر جنوبی ایران: عوارض بندری کشتی به ازای هر تن ظرفیت ناخالص (تجاری در برابر نفتکش)",
     "category": "Infrastructure & Technology",
     "category_fa": "زیرساخت و فناوری",
-    "description": "Iran Southern Ports: Ship Port Dues per Gross Tonnage (Commercial vs. Tanker)",
+    "description": "2026-07-14 data-quality cull: hidden (not a measure-over-time / empty Iran series); data preserved on disk",
     "year_range": [
       "2024",
       "2024"
@@ -40961,7 +40961,7 @@
     ],
     "data_path": "data/charts/iran_ports__ship_port_dues_2024/data.csv",
     "row_count": 15,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -40990,7 +40990,7 @@
     ],
     "data_path": "data/charts/iran_ports__thc_container_handling_2024/data.csv",
     "row_count": 4,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -41277,7 +41277,7 @@
     ],
     "data_path": "data/charts/iran_reservoir_water_control_forecast_by_zone/data.csv",
     "row_count": 99,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -42074,7 +42074,7 @@
     ],
     "data_path": "data/charts/majlis__forex_budget_law_1364/data.csv",
     "row_count": 1,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -44445,7 +44445,7 @@
     ],
     "data_path": "data/charts/specialty_goods__trans_iranian_railway_financing_1938_39/data.csv",
     "row_count": 3,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -44474,7 +44474,7 @@
     ],
     "data_path": "data/charts/usaid_pt4__ford_foundation_harvard_advisory_group/data.csv",
     "row_count": 8,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -44504,7 +44504,7 @@
     ],
     "data_path": "data/charts/usaid_pt4__motheral_report_land_reform/data.csv",
     "row_count": 7,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -83861,7 +83861,7 @@
     ],
     "data_path": "data/charts/white_revolution__extension_corps_stats_1964_1965/data.csv",
     "row_count": 7,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },
@@ -83890,7 +83890,7 @@
     ],
     "data_path": "data/charts/white_revolution__literacy_corps_program_totals_1963_1979/data.csv",
     "row_count": 12,
-    "status": "new",
+    "status": "merged",
     "merged_into": null,
     "materialized": true
   },

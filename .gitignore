@@ -10,3 +10,7 @@ __pycache__/
 # Generated build artifacts -- fully regeneratable from data/charts/ via
 # scripts/build_downloads.py, no need to version the zips themselves
 downloads/
+
+# API keys and other local secrets (never commit -- public repo)
+secrets/
+*.env.local
