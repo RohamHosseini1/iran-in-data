@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { getCatalog, getChartData, getChartEntry } from "@/lib/data/catalog";
 import { getChartEvents } from "@/lib/data/events";
 import { pickDefaultVariant } from "@/lib/charts/variant-labels";
+import { labelUnitText } from "@/lib/charts/unit-format";
 import { toPersianDigits } from "@/lib/calendar";
 import { buildChartPayload } from "@/lib/data/payload";
 import { buildLineOption } from "@/lib/charts/line-option";
@@ -127,7 +128,10 @@ export default async function ChartDetailPage({ params }: PageProps) {
       countries: initialCountries,
       chrome: LIGHT_CHROME,
       animate: false,
-      unit: defaultVariantEntry?.unit || undefined,
+      unit:
+        defaultVariantEntry?.unit ||
+        labelUnitText(defaultVariantEntry?.label) ||
+        undefined,
       subYear: payload.subYear,
     }),
     { width: 860, height: 430 }

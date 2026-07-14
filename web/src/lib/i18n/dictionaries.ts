@@ -13,7 +13,7 @@ export const dictionaries = {
     charts: "Charts",
     footerAbout:
       "Iran in Data is an independent, non-profit project by Roham Hosseini. To minimize political bias, every figure is drawn and cross-verified from diverse international sources wherever possible. I hope this encyclopedia serves your research or your personal curiosity about Iran's economy.",
-    attributions: "Attributions",
+    attributions: "License & Attribution",
     downloads: "Download the data",
     personalSite: "Roham Hosseini",
   },
@@ -28,8 +28,8 @@ export const dictionaries = {
     home: "خانه",
     charts: "نمودارها",
     footerAbout:
-      "ایران در داده‌ها یک پروژه مستقل و غیرانتفاعی به تألیف رهام حسینی می‌باشد. با هدف به حداقل رساندن سوگیری‌های سیاسی، تمامی آمار و ارقام تا حد امکان از منابع متنوع بین‌المللی تهیه و تأیید گشته. امیدوارم این دانشنامه یاری‌رسان شما در امور تحقیقاتی یا کنجکاوی‌های اقتصادی شخصی باشد. پاینده ایران.",
-    attributions: "منابع و مآخذ",
+      "ایران در داده‌ها دانشنامه ایست مستقل و غیرانتفاعی به تألیف رهام حسینی. با هدف به حداقل رساندن سوگیری‌های سیاسی، تمامی آمار و ارقام تا حد امکان از منابع متنوع بین‌المللی تهیه و تأیید گشته است. امیدوارم این دانشنامه یاری‌رسان شما در امور تحقیقاتی یا کنجکاوی‌های اقتصادی شخصی باشد. پاینده ایران.",
+    attributions: "مجوز و انتساب",
     downloads: "دریافت داده‌ها",
     personalSite: "رهام حسینی",
   },

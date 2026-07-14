@@ -23,8 +23,10 @@ const RULES: UnitRule[] = [
   { test: /billion rials/i, en: { text: "billion IRR" }, fa: { text: "میلیارد ریال" } },
   { test: /rial|IRR/i, en: { text: "IRR" }, fa: { text: "ریال" } },
   { test: /toman/i, en: { text: "toman" }, fa: { text: "تومان" } },
-  { test: /US\$|USD|dollar/i, en: { text: "USD" }, fa: { text: "دلار آمریکا" } },
+  // Percent outranks currency: "(annual %)" or "(% of GDP)" is a share even
+  // when a dollar denomination is mentioned alongside.
   { test: /%|percent|درصد/i, en: { text: "%", tight: true }, fa: { text: "درصد" } },
+  { test: /US\$|USD|dollar/i, en: { text: "USD" }, fa: { text: "دلار آمریکا" } },
   { test: /kcal\/cap\/d/i, en: { text: "kcal / day" }, fa: { text: "کیلوکالری در روز" } },
   { test: /g\/cap\/d/i, en: { text: "g / day" }, fa: { text: "گرم در روز" } },
   { test: /kg\/ha/i, en: { text: "kg / ha" }, fa: { text: "کیلوگرم بر هکتار" } },
@@ -52,6 +54,28 @@ export function unitInline(
   // Fallback: the raw unit, minus pipeline parentheticals like "(computed)".
   const cleaned = raw.replace(/\((computed|estimated)\)/gi, "").trim();
   return cleaned ? { text: cleaned } : null;
+}
+
+/** Trailing parenthetical of a series label — where WDI-style labels carry
+    the unit when the data's unit column is empty ("Inflation … (annual %)"). */
+export function labelUnitText(label: string | undefined): string {
+  const m = (label ?? "").match(/\(([^()]+)\)\s*$/);
+  return m ? m[1].trim() : "";
+}
+
+/** Unit inferred from a series label's trailing parenthetical. Pattern rules
+    only — no raw fallback, so an unrecognized parenthetical yields nothing
+    rather than a repeated label fragment. */
+export function unitFromLabel(
+  label: string | undefined,
+  locale: "en" | "fa"
+): InlineUnit | null {
+  const inner = labelUnitText(label);
+  if (!inner) return null;
+  for (const rule of RULES) {
+    if (rule.test.test(inner)) return locale === "fa" ? rule.fa : rule.en;
+  }
+  return null;
 }
 
 const FA_NUM: Intl.NumberFormatOptions = { maximumFractionDigits: 2 };

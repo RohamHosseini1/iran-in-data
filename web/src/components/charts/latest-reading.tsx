@@ -4,7 +4,7 @@ import * as React from "react";
 
 import { useChartVariant } from "./chart-state";
 import { friendlyVariantLabel, pickDefaultVariant } from "@/lib/charts/variant-labels";
-import { unitInline } from "@/lib/charts/unit-format";
+import { unitFromLabel, unitInline } from "@/lib/charts/unit-format";
 import { toPersianDigits } from "@/lib/calendar";
 import type { ChartPayload } from "@/lib/data/payload";
 import type { Locale } from "@/lib/i18n/config";
@@ -109,7 +109,10 @@ export function LatestReading({
 
   if (!latest || !variant) return null;
 
-  const unit = unitInline(variant.unit, fa ? "fa" : "en");
+  // Many series carry no unit column; the label's trailing parenthetical
+  // ("… (annual %)") is the unit of record then.
+  const loc = fa ? ("fa" as const) : ("en" as const);
+  const unit = unitInline(variant.unit, loc) ?? unitFromLabel(variant.label, loc);
   const measureLabel =
     payload.variants.length === 1 && measureFallback
       ? measureFallback

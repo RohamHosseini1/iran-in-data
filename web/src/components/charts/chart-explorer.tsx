@@ -20,7 +20,7 @@ import {
   friendlyVariantLabel,
   pickDefaultVariant,
 } from "@/lib/charts/variant-labels";
-import { formatFull } from "@/lib/charts/unit-format";
+import { formatFull, labelUnitText } from "@/lib/charts/unit-format";
 import {
   formatYearFor,
   calendarLabels,
@@ -236,7 +236,7 @@ export function ChartExplorer({
       formatYear,
       dataFont: fa ? FA_DATA_FONT : undefined,
       chartType,
-      unit: variant?.unit || undefined,
+      unit: variant?.unit || labelUnitText(variant?.label) || undefined,
       displayNames,
       nowYear: NOW_YEAR,
       projectionLabel: t.projection,
@@ -451,7 +451,7 @@ export function ChartExplorer({
           formatYear={formatYear}
           yearLabel={payload.subYear ? t.period : t.year}
           unitLabel={t.unit}
-          unit={variant?.unit ?? ""}
+          unit={variant?.unit || labelUnitText(variant?.label)}
           fa={fa}
           subYear={payload.subYear}
           displayNames={displayNames}
