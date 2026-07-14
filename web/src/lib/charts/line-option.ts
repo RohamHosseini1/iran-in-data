@@ -529,11 +529,11 @@ export function buildLineOption(input: LineOptionInput): EChartsOption {
     dataZoom: [
       {
         type: "inside",
-        throttle: 60,
+        // Stock ECharts wheel/pinch zoom; a higher throttle is the one knob
+        // the package offers to temper its pace.
+        throttle: 180,
         minValueSpan: timeMode ? 7 * 864e5 : 3,
-        // Wheel zoom is handled by InteractiveChart's slow custom handler;
-        // the built-in per-tick step is far too aggressive.
-        zoomOnMouseWheel: false,
+        zoomOnMouseWheel: true,
         moveOnMouseWheel: false,
         moveOnMouseMove: true,
       },

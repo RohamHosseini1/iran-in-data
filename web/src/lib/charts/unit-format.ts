@@ -36,7 +36,8 @@ const RULES: UnitRule[] = [
   { test: /^ha$|hectare/i, en: { text: "ha" }, fa: { text: "هکتار" } },
   { test: /barrel|BOE/i, en: { text: "bbl" }, fa: { text: "بشکه" } },
   { test: /persons?|people/i, en: { text: "people" }, fa: { text: "نفر" } },
-  { test: /LCU|domestic currency|^SLC$/i, en: { text: "LCU" }, fa: { text: "واحد پول محلی" } },
+  // Headline readings are always Iran's series: LCU means the rial.
+  { test: /LCU|domestic currency|^SLC$/i, en: { text: "IRR" }, fa: { text: "ریال" } },
   { test: /=\s*100|index|PMI/i, en: { text: "index" }, fa: { text: "شاخص" } },
   { test: /years?$/i, en: { text: "years" }, fa: { text: "سال" } },
 ];

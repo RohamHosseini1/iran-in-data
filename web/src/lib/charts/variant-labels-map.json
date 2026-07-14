@@ -25,10 +25,10 @@
    "fa": "مقدار عرضه چربی (گرم، سرانه در روز)"
   },
   "Producer Price (LCU/tonne)": {
-   "fa": "قیمت تولیدکننده (واحد پول محلی بر تن)"
+   "fa": "قیمت تولیدکننده (ریال بر تن)"
   },
   "Producer Price (SLC/tonne)": {
-   "fa": "قیمت تولیدکننده (واحد پول محلی ثابت بر تن)",
+   "fa": "قیمت تولیدکننده (ریال ثابت بر تن)",
    "en": "Producer Price (standard local currency per tonne)"
   },
   "Producer Price (USD/tonne)": {
@@ -776,7 +776,7 @@
    "fa": "نرخ خام مرگ‌ومیر (به ازای هر 1,000 نفر)"
   },
   "DEC alternative conversion factor (LCU per US$)": {
-   "fa": "ضریب تبدیل جایگزین DEC (واحد پول محلی بر دلار)",
+   "fa": "ضریب تبدیل جایگزین DEC (ریال بر دلار)",
    "en": "DEC alternative conversion factor (local currency unit per US$)"
   },
   "GDP deflator (base year varies by country)": {
@@ -819,7 +819,7 @@
    "fa": "اراضی کشاورزی (کیلومتر مربع)"
   },
   "Official exchange rate (LCU per US$, period average)": {
-   "fa": "نرخ رسمی ارز (واحد پول محلی بر دلار، میانگین دوره)"
+   "fa": "نرخ رسمی ارز (ریال بر دلار، میانگین دوره)"
   },
   "Mortality rate, under-5 (per 1,000 live births)": {
    "fa": "نرخ مرگ‌ومیر زیر 5 سال (به ازای هر 1,000 تولد زنده)"
@@ -1266,7 +1266,7 @@
    "fa": "تجارت خدمات (درصد از تولید ناخالص داخلی)"
   },
   "Gross domestic product (GDP), Current prices, Fiscal year, Domestic currency": {
-   "fa": "تولید ناخالص داخلی به قیمت‌های جاری، سال مالی (واحد پول محلی)"
+   "fa": "تولید ناخالص داخلی به قیمت‌های جاری، سال مالی (ریال)"
   },
   "Households and NPISHs Final consumption expenditure per capita growth (annual %)": {
    "fa": "رشد سرانه مخارج نهایی مصرف خانوارها و مؤسسات غیرانتفاعی خدمت‌رسان به خانوار (درصد سالانه)"
@@ -1515,7 +1515,7 @@
    "fa": "نسبت اشتغال به جمعیت زنان 15 سال به بالا (درصد) (برآورد ملی)"
   },
   "Primary net lending (+) / net borrowing (-), General government, Domestic currency": {
-   "fa": "وام‌دهی خالص اولیه (+) یا استقراض خالص (-) دولت عمومی (واحد پول محلی)"
+   "fa": "وام‌دهی خالص اولیه (+) یا استقراض خالص (-) دولت عمومی (ریال)"
   },
   "School enrollment, secondary (gross), gender parity index (GPI)": {
    "fa": "شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش متوسطه"
@@ -1662,7 +1662,7 @@
    "fa": "درآمد ناخالص ملی به برابری قدرت خرید (دلار بین‌المللی جاری)"
   },
   "PPP conversion factor, GDP (LCU per international $)": {
-   "fa": "ضریب تبدیل برابری قدرت خرید، تولید ناخالص داخلی (واحد پول محلی بر دلار بین‌المللی)"
+   "fa": "ضریب تبدیل برابری قدرت خرید، تولید ناخالص داخلی (ریال بر دلار بین‌المللی)"
   },
   "Probability of dying among adolescents ages 10-14 years (per 1,000)": {
    "fa": "احتمال مرگ نوجوانان گروه سنی 10 تا 14 سال (به ازای هر 1,000 نفر)"

@@ -60309,7 +60309,7 @@
   {
     "chart_id": "wdi__FM.AST.DOMS",
     "title": "Net domestic credit (current LCU)",
-    "title_fa": "اعتبار داخلی خالص (واحد پول محلی جاری)",
+    "title_fa": "اعتبار داخلی خالص (ریال جاری)",
     "category": "Financial Sector (Monetary)",
     "category_fa": "بخش مالی (پولی)",
     "description": "Net domestic credit (current LCU)",
@@ -60354,7 +60354,7 @@
   {
     "chart_id": "wdi__FM.AST.NFRG",
     "title": "Net foreign assets (current LCU)",
-    "title_fa": "دارایی‌های خارجی خالص (واحد پول محلی جاری)",
+    "title_fa": "دارایی‌های خارجی خالص (ریال جاری)",
     "category": "Financial Sector (Monetary)",
     "category_fa": "بخش مالی (پولی)",
     "description": "Net foreign assets (current LCU)",
@@ -60482,7 +60482,7 @@
   {
     "chart_id": "wdi__FM.LBL.BMNY",
     "title": "Broad money (current LCU)",
-    "title_fa": "نقدینگی (واحد پول محلی جاری)",
+    "title_fa": "نقدینگی (ریال جاری)",
     "category": "Financial Sector (Monetary)",
     "category_fa": "بخش مالی (پولی)",
     "description": "Primary driver of extends status: the Liquidity(M2) level+growth columns (23/23 years, full coverage) extend PAST WDI's Iran FM.LBL.BMNY cutoff (2016) through FY1401 (2022/23) -- 6-7 additional years no WDI chart reaches for Iran.",
@@ -61302,7 +61302,7 @@
   {
     "chart_id": "wdi__GC.AST.TOTL",
     "title": "Net acquisition of financial assets (current LCU)",
-    "title_fa": "تحصیل خالص دارایی‌های مالی (واحد پول محلی جاری)",
+    "title_fa": "تحصیل خالص دارایی‌های مالی (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Net acquisition of financial assets (current LCU)",
@@ -61386,7 +61386,7 @@
   {
     "chart_id": "wdi__GC.LBL.TOTL",
     "title": "Net incurrence of liabilities, total (current LCU)",
-    "title_fa": "افزایش خالص بدهی‌ها، کل (واحد پول محلی جاری)",
+    "title_fa": "افزایش خالص بدهی‌ها، کل (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Net incurrence of liabilities, total (current LCU)",
@@ -61472,7 +61472,7 @@
   {
     "chart_id": "wdi__GC.NFN.TOTL",
     "title": "Net investment in nonfinancial assets (current LCU)",
-    "title_fa": "سرمایه‌گذاری خالص در دارایی‌های غیرمالی (واحد پول محلی جاری)",
+    "title_fa": "سرمایه‌گذاری خالص در دارایی‌های غیرمالی (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Net investment in nonfinancial assets (current LCU)",
@@ -61560,7 +61560,7 @@
   {
     "chart_id": "wdi__GC.NLD.TOTL",
     "title": "Net lending (+) / net borrowing (-) (current LCU)",
-    "title_fa": "وام‌دهی خالص (+) / استقراض خالص (-) (واحد پول محلی جاری)",
+    "title_fa": "وام‌دهی خالص (+) / استقراض خالص (-) (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Full IMF-GFS-style fiscal-operations statement: total revenue, current + capital expenditure, deficit, savings, and a FINANCING breakdown by source (net borrowing abroad / net borrowing from the banking system / nonbank holdings of government securities).",
@@ -61648,7 +61648,7 @@
   {
     "chart_id": "wdi__GC.REV.GOTR",
     "title": "Grants and other revenue (current LCU)",
-    "title_fa": "کمک‌های بلاعوض و سایر درآمدها (واحد پول محلی جاری)",
+    "title_fa": "کمک‌های بلاعوض و سایر درآمدها (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Grants and other revenue (current LCU)",
@@ -61692,7 +61692,7 @@
   {
     "chart_id": "wdi__GC.REV.SOCL",
     "title": "Social contributions (current LCU)",
-    "title_fa": "کمک‌های تأمین اجتماعی (واحد پول محلی جاری)",
+    "title_fa": "کمک‌های تأمین اجتماعی (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Social contributions (current LCU)",
@@ -61735,7 +61735,7 @@
   {
     "chart_id": "wdi__GC.REV.XGRT",
     "title": "Revenue, excluding grants (current LCU)",
-    "title_fa": "درآمد، به استثنای کمک‌های بلاعوض (واحد پول محلی جاری)",
+    "title_fa": "درآمد، به استثنای کمک‌های بلاعوض (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "WDI's Iran GC.* government-finance series (incl.",
@@ -61823,7 +61823,7 @@
   {
     "chart_id": "wdi__GC.TAX.EXPT",
     "title": "Taxes on exports (current LCU)",
-    "title_fa": "مالیات بر صادرات (واحد پول محلی جاری)",
+    "title_fa": "مالیات بر صادرات (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Taxes on exports (current LCU)",
@@ -61857,7 +61857,7 @@
   {
     "chart_id": "wdi__GC.TAX.GSRV",
     "title": "Taxes on goods and services (current LCU)",
-    "title_fa": "مالیات بر کالا و خدمات (واحد پول محلی جاری)",
+    "title_fa": "مالیات بر کالا و خدمات (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Taxes on goods and services (current LCU)",
@@ -61989,7 +61989,7 @@
   {
     "chart_id": "wdi__GC.TAX.IMPT",
     "title": "Customs and other import duties (current LCU)",
-    "title_fa": "عوارض گمرکی و سایر عوارض واردات (واحد پول محلی جاری)",
+    "title_fa": "عوارض گمرکی و سایر عوارض واردات (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Customs and other import duties (current LCU)",
@@ -62033,7 +62033,7 @@
   {
     "chart_id": "wdi__GC.TAX.INTT",
     "title": "Taxes on international trade (current LCU)",
-    "title_fa": "مالیات بر تجارت بین‌المللی (واحد پول محلی جاری)",
+    "title_fa": "مالیات بر تجارت بین‌المللی (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Taxes on international trade (current LCU)",
@@ -62121,7 +62121,7 @@
   {
     "chart_id": "wdi__GC.TAX.OTHR",
     "title": "Other taxes (current LCU)",
-    "title_fa": "سایر مالیات‌ها (واحد پول محلی جاری)",
+    "title_fa": "سایر مالیات‌ها (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Other taxes (current LCU)",
@@ -62209,7 +62209,7 @@
   {
     "chart_id": "wdi__GC.TAX.TOTL",
     "title": "Tax revenue (current LCU)",
-    "title_fa": "درآمد مالیاتی (واحد پول محلی جاری)",
+    "title_fa": "درآمد مالیاتی (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Tax revenue (current LCU)",
@@ -62297,7 +62297,7 @@
   {
     "chart_id": "wdi__GC.TAX.YPKG",
     "title": "Taxes on income, profits and capital gains (current LCU)",
-    "title_fa": "مالیات بر درآمد، سود و عواید سرمایه (واحد پول محلی جاری)",
+    "title_fa": "مالیات بر درآمد، سود و عواید سرمایه (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Taxes on income, profits and capital gains (current LCU)",
@@ -62385,7 +62385,7 @@
   {
     "chart_id": "wdi__GC.XPN.COMP",
     "title": "Compensation of employees (current LCU)",
-    "title_fa": "جبران خدمات کارکنان (واحد پول محلی جاری)",
+    "title_fa": "جبران خدمات کارکنان (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Compensation of employees (current LCU)",
@@ -62429,7 +62429,7 @@
   {
     "chart_id": "wdi__GC.XPN.GSRV",
     "title": "Goods and services expense (current LCU)",
-    "title_fa": "هزینه کالا و خدمات (واحد پول محلی جاری)",
+    "title_fa": "هزینه کالا و خدمات (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Goods and services expense (current LCU)",
@@ -62473,7 +62473,7 @@
   {
     "chart_id": "wdi__GC.XPN.INTP",
     "title": "Interest payments (current LCU)",
-    "title_fa": "پرداخت بهره (واحد پول محلی جاری)",
+    "title_fa": "پرداخت بهره (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Interest payments (current LCU)",
@@ -62561,7 +62561,7 @@
   {
     "chart_id": "wdi__GC.XPN.OTHR",
     "title": "Other expense (current LCU)",
-    "title_fa": "سایر هزینه‌ها (واحد پول محلی جاری)",
+    "title_fa": "سایر هزینه‌ها (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Other expense (current LCU)",
@@ -62605,7 +62605,7 @@
   {
     "chart_id": "wdi__GC.XPN.TOTL",
     "title": "Expense (current LCU)",
-    "title_fa": "هزینه (واحد پول محلی جاری)",
+    "title_fa": "هزینه (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Same pre-1972 WDI-gap logic as actual_budget_revenues_1958_59.",
@@ -62693,7 +62693,7 @@
   {
     "chart_id": "wdi__GC.XPN.TRFT",
     "title": "Subsidies and other transfers (current LCU)",
-    "title_fa": "یارانه‌ها و سایر انتقالات (واحد پول محلی جاری)",
+    "title_fa": "یارانه‌ها و سایر انتقالات (ریال جاری)",
     "category": "Government Finance",
     "category_fa": "مالیه دولت",
     "description": "Subsidies and other transfers (current LCU)",
@@ -64964,7 +64964,7 @@
   {
     "chart_id": "wdi__MS.MIL.XPND",
     "title": "Military expenditure (current LCU)",
-    "title_fa": "مخارج نظامی (واحد پول محلی جاری)",
+    "title_fa": "مخارج نظامی (ریال جاری)",
     "category": "Military Expenditure",
     "category_fa": "هزینه‌های نظامی",
     "description": "Military expenditure (current LCU)",
@@ -65279,7 +65279,7 @@
   {
     "chart_id": "wdi__NE.CON.PRVT.CN",
     "title": "Households and NPISHs final consumption expenditure: linked series (current LCU)",
-    "title_fa": "مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها: سری پیوسته (واحد پول محلی جاری)",
+    "title_fa": "مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها: سری پیوسته (ریال جاری)",
     "category": "Macro / Expenditure & Trade Aggregates",
     "category_fa": "کلان / تجمیع‌های هزینه و تجارت",
     "description": "Households and NPISHs final consumption expenditure: linked series (current LCU)",
@@ -65860,7 +65860,7 @@
   {
     "chart_id": "wdi__NE.GDI.STKB",
     "title": "Changes in inventories (current LCU)",
-    "title_fa": "تغییرات موجودی انبار (واحد پول محلی جاری)",
+    "title_fa": "تغییرات موجودی انبار (ریال جاری)",
     "category": "Macro / Expenditure & Trade Aggregates",
     "category_fa": "کلان / تجمیع‌های هزینه و تجارت",
     "description": "Changes in inventories (current LCU)",
@@ -66307,7 +66307,7 @@
   {
     "chart_id": "wdi__NV.FSM.TOTL",
     "title": "Financial intermediary services indirectly Measured (FISIM) (current LCU)",
-    "title_fa": "خدمات واسطه‌گری مالی اندازه‌گیری‌شده به‌طور غیرمستقیم (FISIM) (واحد پول محلی جاری)",
+    "title_fa": "خدمات واسطه‌گری مالی اندازه‌گیری‌شده به‌طور غیرمستقیم (FISIM) (ریال جاری)",
     "category": "Industry / Value Added by Sector",
     "category_fa": "صنعت / ارزش افزوده بخشی",
     "description": "Financial intermediary services indirectly Measured (FISIM) (current LCU)",
@@ -68126,7 +68126,7 @@
   {
     "chart_id": "wdi__NY.EXP.CAPM",
     "title": "Exports as a capacity to import (constant LCU)",
-    "title_fa": "صادرات به عنوان ظرفیت واردات (واحد پول محلی ثابت)",
+    "title_fa": "صادرات به عنوان ظرفیت واردات (ریال ثابت)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Exports as a capacity to import (constant LCU)",
@@ -68396,7 +68396,7 @@
   {
     "chart_id": "wdi__NY.GDP.DISC",
     "title": "Discrepancy in expenditure estimate of GDP (current LCU)",
-    "title_fa": "مغایرت در برآورد هزینه‌ای تولید ناخالص داخلی (واحد پول محلی جاری)",
+    "title_fa": "مغایرت در برآورد هزینه‌ای تولید ناخالص داخلی (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Discrepancy in expenditure estimate of GDP (current LCU)",
@@ -68441,7 +68441,7 @@
   {
     "chart_id": "wdi__NY.GDP.FCST",
     "title": "Gross value added at basic prices (GVA) (current LCU)",
-    "title_fa": "ارزش افزوده ناخالص به قیمت پایه (GVA) (واحد پول محلی جاری)",
+    "title_fa": "ارزش افزوده ناخالص به قیمت پایه (GVA) (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Gross value added at basic prices (GVA) (current LCU)",
@@ -68621,7 +68621,7 @@
   {
     "chart_id": "wdi__NY.GDP.MKTP.CN",
     "title": "GDP: linked series (current LCU)",
-    "title_fa": "تولید ناخالص داخلی: سری پیوسته (واحد پول محلی جاری)",
+    "title_fa": "تولید ناخالص داخلی: سری پیوسته (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "GDP: linked series (current LCU)",
@@ -69071,7 +69071,7 @@
   {
     "chart_id": "wdi__NY.GDY.TOTL",
     "title": "Gross domestic income (constant LCU)",
-    "title_fa": "درآمد ناخالص داخلی (واحد پول محلی ثابت)",
+    "title_fa": "درآمد ناخالص داخلی (ریال ثابت)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Gross domestic income (constant LCU)",
@@ -69206,7 +69206,7 @@
   {
     "chart_id": "wdi__NY.GNP.MKTP.CN",
     "title": "GNI: linked series (current LCU)",
-    "title_fa": "تولید ناخالص ملی: سری پیوسته (واحد پول محلی جاری)",
+    "title_fa": "تولید ناخالص ملی: سری پیوسته (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "GNI: linked series (current LCU)",
@@ -69340,7 +69340,7 @@
   {
     "chart_id": "wdi__NY.GNP.PCAP",
     "title": "GNI per capita (current LCU)",
-    "title_fa": "تولید ناخالص ملی سرانه (واحد پول محلی جاری)",
+    "title_fa": "تولید ناخالص ملی سرانه (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "GNI per capita (current LCU)",
@@ -69564,7 +69564,7 @@
   {
     "chart_id": "wdi__NY.GSR.NFCY",
     "title": "Net primary income (Net income from abroad) (current LCU)",
-    "title_fa": "درآمد اولیه خالص (درآمد خالص از خارج) (واحد پول محلی جاری)",
+    "title_fa": "درآمد اولیه خالص (درآمد خالص از خارج) (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Net primary income (Net income from abroad) (current LCU)",
@@ -69609,7 +69609,7 @@
   {
     "chart_id": "wdi__NY.TAX.NIND",
     "title": "Taxes less subsidies on products (current LCU)",
-    "title_fa": "مالیات منهای یارانه بر محصولات (واحد پول محلی جاری)",
+    "title_fa": "مالیات منهای یارانه بر محصولات (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Taxes less subsidies on products (current LCU)",
@@ -69654,7 +69654,7 @@
   {
     "chart_id": "wdi__NY.TRF.NCTR",
     "title": "Net secondary income (Net current transfers from abroad) (current LCU)",
-    "title_fa": "درآمد ثانویه خالص (انتقالات جاری خالص از خارج) (واحد پول محلی جاری)",
+    "title_fa": "درآمد ثانویه خالص (انتقالات جاری خالص از خارج) (ریال جاری)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Net secondary income (Net current transfers from abroad) (current LCU)",
@@ -69699,7 +69699,7 @@
   {
     "chart_id": "wdi__NY.TTF.GNFS",
     "title": "Terms of trade adjustment (constant LCU)",
-    "title_fa": "تعدیل مبادله تجاری (واحد پول محلی ثابت)",
+    "title_fa": "تعدیل مبادله تجاری (ریال ثابت)",
     "category": "Macro / National Accounts",
     "category_fa": "کلان / حساب‌های ملی",
     "description": "Terms of trade adjustment (constant LCU)",
@@ -69744,7 +69744,7 @@
   {
     "chart_id": "wdi__PA.NUS",
     "title": "DEC alternative conversion factor (LCU per US$)",
-    "title_fa": "ضریب تبدیل جایگزین DEC (واحد پول محلی به ازای هر دلار آمریکا)",
+    "title_fa": "ضریب تبدیل جایگزین DEC (ریال به ازای هر دلار آمریکا)",
     "category": "Purchasing Power Parity",
     "category_fa": "برابری قدرت خرید",
     "description": "HIGH VALUE: this project's own docs/bookkeeping.md currency-conventions section explicitly flags '1950-1959 remains a known gap' in Iran's pre-1979 exchange-rate series (WDI PA.NUS.FCRF only starts 1960; IMF IFS official rate only covers 1937-1949).",

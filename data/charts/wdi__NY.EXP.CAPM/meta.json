@@ -1,40 +1,40 @@
 {
-  "chart_id": "wdi__NY.EXP.CAPM",
-  "title": "Exports as a capacity to import (constant LCU)",
-  "category": "Macro / National Accounts",
-  "sources": "wdi",
-  "n_rows": 917,
-  "year_range": [
-    "1960",
-    "2025"
-  ],
-  "countries": [
-    "ARG",
-    "DEU",
-    "ESP",
-    "FRA",
-    "GBR",
-    "GRC",
-    "IRN",
-    "ITA",
-    "KOR",
-    "NLD",
-    "PRT",
-    "RUS",
-    "SAU",
-    "SWE",
-    "TUR",
-    "USA",
-    "VEN"
-  ],
-  "citations": [
-    {
-      "source_org": "World Bank, World Development Indicators",
-      "source_url": "https://data.worldbank.org/indicator/NY.EXP.CAPM.KN",
-      "access_date": "2026-07-13",
-      "time_range": ""
-    }
-  ],
-  "category_fa": "کلان / حساب‌های ملی",
-  "title_fa": "صادرات به عنوان ظرفیت واردات (واحد پول محلی ثابت)"
+ "chart_id": "wdi__NY.EXP.CAPM",
+ "title": "Exports as a capacity to import (constant LCU)",
+ "category": "Macro / National Accounts",
+ "sources": "wdi",
+ "n_rows": 917,
+ "year_range": [
+  "1960",
+  "2025"
+ ],
+ "countries": [
+  "ARG",
+  "DEU",
+  "ESP",
+  "FRA",
+  "GBR",
+  "GRC",
+  "IRN",
+  "ITA",
+  "KOR",
+  "NLD",
+  "PRT",
+  "RUS",
+  "SAU",
+  "SWE",
+  "TUR",
+  "USA",
+  "VEN"
+ ],
+ "citations": [
+  {
+   "source_org": "World Bank, World Development Indicators",
+   "source_url": "https://data.worldbank.org/indicator/NY.EXP.CAPM.KN",
+   "access_date": "2026-07-13",
+   "time_range": ""
+  }
+ ],
+ "category_fa": "کلان / حساب‌های ملی",
+ "title_fa": "صادرات به عنوان ظرفیت واردات (ریال ثابت)"
 }
