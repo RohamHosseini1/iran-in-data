@@ -19803,7 +19803,7 @@
     "title_fa": "عسل طبیعی",
     "category": "Agriculture Production",
     "category_fa": "تولید کشاورزی",
-    "description": "Natural honey",
+    "description": "CBI Annual Review \"Livestock Products\" table (honey row added ~2004 editions onward).",
     "year_range": [
       "1961",
       "2024"
@@ -38496,6 +38496,28 @@
     "materialized": true
   },
   {
+    "chart_id": "iran_cbi__ppi_general_and_sectors_1996_2023",
+    "title": "Producer Price Index",
+    "title_fa": "شاخص بهای تولیدکننده",
+    "category": "Prices & Inflation",
+    "category_fa": null,
+    "description": "Same 6-edition ladder and extraction method as the CPI-Urban row above, same PDFs, same base-year-segmented / never-spliced discipline.",
+    "year_range": [
+      "1997",
+      "2023"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "cbi-iran-annual-review",
+    "citations": [],
+    "data_path": "data/charts/iran_cbi__ppi_general_and_sectors_1996_2023/data.csv",
+    "row_count": 119,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
     "chart_id": "iran_cement_production_1954_1980",
     "title": "Cement (Hydraulic) Production",
     "title_fa": "تولید سیمان (هیدرولیکی)",
@@ -42012,6 +42034,28 @@
     "materialized": true
   },
   {
+    "chart_id": "iran_sci__cpi_urban_vs_rural_general_index_1385_1399",
+    "title": "Consumer Price Index, Urban vs Rural",
+    "title_fa": "شاخص بهای مصرف‌کننده، شهری و روستایی",
+    "category": "Prices & Inflation",
+    "category_fa": null,
+    "description": "Consumer Price Index, Urban vs Rural",
+    "year_range": [
+      "2007",
+      "2021"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "sci-amar",
+    "citations": [],
+    "data_path": "data/charts/iran_sci__cpi_urban_vs_rural_general_index_1385_1399/data.csv",
+    "row_count": 14,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
     "chart_id": "iran_sulfur_production_1961_1980",
     "title": "Sulfur Production (Refined + Elemental Byproduct)",
     "title_fa": "تولید گوگرد (پالایش‌شده + محصول جانبی عنصری)",
@@ -42216,6 +42260,28 @@
     "materialized": true
   },
   {
+    "chart_id": "iran_trade__crude_oil_export_volume_cbi_1996_2002",
+    "title": "Crude Oil Export Volume",
+    "title_fa": "حجم صادرات نفت خام",
+    "category": "Oil & Energy",
+    "category_fa": null,
+    "description": "Short but genuinely continuous 6-year annual series (not a snapshot) -- crude oil, oil-products, and total export volume in thousand barrels/day, sourced by CBI onward to the Ministry of Petroleum.",
+    "year_range": [
+      "1997",
+      "2002"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "cbi-iran-annual-review",
+    "citations": [],
+    "data_path": "data/charts/iran_trade__crude_oil_export_volume_cbi_1996_2002/data.csv",
+    "row_count": 18,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
     "chart_id": "iran_trade__handicraft_export_institutional_history",
     "title": "Non-Carpet Handicraft Exports & Institutional History (1930s-2025)",
     "title_fa": "صادرات صنایع‌دستی غیرفرشی و تاریخچه نهادی آن (دهه 1930 تا 2025)",
@@ -42242,6 +42308,50 @@
     "data_path": "data/charts/iran_trade__handicraft_export_institutional_history/data.csv",
     "row_count": 9,
     "status": "merged",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_trade__imports_oil_gas_vs_other_goods_cbi_2009_2023",
+    "title": "Imports by Category",
+    "title_fa": "واردات به تفکیک گروه",
+    "category": "Trade",
+    "category_fa": null,
+    "description": "Shorter span than the export-side breakdown because the source table only splits IMPORTS into oil/gas-products vs.",
+    "year_range": [
+      "1997",
+      "2023"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "cbi-iran-annual-review",
+    "citations": [],
+    "data_path": "data/charts/iran_trade__imports_oil_gas_vs_other_goods_cbi_2009_2023/data.csv",
+    "row_count": 54,
+    "status": "new",
+    "merged_into": null,
+    "materialized": true
+  },
+  {
+    "chart_id": "iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023",
+    "title": "Oil and Non-Oil Exports",
+    "title_fa": "صادرات نفتی و غیرنفتی",
+    "category": "Trade",
+    "category_fa": null,
+    "description": "NON-OIL EXPORTS is a politically and economically central Iranian statistic (government policy target for decades: reducing oil dependence) and has NO existing chart in the registry prior to this proposal -- confirmed via grep across CHART_REGISTRY.csv before writing this row.",
+    "year_range": [
+      "1997",
+      "2023"
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "primary_source": "cbi-iran-annual-review",
+    "citations": [],
+    "data_path": "data/charts/iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023/data.csv",
+    "row_count": 81,
+    "status": "new",
     "merged_into": null,
     "materialized": true
   },
@@ -55927,7 +56037,7 @@
     "title_fa": "شاخص قیمت عمده‌فروشی (100=2010)",
     "category": "Prices & Inflation",
     "category_fa": "قیمت‌ها و تورم",
-    "description": "Wholesale price index (2010 = 100)",
+    "description": "This is the classic (Wholesale Price Index / shakhes-e beha-ye omde-forushi) the task brief specifically asked for -- distinct from PPI (see row above): WPI classifies goods by DOMESTIC/IMPORTED/EXPORTED flow, not by producing sector.",
     "year_range": [
       "1960",
       "2025"

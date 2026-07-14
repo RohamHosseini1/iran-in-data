@@ -1,0 +1,147 @@
+"""Write the chart-registry STAGING proposals (never touches CHART_REGISTRY.csv itself) for
+the CBI-sourced Iran trade/oil enrichment series built by harmonize_cbi_trade_oil.py.
+Per docs/agent-briefs/_shared-context.md hard rule #1: CHART_REGISTRY.csv is never edited
+directly; this writes a proposal shard for a separate controlled step to apply.
+"""
+import csv
+
+OUT = "data/processed/chart_registry_staging/enrichment_iran_trade_oil.csv"
+
+ROWS = [
+    dict(
+        chart_id="iran_trade__merchandise_exports_imports_balance_cbi_1996_2023",
+        title="Merchandise Exports, Imports (FOB) & Trade Balance, Central Bank of Iran Annual Review (FY1375-1401)",
+        category="Trade",
+        primary_source="cbi-iran-annual-review",
+        alt_sources="wdi (TX.VAL.MRCH.CD.WT / TM.VAL.MRCH.CD.WT, cross-validated in README)",
+        underlying_codes="iran_trade_oil_enrich_series/cbi_balance_of_payments_trade_oil_1375_1401.csv (iran_bop_exports_total_fob_musd, iran_bop_imports_total_fob_musd, iran_bop_trade_or_goods_balance_musd rows)",
+        status="extends",
+        extends_chart_id="iran_unctad_maritime__merchandise_trade_2005_2024",
+        time_range="FY1375-1401 (1996/97-2022/23), 27 consecutive fiscal years",
+        notes=(
+            "The existing chart (iran_unctad_maritime__merchandise_trade_2005_2024) has only 4 "
+            "sparse snapshot years (2005/2010/2015/2024) from a secondary aggregator (UNCTAD). "
+            "This proposal replaces/extends it with a genuinely continuous 27-fiscal-year "
+            "Iranian-PRIMARY series (Central Bank of Iran's own Balance of Payments table, "
+            "itself sourcing goods-trade figures onward to Iran's Customs Administration/"
+            "IRICA) -- both a much longer run and a higher-authority source class. "
+            "Cross-validated against this project's own WDI merchandise trade series "
+            "(TX.VAL.MRCH.CD.WT / TM.VAL.MRCH.CD.WT) for 6 spot-check years in the README: "
+            "exports agree within ~5-10% every year checked; imports diverge more, "
+            "especially recently (CBI $75.4bn vs WDI $58.8bn for FY1401/2022) -- kept as two "
+            "separate labeled series per project policy, not adjudicated. Values in current "
+            "(nominal) USD; a real/2015-USD variant was not computed this pass. Three "
+            "internal source-format eras (1996/97-2007/08, transitional 2008/09, "
+            "2009/10-2022/23 under an IMF BPM5 methodology revision) are documented in "
+            "iran_trade_oil_enrich_series/README.md -- never silently spliced, each year "
+            "uses its own fiscal year's contemporaneous report."
+        ),
+    ),
+    dict(
+        chart_id="iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023",
+        title="Oil vs. Non-Oil Exports (Value, USD), Central Bank of Iran Annual Review (FY1375-1401)",
+        category="Trade",
+        primary_source="cbi-iran-annual-review",
+        alt_sources="",
+        underlying_codes="iran_trade_oil_enrich_series/cbi_balance_of_payments_trade_oil_1375_1401.csv (iran_bop_exports_oil_musd, iran_bop_exports_nonoil_musd rows)",
+        status="new",
+        extends_chart_id="",
+        time_range="FY1375-1401 (1996/97-2022/23), 27 consecutive fiscal years",
+        notes=(
+            "NON-OIL EXPORTS is a politically and economically central Iranian statistic "
+            "(government policy target for decades: reducing oil dependence) and has NO "
+            "existing chart in the registry prior to this proposal -- confirmed via grep "
+            "across CHART_REGISTRY.csv before writing this row. The Pahlavi-era equivalent "
+            "chart (pahlavi__oil_exports_revenues_by_company_1963_71) is status=merged/dead "
+            "and covers a different era (1963/64-1970/71, by paying-company not oil-vs-"
+            "non-oil); this is registered as a genuinely new chart_id for the IRI era rather "
+            "than an extends onto a dead chart_id, though the two are thematically related "
+            "and a future pass could add a `related_chart_id`-style note once both are live. "
+            "Notable finding visible in the data itself: non-oil exports first EXCEED oil "
+            "exports in FY1398 (2019/20, $30.4bn vs $29.0bn) during 'maximum pressure' "
+            "sanctions, and again in FY1400 (2021/22) -- a real structural shift worth "
+            "surfacing on the chart, not just a data curiosity."
+        ),
+    ),
+    dict(
+        chart_id="iran_trade__imports_oil_gas_vs_other_goods_cbi_2009_2023",
+        title="Imports (FOB): Oil & Gas Products vs. Other Goods, Central Bank of Iran Annual Review (FY1388-1401)",
+        category="Trade",
+        primary_source="cbi-iran-annual-review",
+        alt_sources="",
+        underlying_codes="iran_trade_oil_enrich_series/cbi_balance_of_payments_trade_oil_1375_1401.csv (iran_bop_imports_oil_gas_musd, iran_bop_imports_other_nonoil_musd rows)",
+        status="new",
+        extends_chart_id="",
+        time_range="FY1388-1401 (2009/10-2022/23), 14 consecutive fiscal years",
+        notes=(
+            "Shorter span than the export-side breakdown because the source table only "
+            "splits IMPORTS into oil/gas-products vs. other-goods from FY1388 (2009/10) "
+            "onward -- FY1375-1386 reports give only a single undifferentiated imports "
+            "figure (already captured in the companion "
+            "iran_trade__merchandise_exports_imports_balance_cbi_1996_2023 proposal above). "
+            "The oil/gas-products import share is small and shrinking (from $6.6bn in "
+            "2009/10 to near-zero, $0.2-6mn, in the sanctions-heavy final years) -- Iran "
+            "importing almost no refined oil/gas products by the early 2020s is itself a "
+            "notable data point (domestic refining self-sufficiency and/or sanctions-driven "
+            "import substitution; not interpreted further here, just surfaced)."
+        ),
+    ),
+    dict(
+        chart_id="iran_trade__current_account_balance_cbi_1996_2023",
+        title="Current Account Balance, Central Bank of Iran Annual Review (FY1375-1401)",
+        category="Trade",
+        primary_source="cbi-iran-annual-review",
+        alt_sources="wdi (BN.CAB.XOKA)",
+        underlying_codes="iran_trade_oil_enrich_series/cbi_balance_of_payments_trade_oil_1375_1401.csv (iran_bop_current_account_musd rows)",
+        status="extends",
+        extends_chart_id="wdi__BN.CAB.XOKA",
+        time_range="FY1375-1401 (1996/97-2022/23), 27 consecutive fiscal years",
+        notes=(
+            "Extends WDI's generic current-account-balance indicator (wdi__BN.CAB.XOKA, "
+            "status=new/uncharted-detail in the registry) with Iran's own central bank's "
+            "reporting of the same concept, fiscal-year granularity, alongside the full "
+            "goods/oil/non-oil breakdown in the companion proposals above. First negative "
+            "current-account year in this series is FY1399 (2020/21, -$708mn) -- COVID-19 "
+            "demand collapse plus sanctions, visible directly in the data."
+        ),
+    ),
+    dict(
+        chart_id="iran_trade__crude_oil_export_volume_cbi_1996_2002",
+        title="Crude Oil & Oil Products Export Volume (thousand b/d), Central Bank of Iran Annual Review (FY1375-1380)",
+        category="Oil & Energy",
+        primary_source="cbi-iran-annual-review",
+        alt_sources="",
+        underlying_codes="iran_trade_oil_enrich_series/cbi_crude_oil_export_volume_1375_1380.csv",
+        status="new",
+        extends_chart_id="",
+        time_range="FY1375-1380 (1996/97-2001/02), 6 consecutive fiscal years",
+        notes=(
+            "Short but genuinely continuous 6-year annual series (not a snapshot) -- crude "
+            "oil, oil-products, and total export volume in thousand barrels/day, sourced by "
+            "CBI onward to the Ministry of Petroleum. IMPORTANT LIMITATION, stated plainly: "
+            "this is the ENTIRE oil-export-volume run available in this project's 23-PDF CBI "
+            "Annual Review holdings -- confirmed by grep that this table does not appear in "
+            "any of the 21 other reports (FY1381-1401). CBI's own oil export REVENUE series "
+            "(the companion iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023 chart) "
+            "continues gap-free through FY1401, but the physical VOLUME series was "
+            "apparently discontinued from CBI's own publication after 2001/02 -- a genuine, "
+            "notable data-availability gap for the sanctions-era IRI, not a project omission. "
+            "The project's OPEC ASB-derived sparse PRODUCTION series "
+            "(opec_asb_2025_series/iran_opec_crude_production_historical_1980_2024.csv, "
+            "anchor years 1980/1990/2000/2010 only) is a partial, different-quantity "
+            "substitute (production, not export volume) for years outside this chart's "
+            "range -- flagged as a distinct measure, not silently substituted here."
+        ),
+    ),
+]
+
+FIELDNAMES = ["chart_id", "title", "category", "primary_source", "alt_sources",
+              "underlying_codes", "status", "extends_chart_id", "time_range", "notes"]
+
+if __name__ == "__main__":
+    with open(OUT, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        w.writeheader()
+        for row in ROWS:
+            w.writerow(row)
+    print(f"wrote {len(ROWS)} rows to {OUT}")

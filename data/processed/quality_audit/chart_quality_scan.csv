@@ -1,49 +1,49 @@
 chart_id,title,category,primary_source,verdict,flags,n_variants,n_countries,iran_points,iran_nonzero,iran_span,iran_distinct,iran_ymin,iran_ymax,best_variant
 faostat__Agriculture__price,Agriculture,Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
-"faostat__Alcohol, Non-Food__trade","Alcohol, Non-Food",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,92,30,27,16,1997,2023,Domestic supply quantity
-faostat__Alcoholic Beverages__consumption,Alcoholic Beverages,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,34,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Alcoholic Beverages__trade,Alcoholic Beverages,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,63,63,33,1961,2023,Domestic supply quantity
-"faostat__Almonds, in shell__price","Almonds, in shell",Agriculture Prices,faostat-pp+pa,OK,,4,6,156,57,58,57,1966,2023,Producer Price (LCU/tonne)
+"faostat__Alcohol, Non-Food__trade","Alcohol, Non-Food",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,92,16,17,8,1997,2013,Domestic supply quantity (FAO historic series)
+faostat__Alcoholic Beverages__consumption,Alcoholic Beverages,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,23,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Alcoholic Beverages__trade,Alcoholic Beverages,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,49,53,22,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Almonds, in shell__price","Almonds, in shell",Agriculture Prices,faostat-pp+pa,OK,,5,6,156,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Almonds, in shell__production","Almonds, in shell",Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,61,1961,2024,Yield
-faostat__Animal Products__consumption,Animal Products,Food Consumption,faostat-fbs+fbsh,OK,,1,11,67,67,63,59,1961,2023,Food supply (kcal/capita/day)
-faostat__Animal fats__consumption,Animal fats,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,59,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Animal fats__trade,Animal fats,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,59,1961,2023,Domestic supply quantity
-"faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__price","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",Agriculture Prices,faostat-pp+pa,OK,,4,5,83,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Animal Products__consumption,Animal Products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,67,53,53,45,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Animal fats__consumption,Animal fats,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,47,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Animal fats__trade,Animal fats,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,48,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__price","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",Agriculture Prices,faostat-pp+pa,OK,,5,5,83,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production","Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",Agriculture Production,faostat-qcl,OK,,3,6,192,64,64,55,1961,2024,Area harvested
-faostat__Apples and products__consumption,Apples and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,66,1961,2023,Food supply (kcal/capita/day)
-faostat__Apples and products__trade,Apples and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,64,1961,2023,Domestic supply quantity
-faostat__Apples__price,Apples,Agriculture Prices,faostat-pp+pa,OK,,4,9,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+faostat__Apples and products__consumption,Apples and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Apples and products__trade,Apples and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,50,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Apples__price,Apples,Agriculture Prices,faostat-pp+pa,OK,,5,9,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Apples__production,Apples,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,61,1961,2024,Production
-faostat__Apricots__price,Apricots,Agriculture Prices,faostat-pp+pa,OK,,4,8,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+faostat__Apricots__price,Apricots,Agriculture Prices,faostat-pp+pa,OK,,5,8,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Apricots__production,Apricots,Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,58,1961,2024,Yield
-"faostat__Aquatic Animals, Others__consumption","Aquatic Animals, Others",Food Consumption,faostat-fbs+fbsh,OK,,2,11,132,11,10,6,2010,2019,Food supply (kcal/capita/day)
-"faostat__Aquatic Animals, Others__trade","Aquatic Animals, Others",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,81,10,10,6,2010,2019,Domestic supply quantity
-faostat__Aquatic Plants__trade,Aquatic Plants,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,89,15,15,6,1999,2013,Domestic supply quantity
-"faostat__Aquatic Products, Other__trade","Aquatic Products, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,89,15,15,6,1999,2013,Domestic supply quantity
+"faostat__Aquatic Animals, Others__consumption","Aquatic Animals, Others",Food Consumption,faostat-fbs+fbsh,OK,,4,11,132,8,10,5,2010,2019,Food supply (kcal/capita/day) (FAO current series)
+"faostat__Aquatic Animals, Others__trade","Aquatic Animals, Others",Agriculture Trade,faostat-fbs+fbsh,THIN,SPARSE,4,11,81,7,10,3,2010,2019,Domestic supply quantity (FAO current series)
+faostat__Aquatic Plants__trade,Aquatic Plants,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,89,15,15,6,1999,2013,Domestic supply quantity (FAO historic series)
+"faostat__Aquatic Products, Other__trade","Aquatic Products, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,89,15,15,6,1999,2013,Domestic supply quantity (FAO historic series)
 faostat__Artichokes__price,Artichokes,Agriculture Prices,faostat-pp+pa,OK,,1,6,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Artichokes__production,Artichokes,Agriculture Production,faostat-qcl,OK,,3,7,105,35,35,35,1990,2024,Yield
 faostat__Asparagus__price,Asparagus,Agriculture Prices,faostat-pp+pa,OK,,1,6,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Asparagus__production,Asparagus,Agriculture Production,faostat-qcl,OK,,3,6,105,35,35,32,1990,2024,Yield
 faostat__Asses__production,Asses,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,36,1961,2024,Stocks
-faostat__Bananas__consumption,Bananas,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,58,63,52,1961,2023,Food supply (kcal/capita/day)
-faostat__Bananas__price,Bananas,Agriculture Prices,faostat-pp+pa,OK,,4,7,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Bananas__consumption,Bananas,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,44,53,38,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Bananas__price,Bananas,Agriculture Prices,faostat-pp+pa,OK,,5,7,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Bananas__production,Bananas,Agriculture Production,faostat-qcl,OK,,3,9,173,45,45,44,1980,2024,Yield
-faostat__Bananas__trade,Bananas,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,88,53,61,44,1963,2023,Domestic supply quantity
-faostat__Barley and products__consumption,Barley and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,63,1961,2023,Food supply (kcal/capita/day)
-faostat__Barley and products__trade,Barley and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,65,1961,2023,Domestic supply quantity
-faostat__Barley__price,Barley,Agriculture Prices,faostat-pp+pa,OK,,4,10,159,58,58,56,1966,2023,Producer Price (LCU/tonne)
+faostat__Bananas__trade,Bananas,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,88,39,51,35,1963,2013,Domestic supply quantity (FAO historic series)
+faostat__Barley and products__consumption,Barley and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,51,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Barley and products__trade,Barley and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Barley__price,Barley,Agriculture Prices,faostat-pp+pa,OK,,5,10,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Barley__production,Barley,Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,64,1961,2024,Area harvested
-"faostat__Beans, dry__price","Beans, dry",Agriculture Prices,faostat-pp+pa,OK,,4,9,156,57,58,57,1966,2023,Producer Price (LCU/tonne)
+"faostat__Beans, dry__price","Beans, dry",Agriculture Prices,faostat-pp+pa,OK,,5,9,156,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Beans, dry__production","Beans, dry",Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,64,1961,2024,Area harvested
-faostat__Beans__consumption,Beans,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,62,1961,2023,Food supply (kcal/capita/day)
-faostat__Beans__trade,Beans,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,56,1961,2023,Domestic supply quantity
+faostat__Beans__consumption,Beans,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,49,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Beans__trade,Beans,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,44,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Beef and Buffalo Meat, primary__production","Beef and Buffalo Meat, primary",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Production
 "faostat__Beer of barley, malted__production","Beer of barley, malted",Agriculture Production,faostat-qcl,OK,,1,10,63,33,63,25,1961,2023,Production
-faostat__Beer__consumption,Beer,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,35,63,33,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Beer__trade,Beer,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,90,35,63,25,1961,2023,Domestic supply quantity
+faostat__Beer__consumption,Beer,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,23,49,22,1961,2009,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Beer__trade,Beer,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,90,23,49,18,1961,2009,Domestic supply quantity (FAO historic series)
 faostat__Bees__production,Bees,Agriculture Production,faostat-qcl,OK,,1,9,64,64,64,64,1961,2024,Stocks
-faostat__Bovine Meat__consumption,Bovine Meat,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Bovine Meat__trade,Bovine Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,61,1961,2023,Domestic supply quantity
+faostat__Bovine Meat__consumption,Bovine Meat,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Bovine Meat__trade,Bovine Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,49,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Broad beans and horse beans, dry__production","Broad beans and horse beans, dry",Agriculture Production,faostat-qcl,OK,,3,7,102,34,34,34,1991,2024,Area harvested
 "faostat__Broad beans and horse beans, green__price","Broad beans and horse beans, green",Agriculture Prices,faostat-pp+pa,OK,,4,7,113,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Broad beans and horse beans, green__production","Broad beans and horse beans, green",Agriculture Production,faostat-qcl,THIN,SPARSE|SHORT|FLAT,3,7,71,1,1,1,1990,1990,Area harvested
@@ -52,29 +52,29 @@ faostat__Buffalo__production,Buffalo,Agriculture Production,faostat-qcl,OK,,1,7,
 faostat__Butter and Ghee__production,Butter and Ghee,Agriculture Production,faostat-qcl,OK,,1,11,63,63,63,63,1961,2023,Production
 faostat__Butter and ghee of sheep milk__production,Butter and ghee of sheep milk,Agriculture Production,faostat-qcl,OK,,1,4,63,63,63,56,1961,2023,Production
 faostat__Butter of cow milk__production,Butter of cow milk,Agriculture Production,faostat-qcl,OK,,1,11,63,63,63,63,1961,2023,Production
-"faostat__Butter, Ghee__consumption","Butter, Ghee",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,64,1961,2023,Food supply (kcal/capita/day)
-"faostat__Butter, Ghee__trade","Butter, Ghee",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,57,1961,2023,Domestic supply quantity
+"faostat__Butter, Ghee__consumption","Butter, Ghee",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Butter, Ghee__trade","Butter, Ghee",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,46,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Buttermilk, dry__production","Buttermilk, dry",Agriculture Production,faostat-qcl,OK,,1,11,10,10,10,10,2014,2023,Production
 faostat__Cabbages__price,Cabbages,Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Cabbages__production,Cabbages,Agriculture Production,faostat-qcl,OK,,3,10,105,35,35,35,1990,2024,Area harvested
 faostat__Camels__production,Camels,Agriculture Production,faostat-qcl,OK,,1,5,64,64,64,45,1961,2024,Stocks
-faostat__Cantaloupes and other melons__price,Cantaloupes and other melons,Agriculture Prices,faostat-pp+pa,OK,,4,11,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+faostat__Cantaloupes and other melons__price,Cantaloupes and other melons,Agriculture Prices,faostat-pp+pa,OK,,5,11,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Cantaloupes and other melons__production,Cantaloupes and other melons,Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,63,1961,2024,Area harvested
 faostat__Carrots and turnips__price,Carrots and turnips,Agriculture Prices,faostat-pp+pa,OK,,4,11,119,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Carrots and turnips__production,Carrots and turnips,Agriculture Production,faostat-qcl,OK,,3,11,105,35,35,35,1990,2024,Production
-faostat__Cassava and products__trade,Cassava and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,86,9,15,4,2004,2018,Domestic supply quantity
+faostat__Cassava and products__trade,Cassava and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,86,8,10,4,2004,2013,Domestic supply quantity (FAO historic series)
 faostat__Castor oil seeds__production,Castor oil seeds,Agriculture Production,faostat-qcl,OK,,3,6,190,62,64,49,1961,2024,Production
 faostat__Cattle and Buffaloes__production,Cattle and Buffaloes,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,63,1961,2024,Stocks
 "faostat__Cattle fat, unrendered__production","Cattle fat, unrendered",Agriculture Production,faostat-qcl,OK,,2,11,128,64,64,60,1961,2024,Production
 faostat__Cattle__production,Cattle,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,62,1961,2024,Stocks
 faostat__Cauliflowers and broccoli__price,Cauliflowers and broccoli,Agriculture Prices,faostat-pp+pa,OK,,1,9,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Cauliflowers and broccoli__production,Cauliflowers and broccoli,Agriculture Production,faostat-qcl,OK,,3,10,105,35,35,35,1990,2024,Area harvested
-faostat__Cephalopods__consumption,Cephalopods,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,33,33,13,1991,2023,Food supply (kcal/capita/day)
-faostat__Cephalopods__trade,Cephalopods,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,89,36,34,26,1990,2023,Domestic supply quantity
-faostat__Cereals - Excluding Beer__consumption,Cereals - Excluding Beer,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Cereals - Excluding Beer__trade,Cereals - Excluding Beer,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,67,1961,2023,Domestic supply quantity
+faostat__Cephalopods__consumption,Cephalopods,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,21,23,12,1991,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Cephalopods__trade,Cephalopods,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,89,24,24,24,1990,2013,Domestic supply quantity (FAO historic series)
+faostat__Cereals - Excluding Beer__consumption,Cereals - Excluding Beer,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Cereals - Excluding Beer__trade,Cereals - Excluding Beer,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Cereals n.e.c.__price,Cereals n.e.c.,Agriculture Prices,faostat-pp+pa,OK,,1,5,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
-"faostat__Cereals, Other__consumption","Cereals, Other",Food Consumption,faostat-fbs+fbsh,THIN,SPARSE,2,11,28,6,14,5,2010,2023,Food supply (kcal/capita/day)
+"faostat__Cereals, Other__consumption","Cereals, Other",Food Consumption,faostat-fbs+fbsh,THIN,SPARSE,2,11,28,6,14,5,2010,2023,Food supply (kcal/capita/day) (FAO current series)
 "faostat__Cereals, Other__trade","Cereals, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,42,10,14,5,2010,2023,Import quantity
 "faostat__Cereals, primary__price","Cereals, primary",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Cereals, primary__production","Cereals, primary",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Area harvested
@@ -83,9 +83,9 @@ faostat__Cheese (All Kinds)__production,Cheese (All Kinds),Agriculture Productio
 "faostat__Cheese from milk of sheep, fresh or processed__production","Cheese from milk of sheep, fresh or processed",Agriculture Production,faostat-qcl,OK,,1,6,63,63,63,50,1961,2023,Production
 faostat__Cheese from skimmed cow milk__production,Cheese from skimmed cow milk,Agriculture Production,faostat-qcl,OK,,1,7,63,63,63,63,1961,2023,Production
 faostat__Cheese from whole cow milk__production,Cheese from whole cow milk,Agriculture Production,faostat-qcl,OK,,1,10,63,63,63,63,1961,2023,Production
-faostat__Cherries__price,Cherries,Agriculture Prices,faostat-pp+pa,OK,,4,7,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Cherries__price,Cherries,Agriculture Prices,faostat-pp+pa,OK,,5,7,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Cherries__production,Cherries,Agriculture Production,faostat-qcl,OK,,3,7,192,64,64,64,1961,2024,Yield
-"faostat__Chick peas, dry__price","Chick peas, dry",Agriculture Prices,faostat-pp+pa,OK,,4,8,159,58,58,58,1966,2023,Producer Price (LCU/tonne)
+"faostat__Chick peas, dry__price","Chick peas, dry",Agriculture Prices,faostat-pp+pa,OK,,5,8,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Chick peas, dry__production","Chick peas, dry",Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,63,1961,2024,Area harvested
 faostat__Chickens__production,Chickens,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,56,1961,2024,Stocks
 "faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__price","Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",Agriculture Prices,faostat-pp+pa,OK,,2,5,59,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
@@ -94,39 +94,39 @@ faostat__Chickens__production,Chickens,Agriculture Production,faostat-qcl,OK,,1,
 "faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production","Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",Agriculture Production,faostat-qcl,OK,,3,10,105,35,35,35,1990,2024,Area harvested
 "faostat__Citrus Fruit, Total__price","Citrus Fruit, Total",Agriculture Prices,faostat-pp+pa,OK,,1,9,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Citrus Fruit, Total__production","Citrus Fruit, Total",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Area harvested
-"faostat__Citrus, Other__consumption","Citrus, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,52,1961,2023,Food supply quantity (kg/capita/yr)
-"faostat__Citrus, Other__trade","Citrus, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,52,1961,2023,Domestic supply quantity
-faostat__Cloves__consumption,Cloves,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,37,62,4,1962,2023,Food supply (kcal/capita/day)
+"faostat__Citrus, Other__consumption","Citrus, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,40,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+"faostat__Citrus, Other__trade","Citrus, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,39,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Cloves__consumption,Cloves,Food Consumption,faostat-fbs+fbsh,THIN,FLAT,4,11,134,23,52,2,1962,2013,Food supply (kcal/capita/day) (FAO historic series)
 "faostat__Coarse Grain, Total__price","Coarse Grain, Total",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
-faostat__Cocoa Beans and products__consumption,Cocoa Beans and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,66,63,40,1961,2023,Food supply (kcal/capita/day)
-faostat__Cocoa Beans and products__trade,Cocoa Beans and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,56,61,23,1963,2023,Domestic supply quantity
-faostat__Coconut Oil__consumption,Coconut Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,54,63,44,1961,2023,Food supply (kcal/capita/day)
-faostat__Coconut Oil__trade,Coconut Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,93,35,63,10,1961,2023,Domestic supply quantity
-faostat__Coconuts - Incl Copra__consumption,Coconuts - Incl Copra,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,56,63,49,1961,2023,Food supply (kcal/capita/day)
-faostat__Coconuts - Incl Copra__trade,Coconuts - Incl Copra,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,53,59,35,1965,2023,Domestic supply quantity
-faostat__Coffee and products__consumption,Coffee and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,50,63,24,1961,2023,Food supply (kcal/capita/day)
-faostat__Coffee and products__trade,Coffee and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,35,51,21,1973,2023,Domestic supply quantity
-"faostat__Cotton lint, ginned__price","Cotton lint, ginned",Agriculture Prices,faostat-pp+pa,OK,,4,7,68,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Cocoa Beans and products__consumption,Cocoa Beans and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,52,53,27,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Cocoa Beans and products__trade,Cocoa Beans and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,42,51,16,1963,2013,Domestic supply quantity (FAO historic series)
+faostat__Coconut Oil__consumption,Coconut Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,40,53,33,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Coconut Oil__trade,Coconut Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,93,21,53,9,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Coconuts - Incl Copra__consumption,Coconuts - Incl Copra,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,42,53,38,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Coconuts - Incl Copra__trade,Coconuts - Incl Copra,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,39,49,25,1965,2013,Domestic supply quantity (FAO historic series)
+faostat__Coffee and products__consumption,Coffee and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,36,53,12,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Coffee and products__trade,Coffee and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,21,41,9,1973,2013,Domestic supply quantity (FAO historic series)
+"faostat__Cotton lint, ginned__price","Cotton lint, ginned",Agriculture Prices,faostat-pp+pa,OK,,5,7,68,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Cotton lint, ginned__production","Cotton lint, ginned",Agriculture Production,faostat-qcl,OK,,1,9,63,63,63,59,1961,2023,Production
-faostat__Cotton seed__price,Cotton seed,Agriculture Prices,faostat-pp+pa,OK,,4,7,69,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Cotton seed__price,Cotton seed,Agriculture Prices,faostat-pp+pa,OK,,5,7,69,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Cotton seed__production,Cotton seed,Agriculture Production,faostat-qcl,OK,,1,9,63,63,63,56,1961,2023,Production
-faostat__Cottonseed Oil__consumption,Cottonseed Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,10,134,67,63,64,1961,2023,Food supply (kcal/capita/day)
-faostat__Cottonseed Oil__trade,Cottonseed Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,84,67,63,48,1961,2023,Domestic supply quantity
+faostat__Cottonseed Oil__consumption,Cottonseed Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,10,134,53,53,51,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Cottonseed Oil__trade,Cottonseed Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,84,53,53,40,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Cottonseed oil__production,Cottonseed oil,Agriculture Production,faostat-qcl,OK,,1,10,63,63,63,63,1961,2023,Production
-faostat__Cottonseed__trade,Cottonseed,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,94,67,63,59,1961,2023,Domestic supply quantity
+faostat__Cottonseed__trade,Cottonseed,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,94,53,53,47,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Cream, fresh__production","Cream, fresh",Agriculture Production,faostat-qcl,OK,,1,9,63,63,63,63,1961,2023,Production
-faostat__Cream__consumption,Cream,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,24,1961,2023,Food supply (kcal/capita/day)
-faostat__Cream__trade,Cream,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,89,34,30,13,1994,2023,Domestic supply quantity
-faostat__Crustaceans__consumption,Crustaceans,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,30,1961,2023,Food supply (kcal/capita/day)
-faostat__Crustaceans__trade,Crustaceans,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,93,67,63,60,1961,2023,Domestic supply quantity
-faostat__Cucumbers and gherkins__price,Cucumbers and gherkins,Agriculture Prices,faostat-pp+pa,OK,,4,10,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Cream__consumption,Cream,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,11,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Cream__trade,Cream,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,89,20,20,5,1994,2013,Domestic supply quantity (FAO historic series)
+faostat__Crustaceans__consumption,Crustaceans,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,22,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Crustaceans__trade,Crustaceans,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,93,53,53,50,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Cucumbers and gherkins__price,Cucumbers and gherkins,Agriculture Prices,faostat-pp+pa,OK,,5,10,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Cucumbers and gherkins__production,Cucumbers and gherkins,Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,63,1961,2024,Yield
-faostat__Dates__consumption,Dates,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Dates__price,Dates,Agriculture Prices,faostat-pp+pa,OK,,4,6,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+faostat__Dates__consumption,Dates,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Dates__price,Dates,Agriculture Prices,faostat-pp+pa,OK,,5,6,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Dates__production,Dates,Agriculture Production,faostat-qcl,OK,,3,6,192,64,64,59,1961,2024,Yield
-faostat__Dates__trade,Dates,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,90,67,63,61,1961,2023,Domestic supply quantity
-faostat__Demersal Fish__consumption,Demersal Fish,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,66,63,38,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Demersal Fish__trade,Demersal Fish,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,91,67,63,55,1961,2023,Domestic supply quantity
+faostat__Dates__trade,Dates,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,90,53,53,48,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Demersal Fish__consumption,Demersal Fish,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,52,53,28,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Demersal Fish__trade,Demersal Fish,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,91,53,53,44,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Ducks__production,Ducks,Agriculture Production,faostat-qcl,OK,,1,9,64,64,64,39,1961,2024,Stocks
 "faostat__Edible offal of buffalo, fresh, chilled or frozen__production","Edible offal of buffalo, fresh, chilled or frozen",Agriculture Production,faostat-qcl,OK,,2,6,128,64,64,46,1961,2024,Production
 "faostat__Edible offal of cattle, fresh, chilled or frozen__production","Edible offal of cattle, fresh, chilled or frozen",Agriculture Production,faostat-qcl,OK,,2,11,128,64,64,60,1961,2024,Production
@@ -138,95 +138,95 @@ faostat__Eggplants (aubergines)__price,Eggplants (aubergines),Agriculture Prices
 faostat__Eggplants (aubergines)__production,Eggplants (aubergines),Agriculture Production,faostat-qcl,OK,,3,9,105,35,35,35,1990,2024,Area harvested
 faostat__Eggs Primary__price,Eggs Primary,Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Eggs Primary__production,Eggs Primary,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,59,1961,2024,Yield/Carcass Weight
-faostat__Eggs__consumption,Eggs,Food Consumption,faostat-fbs+fbsh,OK,,2,11,268,134,63,81,1961,2023,Food supply (kcal/capita/day)
-faostat__Eggs__trade,Eggs,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,190,134,63,64,1961,2023,Domestic supply quantity
+faostat__Eggs__consumption,Eggs,Food Consumption,faostat-fbs+fbsh,OK,,4,11,268,106,53,67,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Eggs__trade,Eggs,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,190,106,53,50,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Evaporated & Condensed Milk__production,Evaporated & Condensed Milk,Agriculture Production,faostat-qcl,OK,,1,10,63,53,63,53,1961,2023,Production
 faostat__Fat of camels__production,Fat of camels,Agriculture Production,faostat-qcl,OK,,2,5,128,64,64,39,1961,2024,Producing Animals/Slaughtered
 faostat__Fat of pigs__production,Fat of pigs,Agriculture Production,faostat-qcl,OK,,2,9,76,19,19,5,1961,1979,Production
-"faostat__Fats, Animals, Raw__consumption","Fats, Animals, Raw",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,38,1961,2023,Food supply (kcal/capita/day)
-"faostat__Fats, Animals, Raw__trade","Fats, Animals, Raw",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,37,1961,2023,Domestic supply quantity
+"faostat__Fats, Animals, Raw__consumption","Fats, Animals, Raw",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,33,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Fats, Animals, Raw__trade","Fats, Animals, Raw",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,33,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Fibre Crops Primary__price,Fibre Crops Primary,Agriculture Prices,faostat-pp+pa,OK,,1,7,35,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Fibre Crops, Fibre Equivalent__production","Fibre Crops, Fibre Equivalent",Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,63,1961,2024,Area harvested
-faostat__Figs__price,Figs,Agriculture Prices,faostat-pp+pa,OK,,4,8,125,46,57,46,1967,2023,Producer Price (LCU/tonne)
+faostat__Figs__price,Figs,Agriculture Prices,faostat-pp+pa,OK,,5,8,125,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Figs__production,Figs,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,47,1961,2024,Yield
-"faostat__Fish, Body Oil__trade","Fish, Body Oil",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,90,35,53,16,1961,2013,Domestic supply quantity
-"faostat__Fish, Liver Oil__trade","Fish, Liver Oil",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,89,15,18,7,1996,2013,Domestic supply quantity
-"faostat__Fish, Seafood__consumption","Fish, Seafood",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,62,1961,2023,Food supply quantity (kg/capita/yr)
-"faostat__Fish, Seafood__trade","Fish, Seafood",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,64,1961,2023,Domestic supply quantity
-faostat__Freshwater Fish__consumption,Freshwater Fish,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,64,1961,2023,Food supply (kcal/capita/day)
-faostat__Freshwater Fish__trade,Freshwater Fish,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,63,1961,2023,Domestic supply quantity
+"faostat__Fish, Body Oil__trade","Fish, Body Oil",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,90,35,53,16,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Fish, Liver Oil__trade","Fish, Liver Oil",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,89,15,18,7,1996,2013,Domestic supply quantity (FAO historic series)
+"faostat__Fish, Seafood__consumption","Fish, Seafood",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,49,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+"faostat__Fish, Seafood__trade","Fish, Seafood",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Freshwater Fish__consumption,Freshwater Fish,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,50,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Freshwater Fish__trade,Freshwater Fish,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Fruit Primary__price,Fruit Primary,Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Fruit Primary__production,Fruit Primary,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Area harvested
 "faostat__Fruit excl Melons, Total__price","Fruit excl Melons, Total",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
-faostat__Fruits - Excluding Wine__consumption,Fruits - Excluding Wine,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Fruits - Excluding Wine__trade,Fruits - Excluding Wine,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,66,1961,2023,Domestic supply quantity
-"faostat__Fruits, other__consumption","Fruits, other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,66,1961,2023,Food supply (kcal/capita/day)
-"faostat__Fruits, other__trade","Fruits, other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,65,1961,2023,Domestic supply quantity
+faostat__Fruits - Excluding Wine__consumption,Fruits - Excluding Wine,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Fruits - Excluding Wine__trade,Fruits - Excluding Wine,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Fruits, other__consumption","Fruits, other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Fruits, other__trade","Fruits, other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,51,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Game meat, fresh, chilled or frozen__price","Game meat, fresh, chilled or frozen",Agriculture Prices,faostat-pp+pa,OK,,2,4,59,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Game meat, fresh, chilled or frozen__production","Game meat, fresh, chilled or frozen",Agriculture Production,faostat-qcl,OK,,1,4,64,64,64,42,1961,2024,Production
 faostat__Geese__production,Geese,Agriculture Production,faostat-qcl,OK,,1,8,64,64,64,38,1961,2024,Stocks
 "faostat__Goat fat, unrendered__production","Goat fat, unrendered",Agriculture Production,faostat-qcl,OK,,2,11,128,64,64,53,1961,2024,Production
 faostat__Goats__production,Goats,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,51,1961,2024,Stocks
-faostat__Grand Total__consumption,Grand Total,Food Consumption,faostat-fbs+fbsh,OK,,1,11,67,67,63,65,1961,2023,Food supply (kcal/capita/day)
-faostat__Grapefruit and products__consumption,Grapefruit and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,45,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Grapefruit and products__trade,Grapefruit and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,43,1961,2023,Domestic supply quantity
-faostat__Grapes and products (excl wine)__consumption,Grapes and products (excl wine),Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,65,1961,2023,Food supply (kcal/capita/day)
-faostat__Grapes and products (excl wine)__trade,Grapes and products (excl wine),Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,66,1961,2023,Domestic supply quantity
-faostat__Grapes__price,Grapes,Agriculture Prices,faostat-pp+pa,OK,,4,11,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+faostat__Grand Total__consumption,Grand Total,Food Consumption,faostat-fbs+fbsh,OK,,2,11,67,53,53,51,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Grapefruit and products__consumption,Grapefruit and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,36,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Grapefruit and products__trade,Grapefruit and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,35,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Grapes and products (excl wine)__consumption,Grapes and products (excl wine),Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Grapes and products (excl wine)__trade,Grapes and products (excl wine),Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Grapes__price,Grapes,Agriculture Prices,faostat-pp+pa,OK,,5,11,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Grapes__production,Grapes,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,62,1961,2024,Yield
 faostat__Green garlic__price,Green garlic,Agriculture Prices,faostat-pp+pa,OK,,4,10,119,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Green garlic__production,Green garlic,Agriculture Production,faostat-qcl,OK,,3,10,105,35,35,35,1990,2024,Area harvested
 "faostat__Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg__production","Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",Agriculture Production,faostat-qcl,OK,,1,9,14,14,14,10,2010,2023,Production
-faostat__Groundnut Oil__consumption,Groundnut Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,36,61,19,1961,2021,Food supply (kcal/capita/day)
-faostat__Groundnut Oil__trade,Groundnut Oil,Agriculture Trade,faostat-fbs+fbsh,THIN,SPARSE,3,11,90,6,51,4,1968,2018,Domestic supply quantity
+faostat__Groundnut Oil__consumption,Groundnut Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,35,45,19,1961,2005,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Groundnut Oil__trade,Groundnut Oil,Agriculture Trade,faostat-fbs+fbsh,THIN,SPARSE,4,11,90,5,34,3,1968,2001,Domestic supply quantity (FAO historic series)
 faostat__Groundnuts (Shelled Eq)__consumption,Groundnuts (Shelled Eq),Food Consumption,faostat-fbs+fbsh,OK,,2,9,106,53,53,46,1961,2013,Food supply (kcal/capita/day)
 faostat__Groundnuts (Shelled Eq)__trade,Groundnuts (Shelled Eq),Agriculture Trade,faostat-fbs+fbsh,OK,,1,10,53,53,53,16,1961,2013,Domestic supply quantity
 "faostat__Groundnuts, excluding shelled__price","Groundnuts, excluding shelled",Agriculture Prices,faostat-pp+pa,OK,,2,9,60,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Groundnuts, excluding shelled__production","Groundnuts, excluding shelled",Agriculture Production,faostat-qcl,OK,,3,10,185,57,64,55,1961,2024,Production
 faostat__Groundnuts__consumption,Groundnuts,Food Consumption,faostat-fbs+fbsh,OK,,2,11,28,14,14,14,2010,2023,Food supply (kcal/capita/day)
 faostat__Groundnuts__trade,Groundnuts,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,42,14,14,14,2010,2023,Import quantity
-"faostat__Hazelnuts, in shell__price","Hazelnuts, in shell",Agriculture Prices,faostat-pp+pa,OK,,4,6,126,47,58,46,1966,2023,Producer Price (LCU/tonne)
+"faostat__Hazelnuts, in shell__price","Hazelnuts, in shell",Agriculture Prices,faostat-pp+pa,OK,,5,6,126,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Hazelnuts, in shell__production","Hazelnuts, in shell",Agriculture Production,faostat-qcl,OK,,3,5,192,64,64,54,1961,2024,Yield
 faostat__Hempseed__production,Hempseed,Agriculture Production,faostat-qcl,OK,,3,6,102,34,34,34,1991,2024,Yield
-"faostat__Hen eggs in shell, fresh__price","Hen eggs in shell, fresh",Agriculture Prices,faostat-pp+pa,OK,,4,11,62,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+"faostat__Hen eggs in shell, fresh__price","Hen eggs in shell, fresh",Agriculture Prices,faostat-pp+pa,OK,,5,11,62,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Hen eggs in shell, fresh__production__laying","Hen eggs in shell, fresh, laying (1000 An)",Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,55,1961,2024,Laying
 "faostat__Hen eggs in shell, fresh__production__production_1000_no","Hen eggs in shell, fresh, production (1000 count)",Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,57,1961,2024,Production
 "faostat__Hen eggs in shell, fresh__production__production_t","Hen eggs in shell, fresh, production (t)",Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,58,1961,2024,Production
 "faostat__Hen eggs in shell, fresh__production__yield","Hen eggs in shell, fresh, yield (No/An)",Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,42,1961,2024,Yield
 "faostat__Hen eggs in shell, fresh__production__yield_carcass_weight","Hen eggs in shell, fresh, yield/carcass weight (g/An)",Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,59,1961,2024,Yield/Carcass Weight
-faostat__Honey__consumption,Honey,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,55,1961,2023,Food supply (kcal/capita/day)
-faostat__Honey__trade,Honey,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,88,67,63,33,1961,2023,Domestic supply quantity
+faostat__Honey__consumption,Honey,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,42,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Honey__trade,Honey,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,88,53,53,26,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Horses__production,Horses,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,36,1961,2024,Stocks
-faostat__Infant food__consumption,Infant food,Food Consumption,faostat-fbs+fbsh,OK,,2,8,134,51,53,43,1961,2013,Food supply (kcal/capita/day)
-faostat__Infant food__trade,Infant food,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,53,59,15,1963,2021,Domestic supply quantity
+faostat__Infant food__consumption,Infant food,Food Consumption,faostat-fbs+fbsh,OK,,4,8,134,49,53,42,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Infant food__trade,Infant food,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,42,50,13,1963,2012,Domestic supply quantity (FAO historic series)
 "faostat__Jute, raw or retted__price","Jute, raw or retted",Agriculture Prices,faostat-pp+pa,THIN,SPARSE|SHORT|FLAT,1,1,2,2,2,2,1989,1990,Producer Price (LCU/tonne)
 "faostat__Jute, raw or retted__production","Jute, raw or retted",Agriculture Production,faostat-qcl,OK,,3,1,96,30,30,25,1961,1990,Area harvested
 faostat__Kiwi fruit__price,Kiwi fruit,Agriculture Prices,faostat-pp+pa,OK,,4,6,113,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Kiwi fruit__production,Kiwi fruit,Agriculture Production,faostat-qcl,OK,,3,6,163,35,35,35,1990,2024,Area harvested
 faostat__Leeks and other alliaceous vegetables__price,Leeks and other alliaceous vegetables,Agriculture Prices,faostat-pp+pa,OK,,4,6,110,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Leeks and other alliaceous vegetables__production,Leeks and other alliaceous vegetables,Agriculture Production,faostat-qcl,OK,,3,5,105,35,35,35,1990,2024,Production
-faostat__Lemons and limes__price,Lemons and limes,Agriculture Prices,faostat-pp+pa,OK,,4,9,155,56,57,56,1967,2023,Producer Price (LCU/tonne)
+faostat__Lemons and limes__price,Lemons and limes,Agriculture Prices,faostat-pp+pa,OK,,5,9,155,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Lemons and limes__production,Lemons and limes,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,64,1961,2024,Area harvested
-"faostat__Lemons, Limes and products__consumption","Lemons, Limes and products",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-"faostat__Lemons, Limes and products__trade","Lemons, Limes and products",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,94,67,63,66,1961,2023,Domestic supply quantity
-"faostat__Lentils, dry__price","Lentils, dry",Agriculture Prices,faostat-pp+pa,OK,,4,8,159,58,58,58,1966,2023,Producer Price (LCU/tonne)
+"faostat__Lemons, Limes and products__consumption","Lemons, Limes and products",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+"faostat__Lemons, Limes and products__trade","Lemons, Limes and products",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,94,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Lentils, dry__price","Lentils, dry",Agriculture Prices,faostat-pp+pa,OK,,5,8,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Lentils, dry__production","Lentils, dry",Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,63,1961,2024,Yield
 faostat__Lettuce and chicory__price,Lettuce and chicory,Agriculture Prices,faostat-pp+pa,OK,,4,8,119,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Lettuce and chicory__production,Lettuce and chicory,Agriculture Production,faostat-qcl,OK,,3,9,105,35,35,35,1990,2024,Area harvested
-faostat__Linseed__price,Linseed,Agriculture Prices,faostat-pp+pa,OK,,4,7,69,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Linseed__price,Linseed,Agriculture Prices,faostat-pp+pa,OK,,5,7,69,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Linseed__production,Linseed,Agriculture Production,faostat-qcl,OK,,3,8,156,48,53,27,1961,2013,Area harvested
 faostat__Livestock__price,Livestock,Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
-faostat__Maize (corn)__price,Maize (corn),Agriculture Prices,faostat-pp+pa,OK,,4,11,156,57,58,54,1966,2023,Producer Price (LCU/tonne)
+faostat__Maize (corn)__price,Maize (corn),Agriculture Prices,faostat-pp+pa,OK,,5,11,156,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Maize (corn)__production,Maize (corn),Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,55,1961,2024,Yield
-faostat__Maize Germ Oil__consumption,Maize Germ Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,48,48,46,1976,2023,Food supply (kcal/capita/day)
-faostat__Maize Germ Oil__trade,Maize Germ Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,90,41,48,13,1976,2023,Domestic supply quantity
-faostat__Maize and products__consumption,Maize and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,63,1961,2023,Food supply (kcal/capita/day)
-faostat__Maize and products__trade,Maize and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,65,1961,2023,Domestic supply quantity
-"faostat__Mangoes, guavas and mangosteens__price","Mangoes, guavas and mangosteens",Agriculture Prices,faostat-pp+pa,OK,,4,6,103,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Maize Germ Oil__consumption,Maize Germ Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,34,38,32,1976,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Maize Germ Oil__trade,Maize Germ Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,90,27,38,8,1976,2013,Domestic supply quantity (FAO historic series)
+faostat__Maize and products__consumption,Maize and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,49,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Maize and products__trade,Maize and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,51,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Mangoes, guavas and mangosteens__price","Mangoes, guavas and mangosteens",Agriculture Prices,faostat-pp+pa,OK,,5,6,103,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Mangoes, guavas and mangosteens__production","Mangoes, guavas and mangosteens",Agriculture Production,faostat-qcl,OK,,3,5,172,44,44,44,1981,2024,Area harvested
 faostat__Margarine and shortening__production,Margarine and shortening,Agriculture Production,faostat-qcl,OK,,1,10,63,63,63,63,1961,2023,Production
-"faostat__Marine Fish, Other__consumption","Marine Fish, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,57,1961,2023,Food supply (kcal/capita/day)
-"faostat__Marine Fish, Other__trade","Marine Fish, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,61,1961,2023,Domestic supply quantity
+"faostat__Marine Fish, Other__consumption","Marine Fish, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,49,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Marine Fish, Other__trade","Marine Fish, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Meat of buffalo, fresh or chilled__price","Meat of buffalo, fresh or chilled",Agriculture Prices,faostat-pp+pa,OK,,1,3,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Meat of buffalo, fresh or chilled__production","Meat of buffalo, fresh or chilled",Agriculture Production,faostat-qcl,OK,,3,5,192,64,64,46,1961,2024,Production
 "faostat__Meat of camels, fresh or chilled__price","Meat of camels, fresh or chilled",Agriculture Prices,faostat-pp+pa,OK,,1,4,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
@@ -246,80 +246,80 @@ faostat__Margarine and shortening__production,Margarine and shortening,Agricultu
 "faostat__Meat of sheep, fresh or chilled__production","Meat of sheep, fresh or chilled",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,59,1961,2024,Producing Animals/Slaughtered
 "faostat__Meat of turkeys, fresh or chilled__price","Meat of turkeys, fresh or chilled",Agriculture Prices,faostat-pp+pa,OK,,1,6,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Meat of turkeys, fresh or chilled__production","Meat of turkeys, fresh or chilled",Agriculture Production,faostat-qcl,OK,,3,7,192,64,64,50,1961,2024,Production
-"faostat__Meat, Other__consumption","Meat, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,61,1961,2023,Food supply (kcal/capita/day)
-"faostat__Meat, Other__trade","Meat, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,91,67,63,24,1961,2023,Domestic supply quantity
+"faostat__Meat, Other__consumption","Meat, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,48,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Meat, Other__trade","Meat, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,91,53,53,17,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Meat, Poultry__production","Meat, Poultry",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Production
 "faostat__Meat, Total__price","Meat, Total",Agriculture Prices,faostat-pp+pa,OK,,1,9,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Meat, Total__production","Meat, Total",Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,64,1961,2024,Production
-faostat__Meat__consumption,Meat,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Meat__trade,Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,66,1961,2023,Domestic supply quantity
+faostat__Meat__consumption,Meat,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Meat__trade,Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Melonseed__production,Melonseed,Agriculture Production,faostat-qcl,OK,,3,2,192,64,64,62,1961,2024,Area harvested
-faostat__Milk - Excluding Butter__consumption,Milk - Excluding Butter,Food Consumption,faostat-fbs+fbsh,OK,,2,11,268,134,63,94,1961,2023,Food supply (kcal/capita/day)
-faostat__Milk - Excluding Butter__trade,Milk - Excluding Butter,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,190,134,63,67,1961,2023,Domestic supply quantity
+faostat__Milk - Excluding Butter__consumption,Milk - Excluding Butter,Food Consumption,faostat-fbs+fbsh,OK,,4,11,268,106,53,80,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Milk - Excluding Butter__trade,Milk - Excluding Butter,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,190,106,53,53,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Milk, Total__price","Milk, Total",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Milk, Total__production","Milk, Total",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Milk Animals
-faostat__Millet and products__trade,Millet and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,92,67,63,24,1961,2023,Domestic supply quantity
-faostat__Millet__price,Millet,Agriculture Prices,faostat-pp+pa,OK,,4,9,156,57,58,55,1966,2023,Producer Price (LCU/tonne)
+faostat__Millet and products__trade,Millet and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,92,53,53,18,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Millet__price,Millet,Agriculture Prices,faostat-pp+pa,OK,,5,9,156,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Millet__production,Millet,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,54,1961,2024,Area harvested
-faostat__Miscellaneous__consumption,Miscellaneous,Food Consumption,faostat-fbs+fbsh,OK,,2,11,215,95,63,27,1961,2023,Food supply (kcal/capita/day)
-faostat__Miscellaneous__trade,Miscellaneous,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,135,70,61,24,1963,2023,Domestic supply quantity
+faostat__Miscellaneous__consumption,Miscellaneous,Food Consumption,faostat-fbs+fbsh,OK,,4,11,215,69,53,19,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Miscellaneous__trade,Miscellaneous,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,135,42,50,13,1963,2012,Domestic supply quantity (FAO historic series)
 faostat__Molasses__production,Molasses,Agriculture Production,faostat-qcl,OK,,1,9,63,63,63,60,1961,2023,Production
-"faostat__Molluscs, Other__consumption","Molluscs, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,121,12,37,3,1982,2018,Food supply quantity (kg/capita/yr)
-"faostat__Molluscs, Other__trade","Molluscs, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,73,20,37,15,1982,2018,Domestic supply quantity
+"faostat__Molluscs, Other__consumption","Molluscs, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,121,11,11,3,1982,1992,Food supply quantity (kg/capita/yr) (FAO historic series)
+"faostat__Molluscs, Other__trade","Molluscs, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,73,19,31,14,1982,2012,Domestic supply quantity (FAO historic series)
 faostat__Mules and hinnies__production,Mules and hinnies,Agriculture Production,faostat-qcl,OK,,1,10,64,64,64,34,1961,2024,Stocks
 faostat__Mushrooms and truffles__price,Mushrooms and truffles,Agriculture Prices,faostat-pp+pa,OK,,1,7,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Mushrooms and truffles__production,Mushrooms and truffles,Agriculture Production,faostat-qcl,OK,,1,7,35,19,35,19,1990,2024,Production
 faostat__Mustard seed__production,Mustard seed,Agriculture Production,faostat-qcl,OK,,3,5,158,30,40,30,1985,2024,Production
-faostat__Mutton & Goat Meat__consumption,Mutton & Goat Meat,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,66,1961,2023,Food supply (kcal/capita/day)
-faostat__Mutton & Goat Meat__trade,Mutton & Goat Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,56,1961,2023,Domestic supply quantity
-faostat__Natural honey__price,Natural honey,Agriculture Prices,faostat-pp+pa,OK,,4,10,155,56,57,55,1967,2023,Producer Price (LCU/tonne)
+faostat__Mutton & Goat Meat__consumption,Mutton & Goat Meat,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Mutton & Goat Meat__trade,Mutton & Goat Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,47,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Natural honey__price,Natural honey,Agriculture Prices,faostat-pp+pa,OK,,5,10,155,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Natural honey__production,Natural honey,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,64,1961,2024,Production
-faostat__Nuts and products__consumption,Nuts and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Nuts and products__trade,Nuts and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,62,1961,2023,Domestic supply quantity
-faostat__Oats__consumption,Oats,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,26,50,20,1974,2023,Food supply (kcal/capita/day)
-faostat__Oats__trade,Oats,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,16,47,7,1977,2023,Domestic supply quantity
-"faostat__Offals, Edible__consumption","Offals, Edible",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,60,1961,2023,Food supply (kcal/capita/day)
-"faostat__Offals, Edible__trade","Offals, Edible",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,92,67,63,51,1961,2023,Domestic supply quantity
-faostat__Offals__consumption,Offals,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,48,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Offals__trade,Offals,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,92,67,63,51,1961,2023,Domestic supply quantity
+faostat__Nuts and products__consumption,Nuts and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Nuts and products__trade,Nuts and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,48,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Oats__consumption,Oats,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,15,39,12,1974,2012,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Oats__trade,Oats,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,9,10,5,2014,2023,Import quantity
+"faostat__Offals, Edible__consumption","Offals, Edible",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,46,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Offals, Edible__trade","Offals, Edible",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,92,53,53,44,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Offals__consumption,Offals,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,36,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Offals__trade,Offals,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,92,53,53,44,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Oil of linseed__production,Oil of linseed,Agriculture Production,faostat-qcl,OK,,1,10,62,57,60,54,1961,2020,Production
 faostat__Oil of sesame seed__production,Oil of sesame seed,Agriculture Production,faostat-qcl,OK,,1,8,63,63,63,63,1961,2023,Production
-"faostat__Oilcrops Oil, Other__consumption","Oilcrops Oil, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,61,63,54,1961,2023,Food supply (kcal/capita/day)
-"faostat__Oilcrops Oil, Other__trade","Oilcrops Oil, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,35,1961,2023,Domestic supply quantity
+"faostat__Oilcrops Oil, Other__consumption","Oilcrops Oil, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,47,53,41,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Oilcrops Oil, Other__trade","Oilcrops Oil, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,22,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Oilcrops, Cake Equivalent__production","Oilcrops, Cake Equivalent",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Area harvested
 "faostat__Oilcrops, Oil Equivalent__price","Oilcrops, Oil Equivalent",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Oilcrops, Oil Equivalent__production","Oilcrops, Oil Equivalent",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Area harvested
-"faostat__Oilcrops, Other__consumption","Oilcrops, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,44,1961,2023,Food supply (kcal/capita/day)
-"faostat__Oilcrops, Other__trade","Oilcrops, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,28,1961,2023,Domestic supply quantity
-faostat__Oilcrops__consumption,Oilcrops,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,50,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Oilcrops__trade,Oilcrops,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,65,1961,2023,Domestic supply quantity
-faostat__Olive Oil__consumption,Olive Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,64,1961,2023,Food supply (kcal/capita/day)
-faostat__Olive Oil__trade,Olive Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,16,1961,2023,Domestic supply quantity
+"faostat__Oilcrops, Other__consumption","Oilcrops, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,31,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Oilcrops, Other__trade","Oilcrops, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,17,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Oilcrops__consumption,Oilcrops,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,37,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Oilcrops__trade,Oilcrops,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,51,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Olive Oil__consumption,Olive Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,50,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Olive Oil__trade,Olive Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,8,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Olive oil__production,Olive oil,Agriculture Production,faostat-qcl,OK,,1,7,63,63,63,52,1961,2023,Production
-faostat__Olives (including preserved)__consumption,Olives (including preserved),Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,57,1961,2023,Food supply (kcal/capita/day)
-faostat__Olives (including preserved)__trade,Olives (including preserved),Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,42,1961,2023,Domestic supply quantity
-faostat__Olives__price,Olives,Agriculture Prices,faostat-pp+pa,OK,,4,7,138,51,58,50,1966,2023,Producer Price (LCU/tonne)
+faostat__Olives (including preserved)__consumption,Olives (including preserved),Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,43,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Olives (including preserved)__trade,Olives (including preserved),Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,29,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Olives__price,Olives,Agriculture Prices,faostat-pp+pa,OK,,5,7,138,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Olives__production,Olives,Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,55,1961,2024,Yield
-"faostat__Onions and shallots, dry (excluding dehydrated)__price","Onions and shallots, dry (excluding dehydrated)",Agriculture Prices,faostat-pp+pa,OK,,4,11,159,58,58,56,1966,2023,Producer Price (LCU/tonne)
+"faostat__Onions and shallots, dry (excluding dehydrated)__price","Onions and shallots, dry (excluding dehydrated)",Agriculture Prices,faostat-pp+pa,OK,,5,11,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Onions and shallots, dry (excluding dehydrated)__production","Onions and shallots, dry (excluding dehydrated)",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,62,1961,2024,Production
-faostat__Onions__consumption,Onions,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,66,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Onions__trade,Onions,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,63,1961,2023,Domestic supply quantity
-"faostat__Oranges, Mandarines__consumption","Oranges, Mandarines",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-"faostat__Oranges, Mandarines__trade","Oranges, Mandarines",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,66,1961,2023,Domestic supply quantity
-faostat__Oranges__price,Oranges,Agriculture Prices,faostat-pp+pa,OK,,4,10,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+faostat__Onions__consumption,Onions,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Onions__trade,Onions,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Oranges, Mandarines__consumption","Oranges, Mandarines",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+"faostat__Oranges, Mandarines__trade","Oranges, Mandarines",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Oranges__price,Oranges,Agriculture Prices,faostat-pp+pa,OK,,5,10,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Oranges__production,Oranges,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,64,1961,2024,Yield
 "faostat__Other beans, green__price","Other beans, green",Agriculture Prices,faostat-pp+pa,OK,,1,7,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Other beans, green__production","Other beans, green",Agriculture Production,faostat-qcl,OK,,3,8,105,35,35,35,1990,2024,Area harvested
 faostat__Other berries and fruits of the genus vaccinium n.e.c.__price,Other berries and fruits of the genus vaccinium n.e.c.,Agriculture Prices,faostat-pp+pa,OK,,2,6,37,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Other berries and fruits of the genus vaccinium n.e.c.__production,Other berries and fruits of the genus vaccinium n.e.c.,Agriculture Production,faostat-qcl,OK,,3,6,192,64,64,55,1961,2024,Area harvested
-"faostat__Other citrus fruit, n.e.c.__price","Other citrus fruit, n.e.c.",Agriculture Prices,faostat-pp+pa,OK,,4,7,100,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+"faostat__Other citrus fruit, n.e.c.__price","Other citrus fruit, n.e.c.",Agriculture Prices,faostat-pp+pa,OK,,5,7,100,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Other citrus fruit, n.e.c.__production","Other citrus fruit, n.e.c.",Agriculture Production,faostat-qcl,OK,,3,7,192,64,64,64,1961,2024,Yield
-"faostat__Other fruits, n.e.c.__price","Other fruits, n.e.c.",Agriculture Prices,faostat-pp+pa,OK,,4,8,104,39,43,39,1967,2009,Producer Price (LCU/tonne)
+"faostat__Other fruits, n.e.c.__price","Other fruits, n.e.c.",Agriculture Prices,faostat-pp+pa,OK,,5,8,104,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Other fruits, n.e.c.__production","Other fruits, n.e.c.",Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,64,1961,2024,Yield
 "faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__price","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",Agriculture Prices,faostat-pp+pa,OK,,2,7,60,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production","Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,50,1961,2024,Production
 "faostat__Other oil seeds, n.e.c.__production","Other oil seeds, n.e.c.",Agriculture Production,faostat-qcl,OK,,3,6,191,63,64,42,1961,2024,Production
-faostat__Other pulses n.e.c.__price,Other pulses n.e.c.,Agriculture Prices,faostat-pp+pa,OK,,4,7,146,53,57,49,1967,2023,Producer Price (LCU/tonne)
+faostat__Other pulses n.e.c.__price,Other pulses n.e.c.,Agriculture Prices,faostat-pp+pa,OK,,5,7,146,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Other pulses n.e.c.__production,Other pulses n.e.c.,Agriculture Production,faostat-qcl,OK,,3,7,192,64,64,64,1961,2024,Yield
 "faostat__Other stimulant, spice and aromatic crops, n.e.c.__price","Other stimulant, spice and aromatic crops, n.e.c.",Agriculture Prices,faostat-pp+pa,OK,,4,4,71,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Other stimulant, spice and aromatic crops, n.e.c.__production","Other stimulant, spice and aromatic crops, n.e.c.",Agriculture Production,faostat-qcl,THIN,FLAT,3,5,117,30,30,2,1961,1990,Production
@@ -328,61 +328,61 @@ faostat__Other stone fruits__production,Other stone fruits,Agriculture Productio
 "faostat__Other tropical fruits, n.e.c.__production","Other tropical fruits, n.e.c.",Agriculture Production,faostat-qcl,OK,,3,4,171,43,43,42,1982,2024,Production
 "faostat__Other vegetables, fresh n.e.c.__price","Other vegetables, fresh n.e.c.",Agriculture Prices,faostat-pp+pa,OK,,2,10,60,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Other vegetables, fresh n.e.c.__production","Other vegetables, fresh n.e.c.",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,63,1961,2024,Production
-faostat__Palm Oil__consumption,Palm Oil,Food Consumption,faostat-fbs+fbsh,OK,,1,10,14,14,14,14,2010,2023,Food supply (kcal/capita/day)
-faostat__Palm Oil__trade,Palm Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,90,67,63,45,1961,2023,Domestic supply quantity
-faostat__Palm kernels__trade,Palm kernels,Agriculture Trade,faostat-fbs+fbsh,THIN,SPARSE|SHORT,1,9,53,5,5,4,2004,2008,Domestic supply quantity
-faostat__Palmkernel Oil__consumption,Palmkernel Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,9,134,46,51,44,1973,2023,Food supply (kcal/capita/day)
-faostat__Palmkernel Oil__trade,Palmkernel Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,89,39,50,14,1974,2023,Domestic supply quantity
+faostat__Palm Oil__consumption,Palm Oil,Food Consumption,faostat-fbs+fbsh,OK,,1,10,14,14,14,14,2010,2023,Food supply (kcal/capita/day) (FAO current series)
+faostat__Palm Oil__trade,Palm Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,90,53,53,32,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Palm kernels__trade,Palm kernels,Agriculture Trade,faostat-fbs+fbsh,THIN,SPARSE|SHORT,1,9,53,5,5,4,2004,2008,Domestic supply quantity (FAO historic series)
+faostat__Palmkernel Oil__consumption,Palmkernel Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,9,134,32,41,32,1973,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Palmkernel Oil__trade,Palmkernel Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,89,25,40,10,1974,2013,Domestic supply quantity (FAO historic series)
 faostat__Papayas__price,Papayas,Agriculture Prices,faostat-pp+pa,OK,,2,5,37,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Papayas__production,Papayas,Agriculture Production,faostat-qcl,OK,,3,5,171,43,43,42,1982,2024,Yield
-faostat__Peaches and nectarines__price,Peaches and nectarines,Agriculture Prices,faostat-pp+pa,OK,,4,11,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Peaches and nectarines__price,Peaches and nectarines,Agriculture Prices,faostat-pp+pa,OK,,5,11,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Peaches and nectarines__production,Peaches and nectarines,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,53,1961,2024,Yield
-faostat__Pears__price,Pears,Agriculture Prices,faostat-pp+pa,OK,,4,10,155,56,57,56,1967,2023,Producer Price (LCU/tonne)
+faostat__Pears__price,Pears,Agriculture Prices,faostat-pp+pa,OK,,5,10,155,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Pears__production,Pears,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,59,1961,2024,Production
 "faostat__Peas, dry__production","Peas, dry",Agriculture Production,faostat-qcl,DEAD,ALL_ZERO,2,9,8,0,0,0,,,Area harvested
 "faostat__Peas, green__price","Peas, green",Agriculture Prices,faostat-pp+pa,OK,,1,7,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Peas, green__production","Peas, green",Agriculture Production,faostat-qcl,OK,,3,8,105,35,35,35,1990,2024,Area harvested
-faostat__Peas__consumption,Peas,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,39,46,29,1976,2021,Food supply (kcal/capita/day)
-faostat__Peas__trade,Peas,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,92,31,48,20,1976,2023,Domestic supply quantity
-faostat__Pelagic Fish__consumption,Pelagic Fish,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,58,54,53,1970,2023,Food supply (kcal/capita/day)
-faostat__Pelagic Fish__trade,Pelagic Fish,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,58,54,55,1970,2023,Domestic supply quantity
-faostat__Pepper__consumption,Pepper,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,57,63,31,1961,2023,Food supply (kcal/capita/day)
-faostat__Pepper__trade,Pepper,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,42,60,6,1964,2023,Domestic supply quantity
-faostat__Persimmons__price,Persimmons,Agriculture Prices,faostat-pp+pa,OK,,4,4,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Peas__consumption,Peas,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,30,38,25,1976,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Peas__trade,Peas,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,92,22,38,15,1976,2013,Domestic supply quantity (FAO historic series)
+faostat__Pelagic Fish__consumption,Pelagic Fish,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,44,44,41,1970,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Pelagic Fish__trade,Pelagic Fish,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,44,44,43,1970,2013,Domestic supply quantity (FAO historic series)
+faostat__Pepper__consumption,Pepper,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,43,53,26,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Pepper__trade,Pepper,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,29,49,6,1964,2012,Domestic supply quantity (FAO historic series)
+faostat__Persimmons__price,Persimmons,Agriculture Prices,faostat-pp+pa,OK,,5,4,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Persimmons__production,Persimmons,Agriculture Production,faostat-qcl,OK,,3,5,192,64,64,47,1961,2024,Production
-faostat__Pigmeat__consumption,Pigmeat,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,19,19,14,1961,1979,Food supply (kcal/capita/day)
-faostat__Pigmeat__trade,Pigmeat,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,90,19,19,3,1961,1979,Domestic supply quantity
-faostat__Pimento__consumption,Pimento,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,28,1961,2023,Food supply (kcal/capita/day)
-faostat__Pimento__trade,Pimento,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,5,1961,2023,Domestic supply quantity
-faostat__Pineapples and products__consumption,Pineapples and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,27,46,23,1978,2023,Food supply (kcal/capita/day)
-faostat__Pineapples and products__trade,Pineapples and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,25,21,22,2003,2023,Domestic supply quantity
-"faostat__Pistachios, in shell__price","Pistachios, in shell",Agriculture Prices,faostat-pp+pa,OK,,4,4,156,57,58,56,1966,2023,Producer Price (LCU/tonne)
+faostat__Pigmeat__consumption,Pigmeat,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,19,19,14,1961,1979,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Pigmeat__trade,Pigmeat,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,90,19,19,3,1961,1979,Domestic supply quantity (FAO historic series)
+faostat__Pimento__consumption,Pimento,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,25,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Pimento__trade,Pimento,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,4,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Pineapples and products__consumption,Pineapples and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,14,14,12,2010,2023,Food supply quantity (kg/capita/yr) (FAO current series)
+faostat__Pineapples and products__trade,Pineapples and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,14,14,14,2010,2023,Import quantity
+"faostat__Pistachios, in shell__price","Pistachios, in shell",Agriculture Prices,faostat-pp+pa,OK,,5,4,156,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Pistachios, in shell__production","Pistachios, in shell",Agriculture Production,faostat-qcl,OK,,3,6,192,64,64,64,1961,2024,Yield
-faostat__Plums and sloes__price,Plums and sloes,Agriculture Prices,faostat-pp+pa,OK,,4,9,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Plums and sloes__price,Plums and sloes,Agriculture Prices,faostat-pp+pa,OK,,5,9,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Plums and sloes__production,Plums and sloes,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,54,1961,2024,Yield
-faostat__Pomelos and grapefruits__price,Pomelos and grapefruits,Agriculture Prices,faostat-pp+pa,OK,,4,6,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Pomelos and grapefruits__price,Pomelos and grapefruits,Agriculture Prices,faostat-pp+pa,OK,,5,6,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Pomelos and grapefruits__production,Pomelos and grapefruits,Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,61,1961,2024,Yield
-faostat__Potatoes and products__consumption,Potatoes and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Potatoes and products__trade,Potatoes and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,65,1961,2023,Domestic supply quantity
-faostat__Potatoes__price,Potatoes,Agriculture Prices,faostat-pp+pa,OK,,4,11,156,57,57,56,1966,2022,Producer Price (LCU/tonne)
+faostat__Potatoes and products__consumption,Potatoes and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Potatoes and products__trade,Potatoes and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Potatoes__price,Potatoes,Agriculture Prices,faostat-pp+pa,OK,,5,11,156,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Potatoes__production,Potatoes,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,62,1961,2024,Area harvested
 faostat__Poultry Birds__production,Poultry Birds,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,64,1961,2024,Stocks
-faostat__Poultry Meat__consumption,Poultry Meat,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Poultry Meat__trade,Poultry Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,63,1961,2023,Domestic supply quantity
-"faostat__Pulses, Other and products__consumption","Pulses, Other and products",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,66,1961,2023,Food supply (kcal/capita/day)
-"faostat__Pulses, Other and products__trade","Pulses, Other and products",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,64,1961,2023,Domestic supply quantity
+faostat__Poultry Meat__consumption,Poultry Meat,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Poultry Meat__trade,Poultry Meat,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,50,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Pulses, Other and products__consumption","Pulses, Other and products",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Pulses, Other and products__trade","Pulses, Other and products",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,51,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Pulses, Total__price","Pulses, Total",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Pulses, Total__production","Pulses, Total",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Yield
-faostat__Pulses__consumption,Pulses,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,61,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Pulses__trade,Pulses,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,60,1961,2023,Domestic supply quantity
+faostat__Pulses__consumption,Pulses,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,49,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Pulses__trade,Pulses,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,49,1961,2013,Domestic supply quantity (FAO historic series)
 "faostat__Pumpkins, squash and gourds__price","Pumpkins, squash and gourds",Agriculture Prices,faostat-pp+pa,OK,,2,11,37,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Pumpkins, squash and gourds__production","Pumpkins, squash and gourds",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Yield
-faostat__Quinces__price,Quinces,Agriculture Prices,faostat-pp+pa,OK,,4,6,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Quinces__price,Quinces,Agriculture Prices,faostat-pp+pa,OK,,5,6,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Quinces__production,Quinces,Agriculture Production,faostat-qcl,OK,,3,7,192,64,64,51,1961,2024,Yield
-faostat__Rape and Mustard Oil__consumption,Rape and Mustard Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,10,134,31,51,29,1973,2023,Food supply (kcal/capita/day)
-faostat__Rape and Mustard Oil__trade,Rape and Mustard Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,92,26,22,22,2002,2023,Domestic supply quantity
-faostat__Rape and Mustardseed__consumption,Rape and Mustardseed,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,31,27,8,1997,2023,Food supply (kcal/capita/day)
-faostat__Rape and Mustardseed__trade,Rape and Mustardseed,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,94,26,22,26,2002,2023,Domestic supply quantity
+faostat__Rape and Mustard Oil__consumption,Rape and Mustard Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,10,134,17,41,15,1973,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Rape and Mustard Oil__trade,Rape and Mustard Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,92,14,14,11,2010,2023,Domestic supply quantity (FAO current series)
+faostat__Rape and Mustardseed__consumption,Rape and Mustardseed,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,17,17,8,1997,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Rape and Mustardseed__trade,Rape and Mustardseed,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,94,14,14,14,2010,2023,Domestic supply quantity (FAO current series)
 faostat__Rape or colza seed__price,Rape or colza seed,Agriculture Prices,faostat-pp+pa,OK,,4,8,53,23,23,23,2003,2025,Producer Price Index (2014-2016 = 100)
 faostat__Rape or colza seed__production,Rape or colza seed,Agriculture Production,faostat-qcl,OK,,3,8,81,27,27,27,1998,2024,Area harvested
 "faostat__Rapeseed or canola oil, crude__production","Rapeseed or canola oil, crude",Agriculture Production,faostat-qcl,OK,,1,8,21,21,21,21,2003,2023,Production
@@ -392,127 +392,127 @@ faostat__Raw hides and skins of buffaloes__production,Raw hides and skins of buf
 faostat__Raw hides and skins of cattle__production,Raw hides and skins of cattle,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,60,1961,2024,Production
 faostat__Raw hides and skins of goats or kids__production,Raw hides and skins of goats or kids,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,53,1961,2024,Production
 faostat__Raw hides and skins of sheep or lambs__production,Raw hides and skins of sheep or lambs,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,59,1961,2024,Producing Animals/Slaughtered
-faostat__Raw milk of buffalo__price,Raw milk of buffalo,Agriculture Prices,faostat-pp+pa,OK,,4,3,140,51,57,50,1967,2023,Producer Price (LCU/tonne)
+faostat__Raw milk of buffalo__price,Raw milk of buffalo,Agriculture Prices,faostat-pp+pa,OK,,5,3,140,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Raw milk of buffalo__production,Raw milk of buffalo,Agriculture Production,faostat-qcl,OK,,3,6,192,64,64,48,1961,2024,Milk Animals
-faostat__Raw milk of cattle__price,Raw milk of cattle,Agriculture Prices,faostat-pp+pa,OK,,4,11,158,57,57,56,1967,2023,Producer Price (LCU/tonne)
+faostat__Raw milk of cattle__price,Raw milk of cattle,Agriculture Prices,faostat-pp+pa,OK,,5,11,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Raw milk of cattle__production,Raw milk of cattle,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,63,1961,2024,Production
-faostat__Raw milk of goats__price,Raw milk of goats,Agriculture Prices,faostat-pp+pa,OK,,4,9,137,50,57,49,1967,2023,Producer Price (LCU/tonne)
+faostat__Raw milk of goats__price,Raw milk of goats,Agriculture Prices,faostat-pp+pa,OK,,5,9,137,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Raw milk of goats__production,Raw milk of goats,Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,60,1961,2024,Production
-faostat__Raw milk of sheep__price,Raw milk of sheep,Agriculture Prices,faostat-pp+pa,OK,,4,7,158,57,57,56,1967,2023,Producer Price (LCU/tonne)
+faostat__Raw milk of sheep__price,Raw milk of sheep,Agriculture Prices,faostat-pp+pa,OK,,5,7,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Raw milk of sheep__production,Raw milk of sheep,Agriculture Production,faostat-qcl,OK,,3,7,192,64,64,58,1961,2024,Production
 faostat__Raw silk (not thrown)__production,Raw silk (not thrown),Agriculture Production,faostat-qcl,OK,,1,5,63,63,63,38,1961,2023,Production
 faostat__Rice (Milled Equivalent)__consumption,Rice (Milled Equivalent),Food Consumption,faostat-fbs+fbsh,OK,,2,10,106,53,53,53,1961,2013,Food supply quantity (kg/capita/yr)
 faostat__Rice (Milled Equivalent)__trade,Rice (Milled Equivalent),Agriculture Trade,faostat-fbs+fbsh,OK,,1,10,53,53,53,53,1961,2013,Domestic supply quantity
 faostat__Rice and products__consumption,Rice and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,28,14,14,14,2010,2023,Food supply quantity (kg/capita/yr)
 faostat__Rice and products__trade,Rice and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,42,14,14,14,2010,2023,Import quantity
-faostat__Rice__price,Rice,Agriculture Prices,faostat-pp+pa,OK,,4,10,159,58,58,57,1966,2023,Producer Price (LCU/tonne)
+faostat__Rice__price,Rice,Agriculture Prices,faostat-pp+pa,OK,,5,10,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Rice__production,Rice,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Yield
 "faostat__Roots and Tubers, Total__price","Roots and Tubers, Total",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Roots and Tubers, Total__production","Roots and Tubers, Total",Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,62,1961,2024,Area harvested
-faostat__Rye and products__consumption,Rye and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,22,46,10,1978,2023,Food supply (kcal/capita/day)
-faostat__Rye and products__trade,Rye and products,Agriculture Trade,faostat-fbs+fbsh,THIN,SPARSE,3,11,81,6,43,6,1978,2020,Domestic supply quantity
+faostat__Rye and products__consumption,Rye and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,13,14,6,2010,2023,Food supply (kcal/capita/day) (FAO current series)
+faostat__Rye and products__trade,Rye and products,Agriculture Trade,faostat-fbs+fbsh,THIN,SPARSE,4,11,81,5,29,5,1978,2006,Domestic supply quantity (FAO historic series)
 faostat__Rye__production,Rye,Agriculture Production,faostat-qcl,OK,,3,9,161,33,37,33,1988,2024,Yield
 faostat__Safflower seed__price,Safflower seed,Agriculture Prices,faostat-pp+pa,OK,,1,6,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Safflower seed__production,Safflower seed,Agriculture Production,faostat-qcl,OK,,3,6,166,38,57,38,1968,2024,Area harvested
-"faostat__Seed cotton, unginned__price","Seed cotton, unginned",Agriculture Prices,faostat-pp+pa,OK,,4,6,138,51,52,50,1966,2017,Producer Price (LCU/tonne)
+"faostat__Seed cotton, unginned__price","Seed cotton, unginned",Agriculture Prices,faostat-pp+pa,OK,,5,6,138,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Seed cotton, unginned__production","Seed cotton, unginned",Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,63,1961,2024,Production
-faostat__Sesame seed__consumption,Sesame seed,Food Consumption,faostat-fbs+fbsh,THIN,SPARSE|SHORT,2,9,10,5,5,5,2019,2023,Food supply quantity (kg/capita/yr)
-faostat__Sesame seed__price,Sesame seed,Agriculture Prices,faostat-pp+pa,OK,,4,6,156,57,58,57,1966,2023,Producer Price (LCU/tonne)
+faostat__Sesame seed__consumption,Sesame seed,Food Consumption,faostat-fbs+fbsh,THIN,SPARSE|SHORT,2,9,10,5,5,5,2019,2023,Food supply quantity (kg/capita/yr) (FAO current series)
+faostat__Sesame seed__price,Sesame seed,Agriculture Prices,faostat-pp+pa,OK,,5,6,156,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Sesame seed__production,Sesame seed,Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,44,1961,2024,Area harvested
-faostat__Sesame seed__trade,Sesame seed,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,36,1961,2023,Domestic supply quantity
-faostat__Sesameseed Oil__consumption,Sesameseed Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,10,134,67,63,63,1961,2023,Food supply (kcal/capita/day)
-faostat__Sesameseed Oil__trade,Sesameseed Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,19,1961,2023,Domestic supply quantity
+faostat__Sesame seed__trade,Sesame seed,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,27,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Sesameseed Oil__consumption,Sesameseed Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,10,134,53,53,49,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Sesameseed Oil__trade,Sesameseed Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,17,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Sheep and Goat Meat__production,Sheep and Goat Meat,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,62,1961,2024,Production
 faostat__Sheep and Goats__production,Sheep and Goats,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,60,1961,2024,Stocks
 "faostat__Sheep fat, unrendered__production","Sheep fat, unrendered",Agriculture Production,faostat-qcl,OK,,2,11,128,64,64,59,1961,2024,Producing Animals/Slaughtered
 faostat__Sheep__production,Sheep,Agriculture Production,faostat-qcl,OK,,1,11,64,64,64,57,1961,2024,Stocks
-"faostat__Shorn wool, greasy, including fleece-washed shorn wool__price","Shorn wool, greasy, including fleece-washed shorn wool",Agriculture Prices,faostat-pp+pa,OK,,4,8,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+"faostat__Shorn wool, greasy, including fleece-washed shorn wool__price","Shorn wool, greasy, including fleece-washed shorn wool",Agriculture Prices,faostat-pp+pa,OK,,5,8,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Shorn wool, greasy, including fleece-washed shorn wool__production","Shorn wool, greasy, including fleece-washed shorn wool",Agriculture Production,faostat-qcl,OK,,1,9,64,64,64,53,1961,2024,Production
-faostat__Silk-worm cocoons suitable for reeling__price,Silk-worm cocoons suitable for reeling,Agriculture Prices,faostat-pp+pa,OK,,4,5,134,49,57,48,1967,2023,Producer Price (LCU/tonne)
+faostat__Silk-worm cocoons suitable for reeling__price,Silk-worm cocoons suitable for reeling,Agriculture Prices,faostat-pp+pa,OK,,5,5,134,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Silk-worm cocoons suitable for reeling__production,Silk-worm cocoons suitable for reeling,Agriculture Production,faostat-qcl,OK,,1,5,64,64,64,33,1961,2024,Production
 "faostat__Skim Milk & Buttermilk, Dry__production","Skim Milk & Buttermilk, Dry",Agriculture Production,faostat-qcl,OK,,1,11,14,14,14,14,2010,2023,Production
 faostat__Skim milk and whey powder__production,Skim milk and whey powder,Agriculture Production,faostat-qcl,OK,,1,8,14,14,14,14,2010,2023,Production
 faostat__Skim milk of cows__production,Skim milk of cows,Agriculture Production,faostat-qcl,OK,,1,11,63,63,63,63,1961,2023,Production
-faostat__Sorghum and products__trade,Sorghum and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,86,12,37,12,1975,2011,Domestic supply quantity
-faostat__Sorghum__price,Sorghum,Agriculture Prices,faostat-pp+pa,OK,,1,10,25,25,25,18,1966,1990,Producer Price (LCU/tonne)
-faostat__Sour cherries__price,Sour cherries,Agriculture Prices,faostat-pp+pa,OK,,4,6,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Sorghum and products__trade,Sorghum and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,86,12,37,12,1975,2011,Domestic supply quantity (FAO historic series)
+faostat__Sorghum__price,Sorghum,Agriculture Prices,faostat-pp+pa,OK,,1,10,25,25,25,18,1966,1990,"Producer Price (LCU/tonne) (FAO archive prices, pre-1991)"
+faostat__Sour cherries__price,Sour cherries,Agriculture Prices,faostat-pp+pa,OK,,5,6,103,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Sour cherries__production,Sour cherries,Agriculture Production,faostat-qcl,OK,,3,6,192,64,64,56,1961,2024,Production
 faostat__Soya bean oil__production,Soya bean oil,Agriculture Production,faostat-qcl,OK,,1,11,63,63,63,54,1961,2023,Production
-faostat__Soya beans__price,Soya beans,Agriculture Prices,faostat-pp+pa,OK,,4,9,159,58,58,55,1966,2023,Producer Price (LCU/tonne)
+faostat__Soya beans__price,Soya beans,Agriculture Prices,faostat-pp+pa,OK,,5,9,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Soya beans__production,Soya beans,Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,55,1961,2024,Production
-faostat__Soyabean Oil__consumption,Soyabean Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Soyabean Oil__trade,Soyabean Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,91,67,63,66,1961,2023,Domestic supply quantity
-faostat__Soyabeans__trade,Soyabeans,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,58,1961,2023,Domestic supply quantity
-"faostat__Spices, Other__consumption","Spices, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,63,1961,2023,Food supply (kcal/capita/day)
-"faostat__Spices, Other__trade","Spices, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,33,1961,2023,Domestic supply quantity
-faostat__Spices__consumption,Spices,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,41,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Spices__trade,Spices,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,34,1961,2023,Domestic supply quantity
+faostat__Soyabean Oil__consumption,Soyabean Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Soyabean Oil__trade,Soyabean Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,91,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Soyabeans__trade,Soyabeans,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,44,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Spices, Other__consumption","Spices, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,50,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Spices, Other__trade","Spices, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,22,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Spices__consumption,Spices,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,35,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Spices__trade,Spices,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,23,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Spinach__price,Spinach,Agriculture Prices,faostat-pp+pa,OK,,4,8,80,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Spinach__production,Spinach,Agriculture Production,faostat-qcl,OK,,3,8,105,35,35,35,1990,2024,Area harvested
-faostat__Starchy Roots__consumption,Starchy Roots,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Starchy Roots__trade,Starchy Roots,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,64,1961,2023,Domestic supply quantity
-faostat__Stimulants__consumption,Stimulants,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,53,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Stimulants__trade,Stimulants,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,53,1961,2023,Domestic supply quantity
-faostat__Strawberries__price,Strawberries,Agriculture Prices,faostat-pp+pa,OK,,4,9,115,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+faostat__Starchy Roots__consumption,Starchy Roots,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Starchy Roots__trade,Starchy Roots,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,51,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Stimulants__consumption,Stimulants,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,42,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Stimulants__trade,Stimulants,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,42,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Strawberries__price,Strawberries,Agriculture Prices,faostat-pp+pa,OK,,5,9,115,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Strawberries__production,Strawberries,Agriculture Production,faostat-qcl,OK,,3,10,173,45,45,45,1980,2024,Area harvested
 faostat__String beans__price,String beans,Agriculture Prices,faostat-pp+pa,OK,,4,6,122,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
-faostat__Sugar & Sweeteners__consumption,Sugar & Sweeteners,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,66,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Sugar & Sweeteners__trade,Sugar & Sweeteners,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,65,1961,2023,Domestic supply quantity
-faostat__Sugar (Raw Equivalent)__consumption,Sugar (Raw Equivalent),Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Sugar (Raw Equivalent)__trade,Sugar (Raw Equivalent),Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,63,1961,2023,Domestic supply quantity
+faostat__Sugar & Sweeteners__consumption,Sugar & Sweeteners,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Sugar & Sweeteners__trade,Sugar & Sweeteners,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,51,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Sugar (Raw Equivalent)__consumption,Sugar (Raw Equivalent),Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Sugar (Raw Equivalent)__trade,Sugar (Raw Equivalent),Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,49,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Sugar Crops Primary__production,Sugar Crops Primary,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,64,1961,2024,Area harvested
-faostat__Sugar Crops__consumption,Sugar Crops,Food Consumption,faostat-fbs+fbsh,OK,,2,7,28,14,14,14,2010,2023,Food supply quantity (kg/capita/yr)
-faostat__Sugar Crops__trade,Sugar Crops,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,87,67,63,66,1961,2023,Domestic supply quantity
-faostat__Sugar beet__price,Sugar beet,Agriculture Prices,faostat-pp+pa,OK,,4,7,156,57,58,55,1966,2023,Producer Price (LCU/tonne)
+faostat__Sugar Crops__consumption,Sugar Crops,Food Consumption,faostat-fbs+fbsh,OK,,2,7,28,14,14,14,2010,2023,Food supply quantity (kg/capita/yr) (FAO current series)
+faostat__Sugar Crops__trade,Sugar Crops,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,87,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Sugar beet__price,Sugar beet,Agriculture Prices,faostat-pp+pa,OK,,5,7,156,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Sugar beet__production,Sugar beet,Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,64,1961,2024,Production
-faostat__Sugar beet__trade,Sugar beet,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,83,67,63,67,1961,2023,Domestic supply quantity
-faostat__Sugar cane__consumption,Sugar cane,Food Consumption,faostat-fbs+fbsh,OK,,2,5,28,14,14,14,2010,2023,Food supply quantity (kg/capita/yr)
-faostat__Sugar cane__price,Sugar cane,Agriculture Prices,faostat-pp+pa,OK,,4,5,96,37,57,34,1966,2022,Producer Price (LCU/tonne)
+faostat__Sugar beet__trade,Sugar beet,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,83,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Sugar cane__consumption,Sugar cane,Food Consumption,faostat-fbs+fbsh,OK,,2,5,28,14,14,14,2010,2023,Food supply quantity (kg/capita/yr) (FAO current series)
+faostat__Sugar cane__price,Sugar cane,Agriculture Prices,faostat-pp+pa,OK,,5,5,96,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Sugar cane__production,Sugar cane,Agriculture Production,faostat-qcl,OK,,3,6,192,64,64,63,1961,2024,Yield
-faostat__Sugar cane__trade,Sugar cane,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,75,67,63,62,1961,2023,Domestic supply quantity
-faostat__Sunflower seed__price,Sunflower seed,Agriculture Prices,faostat-pp+pa,OK,,4,8,159,58,58,56,1966,2023,Producer Price (LCU/tonne)
+faostat__Sugar cane__trade,Sugar cane,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,75,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Sunflower seed__price,Sunflower seed,Agriculture Prices,faostat-pp+pa,OK,,5,8,159,35,35,34,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Sunflower seed__production,Sunflower seed,Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,62,1961,2024,Production
-faostat__Sunflower seed__trade,Sunflower seed,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,65,61,50,1963,2023,Domestic supply quantity
+faostat__Sunflower seed__trade,Sunflower seed,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,51,51,37,1963,2013,Domestic supply quantity (FAO historic series)
 "faostat__Sunflower-seed oil, crude__production","Sunflower-seed oil, crude",Agriculture Production,faostat-qcl,OK,,1,9,63,63,63,62,1961,2023,Production
-faostat__Sunflowerseed Oil__consumption,Sunflowerseed Oil,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Sunflowerseed Oil__trade,Sunflowerseed Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,93,67,63,59,1961,2023,Domestic supply quantity
-"faostat__Sweeteners, Other__consumption","Sweeteners, Other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,57,63,50,1961,2023,Food supply (kcal/capita/day)
-"faostat__Sweeteners, Other__trade","Sweeteners, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,55,63,25,1961,2023,Domestic supply quantity
+faostat__Sunflowerseed Oil__consumption,Sunflowerseed Oil,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Sunflowerseed Oil__trade,Sunflowerseed Oil,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,93,53,53,46,1961,2013,Domestic supply quantity (FAO historic series)
+"faostat__Sweeteners, Other__consumption","Sweeteners, Other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,43,53,36,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Sweeteners, Other__trade","Sweeteners, Other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,41,53,13,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Tallow__production,Tallow,Agriculture Production,faostat-qcl,OK,,1,7,63,63,63,63,1961,2023,Production
-"faostat__Tangerines, mandarins, clementines__price","Tangerines, mandarins, clementines",Agriculture Prices,faostat-pp+pa,OK,,4,10,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
+"faostat__Tangerines, mandarins, clementines__price","Tangerines, mandarins, clementines",Agriculture Prices,faostat-pp+pa,OK,,5,10,124,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Tangerines, mandarins, clementines__production","Tangerines, mandarins, clementines",Agriculture Production,faostat-qcl,OK,,3,9,192,64,64,64,1961,2024,Area harvested
-faostat__Tea (including mate)__consumption,Tea (including mate),Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,57,1961,2023,Food supply (kcal/capita/day)
-faostat__Tea (including mate)__trade,Tea (including mate),Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,51,1961,2023,Domestic supply quantity
-faostat__Tea leaves__price,Tea leaves,Agriculture Prices,faostat-pp+pa,OK,,4,5,149,54,57,45,1967,2023,Producer Price (LCU/tonne)
+faostat__Tea (including mate)__consumption,Tea (including mate),Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,47,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Tea (including mate)__trade,Tea (including mate),Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,38,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Tea leaves__price,Tea leaves,Agriculture Prices,faostat-pp+pa,OK,,5,5,149,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Tea leaves__production,Tea leaves,Agriculture Production,faostat-qcl,OK,,3,5,192,64,64,64,1961,2024,Yield
-faostat__Tomatoes and products__consumption,Tomatoes and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Tomatoes and products__trade,Tomatoes and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,66,1961,2023,Domestic supply quantity
-faostat__Tomatoes__price,Tomatoes,Agriculture Prices,faostat-pp+pa,OK,,4,11,159,58,58,58,1966,2023,Producer Price (LCU/tonne)
+faostat__Tomatoes and products__consumption,Tomatoes and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Tomatoes and products__trade,Tomatoes and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,52,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Tomatoes__price,Tomatoes,Agriculture Prices,faostat-pp+pa,OK,,5,11,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Tomatoes__production,Tomatoes,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,61,1961,2024,Production
 "faostat__Treenuts, Total__price","Treenuts, Total",Agriculture Prices,faostat-pp+pa,OK,,1,8,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Treenuts, Total__production","Treenuts, Total",Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,64,1961,2024,Yield
-faostat__Treenuts__consumption,Treenuts,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,66,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Treenuts__trade,Treenuts,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,62,1961,2023,Domestic supply quantity
+faostat__Treenuts__consumption,Treenuts,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Treenuts__trade,Treenuts,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,48,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Turkeys__production,Turkeys,Agriculture Production,faostat-qcl,OK,,1,9,64,64,64,45,1961,2024,Stocks
-faostat__Unmanufactured tobacco__price,Unmanufactured tobacco,Agriculture Prices,faostat-pp+pa,OK,,4,9,137,50,57,50,1967,2023,Producer Price (LCU/tonne)
+faostat__Unmanufactured tobacco__price,Unmanufactured tobacco,Agriculture Prices,faostat-pp+pa,OK,,5,9,137,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Unmanufactured tobacco__production,Unmanufactured tobacco,Agriculture Production,faostat-qcl,OK,,3,10,192,64,64,64,1961,2024,Yield
-faostat__Vegetable Oils__consumption,Vegetable Oils,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,64,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Vegetable Oils__trade,Vegetable Oils,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,67,1961,2023,Domestic supply quantity
+faostat__Vegetable Oils__consumption,Vegetable Oils,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,52,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Vegetable Oils__trade,Vegetable Oils,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
 faostat__Vegetables Primary__price,Vegetables Primary,Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Vegetables Primary__production,Vegetables Primary,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Area harvested
 "faostat__Vegetables and Melons, Total__price","Vegetables and Melons, Total",Agriculture Prices,faostat-pp+pa,OK,,1,10,35,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
-"faostat__Vegetables, other__consumption","Vegetables, other",Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-"faostat__Vegetables, other__trade","Vegetables, other",Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,66,1961,2023,Domestic supply quantity
-faostat__Vegetables__consumption,Vegetables,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply quantity (kg/capita/yr)
-faostat__Vegetables__trade,Vegetables,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,67,1961,2023,Domestic supply quantity
-faostat__Vegetal Products__consumption,Vegetal Products,Food Consumption,faostat-fbs+fbsh,OK,,1,11,67,67,63,66,1961,2023,Food supply (kcal/capita/day)
-"faostat__Walnuts, in shell__price","Walnuts, in shell",Agriculture Prices,faostat-pp+pa,OK,,4,8,156,57,58,57,1966,2023,Producer Price (LCU/tonne)
+"faostat__Vegetables, other__consumption","Vegetables, other",Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+"faostat__Vegetables, other__trade","Vegetables, other",Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Vegetables__consumption,Vegetables,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply quantity (kg/capita/yr) (FAO historic series)
+faostat__Vegetables__trade,Vegetables,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Vegetal Products__consumption,Vegetal Products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,67,53,53,52,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+"faostat__Walnuts, in shell__price","Walnuts, in shell",Agriculture Prices,faostat-pp+pa,OK,,5,8,156,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 "faostat__Walnuts, in shell__production","Walnuts, in shell",Agriculture Production,faostat-qcl,OK,,3,8,192,64,64,56,1961,2024,Yield
-faostat__Watermelons__price,Watermelons,Agriculture Prices,faostat-pp+pa,OK,,4,11,158,57,57,57,1967,2023,Producer Price (LCU/tonne)
+faostat__Watermelons__price,Watermelons,Agriculture Prices,faostat-pp+pa,OK,,5,11,158,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Watermelons__production,Watermelons,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Production
-faostat__Wheat and products__consumption,Wheat and products,Food Consumption,faostat-fbs+fbsh,OK,,2,11,134,67,63,67,1961,2023,Food supply (kcal/capita/day)
-faostat__Wheat and products__trade,Wheat and products,Agriculture Trade,faostat-fbs+fbsh,OK,,3,11,95,67,63,67,1961,2023,Domestic supply quantity
-faostat__Wheat__price,Wheat,Agriculture Prices,faostat-pp+pa,OK,,4,11,159,58,58,58,1966,2023,Producer Price (LCU/tonne)
+faostat__Wheat and products__consumption,Wheat and products,Food Consumption,faostat-fbs+fbsh,OK,,4,11,134,53,53,53,1961,2013,Food supply (kcal/capita/day) (FAO historic series)
+faostat__Wheat and products__trade,Wheat and products,Agriculture Trade,faostat-fbs+fbsh,OK,,4,11,95,53,53,53,1961,2013,Domestic supply quantity (FAO historic series)
+faostat__Wheat__price,Wheat,Agriculture Prices,faostat-pp+pa,OK,,5,11,159,35,35,35,1991,2025,Producer Price Index (2014-2016 = 100)
 faostat__Wheat__production,Wheat,Agriculture Production,faostat-qcl,OK,,3,11,192,64,64,64,1961,2024,Area harvested
 "faostat__Whey, dry__production","Whey, dry",Agriculture Production,faostat-qcl,OK,,1,6,63,63,63,63,1961,2023,Production
 faostat__Whole milk powder__production,Whole milk powder,Agriculture Production,faostat-qcl,OK,,1,9,49,47,47,47,1961,2007,Production
@@ -530,22 +530,23 @@ iran_aluminum_production_1973_1980,Primary Aluminum (Ingot) Production,Mining & 
 iran_automotive_national_vehicle_production_1970_2018,National Motor Vehicle Production (incl. Paykan/Iran Khodro Milestones),Industry / Automotive,iran-automotive-industry:khodro-paykan-production-history,THIN,SPARSE,1,1,6,6,39,6,1967,2005,National vehicle production
 iran_barite_production_1961_1980,Barite Production,Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Barite),OK,,1,1,16,16,20,13,1961,1980,Barite
 iran_bizenv__national_index_1398_1404,Iran National Business Environment Monitoring Index (Annual & Quarterly),Business Cycle Indicators,iccima-iran,THIN,SHORT,1,1,9,9,6,8,2019,2024,National Business Environment Index
+iran_cbi__ppi_general_and_sectors_1996_2023,Producer Price Index,Prices & Inflation,cbi-iran-annual-review,OK,,3,1,119,69,27,60,1997,2023,Special group
 iran_cement_production_1954_1980,Cement (Hydraulic) Production,Mining & Minerals Production,pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959 + usgs-minerals-yearbook,OK,,2,1,21,16,20,12,1961,1980,"Cement, hydraulic"
-iran_census1996__population_by_sex_residence,"Population by Sex and Urban/Rural-Resident/Non-Resident Status, 1996 Census",Demographics & Population,sci-amar-via-iran-census-historical,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,12,1,12,1,1,1,1996,1996,both — total_population
+iran_census1996__population_by_sex_residence,"Population by Sex and Urban/Rural-Resident/Non-Resident Status, 1996 Census",Demographics & Population,sci-amar-via-iran-census-historical,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,12,1,12,1,1,1,1996,1996,"Both, Total population"
 iran_census__fertility_family_planning_1956_1991,"Fertility, Family Planning & Contraceptive Distribution (1956-1991)",Health,iranica-online,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,9,1,5,1,1,1,1986,1986,Average number of children born per woman
-iran_census__household_development_by_residence_1976_2016,Households & Average Household Size by Urban/Rural Residence (1976-2016),Demographics & Population,sci-iran-census,THIN,SPARSE,6,1,36,6,41,6,1976,2016,households
-iran_census__household_size_by_province_2011,Average Household Size by Province (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,31,1,62,2,6,2,2006,2011,average_household_size — Eastern Azerbaijan
-iran_census__housing_tenure_type_2006_2016,"Housing Tenure Type, National (2006-2016)",Demographics & Population,sci-iran-census,OK,MANY_VARIANTS,10,1,41,9,11,9,2006,2016,tenure_owned_land_and_building
-iran_census__marital_status_2006_2016,Population Aged 10+ by Marital Status and Sex (2006-2016),Demographics & Population,sci-iran-census,THIN,SPARSE|MANY_VARIANTS,10,1,30,3,11,3,2006,2016,marital_status_married_male
+iran_census__household_development_by_residence_1976_2016,Households & Average Household Size by Urban/Rural Residence (1976-2016),Demographics & Population,sci-iran-census,THIN,SPARSE,6,1,36,6,41,6,1976,2016,Households
+iran_census__household_size_by_province_2011,Average Household Size by Province (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,31,1,62,2,6,2,2006,2011,"Average household size, Eastern Azerbaijan"
+iran_census__housing_tenure_type_2006_2016,"Housing Tenure Type, National (2006-2016)",Demographics & Population,sci-iran-census,OK,MANY_VARIANTS,10,1,41,9,11,9,2006,2016,Tenure owned land and building
+iran_census__marital_status_2006_2016,Population Aged 10+ by Marital Status and Sex (2006-2016),Demographics & Population,sci-iran-census,THIN,SPARSE|MANY_VARIANTS,10,1,30,3,11,3,2006,2016,Marital status married male
 iran_census__marriage_migration_patterns_1956_1991,"Marriage Age Gap, Internal Migration & Post-Revolution Exile Population (1956-1991)",Demographics & Population,iranica-online,THIN,SPARSE|FLAT|MANY_VARIANTS,8,1,7,2,11,2,1976,1986,Share of women aged 10-49 who were married
-iran_census__mean_median_age_by_residence_2006_2016,Mean & Median Age of Population by Urban/Rural Residence (2006-2016),Demographics & Population,sci-iran-census,THIN,SPARSE|MANY_VARIANTS,8,1,24,3,11,3,2006,2016,mean_age_both_sexes
+iran_census__mean_median_age_by_residence_2006_2016,Mean & Median Age of Population by Urban/Rural Residence (2006-2016),Demographics & Population,sci-iran-census,THIN,SPARSE|MANY_VARIANTS,8,1,24,3,11,3,2006,2016,Mean age both sexes
 iran_census__nomadic_population_1900_1990s,Nomadic Population Counts & Share of Rural Population (c.1900-1990s),Demographics & Population,iranica-online,THIN,SPARSE|SHORT|FLAT,4,1,4,1,1,1,1987,1987,"Total nomadic population (first dedicated nomad census, summer 1987)"
-iran_census__population_by_nationality_citizenship_2006_2016,"Population by Citizenship/Nationality, 2006-2016",Migration,sci-iran-census,THIN,SPARSE|MANY_VARIANTS,13,1,32,3,11,3,2006,2016,nationality_iran
-iran_census__population_by_religion_2011,Population by Religion (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT|FLAT,6,1,12,2,6,2,2006,2011,religion_muslim — Total country
+iran_census__population_by_nationality_citizenship_2006_2016,"Population by Citizenship/Nationality, 2006-2016",Migration,sci-iran-census,THIN,SPARSE|MANY_VARIANTS,13,1,32,3,11,3,2006,2016,Nationality iran
+iran_census__population_by_religion_2011,Population by Religion (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT|FLAT,6,1,12,2,6,2,2006,2011,"Religion muslim, Total country"
 iran_census__premodern_local_counts_1868_1884,"Pre-Modern Local Population Counts (Tehran 1868, Shiraz 1883-84, Kerman 1874)",Demographics & Population,iranica-online,THIN,SPARSE|SHORT|FLAT,5,1,4,1,1,1,1874,1874,Population of Kerman city
-iran_census__sex_ratio_by_province_2011,Sex Ratio (Males per 100 Females) by Province (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,31,1,62,2,6,2,2006,2011,sex_ratio_males_per_100_females — Eastern Azerbaijan
+iran_census__sex_ratio_by_province_2011,Sex Ratio (Males per 100 Females) by Province (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,31,1,62,2,6,2,2006,2011,"Sex ratio males per 100 females, Eastern Azerbaijan"
 iran_census__tehran_city_population_growth_1956_1972,"Tehran City Population, Household Size & National Primacy Share (1956-1972)",Demographics & Population,world-bank-archives-iran,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,11,1,11,1,1,1,1966,1966,Tehran share of national population
-iran_census__urban_rural_household_indicators_2011,Household Size & Sex Share by Urban/Rural Residence (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT,4,1,24,6,6,6,2006,2011,households — Total country
+iran_census__urban_rural_household_indicators_2011,Household Size & Sex Share by Urban/Rural Residence (2011 Census),Demographics & Population,sci-iran-census,THIN,SPARSE|SHORT,4,1,24,6,6,6,2006,2011,"Households, Total country"
 iran_census__wb_archives_reproduction_family_size_1966_1982,"Gross/Net Reproduction Rate & Completed Family Size, Rural vs. Tehran (1966-1982)",Health,world-bank-archives-iran,THIN,SPARSE|FLAT|MANY_VARIANTS,9,1,10,2,11,2,1972,1982,Gross reproduction rate (Plan Organization projection made in 1971)
 iran_chromite_production_1961_1980,Chromite (Chrome Ore) Production,Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Chromite (gross weight)),OK,,1,1,16,16,20,12,1961,1980,Chromite (gross weight)
 iran_cigarette_production_1954_1959,Cigarette Production,Industry / Light Manufacturing,pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959,THIN,SPARSE|SHORT,1,1,5,5,5,4,1955,1959,Cigarettes
@@ -553,117 +554,121 @@ iran_coal_production_1961_1980,Coal Production (Non-Oil),Mining & Minerals Produ
 iran_coke_production_1961_1980,Coke Production,Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Coke),OK,,1,1,16,16,20,8,1961,1980,Coke
 iran_copper_production_by_stage_1961_1980,"Copper Production, Mine Output, Smelter Output & Refined",Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Copper'),OK,,4,1,32,11,13,11,1968,1980,Copper mine output (metal content)
 iran_crude_steel_production_1973_1980,Crude Steel Production,Mining & Minerals Production,"usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Steel, crude)",OK,,1,1,8,8,8,6,1973,1980,"Steel, crude"
-iran_data_portal__employment_by_gender_1966_2011,"Employment by Gender, Absolute Headcounts & Female Share (1966-2011)",Labor & Employment,iran-data-portal,OK,,4,1,184,46,46,46,1967,2012,employed male
+iran_data_portal__employment_by_gender_1966_2011,"Employment by Gender, Absolute Headcounts & Female Share (1966-2011)",Labor & Employment,iran-data-portal,OK,,4,1,184,46,46,46,1967,2012,Employed male
 iran_data_portal__employment_by_sector_1956_2011,"Employment by Sector, 14-Sector Breakdown, Absolute Headcounts (1956-2011)",Labor & Employment,iran-data-portal,OK,MANY_VARIANTS,14,1,784,56,56,56,1957,2012,Agriculture
 iran_data_portal__housing_units_by_household_size_1966_2006,"Housing Units by Number of Resident Households, Census Years (1966-2006)",Housing,iran-data-portal,THIN,SPARSE,5,1,25,5,41,5,1966,2006,Total housing units
-iran_disasters__employed_by_occupation_gender_2005_2013,"Employed Persons by Occupation Category x Sex x Urban/Rural/Total, Annual (2005-2013)",Labor & Employment,iran-data-portal,OK,MANY_VARIANTS,11,1,99,9,9,9,2006,2014,Total — Both — total
-iran_disasters__mean_age_at_first_marriage_1966_2006,"Mean Age at First Marriage by Sex, Urban/Rural/Total (6 Census Years, 1966-2006)",Social Statistics (Marriage & Vital Registration),iran-data-portal,THIN,SPARSE,6,1,36,6,41,6,1966,2006,total — Male
-iran_disasters__registered_births_by_sex_1991_2006,"Registered Births by Sex, National Annual (1991-2006) + All Provinces (2006)",Demographics & Population,iran-data-portal,OK,,3,1,72,24,16,24,1991,2006,Both — Total country
-iran_disasters__ssi_pensioners_amounts_paid_1991_2006,"Social Security Organization Pensioners & Amounts Paid, by Category (1991-2006)",Social Protection,iran-data-portal,OK,MANY_VARIANTS,11,1,85,8,16,8,1991,2006,total — number
-iran_energy__national_balance_1386_1394,Iran National Energy Balance Sheet (SH1386-1394),Energy,iran-data-portal,OK,MANY_VARIANTS,12,1,108,9,9,9,2007,2015,production — total_energy
-iran_energy__natural_gas_consumption_1370_1385,"Natural Gas Consumption: Flared, Delivered to NIGC, Injection",Energy,iran-data-portal,OK,,3,1,24,8,16,8,1991,2006,Gas delivered to National Iranian Gas  Company
+iran_disasters__employed_by_occupation_gender_2005_2013,"Employed Persons by Occupation Category x Sex x Urban/Rural/Total, Annual (2005-2013)",Labor & Employment,iran-data-portal,OK,MANY_VARIANTS,11,1,99,9,9,9,2006,2014,"Total, Both, total"
+iran_disasters__mean_age_at_first_marriage_1966_2006,"Mean Age at First Marriage by Sex, Urban/Rural/Total (6 Census Years, 1966-2006)",Social Statistics (Marriage & Vital Registration),iran-data-portal,THIN,SPARSE,6,1,36,6,41,6,1966,2006,"Total, Male"
+iran_disasters__registered_births_by_sex_1991_2006,"Registered Births by Sex, National Annual (1991-2006) + All Provinces (2006)",Demographics & Population,iran-data-portal,OK,,3,1,72,24,16,24,1991,2006,"Both, Total country"
+iran_disasters__ssi_pensioners_amounts_paid_1991_2006,"Social Security Organization Pensioners & Amounts Paid, by Category (1991-2006)",Social Protection,iran-data-portal,OK,MANY_VARIANTS,11,1,85,8,16,8,1991,2006,"Total, number"
+iran_energy__national_balance_1386_1394,Iran National Energy Balance Sheet (SH1386-1394),Energy,iran-data-portal,OK,MANY_VARIANTS,12,1,108,9,9,9,2007,2015,"Production, Total energy"
+iran_energy__natural_gas_consumption_1370_1385,"Natural Gas Consumption: Flared, Delivered to NIGC, Injection",Energy,iran-data-portal,OK,,3,1,24,8,16,8,1991,2006,Gas delivered to National Iranian Gas Company
 iran_energy__npc_petrochemical_production_1375_1385,National Petrochemical Company Production by Category,Energy,iran-data-portal,THIN,SPARSE,6,1,42,7,11,7,1996,2006,Total
-iran_energy__oil_product_domestic_consumption_cbi_1996_2017,Oil Product Domestic Consumption,Energy,"cbi-iran-annual-review (Table 8, sourced to Ministry of Petroleum)",OK,MANY_VARIANTS,7,1,153,22,22,22,1996,2017,total
-iran_energy__oil_product_production_by_refinery_sci_2001_2017,Oil Product Production by Refinery,Energy,"sci-amar (Statistical Yearbook 1399, Ch.7 Table 7.3, sourced to Ministry of Oil)",THIN,SPARSE|MANY_VARIANTS,10,1,40,6,17,6,2001,2017,liquefied gas
+iran_energy__oil_product_domestic_consumption_cbi_1996_2017,Oil Product Domestic Consumption,Energy,"cbi-iran-annual-review (Table 8, sourced to Ministry of Petroleum)",OK,MANY_VARIANTS,7,1,153,22,22,22,1996,2017,Total
+iran_energy__oil_product_production_by_refinery_sci_2001_2017,Oil Product Production by Refinery,Energy,"sci-amar (Statistical Yearbook 1399, Ch.7 Table 7.3, sourced to Ministry of Oil)",THIN,SPARSE|MANY_VARIANTS,10,1,40,6,17,6,2001,2017,Liquefied gas
 iran_energy__oil_products_imports_1370_1385,"Oil Product Imports by Type (Motor Spirit, Kerosene, Gas Oil, Aviation Spirit)",Energy,iran-data-portal,OK,,5,1,40,8,16,8,1991,2006,Total
-iran_fx__gold_coin_bahar_azadi_price_daily_2013_2026,"Bahar Azadi Gold Coin Price, Rial, Daily (2013-07-22 to 2026-07-11)",Precious Metals Prices,tgju,OK,MANY_VARIANTS,7,1,22359,3432,14,2449,2013,2026,Bahar Azadi gold coin price — open
-iran_fx__gold_coin_emami_price_daily_2010_2026,"Emami Gold Coin Price, Rial, Daily (2010-04-04 to 2026-07-11)",Precious Metals Prices,tgju,OK,MANY_VARIANTS,7,1,27243,4237,17,3423,2010,2026,Emami gold coin price — open
+iran_fx__gold_coin_bahar_azadi_price_daily_2013_2026,"Bahar Azadi Gold Coin Price, Rial, Daily (2013-07-22 to 2026-07-11)",Precious Metals Prices,tgju,OK,MANY_VARIANTS,7,1,22359,3432,14,2449,2013,2026,"Bahar Azadi gold coin price, open"
+iran_fx__gold_coin_emami_price_daily_2010_2026,"Emami Gold Coin Price, Rial, Daily (2010-04-04 to 2026-07-11)",Precious Metals Prices,tgju,OK,MANY_VARIANTS,7,1,27243,4237,17,3423,2010,2026,"Emami gold coin price, open"
 iran_gasoline_consumption_1955_1972,National Gasoline Consumption,Energy / Transport,pahlavi-era-primary-extraction:wb1962-gasoline-consumption-1955-1962,OK,,1,1,18,18,17,18,1956,1972,Gasoline consumption
-iran_giews__cereal_import_requirements_2010_2027,GIEWS Cereal Import Requirement Forecasts by Grain Type (2010/11-2026/27),Trade (Imports),fao-giews,THIN,,5,1,51,15,0,10,,,wheat
+iran_giews__cereal_import_requirements_2010_2027,GIEWS Cereal Import Requirement Forecasts by Grain Type (2010/11-2026/27),Trade (Imports),fao-giews,THIN,,5,1,51,15,0,10,,,Wheat
 iran_giews__wheat_guaranteed_purchase_price_2013_2026,"Government-Guaranteed Wheat Procurement Price, Common & Durum (2013-2026)",Government Finance,fao-giews,OK,,2,1,12,8,14,7,2013,2026,Common wheat guaranteed purchase price
 iran_gypsum_production_1968_1980,Gypsum Production,Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Gypsum),OK,,1,1,11,11,13,10,1968,1980,Gypsum
-iran_household__heis_analysis_growth_poverty_gini_2023_2025,"Household Expenditure, Poverty and Inequality",Household Consumption,salehi-isfahani-heis-analysis,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,10,1,12,2,2,2,2023,2024,poverty rate pct
-iran_imidro__exports_by_product_group_2011_2015,IMIDRO Subsidiary Exports by Product Group,Trade & Investment,imidro-iran,THIN,SPARSE|SHORT,5,1,20,4,3,3,2012,2014,export — Steel — value
-iran_imidro__sales_by_product_group_2011_2015,IMIDRO Subsidiary Sales by Product Group,Trade & Investment,imidro-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,7,1,27,4,3,4,2012,2014,sales — Total — value
-iran_insurance__bmi_own_financial_highlights_1386_1391,Bimeh Markazi Iran (Reinsurer) Own Financial Highlights,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SHORT|MANY_VARIANTS,8,1,96,12,6,8,2007,2012,incurred_loss_million_irr
-iran_insurance__companies_by_ownership_1385_1391,Iranian Insurance Companies by Ownership Type (State vs. Private) & Employment,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SHORT|MANY_VARIANTS,9,1,90,10,7,10,2006,2012,state_owned_employees
-iran_insurance__earned_premium_by_class_1383_1389,Insurance Earned Premium by Class,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,12,1,40,4,7,4,2004,2010,Fire — earned_premium_million_irr
-iran_insurance__incurred_loss_by_class_1383_1389,Insurance Incurred Loss by Class,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,12,1,40,4,7,4,2004,2010,Fire — incurred_loss_million_irr
-iran_insurance__market_direct_premium_1379_1384,Iranian Insurance Market: Direct Premium Written & Growth Rate,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SPARSE|SHORT,2,1,12,6,6,6,2000,2005,direct_premium_million_irr
-iran_insurance__market_earned_premium_incurred_loss_1379_1391,"Iranian Insurance Market: Earned Premium, Incurred Loss & Loss Ratio",Financial Sector / Insurance,bimeh-markazi-iran,OK,,3,1,78,26,13,19,2000,2012,loss_ratio_pct
-iran_insurance__sales_network_1382_1391,Iranian Insurance Market: Sales Network (SH1382-1391),Financial Sector / Insurance,bimeh-markazi-iran,OK,MANY_VARIANTS,8,1,139,19,10,14,2003,2012,number_of_policies
+iran_household__heis_analysis_growth_poverty_gini_2023_2025,"Household Expenditure, Poverty and Inequality",Household Consumption,salehi-isfahani-heis-analysis,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,10,1,12,2,2,2,2023,2024,Poverty rate pct
+iran_imidro__exports_by_product_group_2011_2015,IMIDRO Subsidiary Exports by Product Group,Trade & Investment,imidro-iran,THIN,SPARSE|SHORT,5,1,20,4,3,3,2012,2014,"Export, Steel, value"
+iran_imidro__sales_by_product_group_2011_2015,IMIDRO Subsidiary Sales by Product Group,Trade & Investment,imidro-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,7,1,27,4,3,4,2012,2014,"Sales, Total, value"
+iran_insurance__bmi_own_financial_highlights_1386_1391,Bimeh Markazi Iran (Reinsurer) Own Financial Highlights,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SHORT|MANY_VARIANTS,8,1,96,12,6,8,2007,2012,Incurred loss million irr
+iran_insurance__companies_by_ownership_1385_1391,Iranian Insurance Companies by Ownership Type (State vs. Private) & Employment,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SHORT|MANY_VARIANTS,9,1,90,10,7,10,2006,2012,State owned employees
+iran_insurance__earned_premium_by_class_1383_1389,Insurance Earned Premium by Class,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,12,1,40,4,7,4,2004,2010,"Fire, Earned premium million irr"
+iran_insurance__incurred_loss_by_class_1383_1389,Insurance Incurred Loss by Class,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,12,1,40,4,7,4,2004,2010,"Fire, Incurred loss million irr"
+iran_insurance__market_direct_premium_1379_1384,Iranian Insurance Market: Direct Premium Written & Growth Rate,Financial Sector / Insurance,bimeh-markazi-iran,THIN,SPARSE|SHORT,2,1,12,6,6,6,2000,2005,Direct premium million irr
+iran_insurance__market_earned_premium_incurred_loss_1379_1391,"Iranian Insurance Market: Earned Premium, Incurred Loss & Loss Ratio",Financial Sector / Insurance,bimeh-markazi-iran,OK,,3,1,78,26,13,19,2000,2012,Loss ratio pct
+iran_insurance__sales_network_1382_1391,Iranian Insurance Market: Sales Network (SH1382-1391),Financial Sector / Insurance,bimeh-markazi-iran,OK,MANY_VARIANTS,8,1,139,19,10,14,2003,2012,Number of policies
 iran_iron_ore_production_1961_1980,Iron Ore Production (Gross Weight),Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Iron ore'),OK,,2,1,16,13,20,11,1961,1980,Iron ore (gross weight)
 iran_lead_production_by_stage_1961_1980,"Lead Production, Mine Output & Smelter/Ingot Output",Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Lead'),OK,,2,1,22,16,20,12,1961,1980,Lead - content of concentrate / mine output metal content
 iran_manganese_ore_production_1961_1980,Manganese Ore Production,Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Manganese'),OK,,1,1,16,16,20,11,1961,1980,Manganese ore (gross weight)
-iran_media__cinema_theaters_attendance_1932_1986,Cinema: Movie-House Counts & Audience Attendance (1932-1986),Media & Culture,iran-media-history:iranica-cinema-history,THIN,SPARSE|FLAT|MANY_VARIANTS,10,1,12,2,30,2,1950,1979,cinemas_total
-iran_media__film_production_industry_1941_1982,"Film Production, Distribution & Censorship (1941-1982)",Media & Culture,iran-media-history:iranica-cinema-history,THIN,SPARSE,4,1,12,4,18,4,1959,1976,full_length_films_produced
-iran_media__press_periodicals_1898_1988,"Newspaper & Periodical Counts, Adult Literacy by Gender (1898-1988)",Media & Culture,iran-media-history:iranica-press-newspapers,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,13,1,13,1,1,1,1898,1898,first_daily_newspaper_founded
-iran_monetary__government_debt_to_central_bank_1978_2016,Government Debt to the Central Bank,Government Finance,iran-data-portal,OK,,3,1,462,154,39,154,1978,2016,govt debt to cbi total
+iran_media__cinema_theaters_attendance_1932_1986,Cinema: Movie-House Counts & Audience Attendance (1932-1986),Media & Culture,iran-media-history:iranica-cinema-history,THIN,SPARSE|FLAT|MANY_VARIANTS,10,1,12,2,30,2,1950,1979,Cinemas total
+iran_media__film_production_industry_1941_1982,"Film Production, Distribution & Censorship (1941-1982)",Media & Culture,iran-media-history:iranica-cinema-history,THIN,SPARSE,4,1,12,4,18,4,1959,1976,Full length films produced
+iran_media__press_periodicals_1898_1988,"Newspaper & Periodical Counts, Adult Literacy by Gender (1898-1988)",Media & Culture,iran-media-history:iranica-press-newspapers,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,13,1,13,1,1,1,1898,1898,First daily newspaper founded
+iran_monetary__government_debt_to_central_bank_1978_2016,Government Debt to the Central Bank,Government Finance,iran-data-portal,OK,,3,1,462,154,39,154,1978,2016,Govt debt to cbi total
 iran_monetary__liquidity_m2_monetary_base_2000_2023,Money Supply and Monetary Base,Government Finance,cbi-iran,OK,,4,1,56,23,23,23,2001,2023,Liquidity (M2)
 iran_opec__heavy_crude_spot_price_2020_2024,"Iran Heavy Crude Oil Spot Price, OPEC Reference Basket (2020-2024)",Energy,opec-asb,THIN,SPARSE|SHORT,1,1,5,5,5,5,2020,2024,Iran Heavy crude oil spot price (OPEC Reference Basket component)
 iran_opec__natural_gas_2020_2024,"Natural Gas Reserves, Production, Exports, Imports & Demand (OPEC, 2020-2024)",Energy,opec-asb,THIN,SPARSE|SHORT,5,1,25,5,5,5,2020,2024,Natural gas marketed production
 iran_pig_iron_production_1973_1980,Pig Iron Production,Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Pig iron),OK,,1,1,8,8,8,7,1973,1980,Pig iron
-iran_pmi__sectoral_fy1403,Iran Purchasing Managers' Index (PMI) by Manufacturing Sub-Sector (13 sectors),Business Cycle Indicators,iccima-iran,THIN,SHORT|MANY_VARIANTS,13,1,2028,156,2,151,2024,2025,Purchasing Managers’ Index (PMI) – Manufacturing Sector
-iran_pmi__whole_economy_fy1403,"Iran Purchasing Managers' Index (PMI), Whole Economy, Monthly",Business Cycle Indicators,iccima-iran,THIN,SHORT,1,1,156,156,2,151,2024,2025,Purchasing Managers’ Index (PMI) – Whole Economy
+iran_pmi__sectoral_fy1403,Iran Purchasing Managers' Index (PMI) by Manufacturing Sub-Sector (13 sectors),Business Cycle Indicators,iccima-iran,THIN,SHORT|MANY_VARIANTS,13,1,2028,156,2,151,2024,2025,"Purchasing Managers’ Index (PMI), Manufacturing Sector"
+iran_pmi__whole_economy_fy1403,"Iran Purchasing Managers' Index (PMI), Whole Economy, Monthly",Business Cycle Indicators,iccima-iran,THIN,SHORT,1,1,156,156,2,151,2024,2025,"Purchasing Managers’ Index (PMI), Whole Economy"
 iran_processed_sugar_output_pahlavi_era,Processed (Refined) Sugar Output,Industry / Light Manufacturing,pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959,THIN,SPARSE|SHORT,1,1,5,5,5,5,1955,1959,Sugar
 iran_processed_tea_output_pahlavi_era,"Processed Tea Output (Manufacturing, not Raw Leaf)",Industry / Light Manufacturing,pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959,THIN,SPARSE|SHORT,1,1,5,5,5,4,1955,1959,Tea
-iran_provincial__bank_loan_deposit_ratio_1397_1401,Bank Loan-to-Deposit Ratio by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,32,1,160,2,2,2,2019,2020,bank_loans_to_deposits_ratio_pct — کل کشور
-iran_provincial__capital_expenditure_share_1397_1401,Capital Expenditure Budget Execution Share by Province,Government Finance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,capital_expenditure_share_pct — آذربايجان شرقي ..............
-iran_provincial__current_expenditure_share_1397_1401,Current Expenditure Budget Execution Share by Province,Government Finance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,current_expenditure_share_pct — آذربايجان شرقي ..............
-iran_provincial__foreign_investment_1398_1400,Foreign Investment Value by Province,Trade & Investment,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,96,3,3,3,2019,2021,foreign_investment_value_thousand_usd — کل کشور (1)
-iran_provincial__gdp_per_capita_excl_oil_1393_1397,Non-Oil GDP Per Capita by Province,Macro / National Accounts,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2014,2018,gdp_per_capita_excl_oil_thousand_rial — کل کشور
-iran_provincial__industrial_production_value_share_1396_1400,Industrial Production Value Share by Province,Industry / Value Added by Sector,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2017,2021,industrial_production_value_share_pct — آذربايجان شرقي
-iran_provincial__industrial_workshop_count_share_1396_1400,Industrial Workshop Count Share by Province,Industry / Value Added by Sector,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2017,2021,industrial_workshop_count_share_pct — آذربايجان شرقي
-iran_provincial__insurance_claims_paid_share_1397_1401,Insurance Claims Paid Share by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,insurance_claims_paid_share_pct — اردبيل
-iran_provincial__insurance_premium_per_capita_1397_1401,Insurance Premium per Capita by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,insurance_premium_per_capita_million_rial — کل کشور
-iran_provincial__insurance_premium_written_share_1397_1401,Insurance Premium Written Share by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,insurance_premium_written_share_pct — تهران
-iran_provincial__mining_production_value_1397_1401,Value of Mine Production Share by Province,Industry / Value Added by Sector,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,mine_production_value_share_pct — آذربايجان شرقی
-iran_railways_income_expense_1953_1961,"Iranian State Railways, Income & Expense Account",Infrastructure (Transport) / Government Finance,pahlavi-era-primary-extraction:wb1962-railways-income-expense-1953-1961,OK,,3,1,24,8,8,8,1954,1961,gross revenues
+iran_provincial__bank_loan_deposit_ratio_1397_1401,Bank Loan-to-Deposit Ratio by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,32,1,160,2,2,2,2019,2020,"Bank loans to deposits ratio pct, کل کشور"
+iran_provincial__capital_expenditure_share_1397_1401,Capital Expenditure Budget Execution Share by Province,Government Finance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,"Capital expenditure share pct, آذربايجان شرقي .............."
+iran_provincial__current_expenditure_share_1397_1401,Current Expenditure Budget Execution Share by Province,Government Finance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,"Current expenditure share pct, آذربايجان شرقي .............."
+iran_provincial__foreign_investment_1398_1400,Foreign Investment Value by Province,Trade & Investment,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,96,3,3,3,2019,2021,"Foreign investment value thousand usd, کل کشور (1)"
+iran_provincial__gdp_per_capita_excl_oil_1393_1397,Non-Oil GDP Per Capita by Province,Macro / National Accounts,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2014,2018,"Gdp per capita excl oil thousand rial, کل کشور"
+iran_provincial__industrial_production_value_share_1396_1400,Industrial Production Value Share by Province,Industry / Value Added by Sector,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2017,2021,"Industrial production value share pct, آذربايجان شرقي"
+iran_provincial__industrial_workshop_count_share_1396_1400,Industrial Workshop Count Share by Province,Industry / Value Added by Sector,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2017,2021,"Industrial workshop count share pct, آذربايجان شرقي"
+iran_provincial__insurance_claims_paid_share_1397_1401,Insurance Claims Paid Share by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,"Insurance claims paid share pct, اردبيل"
+iran_provincial__insurance_premium_per_capita_1397_1401,Insurance Premium per Capita by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,"Insurance premium per capita million rial, کل کشور"
+iran_provincial__insurance_premium_written_share_1397_1401,Insurance Premium Written Share by Province,Financial Sector / Insurance,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,"Insurance premium written share pct, تهران"
+iran_provincial__mining_production_value_1397_1401,Value of Mine Production Share by Province,Industry / Value Added by Sector,sci-provincial-standing-indicators,THIN,SPARSE|SHORT|MANY_VARIANTS,32,1,160,5,5,5,2018,2022,"Mine production value share pct, آذربايجان شرقی"
+iran_railways_income_expense_1953_1961,"Iranian State Railways, Income & Expense Account",Infrastructure (Transport) / Government Finance,pahlavi-era-primary-extraction:wb1962-railways-income-expense-1953-1961,OK,,3,1,24,8,8,8,1954,1961,Gross revenues
 iran_salt_production_1961_1980,Salt (Rock) Production,Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Salt (rock)),OK,,1,1,16,16,20,10,1961,1980,Salt (rock)
-iran_sci1399__cpi_by_coicop_group_1390_1399,"Consumer Price Index by COICOP Group (1395=100, SH1390-1399)",Prices & Inflation,sci-amar,THIN,SPARSE|MANY_VARIANTS,13,1,78,6,10,6,2011,2020,General index — cpi_index_1395_100
-iran_sci1399__gdp_by_expenditure_component_1390_1397,"GDP by Final Expenditure Component, Current & Constant Prices (SH1390-1397)",Macro / Expenditure & Trade Aggregates,sci-amar,THIN,SPARSE|MANY_VARIANTS,12,1,72,6,8,6,2011,2018,Private final consumption expenditures — current prices
-iran_sci1399__gdp_value_added_by_sector_1390_1397,"GDP Value Added by 18 Economic-Activity Sectors, Current & Constant Prices (SH1390-1397)",Macro / National Accounts,sci-amar,THIN,SPARSE|MANY_VARIANTS,38,1,228,6,8,6,2011,2018,"Agriculture, hunting, forestry and fishing — current prices"
+iran_sci1399__cpi_by_coicop_group_1390_1399,"Consumer Price Index by COICOP Group (1395=100, SH1390-1399)",Prices & Inflation,sci-amar,THIN,SPARSE|MANY_VARIANTS,13,1,78,6,10,6,2011,2020,"General index, Cpi index 1395 100"
+iran_sci1399__gdp_by_expenditure_component_1390_1397,"GDP by Final Expenditure Component, Current & Constant Prices (SH1390-1397)",Macro / Expenditure & Trade Aggregates,sci-amar,THIN,SPARSE|MANY_VARIANTS,12,1,72,6,8,6,2011,2018,"Private final consumption expenditures, current prices"
+iran_sci1399__gdp_value_added_by_sector_1390_1397,"GDP Value Added by 18 Economic-Activity Sectors, Current & Constant Prices (SH1390-1397)",Macro / National Accounts,sci-amar,THIN,SPARSE|MANY_VARIANTS,38,1,228,6,8,6,2011,2018,"Agriculture, hunting, forestry and fishing, current prices"
 iran_sci1399__government_budget_summary_1385_1400,Total Country Budget: Resources & Uses Breakdown (SH1385-1400),Government Finance,sci-amar,OK,MANY_VARIANTS,10,1,80,8,16,8,2006,2021,Total budget resources
-iran_sci1399__labor_force_indicators_1380_1399,Labor Force Indicators: Participation & Unemployment by Area/Sex (SH1380-1399),Labor & Employment,sci-amar,OK,MANY_VARIANTS,12,1,93,8,20,8,2001,2020,national — both — economic_participation_rate_pct
+iran_sci1399__labor_force_indicators_1380_1399,Labor Force Indicators: Participation & Unemployment by Area/Sex (SH1380-1399),Labor & Employment,sci-amar,OK,MANY_VARIANTS,12,1,93,8,20,8,2001,2020,"National, both, Economic participation rate pct"
+iran_sci__cpi_urban_vs_rural_general_index_1385_1399,"Consumer Price Index, Urban vs Rural",Prices & Inflation,sci-amar,THIN,SPARSE,2,1,14,7,15,7,2007,2021,Urban
 iran_sulfur_production_1961_1980,Sulfur Production (Refined + Elemental Byproduct),Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Sulfur'),THIN,SPARSE|SHORT,3,1,13,5,5,5,1976,1980,Sulfur total (native + byproduct of petroleum/gas)
-iran_telecom__postal_service_1913_1989,Postal Service: Post Office/Box Counts & Mail Volumes (1913-1989),Infrastructure & Technology,iran-telecom-history:iranica-communications-in-persia,THIN,SPARSE|MANY_VARIANTS,12,1,18,3,53,3,1913,1965,post_offices
-iran_telecom__telegraph_offices_1914_1989,"Telegraph: Cable Length, Office Counts & Telex Stations (1914-1989)",Infrastructure & Technology,iran-telecom-history:iranica-communications-in-persia,THIN,SPARSE|FLAT|MANY_VARIANTS,9,1,10,2,15,2,1975,1989,telegraph_offices_total
+iran_telecom__postal_service_1913_1989,Postal Service: Post Office/Box Counts & Mail Volumes (1913-1989),Infrastructure & Technology,iran-telecom-history:iranica-communications-in-persia,THIN,SPARSE|MANY_VARIANTS,12,1,18,3,53,3,1913,1965,Post offices
+iran_telecom__telegraph_offices_1914_1989,"Telegraph: Cable Length, Office Counts & Telex Stations (1914-1989)",Infrastructure & Technology,iran-telecom-history:iranica-communications-in-persia,THIN,SPARSE|FLAT|MANY_VARIANTS,9,1,10,2,15,2,1975,1989,Telegraph offices total
 iran_textile_cloth_output_by_fiber_1954_1959,"Textile Cloth Output by Fiber Type (Cotton, Woolen, Jute, Silk)",Industry / Light Manufacturing,pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959,THIN,SPARSE|SHORT,4,1,20,5,5,5,1955,1959,Cotton cloth
+iran_trade__crude_oil_export_volume_cbi_1996_2002,Crude Oil Export Volume,Oil & Energy,cbi-iran-annual-review,THIN,SPARSE|SHORT,3,1,18,6,6,6,1997,2002,Iran crude oil export volume thousand bpd
+iran_trade__imports_oil_gas_vs_other_goods_cbi_2009_2023,Imports by Category,Trade,cbi-iran-annual-review,OK,,3,1,54,27,27,27,1997,2023,Iran bop imports total fob musd
+iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023,Oil and Non-Oil Exports,Trade,cbi-iran-annual-review,OK,,3,1,81,27,27,27,1997,2023,Iran bop exports total fob musd
 iran_unctad_maritime__merchandise_trade_2005_2024,"Merchandise Exports, Imports & Trade Balance (UNCTAD, 2005-2024 selected years)",Trade (Goods),unctad-maritime,THIN,SPARSE,3,1,12,4,20,4,2005,2024,Merchandise exports
 iran_unctad_maritime__national_fleet_by_type_2005_2024,National-Flag Merchant Fleet Carrying Capacity by Ship Type (2005-2024),Maritime & Shipping,unctad-maritime,THIN,SPARSE,6,1,24,4,20,4,2005,2024,Total fleet
 iran_unctad_maritime__transport_services_trade_2005_2024,Trade in Transport Services: Export Share & Values (2005-2024),Maritime & Shipping,unctad-maritime,THIN,SPARSE,6,1,18,3,11,3,2005,2015,Transport (% of total services exports)
-iran_unido_cip__iran_subindicators_2010_2014,"Iran UNIDO Competitive Industrial Performance (CIP) Index, Rank & 8 Sub-Indicators",Industry / Value Added by Sector,mimt-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,11,1,55,5,5,5,2010,2014,countries_ranked_total
+iran_unido_cip__iran_subindicators_2010_2014,"Iran UNIDO Competitive Industrial Performance (CIP) Index, Rank & 8 Sub-Indicators",Industry / Value Added by Sector,mimt-iran,THIN,SPARSE|SHORT|MANY_VARIANTS,11,1,55,5,5,5,2010,2014,Countries ranked total
 iran_unido_cip__regional_comparison_2010_2014,"UNIDO Competitive Industrial Performance (CIP) Rank & Score, Iran vs. Regional Economies",Industry / Value Added by Sector,mimt-iran,THIN,SPARSE|SHORT,2,11,10,5,5,4,2010,2014,CIP cip_rank
-iran_vehicle_registration_by_type_1955_1972,"Road Vehicle Registration by Type (Cars, Buses, Trucks, Motorcycles)",Infrastructure (Transport),pahlavi-era-primary-extraction:wb1962-road-vehicle-registration-1955-1961,OK,MANY_VARIANTS,13,1,98,11,11,11,1962,1972,cars total
-iran_vital__registered_divorces_1991_2006,Registered Divorces,Social Statistics (Marriage & Vital Registration),iran-data-portal,OK,,1,1,24,24,16,24,1991,2006,divorces — Total country
-iran_vital__registered_marriages_1991_2006,Registered Marriages,Social Statistics (Marriage & Vital Registration),iran-data-portal,OK,,1,1,24,24,16,24,1991,2006,marriages — Total country
+iran_vehicle_registration_by_type_1955_1972,"Road Vehicle Registration by Type (Cars, Buses, Trucks, Motorcycles)",Infrastructure (Transport),pahlavi-era-primary-extraction:wb1962-road-vehicle-registration-1955-1961,OK,MANY_VARIANTS,13,1,98,11,11,11,1962,1972,Cars total
+iran_vital__registered_divorces_1991_2006,Registered Divorces,Social Statistics (Marriage & Vital Registration),iran-data-portal,OK,,1,1,24,24,16,24,1991,2006,"Divorces, Total country"
+iran_vital__registered_marriages_1991_2006,Registered Marriages,Social Statistics (Marriage & Vital Registration),iran-data-portal,OK,,1,1,24,24,16,24,1991,2006,"Marriages, Total country"
 iran_zinc_production_1961_1980,"Zinc Production (Mine Output, Metal Content)",Mining & Minerals Production,usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Zinc'),OK,,1,1,16,16,20,15,1961,1980,Zinc (content of concentrate / mine output metal content)
 iranplanbudgetorg__annual_budget_law_totals,Annual Budget Law Totals,Government Finance,iran-plan-budget-org,OK,,4,1,128,32,31,32,1992,2022,Revenue / resources
 majlis__supplementary_budget_additions,"Mid-Year Supplementary Budget Additions (FY1357, 1358, 1369)",Government Finance,majlis-historical-budget-laws,THIN,SPARSE|SHORT|FLAT,5,1,5,1,1,1,1357,1357,"Salary/pension reform payments (civil service law reform, military/judicial pay, university faculty, etc.)"
 owid__hdi,Human Development Index,Development / Composite Index,owid,OK,,1,10,34,34,34,31,1990,2023,Human Development Index
 owid__mean_years_schooling_long_run,Average Years of Schooling (long-run),Education,owid,OK,,1,11,31,31,151,26,1870,2020,Average years of schooling
 owid__oil_production_volume,Oil Production (physical volume),Energy,owid,OK,,1,11,125,115,119,115,1906,2024,Oil
-pahlavi__aioc_profits_taxes_royalties_1910_51,"AIOC Net Profit, UK Tax Payments & Iran Royalty Payments, 1910-1951",External Debt,pahlavi-era-primary-extraction,OK,,3,1,63,21,19,21,1933,1951,"AIOC Profits, UK Tax & Iran Royalty Payments — Net Profit"
-pahlavi__animal_fats_production_1950_1958,"Animal Fats (aggregate), Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,3,1950,1958,Animal Fats — Production
+pahlavi__aioc_profits_taxes_royalties_1910_51,"AIOC Net Profit, UK Tax Payments & Iran Royalty Payments, 1910-1951",External Debt,pahlavi-era-primary-extraction,OK,,3,1,63,21,19,21,1933,1951,"AIOC Profits, UK Tax & Iran Royalty Payments, Net Profit"
+pahlavi__animal_fats_production_1950_1958,"Animal Fats (aggregate), Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,3,1950,1958,"Animal Fats, Production"
 pahlavi__bank_deposits_private_sector_1963_70,"Private-Sector Bank Deposits by Type (Sight/Saving/Time), FY1963/64-1969/70",Financial Sector (Monetary),pahlavi-era-primary-extraction,THIN,SHORT|MANY_VARIANTS,12,1,135,18,7,18,1964,1970,Sight Deposits
-pahlavi__banking_statistics_private_sector_1957_59,"Deposit Banks vs. National Bank Private-Sector Deposits/Advances, 1957-1959",Financial Sector (Monetary),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,13,1,39,3,3,3,1957,1959,Deposit Banks (banks other than the National Bank) — Cash
+pahlavi__banking_statistics_private_sector_1957_59,"Deposit Banks vs. National Bank Private-Sector Deposits/Advances, 1957-1959",Financial Sector (Monetary),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,13,1,39,3,3,3,1957,1959,"Deposit Banks (banks other than the National Bank), Cash"
 pahlavi__century_indicators_world_rank_1900_2006,"Iran's World Rank in Population, Per-Capita Income & Life Expectancy (1900 vs. 2006)",Demographics & Population,pahlavi-era-primary-extraction,THIN,SPARSE|FLAT|MANY_VARIANTS,12,1,21,2,107,2,1900,2006,Population
-pahlavi__consortium_disbursements_1954_62,"Consortium Disbursements in Iran incl. Aggregate Oil-Sector Wage Bill, 1954-1962",Labor & Employment,pahlavi-era-primary-extraction,OK,,6,1,41,9,9,9,1954,1962,Payments to Iranian Government under Oil Agreement — Subtotal
-pahlavi__domestic_oil_consumption_by_product_1964_69,"Domestic Oil Consumption by Product, 1964-1969",Energy,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT,6,1,36,6,6,6,1964,1969,Domestic Consumption of Oil Products — Fuel Oil
-pahlavi__dried_apricots_production_1950_1958,"Dried Apricots, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,6,1950,1958,Dried Apricots — Production
-pahlavi__electric_power_generation_by_use_1968_72,"Electric Power Generation by End-Use (incl. Residential), 1968-1972",Energy,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,8,1,30,4,5,4,1968,1972,Electric Power Generation by Use — TOTAL OF POWER AGENCIES — total
-pahlavi__exports_by_commodity_value_1956_59,"Merchandise Exports by Commodity (Value, USD), 1956/57-1958/59",Trade (Exports),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,15,1,45,3,3,3,1957,1959,Raw cotton — Export Value
-pahlavi__fresh_fruits_noncitrus_production_1950_1958,"Fresh Fruits (non-citrus) & Berries, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,5,1950,1958,Fresh fruits (non-citrus) & berries — Production
-pahlavi__gas_production_consumption_1965_69,"Natural Gas Production, Consumption & Flaring, 1965-1969",Energy,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,9,1,45,5,5,5,1965,1969,Natural Gas Production & Consumption — Iranian Oil Operating Companies — production
-pahlavi__imports_by_commodity_value_1956_59,"Merchandise Imports by Commodity (Value, USD), 1956/57-1958/59",Trade (Imports),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,20,1,60,3,3,3,1957,1959,Sugar — Import Value
+pahlavi__consortium_disbursements_1954_62,"Consortium Disbursements in Iran incl. Aggregate Oil-Sector Wage Bill, 1954-1962",Labor & Employment,pahlavi-era-primary-extraction,OK,,6,1,41,9,9,9,1954,1962,"Payments to Iranian Government under Oil Agreement, Subtotal"
+pahlavi__domestic_oil_consumption_by_product_1964_69,"Domestic Oil Consumption by Product, 1964-1969",Energy,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT,6,1,36,6,6,6,1964,1969,"Domestic Consumption of Oil Products, Fuel Oil"
+pahlavi__dried_apricots_production_1950_1958,"Dried Apricots, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,6,1950,1958,"Dried Apricots, Production"
+pahlavi__electric_power_generation_by_use_1968_72,"Electric Power Generation by End-Use (incl. Residential), 1968-1972",Energy,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,8,1,30,4,5,4,1968,1972,"Electric Power Generation by Use, TOTAL OF POWER AGENCIES, total"
+pahlavi__exports_by_commodity_value_1956_59,"Merchandise Exports by Commodity (Value, USD), 1956/57-1958/59",Trade (Exports),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,15,1,45,3,3,3,1957,1959,"Raw cotton, Export Value"
+pahlavi__fresh_fruits_noncitrus_production_1950_1958,"Fresh Fruits (non-citrus) & Berries, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,5,1950,1958,"Fresh fruits (non-citrus) & berries, Production"
+pahlavi__gas_production_consumption_1965_69,"Natural Gas Production, Consumption & Flaring, 1965-1969",Energy,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,9,1,45,5,5,5,1965,1969,"Natural Gas Production & Consumption, Iranian Oil Operating Companies, production"
+pahlavi__imports_by_commodity_value_1956_59,"Merchandise Imports by Commodity (Value, USD), 1956/57-1958/59",Trade (Imports),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,20,1,60,3,3,3,1957,1959,"Sugar, Import Value"
 pahlavi__monetary_aggregates_movements_1963_73,"Money & Quasi-Money Component Movements, Year-over-Year Flows (FY1963-1973)",Financial Sector (Monetary),pahlavi-era-primary-extraction,OK,MANY_VARIANTS,24,1,264,11,11,11,1963,1973,Money and Quasi Money
 pahlavi__monetary_survey_1963_70,"Consolidated Banking-System Balance Sheet, Year-End Stock Levels (FY1963/64-1969/70)",Financial Sector (Monetary),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,36,1,252,7,7,7,1964,1970,Foreign assets (net)
 pahlavi__money_quasi_money_changes_1965_71,"Money & Quasi-Money Component Changes, Year-over-Year Flows (FY1964/65-1970/71)",Financial Sector (Monetary),pahlavi-era-primary-extraction,THIN,SHORT|MANY_VARIANTS,30,1,264,9,7,9,1965,1971,Money and Quasi Money
 pahlavi__money_supply_changes_1957_59,"Money Supply & Claims Composition, Semi-Annual Changes (1957-1959)",Financial Sector (Monetary),pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,7,1,35,5,3,5,1957,1959,Money Supply
-pahlavi__ocean_trade_tonnage_1950_60,"Ocean-Borne Trade Tonnage, Excl. Petroleum, 1950/51-1959/60",Trade (Goods),pahlavi-era-primary-extraction,OK,,3,1,27,9,10,9,1951,1960,Ocean Trade Tonnage (Excl. Petroleum Products) — Exports
-pahlavi__oil_industry_employment_by_nationality_1939_60,"Oil Industry Employment by Nationality, 1939-1960",Labor & Employment,pahlavi-era-primary-extraction,OK,,4,1,63,18,22,18,1939,1960,Oil Industry Employment by Nationality — Total
-pahlavi__oil_industry_personnel_by_company_category_1955_61,"Oil Industry Personnel by Company & Labor Category, 1955-1961",Labor & Employment,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,14,1,56,7,7,7,1955,1961,Consortium — Total
-pahlavi__oil_revenue_by_allocation_1955_63,"Oil Revenue by Allocation (Budget/NIOC/Plan Org/B.P.C.), 1955/56-1962/63",Government Finance,pahlavi-era-primary-extraction,OK,,5,1,46,10,8,10,1956,1963,Oil Revenue by Allocation (Accrual Basis) — Total
-pahlavi__oil_revenue_distribution_pct_1957_59,"Oil Revenue Distribution by Recipient (% share), 1957-1959",Government Finance,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT,3,1,9,3,3,3,1957,1959,Oil Revenue Distribution by Recipient — Plan Organization
-pahlavi__other_dried_fruits_production_1950_1958,"Other Dried Fruits, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,4,1950,1958,Other Dried Fruits — Production
-pahlavi__other_grains_production_1950_1958,"Other Grains, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,5,1950,1958,Other grains — Production
-pahlavi__raisins_production_1950_1958,"Raisins, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,7,1950,1958,Raisins — Production
-pahlavi__vegetables_melons_production_1950_1958,"Vegetables & Melons (combined), Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,6,1950,1958,Vegetables & melons — Production
-pahlavi_hh__dairy_consumption_by_type_1972_1977,Dairy Product Consumption by Type,Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,9,1,18,2,6,2,1972,1977,high_value_consumption — fresh_milk — fat_equivalent_tons
-pahlavi_hh__expenditure_levels_rials_1965_1971,"Household Expenditure Levels, Rials/Month/Household by Category (1965-1971)",Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,10,1,70,7,7,7,1965,1971,urban — total_expenditure
-pahlavi_hh__expenditure_shares_by_category_1965_1971,"Household Expenditure Composition, % Shares by Category, Urban & Rural (1965-1971)",Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,10,1,70,7,7,7,1965,1971,urban — expenditure_food_and_tobacco_share
-pahlavi_hh__milk_supply_by_source_1972_1977,Milk Supply by Animal Source,Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,7,1,14,2,6,2,1972,1977,high_cost_milk_supply — pure_bred_cows — fat_equivalent_tons
-pahlavi_hh__nonfood_consumption_index_1955_1958,"Non-Food & Aggregate Per-Capita Consumption Index, 1955-1958",Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT,6,1,18,3,3,3,1956,1958,agricultural_products
+pahlavi__ocean_trade_tonnage_1950_60,"Ocean-Borne Trade Tonnage, Excl. Petroleum, 1950/51-1959/60",Trade (Goods),pahlavi-era-primary-extraction,OK,,3,1,27,9,10,9,1951,1960,"Ocean Trade Tonnage (Excl. Petroleum Products), Exports"
+pahlavi__oil_industry_employment_by_nationality_1939_60,"Oil Industry Employment by Nationality, 1939-1960",Labor & Employment,pahlavi-era-primary-extraction,OK,,4,1,63,18,22,18,1939,1960,"Oil Industry Employment by Nationality, Total"
+pahlavi__oil_industry_personnel_by_company_category_1955_61,"Oil Industry Personnel by Company & Labor Category, 1955-1961",Labor & Employment,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,14,1,56,7,7,7,1955,1961,"Consortium, Total"
+pahlavi__oil_revenue_by_allocation_1955_63,"Oil Revenue by Allocation (Budget/NIOC/Plan Org/B.P.C.), 1955/56-1962/63",Government Finance,pahlavi-era-primary-extraction,OK,,5,1,46,10,8,10,1956,1963,"Oil Revenue by Allocation (Accrual Basis), Total"
+pahlavi__oil_revenue_distribution_pct_1957_59,"Oil Revenue Distribution by Recipient (% share), 1957-1959",Government Finance,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT,3,1,9,3,3,3,1957,1959,"Oil Revenue Distribution by Recipient, Plan Organization"
+pahlavi__other_dried_fruits_production_1950_1958,"Other Dried Fruits, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,4,1950,1958,"Other Dried Fruits, Production"
+pahlavi__other_grains_production_1950_1958,"Other Grains, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,5,1950,1958,"Other grains, Production"
+pahlavi__raisins_production_1950_1958,"Raisins, Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,7,1950,1958,"Raisins, Production"
+pahlavi__vegetables_melons_production_1950_1958,"Vegetables & Melons (combined), Production, 1950-1958",Agriculture Production,pahlavi-era-primary-extraction,OK,,1,1,9,9,9,6,1950,1958,"Vegetables & melons, Production"
+pahlavi_hh__dairy_consumption_by_type_1972_1977,Dairy Product Consumption by Type,Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,9,1,18,2,6,2,1972,1977,"High value consumption, Fresh milk, Fat equivalent tons"
+pahlavi_hh__expenditure_levels_rials_1965_1971,"Household Expenditure Levels, Rials/Month/Household by Category (1965-1971)",Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,10,1,70,7,7,7,1965,1971,"Urban, Total expenditure"
+pahlavi_hh__expenditure_shares_by_category_1965_1971,"Household Expenditure Composition, % Shares by Category, Urban & Rural (1965-1971)",Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|MANY_VARIANTS,10,1,70,7,7,7,1965,1971,"Urban, Expenditure food and tobacco share"
+pahlavi_hh__milk_supply_by_source_1972_1977,Milk Supply by Animal Source,Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,7,1,14,2,6,2,1972,1977,"High cost milk supply, Pure bred cows, Fat equivalent tons"
+pahlavi_hh__nonfood_consumption_index_1955_1958,"Non-Food & Aggregate Per-Capita Consumption Index, 1955-1958",Household Consumption & Expenditure,pahlavi-era-primary-extraction,THIN,SPARSE|SHORT,6,1,18,3,3,3,1956,1958,Agricultural products
 proposed__external_debt_net_flows_by_creditor_type,"External debt net flows, by creditor type",External Debt,wdi,OK,MANY_VARIANTS,13,6,834,90,45,89,1980,2024,"Net financial flows, bilateral (NFL, current US$)"
 proposed__net_official_flows_un_agencies,"Net official flows from UN agencies, by agency",Aid & Development Finance,wdi,OK,MANY_VARIANTS,15,7,660,108,55,106,1968,2022,UNDP
 proposed__population_by_age_group_sex,Population by age group and sex (% of group population),Demographics,wdi,OK,MANY_VARIANTS,14,10,924,66,66,66,1960,2025,"00-04, male"
@@ -672,7 +677,7 @@ specialty_goods__caviar_shilat_production_2013_2024,Official Caviar Production &
 specialty_goods__caviar_sturgeon_aquaculture_2010_2018,"Sturgeon Aquaculture Production, Whole-Fish Live Weight (2010-2018)",Fisheries & Aquaculture,iran-caviar-exports:eumofa-caviar-market-report-2021,OK,,1,1,9,9,9,9,2010,2018,Sturgeon aquaculture production
 specialty_goods__tobacco_monopoly_1890_1995,"Tobacco Monopoly: Regie Concession, Dokhaniyat Conversion & Workforce (1890-1995)",Trade Institutions & Policy History,iran-tobacco-monopoly:iranica-tobacco-monopoly-narrative-series-1890-1995,THIN,SPARSE|SHORT|FLAT|MANY_VARIANTS,12,1,12,1,1,1,1890,1890,Annual concession payment to Imperial Treasury (Tobacco Regie)
 specialty_goods__tobacco_post_privatization_2018,"Tobacco Market Post-2012-Privatization: Consumption, Smokers & Import Dependency (2018)",Industry / Light Manufacturing,iran-tobacco-monopoly:tobacco-market-post-privatization-2018,THIN,SPARSE|SHORT|FLAT,6,1,6,1,1,1,2018,2018,Domestic cigarette consumption (Ministry of Health estimate)
-wb_poverty__iran_poverty_rate_by_region_2011_2020,Iran Provincial Poverty Rates by Macro-Region (2011 vs. 2020),Poverty & Inequality,worldbank-poverty-equity-iran-poverty-assessment-2023,THIN,SPARSE|FLAT|MANY_VARIANTS,9,1,18,2,10,2,2011,2020,Central — poverty rate
+wb_poverty__iran_poverty_rate_by_region_2011_2020,Iran Provincial Poverty Rates by Macro-Region (2011 vs. 2020),Poverty & Inequality,worldbank-poverty-equity-iran-poverty-assessment-2023,THIN,SPARSE|FLAT|MANY_VARIANTS,9,1,18,2,10,2,2011,2020,"Central, poverty rate"
 wdi__AG.CON.FERT,Fertilizer consumption (kilograms per hectare of arable land),Agriculture & Rural Development,wdi,OK,,1,11,63,63,63,61,1961,2023,Fertilizer consumption (kilograms per hectare of arable land)
 wdi__AG.CON.FERT.PT,Fertilizer consumption (% of fertilizer production),Agriculture & Rural Development,wdi,OK,,1,11,61,61,61,58,1963,2023,Fertilizer consumption (% of fertilizer production)
 wdi__AG.LND.AGRI,Agricultural land,Agriculture & Rural Development,wdi,OK,,2,11,126,63,63,57,1961,2023,Agricultural land (% of land area)
@@ -933,10 +938,10 @@ wdi__GOV_WGI_PV,Political Stability - Governance score,Governance (WGI),wdi,OK,,
 wdi__GOV_WGI_RL,Rule of Law - Governance score,Governance (WGI),wdi,OK,,2,11,52,26,29,26,1996,2024,Rule of Law - Governance score (0-100)
 wdi__GOV_WGI_RQ,Regulatory Quality - Governance score,Governance (WGI),wdi,OK,,2,11,52,26,29,26,1996,2024,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5)
 wdi__GOV_WGI_VA,Voice and Accountability - Governance score,Governance (WGI),wdi,OK,,2,11,52,26,29,26,1996,2024,Voice and Accountability - Governance score (0-100)
-wdi__HD_HCIP_EDUC,"Human capital index plus (HCI+): education pillar score, male (scale 0, 188)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): education pillar score, total (scale 0–188)"
-wdi__HD_HCIP_HLTH,"Human capital index plus (HCI+): health pillar score, male (scale 0, 50)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): health pillar score, male (scale 0–50)"
-wdi__HD_HCIP_OTJL,"Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30, 87)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30–87)"
-wdi__HD_HCIP_OVRL,"Human capital index plus (HCI+): overall score, male (scale 0, 325)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): overall score, female (scale 0–325)"
+wdi__HD_HCIP_EDUC,"Human capital index plus (HCI+): education pillar score, male (scale 0, 188)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): education pillar score, total (scale 0, 188)"
+wdi__HD_HCIP_HLTH,"Human capital index plus (HCI+): health pillar score, male (scale 0, 50)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): health pillar score, male (scale 0, 50)"
+wdi__HD_HCIP_OTJL,"Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30, 87)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30, 87)"
+wdi__HD_HCIP_OVRL,"Human capital index plus (HCI+): overall score, male (scale 0, 325)",Human Capital,wdi,THIN,SPARSE,3,11,12,4,16,4,2010,2025,"Human capital index plus (HCI+): overall score, female (scale 0, 325)"
 wdi__IC.BUS,New businesses registered,Business & Investment Climate,wdi,THIN,SPARSE|SHORT|FLAT,1,9,1,1,1,1,2020,2020,New businesses registered (number)
 wdi__IC.BUS.NDNS,"New business density (new registrations per 1,000 people ages 15-64)",Business & Investment Climate,wdi,THIN,SPARSE|SHORT|FLAT,1,9,1,1,1,1,2020,2020,"New business density (new registrations per 1,000 people ages 15-64)"
 wdi__IE.PPI.ENGY,Investment in energy with private participation,Infrastructure (Energy),wdi,THIN,SPARSE,2,6,6,3,14,3,2004,2017,Investment in energy with private participation (current US$)
@@ -1414,8 +1419,8 @@ wdi__SL.UEM.INTM.MA,"Unemployment with intermediate education, male (% of male l
 wdi__SL.UEM.NEET,"Share of youth not in education, employment or training, total (% of youth population)",Labor & Employment,wdi,OK,,1,11,20,20,20,20,2005,2024,"Share of youth not in education, employment or training, total (% of youth population)"
 wdi__SL.UEM.NEET.FE,"Share of youth not in education, employment or training, female (% of female youth population)",Labor & Employment,wdi,OK,,1,11,20,20,20,20,2005,2024,"Share of youth not in education, employment or training, female (% of female youth population)"
 wdi__SL.UEM.NEET.MA,"Share of youth not in education, employment or training, male (% of male youth population)",Labor & Employment,wdi,OK,,1,11,20,20,20,20,2005,2024,"Share of youth not in education, employment or training, male (% of male youth population)"
-wdi__SL.UEM.NEET.MA.ME,"Share of youth not in education, employment or training, male (% of male youth population) (modeled ILO estimate)",Labor & Employment,wdi,OK,,1,11,21,21,21,21,2005,2025,"Share of youth not in education, employment or training, male (% of male youth population)  (modeled ILO estimate)"
-wdi__SL.UEM.NEET.ME,"Share of youth not in education, employment or training, total (% of youth population) (modeled ILO estimate)",Labor & Employment,wdi,OK,,1,11,21,21,21,21,2005,2025,"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)"
+wdi__SL.UEM.NEET.MA.ME,"Share of youth not in education, employment or training, male (% of male youth population) (modeled ILO estimate)",Labor & Employment,wdi,OK,,1,11,21,21,21,21,2005,2025,"Share of youth not in education, employment or training, male (% of male youth population) (modeled ILO estimate)"
+wdi__SL.UEM.NEET.ME,"Share of youth not in education, employment or training, total (% of youth population) (modeled ILO estimate)",Labor & Employment,wdi,OK,,1,11,21,21,21,21,2005,2025,"Share of youth not in education, employment or training, total (% of youth population) (modeled ILO estimate)"
 wdi__SL.UEM.TOTL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",Labor & Employment,wdi,OK,,1,11,35,35,35,35,1991,2025,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
 wdi__SL.UEM.TOTL.FE,"Unemployment, female (% of female labor force) (modeled ILO estimate)",Labor & Employment,wdi,OK,,1,11,35,35,35,35,1991,2025,"Unemployment, female (% of female labor force) (modeled ILO estimate)"
 wdi__SL.UEM.TOTL.MA,"Unemployment, male (% of male labor force) (modeled ILO estimate)",Labor & Employment,wdi,OK,,1,11,35,35,35,35,1991,2025,"Unemployment, male (% of male labor force) (modeled ILO estimate)"
@@ -1597,8 +1602,8 @@ weo__import_volume_growth,Import Volume Growth,Trade,imf-weo,OK,,2,10,104,52,52,
 weo__net_govt_debt,Government Net Debt (assets netted),Government Finance,imf-weo,OK,,2,7,72,36,36,36,1996,2031,"Net debt, General government, Domestic currency"
 weo__ppp_share_world_gdp,Iran's Share of World GDP (PPP),Macro / National Accounts,imf-weo,OK,,1,11,52,52,52,47,1980,2031,"Gross domestic product (GDP), Purchasing power parity (PPP) international dollar, percent of world GDP, Percent, ICP benchmarks 2017-2021"
 weo__primary_balance,Government Primary Balance (excl. interest),Government Finance,imf-weo,OK,,2,11,62,31,31,31,2001,2031,"Primary net lending (+) / net borrowing (-), General government, Domestic currency"
-wid__avg_national_income,Average National Income per Adult,Inequality & Wealth,wid-world,OK,,1,9,452,452,226,452,1800,2025,p0p100
-wid__income_share_top1,"Pre-Tax Income Share, Top 1%",Inequality & Wealth,wid-world,OK,,1,8,112,112,205,48,1820,2024,p99p100
-wid__income_share_top10,"Pre-Tax Income Share, Top 10%",Inequality & Wealth,wid-world,OK,,1,8,112,112,205,47,1820,2024,p90p100
-wid__wealth_share_top1,"Net Wealth Share, Top 1%",Inequality & Wealth,wid-world,OK,,1,8,112,112,205,49,1820,2024,p99p100
-wid__wealth_share_top10,"Net Wealth Share, Top 10%",Inequality & Wealth,wid-world,OK,,1,8,112,112,205,46,1820,2024,p90p100
+wid__avg_national_income,Average National Income per Adult,Inequality & Wealth,wid-world,OK,,2,9,452,226,226,226,1800,2025,P0p100 (anninc999i)
+wid__income_share_top1,"Pre-Tax Income Share, Top 1%",Inequality & Wealth,wid-world,OK,,2,8,112,56,205,48,1820,2024,P99p100 (sptinc999j)
+wid__income_share_top10,"Pre-Tax Income Share, Top 10%",Inequality & Wealth,wid-world,OK,,2,8,112,56,205,47,1820,2024,P90p100 (sptinc999j)
+wid__wealth_share_top1,"Net Wealth Share, Top 1%",Inequality & Wealth,wid-world,OK,,2,8,112,56,205,49,1820,2024,P99p100 (shweal999j)
+wid__wealth_share_top10,"Net Wealth Share, Top 10%",Inequality & Wealth,wid-world,OK,,2,8,112,56,205,46,1820,2024,P90p100 (shweal999j)

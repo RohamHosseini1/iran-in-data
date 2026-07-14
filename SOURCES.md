@@ -37,7 +37,7 @@ over secondary ideological narrative for the policy-timeline layer specifically.
 | Statistical Centre of Iran (SCI) | https://www.amar.org.ir (EN: /english) | CPI, statistical yearbook, census, HEIS | ⬇ `iran-official` |
 | SCI HEIS microdata | https://amar.org.ir (HEIS section) — survey since 1963 (rural) / 1968 (urban) | Household expenditure & income microdata | ✋ (registration; mirrors exist) |
 | Iran Customs (IRICA) | via Iran Data Portal + press releases | Non-oil trade by partner | ⬇ `iran-official` (indirect) |
-| Ministry of Agriculture Jihad | https://www.maj.ir | Ag statistics; State Livestock Affairs Logistics = chicken/input prices | ✋ (Persian, geo-block; use FAO/mirrors) |
+| Ministry of Agriculture Jihad | https://www.maj.ir | Ag statistics; State Livestock Affairs Logistics = chicken/input prices | ✋ (Persian, geo-block, reconfirmed unreachable 2026-07-14; ⬇ via mirrors — see Round 48) |
 | Majlis Research Center | https://rc.majlis.ir | Laws incl. all budget laws, research reports | ✋ (site migrating; mirrors at Iran Data Portal) |
 
 ## Round 3 — Food & agriculture micro (chicken, citrus, everything)
@@ -1114,3 +1114,163 @@ not silently skipped. Full attempt trail: `logs/downloads/iran-monetary-fiscal-h
 
 **Noted but NOT used per source-reliability policy**: none surfaced this round (no MEK/NCRI,
 IRGC-propaganda, Tudeh, or Fadaian-affiliated sources appeared in any search for this topic).
+
+## Round 48 — Iran trade & oil-export layer deepened: CBI Balance of Payments re-mined for IRI era
+
+Mission: deepen the TRADE and OIL-EXPORT layer for the Islamic Republic era (1979-present) from
+Iranian-primary sources, per the owner's "the longer the timeline, the better" standing
+instruction. Direct access to Iran Customs Administration (irica.ir) and Statistical Centre of
+Iran (amar.org.ir) both failed (connection refused from this environment); cbi.ir direct access
+reconfirmed blocked (F5/TSPD bot-challenge). Pivoted to re-mining the already-held
+`cbi-iran/cbi-annual-review-wayback/` 23-PDF run (previously mined only for monetary/banking
+aggregates and oil-product consumption/production) for its "Balance of Payments" and "Export of
+Crude Oil" tables — content not previously extracted from this same source.
+
+| Source | URL | Contents | Status |
+|---|---|---|---|
+| CBI Annual Review (already-held 23-edition run, `cbi-iran/cbi-annual-review-wayback/`) — re-mined this round for trade/oil | n/a (re-processing already-downloaded PDFs) | "Balance of Payments" table (Table 51/52/53/47/49 depending on edition, present in ALL 23 reports): current account, trade/goods balance, total exports (FOB), oil exports, non-oil exports, total imports (FOB), and — from FY1388/2009-10 onward — imports split oil-&-gas-products vs. other-goods. Also "Export of Crude Oil" (Table 14, thousand b/d) and "Geographical Distribution of Crude Oil Exports" (Table 20, % share by region) — both found ONLY in the 2 earliest editions (FY1379-1380), confirmed absent from all 21 later editions by grep. Every goods-trade figure traces onward, per the source's own citation line, to Iran's Customs Administration (IRICA); oil-sector figures to the Ministry of Petroleum | 📊 derived: `data/processed/iran_trade_oil_enrich_series/` ✅ 2026-07-14 |
+| Iran Customs Administration (IRICA), irica.ir | https://www.irica.ir | Direct access: connection failure (both https and http, ~10s timeout). Wayback CDX search found ~30 archived PDFs under opaque CMS-upload paths (no human-readable filenames), no obvious "foreign trade statistics" yearbook page identified within this pass's time budget | ⛔ unreachable direct; Wayback lead logged but NOT pursued further — open for a future pass |
+| Statistical Centre of Iran (SCI), amar.org.ir | https://www.amar.org.ir | Direct access: connection failure (near-instant, DNS/connection-refused pattern) | ⛔ not pursued further this pass (time budget went to the already-tractable CBI PDFs instead) |
+
+**Harmonized 3 processed files** (`data/processed/iran_trade_oil_enrich_series/`, via
+`scripts/harmonize/harmonize_cbi_trade_oil.py`): `cbi_balance_of_payments_trade_oil_1375_1401.csv`
+(189 rows — 8 indicators × up to 27 fiscal years, FY1375-1401/1996/97-2022/23, EVERY year using
+that year's own contemporaneous report per this project's established never-pick-a-winner
+convention), `cbi_crude_oil_export_volume_1375_1380.csv` (18 rows, 6 fiscal years — the entire
+oil-export-VOLUME run available in this project's CBI holdings, genuinely discontinued in CBI's
+own publication after 2001/02), `cbi_crude_oil_export_geographic_share_1376_1380.csv` (25 rows,
+5 fiscal years). Full methodology, three source-format eras (pre-BPM5 / transitional / post-BPM5
+revision), and the oil-export-volume gap are documented in that directory's README.md.
+
+**Cross-validated** CBI's exports/imports against this project's own WDI merchandise-trade series
+(`macro_wdi.csv`, `TX.VAL.MRCH.CD.WT` / `TM.VAL.MRCH.CD.WT`) for 6 spot-check years, correctly
+applying the ~1-year fiscal-to-calendar-year offset: exports agree within ~5-10% every year
+checked; imports diverge more (CBI $75.4bn vs. WDI $58.8bn for FY1401/2022, a ~28% gap) — kept as
+two separately labeled series per project policy, not adjudicated. Full table in the README.
+
+**Staged 5 rows** at `data/processed/chart_registry_staging/enrichment_iran_trade_oil.csv` (2
+`extends` — onto the sparse 4-point `iran_unctad_maritime__merchandise_trade_2005_2024` for the
+exports/imports/balance triad, and onto `wdi__BN.CAB.XOKA` for current account; 3 `new` —
+oil-vs-non-oil export value [non-oil exports had NO existing chart_id before this round, despite
+being a politically/economically central Iranian statistic], the imports oil-gas-vs-other-goods
+split, and the short-but-real 6-year oil-export-volume series).
+
+**Honest remaining gaps**: imports/exports by broad commodity group (present in the source every
+year, a detailed 20-40-line-item table, NOT transcribed across all 23 editions this pass — a
+genuinely tractable future extension of this same already-held source); trade by partner country
+beyond the 5-year 1997/98-2001/02 geographic-share fragment (too short to chart as its own
+measure per the owner's "a chart is a measure over time" rule); direct IRICA/SCI downloads (both
+domains unreachable this pass). Full attempt trail: `logs/downloads/iran-trade-oil.log`.
+
+**Noted but NOT used per source-reliability policy**: none surfaced this round.
+
+## 2026-07-14 pass: Iran prices & inflation deep-dive (CPI/WPI/PPI, urban-rural)
+
+Mission: deepen the Iran CPI/WPI/PPI/urban-rural-CPI layer from Iranian primary
+sources, extending (never replacing) the existing `inflation_rate_1937_2014.csv`
+(iran-data-portal, rate only) and `cpi_by_group_1390_1399.csv` (SCI Yearbook, 2011-2020).
+
+**Mined, not re-downloaded**: the 23 CBI Annual Review PDFs already at
+`data/raw/cbi-iran/cbi-annual-review-wayback/` and the SCI Iran Statistical Yearbook
+1399 Ch.22 PDF already at `data/raw/sci-amar/sci-cpi-yearbook/`. Selected a
+non-overlapping 6-edition ladder (1379, 1384, 1386, 1389, 1394, 1399, 1401) of CBI's
+5-year rolling statistical-appendix tables, giving **zero-gap coverage SH1375-1401
+(1996/97-2022/23)** for both CPI (Urban Areas, general + Goods/Services special
+groups + ~12 major groups) and PPI (general + Agriculture/Manufacturing/Services
+sectors). WPI (شاخص بهای عمده‌فروشی, domestic/imported/exported goods-flow
+classification — the specific measure the task brief named) covers SH1375-1386
+(1996/97-2007/08) only: confirmed via table-of-contents inspection that CBI itself
+discontinued this specific table after the 1386 edition, with PPI absorbing its role.
+Also extracted, for the first time in this project, SCI's own **urban-vs-rural CPI
+split** (Yearbook 1399 Ch.22 Tables 22.4 & 22.7, general index, base 1395=100, 7 year
+points 1385-1399) — CBI's own Annual Reviews were confirmed (full-text search, all 23
+editions) to carry an Urban-only CPI, never rural.
+
+**New download**: amar.org.ir and cbi.ir's live inflation dashboard are both
+unreachable from this sandbox (amar.org.ir: no HTTP response at all on direct curl,
+`ECONNRESET`/"Socket is closed" via WebFetch on every URL incl. the homepage;
+cbi.ir/Inflation/Inflation_en.aspx: reachable but behind an Incapsula JS
+bot-challenge, confirmed even in its own most recent Wayback snapshot). Worked
+around via the Wayback Machine's CDX API, recovering 5 dated amar.org.ir monthly CPI
+press-release snapshots + 1 dashboard snapshot spanning Mar 2022 - Feb 2025 — genuine
+primary-sourced bridge data past the newest CBI PDF on disk, though sparse (5
+non-contiguous months, not a continuous series). Saved to
+`data/raw/sci-amar/cpi-monthly-pointintime-wayback/` with manifest.json documenting
+every URL tried, including failures.
+
+**Harmonized** to `data/processed/iran_prices_inflation_series/` (5 CSVs, 604 rows,
+full README with method/cross-validation/gaps):
+`cbi_cpi_urban_general_and_groups_1996_2023.csv`,
+`cbi_ppi_general_and_special_groups_1996_2023.csv`,
+`cbi_wpi_general_and_special_groups_1996_2008.csv`,
+`sci_cpi_urban_vs_rural_general_index_1385_1399.csv`,
+`sci_cpi_national_monthly_snapshots_2022_2025.csv`.
+
+**Cross-validated**: computed YoY inflation for SH1391-1393 (30.5%, 34.8%, 15.5%)
+matches the existing iran-data-portal series (30.5%, 34.7%, 15.6%) almost exactly.
+WDI's `FP.WPI.TOTL` for Iran runs exactly 1960-2007 — stopping the same year this
+project's CBI-sourced WPI table was discontinued, near-certain confirmation WDI's
+figure derives from this same CBI lineage. **One genuine discrepancy found and kept
+unresolved, not adjudicated**: CBI's own 1384 Annual Review states SH1384 (2005/06)
+inflation as 12.1% (both directly printed and re-derivable from its own index
+values), while the existing iran-data-portal file gives 10.4% for the same year —
+both nominally CBI-sourced; kept as two disagreeing values per project policy.
+
+**Staged 5 rows** at `data/processed/chart_registry_staging/enrichment_iran_prices.csv`
+(3 `extends` — CPI-Urban and the monthly bridge snapshots onto `wdi__FP.CPI`, WPI
+onto `wdi__FP.WPI`; 2 `new` — PPI, which has no WDI counterpart for Iran at all, and
+urban-vs-rural CPI, a genuinely new measure for this project).
+
+**Honest remaining gaps**: pre-1996 CPI index LEVELS (as opposed to the existing
+1937-2014 rate-only series) were not recovered — would need Bank Melli bulletins or
+pre-1996 CBI Annual Reviews, not currently on disk, to reach the task brief's
+aspirational 1930s-50s target at the index-value level. Post-1401 (2023-2026)
+coverage remains thin (5 sparse monthly points only) given amar.org.ir/cbi.ir
+unreachability this session — a future agent, especially one running closer to the
+present, should re-run the same Wayback CDX search (query documented in
+`data/raw/sci-amar/cpi-monthly-pointintime-wayback/manifest.json`) to pick up newer
+snapshots. Full attempt trail: `logs/downloads/iran-prices-inflation.log`.
+
+**Noted but NOT used per source-reliability policy**: none surfaced this round.
+
+## Round 49 — Iranian primary agriculture statistics (independent second source for FAOSTAT)
+
+| Source | URL | Contents | Status |
+|---|---|---|---|
+| Iran Data Portal (Syracuse University) — Agriculture & Rural Development | https://irandataportal.syr.edu/agriculture-rural-development | Individual chapter tables mirrored from SCI's own Statistical Yearbook, sourced to Ministry of (Jihad-e-)Agriculture / Statistical Centre of Iran. `Wheat-Production.xlsx` gives wheat production 1356-1392 (1977/78-2013/14 Gregorian), 37 annual points — the longest single-crop Iranian time series found across this whole project's source hunt. Also: red-meat/milk, chicken-meat/egg, livestock-slaughtered-by-species (8 national-total years, 1991-2006), plus 4 producer-price/production-cost tables (downloaded, not yet harmonized). | ⬇ `iran-data-portal-agriculture` |
+| CBI Annual Review appendix tables (re-mined) | data/raw/cbi-iran/cbi-annual-review-wayback/ (already on disk from a prior agent) | Every one of the 23 editions (1379-1401 / 2000/01-2022/23) carries a "Estimated Production and Area under Cultivation of Major Crops/Horticultural Products" table (wheat, barley, rice, corn, cotton, sugar beet, sugar cane, tea, oilseeds, tobacco, pulses, potatoes, onions, pistachio, and from ~2010 also citrus/grapes/apples) and a "Livestock Products" table (red meat, milk, poultry, eggs, honey) — both sourced Ministry of (Jihad-e-)Agriculture. Not previously mined for this data even though the PDFs were already downloaded. | ⬇ (mined via `pdftotext -layout`, see below) |
+
+**maj.ir and amar.org.ir reconfirmed unreachable** (curl exit 000 / WebFetch ECONNREFUSED) —
+consistent with every prior session's notes on these two domains. No Wayback Machine snapshot of a
+maj.ir "آمارنامه کشاورزی" (Agricultural Statistics Yearbook) page was located via web search in the
+time available this round.
+
+**Harmonized to `data/processed/iran_primary_agriculture_series/`** (4 CSVs + README with full
+FAO-vs-Iran comparison table and methodology notes): `cbi_annual_review_crop_production_area.csv`
+(598 rows, 16 crops, 1999-2021, cross-edition-consistency-checked), `cbi_annual_review_livestock_products.csv`
+(127 rows, 5 products, 1996-2022, up to 5x-redundant per year across editions),
+`iran_data_portal_sci_yearbook_series.csv` (149 rows), `faostat_vs_cbi_comparison.csv` (423
+matched year-commodity pairs against this project's existing FAOSTAT QCL extract).
+
+**Cross-validated against FAOSTAT — strong agreement on 14 of 19 commodities** (median |diff| <10%):
+wheat (4.8%), barley (5.0%), rice (5.8%), cotton (8.2%, seed-cotton basis), sugar beet (4.0%), sugar
+cane (4.3%), tobacco (6.4%), potatoes (2.0%), onions (4.0%), plus livestock: milk (0.8%), poultry
+meat (0.0%), eggs (0.0%), red meat (2.9%), honey (0.9%). **Genuine, unadjudicated divergences kept as
+labeled ranges per project policy**: apples/grapes/citrus fruits diverge systematically and
+increasingly over time (near 0% in 2010-2013 widening to 40-95% by 2018-2021 — a real, reportable
+pattern, not noise); pistachios swing both directions year to year (-73% to +134%, consistent with
+pistachio's known alternate-bearing cycle plus possible crop-year-attribution differences between
+the two sources); tea and corn/maize show moderate (13-16%) ordinary estimate variance.
+
+**Staged 19 rows** at `data/processed/chart_registry_staging/enrichment_iran_agriculture.csv`, all
+`status=extends` onto existing `faostat__<item>__production` chart_ids (16 crop charts + 4 livestock
+charts), validated against `CHART_REGISTRY.csv`. `oilseeds`/`pulses`/aggregate `red_meat` were
+extracted and kept in the harmonized CSVs but not proposed for chart extension — no clean 1:1
+FAOSTAT item match, and force-mapping them would require exactly the kind of adjudication this
+project's rules forbid.
+
+**Noted but NOT used per source-reliability policy**: an NCRI-affiliated outlet
+(ncr-iran.org) surfaced in a web search on "Ministry of Agriculture Jihad" but was not read or
+cited — excluded per the MEK/NCRI source-hygiene rule.
+
+Full attempt trail: `logs/downloads/iran-primary-agriculture.log`.

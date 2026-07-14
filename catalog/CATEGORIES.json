@@ -2277,6 +2277,9 @@
     "wdi__SN.ITK.SALT",
     "wdi__SN.ITK.SVFI"
   ],
+  "Oil & Energy": [
+    "iran_trade__crude_oil_export_volume_cbi_1996_2002"
+  ],
   "Other / Mixed": [
     "cia_econ__gloomy_prospects_misc_1987",
     "frus__1951_54_misc_smaller_categories",
@@ -2307,7 +2310,9 @@
   ],
   "Prices & Inflation": [
     "frus__1973_76_inflation_and_import_prices",
+    "iran_cbi__ppi_general_and_sectors_1996_2023",
     "iran_sci1399__cpi_by_coicop_group_1390_1399",
+    "iran_sci__cpi_urban_vs_rural_general_index_1385_1399",
     "wdi__FP.CPI",
     "wdi__FP.CPI.TOTL",
     "wdi__FP.WPI"
@@ -2359,6 +2364,8 @@
   "Trade": [
     "cia_econ__gloomy_prospects_trade_oil_1987",
     "frus__1973_76_trade_targets_historical_comparison",
+    "iran_trade__imports_oil_gas_vs_other_goods_cbi_2009_2023",
+    "iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023",
     "nis33__trade_by_commodity_and_partner",
     "weo__export_volume_growth",
     "weo__import_volume_growth"

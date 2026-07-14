@@ -58,9 +58,50 @@ SPECS = {
                  ("expenditure_rials", "Expenditure / uses", "rials"),
                  ("revenue_usd_real_2015", "Revenue, real 2015 US$", "US$"),
                  ("expenditure_usd_real_2015", "Expenditure, real 2015 US$", "US$")]),
+
+    # --- prices (dimension column + value column) ---
+    "iran_cbi__ppi_general_and_sectors_1996_2023": dict(
+        title="Producer Price Index", title_fa="شاخص بهای تولیدکننده",
+        file="iran_prices_inflation_series/cbi_ppi_general_and_special_groups_1996_2023.csv",
+        mode="dim", year_col="year_western", value_col="index_value",
+        variant_col="special_or_major_group", unit="index"),
+    "iran_sci__cpi_urban_vs_rural_general_index_1385_1399": dict(
+        title="Consumer Price Index, Urban vs Rural",
+        title_fa="شاخص بهای مصرف‌کننده، شهری و روستایی",
+        file="iran_prices_inflation_series/sci_cpi_urban_vs_rural_general_index_1385_1399.csv",
+        mode="dim", year_col="year_western", value_col="cpi_index_general",
+        variant_col="area", unit="index"),
+
+    # --- trade / oil (tidy, filtered by indicator prefix) ---
+    "iran_trade__oil_vs_nonoil_exports_value_cbi_1996_2023": dict(
+        title="Oil and Non-Oil Exports", title_fa="صادرات نفتی و غیرنفتی",
+        file="iran_trade_oil_enrich_series/cbi_balance_of_payments_trade_oil_1375_1401.csv",
+        mode="tidy", only={"iran_bop_exports_total_fob_musd", "iran_bop_exports_oil_musd",
+                           "iran_bop_exports_nonoil_musd"}),
+    "iran_trade__imports_oil_gas_vs_other_goods_cbi_2009_2023": dict(
+        title="Imports by Category", title_fa="واردات به تفکیک گروه",
+        file="iran_trade_oil_enrich_series/cbi_balance_of_payments_trade_oil_1375_1401.csv",
+        mode="tidy", only={"iran_bop_imports_total_fob_musd", "iran_bop_imports_oil_gas_musd",
+                           "iran_bop_imports_other_nonoil_musd"}),
+    "iran_trade__crude_oil_export_volume_cbi_1996_2002": dict(
+        title="Crude Oil Export Volume", title_fa="حجم صادرات نفت خام",
+        file="iran_trade_oil_enrich_series/cbi_crude_oil_export_volume_1375_1380.csv",
+        mode="tidy"),
 }
 
 GY = re.compile(r"((?:19|20)\d{2})(?:Q(\d))?")
+YEARS = re.compile(r"(?:19|20)\d{2}")
+
+
+def norm_year(y):
+    """Iranian fiscal years arrive as spans ('1996-1997'). Collapse to a single
+    Gregorian year using the fiscal-year-END convention already used elsewhere in
+    this project (SH1379 -> 2001). A plain year passes through unchanged."""
+    y = (y or "").strip()
+    hits = YEARS.findall(y)
+    if not hits:
+        return ""
+    return hits[-1]
 
 
 def emit(iso, year, val, unit, code, label, sds, period=""):
@@ -77,22 +118,44 @@ def build(cid, spec):
     rows = list(csv.DictReader(open(src, newline="", encoding="utf-8")))
     out = []
 
+    if spec["mode"] == "dim":
+        # one dimension column + one value column (e.g. PPI sector, CPI urban/rural)
+        for s in rows:
+            v = (s.get(spec["value_col"]) or "").strip()
+            yr = norm_year(s.get(spec["year_col"]))
+            dim = (s.get(spec["variant_col"]) or "").strip()
+            if not v or not yr or not dim:
+                continue
+            out.append(emit(s.get("country_iso3"), yr, v, spec.get("unit", ""),
+                            dim, dim, s.get("source_dataset", "")))
+        return out
+
     if spec["mode"] in ("tidy", "tidy_quarter"):
         for s in rows:
             ind = s.get("indicator_id", "")
             if spec.get("prefix") and not ind.startswith(spec["prefix"]):
                 continue
-            val, yr = (s.get("value") or "").strip(), (s.get("year") or "").strip()
-            if not val or not yr:
+            if spec.get("only") and ind not in spec["only"]:
+                continue
+            val = (s.get("value") or "").strip()
+            raw_year = (s.get("year") or "").strip()   # keep raw: it carries the quarter
+            if not val or not raw_year:
                 continue
             period = ""
             if spec["mode"] == "tidy_quarter":
-                m = GY.search(yr)
+                # e.g. "1357Q1_1978Q2" -> year 1978, period 1978Q2
+                m = None
+                for m in GY.finditer(raw_year):
+                    pass  # take the LAST match: the Gregorian half of the dual label
                 if not m:
                     continue
                 gy = m.group(1)
                 period = f"{gy}Q{m.group(2)}" if m.group(2) else ""
                 yr = gy
+            else:
+                yr = norm_year(raw_year)
+                if not yr:
+                    continue
             label = ind.split("__")[-1].replace("_", " ") if ind else "value"
             out.append(emit(s.get("country_iso3"), yr, val, s.get("unit", ""),
                             ind or "value", label, s.get("source_dataset", ""), period))
@@ -102,7 +165,7 @@ def build(cid, spec):
         for s in rows:
             if rf and (s.get(rf[0]) or "").strip() != rf[1]:
                 continue
-            yr = (s.get(spec["year_col"]) or "").strip()
+            yr = norm_year(s.get(spec["year_col"]))
             if not yr:
                 continue
             for col, label, unit in spec["metrics"]:
