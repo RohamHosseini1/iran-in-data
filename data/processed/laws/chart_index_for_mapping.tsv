@@ -1,0 +1,1605 @@
+chart_id	title	category	year_range
+wdi__AG.LND.IRIG.AG	Agricultural irrigated land (% of total agricultural land)	Agriculture & Rural Development	
+wdi__AG.LND.AGRI	Agricultural land	Agriculture & Rural Development	
+wdi__AG.LND.ARBL.HA	Arable land (hectares per person)	Agriculture & Rural Development	
+wdi__AG.LND.ARBL	Arable land (hectares)	Agriculture & Rural Development	
+wdi__AG.LND.PRCP	Average precipitation in depth (mm per year)	Agriculture & Rural Development	
+wdi__AG.PRD.CREL	Cereal production	Agriculture & Rural Development	
+wdi__AG.YLD.CREL	Cereal yield	Agriculture & Rural Development	
+wdi__AG.PRD.CROP	Crop production index (2014-2016 = 100)	Agriculture & Rural Development	
+wdi__AG.CON.FERT.PT	Fertilizer consumption (% of fertilizer production)	Agriculture & Rural Development	
+wdi__AG.CON.FERT	Fertilizer consumption (kilograms per hectare of arable land)	Agriculture & Rural Development	
+wdi__AG.PRD.FOOD	Food production index (2014-2016 = 100)	Agriculture & Rural Development	
+wdi__AG.LND.FRST	Forest area	Agriculture & Rural Development	
+wdi__AG.LND.TOTL	Land area	Agriculture & Rural Development	
+wdi__AG.LND.EL5M	Land area where elevation is below 5 meters (% of total land area)	Agriculture & Rural Development	
+wdi__AG.LND.CREL	Land under cereal production (hectares)	Agriculture & Rural Development	
+wdi__AG.PRD.LVSK	Livestock production index (2014-2016 = 100)	Agriculture & Rural Development	
+wdi__AG.LND.CROP	Permanent cropland (% of land area)	Agriculture & Rural Development	
+wdi__AG.LND.TOTL.RU	Rural land area	Agriculture & Rural Development	
+wdi__AG.LND.EL5M.RU	Rural land area where elevation is below 5 meters	Agriculture & Rural Development	
+wdi__AG.SRF.TOTL	Surface area	Agriculture & Rural Development	
+wdi__AG.LND.TOTL.UR	Urban land area	Agriculture & Rural Development	
+wdi__AG.LND.EL5M.UR	Urban land area where elevation is below 5 meters	Agriculture & Rural Development	
+faostat__Agriculture__price	Agriculture	Agriculture Prices	
+faostat__Almonds, in shell__price	Almonds, in shell	Agriculture Prices	
+faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__price	Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw	Agriculture Prices	
+faostat__Apples__price	Apples	Agriculture Prices	
+faostat__Apricots__price	Apricots	Agriculture Prices	
+faostat__Artichokes__price	Artichokes	Agriculture Prices	
+faostat__Asparagus__price	Asparagus	Agriculture Prices	
+faostat__Bananas__price	Bananas	Agriculture Prices	
+faostat__Barley__price	Barley	Agriculture Prices	
+faostat__Beans, dry__price	Beans, dry	Agriculture Prices	
+faostat__Broad beans and horse beans, green__price	Broad beans and horse beans, green	Agriculture Prices	
+faostat__Cabbages__price	Cabbages	Agriculture Prices	
+faostat__Cantaloupes and other melons__price	Cantaloupes and other melons	Agriculture Prices	
+faostat__Carrots and turnips__price	Carrots and turnips	Agriculture Prices	
+faostat__Cauliflowers and broccoli__price	Cauliflowers and broccoli	Agriculture Prices	
+faostat__Cereals n.e.c.__price	Cereals n.e.c.	Agriculture Prices	
+faostat__Cereals, primary__price	Cereals, primary	Agriculture Prices	
+faostat__Cherries__price	Cherries	Agriculture Prices	
+faostat__Chick peas, dry__price	Chick peas, dry	Agriculture Prices	
+faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__price	Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw	Agriculture Prices	
+faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__price	Chillies and peppers, green (Capsicum spp. and Pimenta spp.)	Agriculture Prices	
+faostat__Citrus Fruit, Total__price	Citrus Fruit, Total	Agriculture Prices	
+faostat__Coarse Grain, Total__price	Coarse Grain, Total	Agriculture Prices	
+faostat__Cotton lint, ginned__price	Cotton lint, ginned	Agriculture Prices	
+faostat__Cotton seed__price	Cotton seed	Agriculture Prices	
+faostat__Cucumbers and gherkins__price	Cucumbers and gherkins	Agriculture Prices	
+faostat__Dates__price	Dates	Agriculture Prices	
+faostat__Eggplants (aubergines)__price	Eggplants (aubergines)	Agriculture Prices	
+faostat__Eggs Primary__price	Eggs Primary	Agriculture Prices	
+faostat__Fibre Crops Primary__price	Fibre Crops Primary	Agriculture Prices	
+faostat__Figs__price	Figs	Agriculture Prices	
+faostat__Fruit Primary__price	Fruit Primary	Agriculture Prices	
+faostat__Fruit excl Melons, Total__price	Fruit excl Melons, Total	Agriculture Prices	
+faostat__Game meat, fresh, chilled or frozen__price	Game meat, fresh, chilled or frozen	Agriculture Prices	
+faostat__Grapes__price	Grapes	Agriculture Prices	
+faostat__Green garlic__price	Green garlic	Agriculture Prices	
+faostat__Groundnuts, excluding shelled__price	Groundnuts, excluding shelled	Agriculture Prices	
+faostat__Hazelnuts, in shell__price	Hazelnuts, in shell	Agriculture Prices	
+faostat__Hen eggs in shell, fresh__price	Hen eggs in shell, fresh	Agriculture Prices	
+faostat__Jute, raw or retted__price	Jute, raw or retted	Agriculture Prices	
+faostat__Kiwi fruit__price	Kiwi fruit	Agriculture Prices	
+faostat__Leeks and other alliaceous vegetables__price	Leeks and other alliaceous vegetables	Agriculture Prices	
+faostat__Lemons and limes__price	Lemons and limes	Agriculture Prices	
+faostat__Lentils, dry__price	Lentils, dry	Agriculture Prices	
+faostat__Lettuce and chicory__price	Lettuce and chicory	Agriculture Prices	
+faostat__Linseed__price	Linseed	Agriculture Prices	
+faostat__Livestock__price	Livestock	Agriculture Prices	
+faostat__Maize (corn)__price	Maize (corn)	Agriculture Prices	
+faostat__Mangoes, guavas and mangosteens__price	Mangoes, guavas and mangosteens	Agriculture Prices	
+faostat__Meat of buffalo, fresh or chilled__price	Meat of buffalo, fresh or chilled	Agriculture Prices	
+faostat__Meat of camels, fresh or chilled__price	Meat of camels, fresh or chilled	Agriculture Prices	
+faostat__Meat of cattle with the bone, fresh or chilled__price	Meat of cattle with the bone, fresh or chilled	Agriculture Prices	
+faostat__Meat of chickens, fresh or chilled__price	Meat of chickens, fresh or chilled	Agriculture Prices	
+faostat__Meat of ducks, fresh or chilled__price	Meat of ducks, fresh or chilled	Agriculture Prices	
+faostat__Meat of geese, fresh or chilled__price	Meat of geese, fresh or chilled	Agriculture Prices	
+faostat__Meat of goat, fresh or chilled__price	Meat of goat, fresh or chilled	Agriculture Prices	
+faostat__Meat of sheep, fresh or chilled__price	Meat of sheep, fresh or chilled	Agriculture Prices	
+faostat__Meat of turkeys, fresh or chilled__price	Meat of turkeys, fresh or chilled	Agriculture Prices	
+faostat__Meat, Total__price	Meat, Total	Agriculture Prices	
+faostat__Milk, Total__price	Milk, Total	Agriculture Prices	
+faostat__Millet__price	Millet	Agriculture Prices	
+faostat__Mushrooms and truffles__price	Mushrooms and truffles	Agriculture Prices	
+faostat__Natural honey__price	Natural honey	Agriculture Prices	
+faostat__Oilcrops, Oil Equivalent__price	Oilcrops, Oil Equivalent	Agriculture Prices	
+faostat__Olives__price	Olives	Agriculture Prices	
+faostat__Onions and shallots, dry (excluding dehydrated)__price	Onions and shallots, dry (excluding dehydrated)	Agriculture Prices	
+faostat__Oranges__price	Oranges	Agriculture Prices	
+faostat__Other beans, green__price	Other beans, green	Agriculture Prices	
+faostat__Other berries and fruits of the genus vaccinium n.e.c.__price	Other berries and fruits of the genus vaccinium n.e.c.	Agriculture Prices	
+faostat__Other citrus fruit, n.e.c.__price	Other citrus fruit, n.e.c.	Agriculture Prices	
+faostat__Other fruits, n.e.c.__price	Other fruits, n.e.c.	Agriculture Prices	
+faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__price	Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.	Agriculture Prices	
+faostat__Other pulses n.e.c.__price	Other pulses n.e.c.	Agriculture Prices	
+faostat__Other stimulant, spice and aromatic crops, n.e.c.__price	Other stimulant, spice and aromatic crops, n.e.c.	Agriculture Prices	
+faostat__Other stone fruits__price	Other stone fruits	Agriculture Prices	
+faostat__Other vegetables, fresh n.e.c.__price	Other vegetables, fresh n.e.c.	Agriculture Prices	
+faostat__Papayas__price	Papayas	Agriculture Prices	
+faostat__Peaches and nectarines__price	Peaches and nectarines	Agriculture Prices	
+faostat__Pears__price	Pears	Agriculture Prices	
+faostat__Peas, green__price	Peas, green	Agriculture Prices	
+faostat__Persimmons__price	Persimmons	Agriculture Prices	
+faostat__Pistachios, in shell__price	Pistachios, in shell	Agriculture Prices	
+faostat__Plums and sloes__price	Plums and sloes	Agriculture Prices	
+faostat__Pomelos and grapefruits__price	Pomelos and grapefruits	Agriculture Prices	
+faostat__Potatoes__price	Potatoes	Agriculture Prices	
+faostat__Pulses, Total__price	Pulses, Total	Agriculture Prices	
+faostat__Pumpkins, squash and gourds__price	Pumpkins, squash and gourds	Agriculture Prices	
+faostat__Quinces__price	Quinces	Agriculture Prices	
+faostat__Rape or colza seed__price	Rape or colza seed	Agriculture Prices	
+faostat__Raspberries__price	Raspberries	Agriculture Prices	
+faostat__Raw milk of buffalo__price	Raw milk of buffalo	Agriculture Prices	
+faostat__Raw milk of cattle__price	Raw milk of cattle	Agriculture Prices	
+faostat__Raw milk of goats__price	Raw milk of goats	Agriculture Prices	
+faostat__Raw milk of sheep__price	Raw milk of sheep	Agriculture Prices	
+faostat__Rice__price	Rice	Agriculture Prices	
+faostat__Roots and Tubers, Total__price	Roots and Tubers, Total	Agriculture Prices	
+faostat__Safflower seed__price	Safflower seed	Agriculture Prices	
+faostat__Seed cotton, unginned__price	Seed cotton, unginned	Agriculture Prices	
+faostat__Sesame seed__price	Sesame seed	Agriculture Prices	
+faostat__Shorn wool, greasy, including fleece-washed shorn wool__price	Shorn wool, greasy, including fleece-washed shorn wool	Agriculture Prices	
+faostat__Silk-worm cocoons suitable for reeling__price	Silk-worm cocoons suitable for reeling	Agriculture Prices	
+faostat__Sorghum__price	Sorghum	Agriculture Prices	
+faostat__Sour cherries__price	Sour cherries	Agriculture Prices	
+faostat__Soya beans__price	Soya beans	Agriculture Prices	
+faostat__Spinach__price	Spinach	Agriculture Prices	
+faostat__Strawberries__price	Strawberries	Agriculture Prices	
+faostat__String beans__price	String beans	Agriculture Prices	
+faostat__Sugar beet__price	Sugar beet	Agriculture Prices	
+faostat__Sugar cane__price	Sugar cane	Agriculture Prices	
+faostat__Sunflower seed__price	Sunflower seed	Agriculture Prices	
+faostat__Tangerines, mandarins, clementines__price	Tangerines, mandarins, clementines	Agriculture Prices	
+faostat__Tea leaves__price	Tea leaves	Agriculture Prices	
+faostat__Tomatoes__price	Tomatoes	Agriculture Prices	
+faostat__Treenuts, Total__price	Treenuts, Total	Agriculture Prices	
+faostat__Unmanufactured tobacco__price	Unmanufactured tobacco	Agriculture Prices	
+faostat__Vegetables Primary__price	Vegetables Primary	Agriculture Prices	
+faostat__Vegetables and Melons, Total__price	Vegetables and Melons, Total	Agriculture Prices	
+faostat__Walnuts, in shell__price	Walnuts, in shell	Agriculture Prices	
+faostat__Watermelons__price	Watermelons	Agriculture Prices	
+faostat__Wheat__price	Wheat	Agriculture Prices	
+faostat__Almonds, in shell__production	Almonds, in shell	Agriculture Production	
+pahlavi__animal_fats_production_1950_1958	Animal Fats (aggregate), Production, 1950-1958	Agriculture Production	1950-1958
+faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production	Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw	Agriculture Production	
+faostat__Apples__production	Apples	Agriculture Production	
+faostat__Apricots__production	Apricots	Agriculture Production	
+faostat__Artichokes__production	Artichokes	Agriculture Production	
+faostat__Asparagus__production	Asparagus	Agriculture Production	
+faostat__Asses__production	Asses	Agriculture Production	
+faostat__Bananas__production	Bananas	Agriculture Production	
+faostat__Barley__production	Barley	Agriculture Production	
+faostat__Beans, dry__production	Beans, dry	Agriculture Production	
+faostat__Beef and Buffalo Meat, primary__production	Beef and Buffalo Meat, primary	Agriculture Production	
+faostat__Beer of barley, malted__production	Beer of barley, malted	Agriculture Production	
+faostat__Bees__production	Bees	Agriculture Production	
+faostat__Broad beans and horse beans, dry__production	Broad beans and horse beans, dry	Agriculture Production	
+faostat__Broad beans and horse beans, green__production	Broad beans and horse beans, green	Agriculture Production	
+faostat__Buffalo__production	Buffalo	Agriculture Production	
+faostat__Buffalo fat, unrendered__production	Buffalo fat, unrendered	Agriculture Production	
+faostat__Butter and Ghee__production	Butter and Ghee	Agriculture Production	
+faostat__Butter and ghee of sheep milk__production	Butter and ghee of sheep milk	Agriculture Production	
+faostat__Butter of cow milk__production	Butter of cow milk	Agriculture Production	
+faostat__Buttermilk, dry__production	Buttermilk, dry	Agriculture Production	
+faostat__Cabbages__production	Cabbages	Agriculture Production	
+faostat__Camels__production	Camels	Agriculture Production	
+faostat__Cantaloupes and other melons__production	Cantaloupes and other melons	Agriculture Production	
+faostat__Carrots and turnips__production	Carrots and turnips	Agriculture Production	
+faostat__Castor oil seeds__production	Castor oil seeds	Agriculture Production	
+faostat__Cattle__production	Cattle	Agriculture Production	
+faostat__Cattle and Buffaloes__production	Cattle and Buffaloes	Agriculture Production	
+faostat__Cattle fat, unrendered__production	Cattle fat, unrendered	Agriculture Production	
+faostat__Cauliflowers and broccoli__production	Cauliflowers and broccoli	Agriculture Production	
+faostat__Cereals, primary__production	Cereals, primary	Agriculture Production	
+faostat__Cheese (All Kinds)__production	Cheese (All Kinds)	Agriculture Production	
+faostat__Cheese from milk of goats, fresh or processed__production	Cheese from milk of goats, fresh or processed	Agriculture Production	
+faostat__Cheese from milk of sheep, fresh or processed__production	Cheese from milk of sheep, fresh or processed	Agriculture Production	
+faostat__Cheese from skimmed cow milk__production	Cheese from skimmed cow milk	Agriculture Production	
+faostat__Cheese from whole cow milk__production	Cheese from whole cow milk	Agriculture Production	
+faostat__Cherries__production	Cherries	Agriculture Production	
+faostat__Chick peas, dry__production	Chick peas, dry	Agriculture Production	
+faostat__Chickens__production	Chickens	Agriculture Production	
+faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production	Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw	Agriculture Production	
+faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production	Chillies and peppers, green (Capsicum spp. and Pimenta spp.)	Agriculture Production	
+faostat__Citrus Fruit, Total__production	Citrus Fruit, Total	Agriculture Production	
+faostat__Cotton lint, ginned__production	Cotton lint, ginned	Agriculture Production	
+faostat__Cotton seed__production	Cotton seed	Agriculture Production	
+faostat__Cottonseed oil__production	Cottonseed oil	Agriculture Production	
+faostat__Cream, fresh__production	Cream, fresh	Agriculture Production	
+faostat__Cucumbers and gherkins__production	Cucumbers and gherkins	Agriculture Production	
+faostat__Dates__production	Dates	Agriculture Production	
+pahlavi__dried_apricots_production_1950_1958	Dried Apricots, Production, 1950-1958	Agriculture Production	1950-1958
+faostat__Ducks__production	Ducks	Agriculture Production	
+faostat__Edible offal of buffalo, fresh, chilled or frozen__production	Edible offal of buffalo, fresh, chilled or frozen	Agriculture Production	
+faostat__Edible offal of cattle, fresh, chilled or frozen__production	Edible offal of cattle, fresh, chilled or frozen	Agriculture Production	
+faostat__Edible offal of goat, fresh, chilled or frozen__production	Edible offal of goat, fresh, chilled or frozen	Agriculture Production	
+faostat__Edible offal of pigs, fresh, chilled or frozen__production	Edible offal of pigs, fresh, chilled or frozen	Agriculture Production	
+faostat__Edible offal of sheep, fresh, chilled or frozen__production	Edible offal of sheep, fresh, chilled or frozen	Agriculture Production	
+faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production	Edible offals of camels and other camelids, fresh, chilled or frozen	Agriculture Production	
+faostat__Eggplants (aubergines)__production	Eggplants (aubergines)	Agriculture Production	
+faostat__Eggs Primary__production	Eggs Primary	Agriculture Production	
+faostat__Evaporated & Condensed Milk__production	Evaporated & Condensed Milk	Agriculture Production	
+faostat__Fat of camels__production	Fat of camels	Agriculture Production	
+faostat__Fat of pigs__production	Fat of pigs	Agriculture Production	
+faostat__Fibre Crops, Fibre Equivalent__production	Fibre Crops, Fibre Equivalent	Agriculture Production	
+faostat__Figs__production	Figs	Agriculture Production	
+pahlavi__fresh_fruits_noncitrus_production_1950_1958	Fresh Fruits (non-citrus) & Berries, Production, 1950-1958	Agriculture Production	1950-1958
+faostat__Fruit Primary__production	Fruit Primary	Agriculture Production	
+faostat__Game meat, fresh, chilled or frozen__production	Game meat, fresh, chilled or frozen	Agriculture Production	
+faostat__Geese__production	Geese	Agriculture Production	
+faostat__Goat fat, unrendered__production	Goat fat, unrendered	Agriculture Production	
+faostat__Goats__production	Goats	Agriculture Production	
+faostat__Grapes__production	Grapes	Agriculture Production	
+faostat__Green garlic__production	Green garlic	Agriculture Production	
+faostat__Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg__production	Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg	Agriculture Production	
+faostat__Groundnuts, excluding shelled__production	Groundnuts, excluding shelled	Agriculture Production	
+faostat__Hazelnuts, in shell__production	Hazelnuts, in shell	Agriculture Production	
+faostat__Hempseed__production	Hempseed	Agriculture Production	
+faostat__Hen eggs in shell, fresh__production__laying	Hen eggs in shell, fresh, laying (1000 An)	Agriculture Production	1961-2024
+faostat__Hen eggs in shell, fresh__production__production_1000_no	Hen eggs in shell, fresh, production (1000 count)	Agriculture Production	1961-2024
+faostat__Hen eggs in shell, fresh__production__production_t	Hen eggs in shell, fresh, production (t)	Agriculture Production	1961-2024
+faostat__Hen eggs in shell, fresh__production__yield	Hen eggs in shell, fresh, yield (No/An)	Agriculture Production	1961-2024
+faostat__Hen eggs in shell, fresh__production__yield_carcass_weight	Hen eggs in shell, fresh, yield/carcass weight (g/An)	Agriculture Production	1961-2024
+faostat__Horses__production	Horses	Agriculture Production	
+faostat__Jute, raw or retted__production	Jute, raw or retted	Agriculture Production	
+faostat__Kiwi fruit__production	Kiwi fruit	Agriculture Production	
+faostat__Leeks and other alliaceous vegetables__production	Leeks and other alliaceous vegetables	Agriculture Production	
+faostat__Lemons and limes__production	Lemons and limes	Agriculture Production	
+faostat__Lentils, dry__production	Lentils, dry	Agriculture Production	
+faostat__Lettuce and chicory__production	Lettuce and chicory	Agriculture Production	
+faostat__Linseed__production	Linseed	Agriculture Production	
+faostat__Maize (corn)__production	Maize (corn)	Agriculture Production	
+faostat__Mangoes, guavas and mangosteens__production	Mangoes, guavas and mangosteens	Agriculture Production	
+faostat__Margarine and shortening__production	Margarine and shortening	Agriculture Production	
+faostat__Meat of buffalo, fresh or chilled__production	Meat of buffalo, fresh or chilled	Agriculture Production	
+faostat__Meat of camels, fresh or chilled__production	Meat of camels, fresh or chilled	Agriculture Production	
+faostat__Meat of cattle with the bone, fresh or chilled__production	Meat of cattle with the bone, fresh or chilled	Agriculture Production	
+faostat__Meat of chickens, fresh or chilled__production	Meat of chickens, fresh or chilled	Agriculture Production	
+faostat__Meat of ducks, fresh or chilled__production	Meat of ducks, fresh or chilled	Agriculture Production	
+faostat__Meat of geese, fresh or chilled__production	Meat of geese, fresh or chilled	Agriculture Production	
+faostat__Meat of goat, fresh or chilled__production	Meat of goat, fresh or chilled	Agriculture Production	
+faostat__Meat of pig with the bone, fresh or chilled__production	Meat of pig with the bone, fresh or chilled	Agriculture Production	
+faostat__Meat of sheep, fresh or chilled__production	Meat of sheep, fresh or chilled	Agriculture Production	
+faostat__Meat of turkeys, fresh or chilled__production	Meat of turkeys, fresh or chilled	Agriculture Production	
+faostat__Meat, Poultry__production	Meat, Poultry	Agriculture Production	
+faostat__Meat, Total__production	Meat, Total	Agriculture Production	
+faostat__Melonseed__production	Melonseed	Agriculture Production	
+faostat__Milk, Total__production	Milk, Total	Agriculture Production	
+faostat__Millet__production	Millet	Agriculture Production	
+faostat__Molasses__production	Molasses	Agriculture Production	
+faostat__Mules and hinnies__production	Mules and hinnies	Agriculture Production	
+faostat__Mushrooms and truffles__production	Mushrooms and truffles	Agriculture Production	
+faostat__Mustard seed__production	Mustard seed	Agriculture Production	
+faostat__Natural honey__production	Natural honey	Agriculture Production	
+faostat__Oil of linseed__production	Oil of linseed	Agriculture Production	
+faostat__Oil of sesame seed__production	Oil of sesame seed	Agriculture Production	
+faostat__Oilcrops, Cake Equivalent__production	Oilcrops, Cake Equivalent	Agriculture Production	
+faostat__Oilcrops, Oil Equivalent__production	Oilcrops, Oil Equivalent	Agriculture Production	
+faostat__Olive oil__production	Olive oil	Agriculture Production	
+faostat__Olives__production	Olives	Agriculture Production	
+faostat__Onions and shallots, dry (excluding dehydrated)__production	Onions and shallots, dry (excluding dehydrated)	Agriculture Production	
+faostat__Oranges__production	Oranges	Agriculture Production	
+pahlavi__other_dried_fruits_production_1950_1958	Other Dried Fruits, Production, 1950-1958	Agriculture Production	1950-1958
+pahlavi__other_grains_production_1950_1958	Other Grains, Production, 1950-1958	Agriculture Production	1950-1958
+faostat__Other beans, green__production	Other beans, green	Agriculture Production	
+faostat__Other berries and fruits of the genus vaccinium n.e.c.__production	Other berries and fruits of the genus vaccinium n.e.c.	Agriculture Production	
+faostat__Other citrus fruit, n.e.c.__production	Other citrus fruit, n.e.c.	Agriculture Production	
+faostat__Other fruits, n.e.c.__production	Other fruits, n.e.c.	Agriculture Production	
+faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production	Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.	Agriculture Production	
+faostat__Other oil seeds, n.e.c.__production	Other oil seeds, n.e.c.	Agriculture Production	
+faostat__Other pulses n.e.c.__production	Other pulses n.e.c.	Agriculture Production	
+faostat__Other stimulant, spice and aromatic crops, n.e.c.__production	Other stimulant, spice and aromatic crops, n.e.c.	Agriculture Production	
+faostat__Other stone fruits__production	Other stone fruits	Agriculture Production	
+faostat__Other tropical fruits, n.e.c.__production	Other tropical fruits, n.e.c.	Agriculture Production	
+faostat__Other vegetables, fresh n.e.c.__production	Other vegetables, fresh n.e.c.	Agriculture Production	
+faostat__Papayas__production	Papayas	Agriculture Production	
+faostat__Peaches and nectarines__production	Peaches and nectarines	Agriculture Production	
+faostat__Pears__production	Pears	Agriculture Production	
+faostat__Peas, dry__production	Peas, dry	Agriculture Production	
+faostat__Peas, green__production	Peas, green	Agriculture Production	
+faostat__Persimmons__production	Persimmons	Agriculture Production	
+faostat__Pistachios, in shell__production	Pistachios, in shell	Agriculture Production	
+faostat__Plums and sloes__production	Plums and sloes	Agriculture Production	
+faostat__Pomelos and grapefruits__production	Pomelos and grapefruits	Agriculture Production	
+faostat__Potatoes__production	Potatoes	Agriculture Production	
+faostat__Poultry Birds__production	Poultry Birds	Agriculture Production	
+faostat__Pulses, Total__production	Pulses, Total	Agriculture Production	
+faostat__Pumpkins, squash and gourds__production	Pumpkins, squash and gourds	Agriculture Production	
+faostat__Quinces__production	Quinces	Agriculture Production	
+pahlavi__raisins_production_1950_1958	Raisins, Production, 1950-1958	Agriculture Production	1950-1958
+faostat__Rape or colza seed__production	Rape or colza seed	Agriculture Production	
+faostat__Rapeseed or canola oil, crude__production	Rapeseed or canola oil, crude	Agriculture Production	
+faostat__Raw cane or beet sugar (centrifugal only)__production	Raw cane or beet sugar (centrifugal only)	Agriculture Production	
+faostat__Raw hides and skins of buffaloes__production	Raw hides and skins of buffaloes	Agriculture Production	
+faostat__Raw hides and skins of cattle__production	Raw hides and skins of cattle	Agriculture Production	
+faostat__Raw hides and skins of goats or kids__production	Raw hides and skins of goats or kids	Agriculture Production	
+faostat__Raw hides and skins of sheep or lambs__production	Raw hides and skins of sheep or lambs	Agriculture Production	
+faostat__Raw milk of buffalo__production	Raw milk of buffalo	Agriculture Production	
+faostat__Raw milk of cattle__production	Raw milk of cattle	Agriculture Production	
+faostat__Raw milk of goats__production	Raw milk of goats	Agriculture Production	
+faostat__Raw milk of sheep__production	Raw milk of sheep	Agriculture Production	
+faostat__Raw silk (not thrown)__production	Raw silk (not thrown)	Agriculture Production	
+faostat__Rice__production	Rice	Agriculture Production	
+faostat__Roots and Tubers, Total__production	Roots and Tubers, Total	Agriculture Production	
+faostat__Rye__production	Rye	Agriculture Production	
+faostat__Safflower seed__production	Safflower seed	Agriculture Production	
+faostat__Seed cotton, unginned__production	Seed cotton, unginned	Agriculture Production	
+faostat__Sesame seed__production	Sesame seed	Agriculture Production	
+faostat__Sheep__production	Sheep	Agriculture Production	
+faostat__Sheep and Goat Meat__production	Sheep and Goat Meat	Agriculture Production	
+faostat__Sheep and Goats__production	Sheep and Goats	Agriculture Production	
+faostat__Sheep fat, unrendered__production	Sheep fat, unrendered	Agriculture Production	
+faostat__Shorn wool, greasy, including fleece-washed shorn wool__production	Shorn wool, greasy, including fleece-washed shorn wool	Agriculture Production	
+faostat__Silk-worm cocoons suitable for reeling__production	Silk-worm cocoons suitable for reeling	Agriculture Production	
+faostat__Skim Milk & Buttermilk, Dry__production	Skim Milk & Buttermilk, Dry	Agriculture Production	
+faostat__Skim milk and whey powder__production	Skim milk and whey powder	Agriculture Production	
+faostat__Skim milk of cows__production	Skim milk of cows	Agriculture Production	
+faostat__Sour cherries__production	Sour cherries	Agriculture Production	
+faostat__Soya bean oil__production	Soya bean oil	Agriculture Production	
+faostat__Soya beans__production	Soya beans	Agriculture Production	
+faostat__Spinach__production	Spinach	Agriculture Production	
+faostat__Strawberries__production	Strawberries	Agriculture Production	
+faostat__Sugar Crops Primary__production	Sugar Crops Primary	Agriculture Production	
+faostat__Sugar beet__production	Sugar beet	Agriculture Production	
+faostat__Sugar cane__production	Sugar cane	Agriculture Production	
+faostat__Sunflower seed__production	Sunflower seed	Agriculture Production	
+faostat__Sunflower-seed oil, crude__production	Sunflower-seed oil, crude	Agriculture Production	
+faostat__Swine / pigs__production	Swine / pigs	Agriculture Production	
+faostat__Tallow__production	Tallow	Agriculture Production	
+faostat__Tangerines, mandarins, clementines__production	Tangerines, mandarins, clementines	Agriculture Production	
+faostat__Tea leaves__production	Tea leaves	Agriculture Production	
+faostat__Tomatoes__production	Tomatoes	Agriculture Production	
+faostat__Treenuts, Total__production	Treenuts, Total	Agriculture Production	
+faostat__Turkeys__production	Turkeys	Agriculture Production	
+faostat__Unmanufactured tobacco__production	Unmanufactured tobacco	Agriculture Production	
+pahlavi__vegetables_melons_production_1950_1958	Vegetables & Melons (combined), Production, 1950-1958	Agriculture Production	1950-1958
+faostat__Vegetables Primary__production	Vegetables Primary	Agriculture Production	
+faostat__Walnuts, in shell__production	Walnuts, in shell	Agriculture Production	
+faostat__Watermelons__production	Watermelons	Agriculture Production	
+faostat__Wheat__production	Wheat	Agriculture Production	
+faostat__Whey, dry__production	Whey, dry	Agriculture Production	
+faostat__Whole milk powder__production	Whole milk powder	Agriculture Production	
+faostat__Whole milk, condensed__production	Whole milk, condensed	Agriculture Production	
+faostat__Whole milk, evaporated__production	Whole milk, evaporated	Agriculture Production	
+faostat__Alcohol, Non-Food__trade	Alcohol, Non-Food	Agriculture Trade	
+faostat__Alcoholic Beverages__trade	Alcoholic Beverages	Agriculture Trade	
+faostat__Animal fats__trade	Animal fats	Agriculture Trade	
+faostat__Apples and products__trade	Apples and products	Agriculture Trade	
+faostat__Aquatic Animals, Others__trade	Aquatic Animals, Others	Agriculture Trade	
+faostat__Aquatic Plants__trade	Aquatic Plants	Agriculture Trade	
+faostat__Aquatic Products, Other__trade	Aquatic Products, Other	Agriculture Trade	
+faostat__Bananas__trade	Bananas	Agriculture Trade	
+faostat__Barley and products__trade	Barley and products	Agriculture Trade	
+faostat__Beans__trade	Beans	Agriculture Trade	
+faostat__Beer__trade	Beer	Agriculture Trade	
+faostat__Bovine Meat__trade	Bovine Meat	Agriculture Trade	
+faostat__Butter, Ghee__trade	Butter, Ghee	Agriculture Trade	
+faostat__Cassava and products__trade	Cassava and products	Agriculture Trade	
+faostat__Cephalopods__trade	Cephalopods	Agriculture Trade	
+faostat__Cereals - Excluding Beer__trade	Cereals - Excluding Beer	Agriculture Trade	
+faostat__Cereals, Other__trade	Cereals, Other	Agriculture Trade	
+faostat__Citrus, Other__trade	Citrus, Other	Agriculture Trade	
+faostat__Cocoa Beans and products__trade	Cocoa Beans and products	Agriculture Trade	
+faostat__Coconut Oil__trade	Coconut Oil	Agriculture Trade	
+faostat__Coconuts - Incl Copra__trade	Coconuts - Incl Copra	Agriculture Trade	
+faostat__Coffee and products__trade	Coffee and products	Agriculture Trade	
+faostat__Cottonseed__trade	Cottonseed	Agriculture Trade	
+faostat__Cottonseed Oil__trade	Cottonseed Oil	Agriculture Trade	
+faostat__Cream__trade	Cream	Agriculture Trade	
+faostat__Crustaceans__trade	Crustaceans	Agriculture Trade	
+faostat__Dates__trade	Dates	Agriculture Trade	
+faostat__Demersal Fish__trade	Demersal Fish	Agriculture Trade	
+faostat__Eggs__trade	Eggs	Agriculture Trade	
+faostat__Fats, Animals, Raw__trade	Fats, Animals, Raw	Agriculture Trade	
+faostat__Fish, Body Oil__trade	Fish, Body Oil	Agriculture Trade	
+faostat__Fish, Liver Oil__trade	Fish, Liver Oil	Agriculture Trade	
+faostat__Fish, Seafood__trade	Fish, Seafood	Agriculture Trade	
+faostat__Freshwater Fish__trade	Freshwater Fish	Agriculture Trade	
+faostat__Fruits - Excluding Wine__trade	Fruits - Excluding Wine	Agriculture Trade	
+faostat__Fruits, other__trade	Fruits, other	Agriculture Trade	
+faostat__Grapefruit and products__trade	Grapefruit and products	Agriculture Trade	
+faostat__Grapes and products (excl wine)__trade	Grapes and products (excl wine)	Agriculture Trade	
+faostat__Groundnut Oil__trade	Groundnut Oil	Agriculture Trade	
+faostat__Groundnuts__trade	Groundnuts	Agriculture Trade	
+faostat__Groundnuts (Shelled Eq)__trade	Groundnuts (Shelled Eq)	Agriculture Trade	
+faostat__Honey__trade	Honey	Agriculture Trade	
+faostat__Infant food__trade	Infant food	Agriculture Trade	
+faostat__Lemons, Limes and products__trade	Lemons, Limes and products	Agriculture Trade	
+faostat__Maize Germ Oil__trade	Maize Germ Oil	Agriculture Trade	
+faostat__Maize and products__trade	Maize and products	Agriculture Trade	
+faostat__Marine Fish, Other__trade	Marine Fish, Other	Agriculture Trade	
+faostat__Meat__trade	Meat	Agriculture Trade	
+faostat__Meat, Other__trade	Meat, Other	Agriculture Trade	
+faostat__Milk - Excluding Butter__trade	Milk - Excluding Butter	Agriculture Trade	
+faostat__Millet and products__trade	Millet and products	Agriculture Trade	
+faostat__Miscellaneous__trade	Miscellaneous	Agriculture Trade	
+faostat__Molluscs, Other__trade	Molluscs, Other	Agriculture Trade	
+faostat__Mutton & Goat Meat__trade	Mutton & Goat Meat	Agriculture Trade	
+faostat__Nuts and products__trade	Nuts and products	Agriculture Trade	
+faostat__Oats__trade	Oats	Agriculture Trade	
+faostat__Offals__trade	Offals	Agriculture Trade	
+faostat__Offals, Edible__trade	Offals, Edible	Agriculture Trade	
+faostat__Oilcrops__trade	Oilcrops	Agriculture Trade	
+faostat__Oilcrops Oil, Other__trade	Oilcrops Oil, Other	Agriculture Trade	
+faostat__Oilcrops, Other__trade	Oilcrops, Other	Agriculture Trade	
+faostat__Olive Oil__trade	Olive Oil	Agriculture Trade	
+faostat__Olives (including preserved)__trade	Olives (including preserved)	Agriculture Trade	
+faostat__Onions__trade	Onions	Agriculture Trade	
+faostat__Oranges, Mandarines__trade	Oranges, Mandarines	Agriculture Trade	
+faostat__Palm Oil__trade	Palm Oil	Agriculture Trade	
+faostat__Palm kernels__trade	Palm kernels	Agriculture Trade	
+faostat__Palmkernel Oil__trade	Palmkernel Oil	Agriculture Trade	
+faostat__Peas__trade	Peas	Agriculture Trade	
+faostat__Pelagic Fish__trade	Pelagic Fish	Agriculture Trade	
+faostat__Pepper__trade	Pepper	Agriculture Trade	
+faostat__Pigmeat__trade	Pigmeat	Agriculture Trade	
+faostat__Pimento__trade	Pimento	Agriculture Trade	
+faostat__Pineapples and products__trade	Pineapples and products	Agriculture Trade	
+faostat__Potatoes and products__trade	Potatoes and products	Agriculture Trade	
+faostat__Poultry Meat__trade	Poultry Meat	Agriculture Trade	
+faostat__Pulses__trade	Pulses	Agriculture Trade	
+faostat__Pulses, Other and products__trade	Pulses, Other and products	Agriculture Trade	
+faostat__Rape and Mustard Oil__trade	Rape and Mustard Oil	Agriculture Trade	
+faostat__Rape and Mustardseed__trade	Rape and Mustardseed	Agriculture Trade	
+faostat__Rice (Milled Equivalent)__trade	Rice (Milled Equivalent)	Agriculture Trade	
+faostat__Rice and products__trade	Rice and products	Agriculture Trade	
+faostat__Rye and products__trade	Rye and products	Agriculture Trade	
+faostat__Sesame seed__trade	Sesame seed	Agriculture Trade	
+faostat__Sesameseed Oil__trade	Sesameseed Oil	Agriculture Trade	
+faostat__Sorghum and products__trade	Sorghum and products	Agriculture Trade	
+faostat__Soyabean Oil__trade	Soyabean Oil	Agriculture Trade	
+faostat__Soyabeans__trade	Soyabeans	Agriculture Trade	
+faostat__Spices__trade	Spices	Agriculture Trade	
+faostat__Spices, Other__trade	Spices, Other	Agriculture Trade	
+faostat__Starchy Roots__trade	Starchy Roots	Agriculture Trade	
+faostat__Stimulants__trade	Stimulants	Agriculture Trade	
+faostat__Sugar & Sweeteners__trade	Sugar & Sweeteners	Agriculture Trade	
+faostat__Sugar (Raw Equivalent)__trade	Sugar (Raw Equivalent)	Agriculture Trade	
+faostat__Sugar Crops__trade	Sugar Crops	Agriculture Trade	
+faostat__Sugar beet__trade	Sugar beet	Agriculture Trade	
+faostat__Sugar cane__trade	Sugar cane	Agriculture Trade	
+faostat__Sunflower seed__trade	Sunflower seed	Agriculture Trade	
+faostat__Sunflowerseed Oil__trade	Sunflowerseed Oil	Agriculture Trade	
+faostat__Sweeteners, Other__trade	Sweeteners, Other	Agriculture Trade	
+faostat__Tea (including mate)__trade	Tea (including mate)	Agriculture Trade	
+faostat__Tomatoes and products__trade	Tomatoes and products	Agriculture Trade	
+faostat__Treenuts__trade	Treenuts	Agriculture Trade	
+faostat__Vegetable Oils__trade	Vegetable Oils	Agriculture Trade	
+faostat__Vegetables__trade	Vegetables	Agriculture Trade	
+faostat__Vegetables, other__trade	Vegetables, other	Agriculture Trade	
+faostat__Wheat and products__trade	Wheat and products	Agriculture Trade	
+wdi__DT.ODA.ODAT.GN	Net ODA received (% of GNI)	Aid & Development Finance	
+wdi__DC.DAC.TOTL	Net bilateral aid flows from DAC donors, Total	Aid & Development Finance	
+proposed__net_official_flows_un_agencies	Net official flows from UN agencies, by agency	Aid & Development Finance	1968-2023
+wdi__BN.CAB.XOKA	Current account balance	Balance of Payments (Net)	
+wdi__BN.CAB.XOKA.GD	Current account balance (% of GDP)	Balance of Payments (Net)	
+wdi__BN.KLT.DINV	Foreign direct investment, net	Balance of Payments (Net)	
+wdi__BN.KAC.EOMS	Net errors and omissions	Balance of Payments (Net)	
+wdi__BN.FIN.TOTL	Net financial account	Balance of Payments (Net)	
+wdi__BN.GSR.FCTY	Net primary income	Balance of Payments (Net)	
+wdi__BN.TRF.CURR	Net secondary income	Balance of Payments (Net)	
+wdi__BN.GSR.MRCH	Net trade in goods	Balance of Payments (Net)	
+wdi__BN.GSR.GNFS	Net trade in goods and services	Balance of Payments (Net)	
+wdi__BN.RES.INCL	Reserves and related items	Balance of Payments (Net)	
+wdi__BM.GSR.CMCP	Communications, computer, etc. (% of service imports, BoP)	Balance of Payments (Payments)	
+wdi__BM.KLT.DINV.CD	Foreign direct investment, net outflows	Balance of Payments (Payments)	
+wdi__BM.KLT.DINV.WD.GD	Foreign direct investment, net outflows (% of GDP)	Balance of Payments (Payments)	
+wdi__BM.GSR.MRCH	Goods imports	Balance of Payments (Payments)	
+wdi__BM.GSR.GNFS	Imports of goods and services	Balance of Payments (Payments)	
+wdi__BM.GSR.TOTL	Imports of goods, services and primary income	Balance of Payments (Payments)	
+wdi__BM.GSR.INSF	Insurance and financial services (% of service imports, BoP)	Balance of Payments (Payments)	
+wdi__BM.GSR.FCTY	Primary income payments	Balance of Payments (Payments)	
+wdi__BM.TRF.PRVT	Secondary income, other sectors, payments	Balance of Payments (Payments)	
+wdi__BM.GSR.NFSV	Service imports	Balance of Payments (Payments)	
+wdi__BM.GSR.TRAN	Transport services (% of service imports, BoP)	Balance of Payments (Payments)	
+wdi__BM.GSR.TRVL	Travel services (% of service imports, BoP)	Balance of Payments (Payments)	
+wdi__BX.GSR.CMCP	Communications, computer, etc. (% of service exports, BoP)	Balance of Payments (Receipts)	
+wdi__BX.GSR.GNFS	Exports of goods and services	Balance of Payments (Receipts)	
+wdi__BX.GSR.TOTL	Exports of goods, services and primary income	Balance of Payments (Receipts)	
+wdi__BX.KLT.DINV.CD	Foreign direct investment, net inflows	Balance of Payments (Receipts)	
+wdi__BX.KLT.DINV.WD.GD	Foreign direct investment, net inflows (% of GDP)	Balance of Payments (Receipts)	
+wdi__BX.GSR.MRCH	Goods exports	Balance of Payments (Receipts)	
+wdi__BX.GRT.EXTA.CD	Grants, excluding technical cooperation	Balance of Payments (Receipts)	
+wdi__BX.GSR.INSF	Insurance and financial services (% of service exports, BoP)	Balance of Payments (Receipts)	
+wdi__BX.TRF.PWKR.CD	Personal remittances, received	Balance of Payments (Receipts)	
+wdi__BX.TRF.PWKR.DT.GD	Personal remittances, received (% of GDP)	Balance of Payments (Receipts)	
+wdi__BX.GSR.FCTY	Primary income receipts	Balance of Payments (Receipts)	
+wdi__BX.TRF.CURR	Secondary income receipts	Balance of Payments (Receipts)	
+wdi__BX.GSR.NFSV	Service exports	Balance of Payments (Receipts)	
+wdi__BX.GRT.TECH.CD	Technical cooperation grants	Balance of Payments (Receipts)	
+wdi__BX.GSR.TRAN	Transport services (% of service exports, BoP)	Balance of Payments (Receipts)	
+wdi__BX.GSR.TRVL	Travel services (% of service exports, BoP)	Balance of Payments (Receipts)	
+wdi__BG.GSR.NFSV.GD	Trade in services (% of GDP)	Balance of Payments (misc)	
+wdi__IC.BUS.NDNS	New business density (new registrations per 1,000 people ages 15-64)	Business & Investment Climate	
+wdi__IC.BUS	New businesses registered	Business & Investment Climate	
+iran_bizenv__national_index_1398_1404	Iran National Business Environment Monitoring Index (Annual & Quarterly)	Business Cycle Indicators	1398-1404 (2019-2026)
+iran_pmi__sectoral_fy1403	Iran Purchasing Managers' Index (PMI) by Manufacturing Sub-Sector (13 sectors)	Business Cycle Indicators	FY1403 (March 2024-March 2025)
+iran_pmi__whole_economy_fy1403	Iran Purchasing Managers' Index (PMI), Whole Economy, Monthly	Business Cycle Indicators	FY1403 (March 2024-March 2025)
+wdi__CM.MKT.LDOM	Listed domestic companies, total	Capital Markets	
+wdi__CM.MKT.LCAP	Market capitalization of listed domestic companies	Capital Markets	
+wdi__CM.MKT.LCAP.GD	Market capitalization of listed domestic companies (% of GDP)	Capital Markets	
+wdi__CM.MKT.TRAD	Stocks traded, total value	Capital Markets	
+wdi__CM.MKT.TRAD.GD	Stocks traded, total value (% of GDP)	Capital Markets	
+wdi__CM.MKT	Stocks traded, turnover ratio of domestic shares	Capital Markets	
+wdi__VC.BTL	Battle-related deaths (number of people)	Conflict & Violence	
+wdi__VC.IHR.PSRC	Intentional homicides	Conflict & Violence	
+wdi__VC.IHR.PSRC.FE	Intentional homicides, female (per 100,000 female)	Conflict & Violence	
+wdi__VC.IHR.PSRC.MA	Intentional homicides, male (per 100,000 male)	Conflict & Violence	
+wdi__VC.IDP	Internally displaced persons, new displacement associated with disasters (number of cases)	Conflict & Violence	
+proposed__population_by_age_group_sex	Population by age group and sex (% of group population)	Demographics	1960-2025
+wdi__SP.ADO	Adolescent fertility rate (births per 1,000 women ages 15-19)	Demographics & Population	
+wdi__SP.POP.DPND	Age dependency ratio, old (% of working-age population)	Demographics & Population	
+iran_census__household_size_by_province_2011	Average Household Size by Province (2011 Census)	Demographics & Population	2011
+wdi__SP.DYN.CBRT	Birth rate, crude	Demographics & Population	
+wdi__SP.REG.BRTH	Completeness of birth registration	Demographics & Population	
+wdi__SP.REG.BRTH.FE	Completeness of birth registration, female	Demographics & Population	
+wdi__SP.REG.BRTH.MA	Completeness of birth registration, male	Demographics & Population	
+wdi__SP.REG.DTHS	Completeness of death registration with cause-of-death information	Demographics & Population	
+wdi__SP.DYN.CONU	Contraceptive prevalence, any method (% of married women ages 15-49)	Demographics & Population	
+wdi__SP.DYN.CONM	Contraceptive prevalence, any modern method (% of married women ages 15-49)	Demographics & Population	
+wdi__SP.DYN.CDRT	Death rate, crude	Demographics & Population	
+wdi__SP.DYN.TFRT	Fertility rate, total (births per woman)	Demographics & Population	
+iran_census__urban_rural_household_indicators_2011	Household Size & Sex Share by Urban/Rural Residence (2011 Census)	Demographics & Population	2011
+iran_census__household_development_by_residence_1976_2016	Households & Average Household Size by Urban/Rural Residence (1976-2016)	Demographics & Population	1976-2016
+iran_census__housing_tenure_type_2006_2016	Housing Tenure Type, National (2006-2016)	Demographics & Population	2006-2016
+pahlavi__century_indicators_world_rank_1900_2006	Iran's World Rank in Population, Per-Capita Income & Life Expectancy (1900 vs. 2006)	Demographics & Population	1900 (rough estimate) vs. 2006
+wdi__SP.DYN.LE00.FE	Life expectancy at birth, female	Demographics & Population	
+wdi__SP.DYN.LE00.MA	Life expectancy at birth, male	Demographics & Population	
+wdi__SP.DYN.LE00	Life expectancy at birth, total	Demographics & Population	
+iran_census__marriage_migration_patterns_1956_1991	Marriage Age Gap, Internal Migration & Post-Revolution Exile Population (1956-1991)	Demographics & Population	1956-1991
+iran_census__mean_median_age_by_residence_2006_2016	Mean & Median Age of Population by Urban/Rural Residence (2006-2016)	Demographics & Population	2006-2016
+wdi__SP.DYN.AMRT	Mortality rate, adult, by sex	Demographics & Population	
+wdi__SP.DYN.IMRT	Mortality rate, infant	Demographics & Population	
+wdi__SP.DYN.IMRT.FE	Mortality rate, infant, female	Demographics & Population	
+iran_census__nomadic_population_1900_1990s	Nomadic Population Counts & Share of Rural Population (c.1900-1990s)	Demographics & Population	1900-1990s
+iran_census__marital_status_2006_2016	Population Aged 10+ by Marital Status and Sex (2006-2016)	Demographics & Population	2006-2016
+wdi__SP.POP.0014.TO	Population ages 0-14 (% of total population)	Demographics & Population	
+wdi__SP.POP.0014.FE	Population ages 0-14, female	Demographics & Population	
+wdi__SP.POP.0014.MA	Population ages 0-14, male	Demographics & Population	
+wdi__SP.POP.0014	Population ages 0-14, total	Demographics & Population	
+wdi__SP.POP.0004.FE	Population ages 00-04, female (% of female population)	Demographics & Population	
+wdi__SP.POP.0509.FE	Population ages 05-09, female (% of female population)	Demographics & Population	
+wdi__SP.POP.1014.FE	Population ages 10-14, female (% of female population)	Demographics & Population	
+wdi__SP.POP.1519.MA	Population ages 15-19, male (% of male population)	Demographics & Population	
+wdi__SP.POP.1564.TO	Population ages 15-64 (% of total population)	Demographics & Population	
+wdi__SP.POP.1564.FE	Population ages 15-64, female	Demographics & Population	
+wdi__SP.POP.1564.MA	Population ages 15-64, male	Demographics & Population	
+wdi__SP.POP.1564	Population ages 15-64, total	Demographics & Population	
+wdi__SP.POP.2024.FE	Population ages 20-24, female (% of female population)	Demographics & Population	
+wdi__SP.POP.2024.MA	Population ages 20-24, male (% of male population)	Demographics & Population	
+wdi__SP.POP.2529.MA	Population ages 25-29, male (% of male population)	Demographics & Population	
+wdi__SP.POP.3034.FE	Population ages 30-34, female (% of female population)	Demographics & Population	
+wdi__SP.POP.3539.FE	Population ages 35-39, female (% of female population)	Demographics & Population	
+wdi__SP.POP.3539.MA	Population ages 35-39, male (% of male population)	Demographics & Population	
+wdi__SP.POP.4044.FE	Population ages 40-44, female (% of female population)	Demographics & Population	
+wdi__SP.POP.4044.MA	Population ages 40-44, male (% of male population)	Demographics & Population	
+wdi__SP.POP.5054.MA	Population ages 50-54, male (% of male population)	Demographics & Population	
+wdi__SP.POP.5559.FE	Population ages 55-59, female (% of female population)	Demographics & Population	
+wdi__SP.POP.5559.MA	Population ages 55-59, male (% of male population)	Demographics & Population	
+wdi__SP.POP.6064.FE	Population ages 60-64, female (% of female population)	Demographics & Population	
+wdi__SP.POP.6064.MA	Population ages 60-64, male (% of male population)	Demographics & Population	
+wdi__SP.POP.65UP.TO	Population ages 65 and above (% of total population)	Demographics & Population	
+wdi__SP.POP.65UP.FE	Population ages 65 and above, female	Demographics & Population	
+wdi__SP.POP.65UP.MA	Population ages 65 and above, male	Demographics & Population	
+wdi__SP.POP.65UP	Population ages 65 and above, total	Demographics & Population	
+wdi__SP.POP.7579.MA	Population ages 75-79, male (% of male population)	Demographics & Population	
+wdi__SP.POP.80UP.FE	Population ages 80 and above, female (% of female population)	Demographics & Population	
+wdi__SP.POP.80UP.MA	Population ages 80 and above, male (% of male population)	Demographics & Population	
+iran_census__population_by_religion_2011	Population by Religion (2011 Census)	Demographics & Population	2011
+iran_census1996__population_by_sex_residence	Population by Sex and Urban/Rural-Resident/Non-Resident Status, 1996 Census	Demographics & Population	1375 SH (1996)
+wdi__SP.POP.TOTL.FE	Population, female	Demographics & Population	
+wdi__SP.POP.TOTL.MA	Population, male	Demographics & Population	
+wdi__SP.POP	Population, total	Demographics & Population	
+iran_census__premodern_local_counts_1868_1884	Pre-Modern Local Population Counts (Tehran 1868, Shiraz 1883-84, Kerman 1874)	Demographics & Population	1868-1884
+iran_disasters__registered_births_by_sex_1991_2006	Registered Births by Sex, National Annual (1991-2006) + All Provinces (2006)	Demographics & Population	1991-2006
+wdi__SP.POP.SCIE.RD	Researchers in R&D	Demographics & Population	
+wdi__SP.RUR	Rural population	Demographics & Population	
+wdi__SP.RUR.TOTL	Rural population growth	Demographics & Population	
+iran_census__sex_ratio_by_province_2011	Sex Ratio (Males per 100 Females) by Province (2011 Census)	Demographics & Population	2011
+wdi__SP.POP.BRTH	Sex ratio at birth (male births per female births)	Demographics & Population	
+wdi__SP.DYN.TO65.FE	Survival to age 65, female (% of cohort)	Demographics & Population	
+wdi__SP.DYN.TO65.MA	Survival to age 65, male (% of cohort)	Demographics & Population	
+wdi__SP.POP.TECH.RD	Technicians in R&D	Demographics & Population	
+iran_census__tehran_city_population_growth_1956_1972	Tehran City Population, Household Size & National Primacy Share (1956-1972)	Demographics & Population	1956-1972
+wdi__SP.UWT	Unmet need for contraception (% of married women ages 15-49)	Demographics & Population	
+wdi__SP.URB	Urban population	Demographics & Population	
+wdi__SP.URB.TOTL.IN	Urban population (% of total population)	Demographics & Population	
+wdi__SP.M15.2024.FE	Women who were first married by age 15 (% of women ages 20-24)	Demographics & Population	
+wdi__SP.M18.2024.FE	Women who were first married by age 18 (% of women ages 20-24)	Demographics & Population	
+owid__hdi	Human Development Index	Development / Composite Index	
+wdi__SE.PRM.TENR	Adjusted net enrollment rate, primary, by sex (% of primary school age children)	Education	
+wdi__SE.SEC.UNER.LO	Adolescents out of school (% of lower secondary school age)	Education	
+wdi__SE.SEC.UNER.LO.FE	Adolescents out of school, female (% of female lower secondary school age)	Education	
+wdi__SE.SEC.UNER.LO.MA	Adolescents out of school, male (% of male lower secondary school age)	Education	
+owid__mean_years_schooling_long_run	Average Years of Schooling (long-run)	Education	
+wdi__SE.PRM.UNER.FE	Children out of school, female (% of female primary school age)	Education	
+wdi__SE.PRM.UNER.MA	Children out of school, male (% of male primary school age)	Education	
+wdi__SE.PRM.UNER	Children out of school, primary, by sex	Education	
+wdi__SE.COM	Compulsory education, duration	Education	
+wdi__SE.XPD.CPRM	Current education expenditure, primary (% of total expenditure in primary public institutions)	Education	
+wdi__SE.XPD.CSEC	Current education expenditure, secondary (% of total expenditure in secondary public institutions)	Education	
+wdi__SE.XPD.CTER	Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)	Education	
+wdi__SE.XPD.CTOT	Current education expenditure, total (% of total expenditure in public institutions)	Education	
+wdi__SE.TER.CUAT.DO.FE	Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.DO.MA	Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.DO	Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.BA.FE	Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.BA.MA	Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.BA	Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.MS.FE	Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.MS.MA	Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.MS	Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.LO.FE	Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.LO.MA	Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.LO	Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.PO.FE	Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.PO.MA	Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.PO	Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)	Education	
+wdi__SE.PRM.CUAT.FE	Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)	Education	
+wdi__SE.PRM.CUAT.MA	Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)	Education	
+wdi__SE.PRM.CUAT	Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.ST.FE	Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.ST.MA	Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)	Education	
+wdi__SE.TER.CUAT.ST	Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.UP.FE	Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.UP.MA	Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)	Education	
+wdi__SE.SEC.CUAT.UP	Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)	Education	
+wdi__SE.XPD.PRIM	Expenditure on primary education (% of government expenditure on education)	Education	
+wdi__SE.XPD.SECO	Expenditure on secondary education (% of government expenditure on education)	Education	
+wdi__SE.XPD.TERT	Expenditure on tertiary education (% of government expenditure on education)	Education	
+wdi__SE.XPD.TOTL.GD	Government expenditure on education, total (% of GDP)	Education	
+wdi__SE.XPD.TOTL.GB	Government expenditure on education, total (% of government expenditure)	Education	
+wdi__SE.XPD.PRIM.PC	Government expenditure per student, primary (% of GDP per capita)	Education	
+wdi__SE.XPD.SECO.PC	Government expenditure per student, secondary (% of GDP per capita)	Education	
+wdi__SE.XPD.TERT.PC	Government expenditure per student, tertiary (% of GDP per capita)	Education	
+wdi__SE.PRM.GINT.FE	Gross intake ratio in first grade of primary education, female (% of relevant age group)	Education	
+wdi__SE.PRM.GINT.MA	Gross intake ratio in first grade of primary education, male (% of relevant age group)	Education	
+wdi__SE.PRM.GINT	Gross intake ratio in first grade of primary education, total (% of relevant age group)	Education	
+wdi__SE.LPV	Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children	Education	
+wdi__SE.ADT.LITR.FE	Literacy rate, adult female (% of females ages 15 and above)	Education	
+wdi__SE.ADT.LITR.MA	Literacy rate, adult male (% of males ages 15 and above)	Education	
+wdi__SE.ADT.LITR	Literacy rate, adult total (% of people ages 15 and above)	Education	
+wdi__SE.ADT.1524.LT.FM	Literacy rate, youth (ages 15-24), gender parity index	Education	
+wdi__SE.ADT.1524.LT.FE	Literacy rate, youth female (% of females ages 15-24)	Education	
+wdi__SE.ADT.1524.LT.MA	Literacy rate, youth male (% of males ages 15-24)	Education	
+wdi__SE.ADT.1524.LT	Literacy rate, youth total (% of people ages 15-24)	Education	
+wdi__SE.SEC.CMPT.LO.FE	Lower secondary completion rate, female (% of relevant age group)	Education	
+wdi__SE.SEC.CMPT.LO.MA	Lower secondary completion rate, male (% of relevant age group)	Education	
+wdi__SE.SEC.CMPT.LO	Lower secondary completion rate, total (% of relevant age group)	Education	
+wdi__SE.PRM.NINT	Net intake rate in grade 1 (% of official school-age population)	Education	
+wdi__SE.PRM.NINT.FE	Net intake rate in grade 1, female (% of official school-age population)	Education	
+wdi__SE.PRM.NINT.MA	Net intake rate in grade 1, male (% of official school-age population)	Education	
+wdi__SE.PRM.OENR	Over-age students, primary (% of enrollment)	Education	
+wdi__SE.PRM.OENR.FE	Over-age students, primary, female (% of female enrollment)	Education	
+wdi__SE.PRM.OENR.MA	Over-age students, primary, male (% of male enrollment)	Education	
+wdi__SE.PRM.PRS5.FE	Persistence to grade 5, female (% of cohort)	Education	
+wdi__SE.PRM.PRS5.MA	Persistence to grade 5, male (% of cohort)	Education	
+wdi__SE.PRM.PRS5	Persistence to grade 5, total (% of cohort)	Education	
+wdi__SE.PRM.PRSL.FE	Persistence to last grade of primary, female (% of cohort)	Education	
+wdi__SE.PRM.PRSL.MA	Persistence to last grade of primary, male (% of cohort)	Education	
+wdi__SE.PRM.PRSL	Persistence to last grade of primary, total (% of cohort)	Education	
+wdi__SE.PRE	Preprimary education, duration	Education	
+wdi__SE.PRM.CMPT.FE	Primary completion rate, female (% of relevant age group)	Education	
+wdi__SE.PRM.CMPT.MA	Primary completion rate, male (% of relevant age group)	Education	
+wdi__SE.PRM.CMPT	Primary completion rate, total (% of relevant age group)	Education	
+wdi__SE.PRM	Primary education, pupils	Education	
+wdi__SE.PRM.ENRL.FE	Primary education, pupils (% female)	Education	
+wdi__SE.PRM.TCHR.FE	Primary education, teachers (% female)	Education	
+wdi__SE.LPV.PRIM	Primary school age children out-of-school	Education	
+wdi__SE.LPV.PRIM.SD	Primary school age children out-of-school, by sex	Education	
+wdi__SE.SEC.PROG	Progression to secondary school	Education	
+wdi__SE.SEC.PROG.FE	Progression to secondary school, female	Education	
+wdi__SE.SEC.PROG.MA	Progression to secondary school, male	Education	
+wdi__SE.SEC.ENRL.LO.TC	Pupil-teacher ratio, lower secondary	Education	
+wdi__SE.PRE.ENRL.TC	Pupil-teacher ratio, preprimary	Education	
+wdi__SE.PRM.ENRL.TC	Pupil-teacher ratio, primary	Education	
+wdi__SE.SEC.ENRL.TC	Pupil-teacher ratio, secondary	Education	
+wdi__SE.TER.ENRL.TC	Pupil-teacher ratio, tertiary	Education	
+wdi__SE.SEC.ENRL.UP.TC	Pupil-teacher ratio, upper secondary	Education	
+wdi__SE.LPV.PRIM.LD	Pupils below minimum reading proficiency at end of primary, by sex (%). Low GAML threshold	Education	
+wdi__SE.PRM.REPT.FE	Repeaters, primary, female (% of female enrollment)	Education	
+wdi__SE.PRM.REPT.MA	Repeaters, primary, male (% of male enrollment)	Education	
+wdi__SE.PRM.REPT	Repeaters, primary, total (% of total enrollment)	Education	
+wdi__SE.PRE.ENRR	School enrollment, preprimary, by sex	Education	
+wdi__SE.ENR.PRIM.FM	School enrollment, primary (gross), gender parity index	Education	
+wdi__SE.ENR.PRSC.FM	School enrollment, primary and secondary (gross), gender parity index	Education	
+wdi__SE.PRM.ENRR	School enrollment, primary, by sex (% gross)	Education	
+wdi__SE.PRM.NENR	School enrollment, primary, by sex (% net)	Education	
+wdi__SE.PRM.PRIV	School enrollment, primary, private (% of total primary)	Education	
+wdi__SE.ENR.SECO.FM	School enrollment, secondary (gross), gender parity index	Education	
+wdi__SE.SEC.ENRR	School enrollment, secondary, by sex (% gross)	Education	
+wdi__SE.SEC.NENR	School enrollment, secondary, by sex (% net)	Education	
+wdi__SE.SEC.PRIV	School enrollment, secondary, private (% of total secondary)	Education	
+wdi__SE.TER	School enrollment, tertiary	Education	
+wdi__SE.ENR.TERT.FM	School enrollment, tertiary (gross), gender parity index	Education	
+wdi__SE.TER.ENRR	School enrollment, tertiary, by sex	Education	
+wdi__SE.SEC.ENRL	Secondary education, general pupils	Education	
+wdi__SE.SEC.ENRL.GC.FE	Secondary education, general pupils (% female)	Education	
+wdi__SE.SEC	Secondary education, pupils	Education	
+wdi__SE.SEC.ENRL.FE	Secondary education, pupils (% female)	Education	
+wdi__SE.SEC.TCHR.FE	Secondary education, teachers (% female)	Education	
+wdi__SE.SEC.TCHR	Secondary education, teachers, female	Education	
+wdi__SE.SEC.ENRL.VO.FE	Secondary education, vocational pupils (% female)	Education	
+wdi__SE.TER.TCHR.FE	Tertiary education, academic staff (% female)	Education	
+wdi__SE.SEC.TCAQ.LO	Trained teachers in lower secondary education (% of total teachers)	Education	
+wdi__SE.SEC.TCAQ.LO.FE	Trained teachers in lower secondary education, female (% of female teachers)	Education	
+wdi__SE.SEC.TCAQ.LO.MA	Trained teachers in lower secondary education, male (% of male teachers)	Education	
+wdi__SE.PRE.TCAQ	Trained teachers in preprimary education (% of total teachers)	Education	
+wdi__SE.PRM.TCAQ	Trained teachers in primary education (% of total teachers)	Education	
+wdi__SE.PRM.TCAQ.FE	Trained teachers in primary education, female (% of female teachers)	Education	
+wdi__SE.PRM.TCAQ.MA	Trained teachers in primary education, male (% of male teachers)	Education	
+wdi__SE.SEC.TCAQ	Trained teachers in secondary education (% of total teachers)	Education	
+wdi__SE.SEC.TCAQ.FE	Trained teachers in secondary education, female (% of female teachers)	Education	
+wdi__SE.SEC.TCAQ.MA	Trained teachers in secondary education, male (% of male teachers)	Education	
+wdi__SE.SEC.TCAQ.UP	Trained teachers in upper secondary education (% of total teachers)	Education	
+wdi__SE.SEC.TCAQ.UP.FE	Trained teachers in upper secondary education, female (% of female teachers)	Education	
+wdi__SE.SEC.TCAQ.UP.MA	Trained teachers in upper secondary education, male (% of male teachers)	Education	
+wdi__EG.CFT.ACCS	Access to clean fuels and technologies for cooking (% of population)	Energy	
+wdi__EG.CFT.ACCS.RU	Access to clean fuels and technologies for cooking, rural (% of rural population)	Energy	
+wdi__EG.CFT.ACCS.UR	Access to clean fuels and technologies for cooking, urban (% of urban population)	Energy	
+wdi__EG.ELC.ACCS	Access to electricity (% of population)	Energy	
+wdi__EG.ELC.ACCS.RU	Access to electricity, rural (% of rural population)	Energy	
+wdi__EG.ELC.ACCS.UR	Access to electricity, urban (% of urban population)	Energy	
+wdi__EG.USE.COMM.CL	Alternative and nuclear energy (% of total energy use)	Energy	
+wdi__EG.USE.CRNW	Combustible renewables and waste (% of total energy)	Energy	
+pahlavi__domestic_oil_consumption_by_product_1964_69	Domestic Oil Consumption by Product, 1964-1969	Energy	1964-1969
+pahlavi__electric_power_generation_by_use_1968_72	Electric Power Generation by End-Use (incl. Residential), 1968-1972	Energy	1968-1972
+wdi__EG.USE.ELEC.KH	Electric power consumption (kWh per capita)	Energy	
+wdi__EG.ELC.LOSS	Electric power transmission and distribution losses (% of output)	Energy	
+wdi__EG.ELC.COAL	Electricity production from coal sources (% of total)	Energy	
+wdi__EG.ELC.HYRO	Electricity production from hydroelectric sources (% of total)	Energy	
+wdi__EG.ELC.NGAS	Electricity production from natural gas sources (% of total)	Energy	
+wdi__EG.ELC.NUCL	Electricity production from nuclear sources (% of total)	Energy	
+wdi__EG.ELC.PETR	Electricity production from oil sources (% of total)	Energy	
+wdi__EG.ELC.FOSL	Electricity production from oil, gas and coal sources (% of total)	Energy	
+wdi__EG.ELC.RNWX	Electricity production from renewable sources, excluding hydroelectric	Energy	
+wdi__EG.IMP.CONS	Energy imports, net (% of energy use)	Energy	
+wdi__EG.EGY.PRIM.PP	Energy intensity level of primary energy (MJ/$2021 PPP GDP)	Energy	
+wdi__EG.USE.PCAP.KG	Energy use (kg of oil equivalent per capita)	Energy	
+wdi__EG.USE.COMM.GD.PP	Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)	Energy	
+wdi__EG.USE.COMM.FO	Fossil fuel energy consumption (% of total)	Energy	
+wdi__EG.GDP.PUSE.KO	GDP per unit of energy use (PPP $ per kg of oil equivalent)	Energy	
+wdi__EG.GDP.PUSE.KO.PP	GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)	Energy	
+iran_opec__heavy_crude_spot_price_2020_2024	Iran Heavy Crude Oil Spot Price, OPEC Reference Basket (2020-2024)	Energy	2020-2024
+iran_energy__national_balance_1386_1394	Iran National Energy Balance Sheet (SH1386-1394)	Energy	1386-1394 (2007/08-2015/16)
+iran_energy__npc_petrochemical_production_1375_1385	National Petrochemical Company Production by Category	Energy	1375-1385 (1996-2006, gap years)
+iran_energy__natural_gas_consumption_1370_1385	Natural Gas Consumption: Flared, Delivered to NIGC, Injection	Energy	1370-1385 (1991-2006, gap years)
+pahlavi__gas_production_consumption_1965_69	Natural Gas Production, Consumption & Flaring, 1965-1969	Energy	1965-1969
+iran_opec__natural_gas_2020_2024	Natural Gas Reserves, Production, Exports, Imports & Demand (OPEC, 2020-2024)	Energy	2020-2024
+iran_energy__oil_product_domestic_consumption_cbi_1996_2017	Oil Product Domestic Consumption	Energy	1996-2017
+iran_energy__oil_products_imports_1370_1385	Oil Product Imports by Type (Motor Spirit, Kerosene, Gas Oil, Aviation Spirit)	Energy	1370-1385 (1991-2006, gap years)
+iran_energy__oil_product_production_by_refinery_sci_2001_2017	Oil Product Production by Refinery	Energy	2001-2017
+owid__oil_production_volume	Oil Production (physical volume)	Energy	
+wdi__EG.ELC.RNEW	Renewable electricity output (% of total electricity output)	Energy	
+wdi__EG.FEC.RNEW	Renewable energy consumption (% of total final energy consumption)	Energy	
+iran_gasoline_consumption_1955_1972	National Gasoline Consumption	Energy / Transport	1955/56-1972 (continuous, unit changes mid-series)
+wdi__EN.BIR.THRD	Bird species, threatened	Environment	
+wdi__EN.GHG.CO2.ZG	Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990)	Environment	
+wdi__EN.GHG.CO2.MT.CE	Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e)	Environment	
+wdi__EN.GHG.CO2.PC.CE	Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)	Environment	
+wdi__EN.GHG.CO2.AG.MT.CE	Carbon dioxide (CO2) emissions from Agriculture	Environment	
+wdi__EN.GHG.CO2.BU.MT.CE	Carbon dioxide (CO2) emissions from Building (Energy)	Environment	
+wdi__EN.GHG.CO2.FE.MT.CE	Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy)	Environment	
+wdi__EN.GHG.CO2.IC.MT.CE	Carbon dioxide (CO2) emissions from Industrial Combustion (Energy)	Environment	
+wdi__EN.GHG.CO2.IP.MT.CE	Carbon dioxide (CO2) emissions from Industrial Processes	Environment	
+wdi__EN.GHG.CO2.PI.MT.CE	Carbon dioxide (CO2) emissions from Power Industry (Energy)	Environment	
+wdi__EN.GHG.CO2.TR.MT.CE	Carbon dioxide (CO2) emissions from Transport (Energy)	Environment	
+wdi__EN.GHG.CO2.LU.DF.MT.CE	Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation	Environment	
+wdi__EN.GHG.CO2.LU.FL.MT.CE	Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land	Environment	
+wdi__EN.GHG.CO2.LU.MT.CE	Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires	Environment	
+wdi__EN.GHG.CO2.RT.GDP.PP	Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP)	Environment	
+wdi__EN.GHG.CO2.RT.GDP	Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP)	Environment	
+wdi__EN.CLC.MDAT	Droughts, floods, extreme temperatures (% of population, average 1990-2009)	Environment	
+wdi__EN.GHG.FGAS.IP.MT.CE	F-gases emissions from Industrial Processes	Environment	
+wdi__EN.FSH.THRD	Fish species, threatened	Environment	
+wdi__EN.MAM.THRD	Mammal species, threatened	Environment	
+wdi__EN.GHG.CH4.ZG	Methane (CH4) emissions (total) excluding LULUCF (% change from 1990)	Environment	
+wdi__EN.GHG.CH4.MT.CE	Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e)	Environment	
+wdi__EN.GHG.CH4.AG.MT.CE	Methane (CH4) emissions from Agriculture	Environment	
+wdi__EN.GHG.CH4.BU.MT.CE	Methane (CH4) emissions from Building (Energy)	Environment	
+wdi__EN.GHG.CH4.FE.MT.CE	Methane (CH4) emissions from Fugitive Emissions (Energy)	Environment	
+wdi__EN.GHG.CH4.IC.MT.CE	Methane (CH4) emissions from Industrial Combustion (Energy)	Environment	
+wdi__EN.GHG.CH4.IP.MT.CE	Methane (CH4) emissions from Industrial Processes	Environment	
+wdi__EN.GHG.CH4.PI.MT.CE	Methane (CH4) emissions from Power Industry (Energy)	Environment	
+wdi__EN.GHG.CH4.TR.MT.CE	Methane (CH4) emissions from Transport (Energy)	Environment	
+wdi__EN.GHG.CH4.WA.MT.CE	Methane (CH4) emissions from Waste	Environment	
+wdi__EN.GHG.N2O.ZG	Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990)	Environment	
+wdi__EN.GHG.N2O.MT.CE	Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e)	Environment	
+wdi__EN.GHG.N2O.AG.MT.CE	Nitrous oxide (N2O) emissions from Agriculture	Environment	
+wdi__EN.GHG.N2O.BU.MT.CE	Nitrous oxide (N2O) emissions from Building (Energy)	Environment	
+wdi__EN.GHG.N2O.FE.MT.CE	Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy)	Environment	
+wdi__EN.GHG.N2O.IC.MT.CE	Nitrous oxide (N2O) emissions from Industrial Combustion (Energy)	Environment	
+wdi__EN.GHG.N2O.IP.MT.CE	Nitrous oxide (N2O) emissions from Industrial Processes	Environment	
+wdi__EN.GHG.N2O.PI.MT.CE	Nitrous oxide (N2O) emissions from Power Industry (Energy)	Environment	
+wdi__EN.GHG.N2O.TR.MT.CE	Nitrous oxide (N2O) emissions from Transport (Energy)	Environment	
+wdi__EN.GHG.N2O.WA.MT.CE	Nitrous oxide (N2O) emissions from Waste	Environment	
+wdi__EN.ATM.PM25.MC	PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)	Environment	
+wdi__EN.ATM.PM25.MC.T1	PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)	Environment	
+wdi__EN.ATM.PM25.MC.T2	PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)	Environment	
+wdi__EN.ATM.PM25.MC.T3	PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)	Environment	
+wdi__EN.HPT.THRD	Plant species (higher), threatened	Environment	
+wdi__EN.POP	Population density (people per sq. km of land area)	Environment	
+wdi__EN.URB	Population in largest city	Environment	
+wdi__EN.URB.LCTY.UR	Population in the largest city (% of urban population)	Environment	
+wdi__EN.URB.MCTY.TL	Population in urban agglomerations of more than 1 million (% of total population)	Environment	
+wdi__EN.POP.EL5M	Population living in areas where elevation is below 5 meters (% of total population)	Environment	
+wdi__EN.POP.SLUM.UR	Population living in slums (% of urban population)	Environment	
+wdi__EN.POP.EL5M.RU	Rural population living in areas where elevation is below 5 meters (% of total population)	Environment	
+wdi__EN.GHG.TOT.ZG	Total greenhouse gas emissions excluding LULUCF (% change from 1990)	Environment	
+wdi__EN.GHG.ALL.MT.CE	Total greenhouse gas emissions excluding LULUCF (Mt CO2e)	Environment	
+wdi__EN.GHG.ALL.PC.CE	Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita)	Environment	
+wdi__EN.GHG.ALL.LU.MT.CE	Total greenhouse gas emissions including LULUCF	Environment	
+wdi__EN.POP.EL5M.UR	Urban population living in areas where elevation is below 5 meters (% of total population)	Environment	
+wdi__ER.H2O.FWAG	Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)	Environment (Land & Resources)	
+wdi__ER.H2O.FWDM	Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)	Environment (Land & Resources)	
+wdi__ER.H2O.FWIN	Annual freshwater withdrawals, industry (% of total freshwater withdrawal)	Environment (Land & Resources)	
+wdi__ER.H2O.FWTL	Annual freshwater withdrawals, total (billion cubic meters)	Environment (Land & Resources)	
+wdi__ER.FSH.AQUA	Aquaculture production	Environment (Land & Resources)	
+wdi__ER.FSH.CAPT	Capture fisheries production	Environment (Land & Resources)	
+wdi__ER.H2O.FWST	Level of water stress: freshwater withdrawal as a proportion of available freshwater resources	Environment (Land & Resources)	
+wdi__ER.MRN.PTMR	Marine protected areas (% of territorial waters)	Environment (Land & Resources)	
+wdi__ER.H2O.INTR	Renewable internal freshwater resources per capita (cubic meters)	Environment (Land & Resources)	
+wdi__ER.PTD.TOTL	Terrestrial and marine protected areas (% of total territorial area)	Environment (Land & Resources)	
+wdi__ER.LND.PTLD	Terrestrial protected areas (% of total land area)	Environment (Land & Resources)	
+wdi__ER.FSH.PROD	Total fisheries production	Environment (Land & Resources)	
+wdi__ER.GDP.FWTL.M3	Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)	Environment (Land & Resources)	
+fx__official_vs_parallel_gap_irn	U.S. Dollar Exchange Rate	Exchange Rates	1937-2026
+pahlavi__aioc_profits_taxes_royalties_1910_51	AIOC Net Profit, UK Tax Payments & Iran Royalty Payments, 1910-1951	External Debt	1910-1951
+wdi__DT.TDS.DPPF.XP	Debt service (PPG and IMF only, % of exports of goods, services and primary income)	External Debt	
+wdi__DT.TDS.DPPG	Debt service on external debt, public and publicly guaranteed (PPG)	External Debt	
+wdi__DT.TDS.DECT	Debt service on external debt, total	External Debt	
+proposed__external_debt_net_flows_by_creditor_type	External debt net flows, by creditor type	External Debt	1970-2024
+wdi__DT.DOD.DECT.GN	External debt stocks (% of GNI)	External Debt	
+wdi__DT.DOD.DLXF	External debt stocks, long-term	External Debt	
+wdi__DT.DOD.DPNG	External debt stocks, private nonguaranteed (PNG)	External Debt	
+wdi__DT.DOD.DPPG	External debt stocks, public and publicly guaranteed (PPG)	External Debt	
+wdi__DT.DOD.DECT	External debt stocks, total	External Debt	
+wdi__DT.DOD.MWBG	IBRD loans and IDA credits	External Debt	
+wdi__DT.TDS.DIMF	IMF repurchases and charges	External Debt	
+wdi__DT.TDS.MLAT	Multilateral debt service	External Debt	
+wdi__DT.TDS.MLAT.PG	Multilateral debt service (% of public and publicly guaranteed debt service)	External Debt	
+wdi__DT.ODA.ODAT.XP	Net ODA received (% of central government expense)	External Debt	
+wdi__DT.ODA.ODAT.GI	Net ODA received (% of gross capital formation)	External Debt	
+wdi__DT.ODA.ODAT.MP	Net ODA received (% of imports of goods, services and primary income)	External Debt	
+wdi__DT.ODA.ODAT.PC	Net ODA received per capita	External Debt	
+wdi__DT.ODA.ALLD	Net official development assistance and official aid received	External Debt	
+wdi__DT.ODA.ODAT	Net official development assistance received	External Debt	
+wdi__DT.DOD.MIBR	PPG, IBRD	External Debt	
+wdi__DT.DOD.PVLX	Present value of external debt	External Debt	
+wdi__DT.DOD.PVLX.EX	Present value of external debt (% of exports of goods, services and primary income)	External Debt	
+wdi__DT.TDS.DPPG.GN	Public and publicly guaranteed debt service (% of GNI)	External Debt	
+wdi__DT.TDS.DPPG.XP	Public and publicly guaranteed debt service (% of exports of goods, services and primary income)	External Debt	
+wdi__DT.DOD.DSTC.XP	Short-term debt (% of exports of goods, services and primary income)	External Debt	
+wdi__DT.DOD.DSTC	Short-term debt (% of total external debt)	External Debt	
+wdi__DT.DOD.DSTC.IR	Short-term debt (% of total reserves)	External Debt	
+wdi__DT.TDS.DECT.GN	Total debt service (% of GNI)	External Debt	
+wdi__DT.TDS.DECT.EX	Total debt service (% of exports of goods, services and primary income)	External Debt	
+wdi__DT.DOD.DIMF	Use of IMF credit	External Debt	
+wdi__FS.AST.CGOV.GD	Claims on central government, etc.	Financial Sector	
+wdi__FX.OWN.TOTL	Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+)	Financial Sector (Banking Access)	
+wdi__FX.OWN.TOTL.FE	Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)	Financial Sector (Banking Access)	
+wdi__FX.OWN.TOTL.MA	Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)	Financial Sector (Banking Access)	
+wdi__FX.OWN.TOTL.OL	Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)	Financial Sector (Banking Access)	
+wdi__FX.OWN.TOTL.PL	Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)	Financial Sector (Banking Access)	
+wdi__FX.OWN.TOTL.YG	Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)	Financial Sector (Banking Access)	
+wdi__FB.ATM.TOTL	Automated teller machines (ATMs)	Financial Sector (Banking Access)	
+wdi__FB.CBK.BRCH	Commercial bank branches	Financial Sector (Banking Access)	
+wdi__FR.INR	Real interest rate	Financial Sector (Interest Rates)	
+wdi__FI.RES.TOTL	Total reserves in months of imports	Financial Sector (Interest Rates)	
+wdi__FI.RES.XGLD	Total reserves minus gold	Financial Sector (Interest Rates)	
+gfdd__gfdd_si_04	Bank Credit to Bank Deposits (World Bank GFDD)	Financial Sector (Monetary)	1961-2016
+gfdd__gfdd_oi_02	Bank Deposits to GDP (World Bank GFDD)	Financial Sector (Monetary)	1961-2016
+wdi__FM.LBL.BMNY	Broad money	Financial Sector (Monetary)	
+wdi__FM.LBL.BMNY.GD	Broad money (% of GDP)	Financial Sector (Monetary)	
+wdi__FM.LBL.BMNY.IR	Broad money to total reserves ratio	Financial Sector (Monetary)	
+gfdd__gfdd_di_06	Central Bank Assets to GDP (World Bank GFDD)	Financial Sector (Monetary)	1960-2016
+wdi__FM.AST.CGOV.ZG	Claims on central government (annual growth as % of broad money)	Financial Sector (Monetary)	
+wdi__FM.AST.PRVT.ZG	Claims on private sector (annual growth as % of broad money)	Financial Sector (Monetary)	
+pahlavi__monetary_survey_1963_70	Consolidated Banking-System Balance Sheet, Year-End Stock Levels (FY1963/64-1969/70)	Financial Sector (Monetary)	FY1963/64-1969/70
+pahlavi__banking_statistics_private_sector_1957_59	Deposit Banks vs. National Bank Private-Sector Deposits/Advances, 1957-1959	Financial Sector (Monetary)	June 20 snapshots, 1957-1959
+gfdd__gfdd_di_04	Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets (World Bank GFDD)	Financial Sector (Monetary)	1961-2016
+gfdd__gfdd_oi_07	Liquid Liabilities (Broad Money) (World Bank GFDD)	Financial Sector (Monetary)	1960-2016
+gfdd__gfdd_di_05	Liquid Liabilities to GDP (World Bank GFDD)	Financial Sector (Monetary)	1960-2016
+wdi__FM.AST.PRVT.GD	Monetary Sector credit to private sector	Financial Sector (Monetary)	
+pahlavi__money_quasi_money_changes_1965_71	Money & Quasi-Money Component Changes, Year-over-Year Flows (FY1964/65-1970/71)	Financial Sector (Monetary)	FY1964/65-1970/71 projection + 2 first-half-year figures
+pahlavi__monetary_aggregates_movements_1963_73	Money & Quasi-Money Component Movements, Year-over-Year Flows (FY1963-1973)	Financial Sector (Monetary)	FY1963-1973
+pahlavi__money_supply_changes_1957_59	Money Supply & Claims Composition, Semi-Annual Changes (1957-1959)	Financial Sector (Monetary)	June/Dec snapshots, 1957-1959
+wdi__FM.AST.DOMS	Net domestic credit	Financial Sector (Monetary)	
+wdi__FM.AST.NFRG	Net foreign assets	Financial Sector (Monetary)	
+gfdd__gfdd_di_01	Private Credit by Deposit Money Banks to GDP (World Bank GFDD)	Financial Sector (Monetary)	1961-2016
+pahlavi__bank_deposits_private_sector_1963_70	Private-Sector Bank Deposits by Type (Sight/Saving/Time), FY1963/64-1969/70	Financial Sector (Monetary)	FY1963/64-1969/70 (+ 2 rolling 12-month periods)
+wdi__FD.AST.PRVT.GD	Domestic credit to private sector by banks (% of GDP)	Financial Sector (Private Credit)	
+wdi__FI.RES.TOTL.DT	Total reserves (% of total external debt)	Financial Sector (Reserves)	
+iran_provincial__bank_loan_deposit_ratio_1397_1401	Bank Loan-to-Deposit Ratio by Province	Financial Sector / Insurance	2019-2023
+iran_insurance__bmi_own_financial_highlights_1386_1391	Bimeh Markazi Iran (Reinsurer) Own Financial Highlights	Financial Sector / Insurance	1386-1391 (2007-2013)
+iran_provincial__insurance_claims_paid_share_1397_1401	Insurance Claims Paid Share by Province	Financial Sector / Insurance	2018-2022
+iran_insurance__earned_premium_by_class_1383_1389	Insurance Earned Premium by Class	Financial Sector / Insurance	2004-2010
+iran_insurance__incurred_loss_by_class_1383_1389	Insurance Incurred Loss by Class	Financial Sector / Insurance	2004-2010
+iran_provincial__insurance_premium_written_share_1397_1401	Insurance Premium Written Share by Province	Financial Sector / Insurance	2018-2022
+iran_provincial__insurance_premium_per_capita_1397_1401	Insurance Premium per Capita by Province	Financial Sector / Insurance	2018-2022
+iran_insurance__companies_by_ownership_1385_1391	Iranian Insurance Companies by Ownership Type (State vs. Private) & Employment	Financial Sector / Insurance	1385-1391 (2006-2013)
+iran_insurance__market_direct_premium_1379_1384	Iranian Insurance Market: Direct Premium Written & Growth Rate	Financial Sector / Insurance	1379-1384 (2000-2005)
+iran_insurance__market_earned_premium_incurred_loss_1379_1391	Iranian Insurance Market: Earned Premium, Incurred Loss & Loss Ratio	Financial Sector / Insurance	1379-1391 (2000-2013)
+iran_insurance__sales_network_1382_1391	Iranian Insurance Market: Sales Network (SH1382-1391)	Financial Sector / Insurance	1382-1391 (2003-2013)
+specialty_goods__caviar_shilat_production_2013_2024	Official Caviar Production & Export (2013-2024)	Fisheries & Aquaculture	2013/14, 2020-2024 (sparse)
+specialty_goods__caviar_sturgeon_aquaculture_2010_2018	Sturgeon Aquaculture Production, Whole-Fish Live Weight (2010-2018)	Fisheries & Aquaculture	2010-2018 (continuous)
+faostat__Alcoholic Beverages__consumption	Alcoholic Beverages	Food Consumption	
+faostat__Animal Products__consumption	Animal Products	Food Consumption	
+faostat__Animal fats__consumption	Animal fats	Food Consumption	
+faostat__Apples and products__consumption	Apples and products	Food Consumption	
+faostat__Aquatic Animals, Others__consumption	Aquatic Animals, Others	Food Consumption	
+faostat__Bananas__consumption	Bananas	Food Consumption	
+faostat__Barley and products__consumption	Barley and products	Food Consumption	
+faostat__Beans__consumption	Beans	Food Consumption	
+faostat__Beer__consumption	Beer	Food Consumption	
+faostat__Bovine Meat__consumption	Bovine Meat	Food Consumption	
+faostat__Butter, Ghee__consumption	Butter, Ghee	Food Consumption	
+faostat__Cephalopods__consumption	Cephalopods	Food Consumption	
+faostat__Cereals - Excluding Beer__consumption	Cereals - Excluding Beer	Food Consumption	
+faostat__Cereals, Other__consumption	Cereals, Other	Food Consumption	
+faostat__Citrus, Other__consumption	Citrus, Other	Food Consumption	
+faostat__Cloves__consumption	Cloves	Food Consumption	
+faostat__Cocoa Beans and products__consumption	Cocoa Beans and products	Food Consumption	
+faostat__Coconut Oil__consumption	Coconut Oil	Food Consumption	
+faostat__Coconuts - Incl Copra__consumption	Coconuts - Incl Copra	Food Consumption	
+faostat__Coffee and products__consumption	Coffee and products	Food Consumption	
+faostat__Cottonseed Oil__consumption	Cottonseed Oil	Food Consumption	
+faostat__Cream__consumption	Cream	Food Consumption	
+faostat__Crustaceans__consumption	Crustaceans	Food Consumption	
+faostat__Dates__consumption	Dates	Food Consumption	
+faostat__Demersal Fish__consumption	Demersal Fish	Food Consumption	
+faostat__Eggs__consumption	Eggs	Food Consumption	
+faostat__Fats, Animals, Raw__consumption	Fats, Animals, Raw	Food Consumption	
+faostat__Fish, Seafood__consumption	Fish, Seafood	Food Consumption	
+faostat__Freshwater Fish__consumption	Freshwater Fish	Food Consumption	
+faostat__Fruits - Excluding Wine__consumption	Fruits - Excluding Wine	Food Consumption	
+faostat__Fruits, other__consumption	Fruits, other	Food Consumption	
+faostat__Grand Total__consumption	Grand Total	Food Consumption	
+faostat__Grapefruit and products__consumption	Grapefruit and products	Food Consumption	
+faostat__Grapes and products (excl wine)__consumption	Grapes and products (excl wine)	Food Consumption	
+faostat__Groundnut Oil__consumption	Groundnut Oil	Food Consumption	
+faostat__Groundnuts__consumption	Groundnuts	Food Consumption	
+faostat__Groundnuts (Shelled Eq)__consumption	Groundnuts (Shelled Eq)	Food Consumption	
+faostat__Honey__consumption	Honey	Food Consumption	
+faostat__Infant food__consumption	Infant food	Food Consumption	
+faostat__Lemons, Limes and products__consumption	Lemons, Limes and products	Food Consumption	
+faostat__Maize Germ Oil__consumption	Maize Germ Oil	Food Consumption	
+faostat__Maize and products__consumption	Maize and products	Food Consumption	
+faostat__Marine Fish, Other__consumption	Marine Fish, Other	Food Consumption	
+faostat__Meat__consumption	Meat	Food Consumption	
+faostat__Meat, Other__consumption	Meat, Other	Food Consumption	
+faostat__Milk - Excluding Butter__consumption	Milk - Excluding Butter	Food Consumption	
+faostat__Miscellaneous__consumption	Miscellaneous	Food Consumption	
+faostat__Molluscs, Other__consumption	Molluscs, Other	Food Consumption	
+faostat__Mutton & Goat Meat__consumption	Mutton & Goat Meat	Food Consumption	
+faostat__Nuts and products__consumption	Nuts and products	Food Consumption	
+faostat__Oats__consumption	Oats	Food Consumption	
+faostat__Offals__consumption	Offals	Food Consumption	
+faostat__Offals, Edible__consumption	Offals, Edible	Food Consumption	
+faostat__Oilcrops__consumption	Oilcrops	Food Consumption	
+faostat__Oilcrops Oil, Other__consumption	Oilcrops Oil, Other	Food Consumption	
+faostat__Oilcrops, Other__consumption	Oilcrops, Other	Food Consumption	
+faostat__Olive Oil__consumption	Olive Oil	Food Consumption	
+faostat__Olives (including preserved)__consumption	Olives (including preserved)	Food Consumption	
+faostat__Onions__consumption	Onions	Food Consumption	
+faostat__Oranges, Mandarines__consumption	Oranges, Mandarines	Food Consumption	
+faostat__Palm Oil__consumption	Palm Oil	Food Consumption	
+faostat__Palmkernel Oil__consumption	Palmkernel Oil	Food Consumption	
+faostat__Peas__consumption	Peas	Food Consumption	
+faostat__Pelagic Fish__consumption	Pelagic Fish	Food Consumption	
+faostat__Pepper__consumption	Pepper	Food Consumption	
+faostat__Pigmeat__consumption	Pigmeat	Food Consumption	
+faostat__Pimento__consumption	Pimento	Food Consumption	
+faostat__Pineapples and products__consumption	Pineapples and products	Food Consumption	
+faostat__Potatoes and products__consumption	Potatoes and products	Food Consumption	
+faostat__Poultry Meat__consumption	Poultry Meat	Food Consumption	
+faostat__Pulses__consumption	Pulses	Food Consumption	
+faostat__Pulses, Other and products__consumption	Pulses, Other and products	Food Consumption	
+faostat__Rape and Mustard Oil__consumption	Rape and Mustard Oil	Food Consumption	
+faostat__Rape and Mustardseed__consumption	Rape and Mustardseed	Food Consumption	
+faostat__Rice (Milled Equivalent)__consumption	Rice (Milled Equivalent)	Food Consumption	
+faostat__Rice and products__consumption	Rice and products	Food Consumption	
+faostat__Rye and products__consumption	Rye and products	Food Consumption	
+faostat__Sesame seed__consumption	Sesame seed	Food Consumption	
+faostat__Sesameseed Oil__consumption	Sesameseed Oil	Food Consumption	
+faostat__Soyabean Oil__consumption	Soyabean Oil	Food Consumption	
+faostat__Spices__consumption	Spices	Food Consumption	
+faostat__Spices, Other__consumption	Spices, Other	Food Consumption	
+faostat__Starchy Roots__consumption	Starchy Roots	Food Consumption	
+faostat__Stimulants__consumption	Stimulants	Food Consumption	
+faostat__Sugar & Sweeteners__consumption	Sugar & Sweeteners	Food Consumption	
+faostat__Sugar (Raw Equivalent)__consumption	Sugar (Raw Equivalent)	Food Consumption	
+faostat__Sugar Crops__consumption	Sugar Crops	Food Consumption	
+faostat__Sugar cane__consumption	Sugar cane	Food Consumption	
+faostat__Sunflowerseed Oil__consumption	Sunflowerseed Oil	Food Consumption	
+faostat__Sweeteners, Other__consumption	Sweeteners, Other	Food Consumption	
+faostat__Tea (including mate)__consumption	Tea (including mate)	Food Consumption	
+faostat__Tomatoes and products__consumption	Tomatoes and products	Food Consumption	
+faostat__Treenuts__consumption	Treenuts	Food Consumption	
+faostat__Vegetable Oils__consumption	Vegetable Oils	Food Consumption	
+faostat__Vegetables__consumption	Vegetables	Food Consumption	
+faostat__Vegetables, other__consumption	Vegetables, other	Food Consumption	
+faostat__Vegetal Products__consumption	Vegetal Products	Food Consumption	
+faostat__Wheat and products__consumption	Wheat and products	Food Consumption	
+wdi__SG.GEN.PARL	Proportion of seats held by women in national parliaments	Gender	
+wdi__GD_WBL_OVL	WBL: Legal Framework Index	Gender / Legal Rights	
+wdi__GOV_WGI_CC	Control of Corruption - Governance score	Governance (WGI)	
+wdi__GOV_WGI_GE	Government Effectiveness - Governance score	Governance (WGI)	
+wdi__GOV_WGI_PV	Political Stability - Governance score	Governance (WGI)	
+wdi__GOV_WGI_RQ	Regulatory Quality - Governance score	Governance (WGI)	
+wdi__GOV_WGI_RL	Rule of Law - Governance score	Governance (WGI)	
+wdi__GOV_WGI_VA	Voice and Accountability - Governance score	Governance (WGI)	
+wdi__GB.XPD.RSDV.GD	Research and development expenditure (% of GDP)	Government / Governance	
+iranplanbudgetorg__annual_budget_law_totals	Annual Budget Law Totals	Government Finance	1992-2022
+iran_provincial__capital_expenditure_share_1397_1401	Capital Expenditure Budget Execution Share by Province	Government Finance	2018-2022
+wdi__GC.XPN.COMP	Compensation of employees	Government Finance	
+iran_provincial__current_expenditure_share_1397_1401	Current Expenditure Budget Execution Share by Province	Government Finance	2018-2022
+wdi__GC.TAX.IMPT	Customs and other import duties	Government Finance	
+wdi__GC.XPN.TOTL	Expense	Government Finance	
+wdi__GC.XPN.TOTL.GD	Expense (% of GDP)	Government Finance	
+wdi__GC.XPN.GSRV	Goods and services expense	Government Finance	
+iran_monetary__government_debt_to_central_bank_1978_2016	Government Debt to the Central Bank	Government Finance	1978-2016
+weo__net_govt_debt	Government Net Debt (assets netted)	Government Finance	
+weo__primary_balance	Government Primary Balance (excl. interest)	Government Finance	
+iran_giews__wheat_guaranteed_purchase_price_2013_2026	Government-Guaranteed Wheat Procurement Price, Common & Durum (2013-2026)	Government Finance	2013-2026
+wdi__GC.REV.GOTR	Grants and other revenue	Government Finance	
+wdi__GC.XPN.INTP	Interest payments	Government Finance	
+wdi__GC.XPN.INTP.RV	Interest payments (% of revenue)	Government Finance	
+majlis__supplementary_budget_additions	Mid-Year Supplementary Budget Additions (FY1357, 1358, 1369)	Government Finance	FY1357/1358/1369 (1979, 1980, 1991)
+iran_monetary__liquidity_m2_monetary_base_2000_2023	Money Supply and Monetary Base	Government Finance	2001-2023
+wdi__GC.AST.TOTL	Net acquisition of financial assets	Government Finance	
+wdi__GC.AST.TOTL.GD	Net acquisition of financial assets (% of GDP)	Government Finance	
+wdi__GC.LBL.TOTL	Net incurrence of liabilities, total	Government Finance	
+wdi__GC.LBL.TOTL.GD	Net incurrence of liabilities, total (% of GDP)	Government Finance	
+wdi__GC.NFN.TOTL	Net investment in nonfinancial assets	Government Finance	
+wdi__GC.NFN.TOTL.GD	Net investment in nonfinancial assets (% of GDP)	Government Finance	
+wdi__GC.NLD.TOTL	Net lending (+) / net borrowing (-)	Government Finance	
+wdi__GC.NLD.TOTL.GD	Net lending (+) / net borrowing (-) (% of GDP)	Government Finance	
+pahlavi__oil_revenue_distribution_pct_1957_59	Oil Revenue Distribution by Recipient (% share), 1957-1959	Government Finance	1957-1959
+pahlavi__oil_revenue_by_allocation_1955_63	Oil Revenue by Allocation (Budget/NIOC/Plan Org/B.P.C.), 1955/56-1962/63	Government Finance	1955/56-1962/63
+wdi__GC.XPN.OTHR	Other expense	Government Finance	
+wdi__GC.TAX.OTHR	Other taxes	Government Finance	
+wdi__GC.TAX.OTHR.RV	Other taxes (% of revenue)	Government Finance	
+wdi__GC.REV.XGRT	Revenue, excluding grants	Government Finance	
+wdi__GC.REV.XGRT.GD	Revenue, excluding grants (% of GDP)	Government Finance	
+wdi__GC.REV.SOCL	Social contributions	Government Finance	
+wdi__GC.XPN.TRFT	Subsidies and other transfers	Government Finance	
+wdi__GC.TAX.TOTL	Tax revenue	Government Finance	
+wdi__GC.TAX.TOTL.GD	Tax revenue (% of GDP)	Government Finance	
+wdi__GC.TAX.EXPT	Taxes on exports	Government Finance	
+wdi__GC.TAX.GSRV	Taxes on goods and services	Government Finance	
+wdi__GC.TAX.GSRV.RV	Taxes on goods and services (% of revenue)	Government Finance	
+wdi__GC.TAX.GSRV.VA	Taxes on goods and services (% value added of industry and services)	Government Finance	
+wdi__GC.TAX.YPKG	Taxes on income, profits and capital gains	Government Finance	
+wdi__GC.TAX.YPKG.RV	Taxes on income, profits and capital gains (% of revenue)	Government Finance	
+wdi__GC.TAX.INTT	Taxes on international trade	Government Finance	
+wdi__GC.TAX.INTT.RV	Taxes on international trade (% of revenue)	Government Finance	
+iran_sci1399__government_budget_summary_1385_1400	Total Country Budget: Resources & Uses Breakdown (SH1385-1400)	Government Finance	FY1385-1400 (~2006-2021)
+wdi__SH.STA.ARIC	ARI treatment (% of children under 5 taken to a health provider)	Health	
+wdi__SH.STA.BRTC	Births attended by skilled health staff (% of total)	Health	
+wdi__SH.DTH.COMM	Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)	Health	
+wdi__SH.DTH.INJR	Cause of death, by injury (% of total)	Health	
+wdi__SH.DTH.NCOM	Cause of death, by non-communicable diseases (% of total)	Health	
+wdi__SH.DTH.OCVD	Cause of death, by other COVID-19 pandemic-related outcomes (% of total)	Health	
+wdi__SH.MED.CMHW	Community health workers	Health	
+wdi__SH.XPD.CHEX.GD	Current health expenditure (% of GDP)	Health	
+wdi__SH.XPD.CHEX.PC	Current health expenditure per capita	Health	
+wdi__SH.XPD.CHEX.PP	Current health expenditure per capita, PPP	Health	
+wdi__SH.STA.DIAB	Diabetes prevalence (% of population ages 20 to 79)	Health	
+wdi__SH.STA.ORCF	Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)	Health	
+wdi__SH.STA	Diarrhea treatment (% of children under 5 who received ORS packet)	Health	
+wdi__SH.XPD.GHED.GD	Domestic general government health expenditure (% of GDP)	Health	
+wdi__SH.XPD.GHED.CH	Domestic general government health expenditure (% of current health expenditure)	Health	
+wdi__SH.XPD.GHED.GE	Domestic general government health expenditure (% of general government expenditure)	Health	
+wdi__SH.XPD.GHED.PC	Domestic general government health expenditure per capita	Health	
+wdi__SH.XPD.GHED.PP	Domestic general government health expenditure per capita, PPP	Health	
+wdi__SH.XPD.PVTD.CH	Domestic private health expenditure (% of current health expenditure)	Health	
+wdi__SH.XPD.PVTD.PC	Domestic private health expenditure per capita	Health	
+wdi__SH.XPD.PVTD.PP	Domestic private health expenditure per capita, PPP	Health	
+wdi__SH.STA.BFED	Exclusive breastfeeding (% of children under 6 months)	Health	
+wdi__SH.XPD.EHEX.CH	External health expenditure (% of current health expenditure)	Health	
+wdi__SH.XPD.EHEX.PC	External health expenditure per capita	Health	
+wdi__SH.XPD.EHEX.PP	External health expenditure per capita, PPP	Health	
+iran_census__fertility_family_planning_1956_1991	Fertility, Family Planning & Contraceptive Distribution (1956-1991)	Health	1956-1991
+iran_census__wb_archives_reproduction_family_size_1966_1982	Gross/Net Reproduction Rate & Completed Family Size, Rural vs. Tehran (1966-1982)	Health	1966-1982
+wdi__SH.MED.BEDS	Hospital beds	Health	
+wdi__SH.IMM	Immunization, HepB3 (% of one-year-old children)	Health	
+wdi__SH.MLR.INCD	Incidence of malaria	Health	
+wdi__SH.TBS	Incidence of tuberculosis	Health	
+wdi__SH.MMR.RISK	Lifetime risk of maternal death	Health	
+wdi__SH.STA.MMRT	Maternal mortality ratio (national estimate, per 100,000 live births)	Health	
+wdi__SH.STA.TRAF	Mortality caused by road traffic injury	Health	
+wdi__SH.DYN.NCOM	Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70	Health	
+wdi__SH.DYN.NCOM.MA	Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male	Health	
+wdi__SH.STA.AIRP	Mortality rate attributed to household and ambient air pollution, age-standardized	Health	
+wdi__SH.STA.AIRP.FE	Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)	Health	
+wdi__SH.STA.AIRP.MA	Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)	Health	
+wdi__SH.STA.POIS	Mortality rate attributed to unintentional poisoning	Health	
+wdi__SH.STA.POIS.P5	Mortality rate attributed to unintentional poisoning, by sex	Health	
+wdi__SH.STA.WASH	Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene	Health	
+wdi__SH.DYN	Mortality rate, under-5	Health	
+wdi__SH.DYN.MORT	Mortality rate, under-5, by sex	Health	
+wdi__SH.VAC.TTNS	Newborns protected against tetanus	Health	
+wdi__SH.DTH	Number of infant deaths	Health	
+wdi__SH.MMR	Number of maternal deaths	Health	
+wdi__SH.SGR.PROC	Number of surgical procedures	Health	
+wdi__SH.MED.NUMW	Nurses and midwives	Health	
+wdi__SH.XPD.OOPC.CH	Out-of-pocket expenditure (% of current health expenditure)	Health	
+wdi__SH.XPD.OOPC.PC	Out-of-pocket expenditure per capita	Health	
+wdi__SH.XPD.OOPC.PP	Out-of-pocket expenditure per capita, PPP	Health	
+wdi__SH.STA.ODFC	People practicing open defecation (% of population)	Health	
+wdi__SH.STA.ODFC.RU	People practicing open defecation, rural (% of rural population)	Health	
+wdi__SH.STA.ODFC.UR	People practicing open defecation, urban (% of urban population)	Health	
+wdi__SH.H2O.BASW	People using at least basic drinking water services (% of population)	Health	
+wdi__SH.H2O.BASW.RU	People using at least basic drinking water services, rural (% of rural population)	Health	
+wdi__SH.H2O.BASW.UR	People using at least basic drinking water services, urban (% of urban population)	Health	
+wdi__SH.STA.BASS	People using at least basic sanitation services (% of population)	Health	
+wdi__SH.STA.BASS.RU	People using at least basic sanitation services, rural (% of rural population)	Health	
+wdi__SH.STA.BASS.UR	People using at least basic sanitation services, urban (% of urban population)	Health	
+wdi__SH.H2O.SMDW	People using safely managed drinking water services (% of population)	Health	
+wdi__SH.H2O.SMDW.RU	People using safely managed drinking water services, rural (% of rural population)	Health	
+wdi__SH.H2O.SMDW.UR	People using safely managed drinking water services, urban (% of urban population)	Health	
+wdi__SH.STA.SMSS.UR	People using safely managed sanitation services, urban (% of urban population)	Health	
+wdi__SH.MED.PHYS	Physicians	Health	
+wdi__SH.STA.ANVC	Pregnant women receiving prenatal care	Health	
+wdi__SH.ANM.CHLD	Prevalence of anemia among children (% of children ages 6-59 months)	Health	
+wdi__SH.ANM.NPRG	Prevalence of anemia among non-pregnant women (% of women ages 15-49)	Health	
+wdi__SH.PRG	Prevalence of anemia among pregnant women	Health	
+wdi__SH.ANM.ALLW	Prevalence of anemia among women of reproductive age (% of women ages 15-49)	Health	
+wdi__SH.PRV	Prevalence of current tobacco use (% of adults)	Health	
+wdi__SH.PRV.SMOK	Prevalence of current tobacco use, by sex (% of adults)	Health	
+wdi__SH.STA.OWGH.ME	Prevalence of overweight, weight for height (modeled estimate, % of children under 5)	Health	
+wdi__SH.STA.OWGH.FE	Prevalence of overweight, weight for height, female (% of children under 5)	Health	
+wdi__SH.STA.OWGH.ME.FE	Prevalence of overweight, weight for height, female (modeled estimate, % of children under 5)	Health	
+wdi__SH.STA.OWGH.MA	Prevalence of overweight, weight for height, male (% of children under 5)	Health	
+wdi__SH.SVR.WAST	Prevalence of severe wasting, weight for height (% of children under 5)	Health	
+wdi__SH.SVR.WAST.FE	Prevalence of severe wasting, weight for height, female (% of children under 5)	Health	
+wdi__SH.SVR.WAST.MA	Prevalence of severe wasting, weight for height, male (% of children under 5)	Health	
+wdi__SH.STA.STNT.ME	Prevalence of stunting, height for age (modeled estimate, % of children under 5)	Health	
+wdi__SH.STA.STNT.ME.FE	Prevalence of stunting, height for age, female (modeled estimate, % of children under 5)	Health	
+wdi__SH.STA.STNT.ME.MA	Prevalence of stunting, height for age, male (modeled estimate, % of children under 5)	Health	
+wdi__SH.STA.MALN	Prevalence of underweight, weight for age (% of children under 5)	Health	
+wdi__SH.STA.MALN.FE	Prevalence of underweight, weight for age, female (% of children under 5)	Health	
+wdi__SH.STA.MALN.MA	Prevalence of underweight, weight for age, male (% of children under 5)	Health	
+wdi__SH.STA.WAST	Prevalence of wasting, weight for height (% of children under 5)	Health	
+wdi__SH.STA.WAST.FE	Prevalence of wasting, weight for height, female (% of children under 5)	Health	
+wdi__SH.STA.WAST.MA	Prevalence of wasting, weight for height, male (% of children under 5)	Health	
+wdi__SH_UHC_FH40	Proportion of population facing large (but non-impoverishing) out-of-pocket health expenditure	Health	
+wdi__SH.SGR.CRSK	Risk of catastrophic expenditure for surgical care (% of people at risk)	Health	
+wdi__SH.SGR.IRSK	Risk of impoverishing expenditure for surgical care (% of people at risk)	Health	
+wdi__SH.MED.SAOP	Specialist surgical workforce	Health	
+wdi__SH.STA.SUIC	Suicide mortality rate	Health	
+wdi__SH.STA.SUIC.FE	Suicide mortality rate, female (per 100,000 female population)	Health	
+wdi__SH.STA.SUIC.MA	Suicide mortality rate, male (per 100,000 male population)	Health	
+wdi__SH.ALC.PCAP	Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)	Health	
+wdi__SH.ALC.PCAP.FE	Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)	Health	
+wdi__SH.ALC.PCAP.MA	Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)	Health	
+wdi__SH.TBS.DTEC	Tuberculosis case detection rate (%, all forms)	Health	
+wdi__SH.TBS.CURE	Tuberculosis treatment success rate (% of new cases)	Health	
+wdi__SH_UHC	UHC service coverage index	Health	
+wdi__SH_UHC_SCI	UHC service coverage sub-index on infectious diseases	Health	
+wdi__SH.DYN.AIDS.FE	Women's share of population ages 15+ living with HIV	Health	
+iran_household__heis_analysis_growth_poverty_gini_2023_2025	Household Expenditure, Poverty and Inequality	Household Consumption	2022-2024
+pahlavi_hh__dairy_consumption_by_type_1972_1977	Dairy Product Consumption by Type	Household Consumption & Expenditure	1972-1977
+pahlavi_hh__expenditure_shares_by_category_1965_1971	Household Expenditure Composition, % Shares by Category, Urban & Rural (1965-1971)	Household Consumption & Expenditure	1965-1971
+pahlavi_hh__expenditure_levels_rials_1965_1971	Household Expenditure Levels, Rials/Month/Household by Category (1965-1971)	Household Consumption & Expenditure	1965-1971
+pahlavi_hh__milk_supply_by_source_1972_1977	Milk Supply by Animal Source	Household Consumption & Expenditure	1972-1977
+pahlavi_hh__nonfood_consumption_index_1955_1958	Non-Food & Aggregate Per-Capita Consumption Index, 1955-1958	Household Consumption & Expenditure	1955-1958
+iran_data_portal__housing_units_by_household_size_1966_2006	Housing Units by Number of Resident Households, Census Years (1966-2006)	Housing	1966, 1976, 1986, 1996, 2006 (5 census points only, not annual)
+wdi__HD_HCIP_OVRL	Human capital index plus (HCI+): overall score, male (scale 0, 325)	Human Capital	
+wdi__HD_HCIP_EDUC	Human capital index plus (HCI+): education pillar score, male (scale 0, 188)	Human Capital	
+wdi__HD_HCIP_HLTH	Human capital index plus (HCI+): health pillar score, male (scale 0, 50)	Human Capital	
+wdi__HD_HCIP_OTJL	Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30, 87)	Human Capital	
+iran_automotive_national_vehicle_production_1970_2018	National Motor Vehicle Production (incl. Paykan/Iran Khodro Milestones)	Industry / Automotive	1970-2005 (production counts) + milestone events to 2018
+iran_cigarette_production_1954_1959	Cigarette Production	Industry / Light Manufacturing	1954/55-1958/59
+iran_processed_sugar_output_pahlavi_era	Processed (Refined) Sugar Output	Industry / Light Manufacturing	1954/55-1958/59
+iran_processed_tea_output_pahlavi_era	Processed Tea Output (Manufacturing, not Raw Leaf)	Industry / Light Manufacturing	1954/55-1958/59
+iran_textile_cloth_output_by_fiber_1954_1959	Textile Cloth Output by Fiber Type (Cotton, Woolen, Jute, Silk)	Industry / Light Manufacturing	1954/55-1958/59
+specialty_goods__tobacco_post_privatization_2018	Tobacco Market Post-2012-Privatization: Consumption, Smokers & Import Dependency (2018)	Industry / Light Manufacturing	2018 (single snapshot)
+wdi__NV.AGR.TOTL.KD	Agriculture, forestry, and fishing, value added	Industry / Value Added by Sector	
+wdi__NV.AGR.TOTL	Agriculture, forestry, and fishing, value added (% of GDP)	Industry / Value Added by Sector	
+wdi__NV.AGR.EMPL	Agriculture, forestry, and fishing, value added per worker	Industry / Value Added by Sector	
+wdi__NV.MNF.CHEM.ZS	Chemicals (% of value added in manufacturing)	Industry / Value Added by Sector	
+wdi__NV.FSM.TOTL	Financial intermediary services indirectly Measured (FISIM)	Industry / Value Added by Sector	
+wdi__NV.MNF.FBTO.ZS	Food, beverages and tobacco (% of value added in manufacturing)	Industry / Value Added by Sector	
+iran_provincial__industrial_production_value_share_1396_1400	Industrial Production Value Share by Province	Industry / Value Added by Sector	2017-2021
+iran_provincial__industrial_workshop_count_share_1396_1400	Industrial Workshop Count Share by Province	Industry / Value Added by Sector	2017-2021
+wdi__NV.IND.TOTL.KD	Industry (including construction), value added	Industry / Value Added by Sector	
+wdi__NV.IND.TOTL	Industry (including construction), value added (% of GDP)	Industry / Value Added by Sector	
+wdi__NV.IND.EMPL	Industry (including construction), value added per worker	Industry / Value Added by Sector	
+iran_unido_cip__iran_subindicators_2010_2014	Iran UNIDO Competitive Industrial Performance (CIP) Index, Rank & 8 Sub-Indicators	Industry / Value Added by Sector	2010-2014
+wdi__NV.MNF.MTRN.ZS	Machinery and transport equipment (% of value added in manufacturing)	Industry / Value Added by Sector	
+wdi__NV.IND.MANF.KD	Manufacturing, value added	Industry / Value Added by Sector	
+wdi__NV.IND.MANF	Manufacturing, value added (% of GDP)	Industry / Value Added by Sector	
+wdi__NV.MNF.TECH.ZS	Medium and high-tech manufacturing value added	Industry / Value Added by Sector	
+wdi__NV.MNF.OTHR.ZS	Other manufacturing (% of value added in manufacturing)	Industry / Value Added by Sector	
+wdi__NV.SRV.TOTL.KD	Services, value added	Industry / Value Added by Sector	
+wdi__NV.SRV.TOTL	Services, value added (% of GDP)	Industry / Value Added by Sector	
+wdi__NV.SRV.EMPL	Services, value added per worker	Industry / Value Added by Sector	
+wdi__NV.MNF.TXTL.ZS	Textiles and clothing (% of value added in manufacturing)	Industry / Value Added by Sector	
+iran_unido_cip__regional_comparison_2010_2014	UNIDO Competitive Industrial Performance (CIP) Rank & Score, Iran vs. Regional Economies	Industry / Value Added by Sector	2010-2014
+iran_provincial__mining_production_value_1397_1401	Value of Mine Production Share by Province	Industry / Value Added by Sector	1397-1401 (2018-2023)
+wid__avg_national_income	Average National Income per Adult	Inequality & Wealth	
+wid__wealth_share_top1	Net Wealth Share, Top 1%	Inequality & Wealth	
+wid__wealth_share_top10	Net Wealth Share, Top 10%	Inequality & Wealth	
+wid__income_share_top1	Pre-Tax Income Share, Top 1%	Inequality & Wealth	
+wid__income_share_top10	Pre-Tax Income Share, Top 10%	Inequality & Wealth	
+wdi__IT.NET.BBND	Fixed broadband subscriptions	Infrastructure & Technology	
+wdi__IT.MLT	Fixed telephone subscriptions	Infrastructure & Technology	
+wdi__IT.MLT.MAIN	Fixed telephone subscriptions (per 100 people)	Infrastructure & Technology	
+wdi__IT.NET.USER	Individuals using the Internet (% of population)	Infrastructure & Technology	
+wdi__IT.NET.USER.FE	Individuals using the Internet, female (% of female population)	Infrastructure & Technology	
+wdi__IT.NET.USER.MA	Individuals using the Internet, male (% of male population)	Infrastructure & Technology	
+wdi__IT.CEL	Mobile cellular subscriptions	Infrastructure & Technology	
+wdi__IT.CEL.SETS	Mobile cellular subscriptions (per 100 people)	Infrastructure & Technology	
+iran_telecom__postal_service_1913_1989	Postal Service: Post Office/Box Counts & Mail Volumes (1913-1989)	Infrastructure & Technology	1913, 1953, 1965, 1976, 1989
+wdi__IT.NET	Secure Internet servers	Infrastructure & Technology	
+wdi__IT.NET.SECR	Secure Internet servers (per 1 million people)	Infrastructure & Technology	
+iran_telecom__telegraph_offices_1914_1989	Telegraph: Cable Length, Office Counts & Telex Stations (1914-1989)	Infrastructure & Technology	1914, 1953, 1975, 1989
+wdi__IE.PPI.ICTI	Investment in ICT with private participation	Infrastructure (Energy)	
+wdi__IE.PPI.ENGY	Investment in energy with private participation	Infrastructure (Energy)	
+wdi__IE.PPN.ENGY	Public private partnerships investment in energy	Infrastructure (Energy)	
+wdi__IS.AIR.GOOD.MT	Air transport, freight (million ton-km)	Infrastructure (Transport)	
+wdi__IS.AIR	Air transport, passengers carried	Infrastructure (Transport)	
+wdi__IS.SHP.GOOD	Container port traffic (TEU: 20 foot equivalent units)	Infrastructure (Transport)	
+wdi__IE.PPI.TRAN	Investment in transport with private participation	Infrastructure (Transport)	
+wdi__IS.SHP.GCNW	Liner shipping connectivity index (maximum value in 2004 = 100)	Infrastructure (Transport)	
+wdi__IE.PPN.TRAN	Public private partnerships investment in transport	Infrastructure (Transport)	
+wdi__IS.RRS.TOTL	Rail lines (total route-km)	Infrastructure (Transport)	
+wdi__IS.RRS.GOOD.MT	Railways, goods transported (million ton-km)	Infrastructure (Transport)	
+wdi__IS.RRS.PASG	Railways, passengers carried (million passenger-km)	Infrastructure (Transport)	
+iran_vehicle_registration_by_type_1955_1972	Road Vehicle Registration by Type (Cars, Buses, Trucks, Motorcycles)	Infrastructure (Transport)	1955/56, 1960/61, then continuous 1962-1972
+iran_railways_income_expense_1953_1961	Iranian State Railways, Income & Expense Account	Infrastructure (Transport) / Government Finance	1953/54-1960/61
+wdi__IP.IDS	Industrial design applications, resident, by count	Intellectual Property	
+wdi__IP.PAT	Patent applications, residents	Intellectual Property	
+wdi__IP.JRN.ARTC	Scientific and technical journal articles	Intellectual Property	
+wdi__IP.TMK	Trademark applications, resident, by count	Intellectual Property	
+pahlavi__consortium_disbursements_1954_62	Consortium Disbursements in Iran incl. Aggregate Oil-Sector Wage Bill, 1954-1962	Labor & Employment	1954-1962
+wdi__SL.FAM.WORK.FE	Contributing family workers, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.FAM.WORK.MA	Contributing family workers, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.FAM.WORK	Contributing family workers, total (% of total employment) (modeled ILO estimate)	Labor & Employment	
+iran_disasters__employed_by_occupation_gender_2005_2013	Employed Persons by Occupation Category x Sex x Urban/Rural/Total, Annual (2005-2013)	Labor & Employment	2005-2013
+wdi__SL.EMP.MPYR.FE	Employers, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.MPYR.MA	Employers, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.MPYR	Employers, total (% of total employment) (modeled ILO estimate)	Labor & Employment	
+iran_data_portal__employment_by_gender_1966_2011	Employment by Gender, Absolute Headcounts & Female Share (1966-2011)	Labor & Employment	1966-2011
+iran_data_portal__employment_by_sector_1956_2011	Employment by Sector, 14-Sector Breakdown, Absolute Headcounts (1956-2011)	Labor & Employment	1956-2011
+wdi__SL.AGR.EMPL	Employment in agriculture (% of total employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.AGR.EMPL.FE	Employment in agriculture, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.AGR.EMPL.MA	Employment in agriculture, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.IND.EMPL	Employment in industry (% of total employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.IND.EMPL.FE	Employment in industry, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.IND.EMPL.MA	Employment in industry, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.SRV.EMPL	Employment in services (% of total employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.SRV.EMPL.FE	Employment in services, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.SRV.EMPL.MA	Employment in services, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.TOTL.SP.FE	Employment to population ratio, 15+, female (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.TOTL.SP.MA	Employment to population ratio, 15+, male (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.TOTL.SP.MA.NE	Employment to population ratio, 15+, male (%) (national estimate)	Labor & Employment	
+wdi__SL.EMP.TOTL.SP	Employment to population ratio, 15+, total (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.TOTL.SP.NE	Employment to population ratio, 15+, total (%) (national estimate)	Labor & Employment	
+wdi__SL.EMP.1524.SP.FE	Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.1524.SP.FE.NE	Employment to population ratio, ages 15-24, female (%) (national estimate)	Labor & Employment	
+wdi__SL.EMP.1524.SP.MA	Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.1524.SP.MA.NE	Employment to population ratio, ages 15-24, male (%) (national estimate)	Labor & Employment	
+wdi__SL.EMP.1524.SP	Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.1524.SP.NE	Employment to population ratio, ages 15-24, total (%) (national estimate)	Labor & Employment	
+wdi__SL.EMP.SMGT.FE	Female share of employment in senior and middle management	Labor & Employment	
+wdi__SL.GDP.PCAP.EM	GDP per person employed (constant 2021 PPP $)	Labor & Employment	
+iran_sci1399__labor_force_indicators_1380_1399	Labor Force Indicators: Participation & Unemployment by Area/Sex (SH1380-1399)	Labor & Employment	1380-1399 SH (~2001-2020)
+wdi__SL.TLF.ACTI.1524.FE	Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI.1524.FE.NE	Labor force participation rate for ages 15-24, female (%) (national estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI.1524.MA	Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI.1524.MA.NE	Labor force participation rate for ages 15-24, male (%) (national estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI.1524	Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI.1524.NE	Labor force participation rate for ages 15-24, total (%) (national estimate)	Labor & Employment	
+wdi__SL.TLF.CACT.FE	Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI.FE	Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.CACT.MA	Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI.MA	Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.CACT	Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.CACT.NE	Labor force participation rate, total (% of total population ages 15+) (national estimate)	Labor & Employment	
+wdi__SL.TLF.ACTI	Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.ADVN	Labor force with advanced education (% of total working-age population with advanced education)	Labor & Employment	
+wdi__SL.TLF.ADVN.FE	Labor force with advanced education, female (% of female working-age population with advanced education)	Labor & Employment	
+wdi__SL.TLF.ADVN.MA	Labor force with advanced education, male (% of male working-age population with advanced education)	Labor & Employment	
+wdi__SL.TLF.BASC	Labor force with basic education (% of total working-age population with basic education)	Labor & Employment	
+wdi__SL.TLF.BASC.FE	Labor force with basic education, female (% of female working-age population with basic education)	Labor & Employment	
+wdi__SL.TLF.BASC.MA	Labor force with basic education, male (% of male working-age population with basic education)	Labor & Employment	
+wdi__SL.TLF.INTM	Labor force with intermediate education (% of total working-age population with intermediate education)	Labor & Employment	
+wdi__SL.TLF.INTM.FE	Labor force with intermediate education, female (% of female working-age population with intermediate education)	Labor & Employment	
+wdi__SL.TLF.INTM.MA	Labor force with intermediate education, male (% of male working-age population with intermediate education)	Labor & Employment	
+wdi__SL.TLF.TOTL.FE	Labor force, female (% of total labor force)	Labor & Employment	
+wdi__SL.TLF.TOTL	Labor force, total	Labor & Employment	
+pahlavi__oil_industry_employment_by_nationality_1939_60	Oil Industry Employment by Nationality, 1939-1960	Labor & Employment	1939-1960
+pahlavi__oil_industry_personnel_by_company_category_1955_61	Oil Industry Personnel by Company & Labor Category, 1955-1961	Labor & Employment	1955-1961
+wdi__SL.TLF.PART.FE	Part time employment, female (% of total female employment)	Labor & Employment	
+wdi__SL.TLF.PART.MA	Part time employment, male (% of total male employment)	Labor & Employment	
+wdi__SL.TLF.PART	Part time employment, total (% of total employment)	Labor & Employment	
+wdi__SL.TLF.CACT.FM	Ratio of female to male labor force participation rate (%) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.TLF.CACT.FM.NE	Ratio of female to male labor force participation rate (%) (national estimate)	Labor & Employment	
+wdi__SL.EMP.SELF.FE	Self-employed, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.SELF.MA	Self-employed, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.SELF	Self-employed, total (% of total employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.NEET.FE	Share of youth not in education, employment or training, female (% of female youth population)	Labor & Employment	
+wdi__SL.UEM.NEET.MA	Share of youth not in education, employment or training, male (% of male youth population)	Labor & Employment	
+wdi__SL.UEM.NEET.MA.ME	Share of youth not in education, employment or training, male (% of male youth population) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.NEET	Share of youth not in education, employment or training, total (% of youth population)	Labor & Employment	
+wdi__SL.UEM.NEET.ME	Share of youth not in education, employment or training, total (% of youth population) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.ADVN	Unemployment with advanced education (% of total labor force with advanced education)	Labor & Employment	
+wdi__SL.UEM.ADVN.FE	Unemployment with advanced education, female (% of female labor force with advanced education)	Labor & Employment	
+wdi__SL.UEM.ADVN.MA	Unemployment with advanced education, male (% of male labor force with advanced education)	Labor & Employment	
+wdi__SL.UEM.BASC	Unemployment with basic education (% of total labor force with basic education)	Labor & Employment	
+wdi__SL.UEM.BASC.FE	Unemployment with basic education, female (% of female labor force with basic education)	Labor & Employment	
+wdi__SL.UEM.BASC.MA	Unemployment with basic education, male (% of male labor force with basic education)	Labor & Employment	
+wdi__SL.UEM.INTM	Unemployment with intermediate education (% of total labor force with intermediate education)	Labor & Employment	
+wdi__SL.UEM.INTM.FE	Unemployment with intermediate education, female (% of female labor force with intermediate education)	Labor & Employment	
+wdi__SL.UEM.INTM.MA	Unemployment with intermediate education, male (% of male labor force with intermediate education)	Labor & Employment	
+wdi__SL.UEM.TOTL.FE	Unemployment, female (% of female labor force) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.TOTL.MA	Unemployment, male (% of male labor force) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.TOTL.MA.NE	Unemployment, male (% of male labor force) (national estimate)	Labor & Employment	
+wdi__SL.UEM.TOTL	Unemployment, total (% of total labor force) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.TOTL.NE	Unemployment, total (% of total labor force) (national estimate)	Labor & Employment	
+wdi__SL.UEM.1524.FE	Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.1524.FE.NE	Unemployment, youth female (% of female labor force ages 15-24) (national estimate)	Labor & Employment	
+wdi__SL.UEM.1524.MA	Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.1524.MA.NE	Unemployment, youth male (% of male labor force ages 15-24) (national estimate)	Labor & Employment	
+wdi__SL.UEM.1524	Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.UEM.1524.NE	Unemployment, youth total (% of total labor force ages 15-24) (national estimate)	Labor & Employment	
+wdi__SL.EMP.VULN.FE	Vulnerable employment, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.VULN.MA	Vulnerable employment, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.VULN	Vulnerable employment, total (% of total employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.WORK.FE	Wage and salaried workers, female (% of female employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.WORK.MA	Wage and salaried workers, male (% of male employment) (modeled ILO estimate)	Labor & Employment	
+wdi__SL.EMP.WORK	Wage and salaried workers, total (% of total employment) (modeled ILO estimate)	Labor & Employment	
+wdi__LP.EXP.DURS	Lead time to export, median case (days)	Logistics Performance	
+wdi__LP.IMP.DURS	Lead time to import, median case (days)	Logistics Performance	
+wdi__LP.LPI.TRAC	Logistics performance index: Ability to track and trace consignments	Logistics Performance	
+wdi__LP.LPI.LOGS	Logistics performance index: Competence and quality of logistics services	Logistics Performance	
+wdi__LP.LPI.ITRN	Logistics performance index: Ease of arranging competitively priced shipments	Logistics Performance	
+wdi__LP.LPI.CUST	Logistics performance index: Efficiency of customs clearance process	Logistics Performance	
+wdi__LP.LPI.TIME	Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time	Logistics Performance	
+wdi__LP.LPI.OVRL	Logistics performance index: Overall	Logistics Performance	
+wdi__LP.LPI.INFR	Logistics performance index: Quality of trade and transport-related infrastructure	Logistics Performance	
+wdi__NE.GDI.STKB	Changes in inventories	Macro / Expenditure & Trade Aggregates	
+wdi__NE.EXP.GNFS.KD	Exports of goods and services	Macro / Expenditure & Trade Aggregates	
+wdi__NE.EXP.GNFS	Exports of goods and services (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.RSB.GNFS	External balance on goods and services (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.TOTL.KD	Final consumption expenditure	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.TOTL	Final consumption expenditure (% of GDP)	Macro / Expenditure & Trade Aggregates	
+iran_sci1399__gdp_by_expenditure_component_1390_1397	GDP by Final Expenditure Component, Current & Constant Prices (SH1390-1397)	Macro / Expenditure & Trade Aggregates	1390, 1393-1397 SH (~2011, 2014-2018)
+wdi__NE.CON.GOVT.KD	General government final consumption expenditure	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.GOVT	General government final consumption expenditure (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.GDI.TOTL.KD	Gross capital formation	Macro / Expenditure & Trade Aggregates	
+wdi__NE.GDI.TOTL	Gross capital formation (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.GDI.FTOT.KD	Gross fixed capital formation	Macro / Expenditure & Trade Aggregates	
+wdi__NE.GDI.FTOT	Gross fixed capital formation (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.DAB.TOTL	Gross national expenditure (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.DAB.DEFL	Gross national expenditure deflator (base year varies by country)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.PRVT.KD	Households and NPISHs Final consumption expenditure	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.PRVT.PC	Households and NPISHs Final consumption expenditure per capita	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.PRVT.PC.KD	Households and NPISHs Final consumption expenditure per capita growth	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.PCAP.PP	Households and NPISHs Final consumption expenditure per capita, PPP	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.PRVT.PP	Households and NPISHs Final consumption expenditure, PPP	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.PRVT	Households and NPISHs final consumption expenditure (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.CON.PRVT.CN	Households and NPISHs final consumption expenditure: linked series	Macro / Expenditure & Trade Aggregates	
+wdi__NE.IMP.GNFS.KD	Imports of goods and services	Macro / Expenditure & Trade Aggregates	
+wdi__NE.IMP.GNFS	Imports of goods and services (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NE.TRD.GNFS	Trade (% of GDP)	Macro / Expenditure & Trade Aggregates	
+wdi__NY.ADJ.NNTY.KD	Adjusted net national income (annual % growth)	Macro / National Accounts	
+wdi__NY.ADJ.NNTY	Adjusted net national income (current US$)	Macro / National Accounts	
+wdi__NY.ADJ.NNTY.PC.KD	Adjusted net national income per capita (annual % growth)	Macro / National Accounts	
+wdi__NY.ADJ.NNTY.PC	Adjusted net national income per capita (current US$)	Macro / National Accounts	
+wdi__NY.ADJ.SVNX	Adjusted net savings, excluding particulate emission damage	Macro / National Accounts	
+wdi__NY.ADJ.SVNX.GN	Adjusted net savings, excluding particulate emission damage (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.SVNG	Adjusted net savings, including particulate emission damage	Macro / National Accounts	
+wdi__NY.ADJ.SVNG.GN	Adjusted net savings, including particulate emission damage (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.DCO2	Adjusted savings: carbon dioxide damage	Macro / National Accounts	
+wdi__NY.ADJ.DCO2.GN	Adjusted savings: carbon dioxide damage (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.DKAP	Adjusted savings: consumption of fixed capital	Macro / National Accounts	
+wdi__NY.ADJ.DKAP.GN	Adjusted savings: consumption of fixed capital (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.AEDU	Adjusted savings: education expenditure	Macro / National Accounts	
+wdi__NY.ADJ.AEDU.GN	Adjusted savings: education expenditure (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.DNGY	Adjusted savings: energy depletion	Macro / National Accounts	
+wdi__NY.ADJ.DNGY.GN	Adjusted savings: energy depletion (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.ICTR.GN	Adjusted savings: gross savings (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.DMIN	Adjusted savings: mineral depletion	Macro / National Accounts	
+wdi__NY.ADJ.DMIN.GN	Adjusted savings: mineral depletion (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.DRES.GN	Adjusted savings: natural resources depletion (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.DFOR	Adjusted savings: net forest depletion	Macro / National Accounts	
+wdi__NY.ADJ.DFOR.GN	Adjusted savings: net forest depletion (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.NNAT	Adjusted savings: net national savings	Macro / National Accounts	
+wdi__NY.ADJ.NNAT.GN	Adjusted savings: net national savings (% of GNI)	Macro / National Accounts	
+wdi__NY.ADJ.DPEM	Adjusted savings: particulate emission damage	Macro / National Accounts	
+wdi__NY.ADJ.DPEM.GN	Adjusted savings: particulate emission damage (% of GNI)	Macro / National Accounts	
+wdi__NY.GDP.COAL.RT	Coal rents (% of GDP)	Macro / National Accounts	
+wdi__NY.GDP.DISC	Discrepancy in expenditure estimate of GDP	Macro / National Accounts	
+wdi__NY.EXP.CAPM	Exports as a capacity to import	Macro / National Accounts	
+wdi__NY.GDP.FRST.RT	Forest rents (% of GDP)	Macro / National Accounts	
+wdi__NY.GDP.MKTP	GDP	Macro / National Accounts	
+iran_sci1399__gdp_value_added_by_sector_1390_1397	GDP Value Added by 18 Economic-Activity Sectors, Current & Constant Prices (SH1390-1397)	Macro / National Accounts	1390, 1393-1397 SH (~2011, 2014-2018)
+wdi__NY.GDP.DEFL	GDP deflator (base year varies by country)	Macro / National Accounts	
+wdi__NY.GDP.DEFL.ZS	GDP deflator: linked series (base year varies by country)	Macro / National Accounts	
+wdi__NY.GDP.MKTP.KD	GDP growth	Macro / National Accounts	
+weo__gdp_pcap_ppp_constant	GDP per Capita, Constant-Price PPP	Macro / National Accounts	
+wdi__NY.GDP.PCAP	GDP per capita	Macro / National Accounts	
+wdi__NY.GDP.PCAP.KD	GDP per capita growth	Macro / National Accounts	
+wdi__NY.GDP.PCAP.PP	GDP per capita, PPP	Macro / National Accounts	
+weo__gdp_fiscal_year	GDP, Fiscal-Year Basis	Macro / National Accounts	
+wdi__NY.GDP.MKTP.PP	GDP, PPP	Macro / National Accounts	
+wdi__NY.GDP.MKTP.CN	GDP: linked series	Macro / National Accounts	
+wdi__NY.GNP.MKTP	GNI	Macro / National Accounts	
+wdi__NY.GNP.MKTP.KD	GNI growth	Macro / National Accounts	
+wdi__NY.GNP.PCAP	GNI per capita	Macro / National Accounts	
+wdi__NY.GNP.PCAP.KD	GNI per capita growth	Macro / National Accounts	
+wdi__NY.GNP.PCAP.PP	GNI per capita, PPP	Macro / National Accounts	
+wdi__NY.GNP.ATLS	GNI, Atlas method	Macro / National Accounts	
+wdi__NY.GNP.MKTP.PP	GNI, PPP	Macro / National Accounts	
+wdi__NY.GNP.MKTP.CN	GNI: linked series	Macro / National Accounts	
+wdi__NY.GDY.TOTL	Gross domestic income	Macro / National Accounts	
+wdi__NY.GDS.TOTL	Gross domestic savings (% of GDP)	Macro / National Accounts	
+wdi__NY.GNS.ICTR	Gross savings (% of GDP)	Macro / National Accounts	
+wdi__NY.GNS.ICTR.GN	Gross savings (% of GNI)	Macro / National Accounts	
+wdi__NY.GDP.FCST	Gross value added at basic prices (GVA)	Macro / National Accounts	
+wdi__NY.GDP.DEFL.KD	Inflation, GDP deflator	Macro / National Accounts	
+wdi__NY.GDP.DEFL.KD.ZG	Inflation, GDP deflator: linked series	Macro / National Accounts	
+weo__ppp_share_world_gdp	Iran's Share of World GDP (PPP)	Macro / National Accounts	
+wdi__NY.GDP.MINR.RT	Mineral rents (% of GDP)	Macro / National Accounts	
+wdi__NY.GDP.NGAS.RT	Natural gas rents (% of GDP)	Macro / National Accounts	
+wdi__NY.GSR.NFCY	Net primary income (Net income from abroad)	Macro / National Accounts	
+wdi__NY.TRF.NCTR	Net secondary income (Net current transfers from abroad)	Macro / National Accounts	
+iran_provincial__gdp_per_capita_excl_oil_1393_1397	Non-Oil GDP Per Capita by Province	Macro / National Accounts	1393-1397 (2014-2018)
+wdi__NY.GDP.PETR.RT	Oil rents (% of GDP)	Macro / National Accounts	
+wdi__NY.TAX.NIND	Taxes less subsidies on products	Macro / National Accounts	
+wdi__NY.TTF.GNFS	Terms of trade adjustment	Macro / National Accounts	
+wdi__NY.GDP.TOTL.RT	Total natural resources rents (% of GDP)	Macro / National Accounts	
+iran_unctad_maritime__national_fleet_by_type_2005_2024	National-Flag Merchant Fleet Carrying Capacity by Ship Type (2005-2024)	Maritime & Shipping	2005, 2010, 2015, 2024
+iran_unctad_maritime__transport_services_trade_2005_2024	Trade in Transport Services: Export Share & Values (2005-2024)	Maritime & Shipping	2005, 2010, 2015 (2024 mostly unavailable)
+iran_media__cinema_theaters_attendance_1932_1986	Cinema: Movie-House Counts & Audience Attendance (1932-1986)	Media & Culture	1932-1986 (irregular snapshot years)
+iran_media__film_production_industry_1941_1982	Film Production, Distribution & Censorship (1941-1982)	Media & Culture	1941-1982 (irregular snapshot years)
+iran_media__press_periodicals_1898_1988	Newspaper & Periodical Counts, Adult Literacy by Gender (1898-1988)	Media & Culture	1898-1988 (irregular snapshot years)
+wdi__SM.POP.ASYS	Asylum-seekers by country or territory of asylum	Migration	
+wdi__SM.POP.TOTL	International migrant stock (% of population)	Migration	
+wdi__SM.POP	Net migration	Migration	
+wdi__SM.POP.OPIP	Other people in need of international protection by country or territory of asylum	Migration	
+iran_census__population_by_nationality_citizenship_2006_2016	Population by Citizenship/Nationality, 2006-2016	Migration	2006-2016
+wdi__SM.POP.RHCR	Refugees under the mandate of the UNHCR by country or territory of asylum	Migration	
+wdi__MS.MIL.TOTL.TF	Armed forces personnel (% of total labor force)	Military Expenditure	
+wdi__MS.MIL.TOTL	Armed forces personnel, total	Military Expenditure	
+wdi__MS.MIL.XPRT	Arms exports (SIPRI trend indicator values)	Military Expenditure	
+wdi__MS.MIL.MPRT	Arms imports (SIPRI trend indicator values)	Military Expenditure	
+wdi__MS.MIL.XPND	Military expenditure	Military Expenditure	
+wdi__MS.MIL.XPND.GD	Military expenditure (% of GDP)	Military Expenditure	
+iran_barite_production_1961_1980	Barite Production	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_cement_production_1954_1980	Cement (Hydraulic) Production	Mining & Minerals Production	1954/55-1958/59 spliced to 1961-1980 (gaps 1959/60-1960/61, 1966/67, 1971/72)
+iran_chromite_production_1961_1980	Chromite (Chrome Ore) Production	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_coal_production_1961_1980	Coal Production (Non-Oil)	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_coke_production_1961_1980	Coke Production	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_copper_production_by_stage_1961_1980	Copper Production, Mine Output, Smelter Output & Refined	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_crude_steel_production_1973_1980	Crude Steel Production	Mining & Minerals Production	1973-1980 (+ 2002/03 and 2021/22 capacity bridge points)
+iran_gypsum_production_1968_1980	Gypsum Production	Mining & Minerals Production	1968-1980
+iran_iron_ore_production_1961_1980	Iron Ore Production (Gross Weight)	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_lead_production_by_stage_1961_1980	Lead Production, Mine Output & Smelter/Ingot Output	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72; smelter/ingot series ends 1970, no later data found)
+iran_manganese_ore_production_1961_1980	Manganese Ore Production	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_pig_iron_production_1973_1980	Pig Iron Production	Mining & Minerals Production	1973-1980
+iran_aluminum_production_1973_1980	Primary Aluminum (Ingot) Production	Mining & Minerals Production	1973-1980 (+ 2002/03, 2021/22 capacity bridge)
+iran_salt_production_1961_1980	Salt (Rock) Production	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_sulfur_production_1961_1980	Sulfur Production (Refined + Elemental Byproduct)	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+iran_zinc_production_1961_1980	Zinc Production (Mine Output, Metal Content)	Mining & Minerals Production	1961-1980 (gaps 1966/67, 1971/72)
+wdi__SN.ITK.SALT	Consumption of iodized salt (% of households)	Nutrition	
+wdi__SN.ITK.MSFI	Prevalence of moderate or severe food insecurity in the population	Nutrition	
+wdi__SN.ITK.SVFI	Prevalence of severe food insecurity in the population	Nutrition	
+wdi__SN.ITK.DEFC	Prevalence of undernourishment (% of population)	Nutrition	
+wdi__SI.SPR.PC40	Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population	Poverty & Inequality	
+wdi__SI.SPR.PCAP	Annualized average growth rate in per capita real survey mean consumption or income, total population	Poverty & Inequality	
+wdi__SI.POV	Gini index	Poverty & Inequality	
+wdi__SI.DST.04TH	Income share held by fourth 20%	Poverty & Inequality	
+wdi__SI.DST.10TH	Income share held by highest 10%	Poverty & Inequality	
+wdi__SI.DST.05TH	Income share held by highest 20%	Poverty & Inequality	
+wdi__SI.DST.FRST	Income share held by lowest 10%	Poverty & Inequality	
+wdi__SI.DST.02ND	Income share held by second 20%	Poverty & Inequality	
+wdi__SI.DST.03RD	Income share held by third 20%	Poverty & Inequality	
+wb_poverty__iran_poverty_rate_by_region_2011_2020	Iran Provincial Poverty Rates by Macro-Region (2011 vs. 2020)	Poverty & Inequality	2011, 2020
+wdi__SI.POV.LMIC	Poverty gap at $4.20 a day (2021 PPP)	Poverty & Inequality	
+wdi__SI.POV.UMIC	Poverty gap at $8.30 a day (2021 PPP)	Poverty & Inequality	
+wdi__SI.DST	Proportion of people living below 50 percent of median income	Poverty & Inequality	
+wdi__SI.SPR	Prosperity gap (average shortfall from a prosperity standard of $28/day)	Poverty & Inequality	
+iran_fx__gold_coin_bahar_azadi_price_daily_2013_2026	Bahar Azadi Gold Coin Price, Rial, Daily (2013-07-22 to 2026-07-11)	Precious Metals Prices	2013-2026
+iran_fx__gold_coin_emami_price_daily_2010_2026	Emami Gold Coin Price, Rial, Daily (2010-04-04 to 2026-07-11)	Precious Metals Prices	2010-2026
+wdi__PX.REX	Real effective exchange rate index (2010 = 100)	Price Indices	
+iran_sci1399__cpi_by_coicop_group_1390_1399	Consumer Price Index by COICOP Group (1395=100, SH1390-1399)	Prices & Inflation	1390, 1395-1399 SH (~2011, 2016-2020)
+wdi__FP.CPI	Consumer price index (2010 = 100)	Prices & Inflation	
+wdi__FP.CPI.TOTL	Inflation, consumer prices	Prices & Inflation	
+wdi__FP.WPI	Wholesale price index (2010 = 100)	Prices & Inflation	
+wdi__PA.NUS	DEC alternative conversion factor	Purchasing Power Parity	
+wdi__PA.NUS.GDP	Price level index (GDP)	Purchasing Power Parity	
+wdi__PA.NUS.PRVT	Price level index (Households and NPISHs Final consumption expenditure)	Purchasing Power Parity	
+wdi__per_allsp.adq_pop_tot	Adequacy of social protection and labor programs (% of total welfare of beneficiary households)	Social Protection	
+wdi__per_sa_allsa.adq_pop_tot	Adequacy of social safety net programs (% of total welfare of beneficiary households)	Social Protection	
+wdi__per_allsp.ben_q1_tot	Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits)	Social Protection	
+wdi__per_sa_allsa.ben_q1_tot	Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits)	Social Protection	
+wdi__per_allsp.cov_pop_tot	Coverage of social protection and labor programs (% of population)	Social Protection	
+wdi__per_sa_allsa.cov_pop_tot	Coverage of social safety net programs (% of population)	Social Protection	
+wdi__per_sa_allsa.cov_q2_tot	Coverage of social safety net programs in 2nd quintile (% of population)	Social Protection	
+wdi__per_sa_allsa.cov_q3_tot	Coverage of social safety net programs in 3rd quintile (% of population)	Social Protection	
+wdi__per_sa_allsa.cov_q4_tot	Coverage of social safety net programs in 4th quintile (% of population)	Social Protection	
+wdi__per_sa_allsa.cov_q1_tot	Coverage of social safety net programs in poorest quintile (% of population)	Social Protection	
+wdi__per_sa_allsa.cov_q5_tot	Coverage of social safety net programs in richest quintile (% of population)	Social Protection	
+iran_disasters__ssi_pensioners_amounts_paid_1991_2006	Social Security Organization Pensioners & Amounts Paid, by Category (1991-2006)	Social Protection	1991-2006
+iran_disasters__mean_age_at_first_marriage_1966_2006	Mean Age at First Marriage by Sex, Urban/Rural/Total (6 Census Years, 1966-2006)	Social Statistics (Marriage & Vital Registration)	1966-2006
+iran_vital__registered_divorces_1991_2006	Registered Divorces	Social Statistics (Marriage & Vital Registration)	1991-2006
+iran_vital__registered_marriages_1991_2006	Registered Marriages	Social Statistics (Marriage & Vital Registration)	1991-2006
+wdi__TT.PRI.MRCH.XD	Net barter terms of trade index	Terms of Trade	
+wdi__ST.INT.XPND	International tourism, expenditures	Tourism & Trade Services	
+wdi__ST.INT.XPND.MP	International tourism, expenditures (% of total imports)	Tourism & Trade Services	
+wdi__ST.INT.TRNX	International tourism, expenditures for passenger transport items	Tourism & Trade Services	
+wdi__ST.INT.TVLX	International tourism, expenditures for travel items	Tourism & Trade Services	
+wdi__ST.INT	International tourism, number of arrivals	Tourism & Trade Services	
+wdi__ST.INT.RCPT	International tourism, receipts	Tourism & Trade Services	
+wdi__ST.INT.RCPT.XP	International tourism, receipts (% of total exports)	Tourism & Trade Services	
+wdi__ST.INT.TRNR	International tourism, receipts for passenger transport items	Tourism & Trade Services	
+wdi__ST.INT.TVLR	International tourism, receipts for travel items	Tourism & Trade Services	
+weo__export_volume_growth	Export Volume Growth	Trade	
+weo__import_volume_growth	Import Volume Growth	Trade	
+iran_provincial__foreign_investment_1398_1400	Foreign Investment Value by Province	Trade & Investment	1398-1400 (2019-2021)
+iran_imidro__exports_by_product_group_2011_2015	IMIDRO Subsidiary Exports by Product Group	Trade & Investment	2012-2014
+iran_imidro__sales_by_product_group_2011_2015	IMIDRO Subsidiary Sales by Product Group	Trade & Investment	2012-2014
+wdi__TX.VAL.AGRI.ZS	Agricultural raw materials exports (% of merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.SERV.CD	Commercial service exports	Trade (Exports)	
+wdi__TX.VAL.OTHR.ZS	Computer, communications and other services (% of commercial service exports)	Trade (Exports)	
+wdi__TX.UVI.MRCH.XD	Export unit value index	Trade (Exports)	
+wdi__TX.VAL.MRCH.XD	Export value index	Trade (Exports)	
+wdi__TX.QTY.MRCH.XD	Export volume index	Trade (Exports)	
+wdi__TX.VAL.FOOD.ZS	Food exports (% of merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.FUEL.ZS	Fuel exports (% of merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.TECH	High-technology exports	Trade (Exports)	
+wdi__TX.VAL.TECH.MF	High-technology exports (% of manufactured exports)	Trade (Exports)	
+wdi__TX.VAL.ICTG.ZS	ICT goods exports (% of total goods exports)	Trade (Exports)	
+wdi__TX.VAL.INSF.ZS	Insurance and financial services (% of commercial service exports)	Trade (Exports)	
+specialty_goods__carpet_export_value_1960_2024	Iran Handwoven Carpet Export Value, 1960-2024	Trade (Exports)	1960-1986 (state-monopoly era) + 1994-2024 (post-liberalization, sparse)
+wdi__TX.VAL.MANF.ZS	Manufactures exports (% of merchandise exports)	Trade (Exports)	
+wdi__TX.MNF.TECH.ZS	Medium and high-tech exports	Trade (Exports)	
+pahlavi__exports_by_commodity_value_1956_59	Merchandise Exports by Commodity (Value, USD), 1956/57-1958/59	Trade (Exports)	1956/57-1958/59
+wdi__TX.VAL.MRCH.CD	Merchandise exports	Trade (Exports)	
+wdi__TX.VAL.MRCH.WL	Merchandise exports by the reporting economy	Trade (Exports)	
+wdi__TX.VAL.MRCH.RS	Merchandise exports by the reporting economy, residual (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.AL	Merchandise exports to economies in the Arab World (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.HI	Merchandise exports to high-income economies (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.R1	Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.R2	Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.R3	Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.R4	Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.R5	Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.R6	Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.OR	Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MRCH.WR	Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.MMTL.ZS	Ores and metals exports (% of merchandise exports)	Trade (Exports)	
+wdi__TX.VAL.TRAN.ZS	Transport services (% of commercial service exports)	Trade (Exports)	
+wdi__TX.VAL.TRVL.ZS	Travel services (% of commercial service exports)	Trade (Exports)	
+iran_unctad_maritime__merchandise_trade_2005_2024	Merchandise Exports, Imports & Trade Balance (UNCTAD, 2005-2024 selected years)	Trade (Goods)	2005, 2010, 2015, 2024
+wdi__TG.VAL.TOTL.GD	Merchandise trade (% of GDP)	Trade (Goods)	
+pahlavi__ocean_trade_tonnage_1950_60	Ocean-Borne Trade Tonnage, Excl. Petroleum, 1950/51-1959/60	Trade (Goods)	1950/51-1959/60
+wdi__TM.VAL.AGRI.ZS	Agricultural raw materials imports (% of merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.SERV.CD	Commercial service imports	Trade (Imports)	
+wdi__TM.VAL.OTHR.ZS	Computer, communications and other services (% of commercial service imports)	Trade (Imports)	
+wdi__TM.VAL.FOOD.ZS	Food imports (% of merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.FUEL.ZS	Fuel imports (% of merchandise imports)	Trade (Imports)	
+iran_giews__cereal_import_requirements_2010_2027	GIEWS Cereal Import Requirement Forecasts by Grain Type (2010/11-2026/27)	Trade (Imports)	2010/11-2026/27
+wdi__TM.VAL.ICTG.ZS	ICT goods imports	Trade (Imports)	
+wdi__TM.UVI.MRCH.XD	Import unit value index	Trade (Imports)	
+wdi__TM.VAL.MRCH.XD	Import value index	Trade (Imports)	
+wdi__TM.QTY.MRCH.XD	Import volume index	Trade (Imports)	
+wdi__TM.VAL.INSF.ZS	Insurance and financial services (% of commercial service imports)	Trade (Imports)	
+wdi__TM.VAL.MANF.ZS	Manufactures imports (% of merchandise imports)	Trade (Imports)	
+pahlavi__imports_by_commodity_value_1956_59	Merchandise Imports by Commodity (Value, USD), 1956/57-1958/59	Trade (Imports)	1956/57-1958/59
+wdi__TM.VAL.MRCH.CD	Merchandise imports	Trade (Imports)	
+wdi__TM.VAL.MRCH.WL	Merchandise imports by the reporting economy	Trade (Imports)	
+wdi__TM.VAL.MRCH.RS	Merchandise imports by the reporting economy, residual (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.AL	Merchandise imports from economies in the Arab World (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.HI	Merchandise imports from high-income economies (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.R1	Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.R2	Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.R3	Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.R4	Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.R5	Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.R6	Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.OR	Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MRCH.WR	Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)	Trade (Imports)	
+wdi__TM.VAL.MMTL.ZS	Ores and metals imports (% of merchandise imports)	Trade (Imports)	
+wdi__TM.TAX.MRCH.SM.AR	Tariff rate, applied, simple mean, all products	Trade (Imports)	
+wdi__TM.TAX.MANF.SM.AR	Tariff rate, applied, simple mean, manufactured products	Trade (Imports)	
+wdi__TM.TAX.TCOM.SM.AR	Tariff rate, applied, simple mean, primary products	Trade (Imports)	
+wdi__TM.TAX.MRCH.WM.AR	Tariff rate, applied, weighted mean, all products	Trade (Imports)	
+wdi__TM.TAX.MANF.WM.AR	Tariff rate, applied, weighted mean, manufactured products	Trade (Imports)	
+wdi__TM.TAX.TCOM.WM.AR	Tariff rate, applied, weighted mean, primary products	Trade (Imports)	
+wdi__TM.TAX.MRCH.SM.FN	Tariff rate, most favored nation, simple mean, all products	Trade (Imports)	
+wdi__TM.TAX.MANF.SM.FN	Tariff rate, most favored nation, simple mean, manufactured products	Trade (Imports)	
+wdi__TM.TAX.TCOM.SM.FN	Tariff rate, most favored nation, simple mean, primary products	Trade (Imports)	
+wdi__TM.TAX.MRCH.WM.FN	Tariff rate, most favored nation, weighted mean, all products	Trade (Imports)	
+wdi__TM.TAX.MANF.WM.FN	Tariff rate, most favored nation, weighted mean, manufactured products	Trade (Imports)	
+wdi__TM.TAX.TCOM.WM.FN	Tariff rate, most favored nation, weighted mean, primary products	Trade (Imports)	
+wdi__TM.VAL.TRAN.ZS	Transport services (% of commercial service imports)	Trade (Imports)	
+wdi__TM.VAL.TRVL.ZS	Travel services (% of commercial service imports)	Trade (Imports)	
+specialty_goods__tobacco_monopoly_1890_1995	Tobacco Monopoly: Regie Concession, Dokhaniyat Conversion & Workforce (1890-1995)	Trade Institutions & Policy History	1890-1995 (sparse)

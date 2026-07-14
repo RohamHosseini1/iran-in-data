@@ -182,8 +182,9 @@ def main():
     # ---- economic screen ----
     short = []
     for r in rows:
-        if r["folder"] in COURT_DIRS:
-            continue  # court rulings: not policy
+        # Court rulings are NOT blanket-excluded: an administrative-court ruling that
+        # annuls a tariff/subsidy regulation IS a policy event. Let the economic
+        # screen decide, not the folder.
         hay = r["title"] + "\n" + r["_text"][:6000]
         hits = [k for k in KEYWORDS if k in hay]
         title_hits = [k for k in KEYWORDS if k in r["title"]]
