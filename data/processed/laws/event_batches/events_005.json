@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1962-01-09",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Land Reform Law first stage enacted",
+  "description": "Prime Minister Ali Amini's government, acting through Agriculture Minister Hassan Arsanjani, enacts a Land Reform Law limiting individual landownership to one village and mandating sale of excess land to tenant farmers at controlled prices -- the opening measure later folded into the White Revolutio",
+  "domains": "fiscal;food"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1962-09-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Third Development Plan launched",
+  "description": "Iran's Plan Organization launches the Third Development Plan (September 1962-March 1968), the country's first comprehensive economic development plan, emphasizing heavy industry and supporting infrastructure while expanding private and public-sector banking to encourage investment in new industries.",
+  "domains": "fiscal;oil"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1962-09-01",
+  "country": "IRN",
+  "event_type": "catastrophe",
+  "title": "Buin Zahra earthquake",
+  "description": "M7.2 earthquake devastates the Buin Zahra region west of Tehran, killing an estimated 12,225 people, injuring 2,776 and destroying over 21,000 houses; NOAA's contemporaneous damage estimate is $30 million, making it one of the deadliest disasters of the Pahlavi era and prompting Iran's first systema",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1962-10-26",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Literacy Corps founded",
+  "description": "Government decrees of 26 October and 3 December 1962 establish the Sepah-e Danesh (Literacy Corps), conscripting educated young men into military-alternative service teaching literacy in villages; parliament approves the program on 26 January 1963 as part of the White Revolution.",
+  "domains": "labor;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1963-01-26",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "White Revolution launched",
+  "description": "Shah's referendum approves a reform package including land redistribution, forestry nationalization, and profit-sharing for industrial workers.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1963-01-26",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Industrial profit-sharing law enacted",
+  "description": "As one of the six White Revolution measures approved by national referendum, factory workers and employees at large private enterprises are granted a 20% share of net profits; cumulative profit-sharing payouts rise 128-fold between 1963 and 1975.",
+  "domains": "labor;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1963-01-26",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Forests and rangelands nationalized",
+  "description": "The White Revolution referendum approves nationalization of all forests and pastureland; the measure is later formalized as the Nationalization of Forests Act, ratified by parliament and implemented in 1967, ending private and tribal ownership of Iran's woodlands.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1966-10-30",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Second national census",
+  "description": "The Statistical Centre of Iran conducts the country's second population and housing census (30 October - 19 November 1966).",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1967-01-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "General Income Tax Law reform",
+  "description": "Iran overhauls its income tax code, introducing a unified progressive schedule with marginal rates spanning 10% to 55%, though income tax remains a small share of total government revenue relative to oil.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1968-03-21",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Fourth Development Plan launched",
+  "description": "The Fourth Development Plan (1968-73) shifts priority toward industry, agriculture and services -- especially transport and communications -- with reduced emphasis on the infrastructure-building focus of the Third Plan, aiming to raise GNP growth via industrial productivity and expand social-welfare",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1971-02-14",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Tehran Agreement raises oil prices",
+  "description": "Iran and five other Gulf OPEC producers sign the Tehran Agreement with Western oil majors, raising the tax rate on net income from 50% to 55% and posted prices by 21% (38 cents/barrel), with scheduled annual increases through 1975; Iran's per-barrel oil revenue is projected to rise from 87 cents to ",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1971-10-12",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Persepolis 2500th anniversary celebrations",
+  "description": "Shah hosts a multi-day celebration of 2500 years of Persian monarchy at Persepolis for dozens of visiting heads of state and royalty. Official Iranian figures put the cost at $16.6-16.8m, while contemporaneous Time magazine estimates ran as high as $100m; the event became a symbol of fiscal excess a",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1973-03-21",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Fifth Development Plan Law ratified",
+  "description": "The Majles ratifies the Fifth Development Plan Law, covering Farvardin 1352-Esfand 1356 (March 1973-March 1978) and restructuring the Plan Organization into the Plan and Budget Organization; within 18 months the plan is dramatically revised upward after the 1973-74 oil price shock nearly quadruples ",
+  "domains": "fiscal;oil"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1973-07-19",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Sale and Purchase Agreement replaces Consortium",
+  "description": "A 20-year Sale and Purchase Agreement (effective retroactively from 21 March 1973) ends the 1954 Consortium Agreement's operating structure: NIOC assumes full ownership, operation and control of Iran's oil industry, with former consortium members continuing service and offtake through the new Oil Se",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1973-10-16",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Oil price shock",
+  "description": "OPEC price increases following the Arab oil embargo roughly quadruple Iran's oil revenue, fueling a large-scale but overheated state spending boom (Fifth Development Plan, 1973-78).",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1974-08-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Great Civilization spending surge -- Fifth Plan revised",
+  "description": "Following the 1973-74 oil price quadrupling, government oil revenue rises from $5bn to $19bn in a year; the Shah revises the Fifth Development Plan, nearly doubling total planned investment from $36.5bn to $70bn and raising overall government spending from $44bn to $123bn, fueling severe absorptive-",
+  "domains": "oil;fiscal;inflation"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1975-03-02",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Rastakhiz single-party system established",
+  "description": "Shah dissolves Iran's existing two-party system and creates the Rastakhiz (Resurgence) Party as the country's sole legal political party, declaring that citizens who reject it are free to leave the country; the party becomes the organizing vehicle for the 1975-77 anti-profiteering campaign.",
+  "domains": "institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1975-10-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Anti-profiteering campaign launched",
+  "description": "Shah decrees price-control enforcement the White Revolution's 14th principle; Rastakhiz Party task forces raid bazaar shops nationwide, and by August 1976 roughly 25,000 alleged violators have been jailed or fined, deeply alienating the bazaari merchant class ahead of the revolution.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1976-01-01",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Credit squeeze collapses construction boom",
+  "description": "A sharp rise in inflation combined with a Central Bank credit squeeze ends the oil-boom-fueled construction and building boom that had drawn international contractors to Iran since the early 1970s, sharply slowing investment and GDP growth.",
+  "domains": "banking;inflation;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1976-11-01",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Fourth national census",
+  "description": "The Statistical Centre of Iran conducts the 1976 population and housing census (30 October - 18 November 1976), enumerating roughly 33.7 million people using nearly 30,000 census workers.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1977-01-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Anti-profiteering campaign",
+  "description": "Government price-control crackdown on merchants amid inflation from oil-boom overheating, contributing to bazaari discontent ahead of the revolution.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1977-08-07",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Amouzegar austerity program",
+  "description": "Shah appoints technocrat Jamshid Amouzegar prime minister with a mandate to curb inflation through fiscal austerity; his government cuts public spending, halts development projects and tightens credit, deepening unemployment and business distress as revolutionary unrest builds.",
+  "domains": "fiscal;inflation"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1978-09-16",
+  "country": "IRN",
+  "event_type": "catastrophe",
+  "title": "Tabas earthquake",
+  "description": "M7.4 earthquake devastates the city of Tabas and surrounding villages in South Khorasan province, killing an estimated 20,000 people and destroying roughly 15,000 houses; NOAA's contemporaneous damage estimate is $50 million. The disaster struck six weeks before the oil-workers' strikes that paralyz",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1978-10-31",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Oil workers' strike paralyzes economy",
+  "description": "Nationalized oil-refinery workers strike beginning in late October 1978, demanding political prisoners' release; by November a general strike shuts refineries, banks, ports and factories, cutting oil output from roughly 6 million to 1.5 million barrels/day and costing the government an estimated $60",
+  "domains": "oil;labor;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1979-02-11",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "Islamic Revolution",
+  "description": "Mohammad Reza Shah's government falls; the Islamic Republic is proclaimed under Ayatollah Khomeini on 1 April 1979.",
+  "domains": "institutional;fiscal"
+ }
+]

@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1961-07-09",
+  "country": "GRC",
+  "event_type": "institutional-change",
+  "title": "EEC Association Agreement signed",
+  "description": "Greece becomes the first European state to sign an Association Agreement with the EEC, laying the legal groundwork for eventual full membership and beginning tariff and investment integration with Western Europe.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1967-04-21",
+  "country": "GRC",
+  "event_type": "political-event",
+  "title": "Military junta seizes power",
+  "description": "A group of army colonels led by Georgios Papadopoulos overthrow the caretaker government weeks before scheduled elections, imposing seven years of censorship, repression and state-directed economic policy.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1974-07-24",
+  "country": "GRC",
+  "event_type": "political-event",
+  "title": "Metapolitefsi — restoration of democracy",
+  "description": "The junta collapses under the pressure of Turkey's invasion of Cyprus; Konstantinos Karamanlis returns from exile to form a government of national unity, beginning the 'metapolitefsi' transition to stable parliamentary democracy.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1975-06-11",
+  "country": "GRC",
+  "event_type": "institutional-change",
+  "title": "1975 Constitution ratified",
+  "description": "Parliament adopts a new constitution establishing Greece as a parliamentary republic following the December 1974 referendum that abolished the monarchy, completing the legal transition from the 1967-74 junta to stable democracy.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1981-01-01",
+  "country": "GRC",
+  "event_type": "institutional-change",
+  "title": "Greece joins the EEC",
+  "description": "Greece becomes the European Community's tenth member, seven years after the accession application was filed following the restoration of democracy, unlocking trade integration and later structural funds.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1985-10-01",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "PASOK stabilization program",
+  "description": "Papandreou government accepts EEC-conditioned austerity (a 15% drachma devaluation, borrowing limits, wage controls) in exchange for a $1.75bn loan to close an 8.7%-of-GDP trade deficit, reversing the expansionary policies of PASOK's first term.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1991-01-01",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Mitsotakis austerity and privatization program",
+  "description": "Incoming Nea Dimokratia government inherits public debt above 100% of GDP (from ~23% in 1980) and a ~15%-of-GDP deficit; it cuts pension replacement rates, raises the retirement age, and begins partial bank and telecom privatization to steer toward euro-convergence criteria.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1996-01-01",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Simitis convergence program for euro entry",
+  "description": "Costas Simitis launches multi-year fiscal-convergence programs targeting Maastricht criteria, narrowing the deficit from 10.4% of GDP (1996) to below 3% by 2000, qualifying Greece for the euro in June 2000.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1998-03-16",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Drachma enters the Exchange Rate Mechanism",
+  "description": "Drachma joins the ERM at a central rate of 357 per ECU, roughly 12% below the prevailing market rate, a required step on the path to eurozone entry targeted for 2001.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2001-01-01",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Euro adoption (accounting currency)",
+  "description": "Greece joins the eurozone as its accounting currency, a year after the other original members, following a Council decision confirming it met the convergence criteria; notes and coins enter circulation on 1 January 2002.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2004-08-13",
+  "country": "GRC",
+  "event_type": "economic-event",
+  "title": "Athens Olympics",
+  "description": "Greece hosts the Summer Olympics after a construction and security spending surge estimated at roughly €9bn, contributing to the elevated public debt levels of the following decade.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2009-10-20",
+  "country": "GRC",
+  "event_type": "economic-event",
+  "title": "Deficit revision triggers sovereign-debt crisis",
+  "description": "Incoming Papandreou government reveals the 2009 budget deficit will reach approximately 12.5% of GDP (versus a prior estimate of 3.7%); the shock revision triggers a ratings downgrade and the loss of bond-market access that becomes the Greek debt crisis.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2010-04-23",
+  "country": "GRC",
+  "event_type": "economic-event",
+  "title": "Greece formally requests EU-IMF support",
+  "description": "PM Papandreou activates the eurozone support mechanism from the island of Kastellorizo after the debt crisis reaches a tipping point, leading within weeks to the first €110bn bailout agreement.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2010-05-03",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "First EU-IMF bailout program (€110bn)",
+  "description": "Greece signs its first memorandum of understanding with the Eurogroup, ECB and IMF for €110bn in loans (€80bn bilateral eurozone loans plus a €30bn IMF Stand-By Arrangement) in exchange for austerity and structural reforms.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2012-02-21",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Second bailout (€130bn) and PSI debt restructuring",
+  "description": "Eurogroup finalizes a second €130bn program; the accompanying Private Sector Involvement (PSI) debt swap in March 2012 imposes a 53.5% face-value haircut on private bondholders, the largest sovereign-debt restructuring in history at the time.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2012-05-06",
+  "country": "GRC",
+  "event_type": "political-event",
+  "title": "Inconclusive election fuels Grexit fears",
+  "description": "May 2012 parliamentary election produces a fragmented Hellenic Parliament with no viable governing coalition; Greek bond yields spike and European markets fall as investors begin pricing in a possible eurozone exit, resolved only by a second election in June.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2015-06-28",
+  "country": "GRC",
+  "event_type": "economic-event",
+  "title": "Capital controls imposed and banks shut",
+  "description": "Syriza government imposes capital controls and a three-week bank closure after the ECB caps emergency liquidity assistance amid bailout-negotiation breakdown, the most severe banking disruption of the Greek crisis.",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2015-07-05",
+  "country": "GRC",
+  "event_type": "political-event",
+  "title": "OXI referendum rejects bailout terms",
+  "description": "61% of voters reject the creditors' proposed bailout conditions in a snap referendum called by PM Tsipras; Greece nonetheless accepts a harsher third program weeks later after capital controls and bank closures raise the cost of continued standoff.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2015-08-19",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Third bailout program (€86bn)",
+  "description": "After capital controls and a three-week bank shutdown in June-July 2015, Greece agrees a third EU program worth up to €86bn, running through August 2018 under continued austerity conditionality.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "2018-08-20",
+  "country": "GRC",
+  "event_type": "economic-event",
+  "title": "Greece exits bailout programs",
+  "description": "Greece completes its third and final EU adjustment program after eight years and roughly €280bn in total assistance, regaining full sovereign market access without a follow-on credit line.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1901-05-28",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "D'Arcy Oil Concession",
+  "description": "William Knox D'Arcy granted a 60-year concession to explore for oil across most of Persia, the origin of the country's oil economy.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1907-11",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "First Majlis approves Persia's first national budget",
+  "description": "Following the 1906 Constitutional Revolution, the first Majlis passes Persia's first modern national budget and blocks a proposed GBP 400,000 Anglo-Russian loan pending legislative approval, establishing parliamentary control over public finance and proposing new consumption taxes (sugar, tea) to fu",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1908-05-26",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "First major oil strike at Masjed Soleyman",
+  "description": "Discovery of commercially viable oil deposits in Khuzestan, leading to the founding of the Anglo-Persian Oil Company in 1909.",
+  "domains": "oil"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1911-05/1911-12",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Morgan Shuster's American financial mission and expulsion",
+  "description": "At the Majlis's invitation, American financier William Morgan Shuster arrives in May 1911 as Treasurer-General to reorganize Persia's tax collection and treasury; Russian military pressure forces his expulsion that December despite the Majlis's objections, ending an early attempt at independent, for",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1917-01-01",
+  "country": "IRN",
+  "event_type": "catastrophe",
+  "title": "Great Persian Famine and 1918 influenza pandemic",
+  "description": "Wartime allied grain requisitioning, blockade and disrupted trade routes during World War I trigger severe famine across Iran from 1917, compounded by the 1918-19 influenza pandemic, cholera and typhus under the weakened, occupied Qajar government; mainstream scholarship estimates roughly 2 million ",
+  "domains": "food;labor;trade"
+ }
+]

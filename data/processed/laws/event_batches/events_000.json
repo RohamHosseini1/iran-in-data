@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1930-09-06",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Uriburu coup begins the \"Infamous Decade\"",
+  "description": "General José Félix Uriburu overthrows President Hipólito Yrigoyen amid Depression-driven unemployment and fiscal retrenchment; the coup opens 13 years of military-dominated rule marked by electoral fraud and sets the template for 20th-century Argentine coups.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1943-06-04",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "1943 military coup ends civilian rule",
+  "description": "The United Officers' Group (GOU), a secret military lodge that included Juan Perón, overthrows President Ramón Castillo, ending the fraud-tainted \"Infamous Decade\" and opening the period of chronic military intervention in Argentine politics that shaped economic policy for the rest of the century.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1946-02-24",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Juan Perón elected president",
+  "description": "Perón wins Argentina's presidency with roughly 54-56% of the vote on a labor-populist platform, launching the economic-nationalist model — state trading monopolies, nationalization of foreign-owned infrastructure, import substitution — that defines Peronism.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1946-05-28",
+  "country": "ARG",
+  "event_type": "institutional-change",
+  "title": "IAPI (state foreign-trade monopoly) created",
+  "description": "Decree-law establishes the Instituto Argentino de Promoción del Intercambio, which buys agricultural exports (grain, meat, hides) from producers at fixed prices and sells abroad, effectively nationalizing Argentina's foreign trade until its dissolution after the 1955 coup.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1948-03-01",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "British-owned railways nationalized",
+  "description": "Argentina purchases the seven British- and three French-owned railway companies, folding them into the state holding company Ferrocarriles Argentinos as part of Perón's First Five-Year Plan economic-nationalist program.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1955-09-19",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Revolución Libertadora overthrows Perón",
+  "description": "Juan Perón is overthrown by an army-navy revolt and flees to Paraguay, ending his first period in power amid growing discontent over inflation, corruption and economic mismanagement; the following decades saw alternating civilian and military governments contest Peronism's economic legacy.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1958-12-02",
+  "country": "ARG",
+  "event_type": "institutional-change",
+  "title": "Argentina's first IMF Stand-By Arrangement",
+  "description": "President Arturo Frondizi signs Argentina's first IMF Stand-By Arrangement (about US$75 million), two years after Argentina joined the Fund (1956), beginning a pattern of recurrent IMF engagement — over 20 arrangements to date — driven by chronic balance-of-payments and inflation crises.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1962-03-29",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Frondizi overthrown by military coup",
+  "description": "Military ousts President Arturo Frondizi after he allows Peronist candidates to contest and win provincial elections; power passes to civilian Senate president José María Guido rather than the military directly, an unusual constitutional workaround.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1966-06-28",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Onganía coup — \"Argentine Revolution\"",
+  "description": "General Juan Carlos Onganía overthrows President Arturo Illia and establishes a self-styled permanent (not transitional) military regime; liberal economy minister Krieger Vasena's policies raise foreign ownership of industry from 14% (1957) to 59% (1969) while real wages fall 8%.",
+  "domains": "institutional;fiscal;trade"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1975-06-04",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "\"Rodrigazo\" devaluation and inflation shock",
+  "description": "Economy Minister Celestino Rodrigo devalues the peso 150%, unifies exchange rates, and raises utility/fuel prices 100-200% under President Isabel Perón; monthly inflation surges past 20%, annual inflation rises from 24% (1974) to 182% (1975), and the shock fractures Peronist labor support ahead of t",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1976-03-24",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "1976 military coup begins Process of National Reorganization",
+  "description": "A military junta led by Jorge Rafael Videla overthrows President Isabel Perón. The new economy minister, José Alfredo Martínez de Hoz (appointed 29 March 1976), launches a sweeping market-liberalization program — deregulating prices, unifying and devaluing the exchange rate, and opening trade — whil",
+  "domains": "institutional;fiscal;trade"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1978-12-20",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "\"Tablita\" pre-announced exchange-rate schedule introduced",
+  "description": "Economy Minister Martínez de Hoz publishes a declining monthly-devaluation timetable to anchor inflation expectations; the peso becomes badly overvalued as local inflation outruns the schedule, and the policy collapses in a sharp February 1981 devaluation.",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1980-03-01",
+  "country": "ARG",
+  "event_type": "catastrophe",
+  "title": "1980 banking crisis (Banco de Intercambio Regional collapse)",
+  "description": "Failure of Banco de Intercambio Regional, one of Argentina's largest private banks, forces central-bank intervention in three more major banks within days; 71 financial institutions are ultimately liquidated over the following two years amid the Martínez de Hoz-era financial liberalization.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1982-06-14",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Falklands War ends in Argentine surrender",
+  "description": "Britain recaptures Port Stanley after a 74-day war launched by the military junta partly to distract from economic crisis and unrest; the defeat discredits the junta (which had devalued the peso 23% that year alone) and leads to the 1983 return of civilian rule.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1985-06-14",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "Austral Plan currency reform",
+  "description": "Economy Minister Sourrouille launches a heterodox stabilization plan under President Alfonsín, replacing the peso argentino with a new currency (the austral, at 1,000:1) alongside a wage-price-exchange-rate freeze; monthly inflation drops from over 30% to near 2% before the plan unravels by late 198",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1989-07-08",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "Hyperinflation forces Alfonsín's early resignation",
+  "description": "Monthly inflation reaches roughly 200% by July 1989 (annualized well into four digits) amid riots and looting; President Raúl Alfonsín resigns six months early, handing power to president-elect Carlos Menem on 8 July 1989 in Argentina's first hyperinflationary collapse of the modern era.",
+  "domains": "inflation;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1990-01-03",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "Plan Bonex — forced deposit-to-bond conversion",
+  "description": "Following 1989's roughly 3,080% annual hyperinflation, the Menem government forcibly converts most bank time deposits (about US$3bn) into 10-year \"Bonex 89\" dollar bonds, leaving depositors only a small cash portion — a precedent later echoed by the 2001 corralito.",
+  "domains": "banking;inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1991-04-01",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "Convertibility Plan pegs peso 1:1 to US dollar",
+  "description": "Economy Minister Domingo Cavallo's Convertibility Law (Ley 23.928) takes effect, establishing a currency-board regime that fixes the new peso at parity with the US dollar and backs the monetary base with reserves; annual inflation falls from 2,314% in 1990 to about 17% in 1991 and below 5% for the r",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1995-01-01",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "\"Tequila Effect\" bank run",
+  "description": "Contagion from Mexico's December 1994 peso devaluation triggers deposit withdrawals across Argentina's convertibility-era banking system; GDP falls 4.4% and unemployment reaches 18.6% in 1995 despite the currency board holding, exposing the system's vulnerability to external shocks.",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "1999-12-10",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "De la Rúa inaugurated amid recession",
+  "description": "Fernando de la Rúa's Alliance government takes office as Argentina enters its fourth year of recession under the rigid Convertibility peg, a slide that culminates in the December 2001 corralito and sovereign default.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2001-12-01",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "Corralito bank-deposit freeze imposed",
+  "description": "Economy Minister Domingo Cavallo imposes the \"corralito,\" freezing most bank deposits and capping weekly cash withdrawals at 250 pesos to stop a bank run, immobilizing an estimated US$70-85 billion in deposits as the Convertibility-era financial system collapses.",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2001-12-20",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "De la Rúa resigns amid crisis",
+  "description": "President Fernando de la Rúa resigns after two days of deadly riots and looting (39 people killed) under the protest slogan \"Que se vayan todos\" (\"all of them must go\"), triggering a period of political chaos in which five people held the presidency within two weeks.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2002-01-06",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "Convertibility abandoned; peso floated",
+  "description": "Congress passes the Public Emergency and Exchange-Rate Reform Law (Ley 25.561) under President Eduardo Duhalde, ending a decade of dollar convertibility, devaluing and floating the peso, and \"pesifying\" dollar-denominated bank deposits and debts at asymmetric rates — the peso falls from 1:1 to rough",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2003-05-25",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Néstor Kirchner takes office",
+  "description": "Kirchner's inauguration marks the start of a post-crisis recovery built on a competitive floated peso, debt restructuring, and rejection of IMF-style structural-adjustment conditionality.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2005-03-18",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "2005 sovereign debt restructuring",
+  "description": "Argentina announces that holders of about 76% of its defaulted bonds (from the 2001 default, then the largest in history) have accepted a restructuring offer with steep principal haircuts; litigation from \"holdout\" creditors delays final settlement of the exchange until 2 June 2005.",
+  "domains": "fiscal"
+ }
+]

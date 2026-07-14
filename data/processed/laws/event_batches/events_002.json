@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1986-01-01",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "1986 oil price collapse",
+  "description": "Saudi Arabia abandons its swing-producer role; oil prices crash from ~$27 to under $10/barrel, straining every oil-exporting economy in this database (Saudi Arabia, Venezuela, USSR, Iran).",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1989-11-09",
+  "country": "GLOBAL",
+  "event_type": "political-event",
+  "title": "Fall of the Berlin Wall",
+  "description": "East Germany opens its borders, triggering the collapse of Communist governments across Eastern Europe and setting up the transition from centrally planned to market economies across the Eastern Bloc — the same transition Russia undergoes on a larger scale after 1991.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1991-12-26",
+  "country": "GLOBAL",
+  "event_type": "political-event",
+  "title": "Dissolution of the Soviet Union",
+  "description": "USSR dissolves into 15 successor states; Russia inherits most Soviet economic institutions and begins a chaotic market-transition (shock therapy\") in 1992.\"",
+  "domains": "fiscal;fx;institutional"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1994-12-20",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "Mexican \"Tequila Crisis\"",
+  "description": "Mexico devalues and then floats the peso, which loses roughly half its value within months; the resulting emerging-market contagion triggers a bank run and 1995 recession in Argentina (see Argentina entry) and capital flight across Latin America and Asia.",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1995-01-01",
+  "country": "GLOBAL",
+  "event_type": "institutional-change",
+  "title": "World Trade Organization founded",
+  "description": "The WTO succeeds the 1948 GATT under the Marrakesh Agreement, creating a binding dispute-settlement system and expanding multilateral trade rules to services and intellectual property; membership becomes a major economic-policy goal (and geopolitical lever) for most of this database's countries over",
+  "domains": "trade;institutional"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1997-07-02",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "Asian Financial Crisis begins",
+  "description": "Thai baht collapse triggers contagion across East Asia (see South Korea entry for the IMF program specifics).",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1998-08-17",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "Russian default and LTCM crisis trigger global contagion",
+  "description": "Russia defaults on domestic debt, imposes a 90-day moratorium on foreign creditors, and devalues the ruble; the shock triggers the near-collapse of US hedge fund Long-Term Capital Management (requiring a $3.6bn bailout) and spreads volatility through bond and equity markets in both emerging and deve",
+  "domains": "fx;banking;fiscal"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1999-01-01",
+  "country": "GLOBAL",
+  "event_type": "institutional-change",
+  "title": "Euro launched as accounting currency",
+  "description": "Eleven EU members (including Spain and Portugal; Greece follows in 2001) lock exchange rates and adopt the euro for electronic and financial transactions, with notes and coins entering circulation in 2002 — the largest peacetime monetary-union experiment in history.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2001-11-01",
+  "country": "GLOBAL",
+  "event_type": "institutional-change",
+  "title": "China WTO accession",
+  "description": "China's WTO entry accelerates global manufacturing relocation, indirectly affecting trade balances and appliance-manufacturing competitiveness for European producers in this database (Spain, Portugal, Greece).",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2003-01-01/2008-07-11",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "2000s commodity super-cycle",
+  "description": "China's post-2001 WTO-driven infrastructure boom, alongside strong global growth, drives the IMF commodity price index up roughly fourfold between January 2000 and mid-2008; crude oil rises from about $30/barrel in 2003 to a record $147/barrel on 11 July 2008, delivering a sustained fiscal windfall ",
+  "domains": "oil;trade;fiscal"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2003-03-20",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "Iraq War begins",
+  "description": "US-led invasion halts roughly 2 million barrels/day of Iraqi oil production; global crude prices spike toward $40/barrel before Saudi Arabia and other OPEC members raise output to offset the loss, averaging $30/barrel for 2003 overall (up 19% from 2002).",
+  "domains": "oil"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2008-09-15",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "Global Financial Crisis — Lehman Brothers collapse",
+  "description": "Triggers a synchronized global recession; oil prices crash from ~$147 to ~$40/barrel within months, hitting every oil exporter in this database simultaneously, while credit-driven European economies (Spain, Portugal, Greece) enter prolonged crises.",
+  "domains": "banking;fx;oil"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2010-01-01",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "European sovereign debt crisis",
+  "description": "Greece (and to a lesser extent Portugal and Spain) enters an IMF/EU bailout program after a fiscal-sustainability crisis, reshaping two of this database's European comparators for a decade.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2011-01-01",
+  "country": "GLOBAL",
+  "event_type": "political-event",
+  "title": "Arab Spring begins",
+  "description": "Protests beginning in Tunisia in December 2010 spread across the Middle East and North Africa; resulting production disruptions (over 2 million barrels/day lost across Libya, Syria, Yemen, Tunisia and Sudan) push Brent crude from $92 to $120/barrel by April 2011, benefiting Saudi Arabia's fiscal pos",
+  "domains": "oil;fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2014-06-01",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "2014-2016 oil price collapse",
+  "description": "Oil prices fall from ~$115 to below $30/barrel amid US shale supply growth and OPEC's decision not to cut output; a major driver of Venezuela's and Russia's subsequent crises, and a fiscal shock for Saudi Arabia and Iran.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2015-07-14",
+  "country": "GLOBAL",
+  "event_type": "sanction-lifted",
+  "title": "Iran nuclear deal (JCPOA) signed",
+  "description": "Iran and the P5+1 finalize the Joint Comprehensive Plan of Action in Vienna, exchanging nuclear-program limits for the lifting of UN, EU and US nuclear-related sanctions; roughly $100bn in frozen Iranian assets are released after IAEA-verified implementation begins in January 2016.",
+  "domains": "oil;fx;banking"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2018-05-08",
+  "country": "GLOBAL",
+  "event_type": "sanction-imposed",
+  "title": "US withdraws from the JCPOA",
+  "description": "President Trump announces US withdrawal from the Iran nuclear deal and directs the phased reimposition of all sanctions lifted in 2015-16, with full \"snapback\" effective 5 November 2018, reversing the 2015 sanctions-relief framework and re-isolating Iran's oil and banking sectors from the dollar sys",
+  "domains": "oil;fx;banking"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2020-03-11",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "COVID-19 declared a pandemic",
+  "description": "WHO declaration triggers synchronized global lockdowns, an oil-demand collapse (WTI briefly trades negative on 20 April 2020), and unprecedented fiscal/monetary stimulus across every country in this database.",
+  "domains": "fiscal;oil;fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2020-04-20",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "WTI oil futures trade negative",
+  "description": "COVID-19 demand collapse combined with the March 2020 Saudi-Russia price war and near-full storage capacity at the Cushing, Oklahoma hub drive the US WTI May futures contract to an unprecedented settlement of -$37.63/barrel, the starkest single data point of the pandemic-era oil-demand shock.",
+  "domains": "oil"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2022-02-24",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "Russian invasion of Ukraine",
+  "description": "Triggers sweeping Western sanctions on Russia, a global energy-price shock benefiting other oil/gas exporters (Iran, Saudi Arabia, Venezuela partially re-engaged by the West for supply), and a European inflation surge affecting Spain, Portugal, Greece.",
+  "domains": "oil;fx;trade"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "2022-03/2023-07",
+  "country": "GLOBAL",
+  "event_type": "policy-enacted",
+  "title": "Fastest Federal Reserve tightening cycle since the 1980s",
+  "description": "The Fed raises its policy rate by 5.25 percentage points between March 2022 and July 2023 to fight post-pandemic inflation, its most aggressive tightening since the early 1980s; the resulting dollar strength and capital outflows push several emerging-market currencies in this database down more than",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1936-08-04",
+  "country": "GRC",
+  "event_type": "institutional-change",
+  "title": "Metaxas dictatorship (4th of August Regime) begins",
+  "description": "General Ioannis Metaxas suspends parliament and imposes martial law with King George II's backing, establishing an authoritarian, anti-communist corporatist state that lasts until his death in 1941.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1946-01-01",
+  "country": "GRC",
+  "event_type": "catastrophe",
+  "title": "Greek Civil War",
+  "description": "Communist-led insurgents and the Western-backed government fight a full-scale civil war from 1946 to October 1949, on top of WWII occupation devastation; postwar reconstruction is delayed roughly a decade and financed largely through US Marshall Plan and Truman Doctrine aid.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1947-03-12",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Truman Doctrine — US aid begins",
+  "description": "President Truman requests $400m in military and economic assistance for Greece and Turkey after Britain says it can no longer fund the fight against the communist-led insurgency; Congress approves $300m for Greece, launching sustained US involvement in Greek reconstruction and the broader Cold War a",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/greece.csv",
+  "date": "1953-04-09",
+  "country": "GRC",
+  "event_type": "policy-enacted",
+  "title": "Drachma devaluation and stabilization",
+  "description": "Minister Spyros Markezinis devalues the drachma 50% against the dollar and curbs import restrictions, achieving Greece's first balanced budget since the war; industrial production rises nearly 40% in 1953 and a 1954 revaluation (1 new drachma = 1,000 old) anchors two decades of currency stability un",
+  "domains": "fx;inflation"
+ }
+]

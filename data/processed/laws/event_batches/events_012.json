@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1997-12-03",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "IMF $58.4bn bailout agreed",
+  "description": "Largest IMF rescue package to that date (IMF $21bn, World Bank $10bn, ADB $4bn, bilateral $23.4bn), conditioned on financial-sector restructuring, fiscal tightening, and labor-market flexibility reforms.",
+  "domains": "banking;fx;fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1999-11-01",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "Daewoo Group collapses",
+  "description": "Daewoo, South Korea's second-largest chaebol, is declared bankrupt with roughly $50-80bn in debt — the largest corporate collapse in Korean history — after taking on debt through the Asian Financial Crisis rather than deleveraging, later revealed to involve $43bn in accounting fraud.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "2001-08-23",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "Early IMF loan repayment",
+  "description": "Korea repays its IMF loans three years ahead of schedule, symbolically closing the crisis chapter.",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "2003-01-01",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "Credit card crisis",
+  "description": "Post-crisis deregulation of consumer credit fuels a household-debt bubble; by end-2003 roughly 4 million Koreans (near 10% of the population) have defaulted on credit-card debt and LG Card collapses, forcing a government-led bailout.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "2008-09-01",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "Global Financial Crisis impact",
+  "description": "Won depreciates sharply; Korea deploys large fiscal stimulus and a currency swap line with the US Federal Reserve.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "2015-12-20",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "Korea-China Free Trade Agreement takes effect",
+  "description": "Bilateral FTA with Korea's largest trading partner enters into force, eliminating tariffs on the large majority of goods traded between the two economies.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "2020-01-20",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "COVID-19 first case and economic response",
+  "description": "Korea's early, widely-studied testing-and-tracing response limits the need for a full lockdown, cushioning the growth shock relative to peers.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1936-07-17",
+  "country": "ESP",
+  "event_type": "catastrophe",
+  "title": "Spanish Civil War begins",
+  "description": "Military uprising against the Second Republic triggers a three-year civil war; the conflict kills up to a million people, destroys infrastructure, and leaves the economy in ruins with a decade of food rationing to follow.",
+  "domains": "fiscal;food;labor"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1939-04-01",
+  "country": "ESP",
+  "event_type": "institutional-change",
+  "title": "Civil War ends — Francoist autarky begins",
+  "description": "Franco declares victory and installs an authoritarian regime pursuing economic autarky (self-sufficiency), with state-controlled trade, price regulation and rationing that leaves the economy stagnant through the 1940s.",
+  "domains": "trade;fiscal;food"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1953-09-26",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "Pact of Madrid with the United States",
+  "description": "Three executive agreements grant the US military bases on Spanish soil in exchange for economic and military aid; Spain receives over $1.5bn in US economic aid 1953-63, ending Franco-era international isolation and easing the autarky-era balance-of-payments squeeze.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1957-02-25",
+  "country": "ESP",
+  "event_type": "institutional-change",
+  "title": "Opus Dei \"technocrats\" enter Franco's cabinet",
+  "description": "Cabinet reshuffle brings technocratic ministers (Ullastres at Trade, Navarro Rubio at Finance, López Rodó coordinating development planning) into economic policymaking, sidelining Falangist autarky ideologues and paving the way for the 1959 Stabilization Plan.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1959-07-01",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "Stabilization Plan of 1959",
+  "description": "Decree-Law abandons economic autarky in favor of trade liberalization, currency devaluation, and openness to foreign investment, ending two decades of Francoist self-sufficiency policy and setting up the 1960s growth boom.",
+  "domains": "fx;trade;fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1964-01-01",
+  "country": "ESP",
+  "event_type": "economic-event",
+  "title": "Spanish Miracle growth era begins",
+  "description": "First four-year Indicative Development Plan formalizes 1960s state-guided industrialization; GDP grows roughly 6.5%/year on average from 1959-1974, the second-highest rate in the world after Japan, driven by tourism, emigrant remittances, and manufacturing exports.",
+  "domains": "trade;fiscal;labor"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1970-06-29",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "EEC Preferential Trade Agreement",
+  "description": "Spain and the EEC sign a six-year tariff-reduction timetable covering 60% of Spanish imports from the Community, a first institutionalized step toward European economic integration 16 years before full accession.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1975-11-20",
+  "country": "ESP",
+  "event_type": "political-event",
+  "title": "Franco's death",
+  "description": "Francisco Franco dies after 36 years in power; Juan Carlos I is crowned king two days later and Spain begins its transition to constitutional democracy.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1977-10-25",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "Moncloa Pacts",
+  "description": "Government, unions and opposition parties sign economic and political agreements exchanging wage restraint for tax, social-security and housing-market reforms, stabilizing the economy (inflation was above 24%) during the democratic transition.",
+  "domains": "fiscal;inflation;labor;housing"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1978-12-06",
+  "country": "ESP",
+  "event_type": "institutional-change",
+  "title": "1978 Constitution ratified",
+  "description": "92% of voters approve the new constitution in a referendum, establishing Spain as a parliamentary constitutional monarchy under Juan Carlos I and completing the legal transition from Francoist dictatorship to democracy.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1982-10-28",
+  "country": "ESP",
+  "event_type": "political-event",
+  "title": "PSOE landslide election win",
+  "description": "Felipe González's Socialists win 202 of 350 seats on the highest-turnout election of the democratic era, taking office to confront a deep recession and beginning a program of austerity, labor-market flexibilization, and industrial restructuring rather than the expansionary platform originally promis",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1984-07-27",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "Industrial Reconversion Law",
+  "description": "González government's industrial-restructuring program closes or downsizes uncompetitive steel, shipbuilding and textile plants inherited from the autarky/developmentalist era, triggering general strikes in 1984 and 1988 but modernizing Spain's industrial base ahead of EEC entry.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1986-01-01",
+  "country": "ESP",
+  "event_type": "institutional-change",
+  "title": "Spain joins the EEC",
+  "description": "Spain accedes to the European Economic Community alongside Portugal, locking in trade liberalization and eventual access to EU structural and cohesion funds.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1992-07-25",
+  "country": "ESP",
+  "event_type": "economic-event",
+  "title": "Barcelona Olympics and Seville Expo",
+  "description": "Spain hosts the Summer Olympics in Barcelona and the Universal Exposition in Seville the same year, both accompanied by large public infrastructure investment that showcases the country's post-transition modernization.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1992-09-17",
+  "country": "ESP",
+  "event_type": "economic-event",
+  "title": "Peseta devalued amid ERM crisis",
+  "description": "First of three peseta devaluations within the 1992-93 European Exchange Rate Mechanism crisis (5% in September, 6% in November 1992, 6.5% in May 1993) after sterling and the lira are forced out of the ERM entirely.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "1999-01-01",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "Euro adoption (accounting currency)",
+  "description": "Spain adopts the euro as its accounting currency at a fixed peseta rate; notes and coins enter circulation on 1 January 2002.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "2008-01-01",
+  "country": "ESP",
+  "event_type": "catastrophe",
+  "title": "Property bubble bursts",
+  "description": "A decade-long housing construction and credit boom collapses; house prices fall roughly 37% from 2007-2013 as construction employment craters and non-performing loans surge at savings banks (cajas).",
+  "domains": "housing;banking"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "2010-05-12",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "First austerity package amid debt crisis",
+  "description": "Zapatero government announces surprise spending cuts (public-sector pay cut 5%, pension freeze) under market pressure following Greece's bailout, reversing the stimulus-oriented response to the 2008 crisis.",
+  "domains": "fiscal"
+ }
+]

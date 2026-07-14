@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2019-11-15",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Gasoline price hike triggers nationwide protests",
+  "description": "Government raises subsidized fuel prices and imposes rationing overnight; protests spread to 190+ cities ('Bloody Aban'); Amnesty International verified 304 deaths in the state crackdown; a 4-day nationwide internet shutdown followed.",
+  "domains": "fiscal;food"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2020-04-28",
+  "country": "IRN",
+  "event_type": "policy-repealed",
+  "title": "Justice Shares trading restriction lifted",
+  "description": "Supreme Leader Khamenei approves a Rouhani-government request to let roughly 49 million Iranian holders of Justice Shares (first distributed from 2006) trade their shares directly on the Tehran Stock Exchange and Iran Fara Bourse, ending the decade-plus non-trading restriction and helping fuel a ret",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2020-08-09",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Tehran Stock Exchange bubble peaks then bursts",
+  "description": "Encouraged by the government to invest amid rial depreciation and sanctions, retail investors pour over $900m into the Tehran Stock Exchange; the main index peaks above 2 million points on 9 August 2020 before crashing roughly 40% over the following months, wiping out many small investors' savings a",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2020-08-14",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "UNSC rejects US bid to extend Iran arms embargo",
+  "description": "A US-sponsored resolution to indefinitely extend the UN conventional-arms embargo on Iran (due to expire under Resolution 2231's sunset clause) fails, with only the Dominican Republic joining the US in favor, Russia and China opposed, and the remaining 11 members abstaining; the vote sets up the Tru",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2020-10-01",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Rial breaches 300,000/dollar on free market",
+  "description": "Amid 'maximum pressure' sanctions, curtailed oil exports and pandemic-driven economic strain, Iran's open-market rial weakens past 300,000 rials/dollar for the first time -- roughly a 90% depreciation from pre-2018-sanctions levels -- deepening import-cost inflation.",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2020-10-18",
+  "country": "IRN",
+  "event_type": "sanction-lifted",
+  "title": "UN arms embargo on Iran expires",
+  "description": "The 13-year UN conventional-arms embargo lapses on schedule under JCPOA/Resolution 2231's sunset clause despite the Trump administration's rejected unilateral 'snapback' claim of September 2020; the E3 (France, Germany, UK) and other Security Council members maintain the US -- having withdrawn from ",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2021-03-27",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Iran-China 25-Year Cooperation Program signed",
+  "description": "Foreign ministers Zarif and Wang Yi sign a strategic partnership framework committing China to invest in Iranian energy, transport, banking and telecoms infrastructure over 25 years -- reportedly up to $400bn, though independent analysts dispute the figure -- in exchange for steady, discounted Irani",
+  "domains": "trade;oil;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2021-12-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Raisi budget cuts National Development Fund savings rate",
+  "description": "The Raisi government's first budget bill halves the share of oil revenue mandated for the National Development Fund's savings account -- from the 40% required by the fund's charter to 20% -- redirecting the freed funds to current government spending.",
+  "domains": "fiscal;oil"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2022-05-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Preferential \"4,200 toman\" import-currency rate eliminated",
+  "description": "Parliament approves ending the subsidized foreign-currency allocation for essential imports (flour, medicine), removing the ~$10-14bn/yr subsidy and roughly doubling bread prices for many bakeries.",
+  "domains": "fx;food;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2022-09-16",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "Mahsa Amini protests",
+  "description": "Death of Mahsa Amini in morality-police custody triggers months of nationwide unrest, disrupting business activity and accelerating rial depreciation.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2023-03-10",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "Iran-Saudi Arabia relations restored",
+  "description": "A Beijing-brokered agreement between Iran and Saudi Arabia re-establishes diplomatic relations and reopens embassies after a seven-year rupture, easing regional tensions with implications for regional trade and investment.",
+  "domains": "trade;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2023-08-10",
+  "country": "IRN",
+  "event_type": "sanction-lifted",
+  "title": "$6bn Iranian funds unfrozen via South Korea-Qatar transfer",
+  "description": "As part of a prisoner-swap deal, the US issues a sanctions waiver letting roughly $6bn (5.573bn euros) in Iranian oil-revenue funds long frozen in South Korean banks move via Switzerland to restricted accounts at Qatar's Al-Ahli and Dukhan banks, usable only for humanitarian goods (food, medicine, a",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2023-10-13",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "$6bn Qatar-held Iranian funds refrozen",
+  "description": "Amid bipartisan pressure following Hamas's 7 October attack on Israel, the Biden administration reaches an agreement with Qatar to block any Iranian request to access the $6bn in oil-revenue funds transferred from South Korea the previous month, effectively refreezing money that had never actually b",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2024-01-01",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Iran formally joins BRICS",
+  "description": "Iran's membership in the BRICS economic bloc (alongside Egypt, Ethiopia, and the UAE) takes effect 1 January 2024 after being invited in August 2023; Tehran frames membership as a hedge against Western economic isolation.",
+  "domains": "trade;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2024-05-19",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "President Raisi dies in helicopter crash",
+  "description": "President Ebrahim Raisi's death triggers a snap presidential election; markets and the rial reacted to the political uncertainty.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2024-07-28",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "Pezeshkian elected president",
+  "description": "Reformist-aligned Masoud Pezeshkian wins the presidential runoff on a platform including negotiating sanctions relief.",
+  "domains": "fx;oil"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2025-06-13",
+  "country": "IRN",
+  "event_type": "catastrophe",
+  "title": "Israel-Iran Twelve-Day War",
+  "description": "Israel launches Operation Rising Lion, striking Iranian nuclear and military sites from 13 to 24 June 2025; Iran's oil exports fall to roughly 102,000 bbl/day mid-war, a refinery near Tehran and part of the South Pars gas field are damaged, and the rial depreciates sharply through the following week",
+  "domains": "oil;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2025-09-27",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "UN snapback sanctions reimposed",
+  "description": "After the E3 (France, Germany, UK) trigger the JCPOA's snapback mechanism on 28 August 2025 citing Iranian non-compliance, the 30-day countdown lapses and UN Security Council sanctions under Resolutions 1696-1929 (arms embargo and proliferation-related financial and trade restrictions) are reinstate",
+  "domains": "fx;trade;banking"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2025-10-05",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Currency redenomination law passed",
+  "description": "Parliament approves a law removing four zeros from the rial (10,000 old rials = 1 new rial) and introducing a subunit called the qeran; the Central Bank has two years to set implementation procedures, followed by a three-year dual-circulation transition, amid roughly 40% inflation and a rial that ha",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1927-10-15",
+  "country": "IRQ",
+  "event_type": "economic-event",
+  "title": "Baba Gurgur oil strike opens Iraq's oil era",
+  "description": "A gusher at Baba Gurgur near Kirkuk becomes the first major commercial oil discovery in Iraq, brought into production by the Iraq Petroleum Company from 1934 and giving rise to the country's oil-export economy.",
+  "domains": "oil"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1928-07-31",
+  "country": "IRQ",
+  "event_type": "institutional-change",
+  "title": "Red Line Agreement forms the Iraq Petroleum cartel",
+  "description": "Western oil majors (Anglo-Persian, Shell, Compagnie Française des Pétroles, the Near East Development Corporation, and Calouste Gulbenkian) sign the Red Line Agreement, binding each other to a self-denial clause against independent exploration across former Ottoman territory and cementing joint cont",
+  "domains": "oil;institutional"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1932-10-03",
+  "country": "IRQ",
+  "event_type": "institutional-change",
+  "title": "Iraq gains independence from the British mandate",
+  "description": "Iraq is admitted to the League of Nations as a sovereign state, ending the British Mandate; Britain nonetheless retains military basing rights and continuing influence over Iraqi oil and fiscal policy under the 1930 Anglo-Iraqi Treaty.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1952-02-14",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "Iraq Petroleum Company accepts 50-50 profit sharing",
+  "description": "IPC agrees to split profits evenly with the Iraqi government, retroactive to January 1951, following the pattern set by the Saudi-Aramco deal; Iraqi government oil revenue rises from about £11.7m in 1950 to roughly £42.5m by 1957.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1958-07-14",
+  "country": "IRQ",
+  "event_type": "political-event",
+  "title": "14 July Revolution overthrows the Hashemite monarchy",
+  "description": "Free Officers led by Abd al-Karim Qasim overthrow King Faisal II, ending a pro-Western monarchy closely tied to Iraq Petroleum Company interests and opening a decade of nationalist economic policy, including land reform and oil-concession renegotiation.",
+  "domains": "institutional;oil"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1958-09",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "Agrarian Reform Law caps landownership",
+  "description": "Law No. 30 caps private landholdings and mandates redistribution of roughly 18 million dunums seized from large landowners to tenant farmers, dismantling Iraq's semi-feudal rural land structure under the new Qasim government.",
+  "domains": "food;fiscal"
+ }
+]

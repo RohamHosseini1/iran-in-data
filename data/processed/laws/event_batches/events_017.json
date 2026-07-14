@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1975-08-29",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Oil nationalization law signed",
+  "description": "President Carlos Andrés Pérez signs the framework law reserving the hydrocarbons industry to the state, effective 1 January 1976; a companion law creates Petróleos de Venezuela (PDVSA) as the operating state company (see 1976 entry).",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1976-01-01",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Oil industry nationalized",
+  "description": "PDVSA created as the state oil company, nationalizing Venezuela's petroleum sector.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1983-02-18",
+  "country": "VEN",
+  "event_type": "economic-event",
+  "title": "\"Black Friday\" devaluation",
+  "description": "Collapse of the bolívar's fixed exchange rate after a decade of oil-boom overspending, ending Venezuela's era of currency stability and introducing exchange controls (RECADI).",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1989-02-27",
+  "country": "VEN",
+  "event_type": "political-event",
+  "title": "Caracazo riots",
+  "description": "IMF-backed austerity package (fuel-price and transport-fare increases under President Carlos Andrés Pérez) triggers deadly nationwide riots, a turning point in Venezuelan political economy.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1994-01-12",
+  "country": "VEN",
+  "event_type": "catastrophe",
+  "title": "1994 banking crisis begins",
+  "description": "Banco Latino, Venezuela's second-largest bank, is intervened after a run on deposits; the crisis spreads to 17 of 49 commercial banks (53% of system assets) by August 1995, costing the government roughly $5bn in rescue spending and exposing deep sector corruption.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1998-12-06",
+  "country": "VEN",
+  "event_type": "political-event",
+  "title": "Hugo Chávez elected president",
+  "description": "Beginning of the \"Bolivarian Revolution,\" which progressively expanded state control over the oil sector and the broader economy.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2001-11-13",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Chávez's 49 enabling laws",
+  "description": "Using special decree powers, Chávez enacts 49 laws including the Ley de Tierras (land reform/expropriation authority) and a new Hydrocarbons Law raising royalties and asserting state control over PDVSA management, triggering business-sector backlash.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2002-04-11",
+  "country": "VEN",
+  "event_type": "political-event",
+  "title": "April 2002 coup attempt",
+  "description": "Dissident military officers briefly oust President Chávez amid opposition protests following his politicization of PDVSA's management; mass counter-protests and loyalist troops restore him to power within 47 hours.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2002-12-02",
+  "country": "VEN",
+  "event_type": "catastrophe",
+  "title": "PDVSA general strike (paro petrolero)",
+  "description": "Opposition-aligned oil executives and the CTV union federation shut down PDVSA operations for two months; crude output falls to roughly one-third of normal, costing PDVSA an estimated $14.4bn in lost revenue and leading to the dismissal of 18,000 employees (40% of the workforce).",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2003-02-06",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "CADIVI exchange controls established",
+  "description": "Fixed, government-administered exchange rate and currency-control board created after a national strike/capital-flight episode, beginning two decades of multi-tier FX regimes.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2007-01-08",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Nationalization wave",
+  "description": "Chávez government nationalizes telecom (CANTV), electricity, and major oil-project stakes (Orinoco Belt joint ventures), reducing private/foreign investment in core sectors.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2007-03-07",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "First currency redenomination announced",
+  "description": "Government announces the bolívar will be redenominated 1,000:1 as the \"bolívar fuerte,\" effective 1 January 2008.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2010-01-08",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Bolívar devalued under new two-tier exchange system",
+  "description": "Government replaces the fixed 2.15 Bs/$ peg with a two-tier rate (2.60 for priority imports, 4.30 petrodollar\" rate for others) — a roughly 50% devaluation at the weaker tier — as oil revenue and reserves come under strain.\"",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2013-03-05",
+  "country": "VEN",
+  "event_type": "political-event",
+  "title": "Chávez dies; Maduro succeeds",
+  "description": "Nicolás Maduro becomes president amid falling oil prices, setting up the collapse of the following decade.",
+  "domains": "oil;fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2014-01-01",
+  "country": "VEN",
+  "event_type": "economic-event",
+  "title": "Oil price collapse begins economic crisis",
+  "description": "Global oil price decline sharply cuts Venezuela's dominant export/fiscal revenue source, triggering the hyperinflation era.",
+  "domains": "oil;fiscal;fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2016-01-15",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Economic Emergency Decree",
+  "description": "President Maduro declares a 60-day economic emergency granting powers to intervene in companies and ration foreign-currency access amid triple-digit inflation and acute shortages; the opposition-led National Assembly rejects the decree, which the Supreme Court later upholds anyway.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2017-01-01",
+  "country": "VEN",
+  "event_type": "institutional-change",
+  "title": "Observatorio Venezolano de Finanzas (OVF) begins publishing",
+  "description": "Independent economists start publishing inflation and economic-activity estimates after the government stopped regularly releasing official statistics — the main non-government data source for this period.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2017-11-13",
+  "country": "VEN",
+  "event_type": "economic-event",
+  "title": "Selective default declared",
+  "description": "S&P declares Venezuela in \"selective default\" after missing a 30-day grace period on $200m in bond payments; Fitch follows with a PDVSA default rating days later, marking the formal onset of Venezuela's sovereign-debt crisis.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2018-08-20",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Second redenomination + \"Bolívar Soberano\"",
+  "description": "Government deletes five zeros and launches an economic recovery plan pegged loosely to the petro cryptocurrency; hyperinflation reaches roughly 1,700,000% in 2018 per external estimates.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2019-01-23",
+  "country": "VEN",
+  "event_type": "political-event",
+  "title": "Guaidó declares interim presidency",
+  "description": "National Assembly head Juan Guaidó claims the presidency, triggering a period of intensified US sanctions on PDVSA and the financial system.",
+  "domains": "oil;banking"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2019-01-28",
+  "country": "VEN",
+  "event_type": "sanction-imposed",
+  "title": "US sanctions on PDVSA",
+  "description": "US Treasury sanctions the state oil company directly, blocking most US-dollar oil-export proceeds from reaching the Maduro government.",
+  "domains": "oil;banking"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2019-03-07",
+  "country": "VEN",
+  "event_type": "catastrophe",
+  "title": "Nationwide electrical grid collapse",
+  "description": "Failure at the Guri hydroelectric complex -- source of roughly 80% of national electricity -- triggers Venezuela's worst-ever blackout, cutting power across most of the country's 23 states for over five days, with rolling outages continuing for weeks; hospitals, water pumping, telecommunications and",
+  "domains": "oil;fiscal;trade"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2020-12-01",
+  "country": "VEN",
+  "event_type": "economic-event",
+  "title": "De facto dollarization",
+  "description": "Widespread informal use of the US dollar in daily transactions becomes the primary inflation-coping mechanism as bolívar confidence collapses further.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2021-10-01",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Third redenomination — \"Bolívar Digital\"",
+  "description": "Central bank deletes six more zeros; hyperinflation (37 consecutive months) is declared to have ended at end-December 2020 per independent economist analysis.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "2022-11-26",
+  "country": "VEN",
+  "event_type": "sanction-lifted",
+  "title": "Chevron granted OFAC license to resume operations",
+  "description": "US Treasury issues General License 41 authorizing Chevron to resume limited joint-venture extraction with PDVSA following renewed Maduro-opposition talks, a first partial loosening of the oil-sector sanctions regime imposed in 2019.",
+  "domains": "oil;banking"
+ }
+]

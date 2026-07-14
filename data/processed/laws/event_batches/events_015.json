@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2008-11-25",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Federal Reserve launches QE1",
+  "description": "Fed announces purchases of up to $600bn in agency debt and mortgage-backed securities, the first round of quantitative easing; purchases continue through March 2010 and are later expanded to roughly $1.75 trillion.",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2010-07-21",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Dodd-Frank Wall Street Reform Act",
+  "description": "Sweeping post-crisis financial reform creates the Consumer Financial Protection Bureau and the Volcker Rule, and imposes new bank capital and stress-testing requirements via the Financial Stability Oversight Council.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2011-08-05",
+  "country": "USA",
+  "event_type": "economic-event",
+  "title": "S&P downgrades US credit rating",
+  "description": "Standard & Poor's cuts the US sovereign rating from AAA to AA+ — the first downgrade in US history — citing political brinkmanship\" in the debt-ceiling standoff resolved days earlier by the Budget Control Act; global equity markets fall 5-7% within days.\"",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2017-12-22",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Tax Cuts and Jobs Act signed",
+  "description": "Cuts the corporate tax rate from 35% to 21% and lowers individual income-tax rates, the largest US tax overhaul since 1986.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2018-07-06",
+  "country": "USA",
+  "event_type": "sanction-imposed",
+  "title": "Section 301 tariffs on China take effect",
+  "description": "First tranche of 25% tariffs on $34bn of Chinese imports takes effect under Section 301, opening the US-China trade war; further tranches and Chinese retaliation follow through 2019.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2020-03-27",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "CARES Act signed",
+  "description": "$2.2 trillion COVID-19 relief package provides direct stimulus payments, expanded unemployment insurance, and the Paycheck Protection Program for small businesses.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2022-06-01",
+  "country": "USA",
+  "event_type": "economic-event",
+  "title": "Inflation surge peaks at 9.1%",
+  "description": "CPI inflation hits a 40-year high of 9.1% year-on-year in June 2022, driven by pandemic-era supply-chain disruption, fiscal stimulus, and energy prices following Russia's invasion of Ukraine.",
+  "domains": "inflation"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2022-08-09",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "CHIPS and Science Act signed",
+  "description": "Authorizes roughly $52bn in subsidies for domestic semiconductor manufacturing and research, aimed at reducing reliance on Asian chip supply chains.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2022-08-16",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Inflation Reduction Act signed",
+  "description": "Climate, healthcare and tax package authorizing roughly $400bn in clean-energy incentives and allowing Medicare to negotiate some drug prices, partly funded by a 15% corporate minimum tax.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1914-08-01",
+  "country": "SUN",
+  "event_type": "catastrophe",
+  "title": "Russian Empire enters World War I",
+  "description": "Russia's general mobilization and Germany's subsequent declaration of war (1 August 1914) draw the empire into a war that conscripts roughly 15 million men, disrupts grain exports and rail-based supply chains, and drives runaway inflation and urban food shortages by 1916-17 -- economic strains that ",
+  "domains": "fiscal;labor;trade"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1917-11-07",
+  "country": "SUN",
+  "event_type": "political-event",
+  "title": "October Revolution — Bolsheviks seize power",
+  "description": "Lenin's Bolsheviks depose Russia's Provisional Government and proclaim Soviet power, the founding event of the state economy that would dominate this timeline for the next 74 years.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1918-06-28",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "War Communism — large-scale industry nationalized",
+  "description": "Council of People's Commissars decree nationalizes all large-scale industrial enterprises (coal, iron and copper-ore mining and similar sectors), formalizing the War Communism\" program of nationalized industry and forced grain requisitioning that lasts until the 1921 New Economic Policy.\"",
+  "domains": "fiscal;food"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1921-03-21",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "New Economic Policy (NEP) introduced",
+  "description": "Tenth Party Congress replaces War Communism's grain requisitioning with a tax in kind and permits limited private trade and small-scale enterprise, reviving the economy after the civil war.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1922-12-30",
+  "country": "SUN",
+  "event_type": "institutional-change",
+  "title": "USSR formally established",
+  "description": "Congress of Soviets of Russia, Ukraine, Belarus and the Transcaucasian SFSR approves the Treaty on the Creation of the USSR, establishing the federal structure — including unified citizenship and centralized budget authority — that governs the Soviet economy until 1991.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1928-10-01",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "First Five-Year Plan launched",
+  "description": "Stalin's plan for rapid state-directed industrialization goes into operation (formally adopted April 1929), prioritizing heavy industry over consumer goods and ending the NEP's mixed economy.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1930-01-05",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "Wholesale collectivization of agriculture ordered",
+  "description": "Central Committee resolution orders mass collectivization of peasant farms into kolkhozes and the 'liquidation of the kulaks as a class'; targets are repeatedly accelerated through 1930 amid violent peasant resistance.",
+  "domains": "food;fiscal;labor"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1932-01-01",
+  "country": "SUN",
+  "event_type": "catastrophe",
+  "title": "Soviet famine of 1931-34",
+  "description": "Forced collectivization and grain requisitioning trigger mass starvation across Ukraine, Kazakhstan, the North Caucasus and the Volga region; Britannica estimates at least 5 million deaths Soviet-wide, with death-toll and intent (including the 'Holodomor' framing specific to Ukraine) still debated a",
+  "domains": "food"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1933-01-01",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "Second Five-Year Plan launched",
+  "description": "Continuing the First Plan's priorities, the second plan (1933-37) again favors heavy industry; gross industrial production more than doubles over the period, though coal and oil targets are missed.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1941-06-22",
+  "country": "SUN",
+  "event_type": "catastrophe",
+  "title": "German invasion triggers total-war economy",
+  "description": "Operation Barbarossa forces wholesale mobilization of Soviet industry, including evacuation of factories east of the Urals; the war effort costs an estimated 27 million Soviet lives and devastates the western USSR's capital stock.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1947-12-16",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "1947 currency reform and end of wartime rationing",
+  "description": "Government exchanges old-pattern rubles for new ones at 10:1 and abolishes the wartime rationing system in favor of uniform reduced state retail prices, the first postwar normalization of the Soviet consumer economy.",
+  "domains": "fx;inflation;food"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1953-03-05",
+  "country": "SUN",
+  "event_type": "political-event",
+  "title": "Death of Stalin",
+  "description": "Stalin dies after a stroke, triggering a Communist Party leadership struggle from which Nikita Khrushchev emerges, opening the door to the Thaw\" and eventual de-Stalinization of economic administration.\"",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1957-05-07",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "Sovnarkhoz reform — regional economic decentralization",
+  "description": "Khrushchev's address to the Supreme Soviet abolishes most all-Union industrial ministries and creates roughly 105 regional economic councils (sovnarkhozy) to decentralize planning, reversed in 1965 after proving difficult to coordinate.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1961-01-01",
+  "country": "SUN",
+  "event_type": "policy-enacted",
+  "title": "1961 ruble redenomination",
+  "description": "Fifth Soviet monetary reform redenominates the ruble 10:1 and devalues it against the US dollar; the resulting ruble remains in circulation for over 37 years, the longest-lived Soviet currency incarnation.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1965-09-27",
+  "country": "SUN",
+  "event_type": "policy-proposed",
+  "title": "Kosygin economic reform announced",
+  "description": "Premier Alexei Kosygin outlines a decentralizing reform at the Central Committee Plenum, replacing many mandatory output targets with profit and sales indicators for enterprises; implementation stalls after the 1968 Prague Spring hardens conservative resistance.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1979-12-24",
+  "country": "SUN",
+  "event_type": "catastrophe",
+  "title": "Soviet invasion of Afghanistan",
+  "description": "Soviet troops invade to prop up the communist government in Kabul, beginning a nine-year war the CIA estimated had cost roughly 18 billion rubles by 1986 (on the order of $1-2bn/year), straining the Soviet budget through the 1980s.",
+  "domains": "fiscal"
+ }
+]

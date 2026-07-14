@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1985-04-23",
+  "country": "SUN",
+  "event_type": "institutional-change",
+  "title": "Gorbachev launches perestroika",
+  "description": "Newly elected General Secretary Mikhail Gorbachev's April Plenum speech introduces 'uskoreniye' (acceleration) and lays the groundwork for perestroika (restructuring) and glasnost (openness), the reform program that restructures the Soviet economy over the following six years.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1991-08-19",
+  "country": "SUN",
+  "event_type": "political-event",
+  "title": "August Coup attempt against Gorbachev",
+  "description": "Communist hardliners (KGB, military, party conservatives) briefly seize power to block a new union treaty and preserve central planning; the coup's collapse fatally undermines Gorbachev and accelerates the USSR's dissolution four months later.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1991-12-26",
+  "country": "RUS",
+  "event_type": "political-event",
+  "title": "Dissolution of the USSR — Russia inherits the Soviet economy",
+  "description": "The Soviet Union formally dissolves into 15 successor states (see GLOBAL entry); the Russian Federation inherits most Soviet economic institutions, foreign debt, and the UN Security Council seat, and begins market transition weeks later.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1992-01-02",
+  "country": "RUS",
+  "event_type": "policy-enacted",
+  "title": "Gaidar 'shock therapy' price liberalization",
+  "description": "Acting PM Yegor Gaidar's government frees prices on most goods overnight, ending Soviet-era price controls; consumer prices rise roughly 2,500% over 1992 as pent-up shortages give way to hyperinflation.",
+  "domains": "fx;inflation;food"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1992-10-01",
+  "country": "RUS",
+  "event_type": "policy-enacted",
+  "title": "Voucher privatization program begins",
+  "description": "Deputy PM Anatoly Chubais's program issues privatization vouchers (nominal value 10,000 rubles) to 144 million citizens to buy shares in state enterprises, the centerpiece of Russia's mass-privatization drive that gave rise to the 1990s oligarchs.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1993-09-21",
+  "country": "RUS",
+  "event_type": "political-event",
+  "title": "1993 constitutional crisis",
+  "description": "Yeltsin's decree dissolving parliament triggers a ten-day standoff and armed clashes that kill over 180 people before tanks shell the White House; the crisis clears the way for Yeltsin's market-reform-entrenching December 1993 constitution.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1995-11-01",
+  "country": "RUS",
+  "event_type": "policy-enacted",
+  "title": "Loans-for-shares privatization auctions",
+  "description": "Commercial banks lend the cash-strapped government roughly $800m against collateral stakes in major state firms (Norilsk Nickel, Yukos, Sibneft and others); the government's 1996 default on the loans transfers these assets to bank owners at deep discounts, creating Russia's first generation of oliga",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "1998-08-17",
+  "country": "RUS",
+  "event_type": "catastrophe",
+  "title": "Russian financial crisis — ruble default",
+  "description": "Government of PM Sergei Kiriyenko abandons its ruble defense, defaults on domestic GKO debt, and imposes a 90-day moratorium on external commercial debt payments; the ruble falls from about 6.3 to 21 per dollar within weeks.",
+  "domains": "fx;banking;fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2000-05-07",
+  "country": "RUS",
+  "event_type": "political-event",
+  "title": "Putin inaugurated president; 2000s oil-boom growth begins",
+  "description": "Vladimir Putin's inauguration marks the start of a decade of roughly 7% average annual GDP growth, fueled by rising oil and gas prices and post-1998-devaluation competitiveness, before growth slows after the 2008 crisis.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2003-10-25",
+  "country": "RUS",
+  "event_type": "political-event",
+  "title": "Yukos affair — Khodorkovsky arrested",
+  "description": "FSB agents arrest Yukos CEO Mikhail Khodorkovsky, then Russia's richest man, on tax-evasion and fraud charges; Yukos is later dismantled and its assets absorbed into state-controlled Rosneft, marking a turning point toward renewed state control of strategic industry under Putin.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2004-01-01",
+  "country": "RUS",
+  "event_type": "institutional-change",
+  "title": "Stabilization Fund of Russia established",
+  "description": "Government creates a sovereign wealth fund to accumulate oil revenue earned above a cutoff price (initially $20/barrel Urals), insulating the budget from commodity swings after the 1998 crisis exposed the danger of oil-revenue dependence.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2008-08-08",
+  "country": "RUS",
+  "event_type": "economic-event",
+  "title": "Russo-Georgian War and 2008 financial crisis pressure",
+  "description": "War with Georgia accelerates capital flight and ruble weakness just as the global financial crisis hits; the central bank spends over $200bn in reserves defending the ruble through early 2009 as the stock market falls roughly 70% from its May peak.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2014-03-06",
+  "country": "RUS",
+  "event_type": "sanction-imposed",
+  "title": "First Western sanctions over Crimea",
+  "description": "US Executive Order 13660 authorizes sanctions on individuals and entities undermining Ukraine's sovereignty; coordinated US/EU/Canada sanctions follow on March 17, a day before Russia formally annexes Crimea.",
+  "domains": "fx;trade"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2014-03-18",
+  "country": "RUS",
+  "event_type": "political-event",
+  "title": "Annexation of Crimea",
+  "description": "Russia formally incorporates Crimea and Sevastopol following a disputed referendum, triggering the first major post-Cold War Western sanctions regime against Russia.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2014-12-16",
+  "country": "RUS",
+  "event_type": "catastrophe",
+  "title": "\"Black Tuesday\" ruble collapse",
+  "description": "Ruble falls nearly 20% in a single day to a record low near 80/dollar despite an emergency central-bank rate hike from 10.5% to 17%, driven by collapsing oil prices, Western sanctions over Crimea, and a Rosneft bailout absorbing dollar liquidity.",
+  "domains": "fx;oil"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2022-02-24",
+  "country": "RUS",
+  "event_type": "catastrophe",
+  "title": "Russia launches full-scale invasion of Ukraine",
+  "description": "Russian forces invade Ukraine on multiple fronts (see GLOBAL entry), triggering the largest European war since 1945 and the most extensive Western sanctions regime ever imposed on a major economy.",
+  "domains": "fx;trade;oil"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2022-02-26",
+  "country": "RUS",
+  "event_type": "sanction-imposed",
+  "title": "SWIFT disconnection and central-bank reserve freeze",
+  "description": "US, EU, UK and Canada remove major Russian banks from SWIFT messaging and freeze roughly $300bn of Russian central bank foreign reserves, the most severe financial sanctions ever applied to a G20 economy.",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/ussr-russia.csv",
+  "date": "2022-06-27",
+  "country": "RUS",
+  "event_type": "economic-event",
+  "title": "Russia's first foreign-currency sovereign default since 1918",
+  "description": "Russia misses roughly $100m in Eurobond coupon payments after US sanctions block the payment channel, its first default on foreign-currency debt in over a century — a technical default caused by sanctions rather than an inability to pay.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1943-03-13",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Hydrocarbons Law of 1943",
+  "description": "President Medina Angarita's reform requires foreign oil companies to share profits roughly 50-50 with the state and unifies concession terms at a uniform 40-year duration; government oil income rises sixfold within five years, the first major step toward state control of the sector.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1948-11-24",
+  "country": "VEN",
+  "event_type": "political-event",
+  "title": "Military coup overthrows Rómulo Gallegos",
+  "description": "Officers led by Marcos Pérez Jiménez overthrow Venezuela's first democratically elected president months after he signed a sweeping land-reform bill, beginning a decade of military dictatorship.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1958-01-23",
+  "country": "VEN",
+  "event_type": "political-event",
+  "title": "Pérez Jiménez dictatorship overthrown",
+  "description": "A military-civilian uprising ousts dictator Marcos Pérez Jiménez, who had relied heavily on oil revenue to fund urbanization and modernization spending, opening the transition back to democracy.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1958-10-31",
+  "country": "VEN",
+  "event_type": "institutional-change",
+  "title": "Punto Fijo Pact signed",
+  "description": "Leaders of Venezuela's three main non-communist parties agree to respect election results and share power, founding the stable two-party democratic system that governs oil-revenue distribution for the next four decades.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1960-04-19",
+  "country": "VEN",
+  "event_type": "institutional-change",
+  "title": "Corporación Venezolana del Petróleo (CVP) created",
+  "description": "Decree establishes Venezuela's first state-owned oil company, tasked with exploration, refining and trading hydrocarbons alongside the still-dominant foreign concessionaires; CVP later merges into PDVSA's structure.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1971-07-26",
+  "country": "VEN",
+  "event_type": "policy-enacted",
+  "title": "Hydrocarbons Reversion Law",
+  "description": "Law mandates that all oil-company assets, plants and equipment revert to the state without compensation when concessions expire in 1983, and requires companies to deposit 10% of assets as a maintenance guarantee — a key legal stepping-stone to full nationalization.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/venezuela.csv",
+  "date": "1974-01-01",
+  "country": "VEN",
+  "event_type": "economic-event",
+  "title": "Oil-boom windfall revenue surge",
+  "description": "Quadrupled global oil prices following the 1973 Arab oil embargo flood Venezuela with fiscal revenue, fueling a decade of state spending expansion that later collapses under debt when prices fall.",
+  "domains": "oil;fiscal"
+ }
+]

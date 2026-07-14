@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1961-12-12",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "Law No. 80 confiscates unexploited IPC concession areas",
+  "description": "Iraq expropriates roughly 99.5% of the Iraq Petroleum Company's concession territory without compensation, leaving IPC only its producing fields; the law halts new IOC exploration in Iraq for a decade and lays the legal groundwork for full nationalization.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1964",
+  "country": "IRQ",
+  "event_type": "institutional-change",
+  "title": "Iraq National Oil Company (INOC) established",
+  "description": "Law No. 11 creates the Iraq National Oil Company to explore and develop the oil areas returned to the state under Law 80, Iraq's first fully state-owned oil operating company and a direct institutional precursor to the 1972 full nationalization of IPC.",
+  "domains": "oil;institutional"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1968-07-17",
+  "country": "IRQ",
+  "event_type": "political-event",
+  "title": "Ba'ath Party seizes power in the 17 July Revolution",
+  "description": "A bloodless coup led by the Arab Ba'ath Socialist Party brings Ahmad Hassan al-Bakr to power, beginning 35 years of Ba'athist rule and a shift to state-led, oil-financed development that culminates in full IPC nationalization four years later.",
+  "domains": "institutional;oil"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1972-06-01",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "Iraq nationalizes the Iraq Petroleum Company",
+  "description": "The government nationalizes all remaining IPC assets after over a decade of disputes over the North Rumaila field and back-payment claims; the newly state-controlled sector's oil revenue subsequently rises from roughly $600-700m in 1968 to about $10bn/year by 1973-79 as global prices spike.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1980-09-22",
+  "country": "IRQ",
+  "event_type": "catastrophe",
+  "title": "Iraq invades Iran, opening the Iran-Iraq War",
+  "description": "Saddam Hussein's invasion of Iran begins an eight-year war financed heavily by loans from Gulf Arab states; Iraq accumulates an estimated $30-40bn in war debt to Kuwait and Saudi Arabia alone, a burden that later feeds Iraq's economic grievances against Kuwait ahead of the 1990 invasion.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1990-08-02",
+  "country": "IRQ",
+  "event_type": "catastrophe",
+  "title": "Iraq invades and annexes Kuwait",
+  "description": "Iraqi forces occupy Kuwait, seizing its oil fields and reserves amid disputes over OPEC quota overproduction, Rumaila-field drilling, and Iraq's unpaid war debt; the invasion triggers an immediate global oil-price spike and comprehensive international sanctions within days.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1990-08-06",
+  "country": "IRQ",
+  "event_type": "sanction-imposed",
+  "title": "UN Security Council imposes comprehensive sanctions (Resolution 661)",
+  "description": "The Security Council bans nearly all trade with Iraq -- imports, exports, and financial transactions except medicine and humanitarian food -- cutting off the great majority of Iraq's oil-export revenue for over a decade and triggering hyperinflation and a collapse in living standards through the 199",
+  "domains": "trade;fx;oil"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "1995-04-14",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "UN Resolution 986 creates the Oil-for-Food framework",
+  "description": "The Security Council authorizes Iraq to sell up to $1bn of oil every 90 days into a UN-controlled escrow account to fund food, medicine, and humanitarian imports; Iraq accepts the arrangement in 1996 and the first shipments arrive in March 1997, partially easing (though not ending) the 1990 sanction",
+  "domains": "oil;trade;fx"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2003-03-18",
+  "country": "IRQ",
+  "event_type": "economic-event",
+  "title": "Saddam Hussein orders roughly $1bn withdrawn from the Central Bank",
+  "description": "On the eve of the US-led invasion, Saddam Hussein hand-writes an order for his son Qusay to withdraw nearly $1bn (about a quarter of the country's currency reserves) in cash from the Central Bank of Iraq; a large portion of the money is never recovered, compounding the collapse of Iraqi state financ",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2003-05-23",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "CPA Order 2 dissolves the Iraqi army and Ba'ath state",
+  "description": "The Coalition Provisional Authority disbands the Iraqi army, air force, navy, intelligence services, and Ba'ath Party structures, throwing roughly 400,000 soldiers and hundreds of thousands of other public employees out of work overnight without pensions -- a labor-market shock widely blamed for fue",
+  "domains": "labor;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2003-09-19",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "CPA Order 39 opens Iraq to 100% foreign ownership",
+  "description": "The Coalition Provisional Authority allows foreign investors to own up to 100% of Iraqi businesses in most sectors (excluding natural resources) on equal terms with Iraqi investors, an unprecedented economic liberalization imposed under occupation before any elected Iraqi government existed.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2003-10-15",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "New Iraqi dinar replaces Saddam-era and Swiss dinars",
+  "description": "The CPA introduces new banknotes and runs a three-month exchange (through 15 January 2004), converting old Saddam-era notes at par and the northern 'Swiss dinar' at 1:150, unifying Iraq's currency for the first time since the Kurdish region's de facto monetary split during the 1990s sanctions era.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2004-11-21",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "Paris Club agrees to cancel 80% of Iraq's debt",
+  "description": "Paris Club creditor nations agree to write off roughly 80% (net present value) of Iraq's nearly $39bn Paris Club debt in three staged tranches tied to IMF program compliance, unlocking room for postwar reconstruction financing.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2009-06-30",
+  "country": "IRQ",
+  "event_type": "economic-event",
+  "title": "First post-invasion oil licensing round awards Rumaila to BP-CNPC",
+  "description": "After decades of nationalization and sanctions had shut foreign majors out, Iraq's first post-2003 oil licensing round awards its giant Rumaila field to a BP-CNPC consortium under service contracts, marking international oil companies' return to Iraqi fields even as most other blocks in the round go",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2014-06-10",
+  "country": "IRQ",
+  "event_type": "catastrophe",
+  "title": "ISIS captures Mosul; Kurdish forces seize Kirkuk's oil fields",
+  "description": "The Islamic State's capture of Mosul and several northern oil fields (Ajil, Qayyarah), combined with Kurdish Peshmerga's simultaneous takeover of the Kirkuk oil complex, fragments Iraq's oil-production base just as global oil prices begin their 2014-16 collapse, triggering an acute fiscal and balanc",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2016-07-07",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "IMF approves $5.34bn Stand-By Arrangement for Iraq",
+  "description": "Facing a combined ISIS-war and oil-price collapse shock that opens an estimated $18bn financing gap, the IMF approves a three-year Stand-By Arrangement conditioned on fiscal consolidation, public-financial-management reform, and debt sustainability; Iraq's 2015 GDP had contracted 2.4% despite a 13% ",
+  "domains": "fiscal;oil"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2017-10-16",
+  "country": "IRQ",
+  "event_type": "political-event",
+  "title": "Iraqi forces retake Kirkuk from Kurdish control",
+  "description": "Following the KRG's September 2017 independence referendum, federal Iraqi forces and allied militias retake Kirkuk and its oil fields from Kurdish Peshmerga within hours; the Kurdistan Regional Government loses roughly 40% of its territory and the oil production that had financed up to 80% of its bu",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2020-12-19",
+  "country": "IRQ",
+  "event_type": "policy-enacted",
+  "title": "Central Bank of Iraq devalues the dinar 23%",
+  "description": "Facing a fiscal crisis from the COVID-era oil-price collapse, the Central Bank lets the official exchange rate fall from 1,190 to about 1,460 dinars per dollar, the first major devaluation since the new dinar's 2003 introduction, sparking public backlash but easing dinar-denominated government spend",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2021-12-21",
+  "country": "IRQ",
+  "event_type": "economic-event",
+  "title": "Iraq completes Gulf War reparations to Kuwait",
+  "description": "Iraq makes its final payment toward the roughly $52.4bn the UN Compensation Commission awarded to claimants over the 1990-91 invasion of Kuwait, funded since 1991 by a mandatory share (originally 5%, later reduced) of Iraq's oil-export revenue -- a three-decade fiscal drag formally ending as this pa",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iraq.csv",
+  "date": "2023-01",
+  "country": "IRQ",
+  "event_type": "economic-event",
+  "title": "US Federal Reserve dollar restrictions trigger Iraqi currency crisis",
+  "description": "The New York Fed tightens compliance screening on the Central Bank of Iraq's dollar purchases from around November 2022 to curb Iran-linked dollar smuggling through Iraq; roughly 80% of dollar-transfer requests are rejected, and the black-market dinar rate weakens to about 1,650 per dollar versus th",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1933-03-19",
+  "country": "PRT",
+  "event_type": "institutional-change",
+  "title": "Estado Novo constitution approved",
+  "description": "National plebiscite approves Salazar's corporatist constitution, establishing an authoritarian 'unitary, corporative republic' that organizes the economy into state-controlled sectoral corporations rather than free markets or independent unions.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1948-04-16",
+  "country": "PRT",
+  "event_type": "institutional-change",
+  "title": "Portugal joins the OEEC and receives Marshall Plan aid",
+  "description": "Portugal is a founding member of the Organisation for European Economic Co-operation despite Salazar's initial reluctance to accept US aid; Portugal ultimately receives $54m in direct and $18.3m in indirect Marshall Plan assistance through 1951, its main benefit being OEEC membership itself.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1960-05-03",
+  "country": "PRT",
+  "event_type": "institutional-change",
+  "title": "Portugal founding member of EFTA",
+  "description": "Portugal joins Austria, Denmark, Norway, Sweden, Switzerland and the UK in founding the European Free Trade Association as an alternative to the EEC, remaining a member until switching to the EEC in 1986.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1961-02-04",
+  "country": "PRT",
+  "event_type": "catastrophe",
+  "title": "Colonial wars begin (Angola)",
+  "description": "Uprising in northern Angola marks the start of a 13-year war across Angola, Guinea-Bissau and Mozambique; war-related spending averages roughly 22% of state expenditure (about 3% of GDP) through 1974, straining the Estado Novo's finances.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1974-04-25",
+  "country": "PRT",
+  "event_type": "political-event",
+  "title": "Carnation Revolution",
+  "description": "Armed Forces Movement (MFA) officers overthrow the Estado Novo regime in an almost bloodless coup, ending 41 years of authoritarian corporatist rule and starting Portugal's transition to democracy.",
+  "domains": "fiscal"
+ }
+]

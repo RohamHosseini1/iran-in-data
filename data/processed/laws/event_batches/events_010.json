@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1975-03-14",
+  "country": "PRT",
+  "event_type": "policy-enacted",
+  "title": "Nationalization wave begins",
+  "description": "Revolutionary government nationalizes banks, insurance companies and major industrial firms; 244 private enterprises are nationalized between March 1975 and July 1976 as radical MFA officers push a Marxist-oriented economic transformation.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1976-04-02",
+  "country": "PRT",
+  "event_type": "institutional-change",
+  "title": "1976 Constitution ratified",
+  "description": "New constitution declares all post-1974 nationalizations 'irreversible conquests of the working classes' and commits the state to 'ensure the transition to socialism', before the 1982 and 1989 revisions walk back these provisions and open the way to privatization.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1977-04-01",
+  "country": "PRT",
+  "event_type": "policy-enacted",
+  "title": "First IMF stabilization program",
+  "description": "Portugal signs its first IMF Stand-By Arrangement (SDR 42.4 million) as post-revolutionary nationalization, wage growth and the 1973-75 oil shock produce a severe balance-of-payments crisis.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1983-10-01",
+  "country": "PRT",
+  "event_type": "policy-enacted",
+  "title": "Second IMF stabilization program",
+  "description": "Portugal signs a second IMF Stand-By Arrangement to address a severe balance-of-payments and fiscal crisis; escudo devaluation and interest-rate hikes produce a sharp but short recession before a robust 1985 recovery.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1986-01-01",
+  "country": "PRT",
+  "event_type": "institutional-change",
+  "title": "Portugal joins the EEC",
+  "description": "Portugal accedes to the European Economic Community alongside Spain, accelerating trade liberalization, foreign investment and eventual access to EU structural funds.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1989-06-01",
+  "country": "PRT",
+  "event_type": "institutional-change",
+  "title": "Constitutional revision permits reprivatization",
+  "description": "Second constitutional review removes the 1976 charter's declaration that post-1974 nationalizations were \"irreversible conquests,\" opening the door to the reprivatization program of state banks and industrial firms through the 1990s.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1992-04-06",
+  "country": "PRT",
+  "event_type": "policy-enacted",
+  "title": "Escudo joins the Exchange Rate Mechanism",
+  "description": "Escudo enters the ERM with a wide ±6% band, underlining Portugal's commitment to a stable exchange-rate path toward eventual euro membership even as the 1992-93 ERM crisis forces a band widening to ±15% the following year.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "1999-01-01",
+  "country": "PRT",
+  "event_type": "policy-enacted",
+  "title": "Euro adoption (accounting currency)",
+  "description": "Portugal is among the first wave of countries to adopt the euro as its accounting currency; notes and coins enter circulation on 1 January 2002.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "2005-07-20",
+  "country": "PRT",
+  "event_type": "institutional-change",
+  "title": "Excessive Deficit Procedure triggered",
+  "description": "European Commission recommends further steps against Portugal after the 2005 budget deficit is projected above 6% of GDP; the Sócrates government commits to a multi-year consolidation path back below the 3% Maastricht threshold by 2008.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "2010-04-01",
+  "country": "PRT",
+  "event_type": "economic-event",
+  "title": "Sovereign debt crisis onset",
+  "description": "Portuguese bond yields begin rising sharply as eurozone contagion from Greece spreads; yields climb from roughly 5.3% in August to 6.9% by November 2010 amid a ballooning deficit (11.2% of GDP) and a two-notch Moody's downgrade, setting up the 2011 bailout request.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "2011-05-17",
+  "country": "PRT",
+  "event_type": "policy-enacted",
+  "title": "EU/IMF bailout program agreed",
+  "description": "€78bn joint EU-IMF financing package (split evenly between the EFSM, EFSF and IMF) is agreed after Portugal loses market access; the program runs through mid-2014 and imposes austerity and structural-reform conditionality.",
+  "domains": "banking;fiscal;fx"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "2014-05-17",
+  "country": "PRT",
+  "event_type": "economic-event",
+  "title": "Portugal exits bailout program",
+  "description": "Portugal completes its three-year EU/IMF adjustment program without requesting a precautionary credit line, regaining full market access for sovereign borrowing.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/portugal.csv",
+  "date": "2015-11-26",
+  "country": "PRT",
+  "event_type": "political-event",
+  "title": "\"Geringonça\" left-wing government takes office",
+  "description": "António Costa's Socialist minority government, backed by the Communist Party and Left Bloc, takes office and begins reversing bailout-era austerity (restoring public-sector pay and pensions) while still meeting EU fiscal targets — reaching Portugal's lowest deficit since 1974 by 2017.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1938-03-03",
+  "country": "SAU",
+  "event_type": "economic-event",
+  "title": "First commercial oil discovery",
+  "description": "Standard Oil of California (Aramco predecessor) strikes oil at Dammam No. 7, founding Saudi Arabia's oil economy.",
+  "domains": "oil"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1960-09-14",
+  "country": "SAU",
+  "event_type": "institutional-change",
+  "title": "OPEC founding member",
+  "description": "Saudi Arabia co-founds OPEC alongside Iran, Iraq, Kuwait and Venezuela to coordinate oil production/pricing.",
+  "domains": "oil"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1973-01-01",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "General Agreement on Participation — first Aramco nationalization stage",
+  "description": "Gulf producer states and their oil-company concessionaires sign a participation agreement giving the Saudi government a 25% ownership stake in Aramco, the first of several staged buy-outs completed by 1980.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1973-10-16",
+  "country": "SAU",
+  "event_type": "economic-event",
+  "title": "1973 oil embargo and price shock",
+  "description": "Arab oil embargo and OPEC price increases quadruple Saudi oil revenue, funding the country's first development plans.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1974-06-01",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "Saudi Aramco stake raised to 60%",
+  "description": "Under the phased participation agreement, the Saudi government's ownership share of Aramco rises from 25% to 60%, six years ahead of full nationalization.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1980-01-01",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "Full nationalization of Aramco",
+  "description": "Saudi government completes its buyout of Aramco from the American oil consortium, giving the state full control of oil revenue.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1986-01-01",
+  "country": "SAU",
+  "event_type": "economic-event",
+  "title": "1986 oil price collapse",
+  "description": "Global oil glut crashes prices; Saudi Arabia runs large fiscal deficits through the late 1980s after the 1970s-80s spending boom.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1988-11-08",
+  "country": "SAU",
+  "event_type": "institutional-change",
+  "title": "Saudi Aramco formally established by royal decree",
+  "description": "A royal decree creates the Saudi Arabian Oil Company (Saudi Aramco) to take over the former Aramco's assets and operations, formalizing full state ownership eight years after 100% participation was reached.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "1990-08-02",
+  "country": "SAU",
+  "event_type": "economic-event",
+  "title": "Iraqi invasion of Kuwait — Gulf War fiscal costs",
+  "description": "Iraq's invasion of Kuwait and the ensuing UN embargo prompt Saudi Arabia to host coalition forces and finance the war effort; the kingdom spends an estimated $55-64bn on war-related costs by mid-1991, draining reserves even as oil prices briefly double.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2000-04-10",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "Foreign Investment Act and SAGIA established",
+  "description": "Royal Decree M/1 creates a legal framework for majority foreign ownership of Saudi businesses and establishes the Saudi Arabian General Investment Authority (SAGIA) to license and promote inbound investment.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2003-06-16",
+  "country": "SAU",
+  "event_type": "institutional-change",
+  "title": "Capital Market Law establishes the CMA",
+  "description": "Royal Decree M/30 creates the Capital Market Authority as an independent securities regulator, laying the legal groundwork for the later Tadawul stock exchange and broader capital-market development.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2005-12-11",
+  "country": "SAU",
+  "event_type": "institutional-change",
+  "title": "WTO accession",
+  "description": "Saudi Arabia joins the World Trade Organization, part of a broader trade-liberalization push.",
+  "domains": "trade"
+ }
+]

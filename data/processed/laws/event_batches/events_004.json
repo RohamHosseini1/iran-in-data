@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1919-08-09",
+  "country": "IRN",
+  "event_type": "policy-proposed",
+  "title": "Anglo-Persian Agreement signed",
+  "description": "British Foreign Secretary Curzon's agreement would have given Britain control over Persia's military organization, customs tariffs, and finances in exchange for a GBP 2m loan at 7% interest; it proves so unpopular domestically and internationally that the Majlis never ratifies it, and it is formally",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1921-02-21",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "1921 Persian coup centralizes state authority",
+  "description": "Reza Khan and journalist Seyyed Zia'eddin Tabatabaei march Cossack troops into Tehran and install a new government, beginning the consolidation of central military and fiscal authority away from Qajar provincial power-brokers that culminates in Reza Khan's 1925 coronation as Shah.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1925-01-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Sugar and tea consumption tax enacted",
+  "description": "Majlis approves indirect consumption taxes on sugar and tea, the principal domestic revenue source used to finance construction of the state-built Trans-Iranian Railway without foreign loans.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1925-12-15",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Pahlavi dynasty founded",
+  "description": "Reza Khan crowned Reza Shah Pahlavi, beginning a state-led modernization and industrialization program.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1927-01-01",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Bank Melli Iran established",
+  "description": "Iran's first national bank founded, taking over currency-issuing functions previously held by the British Imperial Bank of Persia.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1928-05-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Capitulations abolished",
+  "description": "Iran unilaterally ends the 19th-century capitulations regime under which foreign nationals held extraterritorial legal immunity from Iranian courts, asserting full Iranian judicial sovereignty over foreign nationals.",
+  "domains": "institutional;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1928-05-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Tariff autonomy law enacted",
+  "description": "New customs tariff law (11 Ordibehesht 1307) restores Iran's autonomy to set its own import tariffs, cancelling Qajar-era treaty limits on Iranian customs duties and introducing an ad valorem tariff structure.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1930-01-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Progressive income tax introduced",
+  "description": "Iran's first progressive income tax law sets marginal rates from 0.5% to a maximum of 4%, though it applies mainly to public-sector wage and salary earners and yields limited government revenue.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1931-02-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Foreign Trade Monopoly Law",
+  "description": "Majlis grants the government a monopoly over all foreign trade, empowering it to set import quotas tied to non-oil export proceeds and to establish state trading companies for sugar, tea, opium, tobacco and cereals -- the legal basis for an import-substitution industrialization strategy.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1932-04-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Rial replaces qran as national currency",
+  "description": "Under the Unitary Currency Law of 1930-31, Bank Melli Iran assumes the monopoly on banknote issuance from the British-owned Imperial Bank of Persia (for a payment of £200,000), and the rial -- subdivided into 100 new dinars -- replaces the qran at par as Persia's official currency; Bank Melli's firs",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1932-11-27",
+  "country": "IRN",
+  "event_type": "policy-repealed",
+  "title": "D'Arcy oil concession unilaterally cancelled",
+  "description": "Reza Shah's government cancels the 1901 D'Arcy oil concession over royalty disputes, prompting Britain to refer the standoff to the League of Nations and the Permanent Court of International Justice; the dispute is resolved by a new 60-year concession agreed in 1933.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1933-05-29",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "D'Arcy oil concession renegotiated",
+  "description": "New 60-year concession with the Anglo-Persian Oil Company, ratified by the Majlis on 28 May and given royal assent the next day, reduces the concession area by three-quarters and guarantees Iran a fixed per-ton royalty plus 20% of the company's distributed profits.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1934-01-01",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "State-led industrialization drive accelerates",
+  "description": "Backed by high protective tariffs and Bank Melli financing, state and private investment establish roughly 265 new plants (textiles, sugar refining, cement, matches, glass) between 1930 and 1940, with industrial growth peaking in 1934-38 under direct state direction.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1938-08-26",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Trans-Iranian Railway completed",
+  "description": "State-financed railway from the Persian Gulf to the Caspian Sea, funded largely through domestic sugar and tea consumption taxes rather than foreign loans.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1941-08-25",
+  "country": "IRN",
+  "event_type": "catastrophe",
+  "title": "Anglo-Soviet invasion of Iran",
+  "description": "Britain and the USSR jointly invade to secure oil supply lines and the Persian Corridor; Reza Shah abdicates in favor of his son Mohammad Reza Pahlavi.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1946-01-30",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "Azerbaijan Crisis reaches the UN Security Council",
+  "description": "Amid Soviet-backed autonomous \"People's Government\" regimes established in Iranian Azerbaijan and Kurdistan (the Mahabad Republic) since December 1945, and Soviet troops remaining in northern Iran past the WWII withdrawal deadline, the UN Security Council adopts Resolution 2 on 30 January 1946 -- th",
+  "domains": "oil;institutional;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1949-02-08",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Plan Organization established; First Seven-Year Plan",
+  "description": "Sazman-e Barnameh created to design and coordinate national development plans, beginning the era of formal five/seven-year planning.",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1951-03-15",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Oil industry nationalized",
+  "description": "Majlis votes to nationalize the Anglo-Iranian Oil Company under Prime Minister Mohammad Mossadegh; National Iranian Oil Company (NIOC) subsequently established.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1953-08-19",
+  "country": "IRN",
+  "event_type": "political-event",
+  "title": "1953 coup d'état",
+  "description": "CIA- and MI6-backed coup removes Prime Minister Mossadegh and restores the Shah's executive authority, ending the oil nationalization standoff.",
+  "domains": "oil;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1954-08-19",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Consortium Agreement",
+  "description": "A consortium of Western oil majors resumes Iranian oil operations under a profit-sharing agreement, ending the nationalization dispute.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1955-09-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Second Seven-Year Plan launched",
+  "description": "Plan Organization launches Iran's second national development plan (1955-1962), financed substantially by oil revenue following the 1954 Consortium Agreement; communications, agriculture and the Khuzestan Development Service (Karaj, Sefid Rud and Dez dams) receive the largest budget allocations.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1956-11-01",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "First national census of Iran",
+  "description": "The General Department of Public Statistics conducts Iran's first modern population and housing census (1-16 November 1956) using 27,607 enumerators, recording a population of 18,954,704.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1960-05-28",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "Central Bank of Iran established",
+  "description": "The Monetary and Banking Act of 7 Khordad 1339 (28 May 1960) creates Bank Markazi-e Iran, transferring central-banking functions -- currency issue, bank supervision, monetary policy -- from Bank Melli Iran to a dedicated central bank with initial capital of 3.6 billion rials.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1960-09-14",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "OPEC founded with Iran as charter member",
+  "description": "Iran, Iraq, Kuwait, Saudi Arabia and Venezuela establish the Organization of the Petroleum Exporting Countries at the Baghdad Conference (10-14 September 1960) to coordinate members' petroleum policies and resist unilateral posted-price cuts by Western oil majors; Iranian delegate Fuad Rouhani becom",
+  "domains": "oil"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "1960-10-10",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "First IMF stand-by arrangement and stabilization program",
+  "description": "Facing a balance-of-payments crisis after falling oil prices leave reserves covering barely one to two weeks of imports, Iran draws on a 35m-SDR IMF stand-by arrangement and adopts an austerity program that sharply curbs bank credit expansion and government spending through 1962.",
+  "domains": "fx;fiscal;banking"
+ }
+]

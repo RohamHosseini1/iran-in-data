@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2014-11-27",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "OPEC maintains output amid price collapse — market-share strategy",
+  "description": "Saudi Arabia leads OPEC's decision not to cut production despite a nearly 40% price decline since June, prioritizing market share over price to squeeze higher-cost US shale producers.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2015-01-23",
+  "country": "SAU",
+  "event_type": "political-event",
+  "title": "King Salman accedes to the throne",
+  "description": "Salman bin Abdulaziz becomes king on the death of King Abdullah; days later he reshuffles ministries and elevates his son Mohammed bin Salman, setting up the Vision 2030 diversification push launched the following year.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2016-04-25",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "Vision 2030 launched",
+  "description": "Crown Prince Mohammed bin Salman launches a sweeping economic-diversification plan to reduce oil dependency, including the Public Investment Fund's expanded mandate and privatization program.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2017-11-04",
+  "country": "SAU",
+  "event_type": "economic-event",
+  "title": "Ritz-Carlton anti-corruption crackdown",
+  "description": "Crown Prince Mohammed bin Salman's anti-corruption committee detains roughly 400 princes, ministers and business figures at Riyadh's Ritz-Carlton; the government later reports $106.7bn in asset settlements from the affair.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2018-01-01",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "VAT introduced and fuel-subsidy cuts",
+  "description": "First-ever 5% value-added tax takes effect alongside petrol-price increases of up to 127%, ending decades of fuel subsidies (VAT later tripled to 15% on 1 July 2020).",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2018-12-01",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "Citizen's Account cash-transfer program",
+  "description": "National cash-transfer scheme launched to offset austerity/subsidy-reform impact on low- and middle-income citizens.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2019-12-11",
+  "country": "SAU",
+  "event_type": "economic-event",
+  "title": "Saudi Aramco IPO",
+  "description": "Aramco's partial public listing becomes the largest IPO in history at the time, part of the Vision 2030 diversification/privatization strategy.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2020-03-08",
+  "country": "SAU",
+  "event_type": "economic-event",
+  "title": "Saudi-Russia oil price war",
+  "description": "After Russia rejects a proposed OPEC+ production cut, Saudi Arabia slashes prices and announces a production surge to 12.3 million b/d, crashing prices from roughly $50 to near $10-20/barrel amid collapsing COVID-19 demand.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2020-04-12",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "OPEC+ agrees record production cut",
+  "description": "Saudi Arabia and Russia lead OPEC+ to a historic 9.7 million b/d output cut, the largest coordinated supply reduction ever, to stem the COVID-era price collapse.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/saudi-arabia.csv",
+  "date": "2020-07-01",
+  "country": "SAU",
+  "event_type": "policy-enacted",
+  "title": "VAT tripled to 15%",
+  "description": "Amid COVID-19 and low oil prices, VAT raised from 5% to 15% and the annual Citizen's Account cost-of-living allowance suspended, a rare direct austerity move.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1950-06-25",
+  "country": "KOR",
+  "event_type": "catastrophe",
+  "title": "Korean War begins",
+  "description": "North Korean invasion triggers a three-year war fought across the peninsula; the conflict kills roughly 1.5 million people and destroys about a quarter of South Korea's capital stock, leaving early-1960s per-capita GDP near $100.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1953-02-15",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "First currency reform — won redenominated as hwan",
+  "description": "Bank of Korea exchanges the won for a new hwan at 100:1 to curb wartime inflation, the third currency reform since liberation.",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1961-05-16",
+  "country": "KOR",
+  "event_type": "political-event",
+  "title": "Park Chung-hee's May 16 coup",
+  "description": "Major General Park Chung-hee leads a military coup against the Second Republic amid economic instability (23%+ unemployment) and political factionalism, dissolving the National Assembly and installing the Supreme Council for National Reconstruction that launches state-led export-oriented industriali",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1962-01-01",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "First Five-Year Economic Development Plan",
+  "description": "Park Chung-hee government launches state-led, export-oriented industrialization planning, the model for Korea's subsequent development plans.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1962-06-10",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "Second currency reform — hwan redenominated as won",
+  "description": "Bank of Korea reintroduces the won at 10 hwan = 1 won to support the new Five-Year Plan and channel hoarded wealth into industrial investment; this won remains South Korea's currency today.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1965-06-22",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "Korea-Japan Normalization Treaty",
+  "description": "Diplomatic normalization brings Japanese reparations/loans that helped fund industrial development.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1970-04-22",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "Saemaul Undong (New Community Movement) launched",
+  "description": "Park Chung-hee launches a state-directed rural modernization campaign combining infrastructure grants, cooperative labor and productivity incentives, credited with narrowing the urban-rural income gap during the industrialization drive.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1972-08-03",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "August 3 Measure — corporate curb-market debt frozen",
+  "description": "Presidential Emergency Decree freezes all private (curb-market) debts owed by companies to informal lenders and converts them into long-term low-interest obligations, a bailout of debt-laden chaebol ahead of the Heavy and Chemical Industry drive.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1973-01-01",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "Heavy and Chemical Industry (HCI) Drive",
+  "description": "State-directed push into steel, shipbuilding, chemicals and electronics via subsidized credit to designated conglomerates (chaebols).",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1979-10-26",
+  "country": "KOR",
+  "event_type": "political-event",
+  "title": "Assassination of Park Chung-hee",
+  "description": "End of the Park era; economic policy shifts toward the Chun Doo-hwan government's stabilization and liberalization program.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1980-01-12",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "Won devalued amid first negative-growth recession",
+  "description": "Second oil shock, poor harvest and political turmoil after Park's assassination push the won down 20% and the economy to its first contraction since the industrialization drive began, prompting a stabilization and liberalization pivot under Chun Doo-hwan.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1988-09-17",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "1988 Seoul Olympics",
+  "description": "Games showcase Korea's industrial transformation and accelerate financial-market opening.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1993-08-12",
+  "country": "KOR",
+  "event_type": "policy-enacted",
+  "title": "Real-Name Financial Transaction System introduced",
+  "description": "President Kim Young-sam bans anonymous and borrowed-name financial accounts by emergency presidential order, targeting an estimated $15bn hidden from taxation through pseudonymous accounts and modernizing financial-sector transparency.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1996-12-12",
+  "country": "KOR",
+  "event_type": "institutional-change",
+  "title": "OECD accession",
+  "description": "South Korea joins the OECD, accelerating capital-account liberalization shortly before the 1997 crisis.",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/south-korea.csv",
+  "date": "1997-11-21",
+  "country": "KOR",
+  "event_type": "economic-event",
+  "title": "Asian Financial Crisis — IMF request",
+  "description": "Government formally requests IMF standby assistance amid a won collapse and capital flight.",
+  "domains": "fx;banking"
+ }
+]

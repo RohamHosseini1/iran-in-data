@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2006-01-03",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "Argentina prepays entire IMF debt",
+  "description": "Kirchner government pays off Argentina's remaining roughly $9.5bn IMF debt in a single payment from central-bank reserves, ending Fund conditionality and formally closing the crisis chapter opened in 2001-02.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2007-01",
+  "country": "ARG",
+  "event_type": "institutional-change",
+  "title": "INDEC intervention begins",
+  "description": "Secretary of Domestic Trade Guillermo Moreno pressures INDEC to remove CPI director Graciela Bevacqua and alter consumer-price-index methodology after she refuses to lower reported inflation figures, beginning nine years (2007-2015) of politically manipulated official statistics that Moreno was late",
+  "domains": "inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2008-10-21",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "Private pension funds (AFJP) nationalized",
+  "description": "Government renationalizes the ten private AFJP pension-fund managers created in 1993, transferring roughly $30bn in assets to state administration and partially nationalizing 42 listed companies whose shares the AFJPs had held.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2013-02-01",
+  "country": "ARG",
+  "event_type": "institutional-change",
+  "title": "IMF issues first-ever declaration of censure over data quality",
+  "description": "The IMF Executive Board adopts a formal Declaration of Censure against Argentina — the first in Fund history — for failing to provide accurate CPI and GDP data as required under Article VIII, giving Argentina until September 2013 to comply or face further sanctions up to suspension of voting rights ",
+  "domains": "inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2014-07-31",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "Second default — \"vulture fund\" holdout ruling",
+  "description": "Argentina defaults on $29bn in restructured debt after US Judge Thomas Griesa blocks payment to bondholders who accepted 2005/2010 haircuts unless holdout hedge funds (led by NML Capital and Aurelius) are paid in full — a legal standoff that keeps Argentina locked out of international bond markets u",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2016-01-08",
+  "country": "ARG",
+  "event_type": "institutional-change",
+  "title": "INDEC statistical emergency declared; blackout begins to end",
+  "description": "President Mauricio Macri's government issues Decreto 55/2016 declaring the national statistical system and INDEC in administrative emergency; CPI publication (suspended entirely for six months) resumes in June 2016 with a Buenos Aires-only stopgap index, followed by a full national CPI series (base ",
+  "domains": "inflation"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2018-06-20",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "IMF approves record $50 billion Stand-By Arrangement",
+  "description": "The IMF Executive Board approves a three-year, US$50 billion Stand-By Arrangement for Argentina — the largest loan in IMF history at the time — after a currency crisis forces President Mauricio Macri's government back to the Fund; the program is later expanded to US$57 billion but is not completed a",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2019-08-28",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "Debt reprofiling triggers selective default",
+  "description": "Following a market shock after the August 2019 primary election, the government issues Decree 596/2019 unilaterally extending (\"reprofiling\") maturities on short- and medium-term domestic debt, an action credit-rating agencies treat as a selective default — a precursor to the formal missed-payment d",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2020-08-04",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "2020 debt restructuring agreement reached",
+  "description": "The government of President Alberto Fernández reaches agreement with its three main bondholder groups on restructuring roughly US$65 billion in foreign-law bonds, following the country's ninth sovereign default (missed payment, May 2020); the exchange is formally settled in September 2020 with over ",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2022-03-25",
+  "country": "ARG",
+  "event_type": "economic-event",
+  "title": "IMF approves $44 billion Extended Fund Facility",
+  "description": "The IMF Executive Board approves a 30-month, US$44 billion Extended Fund Facility for Argentina, restructuring repayment of the 2018 Stand-By Arrangement and setting conditions on fiscal deficit reduction, reserve accumulation and inflation control.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2023-11-19",
+  "country": "ARG",
+  "event_type": "political-event",
+  "title": "Javier Milei elected president",
+  "description": "Libertarian economist Javier Milei defeats Peronist Economy Minister Sergio Massa in a runoff election (55.9% to 44.1%), campaigning on radical shock-therapy proposals including dollarization and abolishing the central bank, amid annual inflation above 140%.",
+  "domains": "institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/argentina.csv",
+  "date": "2023-12-12",
+  "country": "ARG",
+  "event_type": "policy-enacted",
+  "title": "Milei devalues peso 54% in shock-therapy program",
+  "description": "Days after taking office, President Milei's economy minister Luis Caputo devalues the official peso exchange rate by 54% (to about 800 pesos per dollar) and announces sharp spending cuts and subsidy reductions as the opening move of a broader austerity and stabilization program, while a full dollari",
+  "domains": "fx;inflation;fiscal"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1914-07-28",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "World War I begins — global gold standard and trade disruption",
+  "description": "Austria-Hungary's declaration of war on Serbia triggers general European mobilization; within days the London and New York stock exchanges close (the NYSE for four months) and virtually every belligerent power suspends gold convertibility to finance war spending, ending the pre-war international gol",
+  "domains": "fx;trade;fiscal"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1918-03-11",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "1918-19 influenza pandemic (\"Spanish flu\")",
+  "description": "The deadliest pandemic in modern history, first documented among US military personnel at Camp Funston, Kansas on 11 March 1918; over three waves through 1919 it kills an estimated 50 million people worldwide (some estimates run as high as 100 million) and infects roughly a third of the global popul",
+  "domains": "labor;trade"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1930-01-01",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "Great Depression becomes a global crisis",
+  "description": "The 1929 Wall Street crash (see USA entry) metastasizes into a worldwide economic collapse through 1930-33 as US banks call in foreign loans, commodity and raw-material prices collapse (hitting agricultural and mineral exporters worldwide), and global trade contracts by an estimated two-thirds in va",
+  "domains": "trade;fiscal;fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1931-09-21",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "Britain abandons the gold standard",
+  "description": "Facing a run on Bank of England gold reserves, Britain suspends gold convertibility of the pound (which falls 25% against the dollar); much of the British Empire, Scandinavia and other trading partners follow within weeks, marking the interwar gold standard's terminal unraveling as the Great Depress",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1944-07-22",
+  "country": "GLOBAL",
+  "event_type": "institutional-change",
+  "title": "Bretton Woods Conference founds the IMF and World Bank",
+  "description": "Forty-four Allied nations agree to a new international monetary order: fixed-but-adjustable exchange rates pegged to a gold-backed dollar, and two new institutions, the IMF (balance-of-payments lending) and the World Bank (reconstruction and development finance), that become the primary external cre",
+  "domains": "fx;institutional;fiscal"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1956-10-29",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "Suez Crisis oil disruption",
+  "description": "Nasser's nationalization of the Suez Canal and the ensuing Israeli-British-French intervention shut the canal (November 1956-April 1957), disrupting roughly two-thirds of Western Europe's oil imports, rationing fuel in London and Paris, and prompting the first postwar push toward oil-supply diversif",
+  "domains": "oil;fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1971-08-15",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "Nixon Shock — end of dollar-gold convertibility",
+  "description": "US suspends gold convertibility of the dollar, ending the Bretton Woods fixed exchange-rate system and ushering in the modern floating-rate era that every country in this database had to adapt to.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1972-01-01",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "1972-74 world food crisis",
+  "description": "Poor harvests in the Soviet Union, South Asia and the Sahel combine with the USSR's massive surprise 1972 US grain purchase (\"the Great Grain Robbery\") and, from late 1973, the oil price shock's impact on fertilizer and transport costs to roughly triple world grain prices by 1974; the resulting glob",
+  "domains": "food;trade;inflation"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1973-10-06",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "Yom Kippur War and 1973 oil embargo",
+  "description": "Arab OPEC members embargo the US and allies; oil prices roughly quadruple, reshaping the fiscal trajectories of Iran, Saudi Arabia, and Venezuela alike (all oil exporters) and triggering stagflation in importer economies.",
+  "domains": "oil;fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1979-01-01",
+  "country": "GLOBAL",
+  "event_type": "economic-event",
+  "title": "Second oil shock",
+  "description": "Iranian Revolution disrupts oil supply; global prices roughly double 1979-1980, compounding stagflation in oil-importing economies and windfall revenue in exporters.",
+  "domains": "oil;fx"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1979-08-06",
+  "country": "GLOBAL",
+  "event_type": "policy-enacted",
+  "title": "Volcker disinflation begins",
+  "description": "US Federal Reserve under Paul Volcker sharply raises interest rates to break 1970s inflation, triggering a global recession and debt crises across emerging markets in the early 1980s.",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1982-08-12",
+  "country": "GLOBAL",
+  "event_type": "catastrophe",
+  "title": "Latin American debt crisis begins",
+  "description": "Mexico announces it cannot service its $80bn external debt, triggering a continent-wide sovereign-debt crisis (16 Latin American nations affected by year-end, 47 developing countries by 1983) that shapes Argentina's and other emerging markets' access to capital for the rest of the decade.",
+  "domains": "fiscal;banking"
+ },
+ {
+  "source_file": "timeline/global.csv",
+  "date": "1985-09-22",
+  "country": "GLOBAL",
+  "event_type": "policy-enacted",
+  "title": "Plaza Accord",
+  "description": "G5 agreement to depreciate the US dollar reshapes global trade competitiveness; contributes to the mid-1980s oil price collapse that hit Saudi Arabia, Venezuela and the USSR simultaneously.",
+  "domains": "fx;oil"
+ }
+]

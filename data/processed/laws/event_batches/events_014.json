@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1929-10-29",
+  "country": "USA",
+  "event_type": "catastrophe",
+  "title": "Wall Street Crash (Black Tuesday)",
+  "description": "Stock prices collapse on the New York Stock Exchange, wiping out billions in market value and marking the onset of the Great Depression.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1930-06-17",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Smoot-Hawley Tariff Act signed",
+  "description": "Hoover signs a protectionist tariff raising duties on over 20,000 imported goods despite a petition from 1,000+ economists urging a veto; trading partners retaliate, and global trade falls roughly 65%, deepening the Great Depression.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1933-03-09",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Emergency Banking Act",
+  "description": "Congress passes emergency legislation within days of Roosevelt's inauguration to stabilize the banking system after a nationwide bank holiday, the opening act of the New Deal.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1933-04-05",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Executive Order 6102 — gold standard exit",
+  "description": "Roosevelt orders private gold coin, bullion and certificates surrendered to the Federal Reserve at $20.67/oz, taking the US off the domestic gold standard as part of New Deal reflation efforts.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1933-06-16",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Glass-Steagall Act (Banking Act of 1933)",
+  "description": "Separates commercial from investment banking and creates the FDIC to insure bank deposits, a central pillar of New Deal financial regulation.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1935-08-14",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Social Security Act signed",
+  "description": "Roosevelt signs New Deal legislation creating old-age benefits, unemployment insurance, and aid for dependents and the disabled, establishing the modern US social-insurance system.",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1944-07-22",
+  "country": "USA",
+  "event_type": "institutional-change",
+  "title": "Bretton Woods Agreement signed",
+  "description": "44 Allied nations meeting in New Hampshire agree on a US dollar/gold-anchored fixed exchange-rate system and create the IMF and World Bank, cementing the dollar's postwar reserve-currency role.",
+  "domains": "fx;trade"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1948-04-03",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Marshall Plan (Economic Cooperation Act) signed",
+  "description": "Truman signs legislation funding roughly $13.3bn in postwar reconstruction aid to Western Europe, cementing the dollar-centered postwar economic order alongside Bretton Woods.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1965-07-30",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Medicare and Medicaid created",
+  "description": "Johnson signs the Social Security Amendments of 1965, creating federal health insurance for the elderly (Medicare) and the poor/disabled (Medicaid), a major expansion of the US fiscal welfare state.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1971-08-15",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Nixon imposes domestic wage-price controls",
+  "description": "Alongside suspending dollar-gold convertibility (the globally significant 'Nixon Shock', recorded separately under GLOBAL), Nixon invokes the Economic Stabilization Act to freeze US wages and prices for 90 days to curb domestic inflation.",
+  "domains": "inflation;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1975-12-22",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Energy Policy and Conservation Act — Strategic Petroleum Reserve created",
+  "description": "Responding to the 1973 oil embargo, Congress establishes the Strategic Petroleum Reserve (up to 1 billion barrels) and CAFE fuel-economy standards, the core of post-embargo US energy-security policy.",
+  "domains": "oil;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1979-10-06",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Volcker's \"Saturday Night Special\" — Fed shifts to reserve targeting",
+  "description": "Federal Reserve Chair Paul Volcker announces the FOMC will target bank reserves rather than the federal funds rate directly, opening the monetarist experiment\" that drives interest rates toward 20% and breaks 1970s inflation at the cost of the 1981-82 recession.\"",
+  "domains": "banking;inflation"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1980-03-31",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Depository Institutions Deregulation and Monetary Control Act signed",
+  "description": "Carter signs legislation phasing out Regulation Q interest-rate ceilings on deposits, raising deposit insurance to $100,000, and extending Fed reserve requirements to all depository institutions — the opening act of 1980s financial deregulation.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1981-06-01",
+  "country": "USA",
+  "event_type": "economic-event",
+  "title": "Volcker disinflation — federal funds rate peaks near 20%",
+  "description": "Federal Reserve under Chair Paul Volcker pushes the federal funds rate to roughly 20% and the prime rate to 21.5%, breaking 1970s inflation at the cost of the 1981-82 recession, in which unemployment peaks above 10%.",
+  "domains": "banking;inflation;labor"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1981-08-13",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Economic Recovery Tax Act (Reaganomics tax cuts)",
+  "description": "Reagan signs a package cutting individual income-tax rates roughly 25% over three years and accelerating business depreciation, the centerpiece of 'Reaganomics'.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1982-10-15",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Garn-St Germain Depository Institutions Act signed",
+  "description": "Reagan signs legislation further deregulating savings and loan associations, permitting adjustable-rate and nonresidential mortgages, and creating money-market deposit accounts — later linked to the savings-and-loan crisis of the late 1980s.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1987-10-19",
+  "country": "USA",
+  "event_type": "catastrophe",
+  "title": "Black Monday stock market crash",
+  "description": "The Dow Jones Industrial Average falls 22.6% in a single day — its largest one-day percentage drop in history — amid program-trading-driven selling; global markets lose an estimated $1.71 trillion, though US markets recover within two years.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1989-08-09",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "FIRREA creates Resolution Trust Corporation",
+  "description": "Financial Institutions Reform, Recovery, and Enforcement Act responds to the savings-and-loan crisis by creating the Resolution Trust Corporation to close and resolve hundreds of insolvent thrifts.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1994-01-01",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "NAFTA takes effect",
+  "description": "North American Free Trade Agreement among the US, Canada and Mexico eliminates most tariffs, reshaping US manufacturing trade and supply chains.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1999-11-12",
+  "country": "USA",
+  "event_type": "policy-repealed",
+  "title": "Gramm-Leach-Bliley Act repeals Glass-Steagall barriers",
+  "description": "Clinton signs legislation removing the 1933 Glass-Steagall separation between commercial banking, investment banking and insurance, enabling the large universal-bank consolidation of the 2000s.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2000-03-10",
+  "country": "USA",
+  "event_type": "economic-event",
+  "title": "Dot-com bubble peaks and bursts",
+  "description": "NASDAQ Composite peaks at 5,048.62 before a two-year collapse (-78% by October 2002) that wipes out trillions in market value and contributes to the 2001 recession.",
+  "domains": "banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2001-09-11",
+  "country": "USA",
+  "event_type": "catastrophe",
+  "title": "September 11 terrorist attacks",
+  "description": "Attacks on the World Trade Center and Pentagon close US equity markets for four trading days (the longest shutdown since 1933); markets fall 11% on reopening, and New York City loses an estimated 430,000 jobs and $30bn+ in output over the following year.",
+  "domains": "banking;fiscal;labor"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2006-01-01",
+  "country": "USA",
+  "event_type": "economic-event",
+  "title": "US housing bubble peaks",
+  "description": "Home prices measured by the Case-Shiller index peak in early-to-mid 2006 before a two-year decline; the subsequent surge in subprime defaults and foreclosures becomes the proximate trigger of the 2007-08 financial crisis.",
+  "domains": "housing;banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2008-09-07",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "Fannie Mae and Freddie Mac placed into conservatorship",
+  "description": "The Federal Housing Finance Agency places both government-sponsored mortgage giants into conservatorship and the Treasury extends financial support via Senior Preferred Stock Purchase Agreements, one of the largest financial-sector interventions of the crisis.",
+  "domains": "housing;banking;fiscal"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "2008-10-03",
+  "country": "USA",
+  "event_type": "policy-enacted",
+  "title": "TARP enacted",
+  "description": "Emergency Economic Stabilization Act creates the $700bn Troubled Asset Relief Program to purchase distressed assets and recapitalize banks during the Global Financial Crisis (see GLOBAL entry for the Lehman collapse that triggered it).",
+  "domains": "banking;fiscal"
+ }
+]

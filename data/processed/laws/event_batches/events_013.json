@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "2011-09-27",
+  "country": "ESP",
+  "event_type": "institutional-change",
+  "title": "Constitutional \"golden rule\" on deficits",
+  "description": "Parliament amends Article 135 of the constitution (233-3 in the Senate) to cap structural deficit and debt levels for the state and autonomous communities, a rare mid-crisis constitutional change demanded by the EU-wide fiscal-discipline push.",
+  "domains": "fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "2012-07-20",
+  "country": "ESP",
+  "event_type": "policy-enacted",
+  "title": "EU bank bailout — up to €100bn credit line",
+  "description": "Eurogroup approves a memorandum of understanding for up to €100bn in loans to recapitalize Spain's troubled banking sector (mainly the former cajas); €39.5bn is ultimately disbursed via the ESM in December 2012.",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/spain.csv",
+  "date": "2013-01-24",
+  "country": "ESP",
+  "event_type": "economic-event",
+  "title": "Unemployment peaks above 26%",
+  "description": "Spain's unemployment rate hits a record 26.3% (youth unemployment 55.7%) as the post-2008 double-dip recession bottoms out, the worst labor-market outcome of the eurozone debt crisis among the core comparator countries.",
+  "domains": "labor"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1958-08-04",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "Devaluation and first IMF Stabilization Program",
+  "description": "Turkey agrees its first IMF/OEEC stabilization program after a severe balance-of-payments crisis, carrying out a de facto devaluation to about TL9/$1, credit ceilings, and decontrol of foreign trade, backed by $359m in Western financing.",
+  "domains": "fx;fiscal;trade"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1960-05-27",
+  "country": "TUR",
+  "event_type": "political-event",
+  "title": "Military coup overthrows Menderes government",
+  "description": "Young officers overthrow the Democrat Party government amid economic hardship and inflation after Marshall Plan/Truman Doctrine aid dried up; Prime Minister Adnan Menderes is later executed, beginning a pattern of military intervention in Turkish economic policy.",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1979-06-19",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "IMF standby arrangement amid pre-Özal crisis",
+  "description": "Demirel government secures IMF backing as inflation and balance-of-payments pressure mount ahead of the more sweeping January 1980 liberalization program.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1980-01-24",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "Özal liberalization program",
+  "description": "Turgut Özal's \"24 January Decisions\" shift Turkey from import-substitution to export-oriented, market-liberal policy following a severe balance-of-payments crisis.",
+  "domains": "trade;fx;fiscal"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1980-09-12",
+  "country": "TUR",
+  "event_type": "political-event",
+  "title": "Military coup enforces economic stabilization",
+  "description": "General Kenan Evren's coup topples the civilian government amid political violence, but retains Turgut Özal to implement and enforce the January 1980 liberalization program under military rule.",
+  "domains": "fiscal;trade"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1989-08-11",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "Capital account liberalization",
+  "description": "Turkey removes most restrictions on capital flows and currency convertibility, exposing the economy to volatile short-term capital.",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1994-04-05",
+  "country": "TUR",
+  "event_type": "economic-event",
+  "title": "1994 currency crisis",
+  "description": "Lira loses over half its value amid fiscal imbalances and loss of investor confidence; IMF standby program follows.",
+  "domains": "fx;fiscal"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1996-01-01",
+  "country": "TUR",
+  "event_type": "institutional-change",
+  "title": "EU-Turkey Customs Union takes effect",
+  "description": "Customs union agreed by the Turkey-EC Association Council enters into force, eliminating tariffs on industrial goods trade with the EU and anchoring two decades of trade liberalization.",
+  "domains": "trade"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1999-08-17",
+  "country": "TUR",
+  "event_type": "catastrophe",
+  "title": "İzmit earthquake",
+  "description": "M7.6 earthquake strikes Turkey's industrial heartland near İzmit, a region responsible for over 40% of national manufacturing output at the time, killing over 17,000 people and destroying tens of thousands of buildings; economic damage estimates range from roughly $12-20 billion (OECD/World Bank) to",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "1999-12-09",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "IMF exchange-rate-based disinflation program",
+  "description": "Turkey adopts an IMF-backed program pre-announcing a crawling-peg exchange rate to break chronic inflation; the program collapses amid bank runs in November 2000 and the February 2001 currency crisis.",
+  "domains": "fx;inflation;banking"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2001-02-19",
+  "country": "TUR",
+  "event_type": "economic-event",
+  "title": "2001 Turkish economic crisis (\"Black Wednesday\")",
+  "description": "Political clash between the president and prime minister triggers a banking-sector collapse; the lira loses roughly half its value and ~$70bn in value is wiped out system-wide.",
+  "domains": "fx;banking;fiscal"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2001-03-14",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "Kemal Derviş stabilization program",
+  "description": "Newly appointed economy minister enacts sweeping reforms: central bank independence, bank recapitalization, a floating exchange-rate regime, and fiscal discipline, ending Turkey's fixed/managed exchange-rate era.",
+  "domains": "fx;banking;fiscal"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2005-01-01",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "Currency redenomination",
+  "description": "Six zeros dropped, creating the \"new Turkish lira\" (YTL), a symbolic close to the high-inflation era of the 1990s/2000s.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2005-10-03",
+  "country": "TUR",
+  "event_type": "institutional-change",
+  "title": "EU accession negotiations begin",
+  "description": "Formal EU membership talks open, anchoring a period of structural reform and foreign investment inflows.",
+  "domains": "trade;fiscal"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2008-10-01",
+  "country": "TUR",
+  "event_type": "economic-event",
+  "title": "Global Financial Crisis impact",
+  "description": "Export demand and capital inflows collapse alongside the global crisis; the economy contracts sharply in 2009 before a strong post-crisis rebound aided by post-2001 banking reforms.",
+  "domains": "fx;banking;trade"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2016-07-15",
+  "country": "TUR",
+  "event_type": "political-event",
+  "title": "Failed coup attempt",
+  "description": "A faction of the military attempts to overthrow President Erdoğan; the failed coup triggers a lira selloff, a subsequent state of emergency, and a mass purge of the civil service and judiciary with lasting effects on investor confidence.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2018-08-10",
+  "country": "TUR",
+  "event_type": "economic-event",
+  "title": "2018 lira crisis",
+  "description": "Lira loses ~40% of its value against the US dollar within the month amid US sanctions/tariffs tied to the detention of pastor Andrew Brunson and broader current-account/inflation imbalances.",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2019-07-06",
+  "country": "TUR",
+  "event_type": "political-event",
+  "title": "Central bank governor dismissed",
+  "description": "President Erdoğan removes Central Bank Governor Murat Çetinkaya over disagreement on interest-rate policy, beginning a pattern of governor turnover tied to unorthodox low-rate policy.",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2021-03-20",
+  "country": "TUR",
+  "event_type": "political-event",
+  "title": "Naci Ağbal dismissed after rate hike",
+  "description": "Governor Ağbal removed days after raising rates to defend the lira; successor Kavcıoğlu cuts rates from 19% to 14% through 2021, driving a further currency collapse (lira down ~40% in 2021, ~30% in November alone).",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2023-02-06",
+  "country": "TUR",
+  "event_type": "catastrophe",
+  "title": "Kahramanmaraş earthquake sequence",
+  "description": "Twin M7.8 and M7.5 earthquakes devastate eleven southeastern provinces, killing over 50,000 people in Turkey (plus thousands more in northern Syria) in the deadliest disaster in the country's modern history; the World Bank's rapid damage assessment estimates $34.2 billion in direct physical damage (",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/turkey.csv",
+  "date": "2023-06-08",
+  "country": "TUR",
+  "event_type": "policy-enacted",
+  "title": "Return to policy orthodoxy",
+  "description": "Post-election economic team (Mehmet Şimşek at Treasury, Hafize Gaye Erkan then Fatih Karahan at the central bank) begins reversing years of low-rate policy with sharp rate hikes to combat inflation.",
+  "domains": "fx;banking"
+ },
+ {
+  "source_file": "timeline/united-states.csv",
+  "date": "1913-12-23",
+  "country": "USA",
+  "event_type": "institutional-change",
+  "title": "Federal Reserve Act signed",
+  "description": "President Wilson signs the act creating the Federal Reserve System, the US central bank, ending decades of debate following the Panic of 1907 and establishing the institution that would later conduct 20th-century monetary policy.",
+  "domains": "banking;fiscal"
+ }
+]

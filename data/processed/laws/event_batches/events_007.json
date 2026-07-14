@@ -1,0 +1,227 @@
+[
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2008-03-03",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "UNSC Resolution 1803 tightens bank and cargo vigilance",
+  "description": "Resolution 1803 (14-0, Indonesia abstaining) calls on states to inspect, where reasonable grounds exist, the cargo of aircraft and vessels owned or operated by Iran Air Cargo and the Islamic Republic of Iran Shipping Line, and to exercise vigilance over transactions with all Iranian banks -- naming ",
+  "domains": "banking;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2009-09-27",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Telecommunication Company of Iran privatized to IRGC-linked consortium",
+  "description": "A 50%-plus-one-share controlling stake in TCI is sold for $7.8bn to the Mobin Trust Consortium (Etemad-e Mobin) -- backed by the IRGC Cooperative Foundation, the Mostazafan Foundation and the Execution of Imam Khomeini's Order -- after the only private-sector competing bidder is disqualified on secu",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2010-06-09",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "UNSC Resolution 1929",
+  "description": "Expanded UN sanctions targeting Iran's financial sector, arms trade, and Revolutionary Guard-linked entities.",
+  "domains": "banking;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2010-07-01",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "CISADA expands US sanctions on fuel and financial sectors",
+  "description": "President Obama signs the Comprehensive Iran Sanctions, Accountability, and Divestment Act (passed 408-8 House, 99-0 Senate), which targets firms supplying Iran with gasoline or refined petroleum products or supporting its domestic refining capacity -- aimed at Iran's reliance on imported gasoline d",
+  "domains": "oil;banking;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2010-12-19",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Targeted Subsidies Reform Law implemented",
+  "description": "Energy prices raised 3-9x and bread prices doubled; ~90% of households enrolled in a monthly cash-transfer program (~$45/person), one of the largest unconditional cash-transfer schemes in the world, costing ~10% of GDP in 2010.",
+  "domains": "fiscal;food;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2011-12-31",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "NDAA Section 1245 targets Central Bank of Iran",
+  "description": "Section 1245 of the FY2012 National Defense Authorization Act requires blocking the US-jurisdiction property of Iranian financial institutions including the Central Bank of Iran (CBI), and threatens foreign banks that knowingly conduct significant CBI transactions with loss of direct access to the U",
+  "domains": "oil;banking;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2012-01-23",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "EU decides Iranian oil embargo",
+  "description": "EU Council Decision 2012/35/CFSP bans imports of Iranian crude oil and petroleum products and freezes Central Bank of Iran assets, with a transition period allowing existing contracts to wind down through 1 July 2012.",
+  "domains": "oil;fx;banking"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2012-03-01",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "SWIFT disconnection and oil-export sanctions",
+  "description": "Major Iranian banks cut off from SWIFT messaging; US NDAA sanctions target foreign purchasers of Iranian oil, triggering a sharp rial depreciation through 2012-13.",
+  "domains": "banking;fx;oil"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2012-03-15",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "SWIFT disconnects sanctioned Iranian banks",
+  "description": "Following the EU Council decision, SWIFT announces it will terminate financial-messaging services to roughly 30 EU-sanctioned Iranian banks effective 17 March 2012, cutting them off from the primary channel for international interbank payments.",
+  "domains": "banking;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2012-10-01",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Rial collapses amid sanctions squeeze",
+  "description": "Under the combined weight of NDAA Central Bank sanctions, the EU oil embargo and the SWIFT disconnection, Iran's free-market rial loses roughly a quarter to 40% of its value against the US dollar within a single week, falling to about 35,000-40,000 rials/dollar versus roughly 10,000/dollar two years",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2014-02-19",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Khamenei issues Resistance Economy general policies",
+  "description": "Supreme Leader Khamenei submits the 'General Policies of the Resistance Economy' (Eqtesad-e Moqavemati) to the Expediency Council under Article 110 of the constitution, directing the government to cut oil-revenue dependence, promote knowledge-based and domestic production, and build sanctions-resili",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2014-04-01",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Targeted Subsidies Reform phase two",
+  "description": "The Rouhani government launches the subsidy program's second phase: petrol prices rise 75% (from 4,000 to 7,000 rials per litre) and cash-transfer eligibility is means-tested for the first time, requiring households to file income and asset declarations; the 2015-16 budget subsequently mandates furt",
+  "domains": "fiscal;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2015-07-14",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "JCPOA signed",
+  "description": "Iran and the P5+1 sign the Joint Comprehensive Plan of Action, exchanging nuclear program limits for sanctions relief.",
+  "domains": "fx;oil;banking"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2016-01-16",
+  "country": "IRN",
+  "event_type": "sanction-lifted",
+  "title": "JCPOA Implementation Day",
+  "description": "IAEA certifies Iranian compliance; US, EU and UN lift nuclear-related sanctions on oil, banking, shipping and other sectors, unlocking roughly $56bn of previously frozen assets.",
+  "domains": "fx;oil;banking;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2016-12-11",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Boeing signs $16.6bn Iran Air jet deal",
+  "description": "Boeing and Iran Air agree to a deal for 80 aircraft (737 MAX, 777-300ER, 777-9) worth $16.6bn at list prices under a US government export license, following a parallel 100-aircraft Airbus order earlier in 2016; the deals collapse after the US withdraws from the JCPOA in 2018, with no Boeing jets eve",
+  "domains": "trade;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2017-10",
+  "country": "IRN",
+  "event_type": "economic-event",
+  "title": "Unlicensed credit institutions collapse, sparking depositor protests",
+  "description": "A wave of unregulated and quasi-regulated credit institutions (including Caspian and, months later, Ayandeh Bank) default on depositors after years of unsustainable interest promises and bad loans; recurring protests break out across dozens of cities through 2018-19, and the government later earmark",
+  "domains": "banking;fiscal"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2017-11-12",
+  "country": "IRN",
+  "event_type": "catastrophe",
+  "title": "Kermanshah earthquake",
+  "description": "M7.3 earthquake on the Iran-Iraq border kills an estimated 630 people and destroys or damages over 15,500 houses in Kermanshah province, Iran's deadliest earthquake since Bam; NOAA's Significant Earthquake Database estimates $750 million in damage, while the Iranian government's own assessment put r",
+  "domains": "fiscal;labor"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2018-04-09",
+  "country": "IRN",
+  "event_type": "policy-enacted",
+  "title": "Rouhani unifies exchange rate, bans free-market trading",
+  "description": "Facing rial depreciation ahead of the expected US JCPOA withdrawal, the government sets a single official rate of 42,000 rials/dollar and Vice President Jahangiri declares unauthorized currency trading equivalent to smuggling, subject to judiciary and security-force enforcement; the unified rate pro",
+  "domains": "fx;inflation"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2018-04-23",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "NIMA secondary forex market launched",
+  "description": "The Central Bank launches the NIMA (Forex Management Integrated System) electronic platform, requiring exporters to sell foreign-currency earnings through registered exchange houses to importers of non-essential goods at a market-linked rate distinct from the official and open-market rates -- formal",
+  "domains": "fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2018-05-08",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "US withdraws from JCPOA",
+  "description": "President Trump announces US withdrawal from the JCPOA and reimposition of sanctions after 90/180-day wind-down periods (effective Aug 7 and Nov 5, 2018).",
+  "domains": "fx;oil;banking"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2018-08-07",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "First snapback sanctions take effect",
+  "description": "Executive Order 13846 reimposes sanctions on Iran's automotive sector, precious-metals trade, and rial-denominated transactions.",
+  "domains": "fx;trade"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2018-11-05",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "Second snapback: oil and banking sanctions",
+  "description": "Remaining JCPOA-lifted sanctions on oil exports, shipping, and the Central Bank of Iran come back into full effect, driving a sharp rial crash through late 2018.",
+  "domains": "oil;banking;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2019-04-08",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "US designates IRGC a Foreign Terrorist Organization",
+  "description": "The State Department designates the Islamic Revolutionary Guard Corps (IRGC) -- including its Quds Force and affiliated entities such as the Khatam al-Anbia construction/engineering conglomerate -- as a Foreign Terrorist Organization effective 15 April 2019, the first time the US has so designated p",
+  "domains": "fiscal;institutional"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2019-04-22",
+  "country": "IRN",
+  "event_type": "sanction-imposed",
+  "title": "US ends oil waivers -- push to zero exports",
+  "description": "The Trump administration announces it will not renew sanctions waivers for the countries (China, India, Japan, South Korea, Turkey and others) still importing Iranian crude after 2 May 2019, aiming to cut Iran's oil exports to zero; exports fall from over 2.5 million bbl/day pre-sanctions to under 1",
+  "domains": "oil;fx"
+ },
+ {
+  "source_file": "timeline/iran.csv",
+  "date": "2019-06-25",
+  "country": "IRN",
+  "event_type": "institutional-change",
+  "title": "FATF blacklists Iran",
+  "description": "Financial Action Task Force places Iran on its blacklist over anti-money-laundering/counter-terror-financing standards, adding friction to remaining international banking channels.",
+  "domains": "banking"
+ }
+]
