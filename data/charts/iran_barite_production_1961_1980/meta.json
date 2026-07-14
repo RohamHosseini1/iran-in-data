@@ -3,13 +3,17 @@
   "title": "Barite Production",
   "category": "Mining & Minerals Production",
   "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Barite)",
-  "n_rows": 16,
+  "n_rows": 51,
   "year_range": [
     "1961",
-    "1980"
+    "2023"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "IRN",
+    "RUS",
+    "SAU",
+    "TUR"
   ],
   "citations": [
     {

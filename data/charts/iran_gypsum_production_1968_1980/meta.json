@@ -3,13 +3,20 @@
   "title": "Gypsum Production",
   "category": "Mining & Minerals Production",
   "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Gypsum)",
-  "n_rows": 11,
+  "n_rows": 87,
   "year_range": [
     "1968",
-    "1980"
+    "2023"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "RUS",
+    "SAU",
+    "TUR"
   ],
   "citations": [
     {

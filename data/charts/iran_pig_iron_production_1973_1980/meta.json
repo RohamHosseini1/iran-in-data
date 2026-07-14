@@ -3,13 +3,19 @@
   "title": "Pig Iron Production",
   "category": "Mining & Minerals Production",
   "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Pig iron)",
-  "n_rows": 8,
+  "n_rows": 74,
   "year_range": [
     "1973",
-    "1980"
+    "2023"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "ESP",
+    "IRN",
+    "ITA",
+    "KOR",
+    "RUS",
+    "TUR"
   ],
   "citations": [
     {

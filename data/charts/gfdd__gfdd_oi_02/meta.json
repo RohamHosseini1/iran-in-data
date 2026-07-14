@@ -3,13 +3,23 @@
   "title": "Bank Deposits to GDP (World Bank GFDD)",
   "category": "Financial Sector (Monetary)",
   "sources": "worldbank-gfdd-via-fred",
-  "n_rows": 56,
+  "n_rows": 573,
   "year_range": [
-    "1961",
-    "2016"
+    "1960",
+    "2021"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "USA",
+    "VEN"
   ],
   "citations": [
     {

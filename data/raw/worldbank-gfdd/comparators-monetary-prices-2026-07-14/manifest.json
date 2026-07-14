@@ -1,0 +1,29 @@
+{
+  "dataset_id": "worldbank-gfdd-comparators-monetary-prices-2026-07-14",
+  "title": "World Bank Global Financial Development Database (GFDD) — comparator countries, banking-depth and insurance-premium indicators",
+  "source_org": "World Bank (Global Financial Development Database)",
+  "source_url": "https://databank.worldbank.org/source/global-financial-development",
+  "download_url": "https://api.worldbank.org/v2/country/USA;TUR;SAU;IRQ;VEN;ARG;RUS;KOR;ESP;ITA;IRN/indicator/<INDICATOR>?format=json&per_page=2000&date=1960:2025",
+  "retrieved_at_utc": "2026-07-14T16:10:00Z",
+  "retrieved_by": "agent:comparator-monetary-prices",
+  "files": [
+    {"name": "GFDD_DI_01.json", "original_name": null, "sha256": "5da959371e3c6708b852e56578351495f9ac354375f9540d3fb185a4524ec90d", "bytes": 155977, "indicator": "GFDD.DI.01", "indicator_label": "Private credit by deposit money banks to GDP (%)"},
+    {"name": "GFDD_DI_04.json", "original_name": null, "sha256": "e51ac66cfb4abce900ba76e96b797e525bbde5a771f1b84b0538b46bb88e652a", "bytes": 178984, "indicator": "GFDD.DI.04", "indicator_label": "Deposit money bank assets to deposit money bank assets and central bank assets (%)"},
+    {"name": "GFDD_OI_02.json", "original_name": null, "sha256": "32ad7ce21515b4c63bb4591693f361905e04c7f8e26ec127dec711f40a28a2a0", "bytes": 139648, "indicator": "GFDD.OI.02", "indicator_label": "Bank deposits to GDP (%)"},
+    {"name": "GFDD_SI_04.json", "original_name": null, "sha256": "4c0857e12b72fd44962042a224868a16b55ccd688acdde41f90bead89f0caad0", "bytes": 145029, "indicator": "GFDD.SI.04", "indicator_label": "Bank credit to bank deposits (%)"},
+    {"name": "GFDD_DI_09.json", "original_name": null, "sha256": "976147ad4a9339626e59c8e51587fadd3a96683217529df13755a7eb0548da6e", "bytes": 149615, "indicator": "GFDD.DI.09", "indicator_label": "Life insurance premium volume to GDP (%)"},
+    {"name": "GFDD_DI_10.json", "original_name": null, "sha256": "f9841f459a2d6a67607dcc65161874570e4d46b38e5d740d8fcaaef4cfa70575", "bytes": 152295, "indicator": "GFDD.DI.10", "indicator_label": "Non-life insurance premium volume to GDP (%)"},
+    {"name": "GFDD_DI_11.json", "original_name": null, "sha256": "cf59471f92986b625614fb076d23d721dd71ee4e76028c45c63f7c8af678b2ab", "bytes": 145921, "indicator": "GFDD.DI.11", "indicator_label": "Insurance company assets to GDP (%)"}
+  ],
+  "countries": ["IRN", "TUR", "SAU", "IRQ", "VEN", "ARG", "RUS", "USA", "KOR", "ESP", "ITA"],
+  "time_coverage": "1960-2021 (varies by indicator and country; see coverage notes below)",
+  "frequency": "annual",
+  "topics": ["banking-depth", "bank-deposits", "bank-credit", "private-credit", "insurance-premiums", "insurance-company-assets"],
+  "units": "percent (all seven indicators are GDP or asset-share ratios; see indicator_label per file)",
+  "license_terms": "World Bank public data (CC BY 4.0)",
+  "notes": "Pulled directly from the World Bank's standard countries/indicators REST API (api.worldbank.org/v2), the SAME API family used for the project's existing WDI harmonization, but querying the GFDD database (distinct from WDI proper -- confirmed GFDD.* codes are not in WDICSV.csv). This complements data/raw/worldbank-gfdd/iran-banking-sector-depth-1960-2016/ (pulled 2026-07-13 via FRED mirror, IRN-only) by adding the SAME four banking-depth indicators (GFDD.DI.01, DI.04, OI.02, SI.04) for the 10 fixed comparator countries (TUR, SAU, IRQ, VEN, ARG, RUS, USA, KOR, ESP, ITA) plus IRN pulled fresh here for a consistent single-vintage cross-check, PLUS three new indicators not previously pulled at all: GFDD.DI.09 (life insurance premium volume, % GDP), GFDD.DI.10 (non-life insurance premium volume, % GDP), GFDD.DI.11 (insurance company assets, % GDP) -- these directly answer the brief's 'insurance-sector: total premiums written (life and non-life), as a level and as % of GDP' requirement using a genuine multi-country, methodologically consistent source (World Bank republishes underlying Axco/Swiss-Re-sourced premium data standardized to GDP ratios). Coverage gaps (real, not download failures): IRQ has zero data for DI.09/DI.10/DI.11 (World Bank does not carry Iraqi insurance-sector data in GFDD); SAU has zero data for DI.04. GFDD Iran coverage generally stops 2016-2018 depending on indicator (source discontinued Iran updates). All values are unmodified World-Bank-computed ratios, no interpolation or estimation performed.",
+  "failures": [
+    {"indicator": "GFDD.DI.04", "country": "SAU", "reason": "World Bank GFDD carries no observations at all for this indicator/country pair (queried 1960-2025, zero non-null values) -- genuine source gap, not a request failure."},
+    {"indicator": "GFDD.DI.09 / GFDD.DI.10 / GFDD.DI.11", "country": "IRQ", "reason": "World Bank GFDD carries no insurance-sector observations for Iraq at all -- genuine source gap."}
+  ]
+}

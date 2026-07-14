@@ -3,13 +3,22 @@
   "title": "Cement (Hydraulic) Production",
   "category": "Mining & Minerals Production",
   "sources": "pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959 + usgs-minerals-yearbook",
-  "n_rows": 21,
+  "n_rows": 116,
   "year_range": [
     "1955",
-    "1980"
+    "2023"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR",
+    "VEN"
   ],
   "citations": [
     {

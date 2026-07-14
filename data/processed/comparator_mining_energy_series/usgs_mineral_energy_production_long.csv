@@ -1,0 +1,997 @@
+country_iso3,indicator_id,year,value,unit,source_dataset,source_commodity_label,source_unit,flag
+SAU,energy__natural_gas_production_gross,2014,117000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,"Natural gas, Gross",million cubic meters,
+SAU,energy__natural_gas_production_gross,2015,120000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Gross",million cubic meters,
+SAU,energy__natural_gas_production_gross,2016,124000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Gross",million cubic meters,
+SAU,energy__natural_gas_production_gross,2017,115000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Gross",million cubic meters,r
+SAU,energy__natural_gas_production_gross,2018,117000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Gross",million cubic meters,r
+SAU,energy__natural_gas_production_gross,2019,118000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Gross",million cubic meters,r
+SAU,energy__natural_gas_production_gross,2020,119000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Gross",million cubic meters,r
+SAU,energy__natural_gas_production_gross,2021,120485.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Gross",million cubic meters,
+VEN,energy__natural_gas_production_gross,2014,76717.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,"Natural gas, Gross",million cubic meters,
+VEN,energy__natural_gas_production_gross,2015,80119.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Gross",million cubic meters,
+VEN,energy__natural_gas_production_gross,2016,84600.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Gross",million cubic meters,e
+VEN,energy__natural_gas_production_gross,2017,38600.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Gross",million cubic meters,r
+VEN,energy__natural_gas_production_gross,2018,31600.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Gross",million cubic meters,
+VEN,energy__natural_gas_production_gross,2019,25600.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Gross",million cubic meters,
+VEN,energy__natural_gas_production_gross,2020,21600.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Gross",million cubic meters,
+VEN,energy__natural_gas_production_gross,2021,28100.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Gross",million cubic meters,r
+VEN,energy__natural_gas_production_gross,2022,29200.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Gross",million cubic meters,
+ARG,energy__natural_gas_production_marketed,2012,44123.0,million cubic meters,usgs-minerals-yearbook/MYB3-2016,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2013,41708.0,million cubic meters,usgs-minerals-yearbook/MYB3-2016,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2014,41484.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2015,42895.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2016,44988.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2017,44595.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2018,47020.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2019,49126.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2020,45096.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,Natural gas,million cubic meters,
+ARG,energy__natural_gas_production_marketed,2021,45293.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,Natural gas,million cubic meters,
+ESP,energy__natural_gas_production_marketed,2014,26.214,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,Natural gas,thousand cubic meters,
+ESP,energy__natural_gas_production_marketed,2015,11.59,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,thousand cubic meters,
+ESP,energy__natural_gas_production_marketed,2016,8.045,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,thousand cubic meters,
+ESP,energy__natural_gas_production_marketed,2017,13.162,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,Natural gas,thousand cubic meters,
+ESP,energy__natural_gas_production_marketed,2018,93.061,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,thousand cubic meters,
+ESP,energy__natural_gas_production_marketed,2019,131.294,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,thousand cubic meters,
+ESP,energy__natural_gas_production_marketed,2020,47.321,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,thousand cubic meters,
+ESP,energy__natural_gas_production_marketed,2021,38.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,thousand cubic meters,r
+ESP,energy__natural_gas_production_marketed,2022,33.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,thousand cubic meters,e
+IRN,energy__natural_gas_production_marketed,2014,212796.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2015,226673.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2016,226905.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2017,238003.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2018,233060.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2019,241730.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2020,249630.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2021,257119.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2022,262261.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+IRN,energy__natural_gas_production_marketed,2023,275000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+IRQ,energy__natural_gas_production_marketed,2014,7927.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,"Natural gas, marketable",million cubic meters,
+IRQ,energy__natural_gas_production_marketed,2015,7685.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, marketable",million cubic meters,
+IRQ,energy__natural_gas_production_marketed,2016,10416.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, marketable",million cubic meters,
+IRQ,energy__natural_gas_production_marketed,2017,10650.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, marketable",million cubic meters,
+IRQ,energy__natural_gas_production_marketed,2018,10600.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, marketable",millions cubic meters,r
+IRQ,energy__natural_gas_production_marketed,2019,11000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, marketable",millions cubic meters,
+IRQ,energy__natural_gas_production_marketed,2020,7000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, marketable",millions cubic meters,
+IRQ,energy__natural_gas_production_marketed,2021,9100.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, marketable",millions cubic meters,
+IRQ,energy__natural_gas_production_marketed,2022,9300.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, marketable",millions cubic meters,r
+IRQ,energy__natural_gas_production_marketed,2023,9900.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, marketable",millions cubic meters,
+ITA,energy__natural_gas_production_marketed,2014,6859.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,Natural gas,million cubic meters,r
+ITA,energy__natural_gas_production_marketed,2015,6497.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,million cubic meters,
+ITA,energy__natural_gas_production_marketed,2016,5550.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,million cubic meters,
+ITA,energy__natural_gas_production_marketed,2017,5314.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,million cubic meters,
+ITA,energy__natural_gas_production_marketed,2018,5190.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+ITA,energy__natural_gas_production_marketed,2019,4620.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+ITA,energy__natural_gas_production_marketed,2020,3910.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+ITA,energy__natural_gas_production_marketed,2021,3180.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+ITA,energy__natural_gas_production_marketed,2022,3160.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+KOR,energy__natural_gas_production_marketed,2017,355.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, marketable",million cubic meters,
+KOR,energy__natural_gas_production_marketed,2018,318.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, marketable",million cubic meters,
+KOR,energy__natural_gas_production_marketed,2019,269.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, marketable",million cubic meters,
+KOR,energy__natural_gas_production_marketed,2020,193.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, marketable",million cubic meters,
+KOR,energy__natural_gas_production_marketed,2021,57.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2014,643000.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2015,633551.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2016,640784.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2017,691488.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2018,726008.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2019,739424.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2020,694485.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2021,762300.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, marketable",million cubic meters,
+RUS,energy__natural_gas_production_marketed,2022,673800.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, marketable",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2014,97300.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,"Natural gas, Dry basis",million cubic meters,r
+SAU,energy__natural_gas_production_marketed,2015,99200.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Dry basis",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2016,105300.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Dry basis",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2017,90300.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Dry basis",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2019,111200.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2020,103500.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2021,104806.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2022,109800.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+SAU,energy__natural_gas_production_marketed,2023,110348.0,million cubic meters,usgs-minerals-yearbook/MYB3-2023,"Natural gas, dry basis",million cubic meters,
+TUR,energy__natural_gas_production_marketed,2014,502.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2015,399.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2016,382.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2017,354.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2018,436.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2019,483.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2020,441.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2021,394.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+TUR,energy__natural_gas_production_marketed,2022,380.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,Natural gas,million cubic meters,
+VEN,energy__natural_gas_production_marketed,2014,21878.0,million cubic meters,usgs-minerals-yearbook/MYB3-2017-18,"Natural gas, Marketable",million cubic meters,
+VEN,energy__natural_gas_production_marketed,2015,25943.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Marketable",million cubic meters,
+VEN,energy__natural_gas_production_marketed,2016,27400.0,million cubic meters,usgs-minerals-yearbook/MYB3-2019,"Natural gas, Marketable",million cubic meters,e
+VEN,energy__natural_gas_production_marketed,2017,12400.0,million cubic meters,usgs-minerals-yearbook/MYB3-2020-21,"Natural gas, Marketable",million cubic meters,r
+VEN,energy__natural_gas_production_marketed,2018,10100.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Marketable",million cubic meters,
+VEN,energy__natural_gas_production_marketed,2019,8200.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Marketable",million cubic meters,
+VEN,energy__natural_gas_production_marketed,2020,6900.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Marketable",million cubic meters,
+VEN,energy__natural_gas_production_marketed,2021,8992.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Marketable",million cubic meters,r
+VEN,energy__natural_gas_production_marketed,2022,9344.0,million cubic meters,usgs-minerals-yearbook/MYB3-2022,"Natural gas, Marketable",million cubic meters,
+ARG,mining__aluminum_primary_production,2012,390370.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Aluminum, metal, primary","Metric tons, gross weight",r
+ARG,mining__aluminum_primary_production,2013,439690.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Aluminum, metal, primary","Metric tons, gross weight",r
+ARG,mining__aluminum_primary_production,2014,441597.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Aluminum, metal, primary","Metric tons, gross weight",
+ARG,mining__aluminum_primary_production,2015,433478.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, primary","Metric tons, gross weight",
+ARG,mining__aluminum_primary_production,2016,412283.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, primary","Metric tons, gross weight",
+ARG,mining__aluminum_primary_production,2017,403192.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, primary","Metric tons, gross weight",
+ARG,mining__aluminum_primary_production,2018,419435.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, primary","Metric tons, gross weight",
+ARG,mining__aluminum_primary_production,2019,426886.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, primary","Metric tons, gross weight",
+ARG,mining__aluminum_primary_production,2020,376875.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, primary","Metric tons, gross weight",
+ARG,mining__aluminum_primary_production,2021,400000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, primary","Metric tons, gross weight",e
+ESP,mining__aluminum_primary_production,2014,350000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Aluminum, Metal, primarye","Metric tons, gross weight",
+ESP,mining__aluminum_primary_production,2015,350000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primarye","Metric tons, gross weight",
+ESP,mining__aluminum_primary_production,2016,350000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primarye","Metric tons, gross weight",
+ESP,mining__aluminum_primary_production,2017,350000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, Metal, primarye","Metric tons, gross weight",
+ESP,mining__aluminum_primary_production,2018,350000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary","Metric tons, gross weight",
+ESP,mining__aluminum_primary_production,2019,220000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary","Metric tons, gross weight",
+ESP,mining__aluminum_primary_production,2020,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary","Metric tons, gross weight",
+ESP,mining__aluminum_primary_production,2021,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary","Metric tons, gross weight",
+IRN,mining__aluminum_primary_production,2014,355000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Aluminum, Metal, primary","Metric tons, gross weight",
+IRN,mining__aluminum_primary_production,2015,355000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary","Metric tons, gross weight",
+IRN,mining__aluminum_primary_production,2016,341000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary","Metric tons, gross weight","r, e"
+IRN,mining__aluminum_primary_production,2017,338000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, Metal, primarye","Metric tons, gross weight",
+IRN,mining__aluminum_primary_production,2018,305000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary","Metric tons, gross weight",e
+IRN,mining__aluminum_primary_production,2019,258000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metal, primary","Metric tons, gross weight",e
+IRN,mining__aluminum_primary_production,2020,425000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metal, primary","Metric tons, gross weight",e
+IRN,mining__aluminum_primary_production,2021,559647.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metal, primary","Metric tons, gross weight",
+IRN,mining__aluminum_primary_production,2022,632166.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metal, primary","Metric tons, gross weight",
+IRN,mining__aluminum_primary_production,2023,635597.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metal, primary","Metric tons, gross weight",
+RUS,mining__aluminum_primary_production,2014,3300000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2015,3529000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2016,3561000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2017,3583000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2018,3627000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2019,3637000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2020,3639000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2021,3640000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary",thousand metric tons,
+RUS,mining__aluminum_primary_production,2022,3715000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primary",thousand metric tons,
+SAU,mining__aluminum_primary_production,2014,662000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Aluminum, Metal, Primary","Thousand metric tons, gross weight",
+SAU,mining__aluminum_primary_production,2015,682000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, Primary","Thousand metric tons, gross weight",
+SAU,mining__aluminum_primary_production,2016,740000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, Primary","Thousand metric tons, gross weight",
+SAU,mining__aluminum_primary_production,2017,786000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, Metal, Primary","Thousand metric tons, gross weight",
+SAU,mining__aluminum_primary_production,2018,776000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metals, Primary","Thousand metric tons, gross weight",
+SAU,mining__aluminum_primary_production,2019,776000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metals, Primary","Thousand metric tons, gross weight",
+SAU,mining__aluminum_primary_production,2020,796000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metals, Primary","Thousand metric tons, gross weight",
+SAU,mining__aluminum_primary_production,2021,805000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metals, Primary","Thousand metric tons, gross weight",r
+SAU,mining__aluminum_primary_production,2022,776000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metals, Primary","Thousand metric tons, gross weight",r
+SAU,mining__aluminum_primary_production,2023,730000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Aluminum, Metals, Primary","Thousand metric tons, gross weight",e
+TUR,mining__aluminum_primary_production,2012,43700.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Aluminum, Metal, primary","Metric tons, gross weight",r
+TUR,mining__aluminum_primary_production,2013,32200.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Aluminum, Metal, primary","Metric tons, gross weight",r
+TUR,mining__aluminum_primary_production,2014,30400.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Aluminum, Metal, primary","Metric tons, gross weight",
+TUR,mining__aluminum_primary_production,2015,45900.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary","Metric tons, gross weight",
+TUR,mining__aluminum_primary_production,2016,78800.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary","Metric tons, gross weight",
+TUR,mining__aluminum_primary_production,2017,85000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, Metal, primarye","Metric tons, gross weight",r
+TUR,mining__aluminum_primary_production,2018,73000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primarye","Metric tons, gross weight",
+TUR,mining__aluminum_primary_production,2019,78000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primarye","Metric tons, gross weight",
+TUR,mining__aluminum_primary_production,2020,80000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primarye","Metric tons, gross weight",
+TUR,mining__aluminum_primary_production,2021,79000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primarye","Metric tons, gross weight",
+TUR,mining__aluminum_primary_production,2022,80000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Metal, primarye","Metric tons, gross weight",
+VEN,mining__aluminum_primary_production,2014,138000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Aluminum, Metal, primary",thousand metric tons,
+VEN,mining__aluminum_primary_production,2015,119000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary",thousand metric tons,
+VEN,mining__aluminum_primary_production,2016,147000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Aluminum, Metal, primary",thousand metric tons,
+VEN,mining__aluminum_primary_production,2017,144000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Aluminum, Metal, primary",thousand metric tons,
+VEN,mining__aluminum_primary_production,2018,86000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Aluminum, metal, primary",thousand metric tons,
+VEN,mining__aluminum_primary_production,2019,8000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Aluminum, metal, primary",thousand metric tons,e
+VEN,mining__aluminum_primary_production,2020,20000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Aluminum, metal, primary",thousand metric tons,e
+VEN,mining__aluminum_primary_production,2021,20000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Aluminum, metal, primary",thousand metric tons,e
+VEN,mining__aluminum_primary_production,2022,47000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Aluminum, Aluminum, metal, primary",thousand metric tons,e
+ARG,mining__barite_production,2012,9416.0,metric tons,usgs-minerals-yearbook/MYB3-2016,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2013,26792.0,metric tons,usgs-minerals-yearbook/MYB3-2016,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2014,16265.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2015,12917.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2016,12389.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2017,5977.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2018,7225.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2019,3898.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Barite,"Metric tons, gross weight",
+ARG,mining__barite_production,2020,4000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Barite,"Metric tons, gross weight",e
+ARG,mining__barite_production,2021,4000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Barite,"Metric tons, gross weight",e
+IRN,mining__barite_production,2014,440741.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2015,340318.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2016,399750.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2017,239132.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2018,201721.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2019,224412.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2020,288341.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2021,290000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Barite,"Metric tons, gross weight",
+IRN,mining__barite_production,2022,300000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Barite,"Metric tons, gross weight",e
+IRN,mining__barite_production,2023,300000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Barite,"Metric tons, gross weight",e
+RUS,mining__barite_production,2014,360000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Barite,"Metric tons, gross weight","r, e"
+RUS,mining__barite_production,2015,361000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Barite,"Metric tons, gross weight",
+RUS,mining__barite_production,2016,434000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Barite,"Metric tons, gross weight",
+RUS,mining__barite_production,2017,178000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Barite,"Metric tons, gross weight",
+RUS,mining__barite_production,2018,163000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Barite,"Metric tons, gross weight",
+RUS,mining__barite_production,2019,228000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Barite,"Metric tons, gross weight",
+RUS,mining__barite_production,2020,287000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Barite,"Metric tons, gross weight",
+RUS,mining__barite_production,2021,250000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Barite,"Metric tons, gross weight","r, e"
+RUS,mining__barite_production,2022,250000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Barite,"Metric tons, gross weight",e
+SAU,mining__barite_production,2014,32000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Barite,"Thousand metric tons, gross weight",
+TUR,mining__barite_production,2018,335473.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Barite, crude and ground","Metric tons, gross weight",
+TUR,mining__barite_production,2019,299000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Barite, crude and ground","Metric tons, gross weight",e
+TUR,mining__barite_production,2020,283161.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Barite, crude and ground","Metric tons, gross weight",
+TUR,mining__barite_production,2021,256076.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Barite, crude and ground","Metric tons, gross weight",
+TUR,mining__barite_production,2022,343322.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Barite, crude and ground","Metric tons, gross weight",
+ARG,mining__cement_production,2012,10716000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2013,11892000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2014,11408000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2015,12193000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2016,10899000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2017,11960000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2018,11842000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2019,11082000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2020,9871000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+ARG,mining__cement_production,2021,12126000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+ESP,mining__cement_production,2014,14587000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic",thousand metric tons,
+ESP,mining__cement_production,2015,15000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,e
+ESP,mining__cement_production,2016,15000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,e
+ESP,mining__cement_production,2017,14500000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+ESP,mining__cement_production,2018,16215000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+ESP,mining__cement_production,2019,16998000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+ESP,mining__cement_production,2020,15600000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+ESP,mining__cement_production,2021,18000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+ESP,mining__cement_production,2022,19000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,e
+IRN,mining__cement_production,2014,66700000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic",thousand metric tons,
+IRN,mining__cement_production,2015,58600000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+IRN,mining__cement_production,2016,55000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,e
+IRN,mining__cement_production,2017,55200000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulice",thousand metric tons,r
+IRN,mining__cement_production,2018,55400000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulice",thousand metric tons,
+IRN,mining__cement_production,2019,60400000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic",thousand metric tons,
+IRN,mining__cement_production,2020,68300000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic",thousand metric tons,
+IRN,mining__cement_production,2021,62700000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic",thousand metric tons,r
+IRN,mining__cement_production,2022,64200000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic",thousand metric tons,r
+IRN,mining__cement_production,2023,71400000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic",thousand metric tons,
+IRQ,mining__cement_production,2014,9000000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulice","Thousand metric tons, gross weight",
+IRQ,mining__cement_production,2015,10000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulice","Thousand metric tons, gross weight",
+IRQ,mining__cement_production,2016,12000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulice","Thousand metric tons, gross weight",r
+IRQ,mining__cement_production,2017,14000000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulice","Thousand metric tons, gross weight",r
+IRQ,mining__cement_production,2018,24000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic","Thousand metric tons, gross weight",
+IRQ,mining__cement_production,2019,27000000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",e
+IRQ,mining__cement_production,2020,27750000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",r
+IRQ,mining__cement_production,2021,31520000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",r
+IRQ,mining__cement_production,2022,32400000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",
+IRQ,mining__cement_production,2023,35500000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",e
+ITA,mining__cement_production,2014,21500000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic",thousand metric tons,r
+ITA,mining__cement_production,2015,20800000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+ITA,mining__cement_production,2016,19300000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+ITA,mining__cement_production,2017,19300000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+ITA,mining__cement_production,2018,18644000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,r
+ITA,mining__cement_production,2019,19482000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,r
+ITA,mining__cement_production,2020,19818000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,r
+ITA,mining__cement_production,2021,21445000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,r
+ITA,mining__cement_production,2022,21382000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+KOR,mining__cement_production,2014,47048000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, Hydraulic",thousand metric tons,
+KOR,mining__cement_production,2015,52044000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, Hydraulic",thousand metric tons,
+KOR,mining__cement_production,2016,56747000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, Hydraulic",thousand metric tons,
+KOR,mining__cement_production,2017,57400000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, Hydraulic",thousand metric tons,
+KOR,mining__cement_production,2018,52093000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, Hydraulic",thousand metric tons,
+KOR,mining__cement_production,2019,50635000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, Hydraulic",thousand metric tons,r
+KOR,mining__cement_production,2020,47518000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, Hydraulic",thousand metric tons,
+KOR,mining__cement_production,2021,49864000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, Hydraulic",thousand metric tons,
+RUS,mining__cement_production,2014,69139000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2015,62104000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2016,54935000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2017,54721000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2018,53678000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2019,57676000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2020,56165000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2021,59700000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+RUS,mining__cement_production,2022,61000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+SAU,mining__cement_production,2014,57223000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic","Thousand metric tons, gross weight",
+SAU,mining__cement_production,2015,61900000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic","Thousand metric tons, gross weight",
+SAU,mining__cement_production,2016,55943000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic","Thousand metric tons, gross weight",
+SAU,mining__cement_production,2017,47128000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic","Thousand metric tons, gross weight",r
+SAU,mining__cement_production,2018,41937000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic","Thousand metric tons, gross weight",
+SAU,mining__cement_production,2019,44341000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",
+SAU,mining__cement_production,2020,53418000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",
+SAU,mining__cement_production,2021,53699000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",
+SAU,mining__cement_production,2022,52373000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",r
+SAU,mining__cement_production,2023,49194000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Cement, hydraulic","Thousand metric tons, gross weight",
+TUR,mining__cement_production,2012,63879.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Cement, hydraulic","Metric tons, gross weight",
+TUR,mining__cement_production,2013,71337.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Cement, hydraulic","Metric tons, gross weight",
+TUR,mining__cement_production,2014,71239000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic",thousand metric tons,
+TUR,mining__cement_production,2015,71419000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+TUR,mining__cement_production,2016,75403000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+TUR,mining__cement_production,2017,80552000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+TUR,mining__cement_production,2018,72544000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+TUR,mining__cement_production,2019,56966000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+TUR,mining__cement_production,2020,72299000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+TUR,mining__cement_production,2021,78495000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,r
+TUR,mining__cement_production,2022,73708000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+VEN,mining__cement_production,2014,7940000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Cement, hydraulic",thousand metric tons,r
+VEN,mining__cement_production,2015,8210000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,
+VEN,mining__cement_production,2016,5790000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Cement, hydraulic",thousand metric tons,r
+VEN,mining__cement_production,2017,5410000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Cement, hydraulic",thousand metric tons,
+VEN,mining__cement_production,2018,2010000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,
+VEN,mining__cement_production,2019,1500000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,"r, e"
+VEN,mining__cement_production,2020,1400000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,"r, e"
+VEN,mining__cement_production,2021,2500000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,e
+VEN,mining__cement_production,2022,2600000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Cement, hydraulic",thousand metric tons,e
+IRN,mining__chromite_ore_production,2019,230000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Chromium, mine, chromite, Ore","Metric tons, gross weight",
+IRN,mining__chromite_ore_production,2020,215000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Chromium, mine, chromite, Ore","Metric tons, gross weight",
+IRN,mining__chromite_ore_production,2021,230000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Chromium, mine, chromite, Ore","Metric tons, gross weight",e
+IRN,mining__chromite_ore_production,2022,290000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Chromium, mine, chromite, Ore","Metric tons, gross weight",e
+IRN,mining__chromite_ore_production,2023,330000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Chromium, mine, chromite, Ore","Metric tons, gross weight",e
+RUS,mining__chromite_ore_production,2014,380000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Chromium, mine, chromite, ores and concentrates, marketable","Metric tons, gross weight",
+RUS,mining__chromite_ore_production,2015,503000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",
+RUS,mining__chromite_ore_production,2016,465000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",
+RUS,mining__chromite_ore_production,2017,488000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",
+RUS,mining__chromite_ore_production,2018,469000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",
+RUS,mining__chromite_ore_production,2019,730300.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",r
+RUS,mining__chromite_ore_production,2020,718000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",r
+RUS,mining__chromite_ore_production,2021,555100.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",r
+RUS,mining__chromite_ore_production,2022,550000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, concentrates, marketable","Metric tons, gross weight",e
+TUR,mining__chromite_ore_production,2012,3295398.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Chromium, Chromite, mine production, 34% to 43% Cr2O","Metric tons, gross weight",r
+TUR,mining__chromite_ore_production,2013,4140655.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Chromium, Chromite, mine production, 34% to 43% Cr2O","Metric tons, gross weight",r
+TUR,mining__chromite_ore_production,2014,10241477.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",r
+TUR,mining__chromite_ore_production,2015,8301218.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+TUR,mining__chromite_ore_production,2016,6066022.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+TUR,mining__chromite_ore_production,2017,7849500.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+TUR,mining__chromite_ore_production,2018,10757199.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+TUR,mining__chromite_ore_production,2019,8666114.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+TUR,mining__chromite_ore_production,2020,6164598.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+TUR,mining__chromite_ore_production,2021,6960683.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+TUR,mining__chromite_ore_production,2022,8278124.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Chromium, mine, chromite, 34% to 43% Cr2O","Metric tons, gross weight",
+ARG,mining__coke_production,2012,765000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Coke, metallurgical",thousand metric tons,r
+ARG,mining__coke_production,2013,794000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Coke, metallurgical",thousand metric tons,r
+ARG,mining__coke_production,2014,840000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Coke, metallurgical",thousand metric tons,
+ARG,mining__coke_production,2015,1154000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical",thousand metric tons,r
+ARG,mining__coke_production,2016,947000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical",thousand metric tons,r
+ARG,mining__coke_production,2017,1061000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,
+ARG,mining__coke_production,2018,1151000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,r
+ARG,mining__coke_production,2019,1185000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,r
+ARG,mining__coke_production,2020,891000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,
+ARG,mining__coke_production,2021,1096000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,
+IRN,mining__coke_production,2014,965000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Coke, metallurgical",thousand metric tons,
+IRN,mining__coke_production,2015,1140000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgicale",thousand metric tons,r
+IRN,mining__coke_production,2016,1160000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgicale",thousand metric tons,r
+IRN,mining__coke_production,2017,1320000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgicale",thousand metric tons,r
+IRN,mining__coke_production,2018,1310000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical",thousand metric tons,e
+IRN,mining__coke_production,2019,1160000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Coke, metallurgical",thousand metric tons,e
+IRN,mining__coke_production,2020,1270000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Coke, metallurgical",thousand metric tons,e
+IRN,mining__coke_production,2021,1300000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Coke, metallurgical",thousand metric tons,e
+IRN,mining__coke_production,2022,1265000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Coke, metallurgical",thousand metric tons,
+IRN,mining__coke_production,2023,1270000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Coke, metallurgical",thousand metric tons,e
+KOR,mining__coke_production,2014,17193000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Coke, metallurgical",thousand metric tons,r
+KOR,mining__coke_production,2015,17521000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical",thousand metric tons,r
+KOR,mining__coke_production,2016,15924000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical",thousand metric tons,r
+KOR,mining__coke_production,2017,16020000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,
+KOR,mining__coke_production,2018,16894000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,r
+KOR,mining__coke_production,2019,16176000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,r
+KOR,mining__coke_production,2020,15345000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,
+KOR,mining__coke_production,2021,15494000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,
+RUS,mining__coke_production,2014,26500000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2015,26027000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2016,26326000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2017,27998000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2018,26977000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2019,26938000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2020,27016000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2021,25687000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+RUS,mining__coke_production,2022,25394000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical, 6% moisture content",thousand metric tons,
+TUR,mining__coke_production,2012,4072.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Coke, metallurgical","Metric tons, gross weight",3
+TUR,mining__coke_production,2013,4205.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Coke, metallurgical","Metric tons, gross weight",3
+TUR,mining__coke_production,2014,4388000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Coke, metallurgical",thousand metric tons,10
+TUR,mining__coke_production,2015,4400000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical",thousand metric tons,e
+TUR,mining__coke_production,2016,4500000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Coke, metallurgical",thousand metric tons,e
+TUR,mining__coke_production,2017,4459000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Coke, metallurgical",thousand metric tons,r
+TUR,mining__coke_production,2018,4362000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical",thousand metric tons,
+TUR,mining__coke_production,2019,4536000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical",thousand metric tons,
+TUR,mining__coke_production,2020,4524000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical",thousand metric tons,
+TUR,mining__coke_production,2021,4476000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical",thousand metric tons,r
+TUR,mining__coke_production,2022,4485000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Coke, metallurgical",thousand metric tons,
+ARG,mining__copper_mine_production_cu_content,2012,135743.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Mine, Cu content","Metric tons, gross weight",
+ARG,mining__copper_mine_production_cu_content,2013,109631.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Mine, Cu content","Metric tons, gross weight",
+ARG,mining__copper_mine_production_cu_content,2014,97566.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Mine, Cu content","Metric tons, gross weight",r
+ARG,mining__copper_mine_production_cu_content,2015,61766.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, Cu content","Metric tons, gross weight",
+ARG,mining__copper_mine_production_cu_content,2016,81902.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, Cu content","Metric tons, gross weight",
+ARG,mining__copper_mine_production_cu_content,2017,33303.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Mine, Cu content","Metric tons, gross weight",
+ARG,mining__copper_mine_production_cu_content,2018,17435.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Mine, Cu content","Metric tons, gross weight",
+ESP,mining__copper_mine_production_cu_content,2014,33386.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",r
+ESP,mining__copper_mine_production_cu_content,2015,51492.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",
+ESP,mining__copper_mine_production_cu_content,2016,94093.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",
+ESP,mining__copper_mine_production_cu_content,2017,124689.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",
+ESP,mining__copper_mine_production_cu_content,2018,116976.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",
+ESP,mining__copper_mine_production_cu_content,2019,122466.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",
+ESP,mining__copper_mine_production_cu_content,2020,128326.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",
+ESP,mining__copper_mine_production_cu_content,2021,128729.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",r
+ESP,mining__copper_mine_production_cu_content,2022,118000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Concentrates, Cu content","Metric tons, gross weight",e
+IRN,mining__copper_mine_production_cu_content,2014,216800.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Mine, Ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",
+IRN,mining__copper_mine_production_cu_content,2015,246400.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",
+IRN,mining__copper_mine_production_cu_content,2016,289300.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",
+IRN,mining__copper_mine_production_cu_content,2017,292400.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Mine, Ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",r
+IRN,mining__copper_mine_production_cu_content,2018,311400.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",
+IRN,mining__copper_mine_production_cu_content,2019,307300.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",
+IRN,mining__copper_mine_production_cu_content,2020,309200.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",
+IRN,mining__copper_mine_production_cu_content,2021,315900.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",
+IRN,mining__copper_mine_production_cu_content,2022,322000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Ore, 0.6% to 1.2% Cu, Cu content","Metric tons, gross weight",e
+KOR,mining__copper_mine_production_cu_content,2016,108.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, concentrate, Cu content","Metric tons, gross weight",
+KOR,mining__copper_mine_production_cu_content,2017,7.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Mine, concentrate, Cu content","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2014,878100.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2015,870100.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2016,848100.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2017,847000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2018,884100.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2019,955000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2020,1134600.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",
+RUS,mining__copper_mine_production_cu_content,2021,1146800.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",r
+RUS,mining__copper_mine_production_cu_content,2022,1150000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, Cu content, Ore","Metric tons, gross weight",e
+SAU,mining__copper_mine_production_cu_content,2014,10800.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, mine, concentrates, Cu content",metric tons,r
+SAU,mining__copper_mine_production_cu_content,2015,11600.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, mine, concentrates, Cu content",metric tons,
+SAU,mining__copper_mine_production_cu_content,2016,27500.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, mine, concentrates, Cu content",metric tons,
+SAU,mining__copper_mine_production_cu_content,2017,67097.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, mine, concentrates, Cu content",metric tons,r
+SAU,mining__copper_mine_production_cu_content,2018,70450.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, mine, concentrates, Cu content",metric tons,r
+SAU,mining__copper_mine_production_cu_content,2019,69400.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, mine, concentrates, Cu content",metric tons,
+TUR,mining__copper_mine_production_cu_content,2012,104300.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Mine production, exclusive of pyrite, Cu content","Metric tons, gross weight",r
+TUR,mining__copper_mine_production_cu_content,2013,120500.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Mine production, exclusive of pyrite, Cu content","Metric tons, gross weight",r
+TUR,mining__copper_mine_production_cu_content,2014,122000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Mine, concentrates, exclusive of pyrites, Cu content","Metric tons, gross weight",
+TUR,mining__copper_mine_production_cu_content,2015,108000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, concentrates, exclusive of pyrite, Cu content","Metric tons, gross weight",
+TUR,mining__copper_mine_production_cu_content,2016,100000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Mine, concentrates, exclusive of pyrite, Cu content","Metric tons, gross weight",
+TUR,mining__copper_mine_production_cu_content,2017,83000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Mine, concentrates, exclusive of pyrite, Cu content","Metric tons, gross weight",
+TUR,mining__copper_mine_production_cu_content,2018,79600.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, concentrate, exclusive of pyrite, Cu content","Metric tons, gross weight",
+TUR,mining__copper_mine_production_cu_content,2019,73500.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, concentrate, exclusive of pyrite, Cu content","Metric tons, gross weight",
+TUR,mining__copper_mine_production_cu_content,2020,107000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, concentrate, exclusive of pyrite, Cu content","Metric tons, gross weight",
+TUR,mining__copper_mine_production_cu_content,2021,110000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, concentrate, exclusive of pyrite, Cu content","Metric tons, gross weight",r
+TUR,mining__copper_mine_production_cu_content,2022,115000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Mine, concentrate, exclusive of pyrite, Cu content","Metric tons, gross weight",
+IRN,mining__copper_refinery_primary,2014,124000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Refinery, Primary","Metric tons, gross weight",
+IRN,mining__copper_refinery_primary,2015,127000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+IRN,mining__copper_refinery_primary,2016,139000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+IRN,mining__copper_refinery_primary,2017,103000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+IRN,mining__copper_refinery_primary,2018,165000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+IRN,mining__copper_refinery_primary,2019,177000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2014,491200.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Refinery, Primary","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2015,515300.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2016,522400.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2017,501300.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Refinery, Primary","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2018,500500.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Refinery, Primary","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2019,473600.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Refinery, Primary","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2020,489500.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Refinery, Primary","Metric tons, gross weight",
+KOR,mining__copper_refinery_primary,2021,476300.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Refinery, Primary","Metric tons, gross weight",
+RUS,mining__copper_refinery_primary,2015,657000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+RUS,mining__copper_refinery_primary,2016,664000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+RUS,mining__copper_refinery_primary,2017,731000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Refinery, Primary, Total","Metric tons, gross weight",r
+RUS,mining__copper_refinery_primary,2018,783000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+RUS,mining__copper_refinery_primary,2019,792000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+RUS,mining__copper_refinery_primary,2020,813000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+RUS,mining__copper_refinery_primary,2021,787000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary, Total","Metric tons, gross weight",r
+RUS,mining__copper_refinery_primary,2022,811000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary, Total","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2012,76300.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Refinery production, Primary","Metric tons, gross weight",r
+TUR,mining__copper_refinery_primary,2013,64000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Refinery production, Primary","Metric tons, gross weight",r
+TUR,mining__copper_refinery_primary,2014,61300.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2015,74000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2016,47400.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2017,88000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2018,116300.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2019,106000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2020,116100.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2021,117000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary","Metric tons, gross weight",
+TUR,mining__copper_refinery_primary,2022,124600.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Refinery, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2014,285400.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Smelter, blister, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2015,286300.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2016,292300.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2017,272000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2018,284800.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2019,255700.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2020,257700.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2021,253800.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+ESP,mining__copper_smelter_primary,2022,199600.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2014,156500.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2015,153500.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2016,153400.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2017,114200.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2018,204100.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2019,201100.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2020,223300.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2021,246800.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2022,252700.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Copper, Smelter, Primary","Metric tons, gross weight",
+IRN,mining__copper_smelter_primary,2023,279700.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2014,500000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2015,511200.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2016,510000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2017,510000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2018,530000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2019,520000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2020,513900.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+KOR,mining__copper_smelter_primary,2021,520000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+RUS,mining__copper_smelter_primary,2014,664000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Smelter, blister, Primary","Metric tons, gross weight",r
+RUS,mining__copper_smelter_primary,2015,661000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, blister, Primary","Metric tons, gross weight",
+RUS,mining__copper_smelter_primary,2016,665000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, blister, Primary","Metric tons, gross weight",
+RUS,mining__copper_smelter_primary,2017,730000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, blister, Primary","Metric tons, gross weight",
+RUS,mining__copper_smelter_primary,2018,789000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, blister, Primary","Metric tons, gross weight",
+RUS,mining__copper_smelter_primary,2019,801000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, blister, Primary","Metric tons, gross weight",
+RUS,mining__copper_smelter_primary,2020,815200.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, blister, Primary","Metric tons, gross weight",
+RUS,mining__copper_smelter_primary,2021,763100.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, blister, Primary","Metric tons, gross weight",r
+RUS,mining__copper_smelter_primary,2022,805000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, blister, Primary","Metric tons, gross weight",e
+TUR,mining__copper_smelter_primary,2012,35500.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Smelter production, Primary","Metric tons, gross weight",r
+TUR,mining__copper_smelter_primary,2013,35800.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Copper, Smelter production, Primary","Metric tons, gross weight",r
+TUR,mining__copper_smelter_primary,2014,40600.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2015,45400.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2016,46200.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2017,53400.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2018,85400.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2019,83700.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2020,78900.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2021,79000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+TUR,mining__copper_smelter_primary,2022,79000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Copper, Smelter, Primary","Metric tons, gross weight",
+ARG,mining__crude_steel_production,2012,4996000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2013,5188000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2014,5488000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2015,5028000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2016,4126000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2017,4624000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2018,5162000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2019,4645000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2020,3651000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__crude_steel_production,2021,4875000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2014,14249000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2015,14845000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Steel, raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2016,13616000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Steel, raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2017,14441000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2018,14320000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2019,13588000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2020,10998000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2021,14040000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw steel",thousand metric tons,
+ESP,mining__crude_steel_production,2022,11507000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw steel",thousand metric tons,
+IRN,mining__crude_steel_production,2014,16331000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Raw steel, ingots, and castings",thousand metric tons,r
+IRN,mining__crude_steel_production,2015,16146000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2016,17895000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2017,21236000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2018,24520000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2019,25609000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Steel, raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2020,28990000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Steel, raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2021,27901000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Steel, raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2022,30433000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Steel, raw steel, ingots and castings",thousand metric tons,
+IRN,mining__crude_steel_production,2023,32108000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Steel, raw steel, ingots and castings",thousand metric tons,
+ITA,mining__crude_steel_production,2014,23714000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Raw steel",thousand metric tons,
+ITA,mining__crude_steel_production,2015,22018000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel",thousand metric tons,
+ITA,mining__crude_steel_production,2016,23373000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel",thousand metric tons,
+ITA,mining__crude_steel_production,2017,24068000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel",thousand metric tons,
+ITA,mining__crude_steel_production,2018,24496000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw",thousand metric tons,
+ITA,mining__crude_steel_production,2019,23190000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw",thousand metric tons,
+ITA,mining__crude_steel_production,2020,20379000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw",thousand metric tons,
+ITA,mining__crude_steel_production,2021,24400000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw",thousand metric tons,
+ITA,mining__crude_steel_production,2022,21598000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Steel, raw",thousand metric tons,
+KOR,mining__crude_steel_production,2014,71542000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Raw steel",thousand metric tons,
+KOR,mining__crude_steel_production,2015,69670000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Steel, Raw steel",thousand metric tons,
+KOR,mining__crude_steel_production,2016,68575000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Steel, Raw steel",thousand metric tons,
+KOR,mining__crude_steel_production,2017,71030000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Steel, Raw steel",thousand metric tons,
+KOR,mining__crude_steel_production,2018,72463000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Steel, Raw steel",thousand metric tons,
+KOR,mining__crude_steel_production,2019,71411000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Steel, Raw steel",thousand metric tons,r
+KOR,mining__crude_steel_production,2020,67098000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Steel, Raw steel",thousand metric tons,
+KOR,mining__crude_steel_production,2021,70556000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2014,70548000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2015,69422000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2016,70808000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2017,71300000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2018,71682000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2019,71729000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2020,71621000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2021,75585000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Steel, Raw steel",thousand metric tons,
+RUS,mining__crude_steel_production,2022,71746000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Steel, Raw steel",thousand metric tons,
+SAU,mining__crude_steel_production,2014,6291000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Steel, raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2015,5229000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Steel, raw steel","Thousand metric tons, gross weight",e
+SAU,mining__crude_steel_production,2016,5461000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Steel, raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2017,4831000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2018,8187000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2019,8191000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2020,7775000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2021,8735000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2022,9860000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Raw steel","Thousand metric tons, gross weight",
+SAU,mining__crude_steel_production,2023,9940000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Raw steel","Thousand metric tons, gross weight",
+TUR,mining__crude_steel_production,2012,35885.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Raw steel, including castings","Metric tons, gross weight",
+TUR,mining__crude_steel_production,2013,34654.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Raw steel, including castings","Metric tons, gross weight",
+TUR,mining__crude_steel_production,2014,34035000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2015,31517000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2016,33163000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2017,37524000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2018,37312000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2019,33743000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2020,35810000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2021,40360000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel, including castings",thousand metric tons,
+TUR,mining__crude_steel_production,2022,35134000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel, including castings",thousand metric tons,
+VEN,mining__crude_steel_production,2014,1485000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Steel, raw",thousand metric tons,
+VEN,mining__crude_steel_production,2015,1345000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel",thousand metric tons,
+VEN,mining__crude_steel_production,2016,553000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Raw steel",thousand metric tons,
+VEN,mining__crude_steel_production,2017,444000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Raw steel",thousand metric tons,
+VEN,mining__crude_steel_production,2018,129000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel",thousand metric tons,
+VEN,mining__crude_steel_production,2019,50000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel",thousand metric tons,
+VEN,mining__crude_steel_production,2020,29000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel",thousand metric tons,
+VEN,mining__crude_steel_production,2021,29000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel",thousand metric tons,
+VEN,mining__crude_steel_production,2022,27000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Raw steel",thousand metric tons,
+ARG,mining__gypsum_production,2012,1432.517,metric tons,usgs-minerals-yearbook/MYB3-2016,"Gypsum, crude",kilograms,
+ARG,mining__gypsum_production,2013,1585.942,metric tons,usgs-minerals-yearbook/MYB3-2016,"Gypsum, crude",kilograms,r
+ARG,mining__gypsum_production,2014,1560960.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Gypsum, mine","Metric tons, gross weight",
+ARG,mining__gypsum_production,2015,1314655.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine","Metric tons, gross weight",
+ARG,mining__gypsum_production,2016,1558390.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine","Metric tons, gross weight",
+ARG,mining__gypsum_production,2017,1275608.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine","Metric tons, gross weight",
+ARG,mining__gypsum_production,2018,897217.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine","Metric tons, gross weight",
+ARG,mining__gypsum_production,2019,761016.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine","Metric tons, gross weight",r
+ARG,mining__gypsum_production,2020,499092.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine","Metric tons, gross weight",
+ARG,mining__gypsum_production,2021,500000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine","Metric tons, gross weight",e
+ESP,mining__gypsum_production,2014,7000000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Gypsum, including anhydrite",thousand metric tons,
+ESP,mining__gypsum_production,2015,7404000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, including anhydrite",thousand metric tons,r
+ESP,mining__gypsum_production,2016,8936000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, including anhydrite",thousand metric tons,r
+ESP,mining__gypsum_production,2017,9545000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, including anhydrite",thousand metric tons,
+ESP,mining__gypsum_production,2018,10593000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, including anhydrite",thousand metric tons,
+ESP,mining__gypsum_production,2019,11279000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, including anhydrite",thousand metric tons,
+ESP,mining__gypsum_production,2020,13376000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, including anhydrite",thousand metric tons,
+ESP,mining__gypsum_production,2021,11000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, including anhydrite",thousand metric tons,r
+ESP,mining__gypsum_production,2022,11000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, including anhydrite",thousand metric tons,e
+IRN,mining__gypsum_production,2014,19550000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Gypsum,thousand metric tons,r
+IRN,mining__gypsum_production,2015,20000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Gypsum,thousand metric tons,
+IRN,mining__gypsum_production,2016,16377000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Gypsum,thousand metric tons,
+IRN,mining__gypsum_production,2017,13476000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine",thousand metric tons,r
+IRN,mining__gypsum_production,2018,13852000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+IRN,mining__gypsum_production,2019,16147000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine",thousand metric tons,
+IRN,mining__gypsum_production,2020,16000000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine",thousand metric tons,e
+IRN,mining__gypsum_production,2021,16000000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine",thousand metric tons,e
+IRN,mining__gypsum_production,2022,16000000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine",thousand metric tons,e
+IRN,mining__gypsum_production,2023,16000000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine",thousand metric tons,e
+IRQ,mining__gypsum_production,2014,1200000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Gypsume,"Thousand metric tons, gross weight",
+IRQ,mining__gypsum_production,2015,1000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Gypsume,"Thousand metric tons, gross weight",
+IRQ,mining__gypsum_production,2016,1000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Gypsume,"Thousand metric tons, gross weight",
+IRQ,mining__gypsum_production,2017,1000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Gypsume,"Thousand metric tons, gross weight",
+IRQ,mining__gypsum_production,2018,1000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, minee","Thousand metric tons, gross weight",
+IRQ,mining__gypsum_production,2019,1000000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",
+IRQ,mining__gypsum_production,2020,1000000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",r
+IRQ,mining__gypsum_production,2021,1100000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",e
+IRQ,mining__gypsum_production,2022,1100000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",e
+IRQ,mining__gypsum_production,2023,1100000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",e
+ITA,mining__gypsum_production,2014,5887000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Gypsum, mine",thousand metric tons,
+ITA,mining__gypsum_production,2015,572000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine",thousand metric tons,
+ITA,mining__gypsum_production,2016,617000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine",thousand metric tons,
+ITA,mining__gypsum_production,2017,469000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine",thousand metric tons,
+ITA,mining__gypsum_production,2018,189000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+ITA,mining__gypsum_production,2019,298000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+ITA,mining__gypsum_production,2020,164000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+ITA,mining__gypsum_production,2021,160000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,e
+ITA,mining__gypsum_production,2022,847000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2014,4419000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2015,4223000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2016,3996000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2017,3975000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2018,5487000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2019,4199000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2020,4063000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,
+RUS,mining__gypsum_production,2021,4100000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,e
+RUS,mining__gypsum_production,2022,4100000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine",thousand metric tons,e
+SAU,mining__gypsum_production,2014,1780000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Gypsum,"Thousand metric tons, gross weight",r
+SAU,mining__gypsum_production,2015,2780000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine","Thousand metric tons, gross weight",
+SAU,mining__gypsum_production,2016,3000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine","Thousand metric tons, gross weight",
+SAU,mining__gypsum_production,2017,3150000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine","Thousand metric tons, gross weight",
+SAU,mining__gypsum_production,2018,3307000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine","Thousand metric tons, gross weight",
+SAU,mining__gypsum_production,2019,3472000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",
+SAU,mining__gypsum_production,2020,3803000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",
+SAU,mining__gypsum_production,2021,3640000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",r
+SAU,mining__gypsum_production,2022,3822000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",r
+SAU,mining__gypsum_production,2023,3800000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Gypsum, mine","Thousand metric tons, gross weight",e
+TUR,mining__gypsum_production,2014,12600000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2015,8639000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2016,10124221.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2017,10223112.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2018,10896476.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2019,7489129.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2020,9280864.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2021,10620061.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine","Metric tons, gross weight",
+TUR,mining__gypsum_production,2022,10679212.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Gypsum, mine","Metric tons, gross weight",
+ARG,mining__iron_ore_production_gross_weight,2014,197000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron ore, mine, Gross weight",thousand metric tons,
+ARG,mining__iron_ore_production_gross_weight,2015,197000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+ARG,mining__iron_ore_production_gross_weight,2016,94000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+ARG,mining__iron_ore_production_gross_weight,2017,3401000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,r
+ARG,mining__iron_ore_production_gross_weight,2018,3794000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,r
+ARG,mining__iron_ore_production_gross_weight,2019,3051000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,r
+ARG,mining__iron_ore_production_gross_weight,2020,2456000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+ARG,mining__iron_ore_production_gross_weight,2021,3551000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2014,51544000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron ore, mine, Gross weight",thousand metric tons,r
+IRN,mining__iron_ore_production_gross_weight,2015,48427000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2016,45890000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2017,33967000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2018,68091000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, Gross weight",thousand metric tons,r
+IRN,mining__iron_ore_production_gross_weight,2019,64275000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2020,77973000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2021,82717000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2022,78326000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron ore, mine, Gross weight",thousand metric tons,
+IRN,mining__iron_ore_production_gross_weight,2023,87860000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2014,693000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2015,445000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2016,445000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2017,311000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2018,383000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2019,342000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2020,575000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+KOR,mining__iron_ore_production_gross_weight,2021,539000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+RUS,mining__iron_ore_production_gross_weight,2014,102018500.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron ore, mine, concentrate, Gross weight","Metric tons, gross weight",
+RUS,mining__iron_ore_production_gross_weight,2015,101049000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, concentrate, Gross weight","Metric tons, gross weight",
+RUS,mining__iron_ore_production_gross_weight,2016,101097000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, concentrate, Gross weight","Metric tons, gross weight",
+RUS,mining__iron_ore_production_gross_weight,2017,95042000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, concentrate, Gross weight",thousand metric tons,
+RUS,mining__iron_ore_production_gross_weight,2018,96063000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, concentrates, Gross weight","Metric tons, gross weight",
+RUS,mining__iron_ore_production_gross_weight,2019,97531000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, concentrates, Gross weight","Metric tons, gross weight",
+RUS,mining__iron_ore_production_gross_weight,2020,100015000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, concentrates, Gross weight","Metric tons, gross weight",
+RUS,mining__iron_ore_production_gross_weight,2021,100600000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, concentrates, Gross weight","Metric tons, gross weight",
+RUS,mining__iron_ore_production_gross_weight,2022,95100000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, concentrates, Gross weight","Metric tons, gross weight",
+TUR,mining__iron_ore_production_gross_weight,2012,6557.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron ore, mine production, Gross weight","Metric tons, gross weight",
+TUR,mining__iron_ore_production_gross_weight,2013,8492.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron ore, mine production, Gross weight","Metric tons, gross weight",
+TUR,mining__iron_ore_production_gross_weight,2014,11887000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron ore, mine, Gross weight",thousand metric tons,r
+TUR,mining__iron_ore_production_gross_weight,2015,7761000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+TUR,mining__iron_ore_production_gross_weight,2016,7137000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, mine, Gross weight",thousand metric tons,
+TUR,mining__iron_ore_production_gross_weight,2017,9992000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, mine, Gross weight",thousand metric tons,
+TUR,mining__iron_ore_production_gross_weight,2018,15650000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, Gross weight",thousand metric tons,
+TUR,mining__iron_ore_production_gross_weight,2019,16382000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, Gross weight",thousand metric tons,
+TUR,mining__iron_ore_production_gross_weight,2020,21455000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, Gross weight",thousand metric tons,
+TUR,mining__iron_ore_production_gross_weight,2021,16051000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, Gross weight",thousand metric tons,
+TUR,mining__iron_ore_production_gross_weight,2022,19954000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, mine, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2014,11256000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2015,11716000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2016,12000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2017,4005000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2018,2474000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2019,1096000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2020,780000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2021,2257000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, Gross weight",thousand metric tons,
+VEN,mining__iron_ore_production_gross_weight,2022,2250000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron ore, Gross weight",thousand metric tons,e
+ARG,mining__lead_mine_production_pb_content,2012,26475.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2013,28673.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2014,29911.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2015,29834.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2016,28016.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2017,40135.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2018,28260.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2019,42957.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",r
+ARG,mining__lead_mine_production_pb_content,2020,23008.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+ARG,mining__lead_mine_production_pb_content,2021,17098.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+ESP,mining__lead_mine_production_pb_content,2014,1223.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Mine, concentrate, Pb content","Metric tons, gross weight",r
+ESP,mining__lead_mine_production_pb_content,2015,1598.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, concentrate, Pb content","Metric tons, gross weight",r
+ESP,mining__lead_mine_production_pb_content,2016,4946.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, concentrate, Pb content","Metric tons, gross weight",
+ESP,mining__lead_mine_production_pb_content,2017,3268.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, concentrate, Pb content","Metric tons, gross weight",
+ESP,mining__lead_mine_production_pb_content,2018,9936.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Pb content","Metric tons, gross weight",
+ESP,mining__lead_mine_production_pb_content,2019,11390.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Pb content","Metric tons, gross weight",
+ESP,mining__lead_mine_production_pb_content,2020,11397.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Pb content","Metric tons, gross weight",
+ESP,mining__lead_mine_production_pb_content,2021,11000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Pb content","Metric tons, gross weight",
+ESP,mining__lead_mine_production_pb_content,2022,9000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Pb content","Metric tons, gross weight",
+IRN,mining__lead_mine_production_pb_content,2014,44000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Pb content","Metric tons, gross weight",
+IRN,mining__lead_mine_production_pb_content,2015,40800.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Pb content","Metric tons, gross weight",
+IRN,mining__lead_mine_production_pb_content,2016,47000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Pb content","Metric tons, gross weight",r
+IRN,mining__lead_mine_production_pb_content,2017,48000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Pb content","Metric tons, gross weight",
+IRN,mining__lead_mine_production_pb_content,2018,48000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Pb content","Metric tons, gross weight",
+IRN,mining__lead_mine_production_pb_content,2019,52000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Lead, Pb content","Metric tons, gross weight",r
+IRN,mining__lead_mine_production_pb_content,2020,52000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Lead, Pb content","Metric tons, gross weight",
+IRN,mining__lead_mine_production_pb_content,2021,58000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Lead, Pb content","Metric tons, gross weight",r
+IRN,mining__lead_mine_production_pb_content,2022,58000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Lead, Pb content","Metric tons, gross weight",r
+IRN,mining__lead_mine_production_pb_content,2023,60000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Lead, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2014,2764.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Mine, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2015,2921.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2016,2839.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2017,3762.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2018,2341.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2019,1933.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2020,1681.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+KOR,mining__lead_mine_production_pb_content,2021,1528.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2014,239000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2015,171200.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2016,204300.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2017,210800.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2018,206100.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2019,207900.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2020,200700.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+RUS,mining__lead_mine_production_pb_content,2021,212300.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",r
+RUS,mining__lead_mine_production_pb_content,2022,210000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, recoverable, Pb content","Metric tons, gross weight",
+TUR,mining__lead_mine_production_pb_content,2012,47350.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Lead, Mine production, Concentrate, Pb content","Metric tons, gross weight",
+TUR,mining__lead_mine_production_pb_content,2013,65630.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Lead, Mine production, Concentrate, Pb content","Metric tons, gross weight",
+TUR,mining__lead_mine_production_pb_content,2014,65000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Lead, Mine, Pb contente","Metric tons, gross weight","r, e"
+TUR,mining__lead_mine_production_pb_content,2015,74000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",e
+TUR,mining__lead_mine_production_pb_content,2016,76827.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",
+TUR,mining__lead_mine_production_pb_content,2017,92539.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",
+TUR,mining__lead_mine_production_pb_content,2018,76000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",e
+TUR,mining__lead_mine_production_pb_content,2019,71000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",e
+TUR,mining__lead_mine_production_pb_content,2020,75000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",
+TUR,mining__lead_mine_production_pb_content,2021,86000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",
+TUR,mining__lead_mine_production_pb_content,2022,67000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Lead, Mine, Concentrate, Pb content","Metric tons, gross weight",
+IRN,mining__manganese_ore_production_gross_weight,2018,129000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Manganese, mine, concentrate, Gross weight","Metric tons, gross weight",e
+IRN,mining__manganese_ore_production_gross_weight,2019,131000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Manganese, mine, Gross weight","Metric tons, gross weight",e
+IRN,mining__manganese_ore_production_gross_weight,2020,25000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Manganese, mine, Gross weight","Metric tons, gross weight",
+IRN,mining__manganese_ore_production_gross_weight,2021,106000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Manganese, mine, Gross weight","Metric tons, gross weight",
+IRN,mining__manganese_ore_production_gross_weight,2022,77000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Manganese, mine, Gross weight","Metric tons, gross weight",
+IRN,mining__manganese_ore_production_gross_weight,2023,193000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Manganese, mine, Gross weight","Metric tons, gross weight",
+RUS,mining__manganese_ore_production_gross_weight,2015,9000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Manganese, mine, concentrate, marketable, Gross weight","Metric tons, gross weight",
+RUS,mining__manganese_ore_production_gross_weight,2017,1000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Manganese, mine, concentrate, marketable, Gross weight","Metric tons, gross weight",
+RUS,mining__manganese_ore_production_gross_weight,2018,57000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Manganese, mine, concentrate, marketable, Gross weight","Metric tons, gross weight",
+RUS,mining__manganese_ore_production_gross_weight,2019,57000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Manganese, mine, concentrate, marketable, Gross weight","Metric tons, gross weight",e
+TUR,mining__manganese_ore_production_gross_weight,2012,192756.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Manganese, mine production, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2013,321785.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Manganese, mine production, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2014,245830.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Manganese, mine, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2015,142809.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Manganese, mine, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2016,150000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Manganese, mine, Gross weight","Metric tons, gross weight",e
+TUR,mining__manganese_ore_production_gross_weight,2017,39780.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Manganese, mine, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2018,40800.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Manganese, mine, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2019,45000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Manganese, mine, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2020,40000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Manganese, mine, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2021,41000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Manganese, mine, Gross weight","Metric tons, gross weight",
+TUR,mining__manganese_ore_production_gross_weight,2022,45000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Manganese, mine, Gross weight","Metric tons, gross weight",
+ARG,mining__pig_iron_production,2012,2073000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2013,2650000.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2014,2766000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2015,2685000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2016,2141000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2017,2171000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2018,2184000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2019,1964000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2020,1930000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__pig_iron_production,2021,2142000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2014,3958000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2015,4450000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2016,4116000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,r
+ESP,mining__pig_iron_production,2017,4462000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2018,4521000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2019,3880000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2020,2850000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2021,4049000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ESP,mining__pig_iron_production,2022,3399000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2014,2782000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2015,2459000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2016,2251000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2017,2293000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2018,2362000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2019,2530000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2020,2466000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Pig iron",thousand metric tons,
+IRN,mining__pig_iron_production,2021,3200000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Pig iron",thousand metric tons,r
+IRN,mining__pig_iron_production,2022,3500000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Pig iron",thousand metric tons,"r, e"
+IRN,mining__pig_iron_production,2023,3540000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Iron and steel, Pig iron",thousand metric tons,e
+ITA,mining__pig_iron_production,2014,6371000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2015,5051000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2016,6048000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2017,5052000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2018,4836000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2019,4607000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2020,3405000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2021,3925000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ITA,mining__pig_iron_production,2022,3464000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+KOR,mining__pig_iron_production,2014,46909000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Pig iron",thousand metric tons,
+KOR,mining__pig_iron_production,2015,47639000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+KOR,mining__pig_iron_production,2016,46336000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+KOR,mining__pig_iron_production,2017,47071000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+KOR,mining__pig_iron_production,2018,47124000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+KOR,mining__pig_iron_production,2019,47521000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,r
+KOR,mining__pig_iron_production,2020,45360000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+KOR,mining__pig_iron_production,2021,46441000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+RUS,mining__pig_iron_production,2014,51460000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Pig iron","Metric tons, gross weight",
+RUS,mining__pig_iron_production,2015,52411000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron","Metric tons, gross weight",
+RUS,mining__pig_iron_production,2016,51874000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron","Metric tons, gross weight",
+RUS,mining__pig_iron_production,2017,52127000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+RUS,mining__pig_iron_production,2018,51797000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron","Metric tons, gross weight",
+RUS,mining__pig_iron_production,2019,51184000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron","Metric tons, gross weight",
+RUS,mining__pig_iron_production,2020,52003000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron","Metric tons, gross weight",
+RUS,mining__pig_iron_production,2021,53785000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron","Metric tons, gross weight",
+RUS,mining__pig_iron_production,2022,51586000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron","Metric tons, gross weight",
+TUR,mining__pig_iron_production,2012,8613.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Pig iron","Metric tons, gross weight",
+TUR,mining__pig_iron_production,2013,9180.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Iron and steel, Pig iron","Metric tons, gross weight",
+TUR,mining__pig_iron_production,2014,9364000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2015,10184000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2016,10304000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2017,10589000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2018,10536000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2019,9869000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2020,9971000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2021,10449000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+TUR,mining__pig_iron_production,2022,9067000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Iron and steel, Pig iron",thousand metric tons,
+ARG,mining__salt_production,2012,1843975.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Salt, common","Metric tons, gross weight",
+ARG,mining__salt_production,2013,1669323.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Salt, common","Metric tons, gross weight",r
+ARG,mining__salt_production,2014,1537478.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Salt, common","Metric tons, gross weight",
+ARG,mining__salt_production,2015,1400762.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Salt, common","Metric tons, gross weight",
+ARG,mining__salt_production,2016,1812191.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Salt, common","Metric tons, gross weight",
+ARG,mining__salt_production,2017,1461065.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Salt, common","Metric tons, gross weight",
+ARG,mining__salt_production,2018,1405893.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Salt, common","Metric tons, gross weight",
+ARG,mining__salt_production,2019,1412251.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Salt, common","Metric tons, gross weight",r
+ARG,mining__salt_production,2020,1256963.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Salt, common","Metric tons, gross weight",
+ARG,mining__salt_production,2021,1300000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Salt, common","Metric tons, gross weight",e
+IRN,mining__salt_production,2014,3940000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Salt,thousand metric tons,
+IRN,mining__salt_production,2015,4450000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Salt,thousand metric tons,
+IRN,mining__salt_production,2016,3000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Salt,thousand metric tons,e
+IRN,mining__salt_production,2017,2800000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Salt,thousand metric tons,e
+IRN,mining__salt_production,2018,2800000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Salt,thousand metric tons,e
+IRN,mining__salt_production,2019,2700000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,thousand metric tons,
+IRN,mining__salt_production,2020,3200000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,thousand metric tons,e
+IRN,mining__salt_production,2021,2700000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,thousand metric tons,e
+IRN,mining__salt_production,2022,2700000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,thousand metric tons,e
+IRN,mining__salt_production,2023,2700000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,thousand metric tons,e
+IRQ,mining__salt_production,2014,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Salt,"Thousand metric tons, gross weight",
+IRQ,mining__salt_production,2015,209000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Salt,"Thousand metric tons, gross weight",
+IRQ,mining__salt_production,2016,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Salt,"Thousand metric tons, gross weight",e
+IRQ,mining__salt_production,2017,240000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Salte,"Thousand metric tons, gross weight",
+IRQ,mining__salt_production,2018,272000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Salt,"Thousand metric tons, gross weight",r
+IRQ,mining__salt_production,2019,270000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",
+IRQ,mining__salt_production,2020,300000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",
+IRQ,mining__salt_production,2021,300000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",
+IRQ,mining__salt_production,2022,400000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",e
+IRQ,mining__salt_production,2023,400000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",
+RUS,mining__salt_production,2014,5600000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2015,5600000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2016,6887000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2017,7073000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2018,6710000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2019,8175000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2020,6026000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2021,8242000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+RUS,mining__salt_production,2022,8186000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+SAU,mining__salt_production,2014,1990000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2015,2000000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2016,2400000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2017,2520000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2018,2646000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2019,2778000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2020,2220000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2021,2331000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",
+SAU,mining__salt_production,2022,2342000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",r
+SAU,mining__salt_production,2023,2500000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,Salt,"Thousand metric tons, gross weight",e
+TUR,mining__salt_production,2012,5378.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Salt, all types","Metric tons, gross weight",
+TUR,mining__salt_production,2013,5614.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Salt, all types","Metric tons, gross weight",
+TUR,mining__salt_production,2014,5331000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2015,6257000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2016,5328000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2017,6673000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2018,6299000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2019,6961000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2020,7698000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2021,7844000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+TUR,mining__salt_production,2022,9086000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Salt, all types",thousand metric tons,
+ARG,mining__zinc_mine_production_zn_content,2012,39602.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2013,39424.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2014,28038.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2015,30498.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2016,22792.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2017,23392.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2018,22050.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2019,19462.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, mine, Zn content","Metric tons, gross weight",r
+ARG,mining__zinc_mine_production_zn_content,2020,11320.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, mine, Zn content","Metric tons, gross weight",
+ARG,mining__zinc_mine_production_zn_content,2021,6188.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, mine, Zn content","Metric tons, gross weight",
+ESP,mining__zinc_mine_production_zn_content,2014,26756.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ESP,mining__zinc_mine_production_zn_content,2015,49216.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",r
+ESP,mining__zinc_mine_production_zn_content,2016,76342.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ESP,mining__zinc_mine_production_zn_content,2017,70451.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ESP,mining__zinc_mine_production_zn_content,2018,106352.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ESP,mining__zinc_mine_production_zn_content,2019,90980.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ESP,mining__zinc_mine_production_zn_content,2020,90368.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",
+ESP,mining__zinc_mine_production_zn_content,2021,90481.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",r
+ESP,mining__zinc_mine_production_zn_content,2022,90000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",e
+IRN,mining__zinc_mine_production_zn_content,2014,139000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Zinc, Mine, concentrate, Zn content","Metric tons, gross weight",
+IRN,mining__zinc_mine_production_zn_content,2015,124000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, concentrate, Zn content","Metric tons, gross weight",
+IRN,mining__zinc_mine_production_zn_content,2016,135000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, concentrate, Zn content","Metric tons, gross weight",
+IRN,mining__zinc_mine_production_zn_content,2017,140000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, concentrate, Zn content","Metric tons, gross weight",e
+IRN,mining__zinc_mine_production_zn_content,2018,145000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, concentrate, Zn content","Metric tons, gross weight",r
+IRN,mining__zinc_mine_production_zn_content,2019,150000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, Zn content","Metric tons, gross weight",
+IRN,mining__zinc_mine_production_zn_content,2020,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, Zn content","Metric tons, gross weight",r
+IRN,mining__zinc_mine_production_zn_content,2021,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, Zn content","Metric tons, gross weight",r
+IRN,mining__zinc_mine_production_zn_content,2022,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, Zn content","Metric tons, gross weight",r
+IRN,mining__zinc_mine_production_zn_content,2023,200000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2014,1918.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Zinc, Mine, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2015,2070.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2016,2257.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2017,3321.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, Mine, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2018,3656.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, Mine, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2019,4106.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, Mine, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2020,4300.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, Mine, Zn content","Metric tons, gross weight",
+KOR,mining__zinc_mine_production_zn_content,2021,4371.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, Mine, Zn content","Metric tons, gross weight",
+RUS,mining__zinc_mine_production_zn_content,2014,229000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Zinc, Mine, Zn content","Metric tons, gross weight",r
+RUS,mining__zinc_mine_production_zn_content,2015,246100.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",
+RUS,mining__zinc_mine_production_zn_content,2016,245800.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, Mine, Zn content","Metric tons, gross weight",
+RUS,mining__zinc_mine_production_zn_content,2017,255200.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, Mine, Zn content","Metric tons, gross weight",
+RUS,mining__zinc_mine_production_zn_content,2018,288000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",
+RUS,mining__zinc_mine_production_zn_content,2019,275400.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",
+RUS,mining__zinc_mine_production_zn_content,2020,260700.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",
+RUS,mining__zinc_mine_production_zn_content,2021,287900.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",r
+RUS,mining__zinc_mine_production_zn_content,2022,300000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, Mine, Zn content","Metric tons, gross weight",e
+SAU,mining__zinc_mine_production_zn_content,2014,17350.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Zinc, mine, concentrate, Zn content",metric tons,r
+SAU,mining__zinc_mine_production_zn_content,2015,18757.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, mine, concentrate, Zn content",metric tons,
+SAU,mining__zinc_mine_production_zn_content,2016,2550.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, mine, concentrate, Zn content",metric tons,
+SAU,mining__zinc_mine_production_zn_content,2017,21800.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, mine, concentrate, Zn content",metric tons,
+SAU,mining__zinc_mine_production_zn_content,2018,24000000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, mine, concentrate, Zn content","Thousand metric tons, gross weight",
+SAU,mining__zinc_mine_production_zn_content,2019,30000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, mine, concentrate, Zn content",metric tons,
+SAU,mining__zinc_mine_production_zn_content,2020,25400.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, mine, concentrate, Zn content",metric tons,
+SAU,mining__zinc_mine_production_zn_content,2021,23000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, mine, concentrate, Zn content",metric tons,r
+SAU,mining__zinc_mine_production_zn_content,2022,25500.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, mine, concentrate, Zn content",metric tons,r
+SAU,mining__zinc_mine_production_zn_content,2023,26000.0,metric tons,usgs-minerals-yearbook/MYB3-2023,"Zinc, mine, concentrate, Zn content",metric tons,e
+TUR,mining__zinc_mine_production_zn_content,2012,209.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Zinc, mine production, Zn content","Metric tons, gross weight",
+TUR,mining__zinc_mine_production_zn_content,2013,200.0,metric tons,usgs-minerals-yearbook/MYB3-2016,"Zinc, mine production, Zn content","Metric tons, gross weight",
+TUR,mining__zinc_mine_production_zn_content,2014,212000.0,metric tons,usgs-minerals-yearbook/MYB3-2017-18,"Zinc, mine, concentrate, Zn content",thousand metric tons,e
+TUR,mining__zinc_mine_production_zn_content,2015,174000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, mine, concentrate, Zn content",thousand metric tons,e
+TUR,mining__zinc_mine_production_zn_content,2016,202000.0,metric tons,usgs-minerals-yearbook/MYB3-2019,"Zinc, mine, concentrate, Zn content",thousand metric tons,
+TUR,mining__zinc_mine_production_zn_content,2017,150000.0,metric tons,usgs-minerals-yearbook/MYB3-2020-21,"Zinc, mine, concentrate, Zn contente",thousand metric tons,
+TUR,mining__zinc_mine_production_zn_content,2018,190000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, mine, concentrate, Zn content",thousand metric tons,e
+TUR,mining__zinc_mine_production_zn_content,2019,150000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, mine, concentrate, Zn content",thousand metric tons,e
+TUR,mining__zinc_mine_production_zn_content,2020,130000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, mine, concentrate, Zn content",thousand metric tons,e
+TUR,mining__zinc_mine_production_zn_content,2021,176000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, mine, concentrate, Zn content",thousand metric tons,r
+TUR,mining__zinc_mine_production_zn_content,2022,186000.0,metric tons,usgs-minerals-yearbook/MYB3-2022,"Zinc, mine, concentrate, Zn content",thousand metric tons,

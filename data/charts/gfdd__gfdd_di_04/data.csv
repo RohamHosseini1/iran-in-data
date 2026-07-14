@@ -1,57 +1,520 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-IRN,Iran,1961,75.8632,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1962,69.8563,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1963,71.3204,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1964,69.9673,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1965,68.6814,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1966,68.3029,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1967,66.1377,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1968,66.7243,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1969,65.3762,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1970,60.3783,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1971,60.5351,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1972,65.5916,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1973,65.8638,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1974,81.9935,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1975,85.0483,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1976,92.6514,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1977,89.94,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1978,89.94,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1979,81.5309,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1980,60.4539,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1981,46.852,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1982,42.5241,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1983,49.2389,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1984,49.2389,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1985,49.2389,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1986,43.487,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1987,40.1617,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1988,36.8196,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1989,38.6499,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1990,44.008,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1991,48.4273,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1992,55.139,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1993,59.3535,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1994,50.5248,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1995,51.5695,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1996,50.2377,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1997,56.0686,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1998,54.0527,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,1999,60.1546,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2000,74.0789,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2001,78.0653,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2002,75.2364,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2003,79.4537,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2004,84.9059,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2005,88.7031,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2006,91.2149,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2007,93.8012,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2008,94.832,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2009,95.9199,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2010,94.6321,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2011,96.023,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2012,96.1343,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2013,97.0048,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2014,97.2976,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2015,96.7636,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
-IRN,Iran,2016,96.617,percent,GFDD.DI.04,Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,worldbank-gfdd-via-fred
+ARG,Argentina,1960,63.88889,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1961,68.67088,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1962,66.30137,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1963,64.05229,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1964,62.78714,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1965,63.93245,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1966,62.98293,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1967,65.76126,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1968,70.6109,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1969,74.76636,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1970,75.44554,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1971,77.5,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1972,77.41935,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1973,75.39682,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1974,71.72775,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1975,67.27605,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1976,75.42591,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1977,79.60012,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1978,83.74387,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1979,92.12978,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1980,88.77007,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1981,85.50426,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1982,86.43028,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1983,68.7775,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1984,74.45351,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1985,61.55791,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1986,62.88473,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1987,57.19849,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1988,62.57414,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1989,82.42445,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1990,76.00864,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1991,74.85148,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1992,82.73595,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1993,82.59678,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1994,88.1969,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1995,88.64128,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1996,89.79807,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1997,91.39813,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1998,92.8978,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1999,93.81606,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2000,92.66087,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2001,80.35063,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2002,71.17622,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2003,68.30187,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2004,69.5024,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2005,74.39522,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2006,75.67504,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2007,77.11217,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2008,76.12947,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2009,73.02737,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2010,71.66055,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2011,68.78857,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2012,63.55997,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2013,59.4109,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2014,57.5713,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2015,52.80787,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2016,55.11782,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2017,59.13359,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1960,68.08182,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1961,70.41049,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1962,71.88406,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1963,73.14922,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1964,71.3385,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1965,73.786,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1966,71.77229,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1967,69.93161,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1968,71.23288,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1969,71.06559,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1970,72.80873,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1971,78.66139,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1972,95.9271,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1973,96.68184,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1974,94.42601,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1975,94.03871,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1976,94.32619,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1977,93.38509,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1978,92.78441,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1979,91.55938,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1980,90.34792,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1981,88.81152,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1982,86.8736,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1983,83.78358,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1984,88.9419,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1985,88.43919,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1986,91.95926,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1987,92.03662,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1988,92.9117,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1989,94.65421,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1990,95.68852,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1991,95.12228,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1992,97.07707,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1994,95.95413,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1995,96.09449,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1996,96.37327,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1997,96.69746,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1998,96.97764,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2001,98.28447,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2002,98.42,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2003,98.39896,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2004,98.47308,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2005,98.70653,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2006,99.06248,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2007,99.22781,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2008,99.18195,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2009,99.05585,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2010,98.92107,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2011,98.48427,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2012,98.31335,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2013,98.17107,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2014,97.93,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2015,95.00534,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2016,90.20393,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2017,86.25003,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2018,84.52419,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2019,84.51633,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2020,80.45364,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2021,76.15401,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1961,75.86316,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1962,69.85632,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1963,71.32041,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1964,69.96727,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1965,68.68142,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1966,68.30293,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1967,66.13773,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1968,66.7243,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1969,65.37618,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1970,60.37825,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1971,60.53511,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1972,65.59162,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1973,65.86382,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1974,81.99351,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1975,85.04827,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1976,92.65141,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1977,89.93997,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1979,81.53087,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1980,60.45393,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1981,46.85204,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1982,42.52405,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1983,49.23893,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1986,43.48697,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1987,40.16173,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1988,36.81964,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1989,38.64989,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1990,44.00802,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1991,48.42734,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1992,55.13903,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1993,59.35349,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1994,50.5248,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1995,51.56952,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1996,50.23767,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1997,56.06855,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1998,54.0527,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1999,60.15456,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2000,74.07891,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2001,78.06528,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2002,75.23642,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2003,79.45369,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2004,84.9059,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2005,88.70312,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2006,91.21494,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2007,93.80124,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2008,94.83205,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2009,95.91993,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2010,94.63208,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2011,96.02296,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2012,96.13426,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2013,97.00483,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2014,97.2976,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2015,96.76356,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2016,96.61697,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1960,68.02646,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1961,61.63114,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1962,55.4945,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1963,62.5,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1964,54.2735,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1968,68.29259,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1969,66.46347,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1970,62.48954,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1971,68.90433,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1972,71.34826,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1973,81.06155,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1974,84.72085,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1975,86.64026,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1976,92.91975,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2004,22.26825,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2005,31.9372,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2006,43.4988,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2007,51.89468,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2008,64.58532,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2009,68.26001,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2010,79.33561,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2011,87.04797,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2012,91.02171,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2013,92.14793,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2014,93.99419,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2015,84.02988,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2016,70.28749,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2017,72.28081,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2018,73.52382,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2019,76.71047,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2020,56.9308,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2021,55.34668,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1963,91.81381,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1964,91.96734,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1965,91.25632,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1966,93.12827,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1967,94.89336,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1968,95.0024,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1969,96.13474,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1970,93.20378,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1971,94.1407,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1972,93.88747,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1973,93.58336,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1974,82.85606,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1975,81.26709,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1976,78.81876,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1977,83.73177,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1978,84.04112,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1979,85.66219,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1980,84.22469,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1981,82.9824,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1982,83.15242,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1983,84.15502,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1984,84.83057,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1985,83.36211,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1986,83.49171,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1987,83.07078,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1988,84.2208,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1989,85.75568,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1990,87.29253,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1991,89.07185,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1992,88.91977,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1993,88.72752,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1994,87.83554,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1995,87.881,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1996,89.89481,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1997,89.77052,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1998,91.17426,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2001,93.57073,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2002,95.66901,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2003,95.22144,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2004,94.82542,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2005,94.66906,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2006,94.96537,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2007,96.1114,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2008,96.46008,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2009,96.31368,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2010,96.53104,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2011,95.98164,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2012,95.32596,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2013,95.06961,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2014,94.50266,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2015,91.34827,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2016,86.84013,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2017,82.48066,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2018,81.86433,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2019,80.55035,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2020,75.51385,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2021,72.84785,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1960,30.39572,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1961,49.91561,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1962,52.81919,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1963,55.87512,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1964,58.54546,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1965,59.34676,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1966,65.20828,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1967,76.67069,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1968,86.53524,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1969,90.04916,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1970,91.91879,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1971,93.85519,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1972,86.74984,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1973,88.44411,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1974,86.8717,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1975,81.91373,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1976,83.21873,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1977,83.71807,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1978,85.7364,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1979,89.39125,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1980,92.08573,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1981,91.11359,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1982,91.94672,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1983,91.96416,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1984,93.02902,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1985,93.98763,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1986,94.73631,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1987,95.18638,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1988,94.96528,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1989,96.0033,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1990,97.25935,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1991,97.50159,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1992,97.87906,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1993,97.90316,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1994,98.25596,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1995,98.79903,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1996,98.95752,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1997,97.44063,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1998,95.80887,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1999,97.89246,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2000,98.50318,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2001,98.59366,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2002,98.88786,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2003,98.97349,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2004,99.3916,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2005,99.10635,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2006,98.92302,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2007,98.7522,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2008,98.8424,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2009,98.76901,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2010,98.7335,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2011,98.80247,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2012,98.42911,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2013,98.99679,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2014,98.97115,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2015,99.17084,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2016,99.30843,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2017,99.32404,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2018,99.30785,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2019,99.35988,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2020,99.09432,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2021,99.08968,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2001,81.66323,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2002,83.34638,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2003,88.52852,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2004,92.22107,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2005,95.89277,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2006,97.41078,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2007,97.47704,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2008,98.09519,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2009,98.16235,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2010,98.44328,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2011,98.82348,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2012,98.88878,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2013,99.0699,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2014,99.22601,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2015,98.99783,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2016,99.39647,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2017,99.59271,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2018,99.69974,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2019,99.50153,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2020,99.6022,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2021,99.70559,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1960,79.19321,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1961,67.44186,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1962,70.03817,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1963,69.39457,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1964,70.86344,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1965,72.21129,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1966,73.75478,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1967,74.58161,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1968,76.88926,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1969,77.94981,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1970,81.06762,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1971,77.61568,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1972,80.07745,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1973,83.22004,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1974,82.46266,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1975,79.35395,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1976,78.16372,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1977,70.90711,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1978,68.25716,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1979,63.3264,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1980,58.91042,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1981,62.03972,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1982,65.95258,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1983,68.6643,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1984,57.80967,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1985,60.18933,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1986,77.37171,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1987,82.9603,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1988,86.14642,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1989,90.9326,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1990,94.41058,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1991,90.06004,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1992,85.1932,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1993,82.90379,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1994,80.88836,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1995,79.41647,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1996,86.28939,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1997,91.89845,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1998,96.17391,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1999,97.85459,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2000,97.77213,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2001,74.39577,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2002,82.28368,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2003,86.42853,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2004,90.50607,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2005,93.95676,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2006,94.99966,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2007,96.14108,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2008,97.39839,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2009,98.243,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2010,98.67282,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2011,98.84735,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2012,98.93331,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2013,99.0725,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2014,99.17828,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2015,99.29443,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2016,99.11448,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2017,99.20204,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2018,99.29729,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2019,99.22942,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2020,97.93793,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2021,97.34333,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1960,91.77287,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1961,91.94571,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1962,92.19495,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1963,92.17013,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1964,92.22143,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1965,92.16495,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1966,92.01572,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1967,91.79704,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1968,91.90396,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1969,91.71544,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1970,91.7046,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1971,91.57706,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1972,92.47285,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1973,92.50864,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1974,92.92112,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1975,92.78557,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1976,92.98872,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1977,93.26571,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1978,93.49262,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1979,93.72447,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1980,93.96381,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1981,93.9613,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1982,93.89608,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1983,93.84448,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1984,94.25524,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1985,94.25065,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1986,94.07828,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1987,93.72026,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1988,93.68907,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1989,94.06071,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1990,93.86932,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1991,93.05173,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1992,92.42268,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1993,91.7699,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1994,91.37061,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1995,91.57375,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1996,91.77724,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1997,91.51826,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1998,91.59576,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1999,91.63035,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2000,91.72665,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2001,91.51775,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2002,90.78141,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2003,90.7459,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2004,90.84954,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2005,91.32962,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2006,91.66186,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2007,92.76603,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2008,95.50159,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2009,92.07595,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2010,89.9621,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2011,84.67224,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2012,85.29159,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2013,81.59375,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2014,80.82452,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2015,81.78303,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2016,82.88024,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2017,83.31174,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2018,85.24754,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2019,85.42486,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2020,76.75103,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1960,95.68746,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1961,94.57468,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1962,94.65914,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1963,89.32538,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1964,93.09394,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1965,93.80598,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1966,93.77614,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1967,93.9361,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1968,93.36729,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1969,93.17303,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1970,94.11108,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1971,96.11769,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1972,96.78593,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1973,97.33825,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1974,97.47262,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1975,97.12428,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1976,97.61266,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1977,96.88072,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1978,97.65513,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1979,95.7376,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1980,96.58587,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1981,97.34615,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1982,95.0489,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1983,97.37685,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1984,95.09113,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1985,96.93845,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1986,98.91384,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1987,96.74565,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1988,96.18467,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1989,86.01729,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1990,60.64516,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1991,70.81318,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1992,74.43275,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1993,74.50777,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1994,68.19112,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1995,67.56544,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1996,65.30508,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1997,84.68589,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1998,87.1108,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1999,88.20849,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2000,90.84565,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2001,92.67048,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2002,89.91618,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2003,93.7942,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2004,96.53671,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2005,94.90279,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2006,99.2154,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2007,97.20943,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2008,97.19414,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2009,97.89478,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2010,89.37844,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2011,76.85143,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2012,75.84548,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2013,69.07484,%,GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14

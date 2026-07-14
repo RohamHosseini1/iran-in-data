@@ -1,0 +1,67 @@
+{
+  "dataset_id": "usgs-minerals-yearbook-ven",
+  "title": "USGS Minerals Yearbook - The Mineral Industry of Venezuela (Volume III, Area Reports: International), tables-only releases",
+  "source_org": "U.S. Geological Survey, National Minerals Information Center",
+  "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/venezuela",
+  "download_url": "see per-file download_url in files[]",
+  "retrieved_at_utc": "2026-07-14T14:26:47Z",
+  "retrieved_by": "agent:comparator-mining-energy",
+  "files": [
+    {
+      "name": "myb3-2017-18-venezuela.xlsx",
+      "original_name": null,
+      "sha256": "f1d5ef8a361dad0e136ab2192d6138ecad7cb4e1b980bb07604fa970c31f1b8f",
+      "bytes": 100745,
+      "download_url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-venezuela.xlsx",
+      "year": "2017-18",
+      "type": "tables-only release (XLSX)"
+    },
+    {
+      "name": "myb3-2019-venezuela.xlsx",
+      "original_name": null,
+      "sha256": "58783ca37a887bac8a5decbb3b8c1d2f21907c026484709dd4f6d6505fcbdc1e",
+      "bytes": 102052,
+      "download_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-venezuela.xlsx",
+      "year": "2019",
+      "type": "tables-only release (XLSX)"
+    },
+    {
+      "name": "myb3-2020-21-venezuela.xlsx",
+      "original_name": null,
+      "sha256": "d0c47031a98fc3e114efc5baa237a01dfe772ac4b4e669856394a1cee0305221",
+      "bytes": 93554,
+      "download_url": "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-venezuela.xlsx",
+      "year": "2020-21",
+      "type": "tables-only release (XLSX)"
+    },
+    {
+      "name": "myb3-2022-venezuela.xlsx",
+      "original_name": null,
+      "sha256": "b33dfad1787363a0d76eb9b8766f81b02e73d014d778034e709293ef497505bd",
+      "bytes": 87362,
+      "download_url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-venezuela.xlsx",
+      "year": "2022",
+      "type": "tables-only release (XLSX)"
+    }
+  ],
+  "countries": [
+    "VEN"
+  ],
+  "time_coverage": "2012-2023 depending on edition (each edition's Table 1 carries a rolling 5-year window)",
+  "frequency": "annual (some editions are biennial, e.g. 2017-18, 2020-21)",
+  "topics": [
+    "mining",
+    "minerals production",
+    "cement",
+    "steel",
+    "copper",
+    "aluminum",
+    "natural gas",
+    "crude oil",
+    "comparator-country economic data"
+  ],
+  "units": "declared per table in a parenthetical header line, and it VARIES BY COUNTRY: Iran/Turkiye tables default to 'Metric tons, gross weight'; Saudi Arabia/Iraq tables default to 'Thousand metric tons, gross weight'. Per-row overrides appear in column C ('do.' = ditto of the previous data row).",
+  "license_terms": "U.S. Government public domain (USGS)",
+  "notes": "Downloaded to give Iran's mining/energy/industrial charts comparator lines from a SINGLE source that publishes the same table for every country, so Iran and the comparators are methodologically comparable. Only the machine-readable Table 1 XLSX releases were taken (not the narrative PDFs) - Table 1 is the production-by-commodity table, which is the whole of what this task needs. The usgs.gov country landing pages for Iraq and Venezuela return HTTP 403 to a plain client, but the pubs.usgs.gov file URLs themselves are not blocked. No editions later than those listed exist at the predictable URL patterns (probed and 404'd) as of the retrieval date.",
+  "failures": []
+}

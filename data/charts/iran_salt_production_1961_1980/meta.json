@@ -3,13 +3,18 @@
   "title": "Salt (Rock) Production",
   "category": "Mining & Minerals Production",
   "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Salt (rock))",
-  "n_rows": 16,
+  "n_rows": 76,
   "year_range": [
     "1961",
-    "1980"
+    "2023"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "IRN",
+    "IRQ",
+    "RUS",
+    "SAU",
+    "TUR"
   ],
   "citations": [
     {

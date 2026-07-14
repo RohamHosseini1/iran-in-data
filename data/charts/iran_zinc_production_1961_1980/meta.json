@@ -3,13 +3,19 @@
   "title": "Zinc Production (Mine Output, Metal Content)",
   "category": "Mining & Minerals Production",
   "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Zinc')",
-  "n_rows": 16,
+  "n_rows": 83,
   "year_range": [
     "1961",
-    "1980"
+    "2023"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "ESP",
+    "IRN",
+    "KOR",
+    "RUS",
+    "SAU",
+    "TUR"
   ],
   "citations": [
     {

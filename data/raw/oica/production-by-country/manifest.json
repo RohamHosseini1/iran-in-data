@@ -1,0 +1,52 @@
+{
+  "dataset_id": "oica-production-by-country",
+  "title": "OICA — World Motor Vehicle Production by Country/Region and Type (2024 edition)",
+  "source_org": "OICA (International Organization of Motor Vehicle Manufacturers)",
+  "source_url": "https://oica.net/production-statistics/",
+  "download_url": "https://oica.net/wp-content/uploads/2025/10/By-country-region-2024.pdf",
+  "retrieved_at_utc": "2026-07-14T14:32:55Z",
+  "retrieved_by": "agent:comparator-mining-energy",
+  "files": [
+    {
+      "name": "By-country-region-2024.pdf",
+      "original_name": null,
+      "sha256": "27367271e358e75a4571a51892e7f301d044851b5beabb52ad9c2ccb9b273b4b",
+      "bytes": 87731,
+      "download_url": "https://oica.net/wp-content/uploads/2025/10/By-country-region-2024.pdf"
+    }
+  ],
+  "countries": [
+    "ARG",
+    "ESP",
+    "IRN",
+    "ITA",
+    "KOR",
+    "RUS",
+    "TUR",
+    "USA"
+  ],
+  "time_coverage": "2019, 2021, 2022, 2023, 2024 (the five data columns the PDF publishes; 2020 is not among them)",
+  "frequency": "annual",
+  "topics": [
+    "motor vehicle production",
+    "automotive",
+    "industrial output",
+    "comparator-country economic data"
+  ],
+  "units": "units (vehicles)",
+  "license_terms": "OICA publication; figures compiled from national manufacturer associations (per-row SOURCES column: CCFA for Iran, OSD for Turkiye, ANFAC for Spain, ANFIA for Italy, KAMA for South Korea, OAR for Russia, ADEFA for Argentina, Informa/Ward's for USA).",
+  "notes": "Single-source multi-country motor-vehicle production table -- the same survey for every country, which is why it was chosen over stitching national sources together. Iran IS included (OICA sources it to CCFA), so Iran and the comparators are measured identically. Saudi Arabia, Iraq and Venezuela are NOT in the table: OICA does not survey them, as they have no reportable vehicle-manufacturing industry. That is an absence in the source, not a gap in retrieval. OICA's per-year HTML statistic pages are JavaScript-rendered and returned only a page shell to a plain fetch; this PDF is the machine-readable artifact and it carries five years at once, so no further scraping was attempted. Country rows carry OICA's own scope qualifiers, preserved verbatim in source_commodity_label: Iran 'yearly only', Argentina 'cars and LCV only'.",
+  "failures": [
+    {
+      "url": "https://oica.net/production_statistic/total-2023/",
+      "outcome": "HTTP 200 but JS-rendered; no table in the HTML"
+    },
+    {
+      "url": "https://oica.net/wp-content/uploads/worldprod_country.PDF",
+      "outcome": "HTTP 404"
+    },
+    {
+      "note": "By-country-region-<year>.pdf probed for 2018-2025 across 8 upload-path patterns; only the 2024 edition resolved (it supersedes the others by carrying 5 years)"
+    }
+  ]
+}

@@ -1274,3 +1274,34 @@ project's rules forbid.
 cited — excluded per the MEK/NCRI source-hygiene rule.
 
 Full attempt trail: `logs/downloads/iran-primary-agriculture.log`.
+
+## 2026-07-14 — Comparator mining / energy / industrial output (agent:comparator-mining-energy)
+
+Goal: Iran's mining/energy/industry charts were built from Iranian-primary + USGS historical sources
+and carried **zero comparator lines**. Added the 10-country comparator roster to them, from single
+sources that publish the same table for every country (so Iran and the comparators are measured
+identically rather than stitched from ten national agencies).
+
+- **`usgs-minerals-yearbook`** (U.S. Geological Survey, NMIC; public domain) — Volume III Area Reports,
+  "Table 1: Production of Mineral Commodities". Newly downloaded the Table-1 XLSX releases for the 5
+  roster countries that were missing: **IRQ, VEN, KOR, ESP, ITA** (19 files). Combined with the IRN /
+  TUR / SAU / RUS / ARG files already on disk, and **mined Iran's own modern (2014-2023) tables for the
+  first time** — they had been sitting unextracted. 42 sheets → 996 harmonized rows across 18
+  indicators (chromite, copper mine/smelter/refinery, iron ore, pig iron, crude steel, aluminium, lead,
+  zinc, manganese, barite, gypsum, salt, cement, coke, natural gas).
+  Country pages for Iraq and Venezuela return HTTP 403 to a plain client; the `pubs.usgs.gov` file URLs
+  are not blocked. **USA has no USGS country report** (it gets the Mineral Commodity Summaries instead,
+  a different publication with different production definitions) — deliberately not merged in.
+- **`oica`** (International Organization of Motor Vehicle Manufacturers) — "World Motor Vehicle
+  Production by Country/Region and Type", 2024 edition PDF. 8 of 11 roster countries (IRN TUR RUS USA
+  ARG ESP ITA KOR) × 5 years (2019, 2021-2024). SAU/IRQ/VEN are not surveyed by OICA — no reportable
+  vehicle industry. OICA's per-year HTML pages are JS-rendered and yield no table to a plain fetch.
+- **Energy Institute Statistical Review**: not attempted this round (Cloudflare-blocked in past passes).
+- Crude oil / refinery output from USGS were **withheld** — the source's own fuels section contains unit
+  errors (Saudi crude marked `do.` under a *cubic-metres* gas row), and crude oil is already covered for
+  all 11 countries by the existing `owid__oil_production_volume` chart. Details in the dataset README.
+
+Outputs: `data/processed/comparator_mining_energy_series/` (+ README with full per-country coverage and
+gaps), staging proposals in `data/processed/chart_registry_staging/comparator_mining_energy.csv`
+(18 extends onto existing Iran charts + 1 new), attempt log in
+`logs/downloads/comparator-mining-energy.log`.

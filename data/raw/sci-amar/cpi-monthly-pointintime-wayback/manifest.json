@@ -1,0 +1,66 @@
+{
+  "dataset_id": "sci-amar-cpi-monthly-pointintime-wayback",
+  "title": "Statistical Centre of Iran (SCI) — monthly Consumer Price Index press-release pages (point-in-time, via Wayback Machine)",
+  "source_org": "Statistical Centre of Iran (SCI / Amar)",
+  "source_url": "https://amar.org.ir/en (direct amar.org.ir access blocked in this sandbox — ECONNRESET on both curl and WebFetch; retrieved via web.archive.org Wayback snapshots instead)",
+  "download_url": "https://web.archive.org/web/{timestamp}id_/https://amar.org.ir/...",
+  "retrieved_at_utc": "2026-07-14T13:10:00Z",
+  "retrieved_by": "agent:iran-prices-inflation",
+  "files": [
+    {
+      "name": "sci_cpi_esfand_1400_2022-03.html",
+      "original_url": "https://amar.org.ir/english/SCI-News-Archive/ID/17266/consumer-price-index-in-the-month-of-esfand-of-the-year-1400",
+      "wayback_timestamp": "20230927060934",
+      "sha256": "06631f534e98a62a99d20622345a1b26672064d39b36596206ecb10edd37f944",
+      "period": "Esfand 1400 (Feb-Mar 2022)"
+    },
+    {
+      "name": "sci_cpi_farvardin_1401_2022-04.html",
+      "original_url": "https://www.amar.org.ir/english/SCI-News-Archive/ID/17331/consumer-price-index-in-the-month-of-farvardin-of-the-year-1401",
+      "wayback_timestamp": "20220707034251",
+      "sha256": "a052564c3216010d32c0654e9733104f972132a17a33787bf4e80bdd92a65059",
+      "period": "Farvardin 1401 (Mar-Apr 2022)"
+    },
+    {
+      "name": "sci_cpi_bahman_1401_2023-02.html",
+      "original_url": "https://amar.org.ir/english/SCI-News-Archive/ID/20874/consumer-price-index-in-the-month-of-bahman-of-the-year-1401",
+      "wayback_timestamp": "20230528032911",
+      "sha256": "3651420f0f4f2b218b9c2966ad0d092b0d4f0639a3ef26e165a6bd2ceeefdd8c",
+      "period": "Bahman 1401 (Jan-Feb 2023)"
+    },
+    {
+      "name": "sci_cpi_mehr_1402_2023-10.html",
+      "original_url": "https://www.amar.org.ir/english/SCI-News-Archive/ID/22183/consumer-price-index-for-the-month-mehr-the-year-1402-base-year-1400100",
+      "wayback_timestamp": "20231117033904",
+      "sha256": "dd91b181348674e8dd36e7636388356313e218a9d6f5dafc4a291c5438c17d18",
+      "period": "Mehr 1402 (Sep-Oct 2023)"
+    },
+    {
+      "name": "sci_cpi_bahman_1403_2025-02.html",
+      "original_url": "https://amar.org.ir/en/news/ID/16625/consumer-price-index-for-the-month-of-bahman-the-year-1403-base-year-1400100",
+      "wayback_timestamp": "20251009104352",
+      "sha256": "4a615567e3c13498baf4e4111149789f7b31bfbc9377a41a3af3cb3289815129",
+      "period": "Bahman 1403 (Jan-Feb 2025)"
+    },
+    {
+      "name": "sci_main_indicators_dashboard_2024-02.html",
+      "original_url": "https://www.amar.org.ir/english/Main-Indicators",
+      "wayback_timestamp": "20240226003314",
+      "sha256": "8954a66fb8dfbc8ca60509bc30f584ea920649a93a645cc735391b98c3d2284c",
+      "period": "dashboard as of snapshot date (2024-02-26); release-calendar row gives CPI YoY = 44.4% and PPI YoY = 43.2% both dated to the month of Azar (1402, i.e. Nov-Dec 2023)"
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "Esfand 1400 - Bahman 1403 (approx. Feb 2022 - Feb 2025), 5 discrete monthly press-release snapshots, NOT a continuous monthly series",
+  "frequency": "monthly (sparse — only the 5 months for which a Wayback snapshot of the English-language press release could be found)",
+  "units": "CPI index (base year 1400 SH = 2021/22 = 100) where given; point-to-point (YoY) and 12-month-rolling inflation rate percentages; national + urban + rural breakdowns where the source page gave them",
+  "license_terms": "Iran Statistical Centre official statistics — public dissemination via amar.org.ir",
+  "notes": "amar.org.ir (SCI's own domain) is unreachable directly from this sandbox: curl connection fails outright (no HTTP response) and WebFetch returns 'Socket is closed' / ECONNRESET on every URL tried, including the homepage. cbi.ir/Inflation/Inflation_en.aspx is reachable but is now behind an Incapsula JS bot-challenge (confirmed via its own most recent Wayback snapshot, 2026-05-30, which captured the challenge page itself, not real content) so CBI's live inflation dashboard could not be mined either. Worked around by searching the Wayback CDX API for archived amar.org.ir monthly CPI press-release pages and fetching those specific snapshots directly via web.archive.org, which IS reachable via curl. This gives 5 real, dated, primary-sourced data points post-dating the newest CBI Annual Review PDF already in this repo (1401 SH / 2022-23), but NOT a full continuous monthly or annual series — a genuine, honestly-reported gap. A future agent with different network access (e.g. a browser-based fetch through an Iran-reachable proxy, or a fresh Wayback crawl) could likely fill in the missing months of 1402-1403 and any subsequent SH years using the same CDX-search method (query: https://web.archive.org/cdx/search/cdx?url=amar.org.ir&matchType=domain&filter=urlkey:.*consumer.price.index.*).",
+  "failures": [
+    {"url": "https://amar.org.ir/en", "method": "WebFetch", "error": "Socket is closed"},
+    {"url": "https://amar.org.ir/en/news/ID/16993/consumer-price-index-for-the-month-of-esfand-the-year-1403-base-year-1400100", "method": "WebFetch", "error": "ECONNRESET / Socket is closed (2 attempts)"},
+    {"url": "https://www.amar.org.ir/english/Main-Indicators", "method": "WebFetch", "error": "Socket is closed"},
+    {"url": "https://www.amar.org.ir/Portals/2/article/Consumer%20Price%20Index%20for%20the%20Month%20of%20Mordad%20of%20the%20year%201404-SmiFin.pdf", "method": "curl direct", "error": "exit 1, no HTTP response, no Wayback snapshot available either"},
+    {"url": "https://www.cbi.ir/Inflation/Inflation_en.aspx", "method": "curl via Wayback snapshot 20260530191639", "error": "Wayback itself captured an Incapsula bot-challenge page ('Please enable JavaScript...'), not real content"}
+  ]
+}

@@ -3,13 +3,17 @@
   "title": "Coke Production",
   "category": "Mining & Minerals Production",
   "sources": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Coke)",
-  "n_rows": 16,
+  "n_rows": 64,
   "year_range": [
     "1961",
-    "1980"
+    "2023"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "IRN",
+    "KOR",
+    "RUS",
+    "TUR"
   ],
   "citations": [
     {

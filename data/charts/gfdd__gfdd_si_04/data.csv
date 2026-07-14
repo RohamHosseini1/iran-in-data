@@ -1,57 +1,561 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-IRN,Iran,1961,124.8494,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1962,99.2045,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1963,102.7077,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1964,103.9343,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1965,98.9179,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1966,97.3062,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1967,93.256,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1968,93.6991,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1969,89.4836,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1970,91.5503,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1971,87.6467,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1972,87.1383,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1973,93.8598,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1974,82.6502,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1975,89.4977,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1976,86.5509,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1977,80.7716,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1978,80.7716,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1979,74.6147,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1980,72.9941,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1981,64.374,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1982,53.7609,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1983,55.2666,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1984,51.6792,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1985,51.6792,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1986,50.617,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1987,47.8051,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1988,43.1579,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1989,44.4668,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1990,52.2965,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1991,56.9017,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1992,61.2616,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1993,61.9922,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1994,57.9725,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1995,53.1487,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1996,49.417,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1997,50.5836,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1998,51.73,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,1999,56.9706,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2000,80.169,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2001,80.5797,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2002,83.5648,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2003,89.4894,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2004,96.9247,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2005,98.0833,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2006,100.0932,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2007,104.6785,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2008,111.2112,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2009,99.7157,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2010,103.6139,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2011,111.1416,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2012,96.9766,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2013,90.5735,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2014,84.094,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2015,76.2275,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
-IRN,Iran,2016,75.4996,percent,GFDD.SI.04,Bank Credit to Bank Deposits,worldbank-gfdd-via-fred
+ARG,Argentina,1960,82.08092,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1961,123.8994,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1962,128.9941,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1963,105.0209,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1964,97.68786,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1965,99.30716,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1966,103.9076,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1967,79.3996,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1968,86.59476,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1969,87.93103,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1970,85.24999,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1971,145,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1972,92.00001,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1973,92.49999,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1974,90,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1975,102.7586,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1976,85.28168,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1977,84.50293,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1978,88.18378,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1979,95.37874,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1980,105.22,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1981,153.9801,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1982,188.4511,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1983,162.6141,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1984,135.077,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1985,125.748,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1986,106.0678,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1987,115.7417,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1988,94.24664,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1989,272.2725,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1990,189.2819,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1991,162.5225,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1992,148.0638,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1993,120.3866,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1994,121.6127,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1995,124.4289,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1996,108.1511,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1997,98.3516,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1998,97.75047,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1999,90.74091,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2000,84.47463,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2001,84.8335,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2002,66.67413,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2003,46.14908,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2004,44.5161,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2005,49.25088,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2006,56.16525,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2007,61.86273,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2008,69.34873,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2009,65.1235,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2010,66.57224,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2011,77.87972,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2012,76.76775,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2013,78.1691,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2014,71.42828,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2015,68.71815,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2016,60.38981,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2017,70.41665,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1972,97.07599,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1973,99.38725,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1974,104.4103,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1975,107.574,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1976,111.8384,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1977,114.9932,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1978,110.6682,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1979,107.0541,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1980,108.3656,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1981,109.755,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1982,111.5602,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1983,124.5924,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1984,123.463,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1985,119.5456,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1986,103.6237,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1987,112.78,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1988,124.4094,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1989,133.094,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1990,127.7755,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1991,127.6203,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1992,129.1024,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1993,118.4754,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1994,112.7523,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1995,112.7413,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1996,118.3866,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1997,133.6708,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1998,143.8733,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2001,121.0197,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2002,126.8541,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2003,137.6688,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2004,149.9204,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2005,166.9451,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2006,188.8071,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2007,192.5779,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2008,175.1875,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2009,173.9204,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2010,176.3892,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2011,180.1629,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2012,163.8961,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2013,152.7175,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2014,134.1425,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2015,120.5954,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2016,110.0474,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2017,106.7583,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2018,99.76326,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2019,93.79071,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2020,88.32789,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2021,80.52996,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1961,124.8494,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1962,99.20448,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1963,102.7077,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1964,103.9343,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1965,98.91793,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1966,97.30621,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1967,93.25596,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1968,93.69907,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1969,89.48358,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1970,91.55034,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1971,87.64671,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1972,87.13832,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1973,93.85976,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1974,82.65021,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1975,89.49767,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1976,86.55087,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1977,80.77157,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1979,74.61473,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1980,72.99409,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1981,64.37401,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1982,53.76094,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1983,55.26661,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1984,51.67916,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1986,50.61701,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1987,47.80512,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1988,43.15792,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1989,44.46682,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1990,52.29645,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1991,56.90173,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1992,61.2616,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1993,61.99218,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1994,57.97253,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1995,53.14874,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1996,49.417,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1997,50.58358,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1998,51.73005,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1999,56.97059,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2000,80.16896,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2001,80.57968,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2002,83.56478,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2003,89.48941,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2004,96.92474,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2005,98.08327,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2006,100.0932,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2007,104.6785,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2008,111.2112,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2009,99.71566,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2010,103.6139,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2011,111.1416,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2012,96.97655,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2013,90.5735,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2014,84.09402,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2015,76.22752,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2016,75.49957,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1960,86.94915,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1961,97.39413,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1962,92.25146,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1963,96.2908,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1964,101.1782,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1968,129.3507,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1969,120.1182,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1970,132.0914,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1971,121.4428,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1972,111.9146,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1973,93.39556,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1974,83.81937,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1975,66.37786,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1976,64.25391,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2004,9.224021,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2005,21.20752,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2006,27.13417,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2007,21.27095,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2008,23.15704,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2009,19.77532,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2010,23.62582,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2011,25.59872,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2012,32.32316,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2013,31.88433,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2014,31.98173,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2015,38.93469,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2016,41.12613,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2017,40.42444,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2018,42.14687,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2019,43.71161,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2020,48.02835,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2021,49.905,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1963,113.7629,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1964,108.2361,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1965,102.1618,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1966,102.5099,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1967,104.3445,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1968,103.0983,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1969,105.5132,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1970,102.427,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1971,99.36744,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1972,99.09247,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1973,98.16007,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1974,105.8212,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1975,97.56704,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1976,95.90999,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1977,90.91634,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1978,81.28852,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1979,78.77249,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1980,82.11606,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1981,86.02106,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1982,80.5088,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1983,79.67821,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1984,83.39623,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1985,83.62553,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1986,85.10777,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1987,87.89288,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1988,93.00634,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1989,95.5131,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1990,99.506,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1991,103.7261,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1992,110.0172,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1993,104.8806,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1994,105.7369,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1995,108.7002,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1996,109.475,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1997,125.6687,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1998,137.248,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2001,119.3532,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2002,114.8951,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2003,114.3417,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2004,119.3775,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2005,122.9195,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2006,129.9909,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2007,121.0024,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2008,119.6055,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2009,115.4186,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2010,128.1468,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2011,134.2469,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2012,126.7309,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2013,119.9466,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2014,114.0741,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2015,110.0577,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2016,104.5266,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2017,97.28606,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2018,91.72608,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2019,85.62107,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2020,79.8727,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2021,75.41866,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1960,91.55991,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1961,150.6499,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1962,136.4503,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1963,149.5291,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1964,158.124,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1965,124.8367,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1966,100.1056,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1967,112.3792,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1968,120.9864,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1969,116.7601,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1970,118.7159,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1971,127.2079,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1972,115.2636,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1973,112.1484,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1974,136.8341,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1975,132.2492,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1976,124.0417,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1977,110.8247,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1978,123.6597,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1979,136.9835,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1980,148.2773,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1981,145.882,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1982,143.8784,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1983,146.9517,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1984,155.3392,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1985,158.05,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1986,152.1324,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1987,145.622,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1988,134.4427,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1989,141.0715,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1990,152.1042,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1991,149.9282,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1992,145.9778,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1993,144.0763,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1994,144.6049,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1995,144.7047,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1996,147.8228,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1997,156.4387,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1998,130.3366,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1999,123.8116,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2000,115.6931,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2001,115.9894,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2002,125.8964,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2003,128.2915,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2004,131.0283,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2005,136.635,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2006,149.9567,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2007,168.4629,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2008,166.8223,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2009,152.7186,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2010,138.8289,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2011,134.1449,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2012,130.1511,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2013,108.8964,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2014,108.3421,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2015,106.2019,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2016,106.3973,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2017,108.5161,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2018,108.4205,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2019,107.8417,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2020,107.7703,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2021,106.9277,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2001,98.22432,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2002,94.08919,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2003,101.0338,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2004,111.3278,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2005,108.5214,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2006,114.3442,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2007,120.1138,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2008,140.4487,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2009,117.9001,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2010,106.7326,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2011,110.5416,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2012,116.1174,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2013,116.1437,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2014,123.0315,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2015,106.8892,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2016,106.5985,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2017,104.4564,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2018,102.6543,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2019,105.1218,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2020,102.2596,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2021,104.3566,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1968,185.2159,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1969,210.4542,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1970,220.9975,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1971,185.1667,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1972,134.1255,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1973,105.9612,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1974,138.9267,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1975,89.61445,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1976,72.23432,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1977,48.20051,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1978,47.95003,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1979,86.25134,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1980,111.9366,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1981,99.44404,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1982,101.6564,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1983,118.2432,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1984,129.9249,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1985,137.8525,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1986,131.9694,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1987,120.194,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1988,128.75,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1989,136.0361,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1990,124.1701,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1991,109.6443,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1992,107.9703,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1993,129.2121,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1994,140.2122,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1995,148.6157,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1996,137.1573,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1997,140.0299,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1998,168.422,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1999,159.3911,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2000,150.1757,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2001,143.399,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2002,136.9965,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2003,136.1835,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2004,154.032,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2005,197.8927,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2006,195.3953,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2007,185.2667,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2008,214.1478,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2009,169.382,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2010,146.2603,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2011,133.8043,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2012,132.9527,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2013,131.2994,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2014,126.9252,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2015,140.4283,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2016,144.0163,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2017,139.3031,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1960,197.6974,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1961,135.5556,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1962,153.1081,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1963,152.1487,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1964,148.7928,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1965,137.0487,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1966,132.8,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1967,135.4382,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1968,126.5331,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1969,136.6546,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1970,82.52056,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1971,71.98894,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1972,73.45707,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1973,74.07092,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1974,76.59404,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1975,82.04214,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1976,88.34339,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1977,85.5479,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1978,118.0171,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1979,106.8668,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1980,100.9888,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1981,92.3212,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1982,85.66549,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1983,99.20619,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1984,83.07657,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1985,81.45144,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1986,78.67465,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1987,78.87708,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1988,69.92494,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1989,70.7413,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1990,80.71982,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1991,70.8348,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1992,72.09621,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1993,80.89919,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1994,55.11351,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1995,62.49199,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1996,66.73566,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1997,75.92276,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1998,63.2308,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1999,44.59552,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2000,54.57791,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2001,35.89462,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2002,38.34509,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2003,44.09108,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2004,53.41785,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2005,59.00366,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2006,66.29401,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2007,72.057,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2008,71.58112,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2009,71.53942,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2010,84.95583,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2011,99.56016,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2012,108.1045,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2013,120.1597,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2014,128.2813,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2015,132.3298,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2016,130.7938,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2017,135.2124,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2018,128.9872,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2019,113.4739,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2020,112.3092,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2021,96.99043,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1960,70.54719,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1961,70.42612,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1962,71.48355,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1963,74.36575,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1964,75.98683,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1965,78.69223,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1966,80.9184,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1967,78.37735,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1968,79.24509,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1969,86.10769,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1970,81.49059,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1971,78.93123,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1972,80.68705,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1973,85.36333,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1974,87.19257,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1975,81.8418,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1976,81.32986,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1977,83.52483,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1978,86.42374,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1979,87.94032,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1980,83.81283,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1981,79.2826,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1982,73.76437,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1983,74.56858,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1984,76.14214,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1985,77.78153,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1986,77.23681,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1987,79.04787,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1988,80.55327,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1989,80.66897,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1990,78.39147,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1991,74.59102,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1992,73.96414,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1993,75.63213,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1994,80.88456,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1995,81.67991,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1996,80.76201,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1997,79.92569,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1998,78.11354,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1999,76.49935,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2000,77.544,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2001,76.3257,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2002,75.83255,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2003,77.9679,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2004,81.6397,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2005,83.22308,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2006,82.89767,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2007,80.17538,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2008,75.99315,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2009,63.8285,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2010,66.47291,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2011,63.01146,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2012,61.5783,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2013,60.5169,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2014,60.7163,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2015,62.77115,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2016,63.8359,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2017,63.97555,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2018,64.47144,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2019,61.73064,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2020,53.913,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1960,107.7088,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1961,102.7735,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1962,105.3159,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1963,91.53165,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1964,89.3754,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1965,95.18095,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1966,95.9938,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1967,90.85915,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1968,92.802,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1969,88.87717,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1970,91.0852,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1971,84.93021,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1972,81.69827,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1973,85.33064,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1974,86.75113,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1975,87.66304,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1976,92.02605,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1977,86.36572,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1978,90.76443,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1979,89.76948,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1980,89.94374,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1981,85.19628,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1982,93.75402,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1983,76.71809,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1984,81.95825,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1985,80.66242,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1986,83.7793,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1987,93.97651,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1988,102.3945,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1989,82.32845,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1990,61.55372,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1991,61.12685,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1992,72.26525,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1993,64.4388,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1994,36.29593,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1995,39.7292,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1996,54.09914,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1997,74.89381,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1998,73.16104,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1999,69.55537,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2000,68.97849,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2001,73.1292,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2002,68.27597,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2003,45.96368,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2004,62.5942,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2005,66.9817,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2006,61.22146,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2007,83.34348,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2008,82.63172,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2009,75.42164,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2010,67.8187,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2011,63.55275,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2012,64.89389,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2013,61.24901,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2014,63.24107,%,GFDD.SI.04,Bank credit to bank deposits (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14

@@ -3,13 +3,22 @@
   "title": "Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets (World Bank GFDD)",
   "category": "Financial Sector (Monetary)",
   "sources": "worldbank-gfdd-via-fred",
-  "n_rows": 56,
+  "n_rows": 519,
   "year_range": [
-    "1961",
-    "2016"
+    "1960",
+    "2021"
   ],
   "countries": [
-    "IRN"
+    "ARG",
+    "ESP",
+    "IRN",
+    "IRQ",
+    "ITA",
+    "KOR",
+    "RUS",
+    "TUR",
+    "USA",
+    "VEN"
   ],
   "citations": [
     {

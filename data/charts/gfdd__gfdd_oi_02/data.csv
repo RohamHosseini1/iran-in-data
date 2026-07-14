@@ -1,57 +1,574 @@
 country_iso3,country_name,year,value,unit,variant_code,variant_label,source_dataset
-IRN,Iran,1961,11.3884,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1962,13.0816,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1963,14.4425,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1964,15.842,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1965,16.1424,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1966,17.6829,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1967,19.1204,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1968,20.2876,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1969,21.6195,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1970,22.9166,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1971,22.4441,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1972,23.4859,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1973,21.0926,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1974,18.5978,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1975,23.3741,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1976,25.0544,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1977,26.6062,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1978,26.6062,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1979,34.49,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1980,40.6815,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1981,40.6383,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1982,38.4464,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1983,35.8608,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1984,35.4201,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1985,35.4201,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1986,45.0082,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1987,45.0694,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1988,49.4242,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1989,51.0683,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1990,43.9393,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1991,39.4019,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1992,37.8556,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1993,33.6365,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1994,33.9914,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1995,31.3991,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1996,30.7121,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1997,32.8277,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1998,34.8384,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,1999,31.6712,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2000,32.7431,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2001,37.329,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2002,34.8243,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2003,36.2426,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2004,36.1838,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2005,39.0975,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2006,44.5901,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2007,45.0102,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2008,40.707,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2009,49.319,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2010,50.2127,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2011,44.3614,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2012,54.1126,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2013,51.815,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2014,58.9659,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2015,74.5575,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
-IRN,Iran,2016,85.2593,percent,GFDD.OI.02,Bank Deposits to GDP,worldbank-gfdd-via-fred
+ARG,Argentina,1960,13.155,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1961,9.531962,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1962,7.929212,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1963,9.42909,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1964,9.625225,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1965,8.986012,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1966,9.363981,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1967,12.06791,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1968,14.02803,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1969,14.84502,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1970,16.66389,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1971,12.01447,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1972,17.99441,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1973,16.91704,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1974,19.94076,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1975,14.94668,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1976,13.87545,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1977,18.06942,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1978,19.50294,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1979,21.72721,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1980,20.65149,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1981,19.28676,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1982,16.61869,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1983,16.33245,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1984,17.80511,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1985,13.46231,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1986,15.5764,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1987,18.07772,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1988,21.25493,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1989,14.48466,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1990,8.203477,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1991,7.670068,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1992,10.30013,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1993,14.96205,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1994,16.4086,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1995,15.81596,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1996,18.37803,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1997,21.91824,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1998,24.13389,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,1999,26.59892,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2000,27.4253,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2001,23.75952,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2002,22.67097,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2003,23.01494,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2004,21.34349,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2005,21.15076,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2006,20.53297,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2007,20.38741,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2008,17.04823,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2009,18.42547,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2010,18.47964,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2011,17.38624,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2012,19.13465,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2013,19.42729,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2014,18.85372,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2015,20.49133,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2016,21.89971,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ARG,Argentina,2017,21.84118,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1960,42.59122,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1961,43.51503,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1962,46.07809,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1963,45.44101,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1964,49.82467,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1965,51.06646,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1966,50.01092,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1967,51.30581,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1968,54.61745,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1969,57.29435,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1970,58.98479,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1971,66.40385,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1972,69.68186,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1973,71.80202,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1974,70.10291,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1975,71.31627,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1976,70.36504,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1977,65.76711,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1978,63.71638,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1979,65.20286,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1980,65.75147,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1981,68.01785,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1982,69.123,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1983,58.05321,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1984,53.69197,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1985,53.8035,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1986,60.9908,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1987,58.77291,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1988,58.44985,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1989,57.90273,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1990,59.59768,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1991,60.84401,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1992,58.83175,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1993,62.64868,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1994,62.82378,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1995,62.22738,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1996,59.85931,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1997,56.79411,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,1998,57.41478,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2001,78.44572,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2002,78.29343,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2003,77.43179,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2004,77.38252,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2005,81.45385,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2006,83.02663,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2007,87.21052,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2008,97.71708,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2009,100.033,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2010,97.52058,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2011,93.12909,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2012,96.49908,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2013,95.92856,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2014,97.35835,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2015,98.88009,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2016,101.3264,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2017,98.48976,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2018,98.81863,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2019,99.93378,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2020,121.6606,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ESP,Spain,2021,119.7247,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1961,11.38839,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1962,13.0816,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1963,14.44246,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1964,15.84204,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1965,16.1424,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1966,17.68293,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1967,19.12041,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1968,20.28765,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1969,21.61945,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1970,22.91657,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1971,22.44411,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1972,23.48591,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1973,21.09259,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1974,18.59778,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1975,23.37409,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1976,25.05437,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1977,26.60619,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1979,34.49,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1980,40.6815,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1981,40.6383,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1982,38.44641,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1983,35.86076,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1984,35.42012,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1986,45.00822,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1987,45.06939,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1988,49.42421,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1989,51.06826,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1990,43.93925,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1991,39.40193,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1992,37.85561,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1993,33.63653,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1994,33.99144,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1995,31.39913,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1996,30.71207,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1997,32.82768,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1998,34.8384,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",1999,31.67122,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2000,32.74307,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2001,37.32903,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2002,34.82429,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2003,36.24255,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2004,36.18383,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2005,39.09754,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2006,44.59011,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2007,45.0102,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2008,40.70699,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2009,49.31897,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2010,50.21272,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2011,44.36137,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2012,54.11264,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2013,51.81504,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2014,58.96588,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2015,74.5575,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRN,"Iran, Islamic Rep.",2016,85.25926,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1960,9.810446,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1961,9.386941,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1962,9.799425,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1963,9.539985,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1964,8.123952,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1968,10.52586,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1969,11.33681,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1970,10.64937,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1971,10.27664,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1972,11.31946,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1973,12.8125,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1974,8.308389,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1975,10.8326,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,1976,10.1976,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2004,13.7254,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2005,7.430562,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2006,8.325438,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2007,11.61768,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2008,11.57426,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2009,19.10383,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2010,22.82594,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2011,21.04455,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2012,18.27656,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2013,19.87064,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2014,20.74067,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2015,23.84146,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2016,24.37699,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2017,23.03335,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2018,20.41497,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2019,20.12508,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2020,29.62305,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+IRQ,Iraq,2021,22.62835,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1962,46.57997,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1963,48.40693,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1964,50.33857,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1965,54.43867,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1966,57.29424,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1967,59.28233,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1968,63.06686,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1969,64.05928,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1970,63.88973,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1971,69.69868,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1972,75.31017,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1973,75.80406,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1974,64.4815,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1975,70.91584,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1976,68.37393,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1977,68.97552,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1978,72.81332,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1979,71.06313,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1980,64.12594,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1981,59.24477,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1982,60.67526,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1983,58.90171,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1984,57.89945,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1985,56.98226,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1986,56.08079,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1987,54.8804,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1988,54.19156,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1989,53.0082,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1990,52.96332,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1991,53.0626,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1992,52.67703,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1993,55.185,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1994,52.4839,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1995,49.51959,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1996,47.81316,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1997,42.13656,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,1998,40.31045,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2001,50.36836,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2002,53.85667,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2003,56.9571,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2004,56.46614,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2005,57.40004,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2006,58.05222,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2007,67.36761,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2008,69.84607,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2009,75.70375,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2010,72.48293,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2011,69.96178,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2012,73.86164,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2013,75.6204,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2014,77.56994,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2015,79.22766,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2016,80.86927,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2017,82.14697,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2018,82.53496,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2019,85.3179,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2020,102.9492,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+ITA,Italy,2021,102.9661,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1960,5.310761,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1961,7.394518,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1962,9.177873,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1963,6.961854,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1964,5.275254,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1965,7.918065,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1966,10.6644,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1967,14.9678,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1968,21.07934,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1969,27.33768,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1970,27.69148,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1971,27.46429,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1972,29.53769,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1973,30.48739,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1974,25.78634,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1975,24.9669,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1976,24.36211,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1977,26.50179,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1978,25.98142,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1979,25.46467,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1980,26.8024,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1981,27.49558,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1982,30.39175,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1983,29.4156,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1984,27.56238,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1985,28.71067,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1986,29.36887,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1987,29.58192,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1988,30.06843,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1989,31.80137,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1990,30.92298,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1991,31.34006,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1992,31.65014,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1993,31.89333,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1994,32.28539,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1995,31.75,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1996,33.20555,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1997,34.65168,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1998,45.51165,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",1999,52.42258,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2000,60.6527,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2001,63.49864,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2002,63.58856,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2003,63.68911,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2004,58.23169,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2005,56.88091,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2006,56.2724,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2007,52.2123,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2008,57.33775,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2009,61.15065,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2010,64.39145,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2011,66.50169,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2012,67.22956,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2013,118.1551,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2014,121.8836,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2015,124.2235,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2016,126.9369,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2017,125.7076,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2018,130.0977,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2019,140.5416,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2020,152.5773,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+KOR,"Korea, Rep.",2021,160.3865,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2001,17.12736,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2002,19.08868,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2003,19.56805,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2004,20.33102,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2005,22.23567,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2006,25.19093,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2007,29.28518,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2008,27.54358,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2009,35.73817,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2010,37.36572,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2011,37.71967,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2012,37.81632,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2013,41.34742,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2014,44.56116,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2015,52.33051,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2016,49.81369,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2017,49.85225,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2018,49.91624,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2019,50.16679,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2020,58.6422,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+RUS,Russian Federation,2021,53.92334,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1968,3.969753,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1969,3.7957,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1970,3.198237,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1971,3.042773,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1972,3.393031,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1973,4.026938,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1974,1.97989,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1975,4.558932,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1976,6.056391,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1977,8.474181,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1978,11.0042,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1979,8.244707,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1980,6.079242,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1981,6.976978,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1982,9.392465,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1983,11.09374,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1984,11.35347,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1985,12.23932,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1986,14.73997,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1987,16.11033,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1988,17.39196,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1989,16.10543,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1990,12.97726,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1991,15.22363,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1992,15.52145,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1993,15.84196,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1994,15.94712,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1995,15.18592,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1996,15.15959,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1997,15.3601,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1998,17.33049,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,1999,16.77927,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2000,16.13818,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2001,18.89168,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2002,21.1307,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2003,20.73179,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2004,21.00489,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2005,17.89806,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2006,17.2597,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2007,20.00981,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2008,17.59732,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2009,26.93895,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2010,26.77703,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2011,25.48549,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2012,27.33245,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2013,30.63141,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2014,34.89481,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2015,39.81891,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2016,40.35257,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+SAU,Saudi Arabia,2017,38.74525,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1960,8.928047,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1961,9.388039,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1962,9.215442,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1963,9.238197,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1964,9.880715,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1965,11.82915,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1966,12.80536,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1967,13.04688,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1968,14.70222,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1969,14.71062,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1970,25.00356,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1971,26.22969,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1972,27.67554,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1973,28.28297,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1974,25.66983,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1975,26.06423,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1976,25.11431,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1977,25.6607,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1978,14.78987,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1979,13.74871,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1980,13.45534,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1981,18.03125,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1982,21.57565,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1983,20.92652,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1984,21.48192,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1985,21.3942,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1986,24.98155,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1987,26.09315,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1988,24.78415,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1989,23.51636,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1990,20.65697,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1991,24.23825,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1992,24.88518,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1993,22.40221,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1994,28.92355,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1995,29.58171,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1996,34.20695,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1997,34.6412,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1998,26.52432,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,1999,36.31572,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2000,31.60902,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2001,41.55004,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2002,36.65332,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2003,31.77662,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2004,31.02407,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2005,35.97021,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2006,37.29372,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2007,38.88065,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2008,43.16295,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2009,48.2723,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2010,48.96656,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2011,46.36352,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2012,45.07828,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2013,47.20433,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2014,46.48883,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2015,47.30321,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2016,49.91357,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2017,48.76577,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2018,48.97559,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2019,54.48996,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2020,63.14733,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+TUR,Turkey,2021,68.56544,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1960,55.27248,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1961,57.93565,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1962,59.37158,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1963,61.12256,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1964,62.18811,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1965,62.46305,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1966,59.71756,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1967,62.50657,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1968,62.16041,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1969,57.74032,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1970,60.91306,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1971,64.28785,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1972,66.78964,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1973,66.17036,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1974,65.78389,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1975,66.13546,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1976,66.10149,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1977,66.64022,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1978,65.53036,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1979,64.38396,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1980,65.70966,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1981,65.91692,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1982,69.59181,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1983,69.24068,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1984,70.28866,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1985,70.77608,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1986,73.43914,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1987,71.92906,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1988,71.17738,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1989,69.57014,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1990,67.25205,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1991,65.80751,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1992,61.70872,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1993,58.6599,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1994,54.98425,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1995,56.11588,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1996,57.29144,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1997,58.27997,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1998,60.49124,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,1999,61.83787,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2000,63.15723,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2001,65.73482,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2002,66.39241,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2003,66.0372,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2004,65.40208,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2005,66.50285,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2006,68.97102,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2007,74.33477,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2008,78.63197,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2009,84.44508,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2010,78.63602,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2011,80.34418,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2012,81.03249,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2013,81.28259,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2014,81.90596,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2015,81.38542,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2016,82.06911,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2017,82.21514,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2018,80.99707,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2019,84.52532,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+USA,United States,2020,101.2169,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1960,14.55339,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1961,14.40941,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1962,13.5072,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1963,14.95806,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1964,16.24548,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1965,16.19591,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1966,15.67188,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1967,17.18583,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1968,17.35555,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1969,19.04825,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1970,18.31639,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1971,19.74677,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1972,22.29846,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1973,22.72248,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1974,19.48117,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1975,27.72054,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1976,31.60084,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1977,34.54832,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1978,36.83438,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1979,31.65734,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1980,30.32219,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1981,31.13254,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1982,31.18036,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1983,39.95542,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1984,30.10398,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1985,30.78024,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1986,36.54034,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1987,30.74962,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1988,29.29096,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1989,24.19706,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1990,26.83343,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1991,30.1235,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1992,25.72207,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1993,24.46505,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1994,25.3426,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1995,21.78714,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1996,15.02165,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1997,16.833,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1998,16.45753,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",1999,16.1228,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2000,15.1987,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2001,15.85058,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2002,14.13378,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2003,18.6308,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2004,17.16413,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2005,19.00837,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2006,26.89721,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2007,27.2992,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2008,25.23132,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2009,30.42598,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2010,27.40515,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2011,32.03321,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2012,38.72137,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2013,48.54738,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14
+VEN,"Venezuela, RB",2014,62.48232,%,GFDD.OI.02,Bank deposits to GDP (%),worldbank-gfdd/comparators-monetary-prices-2026-07-14

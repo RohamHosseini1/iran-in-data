@@ -330,6 +330,34 @@
     "materialized": true
   },
   {
+    "chart_id": "comparator__energy__natural_gas_production_gross",
+    "title": "Natural Gas Production (Gross, incl. Reinjected & Flared) - comparator countries (USGS)",
+    "title_fa": null,
+    "category": "Energy",
+    "category_fa": null,
+    "description": "Comparator series from a SINGLE source that publishes the same table for every country (USGS Minerals Yearbook, Volume III Area Reports), so Iran and the comparators are measured identically rather than stitched from per-country national statistics.",
+    "year_range": [
+      "2014",
+      "2022"
+    ],
+    "countries": [],
+    "primary_source": "usgs-minerals-yearbook",
+    "citations": [
+      {
+        "source_org": "International Bank for Reconstruction and Development (World Bank); underlying data from National Iranian Oil Company",
+        "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+        "access_date": "2026-07-13",
+        "time_range": "",
+        "match_confidence": "fuzzy:2tok:wb1971-gas-production-consumption-1965-1969"
+      }
+    ],
+    "data_path": null,
+    "row_count": null,
+    "status": "new",
+    "merged_into": null,
+    "materialized": false
+  },
+  {
     "chart_id": "dams_of_iran_technical_economic_specs_1971",
     "title": "Major Reservoir Dams of Iran, Technical & Economic Specifications",
     "title_fa": "مشخصات فنی و اقتصادی سدهای مخزنی بزرگ ایران",
@@ -38059,11 +38087,21 @@
     "category_fa": "بخش مالی (پولی)",
     "description": "Closest WDI analog is wdi__FD.AST.PRVT.GD (Domestic credit to private sector by banks, % of GDP), which covers the identical 1961-2016 Iran window -- so this does NOT extend WDI's time range, it is an independently-sourced (GFDD via FRED, not WDI's own bulk file) alt vintage of a near-identical concept.",
     "year_range": [
-      "1961",
-      "2016"
+      "1960",
+      "2021"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "worldbank-gfdd-via-fred",
     "citations": [
@@ -38076,7 +38114,7 @@
       }
     ],
     "data_path": "data/charts/gfdd__gfdd_di_01/data.csv",
-    "row_count": 56,
+    "row_count": 561,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -38089,11 +38127,20 @@
     "category_fa": "بخش مالی (پولی)",
     "description": "No WDI Iran analog found for this specific structural ratio (deposit-money-bank share of total banking-system assets) -- genuinely new content, not just a new source for an existing concept.",
     "year_range": [
-      "1961",
-      "2016"
+      "1960",
+      "2021"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "worldbank-gfdd-via-fred",
     "citations": [
@@ -38106,7 +38153,7 @@
       }
     ],
     "data_path": "data/charts/gfdd__gfdd_di_04/data.csv",
-    "row_count": 56,
+    "row_count": 519,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -38179,11 +38226,21 @@
     "category_fa": "بخش مالی (پولی)",
     "description": "No WDI Iran indicator for bank-deposits-to-GDP found -- genuinely new content, complements the deposit-composition detail in pahlavi__bank_deposits_private_sector_1963_70 (different era, different granularity: aggregate/GDP-ratio here vs.",
     "year_range": [
-      "1961",
-      "2016"
+      "1960",
+      "2021"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "worldbank-gfdd-via-fred",
     "citations": [
@@ -38196,7 +38253,7 @@
       }
     ],
     "data_path": "data/charts/gfdd__gfdd_oi_02/data.csv",
-    "row_count": 56,
+    "row_count": 573,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -38239,11 +38296,21 @@
     "category_fa": "بخش مالی (پولی)",
     "description": "No WDI Iran analog -- genuinely new content, a banking-sector liquidity/leverage ratio not tracked elsewhere in this database.",
     "year_range": [
-      "1961",
-      "2016"
+      "1960",
+      "2021"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "worldbank-gfdd-via-fred",
     "citations": [
@@ -38256,7 +38323,7 @@
       }
     ],
     "data_path": "data/charts/gfdd__gfdd_si_04/data.csv",
-    "row_count": 56,
+    "row_count": 560,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -38359,10 +38426,16 @@
     "description": "Arak/Iralco smelter (82.5% IDRO / 12.5% Reynolds US / 5% Pakistan Govt per usgs_iran_commodity_narrative_highlights) -- output peaks 51,000t in 1975 then declines to 10,000t by 1980.",
     "year_range": [
       "1973",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "RUS",
+      "SAU",
+      "TUR",
+      "VEN"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Aluminum')",
     "citations": [
@@ -38374,7 +38447,7 @@
       }
     ],
     "data_path": "data/charts/iran_aluminum_production_1973_1980/data.csv",
-    "row_count": 8,
+    "row_count": 75,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -38388,10 +38461,17 @@
     "description": "PRODUCTION (manufacturing output), distinct from the vehicle REGISTRATION/fleet-count chart above (iran_vehicle_registration_by_type_1955_1972) -- a stock-vs-flow distinction, kept as separate charts.",
     "year_range": [
       "1967",
-      "2005"
+      "2024"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "ITA",
+      "KOR",
+      "RUS",
+      "TUR",
+      "USA"
     ],
     "primary_source": "iran-automotive-industry:khodro-paykan-production-history",
     "citations": [
@@ -38403,7 +38483,7 @@
       }
     ],
     "data_path": "data/charts/iran_automotive_national_vehicle_production_1970_2018/data.csv",
-    "row_count": 7,
+    "row_count": 47,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -38446,10 +38526,14 @@
     "description": "60219/60000/80000/80000/115000 t (1970-74).",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "IRN",
+      "RUS",
+      "SAU",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Barite)",
     "citations": [
@@ -38461,7 +38545,7 @@
       }
     ],
     "data_path": "data/charts/iran_barite_production_1961_1980/data.csv",
-    "row_count": 16,
+    "row_count": 51,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -38526,10 +38610,19 @@
     "description": "Cement (Hydraulic) Production",
     "year_range": [
       "1955",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "VEN"
     ],
     "primary_source": "pahlavi-era-primary-extraction:wb1960-industrial-production-1954-1959 + usgs-minerals-yearbook",
     "citations": [
@@ -38549,7 +38642,7 @@
       }
     ],
     "data_path": "data/charts/iran_cement_production_1954_1980/data.csv",
-    "row_count": 21,
+    "row_count": 116,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39178,10 +39271,12 @@
     "description": "USGS is primary; BGS provides an independent cross-check for 1970-74 with ONE real disagreement flagged (1970: BGS 220,000t vs USGS 120,000t; 1974: BGS 140,000t vs USGS 175,000t) -- both kept as separate lines per this project's overlapping-disagreeing-sources rule, not resolved to one number.",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "IRN",
+      "RUS",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Chromite (gross weight))",
     "citations": [
@@ -39193,7 +39288,7 @@
       }
     ],
     "data_path": "data/charts/iran_chromite_production_1961_1980/data.csv",
-    "row_count": 16,
+    "row_count": 41,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39262,13 +39357,17 @@
     "title_fa": "تولید کک",
     "category": "Mining & Minerals Production",
     "category_fa": "تولید معدن و مواد معدنی",
-    "description": "Coke Production",
+    "description": "Adds comparator-country lines to Iran's existing chart from a SINGLE source that publishes the same table for every country (USGS Minerals Yearbook, Volume III Area Reports), so Iran and the comparators are measured identically rather than stitched from per-country national statistics.",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "IRN",
+      "KOR",
+      "RUS",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Coke)",
     "citations": [
@@ -39280,7 +39379,7 @@
       }
     ],
     "data_path": "data/charts/iran_coke_production_1961_1980/data.csv",
-    "row_count": 16,
+    "row_count": 64,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39352,10 +39451,16 @@
     "description": "Copper Production, Mine Output, Smelter Output & Refined",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Copper')",
     "citations": [
@@ -39367,7 +39472,7 @@
       }
     ],
     "data_path": "data/charts/iran_copper_production_by_stage_1961_1980/data.csv",
-    "row_count": 32,
+    "row_count": 165,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -39381,10 +39486,18 @@
     "description": "Crude Steel Production",
     "year_range": [
       "1973",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "VEN"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Steel, crude)",
     "citations": [
@@ -39396,7 +39509,7 @@
       }
     ],
     "data_path": "data/charts/iran_crude_steel_production_1973_1980/data.csv",
-    "row_count": 8,
+    "row_count": 93,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40087,10 +40200,17 @@
     "description": "No earlier data in this project's holdings (1961-65 volume's Iran chapter did not report gypsum) -- real gap, not omitted.",
     "year_range": [
       "1968",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "RUS",
+      "SAU",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Gypsum)",
     "citations": [
@@ -40102,7 +40222,7 @@
       }
     ],
     "data_path": "data/charts/iran_gypsum_production_1968_1980/data.csv",
-    "row_count": 11,
+    "row_count": 87,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40494,13 +40614,22 @@
     "title_fa": "بازار بیمه ایران: حق بیمه مستقیم صادرشده و نرخ رشد آن",
     "category": "Financial Sector / Insurance",
     "category_fa": "بخش مالی / بیمه",
-    "description": "Iranian Insurance Market: Direct Premium Written & Growth Rate",
+    "description": "Same GFDD.DI.09 (life) / GFDD.DI.10 (non-life) insurance-premium-to-GDP comparator series as the earned-premium chart above, attached separately to this direct-premium-written chart since it is a distinct Iran chart_id (shorter window, 1379-1384/2000-2005, gross direct premium rather than earned premium).",
     "year_range": [
-      "2000",
-      "2005"
+      "1980",
+      "2020"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "bimeh-markazi-iran",
     "citations": [
@@ -40512,7 +40641,7 @@
       }
     ],
     "data_path": "data/charts/iran_insurance__market_direct_premium_1379_1384/data.csv",
-    "row_count": 12,
+    "row_count": 792,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40525,11 +40654,20 @@
     "category_fa": "بخش مالی / بیمه",
     "description": "Genuinely new category for this project: whole-market insurance premiums/losses.",
     "year_range": [
-      "2000",
-      "2012"
+      "1980",
+      "2020"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "bimeh-markazi-iran",
     "citations": [
@@ -40541,7 +40679,7 @@
       }
     ],
     "data_path": "data/charts/iran_insurance__market_earned_premium_incurred_loss_1379_1391/data.csv",
-    "row_count": 78,
+    "row_count": 858,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40613,10 +40751,15 @@
     "description": "1968-1970 rows carry a preserved unit ambiguity (metric tons vs thousand metric tons, flagged not resolved -- see mining series README).",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "IRN",
+      "KOR",
+      "RUS",
+      "TUR",
+      "VEN"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Iron ore')",
     "citations": [
@@ -40628,7 +40771,7 @@
       }
     ],
     "data_path": "data/charts/iran_iron_ore_production_1961_1980/data.csv",
-    "row_count": 16,
+    "row_count": 71,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40671,10 +40814,15 @@
     "description": "BGS and USGS closely AGREE for lead mine output (1970: both 22,940t exactly) -- a reassuring cross-validation, unlike the chromite disagreement in the same BGS crosscheck file.",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "KOR",
+      "RUS",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Lead')",
     "citations": [
@@ -40686,7 +40834,7 @@
       }
     ],
     "data_path": "data/charts/iran_lead_production_by_stage_1961_1980/data.csv",
-    "row_count": 22,
+    "row_count": 79,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40700,10 +40848,12 @@
     "description": "9100/12300/9700/22000/30000 t (1970-74).",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "IRN",
+      "RUS",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Manganese')",
     "citations": [
@@ -40715,7 +40865,7 @@
       }
     ],
     "data_path": "data/charts/iran_manganese_ore_production_1961_1980/data.csv",
-    "row_count": 16,
+    "row_count": 37,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40932,11 +41082,21 @@
     "category_fa": null,
     "description": "Quarterly total government debt to CBI, split into excl.-government-corporations and government-corporations-only sub-components, billion rials.",
     "year_range": [
-      "1978",
-      "2016"
+      "1960",
+      "2025"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "iran-data-portal",
     "citations": [
@@ -40949,7 +41109,7 @@
       }
     ],
     "data_path": "data/charts/iran_monetary__government_debt_to_central_bank_1978_2016/data.csv",
-    "row_count": 462,
+    "row_count": 997,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -40962,11 +41122,19 @@
     "category_fa": null,
     "description": "Central Bank of Iran's own primary annual figures for Liquidity (M2, 23/23 years) and Monetary Base (growth rate 19/23 years, level 5/23 years), transcribed by a prior session (2026-07-13) from 23 CBI Annual Review PDFs recovered via Wayback Machine (cbi.ir itself geo-blocks direct access; the Wayback route worked).",
     "year_range": [
-      "2001",
-      "2023"
+      "1960",
+      "2025"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "IRN",
+      "IRQ",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "cbi-iran",
     "citations": [
@@ -40979,7 +41147,7 @@
       }
     ],
     "data_path": "data/charts/iran_monetary__liquidity_m2_monetary_base_2000_2023/data.csv",
-    "row_count": 56,
+    "row_count": 544,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41135,10 +41303,16 @@
     "description": "Only appears in USGS from 1973 onward (Isfahan/Aryamehr steel complex startup) -- no earlier data exists in this project's holdings, a real gap not a search failure.",
     "year_range": [
       "1973",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "ITA",
+      "KOR",
+      "RUS",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Pig iron)",
     "citations": [
@@ -41150,7 +41324,7 @@
       }
     ],
     "data_path": "data/charts/iran_pig_iron_production_1973_1980/data.csv",
-    "row_count": 8,
+    "row_count": 74,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41828,10 +42002,15 @@
     "description": "350000/390000/400000/350000/400000 t (1970-74).",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "IRN",
+      "IRQ",
+      "RUS",
+      "SAU",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity=Salt (rock))",
     "citations": [
@@ -41843,7 +42022,7 @@
       }
     ],
     "data_path": "data/charts/iran_salt_production_1961_1980/data.csv",
-    "row_count": 16,
+    "row_count": 76,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -41893,11 +42072,21 @@
     "category_fa": "قیمت‌ها و تورم",
     "description": "Consumer Price Index by COICOP Group (1395=100, SH1390-1399)",
     "year_range": [
-      "2011",
-      "2020"
+      "1960",
+      "2025"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "sci-amar",
     "citations": [
@@ -41910,7 +42099,7 @@
       }
     ],
     "data_path": "data/charts/iran_sci1399__cpi_by_coicop_group_1390_1399/data.csv",
-    "row_count": 78,
+    "row_count": 637,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -42041,16 +42230,26 @@
     "category_fa": null,
     "description": "Consumer Price Index, Urban vs Rural",
     "year_range": [
-      "2007",
-      "2021"
+      "1960",
+      "2025"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "USA",
+      "VEN"
     ],
     "primary_source": "sci-amar",
     "citations": [],
     "data_path": "data/charts/iran_sci__cpi_urban_vs_rural_general_index_1385_1399/data.csv",
-    "row_count": 14,
+    "row_count": 573,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -42651,10 +42850,16 @@
     "description": "BGS's Zinc production table was checked and has NO Iran row for 1970-74 (confirmed absence, see mining series README).",
     "year_range": [
       "1961",
-      "1980"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR"
     ],
     "primary_source": "usgs_iran_mineral_production_1961_1980.csv (rows: commodity contains 'Zinc')",
     "citations": [
@@ -42666,7 +42871,7 @@
       }
     ],
     "data_path": "data/charts/iran_zinc_production_1961_1980/data.csv",
-    "row_count": 16,
+    "row_count": 83,
     "status": "new",
     "merged_into": null,
     "materialized": true
@@ -43793,10 +43998,19 @@
     "description": "No registry chart tracks Iran natural gas production/consumption/flaring at any date.",
     "year_range": [
       "1965",
-      "1969"
+      "2023"
     ],
     "countries": [
-      "IRN"
+      "ARG",
+      "ESP",
+      "IRN",
+      "IRQ",
+      "ITA",
+      "KOR",
+      "RUS",
+      "SAU",
+      "TUR",
+      "VEN"
     ],
     "primary_source": "pahlavi-era-primary-extraction",
     "citations": [
@@ -43809,7 +44023,7 @@
       }
     ],
     "data_path": "data/charts/pahlavi__gas_production_consumption_1965_69/data.csv",
-    "row_count": 45,
+    "row_count": 134,
     "status": "new",
     "merged_into": null,
     "materialized": true
