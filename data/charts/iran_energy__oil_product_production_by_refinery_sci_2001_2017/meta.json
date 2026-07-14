@@ -1,0 +1,25 @@
+{
+  "chart_id": "iran_energy__oil_product_production_by_refinery_sci_2001_2017",
+  "title": "Oil Product Production by Refinery",
+  "title_fa": "تولید فرآورده‌های نفتی پالایشگاه‌ها",
+  "category": "Energy",
+  "category_fa": "",
+  "sources": "sci-amar (Statistical Yearbook 1399, Ch.7 Table 7.3, sourced to Ministry of Oil)",
+  "n_rows": 40,
+  "year_range": [
+    "2001",
+    "2017"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "US Bureau of Mines Information Circular 8203 (1963), Table 4 (p.20)",
+      "source_url": "https://www.mohammadmossadegh.com/news/department-of-the-interior/the-petroleum-industry-of-iran.pdf",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:2tok:usbm1963-oil-industry-employment-1939-1960"
+    }
+  ]
+}

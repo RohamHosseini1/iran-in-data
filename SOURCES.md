@@ -1037,3 +1037,80 @@ new annual anchors (2004-2010) plus the pre-existing TGJU daily series (2011+).
 
 **Noted but NOT used per source-reliability policy**: none surfaced this round (no MEK/NCRI,
 IRGC-propaganda, Tudeh, or Fadaian-affiliated sources appeared in any search for this topic).
+
+## 2026-07-14 — Industry & energy production enrichment (agent: iran-industry-energy-enrich)
+
+Mission: find continuous Iranian-government series for thin industrial/energy charts (motor
+vehicle production; natural gas & oil-product production/consumption; cigarette/refined-sugar/
+processed-tea/textile-cloth manufacturing output).
+
+| Source | URL | Contents | Status |
+|---|---|---|---|
+| SCI Statistical Yearbook 1399 (2020/21), Ch.6/7/8, via Wayback Machine | https://web.archive.org/web/{ts}id_/https://www.amar.org.ir/Portals/1/yearbook/1399/{6,7,8}.pdf | Ch.7 "Oil & Gas" has genuine physical-quantity production/consumption tables (7.3 oil-product production by refinery, 7.4 oil-product consumption, 7.7 natural-gas production by source, 7.10 gas consumers, 7.12 petrochemical production), all Ministry of Oil/NIGC-sourced. Ch.8 "Manufacturing Industries" confirmed to be establishment/value-added survey only — NO physical-quantity table for any specific consumer product (cigarettes, sugar, tea, textiles all absent) | ⬇ `sci-amar/yearbook-industry-mining-oilgas/` ✅ 2026-07-14, 3 files (Ch.6/7/8) |
+| CBI Annual Review (already-held 23-edition run, `cbi-iran/cbi-annual-review-wayback/`) — re-mined this round | n/a (re-processing already-downloaded PDFs) | Two statistical-appendix tables recur every edition with a 5-year rolling window: "Table 8 Domestic Consumption of Oil Products" (Ministry of Petroleum) and "Table 10 Consumption of Natural Gas" (NIGC). Stacking all 23 editions gives a genuinely continuous annual series: oil-product consumption 1996/97-2017/18 (22 yrs, then a real Ministry-side reporting gap confirmed present in the two newest editions too); natural gas consumption 2005/06-2011/12 + 2015/16-2022/23 (2012/13-2014/15 genuinely absent from those 3 editions). Also mined the narrative "Selected Products and Industrial Exports" section (SAPCO-sourced through 2018/19, MIMT-sourced from 2019/20) for motor-vehicle/passenger-car production, and the newer "Table 24/22 Production Performance of Selected Industries" (MIMT) for a cross-check | 📊 derived: `data/processed/iran_industry_energy_enrich_series/` ✅ 2026-07-14 |
+| Iran Data Portal — checked for an Industry/Manufacturing topic | https://irandataportal.syr.edu/ + /economic-financial-affairs/ | No dedicated industry topic page exists; Economic & Financial Affairs page's 22 tables include none of cigarette/sugar/tea/textile-cloth physical production | ⛔ confirmed no new data this angle |
+| MIMT daily bulletins (already-held `mimt-iran/statistics-reports/`) — re-checked | n/a | Re-confirmed (2nd independent check, different agent/session): licensing/permits + stock-exchange + customs trade value only, zero production-quantity data of any kind | ⛔ reconfirmed dead end for this cluster |
+| IranOpenData — targeted web search for cigarette/sugar/textile production | iranopendata.org | No relevant hit | ⛔ no data found |
+
+**Result on cigarette production / refined sugar output / processed tea output / textile cloth
+output**: genuinely NOT FOUND via any Iranian primary, Wayback, Iran Data Portal, Iran Open Data,
+or MIMT route checked. Not fabricated or silently substituted with a non-Iranian source — reported
+as an open gap. Full attempt log: `logs/downloads/iran-industry-energy-enrich.log`.
+
+**Result on the other three priorities**: strong wins. Motor vehicle production extended
+2009/10-2022/23 (upgrading the existing chart's post-2005 era from secondary/Wikipedia sourcing to
+primary CBI/SAPCO/MIMT sourcing). Natural gas consumption extended to a near-continuous 2005-2022
+annual series (NIGC-sourced) plus a sparse 2001-2017 production series (Ministry of Oil-sourced).
+Oil-product domestic consumption: a new 22-year continuous annual series (1996/97-2017/18,
+Ministry of Petroleum-sourced) with an honestly-flagged post-2018 reporting gap. Staged for the
+registry-apply step at `data/processed/chart_registry_staging/enrichment_industry_energy.csv`.
+
+## 2026-07-14 — Monetary, fiscal & household-consumption enrichment (agent: iran-monetary-fiscal-household-enrich)
+
+Mission: find continuous Iranian-government series (or credible re-hosts of it) for money supply/
+monetary aggregates, household expenditure & consumption, and government budget/expenditure —
+the owner's "you have basically zero sources from Iran's own government sites" directive, applied
+to this cluster.
+
+**Registration-gap audit first** (per this project's "dig once" convention): before hunting
+anything new, cross-referenced `data/raw`/`data/processed` against `CHART_REGISTRY.csv` and found
+several already-processed, real, sourced files that had never actually been registered as charts —
+`cbi_annual_review_series/monetary_banking_aggregates_1379_1401.csv` (CBI's own Annual Review M2/
+monetary-base data, FY1379-1401/2000-2023) and `iran_plan_budget_org_series/
+annual_budget_law_totals_1371_1401.csv` (whole-country budget-law totals, FY1371-1401/1992-2023,
+read directly from the promulgated law text) were both fully processed with real-USD variants but
+zero CHART_REGISTRY.csv hits; likewise a prior session's SCI HEIS household-expenditure extraction
+(`sci-amar/household-expenditure-detail-2001-2020/`, 1089 rows) and an Iran Data Portal GDP-by-
+expenditure-component table (1991-2005) and quarterly government-debt-to-Central-Bank table
+(1978-2016) sat as unharmonized/unregistered raw downloads. All of these were harmonized/registered
+this round — see staging file.
+
+| Source | URL | Contents | Status |
+|---|---|---|---|
+| JHU Institute for Applied Economics (Haver Analytics' Iran database) | https://sites.krieger.jhu.edu/iae/files/2017/04/Iran-central-bank-balance-sheet.xlsx (direct 403; retrieved via Wayback) | 29 quarterly monetary/credit-aggregate metrics, every column explicitly `.LSOURCE`-attributed to "Central Bank of the Islamic Republic of Iran": monetary base, M1/M2 and components, banking-system net foreign assets, claims on public/private sector, government deposits, notes/coins issued, 1998-Q4 to 2016-Q2 | ⬇ `jhu-iae-haver-iran-monetary/cbi-balance-sheet-quarterly-1998-2016/` ✅ 2026-07-14, cross-validated exactly against existing CBI Annual Review M2 figure (2001-Q1 = 249,110.7 bn rials, matches to the decimal) |
+| Djavad Salehi-Isfahani (Virginia Tech economist), "Tyranny of numbers" blog analysis of SCI's own HEIS microdata | https://djavadsalehi.com/2025/09/20/... and .../2024/10/22/... | Real per-capita-expenditure growth by region, poverty rate (16.6% in 2024, down from 17.5%), Gini coefficient (0.397→0.409), cash-transfer levels, for SH1402-1403 (2023-2025) — the only route found this pass past amar.org.ir's continued full block | ⬇ `salehi-isfahani-heis-analysis/tyranny-of-numbers-blog-2024-2025/` ✅ 2026-07-14, 2 figures spot-checked against raw saved HTML before transcribing |
+| tsd.cbi.ir (CBI's own time-series database, "annual data available from 1959" per an earlier session's note) | https://tsd.cbi.ir/DisplayEn/Content.aspx | Confirmed via a fresh Wayback fetch to be an ASP.NET WebForms postback-driven query tool (image splash screen + `__VIEWSTATE`), not a static data page — Wayback only ever captured the unrendered splash screen, never a query result | ⛔ CONFIRMED PERMANENT DEAD END, do not re-attempt without a live-JS-capable route |
+| CBI "Economic Trends" bulletin category page | https://cbi.ir/category/EconomicTrends_en.aspx (via Wayback) | Category page has no direct PDF links; the one `page/<id>.aspx` link found redirected (HTTP 302) to a target Wayback never captured | ⛔ dead end this pass |
+| WebSearch cross-check: does CBI publish its own M1/M2 pre-1999? | — | Independently confirms (matches this project's own prior finding) that CBI's own live M1/M2 series only starts 1999; pre-1999 depth requires archival/academic reconstruction | 📋 confirms the 1972-1997 gap (between IMF IFS's 1971 endpoint and Haver's 1998 start) is real, not a search failure |
+
+**Harmonized 6 processed files** (`data/processed/iran_monetary_fiscal_household_enrich_series/`,
+schema `country_iso3, indicator_id, year, value, unit, source_dataset`): IMF IFS historical money-
+supply/banking/national-accounts subset (1937-1971, 415 rows, itself a prior-session download never
+before harmonized), government-debt-to-Central-Bank quarterly (1978-2016, 462 rows, the single
+biggest continuity win — bridges the 1971-2000 gap as a monetary-financing proxy), SCI HEIS
+household-expenditure detail (2001-2020, 1088 rows), GDP-by-final-expenditure-component (1991-2005,
+42 rows), the new JHU/Haver quarterly monetary aggregates (1998-2016, 2059 rows), and the new
+Salehi-Isfahani HEIS-analysis figures (2023-2025, 12 rows).
+
+**Staged 8 rows** at `data/processed/chart_registry_staging/enrichment_monetary_fiscal_household.csv`
+(3 `new`: the two previously-orphaned already-processed CBI/budget-law charts plus the new
+government-debt-to-CBI series; 5 `extends`, correctly ordered so same-batch extends-onto-new targets
+resolve during merge).
+
+**Honest remaining gap**: the 1972-1997 M1/M2 window is genuinely open — searched via CBI's own
+time-series database (dead), CBI's Economic Trends bulletin (dead), and general web search
+(confirms no free/public continuous source exists for this specific window) — not fabricated,
+not silently skipped. Full attempt trail: `logs/downloads/iran-monetary-fiscal-household-enrich.log`.
+
+**Noted but NOT used per source-reliability policy**: none surfaced this round (no MEK/NCRI,
+IRGC-propaganda, Tudeh, or Fadaian-affiliated sources appeared in any search for this topic).

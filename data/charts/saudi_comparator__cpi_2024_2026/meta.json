@@ -1,24 +1,24 @@
 {
- "chart_id": "saudi_comparator__cpi_2024_2026",
- "title": "Saudi Arabia, Consumer Price Index, Annual & Monthly (GASTAT)",
- "category": "Comparator: Prices & Inflation",
- "sources": "gastat-saudi",
- "n_rows": 68,
- "year_range": [
-  "2024",
-  "2026"
- ],
- "countries": [
-  "SAU"
- ],
- "citations": [
-  {
-   "source_org": "General Authority for Statistics (GASTAT), Saudi Arabia",
-   "source_url": "https://www.stats.gov.sa/statistics?index=119021&subindex=121417",
-   "access_date": "2026-07-13",
-   "time_range": "2024-2026"
-  }
- ],
- "category_fa": "مقایسه‌ای: قیمت‌ها و تورم",
- "title_fa": "شاخص قیمت مصرف‌کننده عربستان سعودی، سالانه و ماهانه (GASTAT)"
+  "chart_id": "saudi_comparator__cpi_2024_2026",
+  "title": "Saudi Arabia, Consumer Price Index, Annual & Monthly (GASTAT)",
+  "category": "Comparator: Prices & Inflation",
+  "sources": "gastat-saudi",
+  "n_rows": 68,
+  "year_range": [
+    "2024",
+    "2026"
+  ],
+  "countries": [
+    "SAU"
+  ],
+  "citations": [
+    {
+      "source_org": "General Authority for Statistics (GASTAT), Saudi Arabia",
+      "source_url": "https://www.stats.gov.sa/statistics?index=119021&subindex=121417",
+      "access_date": "2026-07-13",
+      "time_range": "2024-2026"
+    }
+  ],
+  "category_fa": "مقایسه‌ای: قیمت‌ها و تورم",
+  "title_fa": "شاخص قیمت مصرف‌کننده عربستان سعودی، سالانه و ماهانه (GASTAT)"
 }

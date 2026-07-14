@@ -1,32 +1,32 @@
 {
- "chart_id": "iran_sar_cheshmeh_copper_project_narrative_1965_2022",
- "title": "Sar Cheshmeh Copper Project, Development Narrative & Modern Production",
- "category": "Mining & Minerals Production",
- "sources": "usgs-minerals-yearbook (narrative) + imidro-iran (modern production)",
- "n_rows": 51,
- "year_range": [
-  "1965",
-  "1980"
- ],
- "countries": [
-  "IRN"
- ],
- "citations": [
-  {
-   "source_org": "US Bureau of Mines (Minerals Yearbook Volume III/IV, Area Reports: International)",
-   "source_url": "https://archive.org (see data/raw/usgs-minerals-yearbook/historical-pre1990-volumes/iran-production-extraction/manifest.json for exact volume URLs)",
-   "access_date": "2026-07-13",
-   "time_range": "1961-1980",
-   "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
-  },
-  {
-   "source_org": "Iran Mines and Mining Industries Development and Renovation Organization (IMIDRO)",
-   "source_url": "imidro.gov.ir",
-   "access_date": "2026-07-13",
-   "time_range": "2002-2022",
-   "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
-  }
- ],
- "category_fa": "تولید معدن و مواد معدنی",
- "title_fa": "روند توسعه و تولید طرح مس سرچشمه در دوران معاصر"
+  "chart_id": "iran_sar_cheshmeh_copper_project_narrative_1965_2022",
+  "title": "Sar Cheshmeh Copper Project, Development Narrative & Modern Production",
+  "category": "Mining & Minerals Production",
+  "sources": "usgs-minerals-yearbook (narrative) + imidro-iran (modern production)",
+  "n_rows": 51,
+  "year_range": [
+    "1965",
+    "1980"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "US Bureau of Mines (Minerals Yearbook Volume III/IV, Area Reports: International)",
+      "source_url": "https://archive.org (see data/raw/usgs-minerals-yearbook/historical-pre1990-volumes/iran-production-extraction/manifest.json for exact volume URLs)",
+      "access_date": "2026-07-13",
+      "time_range": "1961-1980",
+      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+    },
+    {
+      "source_org": "Iran Mines and Mining Industries Development and Renovation Organization (IMIDRO)",
+      "source_url": "imidro.gov.ir",
+      "access_date": "2026-07-13",
+      "time_range": "2002-2022",
+      "restored_note": "citation-accuracy-audit restoration 2026-07-13: this row's audit-verified citation (originally fixed 2026-07-13T13:15 per logs/downloads/citation-accuracy-audit.log) had silently reverted to a fuzzy-matched value, likely when a later staging-merge pass re-ran build_citations.py from a pre-audit registry snapshot. Restored from the audit log's documented fix + the cited manifest.json files."
+    }
+  ],
+  "category_fa": "تولید معدن و مواد معدنی",
+  "title_fa": "روند توسعه و تولید طرح مس سرچشمه در دوران معاصر"
 }

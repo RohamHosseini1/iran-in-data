@@ -1,0 +1,43 @@
+{
+  "dataset_id": "sci-yearbook-industry-mining-oilgas",
+  "title": "Iran Statistical Yearbook 1399 (2020/21) — Mining & Quarrying (Ch.6), Oil & Gas (Ch.7), Manufacturing Industries (Ch.8) chapters, retrieved via Wayback Machine",
+  "source_org": "Statistical Centre of Iran (SCI / Markaz-e Amar-e Iran)",
+  "source_url": "https://www.amar.org.ir/english/Iran-Statistical-Yearbook/Statistical-Yearbook-2020-2021",
+  "download_url": "https://web.archive.org/web/{timestamp}id_/https://www.amar.org.ir/Portals/1/yearbook/1399/{chapter}.pdf",
+  "retrieved_at_utc": "2026-07-14T13:01:00Z",
+  "retrieved_by": "agent:iran-industry-energy-enrich",
+  "files": [
+    {
+      "name": "sci_yearbook_1399_ch6.pdf",
+      "original_name": "Portals/1/yearbook/1399/6.pdf",
+      "sha256": "cb951d984baa93dcd3babebc0539eefded39195ec74220ddf331871c8bce51bf",
+      "bytes": 763451,
+      "chapter_title": "6. Mining & Quarrying",
+      "wayback_timestamp": "20230329155656"
+    },
+    {
+      "name": "sci_yearbook_1399_ch7.pdf",
+      "original_name": "Portals/1/yearbook/1399/7.pdf",
+      "sha256": "df6a47a88e0009f8ba97f4da38b3536a682f2ca86299a3445dc73f87d8684e1e",
+      "bytes": 783814,
+      "chapter_title": "7. Oil & Gas",
+      "wayback_timestamp": "20230329153457"
+    },
+    {
+      "name": "sci_yearbook_1399_ch8.pdf",
+      "original_name": "Portals/1/yearbook/1399/8.pdf",
+      "sha256": "1025ca7d49f590e63919bf0879aea0a957d4c7e7b51b79c1779d3fcf9ca249ba",
+      "bytes": 1210248,
+      "chapter_title": "8. Manufacturing Industries",
+      "wayback_timestamp": "20230329154457"
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "Iranian fiscal year 1399 (2020/21) edition; individual tables carry multi-year series back to 1380 SH (2001/02) at 5-year intervals plus 1394-1399 SH annually",
+  "frequency": "annual (yearbook edition); table granularity varies (5-yearly intervals for older years, annual for most recent ~6 years)",
+  "topics": ["mining", "oil", "natural gas", "petrochemicals", "manufacturing", "official statistics"],
+  "units": "described within each chapter PDF (cu m/day, 1000 cu m, mln cu m/day, billion cubic meters, etc.)",
+  "license_terms": "SCI public publication; no explicit license stated on site",
+  "notes": "Companion download to the already-held data/raw/sci-amar/sci-cpi-yearbook/ (chapters 4, 20, 21, 22, 23, 00) from a prior session, using the identical Wayback retrieval pattern (direct amar.org.ir TLS connection confirmed still reset/geo-blocked; not re-tested live, went straight to Wayback per documented prior finding). Downloaded specifically to check for physical-quantity production data (motor vehicles, cigarettes, refined sugar, processed tea, textile cloth, natural gas, oil products) per this session's task brief. RESULT: Chapter 7 (Oil & Gas) has genuinely useful physical-production/consumption tables (7.3 oil-product production, 7.4 oil-product consumption, 7.7 natural-gas production, 7.10 natural-gas consumers, 7.12 petrochemical production) sourced to Ministry of Oil / National Iranian Gas Company. Chapter 8 (Manufacturing Industries) does NOT have physical-quantity tables for specific consumer products (cigarettes/sugar/tea/textile) -- it is an ISIC-classified large-establishment survey (counts, employment, value-added, investment only); confirmed via full-text grep, zero hits for 'sugar', 'selected industrial products', 'physical production', 'quantity produced', 'passenger car', 'automobile'. Chapter 6 (Mining & Quarrying) downloaded but not deep-mined this session (out of the assigned cluster's core commodities; flagged for a future mining-focused pass).",
+  "failures": []
+}

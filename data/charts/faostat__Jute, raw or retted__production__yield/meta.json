@@ -1,24 +1,24 @@
 {
- "chart_id": "faostat__Jute, raw or retted__production__yield",
- "title": "Jute, raw or retted, yield (kg/ha)",
- "category": "Agriculture Production",
- "sources": "faostat-qcl",
- "n_rows": 30,
- "year_range": [
-  "1961",
-  "1990"
- ],
- "countries": [
-  "IRN"
- ],
- "citations": [
-  {
-   "source_org": "FAO, FAOSTAT",
-   "source_url": "https://www.fao.org/faostat/en/#data/QCL",
-   "access_date": "2026-07-13",
-   "time_range": ""
-  }
- ],
- "category_fa": "تولید کشاورزی",
- "title_fa": "عملکرد کنف، خام یا خیس‌خورده (کیلوگرم بر هکتار)"
+  "chart_id": "faostat__Jute, raw or retted__production__yield",
+  "title": "Jute, raw or retted, yield (kg/ha)",
+  "category": "Agriculture Production",
+  "sources": "faostat-qcl",
+  "n_rows": 30,
+  "year_range": [
+    "1961",
+    "1990"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "FAO, FAOSTAT",
+      "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+      "access_date": "2026-07-13",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "تولید کشاورزی",
+  "title_fa": "عملکرد کنف، خام یا خیس‌خورده (کیلوگرم بر هکتار)"
 }

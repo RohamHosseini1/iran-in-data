@@ -25,19 +25,31 @@ REGISTRY = "data/processed/CHART_REGISTRY.csv"
 STAGING_GLOB = "data/processed/chart_registry_staging/*.csv"
 MERGED_LOG = "data/processed/chart_registry_staging/.merged_files.json"
 
-FIELDS = ["chart_id", "title", "category", "primary_source", "alt_sources",
-          "n_unit_variants_merged", "underlying_codes", "status",
-          "extends_chart_id", "time_range", "notes", "citations_json"]
+# Columns this script itself reads/writes. The REAL column set is whatever the
+# registry currently has on disk -- NEVER write a hardcoded list, or columns added
+# later (title_fa, category_fa, merged_into, citations_json) get silently dropped.
+# That exact bug has bitten this registry three times now; FIELDS is resolved at
+# runtime from the actual header and only ever GROWS.
+REQUIRED_FIELDS = ["chart_id", "title", "category", "primary_source", "alt_sources",
+                   "n_unit_variants_merged", "underlying_codes", "status",
+                   "extends_chart_id", "time_range", "notes", "citations_json"]
+
+FIELDS = list(REQUIRED_FIELDS)  # replaced at load time by the on-disk header
 
 
 def load_current_registry():
+    global FIELDS
     registry = {}
     order = []
     if not os.path.exists(REGISTRY):
         raise SystemExit(f"{REGISTRY} does not exist -- nothing to merge into. "
                           "If this is a true first run, seed it from CHART_REGISTRY_base.csv first.")
     with open(REGISTRY, newline='', encoding='utf-8') as f:
-        for row in csv.DictReader(f):
+        rd = csv.DictReader(f)
+        header = list(rd.fieldnames or [])
+        # preserve every existing column, in order; add any required one that's absent
+        FIELDS = header + [k for k in REQUIRED_FIELDS if k not in header]
+        for row in rd:
             for k in FIELDS:
                 row.setdefault(k, "")
             registry[row["chart_id"]] = row

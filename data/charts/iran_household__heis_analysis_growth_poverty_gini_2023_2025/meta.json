@@ -1,0 +1,25 @@
+{
+  "chart_id": "iran_household__heis_analysis_growth_poverty_gini_2023_2025",
+  "title": "Household Expenditure, Poverty and Inequality",
+  "title_fa": "هزینه خانوار، فقر و نابرابری",
+  "category": "Household Consumption",
+  "category_fa": "",
+  "sources": "salehi-isfahani-heis-analysis",
+  "n_rows": 12,
+  "year_range": [
+    "2022",
+    "2024"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "World Bank, Poverty Global Practice, Middle East & North Africa",
+      "source_url": "https://documents1.worldbank.org/curated/en/099110623175541902/pdf/P1777150fa1dcd02108b55086af5f3268f5.pdf",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-poverty-assessment-2023"
+    }
+  ]
+}

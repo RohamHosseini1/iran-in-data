@@ -1,0 +1,25 @@
+{
+  "chart_id": "iran_monetary__government_debt_to_central_bank_1978_2016",
+  "title": "Government Debt to the Central Bank",
+  "title_fa": "بدهی دولت به بانک مرکزی",
+  "category": "Government Finance",
+  "category_fa": "",
+  "sources": "iran-data-portal",
+  "n_rows": 462,
+  "year_range": [
+    "1978",
+    "2016"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "Encyclopaedia Iranica Foundation (article), citing Bharier (1971), Karshenas (1990), Moghadam, Kaldor, Motamen as original sources",
+      "source_url": "https://www.iranicaonline.org/articles/fiscal-system-v-pahlavi-period/",
+      "access_date": "2026-07-12",
+      "time_range": "",
+      "match_confidence": "fuzzy:2tok:iranica-fiscal-system-narrative-series-1921-1979"
+    }
+  ]
+}

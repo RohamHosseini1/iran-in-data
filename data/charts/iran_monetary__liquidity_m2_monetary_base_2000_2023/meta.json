@@ -1,0 +1,25 @@
+{
+  "chart_id": "iran_monetary__liquidity_m2_monetary_base_2000_2023",
+  "title": "Money Supply and Monetary Base",
+  "title_fa": "نقدینگی و پایه پولی",
+  "category": "Government Finance",
+  "category_fa": "",
+  "sources": "cbi-iran",
+  "n_rows": 56,
+  "year_range": [
+    "2001",
+    "2023"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Monetary Fund, Statistics Department (transcribed by agent from PDF tables)",
+      "source_url": "https://www.elibrary.imf.org/subject/041",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-annual-series-extracted"
+    }
+  ]
+}

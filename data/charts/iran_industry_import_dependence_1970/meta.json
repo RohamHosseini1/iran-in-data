@@ -1,24 +1,24 @@
 {
- "chart_id": "iran_industry_import_dependence_1970",
- "title": "Industrial Import Dependence, Share of Imported Inputs in Sales Value, by Product",
- "category": "Industry / Light Manufacturing",
- "sources": "pahlavi-era-primary-extraction:wb1970-industry-import-dependence",
- "n_rows": 37,
- "year_range": [
-  "1970",
-  "1970"
- ],
- "countries": [
-  "IRN"
- ],
- "citations": [
-  {
-   "source_org": "International Bank for Reconstruction and Development (World Bank) / Industrial and Mining Development Bank of Iran (IMDBI)",
-   "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
-   "access_date": "2026-07-12",
-   "time_range": ""
-  }
- ],
- "category_fa": "صنعت / صنایع سبک",
- "title_fa": "سهم نهاده‌های وارداتی در ارزش فروش صنعت، به تفکیک محصول"
+  "chart_id": "iran_industry_import_dependence_1970",
+  "title": "Industrial Import Dependence, Share of Imported Inputs in Sales Value, by Product",
+  "category": "Industry / Light Manufacturing",
+  "sources": "pahlavi-era-primary-extraction:wb1970-industry-import-dependence",
+  "n_rows": 37,
+  "year_range": [
+    "1970",
+    "1970"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Bank for Reconstruction and Development (World Bank) / Industrial and Mining Development Bank of Iran (IMDBI)",
+      "source_url": "https://openknowledge.worldbank.org (World Bank Archives, Iran country documents)",
+      "access_date": "2026-07-12",
+      "time_range": ""
+    }
+  ],
+  "category_fa": "صنعت / صنایع سبک",
+  "title_fa": "سهم نهاده‌های وارداتی در ارزش فروش صنعت، به تفکیک محصول"
 }

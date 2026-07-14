@@ -1,24 +1,24 @@
 {
- "chart_id": "mining_comparator__arg_usgs_mineral_production",
- "title": "Argentina, Mineral Production, Major Commodities (USGS Minerals Yearbook)",
- "category": "Comparator: Mining & Minerals Production",
- "sources": "usgs-minerals-yearbook",
- "n_rows": 545,
- "year_range": [
-  "2014",
-  "2021"
- ],
- "countries": [
-  "ARG"
- ],
- "citations": [
-  {
-   "source_org": "U.S. Geological Survey, National Minerals Information Center",
-   "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/south-america#arg",
-   "access_date": "2026-07-13",
-   "time_range": "2014-2021"
-  }
- ],
- "category_fa": "مقایسه‌ای: تولید معدن و مواد معدنی",
- "title_fa": "تولید مواد معدنی آرژانتین، کالاهای عمده (سالنامه معدنی USGS)"
+  "chart_id": "mining_comparator__arg_usgs_mineral_production",
+  "title": "Argentina, Mineral Production, Major Commodities (USGS Minerals Yearbook)",
+  "category": "Comparator: Mining & Minerals Production",
+  "sources": "usgs-minerals-yearbook",
+  "n_rows": 545,
+  "year_range": [
+    "2014",
+    "2021"
+  ],
+  "countries": [
+    "ARG"
+  ],
+  "citations": [
+    {
+      "source_org": "U.S. Geological Survey, National Minerals Information Center",
+      "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/south-america#arg",
+      "access_date": "2026-07-13",
+      "time_range": "2014-2021"
+    }
+  ],
+  "category_fa": "مقایسه‌ای: تولید معدن و مواد معدنی",
+  "title_fa": "تولید مواد معدنی آرژانتین، کالاهای عمده (سالنامه معدنی USGS)"
 }

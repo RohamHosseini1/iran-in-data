@@ -1,0 +1,25 @@
+{
+  "chart_id": "iranplanbudgetorg__annual_budget_law_totals",
+  "title": "Annual Budget Law Totals",
+  "title_fa": "ارقام کل قانون بودجه سالانه",
+  "category": "Government Finance",
+  "category_fa": "",
+  "sources": "iran-plan-budget-org",
+  "n_rows": 128,
+  "year_range": [
+    "1992",
+    "2022"
+  ],
+  "countries": [
+    "IRN"
+  ],
+  "citations": [
+    {
+      "source_org": "International Monetary Fund, Statistics Department (transcribed by agent from PDF tables)",
+      "source_url": "https://www.elibrary.imf.org/subject/041",
+      "access_date": "2026-07-13",
+      "time_range": "",
+      "match_confidence": "fuzzy:3tok:iran-annual-series-extracted"
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+chart_id,old_title_fa,new_title_fa,note
+faostat__Agriculture__price,قیمت تولیدکننده کشاورزی,کشاورزی,faostat-commodity term
+"faostat__Alcohol, Non-Food__trade",صادرات و واردات الکل غیرخوراکی,الکل غیرخوراکی,faostat-commodity term
+faostat__Alcoholic Beverages__consumption,سرانه مصرف نوشیدنی‌های الکلی,نوشیدنی‌های الکلی,faostat-commodity term
+faostat__Alcoholic Beverages__trade,صادرات و واردات نوشیدنی‌های الکلی,نوشیدنی‌های الکلی,faostat-commodity term
+"faostat__Almonds, in shell__price",قیمت تولیدکننده بادام با پوست,بادام با پوست,faostat-commodity term
+"faostat__Almonds, in shell__production",تولید، سطح زیر کشت و عملکرد بادام با پوست,بادام با پوست,faostat-commodity term
+faostat__Animal Products__consumption,سرانه مصرف محصولات دامی,فرآورده‌های دامی,faostat-commodity term
+faostat__Animal fats__consumption,سرانه مصرف چربی‌های حیوانی,چربی‌های حیوانی,faostat-commodity term
+faostat__Animal fats__trade,صادرات و واردات چربی‌های حیوانی,چربی‌های حیوانی,faostat-commodity term
+"faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__price",قیمت تولیدکننده انیسون، بادیان ختایی، گشنیز، زیره سبز، زیره سیاه، رازیانه و دانه ارس، خام,انیسون، بادیان، گشنیز، زیره و رازیانه، خام,faostat-commodity term
+"faostat__Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw__production",تولید، سطح زیر کشت و عملکرد انیسون، بادیان ختایی، گشنیز، زیره سبز، زیره سیاه، رازیانه و دانه ارس، خام,انیسون، بادیان، گشنیز، زیره و رازیانه، خام,faostat-commodity term
+faostat__Apples and products__consumption,سرانه مصرف سیب و فرآورده‌های آن,سیب و فرآورده‌های آن,faostat-commodity term
+faostat__Apples and products__trade,صادرات و واردات سیب و فرآورده‌های آن,سیب و فرآورده‌های آن,faostat-commodity term
+faostat__Apples__price,قیمت تولیدکننده سیب,سیب,faostat-commodity term
+faostat__Apples__production,تولید، سطح زیر کشت و عملکرد سیب,سیب,faostat-commodity term
+faostat__Apricots__price,قیمت تولیدکننده زردآلو,زردآلو,faostat-commodity term
+faostat__Apricots__production,تولید، سطح زیر کشت و عملکرد زردآلو,زردآلو,faostat-commodity term
+"faostat__Aquatic Animals, Others__consumption",سرانه مصرف سایر جانوران آبزی,سایر جانوران آبزی,faostat-commodity term
+"faostat__Aquatic Animals, Others__trade",صادرات و واردات سایر جانوران آبزی,سایر جانوران آبزی,faostat-commodity term
+faostat__Aquatic Plants__trade,صادرات و واردات گیاهان آبزی,گیاهان آبزی,faostat-commodity term
+"faostat__Aquatic Products, Other__trade",صادرات و واردات سایر محصولات آبزی,سایر فرآورده‌های آبزی,faostat-commodity term
+faostat__Artichokes__price,قیمت تولیدکننده کنگر فرنگی,کنگر فرنگی,faostat-commodity term
+faostat__Artichokes__production,تولید، سطح زیر کشت و عملکرد کنگر فرنگی,کنگر فرنگی,faostat-commodity term
+faostat__Asparagus__price,قیمت تولیدکننده مارچوبه,مارچوبه,faostat-commodity term
+faostat__Asparagus__production,تولید، سطح زیر کشت و عملکرد مارچوبه,مارچوبه,faostat-commodity term
+faostat__Asses__production,تولید، سطح زیر کشت و عملکرد الاغ,الاغ,faostat-commodity term
+faostat__Bananas__consumption,سرانه مصرف موز,موز,faostat-commodity term
+faostat__Bananas__price,قیمت تولیدکننده موز,موز,faostat-commodity term
+faostat__Bananas__production,تولید، سطح زیر کشت و عملکرد موز,موز,faostat-commodity term
+faostat__Bananas__trade,صادرات و واردات موز,موز,faostat-commodity term
+faostat__Barley and products__consumption,سرانه مصرف جو و فرآورده‌های آن,جو و فرآورده‌های آن,faostat-commodity term
+faostat__Barley and products__trade,صادرات و واردات جو و فرآورده‌های آن,جو و فرآورده‌های آن,faostat-commodity term
+faostat__Barley__price,قیمت تولیدکننده جو,جو,faostat-commodity term
+faostat__Barley__production,تولید، سطح زیر کشت و عملکرد جو,جو,faostat-commodity term
+"faostat__Beans, dry__price",قیمت تولیدکننده لوبیا، خشک,لوبیا خشک,faostat-commodity term
+"faostat__Beans, dry__production",تولید، سطح زیر کشت و عملکرد لوبیا، خشک,لوبیا خشک,faostat-commodity term
+faostat__Beans__consumption,سرانه مصرف لوبیا,لوبیا,faostat-commodity term
+faostat__Beans__trade,صادرات و واردات لوبیا,لوبیا,faostat-commodity term
+"faostat__Beef and Buffalo Meat, primary__production",تولید، سطح زیر کشت و عملکرد گوشت گاو و گاومیش، اولیه,گوشت گاو و گاومیش، اولیه,faostat-commodity term
+"faostat__Beer of barley, malted__production",تولید آبجو جو مالت‌شده (تن),آبجو از جو مالت‌شده,faostat-commodity term
+faostat__Beer__consumption,سرانه مصرف آبجو,آبجو,faostat-commodity term
+faostat__Beer__trade,صادرات و واردات آبجو,آبجو,faostat-commodity term
+faostat__Bees__production,تولید، سطح زیر کشت و عملکرد زنبور عسل,زنبور عسل,faostat-commodity term
+"faostat__Beverages, Fermented__consumption",سرانه مصرف نوشیدنی‌های تخمیری,نوشیدنی‌های تخمیری,faostat-commodity term
+"faostat__Beverages, Fermented__trade",صادرات و واردات نوشیدنی‌های تخمیری,نوشیدنی‌های تخمیری,faostat-commodity term
+faostat__Bovine Meat__consumption,سرانه مصرف گوشت گاوی,گوشت گاوی,faostat-commodity term
+faostat__Bovine Meat__trade,صادرات و واردات گوشت گاوی,گوشت گاوی,faostat-commodity term
+"faostat__Broad beans and horse beans, dry__production",تولید، سطح زیر کشت و عملکرد باقلا، خشک,باقلا خشک,faostat-commodity term
+"faostat__Broad beans and horse beans, green__price",قیمت تولیدکننده باقلا، سبز,باقلا سبز,faostat-commodity term
+"faostat__Broad beans and horse beans, green__production",تولید، سطح زیر کشت و عملکرد باقلا، سبز,باقلا سبز,faostat-commodity term
+"faostat__Buffalo fat, unrendered__production",تولید، سطح زیر کشت و عملکرد چربی گاومیش، خام,چربی خام گاومیش,faostat-commodity term
+faostat__Buffalo__production,تولید، سطح زیر کشت و عملکرد گاومیش,گاومیش,faostat-commodity term
+faostat__Butter and Ghee__production,تولید کره و روغن حیوانی (تن),کره و روغن حیوانی,faostat-commodity term
+faostat__Butter and ghee of sheep milk__production,تولید کره و روغن حیوانی از شیر گوسفند (تن),کره و روغن حیوانی از شیر گوسفند,faostat-commodity term
+faostat__Butter of cow milk__production,تولید کره از شیر گاو (تن),کره از شیر گاو,faostat-commodity term
+"faostat__Butter, Ghee__consumption",سرانه مصرف کره و روغن حیوانی,کره، روغن حیوانی,faostat-commodity term
+"faostat__Butter, Ghee__trade",صادرات و واردات کره و روغن حیوانی,کره، روغن حیوانی,faostat-commodity term
+"faostat__Buttermilk, dry__production",تولید دوغ کره، خشک (تن),دوغ خشک,faostat-commodity term
+faostat__Cabbages__price,قیمت تولیدکننده کلم,کلم,faostat-commodity term
+faostat__Cabbages__production,تولید، سطح زیر کشت و عملکرد کلم,کلم,faostat-commodity term
+faostat__Camels__production,تولید، سطح زیر کشت و عملکرد شتر,شتر,faostat-commodity term
+faostat__Cantaloupes and other melons__price,قیمت تولیدکننده طالبی و سایر خربزه‌ها,طالبی و سایر خربزه‌ها,faostat-commodity term
+faostat__Cantaloupes and other melons__production,تولید، سطح زیر کشت و عملکرد طالبی و سایر خربزه‌ها,طالبی و سایر خربزه‌ها,faostat-commodity term
+faostat__Carrots and turnips__price,قیمت تولیدکننده هویج و شلغم,هویج و شلغم,faostat-commodity term
+faostat__Carrots and turnips__production,تولید، سطح زیر کشت و عملکرد هویج و شلغم,هویج و شلغم,faostat-commodity term
+faostat__Cassava and products__trade,صادرات و واردات کاساوا و فرآورده‌های آن,کاساوا و فرآورده‌های آن,faostat-commodity term
+faostat__Castor oil seeds__production,تولید، سطح زیر کشت و عملکرد دانه کرچک,دانه کرچک,faostat-commodity term
+faostat__Cattle and Buffaloes__production,تولید، سطح زیر کشت و عملکرد گاو و گاومیش,گاو و گاومیش,faostat-commodity term
+"faostat__Cattle fat, unrendered__production",تولید، سطح زیر کشت و عملکرد چربی گاو، خام,چربی خام گاو,faostat-commodity term
+faostat__Cattle__production,تولید، سطح زیر کشت و عملکرد گاو,گاو,faostat-commodity term
+faostat__Cauliflowers and broccoli__price,قیمت تولیدکننده گل‌کلم و بروکلی,گل‌کلم و کلم بروکلی,faostat-commodity term
+faostat__Cauliflowers and broccoli__production,تولید، سطح زیر کشت و عملکرد گل‌کلم و بروکلی,گل‌کلم و کلم بروکلی,faostat-commodity term
+faostat__Cephalopods__consumption,سرانه مصرف سرپایان,سرپایان,faostat-commodity term
+faostat__Cephalopods__trade,صادرات و واردات سرپایان,سرپایان,faostat-commodity term
+faostat__Cereals - Excluding Beer__consumption,سرانه مصرف غلات (به‌جز آبجو),غلات (به استثنای آبجو),faostat-commodity term
+faostat__Cereals - Excluding Beer__trade,صادرات و واردات غلات (به‌جز آبجو),غلات (به استثنای آبجو),faostat-commodity term
+faostat__Cereals n.e.c.__price,قیمت تولیدکننده غلات، طبقه‌بندی‌نشده,سایر غلات,faostat-commodity term
+"faostat__Cereals, Other__consumption",سرانه مصرف سایر غلات,سایر غلات,faostat-commodity term
+"faostat__Cereals, Other__trade",صادرات و واردات سایر غلات,سایر غلات,faostat-commodity term
+"faostat__Cereals, primary__price",قیمت تولیدکننده غلات، اولیه,غلات، اولیه,faostat-commodity term
+"faostat__Cereals, primary__production",تولید، سطح زیر کشت و عملکرد غلات، اولیه,غلات، اولیه,faostat-commodity term
+faostat__Cheese (All Kinds)__production,تولید پنیر (همه انواع) (تن),پنیر (همه انواع),faostat-commodity term
+"faostat__Cheese from milk of goats, fresh or processed__production",تولید پنیر از شیر بز، تازه یا فرآوری‌شده (تن),پنیر از شیر بز,faostat-commodity term
+"faostat__Cheese from milk of sheep, fresh or processed__production",تولید پنیر از شیر گوسفند، تازه یا فرآوری‌شده (تن),پنیر از شیر گوسفند,faostat-commodity term
+faostat__Cheese from skimmed cow milk__production,تولید پنیر از شیر پس‌چرخ گاو (تن),پنیر از شیر بدون چربی گاو,faostat-commodity term
+faostat__Cheese from whole cow milk__production,تولید پنیر از شیر کامل گاو (تن),پنیر از شیر کامل گاو,faostat-commodity term
+faostat__Cherries__price,قیمت تولیدکننده گیلاس,گیلاس,faostat-commodity term
+faostat__Cherries__production,تولید، سطح زیر کشت و عملکرد گیلاس,گیلاس,faostat-commodity term
+"faostat__Chick peas, dry__price",قیمت تولیدکننده نخود، خشک,نخود خشک,faostat-commodity term
+"faostat__Chick peas, dry__production",تولید، سطح زیر کشت و عملکرد نخود، خشک,نخود خشک,faostat-commodity term
+faostat__Chickens__production,تولید، سطح زیر کشت و عملکرد مرغ,مرغ,faostat-commodity term
+"faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__price",قیمت تولیدکننده فلفل تند و فلفل، خشک (گونه‌های Capsicum و Pimenta)، خام,فلفل تند و فلفل، خشک,faostat-commodity term
+"faostat__Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw__production",تولید، سطح زیر کشت و عملکرد فلفل تند و فلفل، خشک (گونه‌های Capsicum و Pimenta)، خام,فلفل تند و فلفل، خشک,faostat-commodity term
+"faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__price",قیمت تولیدکننده فلفل تند و فلفل، سبز (گونه‌های Capsicum و Pimenta),فلفل تند و فلفل، سبز,faostat-commodity term
+"faostat__Chillies and peppers, green (Capsicum spp. and Pimenta spp.)__production",تولید، سطح زیر کشت و عملکرد فلفل تند و فلفل، سبز (گونه‌های Capsicum و Pimenta),فلفل تند و فلفل، سبز,faostat-commodity term
+"faostat__Citrus Fruit, Total__price",قیمت تولیدکننده مرکبات، جمع کل,مرکبات (کل),faostat-commodity term
+"faostat__Citrus Fruit, Total__production",تولید، سطح زیر کشت و عملکرد مرکبات، جمع کل,مرکبات (کل),faostat-commodity term
+"faostat__Citrus, Other__consumption",سرانه مصرف سایر مرکبات,سایر مرکبات,faostat-commodity term
+"faostat__Citrus, Other__trade",صادرات و واردات سایر مرکبات,سایر مرکبات,faostat-commodity term
+faostat__Cloves__consumption,سرانه مصرف میخک,میخک,faostat-commodity term
+faostat__Cloves__trade,صادرات و واردات میخک,میخک,faostat-commodity term
+"faostat__Coarse Grain, Total__price",قیمت تولیدکننده غلات درشت‌دانه، جمع کل,غلات دانه‌درشت (کل),faostat-commodity term
+faostat__Cocoa Beans and products__consumption,سرانه مصرف دانه کاکائو و فرآورده‌های آن,دانه کاکائو و فرآورده‌های آن,faostat-commodity term
+faostat__Cocoa Beans and products__trade,صادرات و واردات دانه کاکائو و فرآورده‌های آن,دانه کاکائو و فرآورده‌های آن,faostat-commodity term
+faostat__Coconut Oil__consumption,سرانه مصرف روغن نارگیل,روغن نارگیل,faostat-commodity term
+faostat__Coconut Oil__trade,صادرات و واردات روغن نارگیل,روغن نارگیل,faostat-commodity term
+faostat__Coconuts - Incl Copra__consumption,سرانه مصرف نارگیل (شامل کوپرا),نارگیل (شامل کوپرا),faostat-commodity term
+faostat__Coconuts - Incl Copra__trade,صادرات و واردات نارگیل (شامل کوپرا),نارگیل (شامل کوپرا),faostat-commodity term
+faostat__Coffee and products__consumption,سرانه مصرف قهوه و فرآورده‌های آن,قهوه و فرآورده‌های آن,faostat-commodity term
+faostat__Coffee and products__trade,صادرات و واردات قهوه و فرآورده‌های آن,قهوه و فرآورده‌های آن,faostat-commodity term
+"faostat__Cotton lint, ginned__price",قیمت تولیدکننده الیاف پنبه حلاجی‌شده,الیاف پنبه، حلاجی‌شده,faostat-commodity term
+"faostat__Cotton lint, ginned__production",تولید الیاف پنبه حلاجی‌شده (تن),الیاف پنبه، حلاجی‌شده,faostat-commodity term
+faostat__Cotton seed__price,قیمت تولیدکننده پنبه‌دانه,دانه پنبه,faostat-commodity term
+faostat__Cotton seed__production,تولید پنبه‌دانه (تن),دانه پنبه,faostat-commodity term
+faostat__Cottonseed Oil__consumption,سرانه مصرف روغن پنبه‌دانه,روغن دانه پنبه,faostat-commodity term
+faostat__Cottonseed Oil__trade,صادرات و واردات روغن پنبه‌دانه,روغن دانه پنبه,faostat-commodity term
+faostat__Cottonseed oil__production,تولید روغن پنبه‌دانه (تن),روغن دانه پنبه,faostat-commodity term
+faostat__Cottonseed__trade,صادرات و واردات پنبه‌دانه,تخم پنبه,faostat-commodity term
+"faostat__Cream, fresh__production",تولید خامه، تازه (تن),خامه تازه,faostat-commodity term
+faostat__Cream__consumption,سرانه مصرف خامه,خامه,faostat-commodity term
+faostat__Cream__trade,صادرات و واردات خامه,خامه,faostat-commodity term
+faostat__Crustaceans__consumption,سرانه مصرف سخت‌پوستان,سخت‌پوستان,faostat-commodity term
+faostat__Crustaceans__trade,صادرات و واردات سخت‌پوستان,سخت‌پوستان,faostat-commodity term
+faostat__Cucumbers and gherkins__price,قیمت تولیدکننده خیار و خیارترشی,خیار و خیارترشی,faostat-commodity term
+faostat__Cucumbers and gherkins__production,تولید، سطح زیر کشت و عملکرد خیار و خیارترشی,خیار و خیارترشی,faostat-commodity term
+faostat__Dates__consumption,سرانه مصرف خرما,خرما,faostat-commodity term
+faostat__Dates__price,قیمت تولیدکننده خرما,خرما,faostat-commodity term
+faostat__Dates__production,تولید، سطح زیر کشت و عملکرد خرما,خرما,faostat-commodity term
+faostat__Dates__trade,صادرات و واردات خرما,خرما,faostat-commodity term
+faostat__Demersal Fish__consumption,سرانه مصرف ماهیان کف‌زی,ماهیان کف‌زی,faostat-commodity term
+faostat__Demersal Fish__trade,صادرات و واردات ماهیان کف‌زی,ماهیان کف‌زی,faostat-commodity term
+faostat__Ducks__production,تولید، سطح زیر کشت و عملکرد اردک,اردک,faostat-commodity term
+"faostat__Edible offal of buffalo, fresh, chilled or frozen__production",تولید، سطح زیر کشت و عملکرد احشای خوراکی گاومیش، تازه، سردکرده یا منجمد,احشای خوراکی گاومیش، تازه، سردکرده یا منجمد,faostat-commodity term
+"faostat__Edible offal of cattle, fresh, chilled or frozen__production",تولید، سطح زیر کشت و عملکرد احشای خوراکی گاو، تازه، سردکرده یا منجمد,احشای خوراکی گاو، تازه، سردکرده یا منجمد,faostat-commodity term
+"faostat__Edible offal of goat, fresh, chilled or frozen__production",تولید، سطح زیر کشت و عملکرد احشای خوراکی بز، تازه، سردکرده یا منجمد,احشای خوراکی بز، تازه، سردکرده یا منجمد,faostat-commodity term
+"faostat__Edible offal of pigs, fresh, chilled or frozen__production",تولید، سطح زیر کشت و عملکرد احشای خوراکی خوک، تازه، سردکرده یا منجمد,احشای خوراکی خوک، تازه، سردکرده یا منجمد,faostat-commodity term
+"faostat__Edible offal of sheep, fresh, chilled or frozen__production",تولید، سطح زیر کشت و عملکرد احشای خوراکی گوسفند، تازه، سردکرده یا منجمد,احشای خوراکی گوسفند، تازه، سردکرده یا منجمد,faostat-commodity term
+"faostat__Edible offals of camels and other camelids, fresh, chilled or frozen__production",تولید، سطح زیر کشت و عملکرد احشای خوراکی شتر و سایر شتریان، تازه، سردکرده یا منجمد,احشای خوراکی شتر و سایر شتریان، تازه، سردکرده یا منجمد,faostat-commodity term
+faostat__Eggplants (aubergines)__price,قیمت تولیدکننده بادمجان,بادمجان,faostat-commodity term
+faostat__Eggplants (aubergines)__production,تولید، سطح زیر کشت و عملکرد بادمجان,بادمجان,faostat-commodity term
+faostat__Eggs Primary__price,قیمت تولیدکننده تخم‌مرغ، اولیه,تخم‌مرغ، اولیه,faostat-commodity term
+faostat__Eggs Primary__production,تولید، سطح زیر کشت و عملکرد تخم‌مرغ، اولیه,تخم‌مرغ، اولیه,faostat-commodity term
+faostat__Eggs__consumption,سرانه مصرف تخم‌مرغ,تخم‌مرغ,faostat-commodity term
+faostat__Eggs__trade,صادرات و واردات تخم‌مرغ,تخم‌مرغ,faostat-commodity term
+faostat__Evaporated & Condensed Milk__production,تولید شیر تبخیرشده و غلیظ‌شده (تن),شیر تبخیرشده و غلیظ‌شده,faostat-commodity term
+faostat__Fat of camels__production,تولید، سطح زیر کشت و عملکرد چربی شتر,چربی شتر,faostat-commodity term
+faostat__Fat of pigs__production,تولید، سطح زیر کشت و عملکرد چربی خوک,چربی خوک,faostat-commodity term
+"faostat__Fats, Animals, Raw__consumption",سرانه مصرف چربی‌های حیوانی، خام,چربی‌های حیوانی، خام,faostat-commodity term
+"faostat__Fats, Animals, Raw__trade",صادرات و واردات چربی‌های حیوانی، خام,چربی‌های حیوانی، خام,faostat-commodity term
+faostat__Fibre Crops Primary__price,قیمت تولیدکننده محصولات الیافی، اولیه,محصولات الیافی، اولیه,faostat-commodity term
+"faostat__Fibre Crops, Fibre Equivalent__production",تولید، سطح زیر کشت و عملکرد محصولات الیافی (معادل الیاف),محصولات الیافی (معادل الیاف),faostat-commodity term
+faostat__Figs__price,قیمت تولیدکننده انجیر,انجیر,faostat-commodity term
+faostat__Figs__production,تولید، سطح زیر کشت و عملکرد انجیر,انجیر,faostat-commodity term
+"faostat__Fish, Body Oil__trade",صادرات و واردات روغن بدن ماهی,روغن بدن ماهی,faostat-commodity term
+"faostat__Fish, Liver Oil__trade",صادرات و واردات روغن جگر ماهی,روغن جگر ماهی,faostat-commodity term
+"faostat__Fish, Seafood__consumption",سرانه مصرف ماهی و غذاهای دریایی,ماهی و غذاهای دریایی,faostat-commodity term
+"faostat__Fish, Seafood__trade",صادرات و واردات ماهی و غذاهای دریایی,ماهی و غذاهای دریایی,faostat-commodity term
+faostat__Freshwater Fish__consumption,سرانه مصرف ماهیان آب شیرین,ماهیان آب شیرین,faostat-commodity term
+faostat__Freshwater Fish__trade,صادرات و واردات ماهیان آب شیرین,ماهیان آب شیرین,faostat-commodity term
+faostat__Fruit Primary__price,قیمت تولیدکننده میوه، اولیه,میوه، اولیه,faostat-commodity term
+faostat__Fruit Primary__production,تولید، سطح زیر کشت و عملکرد میوه، اولیه,میوه، اولیه,faostat-commodity term
+"faostat__Fruit excl Melons, Total__price",قیمت تولیدکننده میوه به‌جز خربزه و هندوانه، جمع کل,میوه به‌جز خربزه (کل),faostat-commodity term
+faostat__Fruits - Excluding Wine__consumption,سرانه مصرف میوه‌ها (به‌جز شراب),میوه (به استثنای شراب),faostat-commodity term
+faostat__Fruits - Excluding Wine__trade,صادرات و واردات میوه‌ها (به‌جز شراب),میوه (به استثنای شراب),faostat-commodity term
+"faostat__Fruits, other__consumption",سرانه مصرف سایر میوه‌ها,سایر میوه‌ها,faostat-commodity term
+"faostat__Fruits, other__trade",صادرات و واردات سایر میوه‌ها,سایر میوه‌ها,faostat-commodity term
+"faostat__Game meat, fresh, chilled or frozen__price",قیمت تولیدکننده گوشت شکار، تازه، سردکرده یا منجمد,گوشت شکار، تازه، سردکرده یا منجمد,faostat-commodity term
+"faostat__Game meat, fresh, chilled or frozen__production",تولید گوشت شکار، تازه، سردکرده یا منجمد (تن),گوشت شکار، تازه، سردکرده یا منجمد,faostat-commodity term
+faostat__Geese__production,تولید، سطح زیر کشت و عملکرد غاز,غاز,faostat-commodity term
+"faostat__Goat fat, unrendered__production",تولید، سطح زیر کشت و عملکرد چربی بز، خام,چربی خام بز,faostat-commodity term
+faostat__Goats__production,تولید، سطح زیر کشت و عملکرد بز,بز,faostat-commodity term
+faostat__Grand Total__consumption,سرانه مصرف جمع کل,جمع کل,faostat-commodity term
+faostat__Grapefruit and products__consumption,سرانه مصرف گریپ‌فروت و فرآورده‌های آن,گریپ‌فروت و فرآورده‌های آن,faostat-commodity term
+faostat__Grapefruit and products__trade,صادرات و واردات گریپ‌فروت و فرآورده‌های آن,گریپ‌فروت و فرآورده‌های آن,faostat-commodity term
+faostat__Grapes and products (excl wine)__consumption,سرانه مصرف انگور و فرآورده‌های آن (به‌جز شراب),انگور و فرآورده‌های آن (به‌جز شراب),faostat-commodity term
+faostat__Grapes and products (excl wine)__trade,صادرات و واردات انگور و فرآورده‌های آن (به‌جز شراب),انگور و فرآورده‌های آن (به‌جز شراب),faostat-commodity term
+faostat__Grapes__price,قیمت تولیدکننده انگور,انگور,faostat-commodity term
+faostat__Grapes__production,تولید، سطح زیر کشت و عملکرد انگور,انگور,faostat-commodity term
+faostat__Green garlic__price,قیمت تولیدکننده سیر سبز,سیر سبز,faostat-commodity term
+faostat__Green garlic__production,تولید، سطح زیر کشت و عملکرد سیر سبز,سیر سبز,faostat-commodity term
+"faostat__Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg__production",تولید چای سبز (تخمیرنشده)، چای سیاه (تخمیرشده) و چای نیمه‌تخمیری، در بسته‌بندی‌های حداکثر 3 کیلوگرم (تن),چای سبز، چای سیاه و چای نیمه‌تخمیر,faostat-commodity term
+faostat__Groundnut Oil__consumption,سرانه مصرف روغن بادام‌زمینی,روغن بادام‌زمینی,faostat-commodity term
+faostat__Groundnut Oil__trade,صادرات و واردات روغن بادام‌زمینی,روغن بادام‌زمینی,faostat-commodity term
+faostat__Groundnuts (Shelled Eq)__consumption,سرانه مصرف بادام‌زمینی (معادل پوست‌کنده),بادام‌زمینی (معادل بدون پوست),faostat-commodity term
+faostat__Groundnuts (Shelled Eq)__trade,صادرات و واردات بادام‌زمینی (معادل پوست‌کنده),بادام‌زمینی (معادل بدون پوست),faostat-commodity term
+"faostat__Groundnuts, excluding shelled__price",قیمت تولیدکننده بادام‌زمینی، با پوست,بادام‌زمینی (با پوست),faostat-commodity term
+"faostat__Groundnuts, excluding shelled__production",تولید، سطح زیر کشت و عملکرد بادام‌زمینی، با پوست,بادام‌زمینی (با پوست),faostat-commodity term
+faostat__Groundnuts__consumption,سرانه مصرف بادام‌زمینی,بادام‌زمینی,faostat-commodity term
+faostat__Groundnuts__trade,صادرات و واردات بادام‌زمینی,بادام‌زمینی,faostat-commodity term
+"faostat__Hazelnuts, in shell__price",قیمت تولیدکننده فندق با پوست,فندق با پوست,faostat-commodity term
+"faostat__Hazelnuts, in shell__production",تولید، سطح زیر کشت و عملکرد فندق با پوست,فندق با پوست,faostat-commodity term
+faostat__Hempseed__production,تولید، سطح زیر کشت و عملکرد دانه شاهدانه,دانه شاهدانه,faostat-commodity term
+"faostat__Hen eggs in shell, fresh__price",قیمت تولیدکننده تخم‌مرغ با پوست، تازه,تخم‌مرغ با پوست، تازه,faostat-commodity term
+faostat__Honey__consumption,سرانه مصرف عسل,عسل,faostat-commodity term
+faostat__Honey__trade,صادرات و واردات عسل,عسل,faostat-commodity term
+faostat__Horses__production,تولید، سطح زیر کشت و عملکرد اسب,اسب,faostat-commodity term
+faostat__Infant food__consumption,سرانه مصرف غذای کودک,غذای کودک,faostat-commodity term
+faostat__Infant food__trade,صادرات و واردات غذای کودک,غذای کودک,faostat-commodity term
+"faostat__Jute, raw or retted__price",قیمت تولیدکننده چتایی، خام یا خیس‌خورده,کنف، خام یا خیسانده,faostat-commodity term
+"faostat__Jute, raw or retted__production",تولید، سطح زیر کشت و عملکرد کنف، خام یا خیس‌خورده,کنف، خام یا خیسانده,faostat-commodity term
+faostat__Kiwi fruit__price,قیمت تولیدکننده کیوی,کیوی,faostat-commodity term
+faostat__Kiwi fruit__production,تولید، سطح زیر کشت و عملکرد کیوی,کیوی,faostat-commodity term
+faostat__Leeks and other alliaceous vegetables__price,قیمت تولیدکننده تره‌فرنگی و سایر سبزیجات پیازی,تره‌فرنگی و سایر سبزیجات پیازی,faostat-commodity term
+faostat__Leeks and other alliaceous vegetables__production,تولید، سطح زیر کشت و عملکرد تره‌فرنگی و سایر سبزیجات پیازی,تره‌فرنگی و سایر سبزیجات پیازی,faostat-commodity term
+faostat__Lemons and limes__price,قیمت تولیدکننده لیموترش و لایم,لیمو ترش و لیمو شیرین,faostat-commodity term
+faostat__Lemons and limes__production,تولید، سطح زیر کشت و عملکرد لیموترش و لایم,لیمو ترش و لیمو شیرین,faostat-commodity term
+"faostat__Lemons, Limes and products__consumption",سرانه مصرف لیموترش، لایم و فرآورده‌های آن,لیمو ترش، لیمو شیرین و فرآورده‌های آن,faostat-commodity term
+"faostat__Lemons, Limes and products__trade",صادرات و واردات لیموترش، لایم و فرآورده‌های آن,لیمو ترش، لیمو شیرین و فرآورده‌های آن,faostat-commodity term
+"faostat__Lentils, dry__price",قیمت تولیدکننده عدس، خشک,عدس خشک,faostat-commodity term
+"faostat__Lentils, dry__production",تولید، سطح زیر کشت و عملکرد عدس، خشک,عدس خشک,faostat-commodity term
+faostat__Lettuce and chicory__price,قیمت تولیدکننده کاهو و کاسنی,کاهو و کاسنی,faostat-commodity term
+faostat__Lettuce and chicory__production,تولید، سطح زیر کشت و عملکرد کاهو و کاسنی,کاهو و کاسنی,faostat-commodity term
+faostat__Linseed__price,قیمت تولیدکننده دانه کتان (بزرک),دانه کتان,faostat-commodity term
+faostat__Linseed__production,تولید، سطح زیر کشت و عملکرد دانه کتان (بزرک),دانه کتان,faostat-commodity term
+faostat__Livestock__price,قیمت تولیدکننده دام,دام,faostat-commodity term
+faostat__Maize (corn)__price,قیمت تولیدکننده ذرت,ذرت,faostat-commodity term
+faostat__Maize (corn)__production,تولید، سطح زیر کشت و عملکرد ذرت,ذرت,faostat-commodity term
+faostat__Maize Germ Oil__consumption,سرانه مصرف روغن جوانه ذرت,روغن جوانه ذرت,faostat-commodity term
+faostat__Maize Germ Oil__trade,صادرات و واردات روغن جوانه ذرت,روغن جوانه ذرت,faostat-commodity term
+faostat__Maize and products__consumption,سرانه مصرف ذرت و فرآورده‌های آن,ذرت و فرآورده‌های آن,faostat-commodity term
+faostat__Maize and products__trade,صادرات و واردات ذرت و فرآورده‌های آن,ذرت و فرآورده‌های آن,faostat-commodity term
+"faostat__Mangoes, guavas and mangosteens__price",قیمت تولیدکننده انبه، گواوا و منگوستین,انبه، گواوا و منگوستین,faostat-commodity term
+"faostat__Mangoes, guavas and mangosteens__production",تولید، سطح زیر کشت و عملکرد انبه، گواوا و منگوستین,انبه، گواوا و منگوستین,faostat-commodity term
+faostat__Margarine and shortening__production,تولید مارگارین و روغن جامد (شورتنینگ) (تن),مارگارین و روغن جامد,faostat-commodity term
+"faostat__Marine Fish, Other__consumption",سرانه مصرف سایر ماهیان دریایی,سایر ماهیان دریایی,faostat-commodity term
+"faostat__Marine Fish, Other__trade",صادرات و واردات سایر ماهیان دریایی,سایر ماهیان دریایی,faostat-commodity term
+"faostat__Meat of buffalo, fresh or chilled__price",قیمت تولیدکننده گوشت گاومیش، تازه یا سردکرده,گوشت گاومیش، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of buffalo, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت گاومیش، تازه یا سردکرده,گوشت گاومیش، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of camels, fresh or chilled__price",قیمت تولیدکننده گوشت شتر، تازه یا سردکرده,گوشت شتر، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of camels, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت شتر، تازه یا سردکرده,گوشت شتر، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of cattle with the bone, fresh or chilled__price",قیمت تولیدکننده گوشت گاو با استخوان، تازه یا سردکرده,گوشت گاو با استخوان، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of cattle with the bone, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت گاو با استخوان، تازه یا سردکرده,گوشت گاو با استخوان، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of chickens, fresh or chilled__price",قیمت تولیدکننده گوشت مرغ، تازه یا سردکرده,گوشت مرغ، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of chickens, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت مرغ، تازه یا سردکرده,گوشت مرغ، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of ducks, fresh or chilled__price",قیمت تولیدکننده گوشت اردک، تازه یا سردکرده,گوشت اردک، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of ducks, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت اردک، تازه یا سردکرده,گوشت اردک، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of geese, fresh or chilled__price",قیمت تولیدکننده گوشت غاز، تازه یا سردکرده,گوشت غاز، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of geese, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت غاز، تازه یا سردکرده,گوشت غاز، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of goat, fresh or chilled__price",قیمت تولیدکننده گوشت بز، تازه یا سردکرده,گوشت بز، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of goat, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت بز، تازه یا سردکرده,گوشت بز، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of pig with the bone, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت خوک با استخوان، تازه یا سردکرده,گوشت خوک با استخوان، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of sheep, fresh or chilled__price",قیمت تولیدکننده گوشت گوسفند، تازه یا سردکرده,گوشت گوسفند، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of sheep, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت گوسفند، تازه یا سردکرده,گوشت گوسفند، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of turkeys, fresh or chilled__price",قیمت تولیدکننده گوشت بوقلمون، تازه یا سردکرده,گوشت بوقلمون، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat of turkeys, fresh or chilled__production",تولید، سطح زیر کشت و عملکرد گوشت بوقلمون، تازه یا سردکرده,گوشت بوقلمون، تازه یا سردکرده,faostat-commodity term
+"faostat__Meat, Other__consumption",سرانه مصرف سایر گوشت,سایر گوشت‌ها,faostat-commodity term
+"faostat__Meat, Other__trade",صادرات و واردات سایر گوشت,سایر گوشت‌ها,faostat-commodity term
+"faostat__Meat, Poultry__production",تولید، سطح زیر کشت و عملکرد گوشت ماکیان,گوشت طیور,faostat-commodity term
+"faostat__Meat, Total__price",قیمت تولیدکننده گوشت، جمع کل,گوشت (کل),faostat-commodity term
+"faostat__Meat, Total__production",تولید گوشت، جمع کل (تن),گوشت (کل),faostat-commodity term
+faostat__Meat__consumption,سرانه مصرف گوشت,گوشت,faostat-commodity term
+faostat__Meat__trade,صادرات و واردات گوشت,گوشت,faostat-commodity term
+faostat__Melonseed__production,تولید، سطح زیر کشت و عملکرد دانه خربزه,دانه خربزه,faostat-commodity term
+faostat__Milk - Excluding Butter__consumption,سرانه مصرف شیر (به‌جز کره),شیر (به استثنای کره),faostat-commodity term
+faostat__Milk - Excluding Butter__trade,صادرات و واردات شیر (به‌جز کره),شیر (به استثنای کره),faostat-commodity term
+"faostat__Milk, Total__price",قیمت تولیدکننده شیر، جمع کل,شیر (کل),faostat-commodity term
+"faostat__Milk, Total__production",تولید، سطح زیر کشت و عملکرد شیر، جمع کل,شیر (کل),faostat-commodity term
+faostat__Millet and products__trade,صادرات و واردات ارزن و فرآورده‌های آن,ارزن و فرآورده‌های آن,faostat-commodity term
+faostat__Millet__price,قیمت تولیدکننده ارزن,ارزن,faostat-commodity term
+faostat__Millet__production,تولید، سطح زیر کشت و عملکرد ارزن,ارزن,faostat-commodity term
+faostat__Miscellaneous__consumption,سرانه مصرف متفرقه,متفرقه,faostat-commodity term
+faostat__Miscellaneous__trade,صادرات و واردات متفرقه,متفرقه,faostat-commodity term
+faostat__Molasses__production,تولید ملاس (تن),ملاس,faostat-commodity term
+"faostat__Molluscs, Other__consumption",سرانه مصرف سایر نرم‌تنان,سایر نرم‌تنان,faostat-commodity term
+"faostat__Molluscs, Other__trade",صادرات و واردات سایر نرم‌تنان,سایر نرم‌تنان,faostat-commodity term
+faostat__Mules and hinnies__production,تولید، سطح زیر کشت و عملکرد قاطر و استر,قاطر و استر,faostat-commodity term
+faostat__Mushrooms and truffles__price,قیمت تولیدکننده قارچ و ترافل,قارچ و ترافل,faostat-commodity term
+faostat__Mushrooms and truffles__production,تولید قارچ و ترافل (تن),قارچ و ترافل,faostat-commodity term
+faostat__Mustard seed__production,تولید، سطح زیر کشت و عملکرد دانه خردل,دانه خردل,faostat-commodity term
+faostat__Mutton & Goat Meat__consumption,سرانه مصرف گوشت گوسفند و بز,گوشت گوسفند و بز,faostat-commodity term
+faostat__Mutton & Goat Meat__trade,صادرات و واردات گوشت گوسفند و بز,گوشت گوسفند و بز,faostat-commodity term
+faostat__Natural honey__price,قیمت تولیدکننده عسل طبیعی,عسل طبیعی,faostat-commodity term
+faostat__Natural honey__production,تولید عسل طبیعی (تن),عسل طبیعی,faostat-commodity term
+faostat__Nuts and products__consumption,سرانه مصرف آجیل و فرآورده‌های آن,آجیل و فرآورده‌های آن,faostat-commodity term
+faostat__Nuts and products__trade,صادرات و واردات آجیل و فرآورده‌های آن,آجیل و فرآورده‌های آن,faostat-commodity term
+faostat__Oats__consumption,سرانه مصرف یولاف (جو دوسر),جو دوسر,faostat-commodity term
+faostat__Oats__trade,صادرات و واردات یولاف (جو دوسر),جو دوسر,faostat-commodity term
+"faostat__Offals, Edible__consumption",سرانه مصرف احشای خوراکی,احشای خوراکی,faostat-commodity term
+"faostat__Offals, Edible__trade",صادرات و واردات احشای خوراکی,احشای خوراکی,faostat-commodity term
+faostat__Offals__consumption,سرانه مصرف احشا,احشا,faostat-commodity term
+faostat__Offals__trade,صادرات و واردات احشا,احشا,faostat-commodity term
+faostat__Oil of linseed__production,تولید روغن بزرک (تن),روغن بزرک,faostat-commodity term
+faostat__Oil of sesame seed__production,تولید روغن کنجد (تن),روغن کنجد,faostat-commodity term
+"faostat__Oilcrops Oil, Other__consumption",سرانه مصرف سایر روغن‌های دانه‌های روغنی,سایر روغن‌های دانه‌های روغنی,faostat-commodity term
+"faostat__Oilcrops Oil, Other__trade",صادرات و واردات سایر روغن‌های دانه‌های روغنی,سایر روغن‌های دانه‌های روغنی,faostat-commodity term
+"faostat__Oilcrops, Cake Equivalent__production",تولید، سطح زیر کشت و عملکرد دانه‌های روغنی (معادل کنجاله),دانه‌های روغنی (معادل کنجاله),faostat-commodity term
+"faostat__Oilcrops, Oil Equivalent__price",قیمت تولیدکننده دانه‌های روغنی (معادل روغن),دانه‌های روغنی (معادل روغن),faostat-commodity term
+"faostat__Oilcrops, Oil Equivalent__production",تولید، سطح زیر کشت و عملکرد دانه‌های روغنی (معادل روغن),دانه‌های روغنی (معادل روغن),faostat-commodity term
+"faostat__Oilcrops, Other__consumption",سرانه مصرف سایر دانه‌های روغنی,سایر دانه‌های روغنی,faostat-commodity term
+"faostat__Oilcrops, Other__trade",صادرات و واردات سایر دانه‌های روغنی,سایر دانه‌های روغنی,faostat-commodity term
+faostat__Oilcrops__consumption,سرانه مصرف دانه‌های روغنی,دانه‌های روغنی,faostat-commodity term
+faostat__Oilcrops__trade,صادرات و واردات دانه‌های روغنی,دانه‌های روغنی,faostat-commodity term
+faostat__Olive Oil__consumption,سرانه مصرف روغن زیتون,روغن زیتون,faostat-commodity term
+faostat__Olive Oil__trade,صادرات و واردات روغن زیتون,روغن زیتون,faostat-commodity term
+faostat__Olive oil__production,تولید روغن زیتون (تن),روغن زیتون,faostat-commodity term
+faostat__Olives (including preserved)__consumption,سرانه مصرف زیتون (شامل کنسروی و نمکی),زیتون (شامل کنسروی),faostat-commodity term
+faostat__Olives (including preserved)__trade,صادرات و واردات زیتون (شامل کنسروی و نمکی),زیتون (شامل کنسروی),faostat-commodity term
+faostat__Olives__price,قیمت تولیدکننده زیتون,زیتون,faostat-commodity term
+faostat__Olives__production,تولید، سطح زیر کشت و عملکرد زیتون,زیتون,faostat-commodity term
+"faostat__Onions and shallots, dry (excluding dehydrated)__price",قیمت تولیدکننده پیاز و موسیر، خشک (به‌جز دهیدراته),پیاز و موسیر خشک,faostat-commodity term
+"faostat__Onions and shallots, dry (excluding dehydrated)__production",تولید، سطح زیر کشت و عملکرد پیاز و موسیر، خشک (به‌جز دهیدراته),پیاز و موسیر خشک,faostat-commodity term
+faostat__Onions__consumption,سرانه مصرف پیاز,پیاز,faostat-commodity term
+faostat__Onions__trade,صادرات و واردات پیاز,پیاز,faostat-commodity term
+"faostat__Oranges, Mandarines__consumption",سرانه مصرف پرتقال و نارنگی,پرتقال و نارنگی,faostat-commodity term
+"faostat__Oranges, Mandarines__trade",صادرات و واردات پرتقال و نارنگی,پرتقال و نارنگی,faostat-commodity term
+faostat__Oranges__price,قیمت تولیدکننده پرتقال,پرتقال,faostat-commodity term
+faostat__Oranges__production,تولید، سطح زیر کشت و عملکرد پرتقال,پرتقال,faostat-commodity term
+"faostat__Other beans, green__price",قیمت تولیدکننده سایر لوبیاها، سبز,سایر لوبیاهای سبز,faostat-commodity term
+"faostat__Other beans, green__production",تولید، سطح زیر کشت و عملکرد سایر لوبیاها، سبز,سایر لوبیاهای سبز,faostat-commodity term
+faostat__Other berries and fruits of the genus vaccinium n.e.c.__price,قیمت تولیدکننده سایر توت‌ها و میوه‌های جنس Vaccinium، طبقه‌بندی‌نشده,سایر انواع توت و میوه جنس ویاکسینیوم,faostat-commodity term
+faostat__Other berries and fruits of the genus vaccinium n.e.c.__production,تولید، سطح زیر کشت و عملکرد سایر توت‌ها و میوه‌های جنس Vaccinium، طبقه‌بندی‌نشده,سایر انواع توت و میوه جنس ویاکسینیوم,faostat-commodity term
+"faostat__Other citrus fruit, n.e.c.__price",قیمت تولیدکننده سایر مرکبات، طبقه‌بندی‌نشده,سایر مرکبات,faostat-commodity term
+"faostat__Other citrus fruit, n.e.c.__production",تولید، سطح زیر کشت و عملکرد سایر مرکبات، طبقه‌بندی‌نشده,سایر مرکبات,faostat-commodity term
+"faostat__Other fruits, n.e.c.__price",قیمت تولیدکننده سایر میوه‌ها، طبقه‌بندی‌نشده,سایر میوه‌ها,faostat-commodity term
+"faostat__Other fruits, n.e.c.__production",تولید، سطح زیر کشت و عملکرد سایر میوه‌ها، طبقه‌بندی‌نشده,سایر میوه‌ها,faostat-commodity term
+"faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__price",قیمت تولیدکننده سایر آجیل‌ها (به‌جز آجیل‌های خوراکی وحشی و بادام‌زمینی)، با پوست، طبقه‌بندی‌نشده,سایر آجیل‌ها با پوست,faostat-commodity term
+"faostat__Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.__production",تولید، سطح زیر کشت و عملکرد سایر آجیل‌ها (به‌جز آجیل‌های خوراکی وحشی و بادام‌زمینی)، با پوست، طبقه‌بندی‌نشده,سایر آجیل‌ها با پوست,faostat-commodity term
+"faostat__Other oil seeds, n.e.c.__production",تولید، سطح زیر کشت و عملکرد سایر دانه‌های روغنی، طبقه‌بندی‌نشده,سایر دانه‌های روغنی,faostat-commodity term
+faostat__Other pulses n.e.c.__price,قیمت تولیدکننده سایر حبوبات، طبقه‌بندی‌نشده,سایر حبوبات,faostat-commodity term
+faostat__Other pulses n.e.c.__production,تولید، سطح زیر کشت و عملکرد سایر حبوبات، طبقه‌بندی‌نشده,سایر حبوبات,faostat-commodity term
+"faostat__Other stimulant, spice and aromatic crops, n.e.c.__price",قیمت تولیدکننده سایر محصولات محرک، ادویه‌ای و معطر، طبقه‌بندی‌نشده,سایر محصولات محرک، ادویه‌ای و معطر,faostat-commodity term
+"faostat__Other stimulant, spice and aromatic crops, n.e.c.__production",تولید، سطح زیر کشت و عملکرد سایر محصولات محرک، ادویه‌ای و معطر، طبقه‌بندی‌نشده,سایر محصولات محرک، ادویه‌ای و معطر,faostat-commodity term
+faostat__Other stone fruits__price,قیمت تولیدکننده سایر میوه‌های هسته‌دار,سایر میوه‌های هسته‌دار,faostat-commodity term
+faostat__Other stone fruits__production,تولید، سطح زیر کشت و عملکرد سایر میوه‌های هسته‌دار,سایر میوه‌های هسته‌دار,faostat-commodity term
+"faostat__Other tropical fruits, n.e.c.__production",تولید، سطح زیر کشت و عملکرد سایر میوه‌های گرمسیری، طبقه‌بندی‌نشده,سایر میوه‌های گرمسیری,faostat-commodity term
+"faostat__Other vegetables, fresh n.e.c.__price",قیمت تولیدکننده سایر سبزیجات تازه، طبقه‌بندی‌نشده,سایر سبزیجات تازه,faostat-commodity term
+"faostat__Other vegetables, fresh n.e.c.__production",تولید، سطح زیر کشت و عملکرد سایر سبزیجات تازه، طبقه‌بندی‌نشده,سایر سبزیجات تازه,faostat-commodity term
+faostat__Palm Oil__consumption,سرانه مصرف روغن پالم,روغن پالم,faostat-commodity term
+faostat__Palm Oil__trade,صادرات و واردات روغن پالم,روغن پالم,faostat-commodity term
+faostat__Palm kernels__trade,صادرات و واردات هسته پالم,هسته پالم,faostat-commodity term
+faostat__Palmkernel Oil__consumption,سرانه مصرف روغن هسته پالم,روغن هسته پالم,faostat-commodity term
+faostat__Palmkernel Oil__trade,صادرات و واردات روغن هسته پالم,روغن هسته پالم,faostat-commodity term
+faostat__Papayas__price,قیمت تولیدکننده پاپایا,پاپایا,faostat-commodity term
+faostat__Papayas__production,تولید، سطح زیر کشت و عملکرد پاپایا,پاپایا,faostat-commodity term
+faostat__Peaches and nectarines__price,قیمت تولیدکننده هلو و شلیل,هلو و شلیل,faostat-commodity term
+faostat__Peaches and nectarines__production,تولید، سطح زیر کشت و عملکرد هلو و شلیل,هلو و شلیل,faostat-commodity term
+faostat__Pears__price,قیمت تولیدکننده گلابی,گلابی,faostat-commodity term
+faostat__Pears__production,تولید، سطح زیر کشت و عملکرد گلابی,گلابی,faostat-commodity term
+"faostat__Peas, dry__production",تولید، سطح زیر کشت و عملکرد نخود فرنگی، خشک,نخود فرنگی خشک,faostat-commodity term
+"faostat__Peas, green__price",قیمت تولیدکننده نخود فرنگی، سبز,نخود فرنگی سبز,faostat-commodity term
+"faostat__Peas, green__production",تولید، سطح زیر کشت و عملکرد نخود فرنگی، سبز,نخود فرنگی سبز,faostat-commodity term
+faostat__Peas__consumption,سرانه مصرف نخود فرنگی,نخود فرنگی,faostat-commodity term
+faostat__Peas__trade,صادرات و واردات نخود فرنگی,نخود فرنگی,faostat-commodity term
+faostat__Pelagic Fish__consumption,سرانه مصرف ماهیان روباز (پلاژیک),ماهیان پلاژیک,faostat-commodity term
+faostat__Pelagic Fish__trade,صادرات و واردات ماهیان روباز (پلاژیک),ماهیان پلاژیک,faostat-commodity term
+faostat__Pepper__consumption,سرانه مصرف فلفل سیاه,فلفل سیاه,faostat-commodity term
+faostat__Pepper__trade,صادرات و واردات فلفل سیاه,فلفل سیاه,faostat-commodity term
+faostat__Persimmons__price,قیمت تولیدکننده خرمالو,خرمالو,faostat-commodity term
+faostat__Persimmons__production,تولید، سطح زیر کشت و عملکرد خرمالو,خرمالو,faostat-commodity term
+faostat__Pigmeat__consumption,سرانه مصرف گوشت خوک,گوشت خوک,faostat-commodity term
+faostat__Pigmeat__trade,صادرات و واردات گوشت خوک,گوشت خوک,faostat-commodity term
+faostat__Pimento__consumption,سرانه مصرف فلفل انگلیسی (پیمنتو),فلفل دلمه‌ای,faostat-commodity term
+faostat__Pimento__trade,صادرات و واردات فلفل انگلیسی (پیمنتو),فلفل دلمه‌ای,faostat-commodity term
+faostat__Pineapples and products__consumption,سرانه مصرف آناناس و فرآورده‌های آن,آناناس و فرآورده‌های آن,faostat-commodity term
+faostat__Pineapples and products__trade,صادرات و واردات آناناس و فرآورده‌های آن,آناناس و فرآورده‌های آن,faostat-commodity term
+"faostat__Pistachios, in shell__price",قیمت تولیدکننده پسته با پوست,پسته با پوست,faostat-commodity term
+"faostat__Pistachios, in shell__production",تولید، سطح زیر کشت و عملکرد پسته با پوست,پسته با پوست,faostat-commodity term
+faostat__Plantains__consumption,سرانه مصرف موز پلانتین (موز پخت),موز پلانتین,faostat-commodity term
+faostat__Plantains__trade,صادرات و واردات موز پلانتین (موز پخت),موز پلانتین,faostat-commodity term
+faostat__Plums and sloes__price,قیمت تولیدکننده آلو و گوجه وحشی,آلو و گوجه وحشی,faostat-commodity term
+faostat__Plums and sloes__production,تولید، سطح زیر کشت و عملکرد آلو و گوجه وحشی,آلو و گوجه وحشی,faostat-commodity term
+faostat__Pomelos and grapefruits__price,قیمت تولیدکننده پوملو و گریپ‌فروت,پوملو و گریپ‌فروت,faostat-commodity term
+faostat__Pomelos and grapefruits__production,تولید، سطح زیر کشت و عملکرد پوملو و گریپ‌فروت,پوملو و گریپ‌فروت,faostat-commodity term
+faostat__Potatoes and products__consumption,سرانه مصرف سیب‌زمینی و فرآورده‌های آن,سیب‌زمینی و فرآورده‌های آن,faostat-commodity term
+faostat__Potatoes and products__trade,صادرات و واردات سیب‌زمینی و فرآورده‌های آن,سیب‌زمینی و فرآورده‌های آن,faostat-commodity term
+faostat__Potatoes__price,قیمت تولیدکننده سیب‌زمینی,سیب‌زمینی,faostat-commodity term
+faostat__Potatoes__production,تولید، سطح زیر کشت و عملکرد سیب‌زمینی,سیب‌زمینی,faostat-commodity term
+faostat__Poultry Birds__production,تولید، سطح زیر کشت و عملکرد پرندگان اهلی (ماکیان),طیور,faostat-commodity term
+faostat__Poultry Meat__consumption,سرانه مصرف گوشت ماکیان,گوشت طیور,faostat-commodity term
+faostat__Poultry Meat__trade,صادرات و واردات گوشت ماکیان,گوشت طیور,faostat-commodity term
+"faostat__Pulses, Other and products__consumption",سرانه مصرف سایر حبوبات و فرآورده‌های آن,سایر حبوبات و فرآورده‌های آن,faostat-commodity term
+"faostat__Pulses, Other and products__trade",صادرات و واردات سایر حبوبات و فرآورده‌های آن,سایر حبوبات و فرآورده‌های آن,faostat-commodity term
+"faostat__Pulses, Total__price",قیمت تولیدکننده حبوبات، جمع کل,حبوبات (کل),faostat-commodity term
+"faostat__Pulses, Total__production",تولید، سطح زیر کشت و عملکرد حبوبات، جمع کل,حبوبات (کل),faostat-commodity term
+faostat__Pulses__consumption,سرانه مصرف حبوبات,حبوبات,faostat-commodity term
+faostat__Pulses__trade,صادرات و واردات حبوبات,حبوبات,faostat-commodity term
+"faostat__Pumpkins, squash and gourds__price",قیمت تولیدکننده کدو تنبل، کدو مسمایی و کدوهای دیگر,کدو، کدوحلوایی و کدوهای دیگر,faostat-commodity term
+"faostat__Pumpkins, squash and gourds__production",تولید، سطح زیر کشت و عملکرد کدو تنبل، کدو مسمایی و کدوهای دیگر,کدو، کدوحلوایی و کدوهای دیگر,faostat-commodity term
+faostat__Quinces__price,قیمت تولیدکننده به,به,faostat-commodity term
+faostat__Quinces__production,تولید، سطح زیر کشت و عملکرد به,به,faostat-commodity term
+faostat__Rape and Mustard Oil__consumption,سرانه مصرف روغن کلزا و خردل,روغن کلزا و خردل,faostat-commodity term
+faostat__Rape and Mustard Oil__trade,صادرات و واردات روغن کلزا و خردل,روغن کلزا و خردل,faostat-commodity term
+faostat__Rape and Mustardseed__consumption,سرانه مصرف دانه کلزا و خردل,دانه کلزا و خردل,faostat-commodity term
+faostat__Rape and Mustardseed__trade,صادرات و واردات دانه کلزا و خردل,دانه کلزا و خردل,faostat-commodity term
+faostat__Rape or colza seed__price,قیمت تولیدکننده دانه کلزا,دانه کلزا,faostat-commodity term
+faostat__Rape or colza seed__production,تولید، سطح زیر کشت و عملکرد دانه کلزا,دانه کلزا,faostat-commodity term
+"faostat__Rapeseed or canola oil, crude__production",تولید روغن کلزا (کانولا)، خام (تن),روغن کلزا، خام,faostat-commodity term
+faostat__Raspberries__price,قیمت تولیدکننده تمشک,تمشک,faostat-commodity term
+faostat__Raw cane or beet sugar (centrifugal only)__production,تولید شکر خام نیشکر یا چغندرقند (فرآوری‌شده با سانتریفیوژ) (تن),شکر خام نیشکر یا چغندرقند,faostat-commodity term
+faostat__Raw hides and skins of buffaloes__production,تولید، سطح زیر کشت و عملکرد پوست خام گاومیش,پوست خام گاومیش,faostat-commodity term
+faostat__Raw hides and skins of cattle__production,تولید، سطح زیر کشت و عملکرد پوست خام گاو,پوست خام گاو,faostat-commodity term
+faostat__Raw hides and skins of goats or kids__production,تولید، سطح زیر کشت و عملکرد پوست خام بز و بزغاله,پوست خام بز و بزغاله,faostat-commodity term
+faostat__Raw hides and skins of sheep or lambs__production,تولید، سطح زیر کشت و عملکرد پوست خام گوسفند و بره,پوست خام گوسفند و بره,faostat-commodity term
+faostat__Raw milk of buffalo__price,قیمت تولیدکننده شیر خام گاومیش,شیر خام گاومیش,faostat-commodity term
+faostat__Raw milk of buffalo__production,تولید، سطح زیر کشت و عملکرد شیر خام گاومیش,شیر خام گاومیش,faostat-commodity term
+faostat__Raw milk of cattle__price,قیمت تولیدکننده شیر خام گاو,شیر خام گاو,faostat-commodity term
+faostat__Raw milk of cattle__production,تولید، سطح زیر کشت و عملکرد شیر خام گاو,شیر خام گاو,faostat-commodity term
+faostat__Raw milk of goats__price,قیمت تولیدکننده شیر خام بز,شیر خام بز,faostat-commodity term
+faostat__Raw milk of goats__production,تولید، سطح زیر کشت و عملکرد شیر خام بز,شیر خام بز,faostat-commodity term
+faostat__Raw milk of sheep__price,قیمت تولیدکننده شیر خام گوسفند,شیر خام گوسفند,faostat-commodity term
+faostat__Raw milk of sheep__production,تولید، سطح زیر کشت و عملکرد شیر خام گوسفند,شیر خام گوسفند,faostat-commodity term
+faostat__Raw silk (not thrown)__production,تولید ابریشم خام (نتابیده) (تن),ابریشم خام,faostat-commodity term
+faostat__Rice (Milled Equivalent)__consumption,سرانه مصرف برنج (معادل برنج سفید),برنج (معادل سفید),faostat-commodity term
+faostat__Rice (Milled Equivalent)__trade,صادرات و واردات برنج (معادل برنج سفید),برنج (معادل سفید),faostat-commodity term
+faostat__Rice and products__consumption,سرانه مصرف برنج و فرآورده‌های آن,برنج و فرآورده‌های آن,faostat-commodity term
+faostat__Rice and products__trade,صادرات و واردات برنج و فرآورده‌های آن,برنج و فرآورده‌های آن,faostat-commodity term
+faostat__Rice__price,قیمت تولیدکننده برنج,برنج,faostat-commodity term
+faostat__Rice__production,تولید، سطح زیر کشت و عملکرد برنج,برنج,faostat-commodity term
+faostat__Ricebran Oil__consumption,سرانه مصرف روغن سبوس برنج,روغن سبوس برنج,faostat-commodity term
+"faostat__Roots and Tubers, Total__price",قیمت تولیدکننده ریشه‌ها و غده‌ها، جمع کل,ریشه‌ها و غده‌ها (کل),faostat-commodity term
+"faostat__Roots and Tubers, Total__production",تولید، سطح زیر کشت و عملکرد ریشه‌ها و غده‌ها، جمع کل,ریشه‌ها و غده‌ها (کل),faostat-commodity term
+faostat__Rye and products__consumption,سرانه مصرف چاودار و فرآورده‌های آن,چاودار و فرآورده‌های آن,faostat-commodity term
+faostat__Rye and products__trade,صادرات و واردات چاودار و فرآورده‌های آن,چاودار و فرآورده‌های آن,faostat-commodity term
+faostat__Rye__production,تولید، سطح زیر کشت و عملکرد چاودار,چاودار,faostat-commodity term
+faostat__Safflower seed__price,قیمت تولیدکننده دانه گلرنگ,دانه گلرنگ,faostat-commodity term
+faostat__Safflower seed__production,تولید، سطح زیر کشت و عملکرد دانه گلرنگ,دانه گلرنگ,faostat-commodity term
+"faostat__Seed cotton, unginned__price",قیمت تولیدکننده پنبه‌وش، حلاجی‌نشده,پنبه دانه‌دار، حلاجی‌نشده,faostat-commodity term
+"faostat__Seed cotton, unginned__production",تولید، سطح زیر کشت و عملکرد پنبه‌وش، حلاجی‌نشده,پنبه دانه‌دار، حلاجی‌نشده,faostat-commodity term
+faostat__Sesame seed__consumption,سرانه مصرف دانه کنجد,کنجد,faostat-commodity term
+faostat__Sesame seed__price,قیمت تولیدکننده دانه کنجد,کنجد,faostat-commodity term
+faostat__Sesame seed__production,تولید، سطح زیر کشت و عملکرد دانه کنجد,کنجد,faostat-commodity term
+faostat__Sesame seed__trade,صادرات و واردات دانه کنجد,کنجد,faostat-commodity term
+faostat__Sesameseed Oil__consumption,سرانه مصرف روغن کنجد,روغن کنجد,faostat-commodity term
+faostat__Sesameseed Oil__trade,صادرات و واردات روغن کنجد,روغن کنجد,faostat-commodity term
+faostat__Sheep and Goat Meat__production,تولید، سطح زیر کشت و عملکرد گوشت گوسفند و بز,گوشت گوسفند و بز,faostat-commodity term
+faostat__Sheep and Goats__production,تولید، سطح زیر کشت و عملکرد گوسفند و بز,گوسفند و بز,faostat-commodity term
+"faostat__Sheep fat, unrendered__production",تولید، سطح زیر کشت و عملکرد چربی گوسفند، خام,چربی خام گوسفند,faostat-commodity term
+faostat__Sheep__production,تولید، سطح زیر کشت و عملکرد گوسفند,گوسفند,faostat-commodity term
+"faostat__Shorn wool, greasy, including fleece-washed shorn wool__price",قیمت تولیدکننده پشم چیده‌شده، چرب (شامل پشم شسته‌شده روی بدن),پشم چیده‌شده چرب، شامل پشم شسته‌شده,faostat-commodity term
+"faostat__Shorn wool, greasy, including fleece-washed shorn wool__production",تولید پشم چیده‌شده، چرب (شامل پشم شسته‌شده روی بدن) (تن),پشم چیده‌شده چرب، شامل پشم شسته‌شده,faostat-commodity term
+faostat__Silk-worm cocoons suitable for reeling__price,قیمت تولیدکننده پیله کرم ابریشم مناسب برای نخ‌ریسی,پیله کرم ابریشم مناسب برای نخ‌ریسی,faostat-commodity term
+faostat__Silk-worm cocoons suitable for reeling__production,تولید پیله کرم ابریشم مناسب برای نخ‌ریسی (تن),پیله کرم ابریشم مناسب برای نخ‌ریسی,faostat-commodity term
+"faostat__Skim Milk & Buttermilk, Dry__production",تولید شیر پس‌چرخ و دوغ کره، خشک (تن),شیر بدون چربی و دوغ خشک,faostat-commodity term
+faostat__Skim milk and whey powder__production,تولید شیر پس‌چرخ و پودر آب‌پنیر (تن),شیر بدون چربی و پودر آب‌پنیر,faostat-commodity term
+faostat__Skim milk of cows__production,تولید شیر پس‌چرخ گاو (تن),شیر بدون چربی گاو,faostat-commodity term
+faostat__Sorghum and products__trade,صادرات و واردات ذرت خوشه‌ای (سورگوم) و فرآورده‌های آن,سورگوم و فرآورده‌های آن,faostat-commodity term
+faostat__Sorghum__price,قیمت تولیدکننده ذرت خوشه‌ای (سورگوم),سورگوم,faostat-commodity term
+faostat__Sour cherries__price,قیمت تولیدکننده آلبالو,آلبالو,faostat-commodity term
+faostat__Sour cherries__production,تولید، سطح زیر کشت و عملکرد آلبالو,آلبالو,faostat-commodity term
+faostat__Soya bean oil__production,تولید روغن سویا (تن),روغن سویا,faostat-commodity term
+faostat__Soya beans__price,قیمت تولیدکننده سویا,سویا,faostat-commodity term
+faostat__Soya beans__production,تولید، سطح زیر کشت و عملکرد سویا,سویا,faostat-commodity term
+faostat__Soyabean Oil__consumption,سرانه مصرف روغن سویا,روغن سویا,faostat-commodity term
+faostat__Soyabean Oil__trade,صادرات و واردات روغن سویا,روغن سویا,faostat-commodity term
+faostat__Soyabeans__trade,صادرات و واردات سویا,سویا,faostat-commodity term
+"faostat__Spices, Other__consumption",سرانه مصرف سایر ادویه‌جات,سایر ادویه‌جات,faostat-commodity term
+"faostat__Spices, Other__trade",صادرات و واردات سایر ادویه‌جات,سایر ادویه‌جات,faostat-commodity term
+faostat__Spices__consumption,سرانه مصرف ادویه‌جات,ادویه‌جات,faostat-commodity term
+faostat__Spices__trade,صادرات و واردات ادویه‌جات,ادویه‌جات,faostat-commodity term
+faostat__Spinach__price,قیمت تولیدکننده اسفناج,اسفناج,faostat-commodity term
+faostat__Spinach__production,تولید، سطح زیر کشت و عملکرد اسفناج,اسفناج,faostat-commodity term
+faostat__Starchy Roots__consumption,سرانه مصرف ریشه‌های نشاسته‌ای,ریشه‌های نشاسته‌ای,faostat-commodity term
+faostat__Starchy Roots__trade,صادرات و واردات ریشه‌های نشاسته‌ای,ریشه‌های نشاسته‌ای,faostat-commodity term
+faostat__Stimulants__consumption,سرانه مصرف محصولات محرک,محصولات محرک,faostat-commodity term
+faostat__Stimulants__trade,صادرات و واردات محصولات محرک,محصولات محرک,faostat-commodity term
+faostat__Strawberries__price,قیمت تولیدکننده توت‌فرنگی,توت‌فرنگی,faostat-commodity term
+faostat__Strawberries__production,تولید، سطح زیر کشت و عملکرد توت‌فرنگی,توت‌فرنگی,faostat-commodity term
+faostat__String beans__price,قیمت تولیدکننده لوبیا سبز,لوبیا سبز,faostat-commodity term
+faostat__Sugar & Sweeteners__consumption,سرانه مصرف قند، شکر و شیرین‌کننده‌ها,شکر و شیرین‌کننده‌ها,faostat-commodity term
+faostat__Sugar & Sweeteners__trade,صادرات و واردات قند، شکر و شیرین‌کننده‌ها,شکر و شیرین‌کننده‌ها,faostat-commodity term
+faostat__Sugar (Raw Equivalent)__consumption,سرانه مصرف شکر (معادل خام),شکر (معادل خام),faostat-commodity term
+faostat__Sugar (Raw Equivalent)__trade,صادرات و واردات شکر (معادل خام),شکر (معادل خام),faostat-commodity term
+faostat__Sugar Crops Primary__production,تولید، سطح زیر کشت و عملکرد محصولات قندی، اولیه,محصولات قندی، اولیه,faostat-commodity term
+faostat__Sugar Crops__consumption,سرانه مصرف محصولات قندی,محصولات قندی,faostat-commodity term
+faostat__Sugar Crops__trade,صادرات و واردات محصولات قندی,محصولات قندی,faostat-commodity term
+faostat__Sugar beet__price,قیمت تولیدکننده چغندرقند,چغندرقند,faostat-commodity term
+faostat__Sugar beet__production,تولید، سطح زیر کشت و عملکرد چغندرقند,چغندرقند,faostat-commodity term
+faostat__Sugar beet__trade,صادرات و واردات چغندرقند,چغندرقند,faostat-commodity term
+faostat__Sugar cane__consumption,سرانه مصرف نیشکر,نیشکر,faostat-commodity term
+faostat__Sugar cane__price,قیمت تولیدکننده نیشکر,نیشکر,faostat-commodity term
+faostat__Sugar cane__production,تولید، سطح زیر کشت و عملکرد نیشکر,نیشکر,faostat-commodity term
+faostat__Sugar cane__trade,صادرات و واردات نیشکر,نیشکر,faostat-commodity term
+faostat__Sunflower seed__price,قیمت تولیدکننده دانه آفتابگردان,دانه آفتابگردان,faostat-commodity term
+faostat__Sunflower seed__production,تولید، سطح زیر کشت و عملکرد دانه آفتابگردان,دانه آفتابگردان,faostat-commodity term
+faostat__Sunflower seed__trade,صادرات و واردات دانه آفتابگردان,دانه آفتابگردان,faostat-commodity term
+"faostat__Sunflower-seed oil, crude__production",تولید روغن آفتابگردان، خام (تن),روغن آفتابگردان، خام,faostat-commodity term
+faostat__Sunflowerseed Oil__consumption,سرانه مصرف روغن آفتابگردان,روغن آفتابگردان,faostat-commodity term
+faostat__Sunflowerseed Oil__trade,صادرات و واردات روغن آفتابگردان,روغن آفتابگردان,faostat-commodity term
+faostat__Sweet potatoes__trade,صادرات و واردات سیب‌زمینی شیرین,سیب‌زمینی شیرین,faostat-commodity term
+"faostat__Sweeteners, Other__consumption",سرانه مصرف سایر شیرین‌کننده‌ها,سایر شیرین‌کننده‌ها,faostat-commodity term
+"faostat__Sweeteners, Other__trade",صادرات و واردات سایر شیرین‌کننده‌ها,سایر شیرین‌کننده‌ها,faostat-commodity term
+faostat__Swine / pigs__production,تولید، سطح زیر کشت و عملکرد خوک,خوک,faostat-commodity term
+faostat__Tallow__production,تولید پیه (تن),پیه,faostat-commodity term
+"faostat__Tangerines, mandarins, clementines__price",قیمت تولیدکننده نارنگی و کلمانتین,نارنگی و کلمانتین,faostat-commodity term
+"faostat__Tangerines, mandarins, clementines__production",تولید، سطح زیر کشت و عملکرد نارنگی و کلمانتین,نارنگی و کلمانتین,faostat-commodity term
+faostat__Tea (including mate)__consumption,سرانه مصرف چای (شامل ماته),چای، شامل ماته,faostat-commodity term
+faostat__Tea (including mate)__trade,صادرات و واردات چای (شامل ماته),چای، شامل ماته,faostat-commodity term
+faostat__Tea leaves__price,قیمت تولیدکننده برگ چای,برگ چای,faostat-commodity term
+faostat__Tea leaves__production,تولید، سطح زیر کشت و عملکرد برگ چای,برگ چای,faostat-commodity term
+faostat__Tomatoes and products__consumption,سرانه مصرف گوجه‌فرنگی و فرآورده‌های آن,گوجه‌فرنگی و فرآورده‌های آن,faostat-commodity term
+faostat__Tomatoes and products__trade,صادرات و واردات گوجه‌فرنگی و فرآورده‌های آن,گوجه‌فرنگی و فرآورده‌های آن,faostat-commodity term
+faostat__Tomatoes__price,قیمت تولیدکننده گوجه‌فرنگی,گوجه‌فرنگی,faostat-commodity term
+faostat__Tomatoes__production,تولید، سطح زیر کشت و عملکرد گوجه‌فرنگی,گوجه‌فرنگی,faostat-commodity term
+"faostat__Treenuts, Total__price",قیمت تولیدکننده آجیل درختی، جمع کل,آجیل درختی (کل),faostat-commodity term
+"faostat__Treenuts, Total__production",تولید، سطح زیر کشت و عملکرد آجیل درختی، جمع کل,آجیل درختی (کل),faostat-commodity term
+faostat__Treenuts__consumption,سرانه مصرف آجیل درختی,آجیل درختی,faostat-commodity term
+faostat__Treenuts__trade,صادرات و واردات آجیل درختی,آجیل درختی,faostat-commodity term
+faostat__Turkeys__production,تولید، سطح زیر کشت و عملکرد بوقلمون,بوقلمون,faostat-commodity term
+faostat__Unmanufactured tobacco__price,قیمت تولیدکننده توتون خام,توتون خام,faostat-commodity term
+faostat__Unmanufactured tobacco__production,تولید، سطح زیر کشت و عملکرد توتون خام,توتون خام,faostat-commodity term
+faostat__Vegetable Oils__consumption,سرانه مصرف روغن‌های نباتی,روغن‌های نباتی,faostat-commodity term
+faostat__Vegetable Oils__trade,صادرات و واردات روغن‌های نباتی,روغن‌های نباتی,faostat-commodity term
+faostat__Vegetables Primary__price,قیمت تولیدکننده سبزیجات، اولیه,سبزیجات، اولیه,faostat-commodity term
+faostat__Vegetables Primary__production,تولید، سطح زیر کشت و عملکرد سبزیجات، اولیه,سبزیجات، اولیه,faostat-commodity term
+"faostat__Vegetables and Melons, Total__price",قیمت تولیدکننده سبزیجات و خربزه و هندوانه، جمع کل,سبزیجات و خربزه (کل),faostat-commodity term
+"faostat__Vegetables, other__consumption",سرانه مصرف سایر سبزیجات,سایر سبزیجات,faostat-commodity term
+"faostat__Vegetables, other__trade",صادرات و واردات سایر سبزیجات,سایر سبزیجات,faostat-commodity term
+faostat__Vegetables__consumption,سرانه مصرف سبزیجات,سبزیجات,faostat-commodity term
+faostat__Vegetables__trade,صادرات و واردات سبزیجات,سبزیجات,faostat-commodity term
+faostat__Vegetal Products__consumption,سرانه مصرف محصولات گیاهی,فرآورده‌های گیاهی,faostat-commodity term
+"faostat__Walnuts, in shell__price",قیمت تولیدکننده گردو با پوست,گردو با پوست,faostat-commodity term
+"faostat__Walnuts, in shell__production",تولید، سطح زیر کشت و عملکرد گردو با پوست,گردو با پوست,faostat-commodity term
+faostat__Watermelons__price,قیمت تولیدکننده هندوانه,هندوانه,faostat-commodity term
+faostat__Watermelons__production,تولید، سطح زیر کشت و عملکرد هندوانه,هندوانه,faostat-commodity term
+faostat__Wheat and products__consumption,سرانه مصرف گندم و فرآورده‌های آن,گندم و فرآورده‌های آن,faostat-commodity term
+faostat__Wheat and products__trade,صادرات و واردات گندم و فرآورده‌های آن,گندم و فرآورده‌های آن,faostat-commodity term
+faostat__Wheat__price,قیمت تولیدکننده گندم,گندم,faostat-commodity term
+faostat__Wheat__production,تولید، سطح زیر کشت و عملکرد گندم,گندم,faostat-commodity term
+"faostat__Whey, dry__production",تولید آب‌پنیر، خشک (تن),آب‌پنیر خشک,faostat-commodity term
+faostat__Whole milk powder__production,تولید شیر خشک کامل (تن),شیر خشک کامل,faostat-commodity term
+"faostat__Whole milk, condensed__production",تولید شیر کامل، غلیظ‌شده (تن),شیر کامل غلیظ‌شده,faostat-commodity term
+"faostat__Whole milk, evaporated__production",تولید شیر کامل، تبخیرشده (تن),شیر کامل تبخیرشده,faostat-commodity term
+faostat__Wine__consumption,سرانه مصرف شراب,شراب,faostat-commodity term
+fx__official_vs_parallel_gap_irn,نرخ ارز رسمی ایران در برابر بازار موازی (سیاه) دلار و شکاف میان آن‌ها,نرخ ارز دلار آمریکا,FX chart consolidation
+proposed__external_debt_net_flows_by_creditor_type,جریان‌های خالص بدهی خارجی، به تفکیک نوع بستانکار (دلار جاری آمریکا),جریان خالص بدهی خارجی به تفکیک نوع طلبکار,strip-unit: subject-only translation
+proposed__net_official_flows_un_agencies,جریان‌های رسمی خالص از نهادهای سازمان ملل، به تفکیک نهاد (دلار جاری آمریکا),جریان‌های رسمی خالص از آژانس‌های سازمان ملل، به تفکیک آژانس,strip-unit: subject-only translation
+wdi__AG.LND.AGRI,زمین‌های کشاورزی (کیلومتر مربع),زمین کشاورزی,strip-unit: subject-only translation
+wdi__AG.LND.EL5M.RU,مساحت زمین‌های روستایی با ارتفاع کمتر از 5 متر (کیلومتر مربع),مساحت اراضی روستایی با ارتفاع کمتر از 5 متر,strip-unit: subject-only translation
+wdi__AG.LND.EL5M.UR,مساحت زمین‌های شهری با ارتفاع کمتر از 5 متر (کیلومتر مربع),مساحت اراضی شهری با ارتفاع کمتر از 5 متر,strip-unit: subject-only translation
+wdi__AG.LND.FRST,مساحت جنگل (کیلومتر مربع),مساحت جنگل,strip-unit: subject-only translation
+wdi__AG.LND.TOTL,مساحت زمین (کیلومتر مربع),مساحت خشکی,strip-unit: subject-only translation
+wdi__AG.LND.TOTL.RU,مساحت زمین‌های روستایی (کیلومتر مربع),مساحت اراضی روستایی,strip-unit: subject-only translation
+wdi__AG.LND.TOTL.UR,مساحت زمین‌های شهری (کیلومتر مربع),مساحت اراضی شهری,strip-unit: subject-only translation
+wdi__AG.PRD.CREL,تولید غلات (تن متریک),تولید غلات,strip-unit: subject-only translation
+wdi__AG.SRF.TOTL,مساحت کل (کیلومتر مربع),مساحت کل,strip-unit: subject-only translation
+wdi__AG.YLD.CREL,عملکرد غلات (کیلوگرم به ازای هر هکتار),عملکرد غلات,strip-unit: subject-only translation
+wdi__BM.GSR.FCTY,پرداخت‌های درآمد اولیه (موازنه پرداخت‌ها، دلار جاری آمریکا),پرداخت‌های درآمد اولیه,strip-unit: subject-only translation
+wdi__BM.GSR.GNFS,واردات کالا و خدمات (موازنه پرداخت‌ها، دلار جاری آمریکا),واردات کالا و خدمات,strip-unit: subject-only translation
+wdi__BM.GSR.MRCH,واردات کالا (موازنه پرداخت‌ها، دلار جاری آمریکا),واردات کالا,strip-unit: subject-only translation
+wdi__BM.GSR.NFSV,واردات خدمات (موازنه پرداخت‌ها، دلار جاری آمریکا),واردات خدمات,strip-unit: subject-only translation
+wdi__BM.GSR.TOTL,واردات کالا، خدمات و درآمد اولیه (موازنه پرداخت‌ها، دلار جاری آمریکا),واردات کالا، خدمات و درآمد اولیه,strip-unit: subject-only translation
+wdi__BM.KLT.DINV.CD,سرمایه‌گذاری مستقیم خارجی، خروج خالص (موازنه پرداخت‌ها، دلار جاری آمریکا),خروجی خالص سرمایه‌گذاری مستقیم خارجی,strip-unit: subject-only translation
+wdi__BM.TRF.PRVT,درآمد ثانویه، سایر بخش‌ها، پرداخت‌ها (موازنه پرداخت‌ها، دلار جاری آمریکا),پرداخت‌های درآمد ثانویه، سایر بخش‌ها,strip-unit: subject-only translation
+wdi__BN.CAB.XOKA,موازنه حساب جاری (موازنه پرداخت‌ها، دلار جاری آمریکا),تراز حساب جاری,strip-unit: subject-only translation
+wdi__BN.FIN.TOTL,حساب مالی خالص (موازنه پرداخت‌ها، دلار جاری آمریکا),حساب مالی خالص,strip-unit: subject-only translation
+wdi__BN.GSR.FCTY,درآمد اولیه خالص (موازنه پرداخت‌ها، دلار جاری آمریکا),درآمد اولیه خالص,strip-unit: subject-only translation
+wdi__BN.GSR.GNFS,تجارت خالص کالا و خدمات (موازنه پرداخت‌ها، دلار جاری آمریکا),تجارت خالص کالا و خدمات,strip-unit: subject-only translation
+wdi__BN.GSR.MRCH,تجارت خالص کالا (موازنه پرداخت‌ها، دلار جاری آمریکا),تجارت خالص کالا,strip-unit: subject-only translation
+wdi__BN.KAC.EOMS,خطاها و اقلام حذف‌شده خالص (موازنه پرداخت‌ها، دلار جاری آمریکا),خالص خطاها و اشتباهات آماری,strip-unit: subject-only translation
+wdi__BN.KLT.DINV,سرمایه‌گذاری مستقیم خارجی، خالص (موازنه پرداخت‌ها، دلار جاری آمریکا),خالص سرمایه‌گذاری مستقیم خارجی,strip-unit: subject-only translation
+wdi__BN.RES.INCL,ذخایر و اقلام مرتبط (موازنه پرداخت‌ها، دلار جاری آمریکا),ذخایر و اقلام مرتبط,strip-unit: subject-only translation
+wdi__BN.TRF.CURR,درآمد ثانویه خالص (موازنه پرداخت‌ها، دلار جاری آمریکا),درآمد ثانویه خالص,strip-unit: subject-only translation
+wdi__BX.GRT.EXTA.CD,کمک‌های بلاعوض، به استثنای همکاری‌های فنی (موازنه پرداخت‌ها، دلار جاری آمریکا),کمک‌های بلاعوض (به استثنای همکاری فنی),strip-unit: subject-only translation
+wdi__BX.GRT.TECH.CD,کمک‌های بلاعوض همکاری فنی (موازنه پرداخت‌ها، دلار جاری آمریکا),کمک‌های بلاعوض همکاری فنی,strip-unit: subject-only translation
+wdi__BX.GSR.FCTY,دریافتی‌های درآمد اولیه (موازنه پرداخت‌ها، دلار جاری آمریکا),دریافتی‌های درآمد اولیه,strip-unit: subject-only translation
+wdi__BX.GSR.GNFS,صادرات کالا و خدمات (موازنه پرداخت‌ها، دلار جاری آمریکا),صادرات کالا و خدمات,strip-unit: subject-only translation
+wdi__BX.GSR.MRCH,صادرات کالا (موازنه پرداخت‌ها، دلار جاری آمریکا),صادرات کالا,strip-unit: subject-only translation
+wdi__BX.GSR.NFSV,صادرات خدمات (موازنه پرداخت‌ها، دلار جاری آمریکا),صادرات خدمات,strip-unit: subject-only translation
+wdi__BX.GSR.TOTL,صادرات کالا، خدمات و درآمد اولیه (موازنه پرداخت‌ها، دلار جاری آمریکا),صادرات کالا، خدمات و درآمد اولیه,strip-unit: subject-only translation
+wdi__BX.KLT.DINV.CD,سرمایه‌گذاری مستقیم خارجی، ورود خالص (موازنه پرداخت‌ها، دلار جاری آمریکا),ورودی خالص سرمایه‌گذاری مستقیم خارجی,strip-unit: subject-only translation
+wdi__BX.TRF.CURR,دریافتی‌های درآمد ثانویه (موازنه پرداخت‌ها، دلار جاری آمریکا),دریافتی‌های درآمد ثانویه,strip-unit: subject-only translation
+wdi__BX.TRF.PWKR.CD,حواله‌های شخصی دریافتی (دلار جاری آمریکا),حواله‌های شخصی دریافتی,strip-unit: subject-only translation
+wdi__CM.MKT,سهام معامله‌شده، نسبت گردش سهام داخلی (درصد),نسبت گردش معاملات سهام داخلی,strip-unit: subject-only translation
+wdi__CM.MKT.LCAP,ارزش بازار شرکت‌های داخلی پذیرفته‌شده در بورس (دلار جاری آمریکا),ارزش بازار شرکت‌های داخلی پذیرفته‌شده در بورس,strip-unit: subject-only translation
+wdi__CM.MKT.TRAD,سهام معامله‌شده، ارزش کل (دلار جاری آمریکا),ارزش کل سهام معامله‌شده,strip-unit: subject-only translation
+wdi__DC.DAC.TOTL,جریان‌های کمک دوجانبه خالص از اعضای کمیته کمک توسعه (DAC)، کل (دلار جاری آمریکا),جریان خالص کمک‌های دوجانبه از کشورهای عضو کمیته کمک توسعه,strip-unit: subject-only translation
+wdi__DT.DOD.DECT,کل ذخیره بدهی خارجی (DOD، دلار جاری آمریکا),مانده کل بدهی خارجی,strip-unit: subject-only translation
+wdi__DT.DOD.DIMF,استفاده از اعتبار صندوق بین‌المللی پول (DOD، دلار جاری آمریکا),استفاده از اعتبار صندوق بین‌المللی پول,strip-unit: subject-only translation
+wdi__DT.DOD.DLXF,ذخیره بدهی خارجی بلندمدت (DOD، دلار جاری آمریکا),مانده بدهی خارجی بلندمدت,strip-unit: subject-only translation
+wdi__DT.DOD.DPNG,ذخیره بدهی خارجی، بخش خصوصی بدون تضمین دولتی (PNG) (DOD، دلار جاری آمریکا),مانده بدهی خارجی خصوصی بدون تضمین,strip-unit: subject-only translation
+wdi__DT.DOD.DPPG,ذخیره بدهی خارجی، بخش عمومی و دارای تضمین دولتی (PPG) (DOD، دلار جاری آمریکا),مانده بدهی خارجی دولتی و تضمین‌شده دولتی,strip-unit: subject-only translation
+wdi__DT.DOD.MIBR,بدهی عمومی و دارای تضمین دولتی نزد بانک بین‌المللی ترمیم و توسعه (PPG، IBRD) (DOD، دلار جاری آمریکا),بدهی دولتی و تضمین‌شده دولتی نزد بانک بین‌المللی ترمیم و توسعه,strip-unit: subject-only translation
+wdi__DT.DOD.MWBG,وام‌های بانک بین‌المللی ترمیم و توسعه (IBRD) و اعتبارات انجمن توسعه بین‌الملل (IDA) (DOD، دلار جاری آمریکا),وام‌های بانک بین‌المللی ترمیم و توسعه و اعتبارات موسسه توسعه بین‌المللی,strip-unit: subject-only translation
+wdi__DT.DOD.PVLX,ارزش فعلی بدهی خارجی (دلار جاری آمریکا),ارزش فعلی بدهی خارجی,strip-unit: subject-only translation
+wdi__DT.ODA.ALLD,کمک توسعه رسمی و کمک رسمی خالص دریافتی (دلار جاری آمریکا),خالص کمک رسمی توسعه و کمک‌های رسمی دریافتی,strip-unit: subject-only translation
+wdi__DT.ODA.ODAT,کمک توسعه رسمی خالص دریافتی (دلار جاری آمریکا),خالص کمک رسمی توسعه دریافتی,strip-unit: subject-only translation
+wdi__DT.ODA.ODAT.PC,سرانه کمک توسعه رسمی خالص دریافتی (دلار جاری آمریکا),سرانه کمک رسمی توسعه خالص دریافتی,strip-unit: subject-only translation
+wdi__DT.TDS.DECT,کل بازپرداخت بدهی خارجی (TDS، دلار جاری آمریکا),بازپرداخت کل بدهی خارجی,strip-unit: subject-only translation
+wdi__DT.TDS.DIMF,بازخرید و کارمزدهای صندوق بین‌المللی پول (TDS، دلار جاری آمریکا),بازخرید و کارمزدهای صندوق بین‌المللی پول,strip-unit: subject-only translation
+wdi__DT.TDS.DPPG,بازپرداخت بدهی خارجی، بخش عمومی و دارای تضمین دولتی (PPG) (TDS، دلار جاری آمریکا),بازپرداخت بدهی خارجی دولتی و تضمین‌شده دولتی,strip-unit: subject-only translation
+wdi__DT.TDS.MLAT,بازپرداخت بدهی چندجانبه (TDS، دلار جاری آمریکا),بازپرداخت بدهی چندجانبه,strip-unit: subject-only translation
+wdi__EG.ELC.RNWX,تولید برق از منابع تجدیدپذیر، به استثنای برق‌آبی (کیلووات‌ساعت),تولید برق از منابع تجدیدپذیر (به استثنای برق‌آبی),strip-unit: subject-only translation
+wdi__EN.GHG.ALL.LU.MT.CE,کل انتشار گازهای گلخانه‌ای شامل LULUCF (مگاتن معادل CO2),مجموع انتشار گازهای گلخانه‌ای، شامل تغییر کاربری اراضی و جنگل‌داری,strip-unit: subject-only translation
+wdi__EN.GHG.CH4.AG.MT.CE,انتشار متان (CH4) از کشاورزی (مگاتن معادل CO2),انتشار متان از کشاورزی,strip-unit: subject-only translation
+wdi__EN.GHG.CH4.BU.MT.CE,انتشار متان (CH4) از ساختمان (انرژی) (مگاتن معادل CO2),انتشار متان از ساختمان (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CH4.FE.MT.CE,انتشار متان (CH4) از نشتی‌های صنعت انرژی (مگاتن معادل CO2),انتشار متان از نشتی‌های گازی (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CH4.IC.MT.CE,انتشار متان (CH4) از احتراق صنعتی (انرژی) (مگاتن معادل CO2),انتشار متان از احتراق صنعتی (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CH4.IP.MT.CE,انتشار متان (CH4) از فرآیندهای صنعتی (مگاتن معادل CO2),انتشار متان از فرآیندهای صنعتی,strip-unit: subject-only translation
+wdi__EN.GHG.CH4.PI.MT.CE,انتشار متان (CH4) از صنعت برق (انرژی) (مگاتن معادل CO2),انتشار متان از صنعت برق (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CH4.TR.MT.CE,انتشار متان (CH4) از حمل‌ونقل (انرژی) (مگاتن معادل CO2),انتشار متان از حمل‌ونقل (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CH4.WA.MT.CE,انتشار متان (CH4) از پسماند (مگاتن معادل CO2),انتشار متان از پسماند,strip-unit: subject-only translation
+wdi__EN.GHG.CO2.AG.MT.CE,انتشار دی‌اکسید کربن (CO2) از کشاورزی (مگاتن معادل CO2),انتشار دی‌اکسید کربن از کشاورزی,strip-unit: subject-only translation
+wdi__EN.GHG.CO2.BU.MT.CE,انتشار دی‌اکسید کربن (CO2) از ساختمان (انرژی) (مگاتن معادل CO2),انتشار دی‌اکسید کربن از ساختمان (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CO2.FE.MT.CE,انتشار دی‌اکسید کربن (CO2) از نشتی‌های صنعت انرژی (مگاتن معادل CO2),انتشار دی‌اکسید کربن از نشتی‌های گازی (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CO2.IC.MT.CE,انتشار دی‌اکسید کربن (CO2) از احتراق صنعتی (انرژی) (مگاتن معادل CO2),انتشار دی‌اکسید کربن از احتراق صنعتی (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CO2.IP.MT.CE,انتشار دی‌اکسید کربن (CO2) از فرآیندهای صنعتی (مگاتن معادل CO2),انتشار دی‌اکسید کربن از فرآیندهای صنعتی,strip-unit: subject-only translation
+wdi__EN.GHG.CO2.LU.DF.MT.CE,شار خالص دی‌اکسید کربن (CO2) از LULUCF، جنگل‌زدایی (مگاتن معادل CO2),خالص انتشار دی‌اکسید کربن از تغییر کاربری اراضی و جنگل‌داری، جنگل‌زدایی,strip-unit: subject-only translation
+wdi__EN.GHG.CO2.LU.FL.MT.CE,شار خالص دی‌اکسید کربن (CO2) از اراضی جنگلی LULUCF (مگاتن معادل CO2),خالص انتشار دی‌اکسید کربن از تغییر کاربری اراضی و جنگل‌داری، اراضی جنگلی,strip-unit: subject-only translation
+wdi__EN.GHG.CO2.LU.MT.CE,شار خالص دی‌اکسید کربن (CO2) از کل اراضی LULUCF، به استثنای آتش‌سوزی‌های غیرگرمسیری (مگاتن معادل CO2),خالص انتشار دی‌اکسید کربن از تغییر کاربری اراضی و جنگل‌داری (به استثنای آتش‌سوزی‌های غیرگرمسیری),strip-unit: subject-only translation
+wdi__EN.GHG.CO2.PI.MT.CE,انتشار دی‌اکسید کربن (CO2) از صنعت برق (انرژی) (مگاتن معادل CO2),انتشار دی‌اکسید کربن از صنعت برق (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.CO2.TR.MT.CE,انتشار دی‌اکسید کربن (CO2) از حمل‌ونقل (انرژی) (مگاتن معادل CO2),انتشار دی‌اکسید کربن از حمل‌ونقل (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.FGAS.IP.MT.CE,انتشار گازهای فلوئوردار (F-gases) از فرآیندهای صنعتی (مگاتن معادل CO2),انتشار گازهای فلوئوردار از فرآیندهای صنعتی,strip-unit: subject-only translation
+wdi__EN.GHG.N2O.AG.MT.CE,انتشار اکسید نیتروژن (N2O) از کشاورزی (مگاتن معادل CO2),انتشار اکسید نیتروز از کشاورزی,strip-unit: subject-only translation
+wdi__EN.GHG.N2O.BU.MT.CE,انتشار اکسید نیتروژن (N2O) از ساختمان (انرژی) (مگاتن معادل CO2),انتشار اکسید نیتروز از ساختمان (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.N2O.FE.MT.CE,انتشار اکسید نیتروژن (N2O) از نشتی‌های صنعت انرژی (مگاتن معادل CO2),انتشار اکسید نیتروز از نشتی‌های گازی (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.N2O.IC.MT.CE,انتشار اکسید نیتروژن (N2O) از احتراق صنعتی (انرژی) (مگاتن معادل CO2),انتشار اکسید نیتروز از احتراق صنعتی (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.N2O.IP.MT.CE,انتشار اکسید نیتروژن (N2O) از فرآیندهای صنعتی (مگاتن معادل CO2),انتشار اکسید نیتروز از فرآیندهای صنعتی,strip-unit: subject-only translation
+wdi__EN.GHG.N2O.PI.MT.CE,انتشار اکسید نیتروژن (N2O) از صنعت برق (انرژی) (مگاتن معادل CO2),انتشار اکسید نیتروز از صنعت برق (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.N2O.TR.MT.CE,انتشار اکسید نیتروژن (N2O) از حمل‌ونقل (انرژی) (مگاتن معادل CO2),انتشار اکسید نیتروز از حمل‌ونقل (انرژی),strip-unit: subject-only translation
+wdi__EN.GHG.N2O.WA.MT.CE,انتشار اکسید نیتروژن (N2O) از پسماند (مگاتن معادل CO2),انتشار اکسید نیتروز از پسماند,strip-unit: subject-only translation
+wdi__ER.FSH.AQUA,تولید آبزی‌پروری (تن متریک),تولید آبزی‌پروری,strip-unit: subject-only translation
+wdi__ER.FSH.CAPT,تولید صید شیلاتی (تن متریک),تولید صید ماهی,strip-unit: subject-only translation
+wdi__ER.FSH.PROD,کل تولید شیلات (تن متریک),تولید کل شیلات,strip-unit: subject-only translation
+wdi__FB.ATM.TOTL,دستگاه‌های خودپرداز (ATM) (به ازای هر 100000 نفر بزرگسال),دستگاه‌های خودپرداز,strip-unit: subject-only translation
+wdi__FB.CBK.BRCH,شعب بانک‌های تجاری (به ازای هر 100000 نفر بزرگسال),شعب بانک‌های تجاری,strip-unit: subject-only translation
+wdi__FI.RES.XGLD,کل ذخایر منهای طلا (دلار جاری آمریکا),کل ذخایر به استثنای طلا,strip-unit: subject-only translation
+wdi__FM.AST.DOMS,اعتبار داخلی خالص (ریال جاری),خالص اعتبارات داخلی,strip-unit: subject-only translation
+wdi__FM.AST.NFRG,دارایی‌های خارجی خالص (ریال جاری),خالص دارایی‌های خارجی,strip-unit: subject-only translation
+wdi__FM.AST.PRVT.GD,اعتبار بخش پولی به بخش خصوصی (درصد از تولید ناخالص داخلی),اعتبار بخش پولی به بخش خصوصی,strip-unit: subject-only translation
+wdi__FM.LBL.BMNY,نقدینگی (ریال جاری),نقدینگی,strip-unit: subject-only translation
+wdi__FP.CPI.TOTL,تورم، قیمت‌های مصرف‌کننده (درصد سالانه),تورم قیمت مصرف‌کننده,strip-unit: subject-only translation
+wdi__FR.INR,نرخ بهره واقعی (درصد),نرخ بهره واقعی,strip-unit: subject-only translation
+wdi__FS.AST.CGOV.GD,مطالبات از دولت مرکزی و موارد مشابه (درصد از تولید ناخالص داخلی),مطالبات از دولت مرکزی و سایر,strip-unit: subject-only translation
+wdi__GC.AST.TOTL,تحصیل خالص دارایی‌های مالی (ریال جاری),خالص تحصیل دارایی‌های مالی,strip-unit: subject-only translation
+wdi__GC.LBL.TOTL,افزایش خالص بدهی‌ها، کل (ریال جاری),خالص ایجاد بدهی‌ها (کل),strip-unit: subject-only translation
+wdi__GC.NFN.TOTL,سرمایه‌گذاری خالص در دارایی‌های غیرمالی (ریال جاری),خالص سرمایه‌گذاری در دارایی‌های غیرمالی,strip-unit: subject-only translation
+wdi__GC.NLD.TOTL,وام‌دهی خالص (+) / استقراض خالص (-) (ریال جاری),خالص وام‌دهی یا وام‌گیری,strip-unit: subject-only translation
+wdi__GC.REV.GOTR,کمک‌های بلاعوض و سایر درآمدها (ریال جاری),کمک‌های بلاعوض و سایر درآمدها,strip-unit: subject-only translation
+wdi__GC.REV.SOCL,کمک‌های تأمین اجتماعی (ریال جاری),حق بیمه‌های اجتماعی,strip-unit: subject-only translation
+wdi__GC.REV.XGRT,درآمد، به استثنای کمک‌های بلاعوض (ریال جاری),درآمد، به استثنای کمک‌های بلاعوض,strip-unit: subject-only translation
+wdi__GC.TAX.EXPT,مالیات بر صادرات (ریال جاری),مالیات بر صادرات,strip-unit: subject-only translation
+wdi__GC.TAX.GSRV,مالیات بر کالا و خدمات (ریال جاری),مالیات بر کالا و خدمات,strip-unit: subject-only translation
+wdi__GC.TAX.IMPT,عوارض گمرکی و سایر عوارض واردات (ریال جاری),عوارض گمرکی و سایر عوارض واردات,strip-unit: subject-only translation
+wdi__GC.TAX.INTT,مالیات بر تجارت بین‌المللی (ریال جاری),مالیات بر تجارت بین‌المللی,strip-unit: subject-only translation
+wdi__GC.TAX.OTHR,سایر مالیات‌ها (ریال جاری),سایر مالیات‌ها,strip-unit: subject-only translation
+wdi__GC.TAX.TOTL,درآمد مالیاتی (ریال جاری),درآمد مالیاتی,strip-unit: subject-only translation
+wdi__GC.TAX.YPKG,مالیات بر درآمد، سود و عواید سرمایه (ریال جاری),مالیات بر درآمد، سود و عواید سرمایه,strip-unit: subject-only translation
+wdi__GC.XPN.COMP,جبران خدمات کارکنان (ریال جاری),جبران خدمات کارکنان,strip-unit: subject-only translation
+wdi__GC.XPN.GSRV,هزینه کالا و خدمات (ریال جاری),مخارج کالا و خدمات,strip-unit: subject-only translation
+wdi__GC.XPN.INTP,پرداخت بهره (ریال جاری),پرداخت بهره,strip-unit: subject-only translation
+wdi__GC.XPN.OTHR,سایر هزینه‌ها (ریال جاری),سایر مخارج,strip-unit: subject-only translation
+wdi__GC.XPN.TOTL,هزینه (ریال جاری),مخارج دولت,strip-unit: subject-only translation
+wdi__GC.XPN.TRFT,یارانه‌ها و سایر انتقالات (ریال جاری),یارانه‌ها و سایر انتقالات,strip-unit: subject-only translation
+wdi__GD_WBL_OVL,شاخص چارچوب حقوقی زنان، تجارت و قانون (WBL) (مقیاس 0 تا 100),شاخص چارچوب حقوقی زنان، تجارت و قانون,strip-unit: subject-only translation
+wdi__GOV_WGI_CC,امتیاز حکمرانی: کنترل فساد (0 تا 100),کنترل فساد (شاخص حکمرانی),strip-unit: subject-only translation
+wdi__GOV_WGI_GE,امتیاز حکمرانی (کارآمدی دولت، 0 تا 100),اثربخشی دولت (شاخص حکمرانی),strip-unit: subject-only translation
+wdi__GOV_WGI_PV,امتیاز حکمرانی: ثبات سیاسی (0 تا 100),ثبات سیاسی (شاخص حکمرانی),strip-unit: subject-only translation
+wdi__GOV_WGI_RL,امتیاز حکمرانی (حاکمیت قانون، 0 تا 100),حاکمیت قانون (شاخص حکمرانی),strip-unit: subject-only translation
+wdi__GOV_WGI_RQ,امتیاز حکمرانی: کیفیت مقررات (0 تا 100),کیفیت مقررات‌گذاری (شاخص حکمرانی),strip-unit: subject-only translation
+wdi__GOV_WGI_VA,امتیاز حکمرانی: صدای مردم و پاسخگویی (0 تا 100),صدای مردم و پاسخگویی (شاخص حکمرانی),strip-unit: subject-only translation
+wdi__IC.BUS,کسب‌وکارهای تازه ثبت‌شده (تعداد),کسب‌وکارهای جدید ثبت‌شده,strip-unit: subject-only translation
+wdi__IE.PPI.ENGY,سرمایه‌گذاری در بخش انرژی با مشارکت خصوصی (دلار جاری آمریکا),سرمایه‌گذاری در انرژی با مشارکت بخش خصوصی,strip-unit: subject-only translation
+wdi__IE.PPI.ICTI,سرمایه‌گذاری در بخش فناوری اطلاعات و ارتباطات با مشارکت خصوصی (دلار جاری آمریکا),سرمایه‌گذاری در فناوری اطلاعات و ارتباطات با مشارکت بخش خصوصی,strip-unit: subject-only translation
+wdi__IE.PPI.TRAN,سرمایه‌گذاری در بخش حمل‌ونقل با مشارکت خصوصی (دلار جاری آمریکا),سرمایه‌گذاری در حمل‌ونقل با مشارکت بخش خصوصی,strip-unit: subject-only translation
+wdi__IE.PPN.ENGY,سرمایه‌گذاری مشارکت عمومی-خصوصی در بخش انرژی (دلار جاری آمریکا),سرمایه‌گذاری مشارکت عمومی و خصوصی در انرژی,strip-unit: subject-only translation
+wdi__IE.PPN.TRAN,سرمایه‌گذاری مشارکت عمومی-خصوصی در بخش حمل‌ونقل (دلار جاری آمریکا),سرمایه‌گذاری مشارکت عمومی و خصوصی در حمل‌ونقل,strip-unit: subject-only translation
+wdi__IT.NET.BBND,اشتراک‌های اینترنت پرسرعت ثابت (به ازای هر 100 نفر),اشتراک‌های اینترنت پرسرعت ثابت,strip-unit: subject-only translation
+wdi__LP.LPI.CUST,شاخص عملکرد لجستیک: کارایی فرآیند ترخیص گمرکی (1=پایین تا 5=بالا),شاخص عملکرد لجستیک، کارایی فرآیند ترخیص گمرکی,strip-unit: subject-only translation
+wdi__LP.LPI.INFR,شاخص عملکرد لجستیک: کیفیت زیرساخت‌های تجاری و حمل‌ونقل (1=پایین تا 5=بالا),شاخص عملکرد لجستیک، کیفیت زیرساخت‌های تجارت و حمل‌ونقل,strip-unit: subject-only translation
+wdi__LP.LPI.ITRN,شاخص عملکرد لجستیک: سهولت ترتیب حمل‌ونقل با قیمت رقابتی (1=پایین تا 5=بالا),شاخص عملکرد لجستیک، سهولت ترتیب حمل‌ونقل با قیمت رقابتی,strip-unit: subject-only translation
+wdi__LP.LPI.LOGS,شاخص عملکرد لجستیک: صلاحیت و کیفیت خدمات لجستیکی (1=پایین تا 5=بالا),شاخص عملکرد لجستیک، شایستگی و کیفیت خدمات لجستیکی,strip-unit: subject-only translation
+wdi__LP.LPI.OVRL,شاخص عملکرد لجستیک: کلی (1=پایین تا 5=بالا),شاخص عملکرد لجستیک، کلی,strip-unit: subject-only translation
+wdi__LP.LPI.TIME,شاخص عملکرد لجستیک: فراوانی رسیدن محموله‌ها به گیرنده در زمان مقرر یا مورد انتظار (1=پایین تا 5=بالا),شاخص عملکرد لجستیک، تناوب رسیدن به‌موقع محموله‌ها به گیرنده,strip-unit: subject-only translation
+wdi__LP.LPI.TRAC,شاخص عملکرد لجستیک: قابلیت ردیابی و پیگیری محموله‌ها (1=پایین تا 5=بالا),شاخص عملکرد لجستیک، توانایی ردیابی و پیگیری محموله‌ها,strip-unit: subject-only translation
+wdi__MS.MIL.XPND,مخارج نظامی (ریال جاری),مخارج نظامی,strip-unit: subject-only translation
+wdi__NE.CON.GOVT.KD,رشد مخارج نهایی مصرف دولت عمومی (درصد سالانه),مخارج مصرف نهایی دولت,strip-unit: subject-only translation
+wdi__NE.CON.PCAP.PP,سرانه مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه مخارج مصرف نهایی خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوار (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__NE.CON.PRVT.CN,مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها: سری پیوسته (ریال جاری),مخارج مصرف نهایی خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوار (سری پیوسته),strip-unit: subject-only translation
+wdi__NE.CON.PRVT.KD,رشد مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها (درصد سالانه),مخارج مصرف نهایی خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوار,strip-unit: subject-only translation
+wdi__NE.CON.PRVT.PC,سرانه مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها (دلار ثابت آمریکا، پایه 2015),سرانه مخارج مصرف نهایی خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوار,strip-unit: subject-only translation
+wdi__NE.CON.PRVT.PC.KD,رشد مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها سرانه (درصد سالانه),رشد سرانه مخارج مصرف نهایی خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوار,strip-unit: subject-only translation
+wdi__NE.CON.PRVT.PP,مخارج نهایی مصرف خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوارها، برابری قدرت خرید (دلار بین‌المللی جاری),مخارج مصرف نهایی خانوارها و نهادهای غیرانتفاعی خدمت‌رسان به خانوار (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__NE.CON.TOTL.KD,مخارج نهایی مصرف (رشد سالانه، درصد),مخارج مصرف نهایی,strip-unit: subject-only translation
+wdi__NE.EXP.GNFS.KD,رشد صادرات کالا و خدمات (درصد سالانه),صادرات کالا و خدمات,strip-unit: subject-only translation
+wdi__NE.GDI.FTOT.KD,تشکیل ناخالص سرمایه ثابت (رشد سالانه، درصد),تشکیل سرمایه ثابت ناخالص,strip-unit: subject-only translation
+wdi__NE.GDI.STKB,تغییرات موجودی انبار (ریال جاری),تغییرات موجودی انبار,strip-unit: subject-only translation
+wdi__NE.GDI.TOTL.KD,تشکیل ناخالص سرمایه (رشد سالانه، درصد),تشکیل سرمایه ناخالص,strip-unit: subject-only translation
+wdi__NE.IMP.GNFS.KD,واردات کالا و خدمات (رشد سالانه، درصد),واردات کالا و خدمات,strip-unit: subject-only translation
+wdi__NV.AGR.EMPL,ارزش افزوده کشاورزی، جنگل‌داری و ماهیگیری به ازای هر شاغل (دلار ثابت آمریکا، پایه 2015),ارزش افزوده کشاورزی، جنگل‌داری و شیلات به ازای هر کارگر,strip-unit: subject-only translation
+wdi__NV.AGR.TOTL.KD,ارزش افزوده کشاورزی، جنگل‌داری و ماهیگیری (رشد سالانه، درصد),ارزش افزوده کشاورزی، جنگل‌داری و شیلات,strip-unit: subject-only translation
+wdi__NV.FSM.TOTL,خدمات واسطه‌گری مالی اندازه‌گیری‌شده به‌طور غیرمستقیم (FISIM) (ریال جاری),خدمات واسطه‌گری مالی اندازه‌گیری‌شده به‌طور غیرمستقیم (FISIM),strip-unit: subject-only translation
+wdi__NV.IND.EMPL,ارزش افزوده صنعت (شامل ساخت‌وساز) به ازای هر شاغل (دلار ثابت آمریکا، پایه 2015),ارزش افزوده صنعت (شامل ساختمان) به ازای هر کارگر,strip-unit: subject-only translation
+wdi__NV.IND.MANF.KD,ارزش افزوده صنایع تولیدی (رشد سالانه، درصد),ارزش افزوده صنایع تولیدی,strip-unit: subject-only translation
+wdi__NV.IND.TOTL.KD,ارزش افزوده صنعت (شامل ساخت‌وساز) (رشد سالانه، درصد),ارزش افزوده صنعت، شامل ساختمان,strip-unit: subject-only translation
+wdi__NV.MNF.TECH.ZS,ارزش افزوده صنایع تولیدی با فناوری متوسط و بالا (درصد از ارزش افزوده صنایع تولیدی),ارزش افزوده صنایع تولیدی با فناوری متوسط و بالا,strip-unit: subject-only translation
+wdi__NV.SRV.EMPL,ارزش افزوده خدمات به ازای هر شاغل (دلار ثابت آمریکا، پایه 2015),ارزش افزوده خدمات به ازای هر کارگر,strip-unit: subject-only translation
+wdi__NV.SRV.TOTL.KD,ارزش افزوده خدمات (رشد سالانه، درصد),ارزش افزوده خدمات,strip-unit: subject-only translation
+wdi__NY.ADJ.AEDU,پس‌انداز تعدیل‌شده: مخارج آموزشی (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، مخارج آموزش,strip-unit: subject-only translation
+wdi__NY.ADJ.DCO2,پس‌انداز تعدیل‌شده: خسارت دی‌اکسید کربن (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، خسارت دی‌اکسید کربن,strip-unit: subject-only translation
+wdi__NY.ADJ.DFOR,پس‌انداز تعدیل‌شده: کاهش خالص جنگل (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، استهلاک خالص جنگل,strip-unit: subject-only translation
+wdi__NY.ADJ.DKAP,پس‌انداز تعدیل‌شده: استهلاک سرمایه ثابت (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، استهلاک سرمایه ثابت,strip-unit: subject-only translation
+wdi__NY.ADJ.DMIN,پس‌انداز تعدیل‌شده: کاهش ذخایر معدنی (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، استهلاک منابع معدنی,strip-unit: subject-only translation
+wdi__NY.ADJ.DNGY,پس‌انداز تعدیل‌شده: کاهش ذخایر انرژی (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، استهلاک انرژی,strip-unit: subject-only translation
+wdi__NY.ADJ.DPEM,پس‌انداز تعدیل‌شده: خسارت انتشار ذرات معلق (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، خسارت ذرات معلق,strip-unit: subject-only translation
+wdi__NY.ADJ.NNAT,پس‌انداز تعدیل‌شده: پس‌انداز خالص ملی (دلار جاری آمریکا),پس‌انداز تعدیل‌شده، پس‌انداز خالص ملی,strip-unit: subject-only translation
+wdi__NY.ADJ.SVNG,پس‌انداز خالص تعدیل‌شده، شامل خسارت انتشار ذرات معلق (دلار جاری آمریکا),پس‌انداز خالص تعدیل‌شده (شامل خسارت ذرات معلق),strip-unit: subject-only translation
+wdi__NY.ADJ.SVNX,پس‌انداز خالص تعدیل‌شده، به استثنای خسارت انتشار ذرات معلق (دلار جاری آمریکا),پس‌انداز خالص تعدیل‌شده (به استثنای خسارت ذرات معلق),strip-unit: subject-only translation
+wdi__NY.EXP.CAPM,صادرات به عنوان ظرفیت واردات (ریال ثابت),ظرفیت واردات ناشی از صادرات,strip-unit: subject-only translation
+wdi__NY.GDP.DEFL.KD,تورم، تعدیل‌کننده تولید ناخالص داخلی (درصد سالانه),تورم بر اساس تعدیل‌کننده تولید ناخالص داخلی,strip-unit: subject-only translation
+wdi__NY.GDP.DEFL.KD.ZG,تورم، تعدیل‌کننده تولید ناخالص داخلی: سری پیوسته (درصد سالانه),تورم بر اساس تعدیل‌کننده تولید ناخالص داخلی (سری پیوسته),strip-unit: subject-only translation
+wdi__NY.GDP.DISC,مغایرت در برآورد هزینه‌ای تولید ناخالص داخلی (ریال جاری),مغایرت در برآورد هزینه‌ای تولید ناخالص داخلی,strip-unit: subject-only translation
+wdi__NY.GDP.FCST,ارزش افزوده ناخالص به قیمت پایه (GVA) (ریال جاری),ارزش افزوده ناخالص به قیمت پایه,strip-unit: subject-only translation
+wdi__NY.GDP.MKTP,تولید ناخالص داخلی (دلار جاری آمریکا),تولید ناخالص داخلی,strip-unit: subject-only translation
+wdi__NY.GDP.MKTP.CN,تولید ناخالص داخلی: سری پیوسته (ریال جاری),تولید ناخالص داخلی (سری پیوسته),strip-unit: subject-only translation
+wdi__NY.GDP.MKTP.KD,رشد تولید ناخالص داخلی (درصد سالانه),رشد تولید ناخالص داخلی,strip-unit: subject-only translation
+wdi__NY.GDP.MKTP.PP,تولید ناخالص داخلی، برابری قدرت خرید (دلار بین‌المللی جاری),تولید ناخالص داخلی (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__NY.GDP.PCAP,تولید ناخالص داخلی سرانه (دلار جاری آمریکا),سرانه تولید ناخالص داخلی,strip-unit: subject-only translation
+wdi__NY.GDP.PCAP.KD,رشد تولید ناخالص داخلی سرانه (درصد سالانه),رشد سرانه تولید ناخالص داخلی,strip-unit: subject-only translation
+wdi__NY.GDP.PCAP.PP,تولید ناخالص داخلی سرانه، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه تولید ناخالص داخلی (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__NY.GDY.TOTL,درآمد ناخالص داخلی (ریال ثابت),درآمد ناخالص داخلی,strip-unit: subject-only translation
+wdi__NY.GNP.ATLS,تولید ناخالص ملی، روش اطلس (دلار جاری آمریکا),درآمد ناخالص ملی (روش اطلس),strip-unit: subject-only translation
+wdi__NY.GNP.MKTP,تولید ناخالص ملی (دلار جاری آمریکا),درآمد ناخالص ملی,strip-unit: subject-only translation
+wdi__NY.GNP.MKTP.CN,تولید ناخالص ملی: سری پیوسته (ریال جاری),درآمد ناخالص ملی (سری پیوسته),strip-unit: subject-only translation
+wdi__NY.GNP.MKTP.KD,رشد تولید ناخالص ملی (درصد سالانه),رشد درآمد ناخالص ملی,strip-unit: subject-only translation
+wdi__NY.GNP.MKTP.PP,تولید ناخالص ملی، برابری قدرت خرید (دلار بین‌المللی جاری),درآمد ناخالص ملی (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__NY.GNP.PCAP,تولید ناخالص ملی سرانه (ریال جاری),سرانه درآمد ناخالص ملی,strip-unit: subject-only translation
+wdi__NY.GNP.PCAP.KD,رشد تولید ناخالص ملی سرانه (درصد سالانه),رشد سرانه درآمد ناخالص ملی,strip-unit: subject-only translation
+wdi__NY.GNP.PCAP.PP,تولید ناخالص ملی سرانه، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه درآمد ناخالص ملی (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__NY.GSR.NFCY,درآمد اولیه خالص (درآمد خالص از خارج) (ریال جاری),درآمد اولیه خالص (درآمد خالص از خارج),strip-unit: subject-only translation
+wdi__NY.TAX.NIND,مالیات منهای یارانه بر محصولات (ریال جاری),مالیات منهای یارانه بر محصولات,strip-unit: subject-only translation
+wdi__NY.TRF.NCTR,درآمد ثانویه خالص (انتقالات جاری خالص از خارج) (ریال جاری),درآمد ثانویه خالص (انتقالات جاری خالص از خارج),strip-unit: subject-only translation
+wdi__NY.TTF.GNFS,تعدیل مبادله تجاری (ریال ثابت),تعدیل شرایط مبادله تجاری,strip-unit: subject-only translation
+wdi__PA.NUS,ضریب تبدیل جایگزین DEC (ریال به ازای هر دلار آمریکا),ضریب تبدیل جایگزین DEC,strip-unit: subject-only translation
+wdi__SE.ADT.1524.LT.FM,نرخ باسوادی جوانان (سنین 15 تا 24 سال)، شاخص برابری جنسیتی (GPI),شاخص برابری جنسیتی نرخ باسوادی جوانان، 15 تا 24 سال,strip-unit: subject-only translation
+wdi__SE.COM,آموزش اجباری، مدت (سال),مدت آموزش اجباری,strip-unit: subject-only translation
+wdi__SE.ENR.PRIM.FM,ثبت‌نام مدرسه، ابتدایی (ناخالص)، شاخص برابری جنسیتی (GPI),شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش ابتدایی,strip-unit: subject-only translation
+wdi__SE.ENR.PRSC.FM,ثبت‌نام مدرسه، ابتدایی و متوسطه (ناخالص)، شاخص برابری جنسیتی (GPI),شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش ابتدایی و متوسطه,strip-unit: subject-only translation
+wdi__SE.ENR.SECO.FM,ثبت‌نام مدرسه، متوسطه (ناخالص)، شاخص برابری جنسیتی (GPI),شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش متوسطه,strip-unit: subject-only translation
+wdi__SE.ENR.TERT.FM,ثبت‌نام مدرسه، عالی (ناخالص)، شاخص برابری جنسیتی (GPI),شاخص برابری جنسیتی ثبت‌نام ناخالص در آموزش عالی,strip-unit: subject-only translation
+wdi__SE.LPV,فقر یادگیری: سهم کودکان در پایان سن ابتدایی با سطح سواد خواندن پایین‌تر از حد نصاب، تعدیل‌شده با کودکان بازمانده از تحصیل (درصد),فقر یادگیری، سهم کودکان پایان دوره ابتدایی زیر حداقل مهارت خواندن، تعدیل‌شده با کودکان بازمانده از تحصیل,strip-unit: subject-only translation
+wdi__SE.LPV.PRIM,کودکان بازمانده از تحصیل در سن ابتدایی (درصد),کودکان بازمانده از تحصیل در سن آموزش ابتدایی,strip-unit: subject-only translation
+wdi__SE.LPV.PRIM.SD,کودکان در سن ابتدایی بازمانده از تحصیل، به تفکیک جنسیت (درصد),کودکان بازمانده از تحصیل در سن آموزش ابتدایی، به تفکیک جنسیت,strip-unit: subject-only translation
+wdi__SE.PRE,آموزش پیش‌دبستانی، مدت (سال),مدت آموزش پیش‌دبستانی,strip-unit: subject-only translation
+wdi__SE.PRE.ENRR,ثبت‌نام در دوره پیش‌دبستانی، به تفکیک جنسیت (درصد ناخالص),ثبت‌نام در آموزش پیش‌دبستانی، به تفکیک جنسیت,strip-unit: subject-only translation
+wdi__SE.SEC.PROG,پیشرفت به مدرسه متوسطه (درصد),گذر به آموزش متوسطه,strip-unit: subject-only translation
+wdi__SE.SEC.PROG.FE,پیشرفت به مدرسه متوسطه، زنان (درصد),گذر به آموزش متوسطه، دختران,strip-unit: subject-only translation
+wdi__SE.SEC.PROG.MA,پیشرفت به مدرسه متوسطه، مردان (درصد),گذر به آموزش متوسطه، پسران,strip-unit: subject-only translation
+wdi__SE.TER,ثبت‌نام مدرسه‌ای، آموزش عالی (درصد ناخالص),ثبت‌نام در آموزش عالی,strip-unit: subject-only translation
+wdi__SE.TER.ENRR,ثبت‌نام در آموزش عالی، به تفکیک جنسیت (درصد ناخالص),ثبت‌نام در آموزش عالی، به تفکیک جنسیت,strip-unit: subject-only translation
+wdi__SG.GEN.PARL,سهم کرسی‌های زنان در پارلمان‌های ملی (درصد),سهم کرسی‌های زنان در پارلمان ملی,strip-unit: subject-only translation
+wdi__SH.DYN,نرخ مرگ‌ومیر کودکان زیر 5 سال (به ازای هر 1000 تولد زنده),نرخ مرگ‌ومیر زیر 5 سال,strip-unit: subject-only translation
+wdi__SH.DYN.AIDS.FE,سهم زنان از جمعیت 15 سال به بالای مبتلا به اچ‌آی‌وی (درصد),سهم زنان از جمعیت 15 سال به بالا مبتلا به اچ‌آی‌وی,strip-unit: subject-only translation
+wdi__SH.DYN.MORT,"نرخ مرگ‌ومیر زیر 5 سال، به تفکیک جنسیت (به ازای هر 1,000 تولد زنده)",نرخ مرگ‌ومیر زیر 5 سال، به تفکیک جنسیت,strip-unit: subject-only translation
+wdi__SH.DYN.NCOM,مرگ‌ومیر ناشی از بیماری‌های قلبی‌عروقی، سرطان، دیابت یا بیماری‌های مزمن تنفسی در سنین دقیق 30 تا 70 سال (درصد),مرگ‌ومیر ناشی از بیماری‌های قلبی‌عروقی، سرطان، دیابت یا بیماری تنفسی مزمن در سنین 30 تا 70 سال,strip-unit: subject-only translation
+wdi__SH.DYN.NCOM.MA,مرگ‌ومیر ناشی از بیماری‌های قلبی‌عروقی، سرطان، دیابت یا بیماری‌های مزمن تنفسی در سنین دقیق 30 تا 70 سال، مردان (درصد),مرگ‌ومیر ناشی از بیماری‌های قلبی‌عروقی، سرطان، دیابت یا بیماری تنفسی مزمن در سنین 30 تا 70 سال، مردان,strip-unit: subject-only translation
+wdi__SH.MED.BEDS,تخت‌های بیمارستانی (به ازای هر 1000 نفر),تخت بیمارستانی,strip-unit: subject-only translation
+wdi__SH.MED.CMHW,کارکنان بهداشت جامعه‌محور (به ازای هر 1000 نفر),کارکنان بهداشت جامعه,strip-unit: subject-only translation
+wdi__SH.MED.NUMW,پرستاران و ماماها (به ازای هر 1000 نفر),پرستاران و ماماها,strip-unit: subject-only translation
+wdi__SH.MED.PHYS,پزشکان (به ازای هر 1000 نفر),پزشکان,strip-unit: subject-only translation
+wdi__SH.MED.SAOP,نیروی کار جراحی متخصص (به ازای هر 100000 نفر جمعیت),نیروی کار متخصص جراحی,strip-unit: subject-only translation
+wdi__SH.MLR.INCD,بروز مالاریا (به ازای هر 1000 نفر جمعیت در معرض خطر),بروز مالاریا,strip-unit: subject-only translation
+wdi__SH.MMR.RISK,خطر مادام‌العمر مرگ مادر (درصد),خطر مادام‌العمر مرگ مادران,strip-unit: subject-only translation
+wdi__SH.PRG,شیوع کم‌خونی در میان زنان باردار (درصد),شیوع کم‌خونی در زنان باردار,strip-unit: subject-only translation
+wdi__SH.SGR.PROC,تعداد اعمال جراحی (به ازای هر 100000 نفر جمعیت),تعداد اعمال جراحی,strip-unit: subject-only translation
+wdi__SH.STA.AIRP,نرخ مرگ‌ومیر ناشی از آلودگی هوای خانگی و محیطی، استانداردشده بر اساس سن (به ازای هر 100000 نفر جمعیت),مرگ‌ومیر ناشی از آلودگی هوای خانگی و محیطی، استانداردشده بر اساس سن,strip-unit: subject-only translation
+wdi__SH.STA.ANVC,زنان باردار دریافت‌کننده مراقبت‌های پیش از زایمان (درصد),زنان باردار دریافت‌کننده مراقبت‌های پیش از زایمان,strip-unit: subject-only translation
+wdi__SH.STA.POIS,نرخ مرگ‌ومیر ناشی از مسمومیت غیرعمدی (به ازای هر 100000 نفر جمعیت),مرگ‌ومیر ناشی از مسمومیت غیرعمد,strip-unit: subject-only translation
+wdi__SH.STA.POIS.P5,"نرخ مرگ‌ومیر ناشی از مسمومیت غیرعمدی، به تفکیک جنسیت (به ازای هر 100,000 نفر جمعیت)",مرگ‌ومیر ناشی از مسمومیت غیرعمد، به تفکیک جنسیت,strip-unit: subject-only translation
+wdi__SH.STA.SUIC,نرخ مرگ‌ومیر ناشی از خودکشی (به ازای هر 100000 نفر جمعیت),نرخ مرگ‌ومیر ناشی از خودکشی,strip-unit: subject-only translation
+wdi__SH.STA.TRAF,مرگ‌ومیر ناشی از سوانح جاده‌ای (به ازای هر 100000 نفر جمعیت),مرگ‌ومیر ناشی از سوانح رانندگی,strip-unit: subject-only translation
+wdi__SH.STA.WASH,نرخ مرگ‌ومیر ناشی از آب ناسالم، بهداشت نامناسب و فقدان بهداشت فردی (به ازای هر 100000 نفر جمعیت),مرگ‌ومیر ناشی از آب ناسالم، بهداشت نامناسب و فقدان بهداشت فردی,strip-unit: subject-only translation
+wdi__SH.TBS,بروز سل (به ازای هر 100000 نفر),بروز سل,strip-unit: subject-only translation
+wdi__SH.VAC.TTNS,نوزادان محافظت‌شده در برابر کزاز (درصد),نوزادان محافظت‌شده در برابر کزاز,strip-unit: subject-only translation
+wdi__SH.XPD.CHEX.PC,سرانه هزینه جاری سلامت (دلار جاری آمریکا),سرانه مخارج جاری سلامت,strip-unit: subject-only translation
+wdi__SH.XPD.CHEX.PP,هزینه جاری سلامت سرانه، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه مخارج جاری سلامت (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__SH.XPD.EHEX.PC,سرانه هزینه سلامت خارجی (دلار جاری آمریکا),سرانه مخارج سلامت تأمین‌شده از خارج,strip-unit: subject-only translation
+wdi__SH.XPD.EHEX.PP,سرانه هزینه سلامت خارجی، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه مخارج سلامت تأمین‌شده از خارج (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__SH.XPD.GHED.PC,هزینه سلامت عمومی دولت داخلی سرانه (دلار جاری آمریکا),سرانه مخارج سلامت دولت عمومی داخلی,strip-unit: subject-only translation
+wdi__SH.XPD.GHED.PP,سرانه هزینه سلامت عمومی دولت داخلی، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه مخارج سلامت دولت عمومی داخلی (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__SH.XPD.OOPC.PC,هزینه پرداخت از جیب سرانه (دلار جاری آمریکا),سرانه مخارج مستقیم از جیب,strip-unit: subject-only translation
+wdi__SH.XPD.OOPC.PP,سرانه هزینه پرداخت از جیب، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه مخارج مستقیم از جیب (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__SH.XPD.PVTD.PC,هزینه سلامت خصوصی داخلی سرانه (دلار جاری آمریکا),سرانه مخارج خصوصی سلامت داخلی,strip-unit: subject-only translation
+wdi__SH.XPD.PVTD.PP,هزینه سلامت خصوصی داخلی سرانه، برابری قدرت خرید (دلار بین‌المللی جاری),سرانه مخارج خصوصی سلامت داخلی (به برابری قدرت خرید),strip-unit: subject-only translation
+wdi__SH_UHC_FH40,سهم جمعیت مواجه با هزینه‌های زیاد (اما غیرفقرزا) پرداخت از جیب برای سلامت (درصد),نسبت جمعیت با مخارج بالای مستقیم سلامت، بدون فقیرسازی,strip-unit: subject-only translation
+wdi__SI.DST,سهم افراد زیر 50 درصد میانه درآمد (درصد),نسبت افراد زیر 50 درصد درآمد میانه,strip-unit: subject-only translation
+wdi__SI.POV.LMIC,شکاف فقر در سطح 4.20 دلار در روز (برابری قدرت خرید 2021) (درصد),شکاف فقر با آستانه 4.20 دلار در روز (برابری قدرت خرید 2021),strip-unit: subject-only translation
+wdi__SI.POV.UMIC,شکاف فقر در سطح 8.30 دلار در روز (برابری قدرت خرید 2021) (درصد),شکاف فقر با آستانه 8.30 دلار در روز (برابری قدرت خرید 2021),strip-unit: subject-only translation
+wdi__SI.SPR.PC40,نرخ رشد سالانه میانگین مصرف یا درآمد واقعی سرانه بر پایه بررسی میدانی، 40 درصد پایین جمعیت (درصد),نرخ رشد سالانه سرانه مصرف یا درآمد واقعی، 40 درصد پایین جمعیت,strip-unit: subject-only translation
+wdi__SI.SPR.PCAP,نرخ رشد سالانه میانگین مصرف یا درآمد واقعی سرانه بر پایه بررسی میدانی، کل جمعیت (درصد),نرخ رشد سالانه سرانه مصرف یا درآمد واقعی، کل جمعیت,strip-unit: subject-only translation
+wdi__SL.EMP.SMGT.FE,سهم زنان از اشتغال در مدیریت ارشد و میانی (درصد),سهم زنان از اشتغال در مدیریت ارشد و میانی,strip-unit: subject-only translation
+wdi__SN.ITK.MSFI,شیوع ناامنی غذایی متوسط یا شدید در جمعیت (درصد),شیوع ناامنی غذایی متوسط یا شدید در جمعیت,strip-unit: subject-only translation
+wdi__SN.ITK.SVFI,شیوع ناامنی غذایی شدید در جمعیت (درصد),شیوع ناامنی غذایی شدید در جمعیت,strip-unit: subject-only translation
+wdi__SP.DYN.AMRT,"نرخ مرگ‌ومیر بزرگسالان، به تفکیک جنسیت (به ازای هر 1,000 بزرگسال)",نرخ مرگ‌ومیر بزرگسالان، به تفکیک جنسیت,strip-unit: subject-only translation
+wdi__SP.DYN.CBRT,نرخ خام تولد (به ازای هر 1000 نفر),نرخ خام موالید,strip-unit: subject-only translation
+wdi__SP.DYN.CDRT,نرخ خام مرگ‌ومیر (به ازای هر 1000 نفر),نرخ خام مرگ‌ومیر,strip-unit: subject-only translation
+wdi__SP.DYN.IMRT,نرخ مرگ‌ومیر نوزادان (به ازای هر 1000 تولد زنده),نرخ مرگ‌ومیر نوزادان,strip-unit: subject-only translation
+wdi__SP.DYN.IMRT.FE,نرخ مرگ‌ومیر نوزادان، دختران (به ازای هر 1000 تولد زنده),نرخ مرگ‌ومیر نوزادان، دختر,strip-unit: subject-only translation
+wdi__SP.DYN.LE00,امید به زندگی در بدو تولد، کل (سال),امید به زندگی در بدو تولد,strip-unit: subject-only translation
+wdi__SP.DYN.LE00.FE,امید به زندگی در بدو تولد، زنان (سال),امید به زندگی در بدو تولد، زنان,strip-unit: subject-only translation
+wdi__SP.DYN.LE00.MA,امید به زندگی در بدو تولد، مردان (سال),امید به زندگی در بدو تولد، مردان,strip-unit: subject-only translation
+wdi__SP.POP.SCIE.RD,پژوهشگران در تحقیق و توسعه (به ازای هر یک میلیون نفر),پژوهشگران تحقیق و توسعه,strip-unit: subject-only translation
+wdi__SP.POP.TECH.RD,فن‌آوران در تحقیق و توسعه (به ازای هر یک میلیون نفر),تکنسین‌های تحقیق و توسعه,strip-unit: subject-only translation
+wdi__SP.REG.BRTH,کامل‌بودن ثبت ولادت (درصد),کامل بودن ثبت ولادت,strip-unit: subject-only translation
+wdi__SP.REG.BRTH.FE,کامل‌بودن ثبت ولادت، دختران (درصد),کامل بودن ثبت ولادت، زنان,strip-unit: subject-only translation
+wdi__SP.REG.BRTH.MA,کامل‌بودن ثبت ولادت، پسران (درصد),کامل بودن ثبت ولادت، مردان,strip-unit: subject-only translation
+wdi__SP.REG.DTHS,کامل‌بودن ثبت مرگ همراه با اطلاعات علت مرگ (درصد),کامل بودن ثبت مرگ همراه با علت فوت,strip-unit: subject-only translation
+wdi__SP.RUR.TOTL,رشد جمعیت روستایی (درصد سالانه),رشد جمعیت روستایی,strip-unit: subject-only translation
+wdi__ST.INT.RCPT,گردشگری بین‌المللی، درآمدها (دلار جاری آمریکا),درآمد گردشگری بین‌المللی,strip-unit: subject-only translation
+wdi__ST.INT.TRNR,گردشگری بین‌المللی، درآمدهای حمل‌ونقل مسافر (دلار جاری آمریکا),درآمد گردشگری بین‌المللی، حمل‌ونقل مسافر,strip-unit: subject-only translation
+wdi__ST.INT.TRNX,گردشگری بین‌المللی، هزینه‌های حمل‌ونقل مسافر (دلار جاری آمریکا),مخارج گردشگری بین‌المللی، حمل‌ونقل مسافر,strip-unit: subject-only translation
+wdi__ST.INT.TVLR,گردشگری بین‌المللی، درآمدهای اقلام سفر (دلار جاری آمریکا),درآمد گردشگری بین‌المللی، اقلام سفر,strip-unit: subject-only translation
+wdi__ST.INT.TVLX,گردشگری بین‌المللی، هزینه‌های اقلام سفر (دلار جاری آمریکا),مخارج گردشگری بین‌المللی، اقلام سفر,strip-unit: subject-only translation
+wdi__ST.INT.XPND,گردشگری بین‌المللی، هزینه‌ها (دلار جاری آمریکا),مخارج گردشگری بین‌المللی,strip-unit: subject-only translation
+wdi__TM.QTY.MRCH.XD,شاخص حجم واردات (2015 = 100),شاخص حجم واردات,strip-unit: subject-only translation
+wdi__TM.TAX.MANF.SM.AR,نرخ تعرفه، اعمال‌شده، میانگین ساده، محصولات صنعتی (درصد),نرخ تعرفه اعمال‌شده، میانگین ساده، محصولات صنعتی,strip-unit: subject-only translation
+wdi__TM.TAX.MANF.SM.FN,نرخ تعرفه، دولت کامله‌الوداد، میانگین ساده، محصولات صنعتی (درصد),نرخ تعرفه دولت کامله‌الوداد، میانگین ساده، محصولات صنعتی,strip-unit: subject-only translation
+wdi__TM.TAX.MANF.WM.AR,نرخ تعرفه، اعمال‌شده، میانگین وزنی، محصولات صنعتی (درصد),نرخ تعرفه اعمال‌شده، میانگین وزنی، محصولات صنعتی,strip-unit: subject-only translation
+wdi__TM.TAX.MANF.WM.FN,نرخ تعرفه، دولت کامله‌الوداد، میانگین وزنی، محصولات صنعتی (درصد),نرخ تعرفه دولت کامله‌الوداد، میانگین وزنی، محصولات صنعتی,strip-unit: subject-only translation
+wdi__TM.TAX.MRCH.SM.AR,نرخ تعرفه، اعمال‌شده، میانگین ساده، همه محصولات (درصد),نرخ تعرفه اعمال‌شده، میانگین ساده، همه محصولات,strip-unit: subject-only translation
+wdi__TM.TAX.MRCH.SM.FN,نرخ تعرفه، دولت کامله‌الوداد، میانگین ساده، همه محصولات (درصد),نرخ تعرفه دولت کامله‌الوداد، میانگین ساده، همه محصولات,strip-unit: subject-only translation
+wdi__TM.TAX.MRCH.WM.AR,نرخ تعرفه، اعمال‌شده، میانگین وزنی، همه محصولات (درصد),نرخ تعرفه اعمال‌شده، میانگین وزنی، همه محصولات,strip-unit: subject-only translation
+wdi__TM.TAX.MRCH.WM.FN,نرخ تعرفه، دولت کامله‌الوداد، میانگین وزنی، همه محصولات (درصد),نرخ تعرفه دولت کامله‌الوداد، میانگین وزنی، همه محصولات,strip-unit: subject-only translation
+wdi__TM.TAX.TCOM.SM.AR,نرخ تعرفه، اعمال‌شده، میانگین ساده، محصولات اولیه (درصد),نرخ تعرفه اعمال‌شده، میانگین ساده، محصولات اولیه,strip-unit: subject-only translation
+wdi__TM.TAX.TCOM.SM.FN,نرخ تعرفه، دولت کامله‌الوداد، میانگین ساده، محصولات اولیه (درصد),نرخ تعرفه دولت کامله‌الوداد، میانگین ساده، محصولات اولیه,strip-unit: subject-only translation
+wdi__TM.TAX.TCOM.WM.AR,نرخ تعرفه، اعمال‌شده، میانگین وزنی، محصولات اولیه (درصد),نرخ تعرفه اعمال‌شده، میانگین وزنی، محصولات اولیه,strip-unit: subject-only translation
+wdi__TM.TAX.TCOM.WM.FN,نرخ تعرفه، دولت کامله‌الوداد، میانگین وزنی، محصولات اولیه (درصد),نرخ تعرفه دولت کامله‌الوداد، میانگین وزنی، محصولات اولیه,strip-unit: subject-only translation
+wdi__TM.UVI.MRCH.XD,شاخص ارزش واحد واردات (2015 = 100),شاخص ارزش واحد وارداتی,strip-unit: subject-only translation
+wdi__TM.VAL.ICTG.ZS,واردات کالاهای فناوری اطلاعات و ارتباطات (درصد از کل واردات کالا),واردات کالاهای فناوری اطلاعات و ارتباطات,strip-unit: subject-only translation
+wdi__TM.VAL.MRCH.CD,واردات کالا (دلار جاری آمریکا),واردات کالا,strip-unit: subject-only translation
+wdi__TM.VAL.MRCH.WL,واردات کالا توسط اقتصاد گزارش‌دهنده (دلار جاری آمریکا),واردات کالا توسط اقتصاد گزارش‌دهنده,strip-unit: subject-only translation
+wdi__TM.VAL.MRCH.XD,شاخص ارزش واردات (2015 = 100),شاخص ارزش واردات,strip-unit: subject-only translation
+wdi__TM.VAL.SERV.CD,واردات خدمات تجاری (دلار جاری آمریکا),واردات خدمات تجاری,strip-unit: subject-only translation
+wdi__TT.PRI.MRCH.XD,شاخص شرایط مبادله کالایی خالص (2015 = 100),شاخص خالص شرایط مبادله تجاری,strip-unit: subject-only translation
+wdi__TX.MNF.TECH.ZS,صادرات با فناوری متوسط و بالا (درصد از صادرات کالاهای ساخته‌شده),صادرات با فناوری متوسط و بالا,strip-unit: subject-only translation
+wdi__TX.QTY.MRCH.XD,شاخص حجم صادرات (2015 = 100),شاخص حجم صادرات,strip-unit: subject-only translation
+wdi__TX.UVI.MRCH.XD,شاخص ارزش واحد صادرات (2015 = 100),شاخص ارزش واحد صادراتی,strip-unit: subject-only translation
+wdi__TX.VAL.MRCH.CD,صادرات کالا (دلار جاری آمریکا),صادرات کالا,strip-unit: subject-only translation
+wdi__TX.VAL.MRCH.WL,صادرات کالا توسط اقتصاد گزارش‌دهنده (دلار جاری آمریکا),صادرات کالا توسط اقتصاد گزارش‌دهنده,strip-unit: subject-only translation
+wdi__TX.VAL.MRCH.XD,شاخص ارزش صادرات (2015 = 100),شاخص ارزش صادرات,strip-unit: subject-only translation
+wdi__TX.VAL.SERV.CD,صادرات خدمات تجاری (دلار جاری آمریکا),صادرات خدمات تجاری,strip-unit: subject-only translation
+wdi__TX.VAL.TECH,صادرات با فناوری بالا (دلار جاری آمریکا),صادرات با فناوری برتر,strip-unit: subject-only translation
+wdi__VC.IHR.PSRC,قتل‌های عمدی (به ازای هر 100000 نفر),قتل عمد,strip-unit: subject-only translation

@@ -1,0 +1,36 @@
+{
+  "dataset_id": "salehi-isfahani-heis-analysis-tyranny-of-numbers-2024-2025",
+  "title": "Djavad Salehi-Isfahani analysis of Iran's SCI Household Expenditure & Income Survey (HEIS), 1402/1403 (2023/24, 2024/25) rounds",
+  "source_org": "Djavad Salehi-Isfahani (Professor of Economics, Virginia Tech; blog 'Tyranny of numbers'), analyzing primary microdata from the Statistical Centre of Iran (SCI)",
+  "source_url": "https://djavadsalehi.com/",
+  "download_url": "see per-file download_url",
+  "retrieved_at_utc": "2026-07-14T12:05:00Z",
+  "retrieved_by": "claude (this session, iran-monetary-fiscal-household-enrich)",
+  "files": [
+    {
+      "name": "post_2025-09-20_modest-gains-2024-2025.html",
+      "original_name": null,
+      "sha256": "e64e9baf59a424052147a17954cffb9cc5e5b362bc9d301d6af58e73eae2d6b1",
+      "bytes": 148353,
+      "download_url": "https://djavadsalehi.com/2025/09/20/household-survey-data-reveal-modest-gains-in-irans-living-standards-for-2024-2025/",
+      "post_title": "Household Survey Data Reveal Modest Gains in Iran's Living Standards for 2024/2025"
+    },
+    {
+      "name": "post_2024-10-22_rising-living-standards.html",
+      "original_name": null,
+      "sha256": "da729f5b79a7131a8fe1b047917c8cdff219532cf0f20221dc215b1107a5ab86",
+      "bytes": 133318,
+      "download_url": "https://djavadsalehi.com/2024/10/22/new-data-reveal-rising-living-standards-in-iran/",
+      "post_title": "New Data Reveal Rising Living Standards in Iran"
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "SH1402-1403 (2023/24, 2024/25) HEIS survey rounds analyzed in these two posts; the author's underlying dataset/figures reference back to 1984 but only the 2023-2025 figures were extracted this pass",
+  "frequency": "annual (survey round)",
+  "topics": ["household expenditure", "household income", "poverty rate", "Gini coefficient",
+             "cash transfers", "real per-capita expenditure", "urban-rural inequality", "HEIS"],
+  "units": "mixed -- percent growth rates, percent poverty rate, Gini index (0-1), rials/USD-PPP for cash transfers; see data.csv for per-row units",
+  "license_terms": "Blog content, publicly readable; treated as an independent academic secondary source analyzing SCI's own primary HEIS microdata -- author is a named, credentialed economist (Virginia Tech), not an anonymous or advocacy outlet, and is NOT on this project's exclusion list (MEK/NCRI, IRGC-propaganda, Tudeh, Fadaian)",
+  "notes": "Found via WebSearch while hunting for SCI HEIS household-expenditure coverage beyond this project's existing 2001-2020 extraction (data/raw/sci-amar/household-expenditure-detail-2001-2020/), which was the most recent HEIS-derived data already in the project. amar.org.ir itself is geo-blocked from this network for both direct and Wayback-Machine access on every attempt logged in this repo (see download log) -- this author's published analysis of SCI's own primary microdata is the best available route to SH1402-1403 (2023-2025) household-economic figures found this pass. IMPORTANT CAVEAT, spelled out explicitly per this project's 'flag rather than silently treat as primary' convention: these are the AUTHOR's derived statistics (regional per-capita-expenditure growth rates, a poverty rate computed against the author's own chosen poverty line -- Iran has no official poverty line -- and a Gini coefficient), not verbatim SCI-published headline figures; do not present as if SCI itself published these exact numbers. Spot-checked 2 figures (poverty rate 17.5%->16.6%, cash transfer 9,000,000 rials/month) directly against the raw saved HTML text before transcribing (both confirmed present verbatim) rather than trusting a first-pass extraction blindly.",
+  "failures": []
+}

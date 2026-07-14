@@ -1,0 +1,30 @@
+{
+  "dataset_id": "jhu-iae-haver-iran-monetary-cbi-balance-sheet-quarterly-1998-2016",
+  "title": "Iran Central Bank Balance Sheet / Monetary & Credit Aggregates, Quarterly (1998 Q4-2016 Q2)",
+  "source_org": "Central Bank of the Islamic Republic of Iran (data), via Haver Analytics database, compiled/hosted by Johns Hopkins University Institute for Applied Economics, Global Health, and the Study of Business Enterprise (Steve H. Hanke's institute)",
+  "source_url": "https://iae.krieger.jhu.edu/",
+  "download_url": "https://sites.krieger.jhu.edu/iae/files/2017/04/Iran-central-bank-balance-sheet.xlsx",
+  "retrieved_at_utc": "2026-07-14T11:10:00Z",
+  "retrieved_by": "claude (this session, iran-monetary-fiscal-household-enrich)",
+  "files": [
+    {
+      "name": "iran_central_bank_balance_sheet_1998q4_2016q2.xlsx",
+      "original_name": "Iran-central-bank-balance-sheet.xlsx",
+      "sha256": "2f9e2aa9ab82fb82bceba2aa2456c2a37c0824acc804b5e92cbfabbeb15fa85d",
+      "bytes": 42244
+    }
+  ],
+  "countries": ["IRN"],
+  "time_coverage": "1998-Q4 to 2016-Q2 (quarterly; a few leading quarters 1998-Q1..Q3 are blank in the source, not fabricated)",
+  "frequency": "quarterly",
+  "topics": [
+    "money supply", "M1", "M2", "monetary base", "quasi-money", "currency in circulation",
+    "demand deposits", "banking system net foreign assets", "central bank claims on government",
+    "banking system claims on private sector", "government deposits with banking system",
+    "notes and coins issued", "banks legal deposits at central bank"
+  ],
+  "units": "Billions of Rials, not seasonally adjusted, end of period (NSA, EOP) per the source's own column headers",
+  "license_terms": "Haver Analytics-licensed data as re-published in a JHU IAE working file; underlying data is Central Bank of Iran official statistics (a primary Iranian-government source, accessed here via an academic re-host because cbi.ir itself and its own time-series database tsd.cbi.ir are unreachable from this network -- see download log). Treated per this project's 'Wayback/re-host of an official source counts as primary-via-archive' convention.",
+  "notes": "Retrieved via Wayback Machine (https://web.archive.org/web/20240727063956id_/https://sites.krieger.jhu.edu/iae/files/2017/04/Iran-central-bank-balance-sheet.xlsx) because a direct curl to the live sites.krieger.jhu.edu URL returned HTTP 403 (likely a bot-protection block, not a geo-block -- unlike Iran's own .ir sites). File contains 2 relevant sheets: 'Iran data structure' (a Haver-mnemonic legend/hierarchy diagram, not itself data) and 'Iran monetary data' (26 columns of quarterly monetary/credit aggregates, 82 rows incl. header block). A 3rd sheet 'Pakistan data' is out of scope for this project (not one of the tracked comparator countries) and was not extracted. Column headers use Haver Analytics mnemonic codes (e.g. Q429FM1@EMERGEMA for Iran M1) in row 4, human-readable descriptions in row 5 (.DESC), explicit '.LSOURCE: Central Bank of the Islamic Republic of Iran' attribution in row 6 for every single column -- confirming this is genuinely CBI-sourced data, not a third-party estimate. Provides QUARTERLY granularity and a much broader indicator set (26 metrics: monetary base, M1/M2 and their components, banking-system net foreign assets split central-bank-vs-banks, claims on public/private sector split commercial-vs-specialized-banks, central bank claims on government/public corporations, government/public-corp deposits with the banking system, notes-and-coins issued vs held at banks, banks' legal/demand deposits at the central bank) than the annual CBI Annual Review series already in this project (data/processed/cbi_annual_review_series/, which only captures Liquidity/M2 and Monetary Base at annual granularity) -- this is a genuine depth addition for the overlapping 1998-2016 window, not a duplicate.",
+  "failures": []
+}

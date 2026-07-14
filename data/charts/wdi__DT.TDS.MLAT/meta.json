@@ -30,5 +30,5 @@
     "note": "Real variant computed by this project (not WDI-native) using each country's own FX rate + CPI, base year 2015. Iran: parallel/black-market rate for 1979-present. Venezuela/Argentina: parallel/black-market rate for their own documented official-vs-parallel divergence eras. All other countries: WDI official PA.NUS.FCRF (no known equivalent divergence). See docs/bookkeeping.md and data/processed/fx_cpi_lookup_<iso3>.json."
   },
   "category_fa": "بدهی خارجی",
-  "title_fa": "بازپرداخت بدهی چندجانبه (TDS، دلار جاری آمریکا)"
+  "title_fa": "بازپرداخت بدهی چندجانبه"
 }
