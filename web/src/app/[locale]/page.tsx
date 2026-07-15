@@ -71,7 +71,7 @@ export default async function HomePage({
             <ScrambleText text={t.eyebrow} duration={900} />
           </p>
           <h1 className="mt-4 text-4xl font-semibold tracking-tight sm:text-6xl">
-            {locale === "fa" ? "ایران در داده‌ها" : "Iran in Data"}
+            {locale === "fa" ? "داده‌های اقتصادی ایران" : "Iran in Data"}
           </h1>
           <p className="mt-3 text-lg text-muted-foreground sm:text-xl">
             {t.tagline}

@@ -19,7 +19,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const fa = locale === "fa";
-  const siteName = fa ? "ایران در داده‌ها" : "Iran in Data";
+  const siteName = fa ? "داده‌های اقتصادی ایران" : "Iran in Data";
   return {
     title: { default: siteName, template: `%s · ${siteName}` },
     description: fa
