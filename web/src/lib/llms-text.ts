@@ -1,7 +1,7 @@
 import { getCatalog, getChartEntry } from "@/lib/data/catalog";
 import { locales } from "@/lib/i18n/config";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://iranindata.org";
 
 const FEATURED_IDS = [
   "wdi__NY.GDP.MKTP",

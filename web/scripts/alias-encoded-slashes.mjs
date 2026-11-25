@@ -3,9 +3,10 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 // One chart id contains a slash ("Swine / pigs"). Static export writes that
-// segment with a literal %2F in the filename. Some hosts decode %2F into a
-// directory separator before the file lookup. Copy those outputs onto the
-// decoded path so both lookups hit the same bytes. URLs stay the same.
+// segment with a literal %2F in the filename, and Vercel does not serve that
+// filename at the sitemap's encoded URL. Copy each of those outputs to a
+// single safe segment, faostat__Swine_pigs__production. vercel.json rewrites
+// the original URL onto that file. The public URL does not change.
 const out = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../out");
 
 function walk(dir) {
@@ -25,7 +26,10 @@ if (!fs.existsSync(out)) {
 
 let copied = 0;
 for (const src of walk(out)) {
-  const dest = src.replaceAll("%2F", "/");
+  // "Swine / pigs" is written as "Swine %2F pigs". A safe single segment
+  // (no slash, space, or percent) is what the CDN rewrite below serves
+  // for the original encoded URL.
+  const dest = src.replaceAll(" %2F ", "_").replaceAll("%2F", "_");
   if (dest === src || fs.existsSync(dest)) continue;
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   fs.cpSync(src, dest, { recursive: true });
