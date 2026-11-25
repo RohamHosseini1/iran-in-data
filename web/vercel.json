@@ -1,0 +1,85 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/", "destination": "/en", "permanent": false },
+    { "source": "/charts", "destination": "/en/charts", "permanent": false },
+    {
+      "source": "/charts/:chartId",
+      "destination": "/en/charts/:chartId",
+      "permanent": false
+    },
+    {
+      "source": "/attributions",
+      "destination": "/en/attributions",
+      "permanent": false
+    }
+  ],
+  "headers": [
+    {
+      "source": "/api/catalog",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, s-maxage=31536000"
+        }
+      ]
+    },
+    {
+      "source": "/api/search-index",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, s-maxage=31536000"
+        }
+      ]
+    },
+    {
+      "source": "/api/charts/:chartId/csv",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/csv; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, s-maxage=31536000"
+        }
+      ]
+    },
+    {
+      "source": "/llms.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, s-maxage=31536000"
+        }
+      ]
+    },
+    {
+      "source": "/llms-full.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, s-maxage=31536000"
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,9 @@ import { getCatalog, getCategories } from "@/lib/data/catalog";
 import { isLocale, type Locale } from "@/lib/i18n/config";
 import { ChartBrowser } from "@/components/browse/chart-browser";
 
+export const dynamic = "force-static";
+export const revalidate = false;
+
 const STRINGS = {
   en: {
     title: "Chart Directory",

@@ -3,6 +3,9 @@ import type { MetadataRoute } from "next";
 import { getCatalog } from "@/lib/data/catalog";
 import { locales } from "@/lib/i18n/config";
 
+export const dynamic = "force-static";
+export const revalidate = false;
+
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 
 export default function sitemap(): MetadataRoute.Sitemap {

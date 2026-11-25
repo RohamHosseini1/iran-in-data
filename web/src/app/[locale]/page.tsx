@@ -35,6 +35,9 @@ const STRINGS = {
   },
 };
 
+export const dynamic = "force-static";
+export const revalidate = false;
+
 const FEATURED_IDS = [
   "wdi__NY.GDP.MKTP",
   "fx__official_vs_parallel_gap_irn",

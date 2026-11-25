@@ -26,6 +26,10 @@ export function generateStaticParams() {
   );
 }
 
+export const dynamic = "force-static";
+export const dynamicParams = false;
+export const revalidate = false;
+
 interface PageProps {
   params: Promise<{ locale: string; chartId: string }>;
 }
