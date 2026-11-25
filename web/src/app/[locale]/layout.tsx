@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { Analytics } from "@vercel/analytics/next";
 
 import "../globals.css";
 import { redditMono, switzer, yekanBakh } from "@/lib/fonts";
@@ -56,6 +57,7 @@ export default async function LocaleLayout({
           <main className="flex-1">{children}</main>
           <SiteFooter locale={locale as Locale} />
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
