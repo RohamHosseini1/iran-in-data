@@ -4,6 +4,8 @@ import path from "node:path";
 import { getCatalog } from "@/lib/data/catalog";
 
 export const dynamic = "force-static";
+export const dynamicParams = false;
+export const revalidate = false;
 
 export function generateStaticParams() {
   return getCatalog().map((e) => ({ chartId: e.chart_id }));
@@ -34,7 +36,7 @@ export async function GET(
     headers: {
       "content-type": "text/csv; charset=utf-8",
       "content-disposition": `attachment; filename="${entry.chart_id.replace(/[^\w.-]+/g, "_")}.csv"`,
-      "cache-control": "public, max-age=3600",
+      "cache-control": "public, max-age=3600, s-maxage=31536000",
     },
   });
 }

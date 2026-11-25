@@ -3,6 +3,9 @@ import { notFound } from "next/navigation";
 
 import { isLocale, type Locale } from "@/lib/i18n/config";
 
+export const dynamic = "force-static";
+export const revalidate = false;
+
 const STRINGS = {
   en: {
     title: "License & Attribution",

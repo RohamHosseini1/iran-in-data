@@ -3,7 +3,10 @@ import type { MetadataRoute } from "next";
 import { getCatalog } from "@/lib/data/catalog";
 import { locales } from "@/lib/i18n/config";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+export const dynamic = "force-static";
+export const revalidate = false;
+
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://iranindata.org";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
