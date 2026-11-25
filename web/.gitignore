@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Slash-chart aliases staged by scripts/alias-encoded-slashes.mjs
+# so the second next build includes them in the static output.
+/public/en/charts/faostat__Swine*
+/public/fa/charts/faostat__Swine*
+/public/api/charts/faostat__Swine*

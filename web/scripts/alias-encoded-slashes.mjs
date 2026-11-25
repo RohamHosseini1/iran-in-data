@@ -6,20 +6,13 @@ import { fileURLToPath } from "node:url";
 // with a literal "%2F" in the filename. The sitemap URL encodes the slash
 // once (%2F), and Vercel does not map that request onto the "%2F" filename.
 //
-// Vercel's Next builder copies `out/` into its deploy directory during
-// `next build`, before this script runs. Copies that only land in `out/`
-// never ship. Write the alias into every static root that already exists,
-// including the builder output.
+// Vercel's Next builder snapshots `out/` during `next build`. Files added
+// afterwards are not deployed. This script copies the aliases into `public/`
+// and the build command runs `next build` a second time so they are part of
+// that snapshot. The public URL stays the encoded sitemap URL.
 const webRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-
-function existingRoots() {
-  const candidates = [
-    path.join(webRoot, "out"),
-    path.join(webRoot, ".vercel", "output", "static"),
-    "/vercel/output/static",
-  ];
-  return candidates.filter((dir) => fs.existsSync(dir));
-}
+const outDir = path.join(webRoot, "out");
+const publicDir = path.join(webRoot, "public");
 
 function walk(dir, found = []) {
   for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -30,34 +23,24 @@ function walk(dir, found = []) {
   return found;
 }
 
-function safePath(src, root) {
-  const rel = path.relative(root, src);
-  return path.join(root, rel.replaceAll(" %2F ", "_").replaceAll("%2F", "_"));
-}
-
-// "Swine / pigs" decoded into a directory separator, which is what a host
-// does when it turns %2F into a slash before the file lookup.
-function decodedPath(src, root) {
-  const rel = path.relative(root, src);
-  return path.join(root, rel.replaceAll("%2F", "/"));
-}
-
-const roots = existingRoots();
-if (roots.length === 0) {
-  console.error("alias-encoded-slashes: no static output directory found");
+if (!fs.existsSync(outDir)) {
+  console.error("alias-encoded-slashes: out/ is missing, run next build first");
   process.exit(1);
 }
 
 let copied = 0;
-for (const root of roots) {
-  console.log(`alias-encoded-slashes: scanning ${root}`);
-  for (const src of walk(root)) {
-    for (const dest of [safePath(src, root), decodedPath(src, root)]) {
-      if (dest === src || fs.existsSync(dest)) continue;
-      fs.mkdirSync(path.dirname(dest), { recursive: true });
-      fs.cpSync(src, dest, { recursive: true });
-      copied += 1;
-    }
+for (const src of walk(outDir)) {
+  const rel = path.relative(outDir, src);
+  for (const relDest of [
+    rel.replaceAll(" %2F ", "_").replaceAll("%2F", "_"),
+    rel.replaceAll("%2F", "/"),
+  ]) {
+    if (relDest === rel) continue;
+    const dest = path.join(publicDir, relDest);
+    if (fs.existsSync(dest)) continue;
+    fs.mkdirSync(path.dirname(dest), { recursive: true });
+    fs.cpSync(src, dest, { recursive: true });
+    copied += 1;
   }
 }
-console.log(`alias-encoded-slashes: copied ${copied} path(s)`);
+console.log(`alias-encoded-slashes: staged ${copied} path(s) into public/`);
